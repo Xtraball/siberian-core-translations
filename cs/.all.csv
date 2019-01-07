@@ -1,0 +1,1367 @@
+"%s - Your new password";"%s - Vaše nové heslo"
+"A request to reset your password has been made to log in to your administration panel.";"Žádost o resetování hesla pro přihlášení do administračního panelu byla provedena."
+"Admin successfully deleted";"Správce úspěšně smazán"
+"An error occurred while saving. The country is not valid.";"Při ukládání došlo k chybě. Země není platná."
+"Are you sure you want to delete this application?";"Jste si jisti, že chcete smazat tuto aplikaci?"
+"Can add pages";"Uživatel může přidávat stránky"
+"Change my password";"Změnit heslo"
+"Confirm your password";"Potvrďte heslo"
+"Create a new application";"Vytvořit novou aplikaci"
+"Create a new user";"Vytvořit nového uživatele"
+"Created At";Vytvořeno
+"Created at %s";"Vytvořeno %s"
+"Do not hesitate to give us your feedback by sharing your needs:";"Neváhejte nám zaslat Váš názor či žádost o radu:"
+"Edit the account ""%s""";"Upravit účet ""%s"""
+"Edit the user %s";"Upravit uživatele %s"
+Enjoy!;"S pozdravem"
+"Find some advices here:";"Zde najdete užitečné rady:"
+"Here are your credentials, keep them preciously:";"Zde jsou Vaše přihlašovací údaje:"
+"List of admin accounts";"Seznam admin účtů"
+"List of my accounts";"Seznam mých účtů"
+"List of your users";"Seznam uživatelů"
+"Log-in As";"Přihlásit jako uživatel"
+"Manage access";"Správa přístupu"
+"My Applications";"Moje aplikace"
+"My information";"Můj účet"
+"Need some help?";"Potřebujete pomoc?"
+"Please enter a valid email address.";"Zadejte prosím platnou e-mailovou adresu."
+"Please, enter an application name";"Prosím, zadejte název aplikace"
+"Ready to create your own apps?";"Jste připraveni vytvořit si vlasní mobilní aplikaci?"
+"Sign up";"Zaregistrujte se"
+"Thanks for choosing us!";"VÁŠ ÚČET BYL VYTVOŘEN! Děkujeme, že jste si vybrali unikátní platformu pro výrobu mobilních aplikací od společnosti apptime.cz!"
+"The Support Team";"Tým apptime.cz"
+"The password and the confirmation does not match.";"Heslo a potvrzení hesla se neshodují!"
+"The password must be at least 6 characters.";"Heslo musí být alespoň 6 znaků"
+"We are sorry but this email address is already used.";"Je nám líto, ale tato e-mailová adresa je již používána."
+Welcome!;"Vítejte v apptime.cz!"
+"You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes.";"Naše platforma se Vám bude opravdu líbit! Díky velkému množství funkcí/modulů lze vytvořit úžasné mobilní aplikace pro každý druh podnikání.  "
+"You can't delete the main account";"Hlavní účet nelze odstranit"
+"You don't have any users yet";"Zatím nemáte žádné uživatele"
+"Your credentials";"Vaše přihlašovací údaje"
+"Your login:";"Váš přihlašovací email:"
+"Your password:";"Vaše heslo:"
+"﻿%s - Your new password";"%s - Vaše nové heslo"
+"API Keys";"API klíče"
+"Api Keys";"API klíče"
+"Api Keys successfully saved";"API klíč úspěšně uložen"
+"﻿API Keys";"API klíče"
+"1. Download the app previewer:";"1. Stáhněte si testovací prohlížeč:"
+"2. Open the app and login";"2. Otevřete aplikaci a přihlašte se:"
+"<b>File type:</b> %s";"<b>Typ souboru:</b>%s"
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Klikněte ZDE</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span> k přidání položky.</span>"
+Activated;Aktivováno
+"Add a new icon";"Přidat novou ikonu"
+"Add pages";"Přidat stránku (modul)"
+"Additional options";"Další možnosti"
+"An error occured while copying your app icon. Please check the icon, try to send it again and try again.";"Při kopírování ikony došlo k chybě. Prosím zkontrolujte ikonu a zkuste to znovu."
+"An error occurred during the generation of your QRCode. Please try again later.";"Při vytváření QR kódu došlo k chybě. Zkuste to prosím později."
+"An error occurred while adding the option";"Při přidávání došlo k chybě"
+"An error occurred while changing your layout.";"Při změně rozvržení došlo k chybě"
+"An error occurred while deleting the option";"Při mazání došlo k chybě"
+"An error occurred while deleting your picture";"Při mazání obrázku došlo k chybě"
+"An error occurred while editing file (%s).";"Při editaci soubor (%s) došlo k chybě"
+"An error occurred while loading";"Při načítání došlo k chybě"
+"An error occurred while saving the application. Please try again later.";"Při ukládání aplikace došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your colors.";"Při ukládání barev došlo k chybě"
+"An error occurred while saving your page name.";"Při ukládání názevu stránky došlo k chybě"
+"An error occurred while saving. The selected icon is not valid.";"Při ukládání došlo k chybě. Zvolená ikona není platná"
+"An error occurred while sorting your pages. Please try again later.";"Při řazení Vašich stránek došlo k chybě. Zkuste to prosím později"
+Analytics;Statistiky
+"Android APK Generation";"Android APK generátor"
+"Android Version";"Verze pro Android"
+"App Store Icon";"Ikona na App Store"
+"Apple's Information";"Informace o společnosti Apple"
+"Application name";"Název aplikace"
+"Are you sure you want to remove this application?";"Jste si jisti, že chcete odstranit tuto aplikaci?"
+"At least 200 characters in the description";"V popisu je třeba zadat nejméně 200 znaků!"
+"At least, 4 pages in the application";"Je třeba vytvořit alespoň 4 záložky (stránky)"
+Audio;Hudba
+"Average by customer";Průměr
+Book;Rezervovat
+"Bundle Id";"Bundle Id"
+Business;Business
+"Buy one, get one!";"1+1 zdrama"
+Catalogs;Katalog
+Certificate;Certifikát
+"Change your";Změňit
+"Change your template";"Změnit šablonu"
+"Change your<br /><span>picture</span>";Změňit<br/><span>obrázek</span>
+"Checking CNAME configuration:";"Kontrola CNAME konfigurace:"
+"Choose a <br /><span class=""bold"">picture</span>";"Vyberte <br/> <span class = ""bold"">obrázek</span>"
+"Choose a country";"Zvolte zemi"
+"Choose a font family";"Vyberte si rodinu písma"
+"Choose a template to customize";"Vyberte šablonu k úpravě"
+"Choose your colors";"Zvolte si barvy aplikace"
+"Choose your country";"Vyberte svou zemi"
+"Choose your design";"Vyberte si design"
+"Choose your font style";"Vyberte si styl písma"
+"Choose your homepage image";"Vyberte obrázek na pozadí Hlavní stránky"
+"Choose your icons color";"Vyberte si barvu ikony"
+"Choose your layout";"Vyberte si styl uspořádání záložek"
+"Choose your template";"Vyberte si šablonu (pozadí jde poté změnit)"
+"Click here to download the source code:";"Klikněte zde pro stažení zdrojového kódu:"
+"Click here to send your certificate";"Klikněte zde pro zaslání certifikátu"
+Colors;Barvy
+"Dashboard icon";"Dashboard ikona"
+Deactivated;Neaktivní
+"Delete this page?";"Smazat tuto stránku?"
+Design;Design
+"Developer Accounts";"Účet vývojáře"
+"Device Information";"Informace o zařízení"
+"Discount zone description. Here your clients will be able to see the details of each discount";"Popis slevy. Zde Vaši klienti mohu vidět podrobnosti o každé slevě."
+Domain;Doména
+"Domain name";"Název domény"
+Download;Stáhnout
+"Download our app previewer";"Stáhněte si testovací prohlížeč aplikace"
+"Drop your certificate here";"Vložte certifikát"
+"Edit my";"Upravit "
+"Edit the application ""%s""";"Upravit aplikaci ""%s"""
+Editor;Editor
+Education;Vzdělání
+Entertainment;Zábava
+"Extension not allowed, '%s' only";"Rozšíření není povoleno, pouze '%s'"
+Features;Funkce
+Finance;Finance
+"Food & Drink";"Jídlo a pití"
+"Fred W.";"Marek S."
+Games;Hry
+"General Information";"Všeobecné informace"
+"General information";"Všeobecné informace"
+"Global visits";"Počet návštěv"
+"Google Play Icon";"Ikona pro Google Play"
+"Google's Information";"Informace o společnosti Google"
+"Health & Fitness";"Zdraví a fitness"
+"Here is our latest creation. What do you think?";"Tady je náš poslední výtvor… Co si myslíte?"
+"Homepage preview";"Náhled na Hlavní stránku"
+"I don't have a Google developer account and I want to create one";"Nemám vývojářský účet Google, ale chci si ho vytvořit. Pod odkazem níže si můžete účet založit (cena - 25 EUR)"
+"I don't have an Apple developer account and I want to create one";"Nemám vývojářský účet Apple, ale chci si ho vytvořit. Pod odkazem níže si můžete účet založit (cena - 99 dolarů za rok!)"
+"I have an Apple developer account";"Mám vývojářský účet Apple. Vypublikujte mi aplikaci pod tímto účtem"
+"I have an Google developer account";"Mám vývojářský účet Google. Vypublikujte mi aplikaci pod tímto účtem"
+"I let you publish my application under your Apple developer account";"VYPUBLIKUJTE MI PROSÍM MOJI APLIKACI POD VAŠÍM VÝVOJÁŘSKÝM ÚČTEM"
+"I let you publish my application under your Google developer account";"VYPUBLIKUJTE MI PROSÍM MOJI APLIKACI POD VAŠÍM VÝVOJÁŘSKÝM ÚČTEM"
+Icons;Ikony
+Id;ID
+"If you validate, your app's colors and background image will be replaced";"POZOR!!! Pokud změnu vzoru schválíte, budou Vaše DŘÍVE VYBRANÉ BARVY A STYL MENU ZMĚNĚNY!!!"
+"Installed application";"Nainstalovaná aplikace"
+"Key Password";"Key Password"
+Keywords;"Klíčová slova"
+"Last name:";Příjmení:
+"Library icons";"Ikony knihovny"
+Lifestyle;"Životní styl"
+"List of my applications";"Seznam aplikací"
+"List of your applications";"Seznam aplikací"
+Loading;Nahrávám
+"Lock the entire application";"Zamknout celou aplikaci"
+"Love it <3";"Nádhera!!! :-)"
+Main;Hlavní
+"Manage icons";"Správce ikon"
+Media;Media
+Medical;Zdravotnictví
+"Missing Information";"Chybějící informace"
+"Mobile Source Codes";"Mobilní Zdrojové kódy"
+"Mobile source codes";"Mobilní Zdrojové kódy"
+"Mobile website information";"Informace o mobilním webu"
+"My QRCode";"Můj QR kód"
+"My application in figures";"Vaše aplikace v číslech"
+Navigation;Navigace
+News;Zprávy
+"One free coffee";"Jedna káva zdarma"
+"Or go on your store<br />and look for ""Apps Company Previewer""";"Nebo otevřete Váš obchod s aplikacemi (iTunes store, Google Play)<br />a vyhledejte ""Apps Company Previewer"""
+"Page name:";"Název stránky:"
+"Percentage of returning customers";"Procento vracejících se zákazníků"
+"Photo & Video";"Foto a Video"
+"Please enter a correct URL for the %s store";"Prosím, zadejte správné URL pro %s obchod"
+"Please enter a subdomain.";"Prosím, zadejte subdoménu."
+"Please enter a valid URL";"Zadejte prosím platnou URL"
+"Please enter a valid address";"Zadejte prosím platnou adresu"
+"Please enter a valid mobile website address.";"Zadejte prosím platnou adresu."
+Preview;Náhled
+Productivity;Produktivita
+Promote;Marketing
+Publication;Vypublikovat
+"Publish the application";"Vypublikovat aplikaci"
+"Publish under our account";"Vypublikovat pod naším účtem"
+"Ready ? Publish my app!";"HOTOVO - VYPUBLIKOVAT!"
+"Recommanded size:";"Doporučená velikost:"
+Reference;Reference
+"Remove this page from this folder?";"Odstranit tuto stránku z této složky?"
+"Scan this QR Code";"Naskenujte QR kód"
+"Scan this QR Code:";"Naskenujte QR kód"
+"Secondary category";"Sekundární kategorie"
+"Secondary category<br />(Optional)";"Sekundární kategorie<br/>(volitelné)"
+"Send here your iOS certificate to enable the push notifications for this application.";"Zde vložte certifikát iOS k povolení Push oznámení pro tuto aplikaci."
+"Send you .pem certificate";"Zaslat .pem certifikát"
+"Show the applications waiting for publication only.";"Zobrazit pouze aplikace čekající na schválení"
+"Social Networking";"Sociální sítě"
+Sports;Sport
+"Startup image";"Úvodní obrázek (Splashscreen)"
+Status;Status
+"Store Password";"Store Password"
+"Store URL";"Store URL"
+"Stores Info";"Stores Info"
+"The Bundle Id is required";"Je požadován Bundle Id"
+"The QR Code is not available at this moment";"QR kód není v tuto chvíli k dispozici"
+"The application has been successfully saved";"Aplikace byla úspěšně uložena"
+"The application name";"Název aplikace"
+"The application's name cannot start with a number";"Název aplikace se nesmí začínat číslem"
+"The description";"Popis aplikace"
+"The description must be at least 200 characters";"Popis musí být alespoň 200 znaků"
+"The desktop icon";"Ikona aplikace"
+"The entered bundle id is incorrect, it should be like: com.siberiancms.app";"Zadaný bundle_ID není správný, měl by mít formát podobný tomuto: cz.apptime.app"
+"The field is required";"Povinné pole"
+"The file has been successfully uploaded";"Soubor byl úspěšně nahrán"
+"The following information are needed to download the source codes:<br />";"Následující informace jsou potřebné ke stažení zdrojových kódů: <br/>"
+"The homepage image";"Obrázek na Hlavní stránku"
+"The key cannot be empty.";"Klíč nemůže zůstat prázdný."
+"The key is already used by another application.";"Klíč je již používán jinou aplikací."
+"The keywords";"Klíčová slova"
+"The main category";"Hlavní kategorie"
+"The startup image";"Úvodní obrázek (Splashscreen)"
+"This application does not exist";"Tato aplikace neexistuje"
+"This application is visible on the front";"Tato aplikace je vidět v administraci"
+"This key is already used by system features.";"Tento klíč je jíž používán systémovými funkcemi"
+"This option enables you to set the currency used in your app";"Tato volba umožňuje nastavit měnu používanou ve Vaší aplikaci"
+"This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login.";"Tato stránka se zobrazí uživatelům, aby se mohli přihlásit a spravovat svůj účet. Tato stránka je automaticky přidaná při použití určitých funkcí, které vyžadují přihlášení uživatele."
+"To be able to download source codes, please provide the following information:<br />";"Aby bylo možné stáhnout zdrojové kódy, uveďte prosím následující údaje: <br/>"
+Travel;Cestování
+URL;URL
+"URL Key";"URL Key"
+"Use into all of your application's pages";"Použít pro všechny stránky aplikace - (pozor aby byl poté čitelný text!)"
+"Used points";"Použité body"
+"User Information";"Informace o uživateli"
+Utilities;Doplňky
+Version;Verze
+Weather;Počasí
+"You already have sent a certificate.";"Certifikát jste již odeslali"
+"You can download your QRCode by <a class=""f-bold"" href=""%s"">clicking here</a>";"Svůj QR kód si můžete stáhnout<a class=""f-bold"" href=""%s""> kliknutím ZDE</a>"
+"You can't use this domain.";"Tato doména nelze použít"
+"You don't have any applications yet";"Zatím nemáte žádné aplikace"
+"You have already sent a certificate";"Certifikát jste již odeslali"
+"You have sent a certificate.";"Odeslali jste certifikát"
+"You have to create a Google account before publishing your application. <a href=""https://play.google.com/apps/publish/signup"" target=""_blank"">Click here to create one.</a>";"Před publikováním aplikace si musíte vytvořit Google developerský účet. <a href=""https://play.google.com/apps/publish/signup"" target=""_blank"">Pro vytvoření klikněte zde</a>"
+"You have to create an Apple account before publishing your application. <a href=""https://developer.apple.com/register/index.action"" target=""_blank"">Click here to create one.</a>";"Před publikováním aplikace si musíte vytvořit Apple developerský účet. <a href=""https://developer.apple.com/register/index.action"" target=""_blank"">Pro vytvoření klikněte zde</a>"
+"You haven't chosen any template yet";"Nevybrali jste žádný vzor"
+"You may not delete a library icon";"Neměli byste mazat ikonu knihovny"
+"You must have published your application to access this feature";"Pro přístup k této funkci musí být Vaše aplikace zverějněná v obchodu a aplikacemi (Google Play, iTunes store)"
+"Your CNAME is properly set";"Váš CNAME je správně nastaven"
+"Your best customers";"Vaši nejlepší zákazníci"
+"Your customers in figures";"Vaši uživatelé v číslech"
+"Your domain key ""%s"" is not valid.";"Váš domain key ""%s"" není platný"
+"Your mobile address should not contain special characters";"Vaše mobilní adresa nesmí obsahovat speciální znaky"
+"Your pages";"Vaše vybrané stránky (moduly)"
+"iOS Certificate";"iOS Certifikát"
+"iPad Retina:";"iPad Retina:"
+"iPhone 5 / 5S:";"iPhone 5 / 5S:"
+"iPhone 6 Plus:";"iPhone 6 Plus:"
+"iPhone 6:";"iPhone 6:"
+"iPhone Version";"iPhone verze"
+icon;ikona
+logo;logo
+times;krát
+"﻿1. Download the app previewer:";"1. Stáhněte si testovací prohlížeč:"
+"%d Unread Message";"%d Nepřečtená zpráva"
+"%d Unread Messages";"%d Nepřečtené zprávy"
+"Account";"Účet"
+"Change the password";"Změnit heslo"
+"Click to mark as not read";"Kliknutím označte jako nepřečtené"
+"Click to mark as read";"Kliknutím označte jako přečtené"
+"Create a user";"Vytvořit uživatele"
+"Edit the account ""%s""";"Upravit účet ""%s"""
+"Edit the user";"Upravit uživatele"
+"Enter your credentials:";"Zadejte své přihlašovací údaje:"
+"List of backoffice accounts";"Seznam účtů pro backoffice"
+"List of the messages";"Seznam zpráv"
+"Login to your backoffice interface";"Přihlaste se do svého backoffice rozhraní"
+"People who are allowed to access the backoffice";"Lidé, kteří mají povolen přístup do backoffice"
+"Siberian CMS";"Siberian CMS"
+"This account can't be deleted, it's the only one";"Tento účet nemůže být smazán"
+"User successfully deleted";"Uživatel úspěšně smazán"
+"View Details";"Zobrazit podrobnosti"
+"Your new password";"Vaše nové heslo"
+"Your password";"Vaše heslo"
+"﻿%d Unread Message";"%d Nepřečtená zpráva"
+"Booking details";"Rezervační údaje"
+"Booking details:";"Rezervační údaje:"
+"Booking subject:";"Předmět rezervace:"
+Comment:;Komentář:
+"Date and time";"Datum a čas"
+"Date and time:";"Datum a čas:"
+"Email address:";"E-mailová adresa:"
+"Enter the location name and contact email:";"Zadejte název provozovny a kontaktní e-mail"
+"First name / Last name";"Jméno, Příjmení"
+"Here are his personal information:";"Osobní údaje:"
+Name:;Jméno:
+"Nom du lieu :";"Název provozovny"
+"People number:";"Počet osob"
+"Phone number:";"Telefonní číslo:"
+"Please fill out the following fields: ";"Vyplňte prosím následující položky:"
+"Please fill out the following fields:<br />";"Vyplňte prosím následující položky:<br/>"
+"Please, choose a store";"Prosím, vyberte si obchod"
+"Thank you for your request. We'll answer you as soon as possible.";"Děkujeme za Vaši žádost. Budeme Vás kontaktovat co nejdříve."
+"The booking information";"Informace o rezervaci"
+"The booking informations";"Informace o rezervaci"
+"The date and time of the booking";"Datum a čas rezervace"
+"The number of people";"Počet osob"
+"You have received a message for the booking of";"Obdrželi jste zprávu pro rezervaci od "
+"Your phone number or email address";"Vaše telefonní číslo nebo e-mail"
+"﻿Booking details";"Rezervační údaje"
+"%s - All";"%s - Vše"
+"Add a category";"Přidat kategorii"
+"Add a format";Přidat
+All;Vše
+"An error occurred while loading your product.";"Při načítání produktu došlo k chybě."
+"An error occurred while saving the category. Please try again later.";"Při ukládání kategorie došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving the product. Please try again later.";"Při ukládání produktu došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving the set meal. Please try again later.";"Při ukládání Menu došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving. One of your categories could not be identified.";"Při ukládání došlo k chybě. Jedena z vašich kategorií nešla identifikovat."
+"An error occurred while saving. One of your products could not be identified.";"Při ukládání došlo k chybě. Jeden z vašich produktů nebylo možné identifikovat."
+"Are you sure you want to delete this product?";"Určitě chcete smazat tento produkt?"
+Category;Kategorie
+"Choose a category";"Vyberte kategorii"
+"Choose a subcategory";"Vyberte podkategorii"
+"Click on a category to display sub-categories";"Kliknutím na kategorii zobrazíte podkategorie"
+"Create a new product";"Vytvořit nový produkt"
+"Does this product have many formats?";"Má tento výrobek má více formátů?"
+"Edit the";Upravit
+"Edit the product";"Upravit produkt"
+Format;Formát
+Picture;Obrázek
+Price;Cena
+Product;Produkt
+"Product formats";"Specifikace produktů"
+"Product name";"Název produktu"
+Rules;Pravidla
+"Set meal successfully deleted.";"Menu úspěšně odstraněno"
+"Set meal successfully saved.";"Menu úspěšně uloženo"
+Sub-category;podkategorie
+st;.
+sub-category;podkategorie
+"﻿%s - All";"%s - Vše"
+".mp4 or .3gp format";".mp4 nebo .3gp formát"
+"Add ";Přidat
+"Add sections:";"Přidat sekci:"
+Address:;Adresa:
+Alignment:;Zarovnání:
+"An error occurred while saving your page.";"Při ukládání se vyskytla chyba"
+"Are you sure you want to delete this page?";"Určitě chcete smazat tuto stránku?"
+"Display address";"Zobrazit adresu"
+"Display location button";"Zobrazit tlačítko pro mapu"
+Label;Název
+Label:;Název:
+Large;Velký
+"Loading picture:";"Nahrát obrázek:"
+"Make a search or enter the Youtube Url:";"Vyhledejte nebo zadejte Youtube adresu:"
+Medium;Střední
+"My Youtube video:";"Moje YouTube Videa"
+"My video";"Moje videa"
+"No videos matching your selection";"Žádné video nesouhlasí s Vaším výběrem"
+"Page successfully deleted";"Stránka byla úspěšně smazána"
+"Page successfully saved";"Stránka byla úspěšně uložena"
+"Podcast URL:";"Podcast URL:"
+"Select a button type:";"Vyberte typ tlačítka"
+"Select a video type:";"Vyberte typ videa"
+Small;Malý
+"Video URL:";"Video URL:"
+"Your Podcast:";"Váš Podcast:"
+"﻿.mp4 or .3gp format";".mp4 nebo .3gp formát"
+"'Near me' radius (in km):";"Okruh ""V okolí"" (v Km)"
+"An error occurred while deleting this answer. Please try again later.";"Při mazání odpovědi došlo k chybě. Zkuste to prosím později."
+"Create a news:";"Vytvořte zprávu:"
+"Hide this info";"Skrýt tuto informaci"
+"Information successfully deleted";"Informace byla úspěšně smazána"
+"Information successfully hidden";"Informace byla úspěšně skryta"
+"Information successfully saved";"Informace byla úspěšně uložena"
+"Information successfully shown";"Informace byla úspěšně zobrazena"
+"Insert a";Vložit
+"It will be visible only after validation by our team.";"Toto bude viditelné až po našem schválení"
+"My customers answers";"Odpovědi uživatelů"
+"My customers' comments";"Uživatelské komentáře"
+"Near me";"V okolí"
+"Near me settings";"Nastavení ""V okolí"""
+Post;Příspěvek
+"Publishing date";Publikováno
+Radius;Okruh
+"Radius must be a valid numeric value.";"Okruh musí  být číslo"
+"Radius must be provided.";"Okruh musí  být k dispozici"
+Recent;Aktuální
+"Show this info";"Zobrazit tuto informaci"
+"There is no comment for this news";"Zpráva je zatím bez komentářů"
+"Was flagged as inappropriate";"Bylo označeno jako nevhodné"
+"You can't like more than once the same news";"Nelze přidat další Like pro stejnou zprávu"
+"You need to be connected to create a post";"Musíte být připojeni k vytvoření příspěvku"
+"Your flag has successfully been notified";"Vaše označení bylo úspěšně uloženo"
+"Your like has been successfully added";"Váš Like byl přidán"
+"Your message has been successfully saved.";"Vaše zpráva byla úspěšně uložena."
+"Your post was successfully added";"Váš příspěvek byl úspěšně uložen"
+"﻿An error occurred while deleting this answer. Please try again later.";"Při mazání odpovědi došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving your contact informations.";"Při ukládání kontaktních informací došlo k chybě."
+"An error occurred while sending your request. Please try again later.";"Při odesílání Vaší zprávy došlo k chybě. Zkuste to prosím později."
+"And his phone number:";"Telefonní číslo:"
+"Are you sure you want to remove the picture?";"Opravdu chcete odstranit obrázek?"
+City;Město
+"Contact information";"Kontaktní informace"
+"Here is his email:";"Kontaktní email:"
+"Here is his message:";"Zde je zpráva/dotaz:"
+"Please enter properly the following fields: <br />";"Vyplňte prosím následující údaje: <br />"
+Twitter;Twitter
+Website;"Webová stránka"
+"You have received a message from a contact:";"Obdželi jste zprávu od:"
+"Your email";"Váš e-mail"
+"Your message has been sent";"Vaše zpráva byla odeslána"
+"Your request";Zpráva
+"Zip code";PSČ
+"﻿An error occurred while saving your contact informations.";"Při ukládání kontaktních informací došlo k chybě."
+"%s - Account creation";"%s - Vytvoření účtu"
+"%s - Your new password";"%s - Vaše nové heslo"
+"A request to reset your password has been made.";"Žádost o resetování hesla byla provedena."
+"An error occurred while connecting to your Facebook account. Please try again later";"Při připojování k Vašemu účtu na Facebooku došlo k chybě. Zkuste to prosím později"
+"Are you sure you want to remove this user?";"Jste si jisti, že chcete odstranit tohoto uživatele?"
+"Change Password";"Změnit heslo"
+Congratulations,;Gratulujeme,
+Create;vytvořit
+"Create a new user";"Vytvoření nového uživatele"
+"Create an account";"Vytvořit účet"
+Customer;Zákazník
+Customers;Zákazníci
+Disconnect;Odhlásit
+"Edit the user %s";"Upravit uživatele %s"
+"First name";"Křestní jméno"
+"Forgot your password?";"Zapomněli jste heslo?"
+Gender;Oslovení
+"Here are your credentials:";"Zde jsou Vaše přihlašovací údaje<br/>"
+"I accept the <u>privacy policy</u>";"Přijímám podmínky <u>Ochrany osobních údajů</u>"
+"If you encounter any problems, do not hesitate to contact us:";"Pokud narazíte na nějaké problémy, neváhejte nás kontaktovat:"
+"Last name";Příjmení
+Login:;"Přihlašovací email:"
+Miss;Slečna
+Mr;Pan
+Mrs;Paní
+"My Account";"Můj účet"
+"My application's users";"Uživatelé mojí aplikace"
+"Old Password";"Staré heslo"
+"Or with your account";"Nebo pomocí Vašeho účtu"
+"Please enter your email address. We'll send you your password right now.";"Prosím, zadejte svou e-mailovou adresu. Zašleme Vám nové heslo"
+"Please log in with your mobile phone";"Prosím, přihlaste se pomocí svého mobilního telefonu"
+"Privacy Policy";"Ochrana osobních údajů"
+"See you soon,";"S pozdravem,"
+"Show me in ranking";"Ukázat v žebříčku"
+"The old email address does not match the entered email address.";"Původní e-mailová adresa neodpovídá zadané e-mailové adrese"
+"This user can access the pages locked by the ""Locker"" feature";"Tento uživatel má přístup na stránky zamčené pomocí funkce ""Zámek"""
+"This user is visible in ranking";"Tento uživatel je viditelný v žebříčku"
+User;Uživatel
+"User Information";"Informace o uživateli"
+Users;Uživatelé
+"We are sorry but the %s account is already linked to one of our customers";"Je nám líto, ale %s účet je již spojen s jedním z našich zákazníků"
+"You have created your account. With this account, you will be able to enjoy great offers available in our application.";"Váš účet byl úspěšne vytvořen. S tímto účtem můžete začít využívat spoustu užitečných nabídek a funkcí v aplikaci"
+"Your account has been successfully saved";"Váš účet byl úspěšně uložen"
+"﻿%s - Account creation";"%s - Vytvoření účtu"
+"404, page not found";"404, stránka nebyla nalezena"
+APIs;API
+Accounts;Účty
+Actions;Akce
+Add;Přidat
+"Add a";Přidat
+"Add image";"Přidat obrázek"
+Address;Adresa
+"All items";"Všechny položky"
+"An error occurred during process. Please try again later.";"Došlo k chybě. Zkuste to prosím později."
+"An error occurred during the process. Please try again later.";"Došlo k chybě. Zkuste to prosím později."
+"An error occurred while loading places.";"Při načítání míst došlo k chybě"
+"An error occurred while loading. Please try again later.";"Při načítání došlo k chybě. Zkuste to prosím později."
+"An error occurred while loading. Please, try again later.";"Při načítání došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving";"Při ukládání došlo k chybě"
+"An error occurred while saving your account. Please try again later.";"Při ukládání vašeho účtu došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving your picture. Please try againg later.";"Při ukládání obrázku došlo k chybě. Prosím, zkuste to prosím později."
+"An error occurred while saving. Please try again later.";"Při ukládání došlo k chybě. Zkuste to prosím později."
+"An error occurred while saving. Please, try again later.";"Při ukládání došlo k chybě. Zkuste to prosím později."
+"An error occurred while uploading your file. Please, try again later.";"Při nahrávání souboru došlo k chybě. Zkuste to prosím později"
+"An unexpected error occurred while calculating the route.";"Při vypočítávání cesty došlo k chybě"
+Appearance;Vzhled
+Application;Aplikace
+"Application Name";"Název aplikace"
+Applications;Aplikace
+"Are you sure you want to delete this element?";"Jste si jisti, že chcete smazat tento prvek?"
+"Are you sure you want to remove this account?";"Jste si jisti, že chcete odstranit tento účet?"
+"Authentication failed. Please check your email and/or your password";"Ověření se nezdařilo. Zkontrolujte prosím svůj e-mail a/nebo heslo"
+Back;Zpět
+Background;Pozadí
+Browse;Prohlížet
+"Can only be used once";"Lze použít pouze jednou"
+Cancel;Zrušit
+Cart;Košík
+"Change password";"Změnit heslo"
+City;Město
+City:;Město:
+Close;Zavřít
+Comment;Komentář
+Comments;Komentáře
+Communication;Komunikace
+Company;Společnost
+Coms;?Coms?
+Conditions;Podmínky
+"Confirm Password";"Potvrzení hesla"
+"Confirm new password";"Potvrdit heslo"
+"Contact successfully added to your address book";"Kontakt přidán do seznamu"
+Country;Země
+Create;Vytvořit
+"Create a new account";"Vytvořit nový účet"
+"Created at";Vytvořeno
+Currency;Měna
+"Current password";"Současné heslo"
+Dashboard;Aplikace
+"Date of birth";"Datum narození"
+"Date of birth:";"Datum narození:"
+"Default Languages";"Výchozí jazyky"
+Delete;Smazat
+Description;Popis
+Description:;Popis:
+Details;Podrobnosti
+Edit;Upravit
+Editing;Úpravy
+Email;E-mail
+"Email address";"E-mailová adresa"
+Email:;E-mail:
+"End at";"Platnost do"
+"Error : <br/>";"Chyba: <br/>"
+"Errors : <br/>";"Chyby: <br/>"
+"Export your customers";"Exportujte své zákazníky"
+"Extension not allowed, '%s' only";"Rozšíření není povoleno, pouze '%s'"
+Facebook;Facebook
+Firstname;Jméno
+Firstname:;Jméno:
+"Forgot your password ?";"Zapomněli jste heslo?"
+"Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now.";"Zapomněli jste heslo? Nebojte se! Jednoduše zadejte svou e-mailovou adresu a my Vám obratem zašleme nové!"
+General;Obecné
+Hello,;"Dobrý den,"
+"Here is your new password:";"Zde je vaše nové heslo:"
+"How do you want to access the backoffice if you remove the only user remaining?";"Jak chcete přistupovat do backoffice, pokud odeberete posledního uživatele??"
+ID;ID
+"Image not high enough, %spx minimum allowed.";"Obrázek není dostatečně vysoký, musí mít minimálně %spx"
+"Image not large enough, %spx minimum allowed.";"Obrázek není dostatečně široký, musí mít minimálně %spx"
+"Image not large enough, '%s' allowed.";"Obrázek není dostatečně velký, '%s' povolen."
+"Image too high, %spx maximum allowed.";"Obrázek je příliš vysoký, může mít maximálně %spx"
+"Image too large, %spx maximum allowed.";"Obrázek je přílišširoký, může mít maximálně %spx"
+"Image too large, '%s' allowed.";"Obrázek je příliš velký, '%s' povolen."
+"In order to fully enjoy our features, we encourage you to use at least:.<br />";"Aby bylo možné plně využívat všechny funkce, doporučujeme použít alespoň: <br />"
+"In order to publish your application, we need:<br />- ";"Aby bylo možné publikovat Vaši aplikaci, potřebujeme:<br />-"
+"Incorrect filetype.";"Nesprávný typ souboru"
+"Info successfully saved";"Informace úspěšně uložena"
+Information;Informace
+"Infos successfully saved";"Informace úspěšně uloženy"
+"Insert a <br /><span class=""bold"">cover image</span>";"Vložit <br /><span class=""bold"">obrázek</span>"
+"Invalid place";"Neplatné místo"
+Invoices;Faktury
+"Last Name";Příjmení
+Lastname;Příjmení
+Lastname:;Příjmení:
+Like;Like
+Likes;Like
+Link;Odkaz
+"Load More";"Nahrát další"
+Locate;MAPA
+Location:;Místo:
+"Log in";"Přihlásit se"
+Log-in;"Přihlásit se"
+Log-out;"Odhlásit se"
+"Logged in as";"Přihlášen jako"
+"MM,d yy";"d, MM yy"
+MM/dd/y;"dd / MM / y"
+"MM/dd/y 'at' hh:mm a";"dd / MM / y 'at' hh:mm"
+"MM/dd/y hh:mm a";"DD / MM / y hh:mm"
+MM/dd/yy;"dd / MM / yy"
+MM/dd/yyyy;"dd / MM / yyyy"
+"MMMM dd y";"dd MMMM y"
+"Main category";"Hlavní kategorie"
+"Make this image colorizable";"?Obrázek bude obarvitelný?"
+Manage;Upravit
+Map;Mapa
+Maps;Mapy
+"Message from your app %s";"Zpráva z Vaší mobilní aplikace %s"
+Messages;Zprávy
+Modules;Moduly
+More;Více
+"My account";"Můj účet"
+"My invoices";"Moje faktury"
+Name;Název
+Never;Nikdy
+New;Nový
+Next;Další
+No;Ne
+"No address to display on map.";"Chybí adresa ke zobrazení v mapě"
+"No place to display on map.";"Chybí místo ke zobrazení v mapě"
+"No results";"Žádné výsledky"
+"No uploaded image";"Žádné nahrané obrázky"
+"Nothing to display";"Nic ke zobrazení"
+Number;Číslo
+OK;OK
+OR;NEBO
+"Ouch, this page doesn't exist";"Ups, tato stránka neexistuje"
+Password;Heslo
+Password:;Heslo:
+"Passwords don't match";"Hesla se neshodují"
+Payment;Platba
+Phone;Telefon
+Phone:;Telefon:
+Photos;Fotografie
+Plans;Tarify
+"Platform Name";"Název platformy"
+Player;Hráč
+"Please enter a password";"Prosím, zadejte heslo"
+"Please enter a valid URL.";"Zadejte prosím platnou URL"
+"Please enter a valid credit card number.";"Zadejte prosím platné číslo karty"
+"Please enter a valid date (ISO).";"Zadejte prosím platné datum"
+"Please enter a valid date.";"Zadejte prosím platné datum"
+"Please enter a valid email address";"Zadejte prosím platnou e-mailovou adresu"
+"Please enter a valid email address.";"Zadejte prosím platnou emailovou adresu"
+"Please enter a valid number.";"Zadejte prosím platné číslo"
+"Please enter a valid url";"Zadejte prosím platnou adresu URL"
+"Please enter a value between {0} and {1} characters long.";"Zadejte prosím hodnotu mezi {0} a {1}"
+"Please enter a value between {0} and {1}.";"Zadejte prosím hodnotu mezi {0} a {1}"
+"Please enter a value greater than or equal to {0}.";"Zadejte prosím hodnotu větší nebo rovno {0}."
+"Please enter a value less than or equal to {0}.";"Zadejte prosím hodnotu menší nebo rovno {0}."
+"Please enter at least {0} characters.";"Zadejte prosím nejméně {0} znaků"
+"Please enter no more than {0} characters.";"Nesmí být delší než {0} znaků"
+"Please enter only digits.";"Zadejte prosím pouze čísla"
+"Please enter the same value again.";"Zadejte prosím znovu stejnou hodnotu"
+"Please enter your email address";"Prosím, zadejte svou e-mailovou adresu"
+"Please fill in the following fields:";"Prosim vyplnte nasledujici udaje:"
+"Please fix this field.";"Opravte prosím toto pole"
+"Please log in.";"Přihlašte se prosím"
+"Please, enter a correct email address.";"Prosím, zadejte správnou e-mailovou adresu."
+"Please, enter a password.";"Prosím, zadejte heslo."
+"Please, enter a valid date";"Prosím, zadejte platné datum"
+Podcast;Podcast
+"Podcast URL (iTunes format)";"Podcast URL (ve formátu iTunes)"
+"Podcast type is invalid or can't be found";"Podcast typ je neplatný nebo ho nelze nalézt"
+Postcode;PSČ
+Postcode:;PSČ
+Push;Push
+"Required fields";"Povinné položky"
+"Resize your picture";"Změnit velikost obrázku"
+"Resize your picture:";"Změnit velikost obrázku:"
+SEND;ODESLAT
+Save;Uložit
+Search;Vyhledat
+"Select a country";"Vyberte zemi"
+"Select all";"Vybrat vše"
+Send;ODESLAT
+"Send your pictures";"Vložte fotografie"
+Settings;Nastavení
+Size:;Velikost:
+Street;Ulice
+Street:;Ulice:
+Subscriptions;Předplatné
+Support;Podpora
+"Support Link";"Odkaz na podporu"
+Tax;Daň
+Taxes;Daně
+Text;Text
+"The account has been successfully saved";"Účet byl úspěšně uložen"
+"The address you're looking for does not exists.";"Adresa, kterou hledáte, neexistuje"
+"The email is required";"Emailová ardesa je vyžadována"
+"The file '%s' does not exist";"Soubor '%s' neexistuje"
+"The image '%s' does not exist";"Obrázek '%s' neexistuje"
+"The image size '%s' could not be detected.";"Nepodařilo zjistit velikost obrázku '%s'"
+"The old password does not match the entered password.";"Staré heslo neodpovídá zadanému heslu"
+"The password is required";"Je vyžadováno heslo"
+"The password must be at least 6 characters";"Heslo musí mít nejméně 6 znaků"
+"The payment has been cancelled, something wrong happened? Feel free to contact us.";"Platba byla zrušena, něco se stalo? V případě potřeby nás kontaktujte"
+"This administrator does not exist";"Tento správce neexistuje"
+"This email address is already used";"Tato e-mailová adresa je již používána"
+"This field is required";"Toto pole je povinné"
+"This field is required.";"Toto pole je povinné!"
+"This section is unlocked for mobile users only";"Tato sekce je přístupná pouze pro mobilní uživatele"
+Timezone;"Časové pásmo"
+Title;název
+Title:;Název:
+Total;Celkem
+"Unable to add the contact to your address book";"Nelze vložit kontakt do adresáře"
+"Unable to calculate the route.";"Trasa nelze naplánovat"
+"Unable to save image";"Obrázek nelze uložit"
+"Unrecognized image format";"Neznámý formát obrázku"
+"Updated at";Aktualizováno
+"Use this coupon";"Použijte tento kupón"
+User;Uživatel
+"User successfully saved";"Uživatel úspěšně uložen"
+Username;"Uživatelské jméno"
+Users;Uživatelé
+"VAT Number";DIČ
+Validate;Potvrdit
+"Version %s";"Verze %s"
+View;Náhled
+"We are sorry but this address is already used.";"Omlouváme se, ale tato adresa je již používána"
+"We are sorry but this email address already exists.";"Je nám líto, ale tato e-mailová adresa již existuje."
+"We are sorry but this feature is not available yet";"Omlouváme se, ale tato funkce není zatím k dispozici"
+Website;"Webová stránka"
+Yes;Ano
+"You already have this user in your contact";"Tento uživatel je již ve Vašich kontaktech"
+"You are gone offline";"Právě jste offline"
+"You can upload a pem certificate only.";"Můžete nahrát pouze certifikát pem"
+"You can upload a zip archive only.";"Můžete nahrát pouze ZIP archiv."
+"You can upload an icon only (.ico and .png).";"Můžete nahrát pouze ikonu (ICO a PNG)."
+"You can upload an image only (.jpg, .jpeg, .gif and .png).";"Můžete nahrát pouze obrázek (JPG, JPEG, GIF a PNG)."
+"You can't upload more than one file at a time.";"Nemůžete nahrát více než jeden soubor najednou."
+"You must be logged in to post a comment";"Pro psaní komentářů musíte být přihlášení"
+"You must give the permission to the app to add a contact to your address book";"Přidání kontaktu do adresáře musíte povolit v aplikaci"
+"You must share your location to access this page.";"Pro přístup na tuto stránku musíte sdílet Vaši pozici"
+"Your browser is too old to view the content of our website.<br />";"Váš prohlížeč je příliš starý pro zobrazení obsahu našich stránek.<br />"
+"Your comment";"Váš komentář"
+"Your email address";"Vaše e-mailová adresa"
+"Your email address does not exist";"Vaše e-mailová adresa neexistuje"
+"Your name";"Vaše jméno"
+"Your new password has been sent to the entered email address";"Vaše nové heslo bylo odesláno na zadanou e-mailovou adresu"
+"Your password does not match the entered password.";"Vaše heslo neodpovídá vloženému heslu"
+Youtube;Youtube
+close;Zavřít
+day;den
+days;dny
+en;cz
+hour;hodina
+hours;hodiny
+loading;nahrávám
+minute;minuta
+minutes;minuty
+picture;obrázek
+second;druhý
+seconds;sekundy
+title;název
+titles;názvy
+"to add a subfolder.";"přidat podsložky."
+"﻿404, page not found";"404, stránka nebyla nalezena"
+"An error occurred while deleting the event";"Při mazání události došlo k chybě"
+"An error occurred while loading this event";"Při nahrávání události došlo k chybě"
+"Beginning date:";"Počáteční datum:"
+"Calendar successfully deleted";"Kalendář byl úspěšně smazán"
+"Calendar's URL";"URL kalendáře"
+"Calendar's title";"Název kalendáře"
+"Change picture";"Změnit obrázek"
+"Create a new event";"Vytvořit novou událost"
+"Custom Page";"Vlastní stránka"
+"Delete this calendar?";"Smazat tento kalendář?"
+"Delete this event?";"Odstranit tuto událost?"
+"Ending date:";"Datum ukončení:"
+"Enter your calendar's title";"Zadejte název kalendáře"
+Event;Událost
+"Event successfully deleted";"Událost byla smazána"
+"Event successfully saved";"Událost byla uložena"
+"Event title:";"Název události:"
+Illustration;Obrázek
+"Max size: 2000x2000px - allowed formats: jpg & png";"Maximální velikost: 2000x2000px - povolené formáty: jpg a png"
+"Modify the event";"Upravit událost"
+RSVP;RSVP
+"RSVP URL:";"RSVP URL:"
+"Your Facebook page ID";"Vaše Facebook page ID"
+"Your Facebook page ID <span class=""required-entry"">*</span> :";"Vaše Facebook page ID <span class = ""required-entry"">*</ span>:"
+"Your calendar is empty";"Váš kalendář je prázdný"
+iCal;iCal
+"﻿An error occurred while deleting the event";"Při mazání události došlo k chybě"
+"Add a page";"Přidat stránku"
+"Click on";"Klikněte na"
+"Click on a page to add it to the folder";"Vyberte stránku/modul, kterou chcete přidat do složky"
+"Click on a page to add it to the folder <span id=""folder_name"" class=""folder_name"">""%s""</span>";"Vyberte stránku/modul, kterou chcete přidat do složky <span id = ""folder_name"" class = ""folder_name""> ""%s"" </ span>"
+"Close mobile display";"Zavřít zobrazení v mobilu"
+"Delete this folder and all its subfolders?";"Odstranit tuto složku a všechny její podsložky?"
+"Folder title is required";"Název složky je nutné vyplnit"
+Folders;Složky
+"Mobile display";"Zobrazení v mobilu"
+"New folder";"Nová složka"
+Subtitle;Popis
+"You cannot add this feature";"Tato funkce nelze přidat"
+"You must first complete the current category creation process";"Nejdříve musíte dokončit právě vytvářenou složku"
+"You will lose all unsaved changes, continue?";"Chcete pokračovat? Ztratíte všechny neuložené změny"
+"to add a folder.";"k přidání další složky"
+"﻿Add a page";"Přidat stránku"
+"<strong>%s</strong> must be a numerical value<br />";"<strong>%s</strong>, musí být číselná hodnota<br/>"
+"<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />";"<strong>%s</strong>, musí být platné datum (např. dd/mm/rrrr)<br/>"
+"<strong>%s</strong> must be a valid date<br />";"<strong>%s</strong>, musí být platné datum<br/>"
+"<strong>%s</strong> must be a valid email address<br />";"<strong>%s</strong>, musí být platná e-mailová adresa<br/>"
+"<strong>%s</strong> must be filled<br />";"<strong>%s</strong> je nutné vyplnit<br/>"
+"Add a field";"Přidat pole formuláře"
+"Add a section";"Přidat sekci"
+"Add an option";"Přidat možnost"
+"An error occurred while saving. A field can't be identified.";"Při ukládání došlo k chybě. Pole nelze identifikovat."
+"Are you sure you want to remove this field?";"Určitě chcete odstranit toto pole?"
+"Are you sure you want to remove this section?";"Určitě chcete odstranit tuto sekci?"
+Checkbox;"Checkbox - výběr více možností"
+"Choose a field type:";"Vyberte typ pole:"
+"Create a new field";"Vytvořit nové pole formuláře"
+Date/Hour;"Datum a čas"
+"Drop down";"Drop down menu - výběr z rolovacího seznamu"
+"Edit field %s";"Upravit pole %s"
+"Field name";"Název pole"
+"Field name:";"Název pole:"
+Geolocation;"Lokalizace aktualní polohy"
+Hello,;"Dobrý den,"
+"Manage fields";"Struktura formuláře"
+"Manage options:";Možnosti:
+"Multiline text";"Textové pole - rozšířené"
+Option;Volba
+Radio;"Radio button - výběr jedné z možností"
+"Recipient email:";"E-mail příjemce formuláře:"
+"The form has been sent successfully";"Formulář byl úspěšně odeslán"
+"You have to choose a field type.";"Můžete si vybrat typ pole"
+"Your app's form";"Formulář vaší aplikace"
+"Your form has been filled out, here are the answers:";"Vyplněný formulář z Vaší mobilní aplikace.  Zde jsou odpovědi:"
+"﻿<strong>%s</strong> must be a numerical value<br />";"<strong>%s</strong>, musí být číselná hodnota<br/>"
+"%s Update";"%s Update"
+"All of your modules are up to date";"Všechny vaše moduly jsou aktuální"
+"Click here to send your module";"Klikněte zde pro upload modulu"
+"Drop your module here";"Vložit modul"
+Host;Host
+Installing;Instalace
+"Installing module <em><span id=""label_module""></span></em>";"Instalace modulu <em> <span id =""label_module""> </span> </em>"
+"Installing your module";"Instalace modulu"
+"Module successfully installed";"Modul úspěšně nainstalován"
+"Module to upload";"Moduly k nahrání"
+"Modules Installation";"Instalace modulů"
+"Modules successfully installed!";"Moduly úspěšně nainstalován!"
+"No directory provided";"No directory provided"
+"No module to install";"Žádný modul k instalaci"
+"No modules uploaded yet";"Žádné modyly zatím nebyly nahrány"
+"Or set the correct permissions to the following files and folders and try again:";"Nebo změňte práva u následujících souboru a složek  a zkuste znovu"
+"Package Details";"Package - detail"
+"Path to your system";"Cesta k systemu"
+"Please update the module to the %s version before installing this update.";"Před instalací tohoto updatu prosím updatujte modul na verzi %s"
+"Please update your system to the %s version before installing this update.";"Před instalací tohoto updatu prosím updatujte Váš systém na verzi %s"
+"Please wait, we're installing your module";"Čekejte prosím, modul se instaluje"
+"Please, enter a name";"Prosím, zadejte název"
+"Please, fill out all fields";"Prosíme, vyplňte všechna pole"
+Port;Port
+"Processing the installation";"Zpracování instalace"
+Retry;Opakovat
+"Select a module to upload";"Vyberte modul"
+"Some files and folder are not writable. You can either provide your FTP access to install this update:";"Do některých složek a souboru nelze zapisovat"
+"Some files don't have the right permissions and can't be updated";"Některé soubory nemají správná práva a nelze je updatovat"
+"The database connection failed. Please, check the entered information.";"Připojení k databázi se nezdařilo. Prosím, zkontrolujte zadané údaje."
+"The entered password confirmation does not match the entered password.";"Heslo k potvrzení se neshoduje s původním"
+"The file %s does not exist";"Soubor %s neexistuje"
+"The file %s is not writable.";"Do souboru %s nelze zapisovat"
+"The folder %s is not writable. Please fix this issue and try again.";"Do složky %s nelze zapisovat. Opravte tento problém a zkuste znovu"
+"The following files and folders are not writable:";"Do těchto souborů a adresářů nelze zapisovat"
+"The following files and folders are not writable: <br /> - %s";"Do následujících souborů a složek nelze zapisovat: <br /> - %s"
+"The installation of the module <span id=""installation_failed_module_name""></span> has failed: <span id=""installation_failed_because""></span>";"Instalace modulu <span id=""installation_failed_module_name""></span> se nezdařila: <span id=""installation_failed_because""></span>"
+"The package you have uploaded is invalid.";"Nahraný package je poškozený"
+"This process may take few minutes, please do not refresh the page";"Tento proces může chvíli trvat, prosím NEAKTUALIZUJTE stránku"
+"This update is designed for the %s, you can't install it in your %s.";"Tento update je navrhnut pro %s, nelze nainstalovat na Váš %s"
+"Unable to connect to your FTP. Please check the connection information.";"Nelze se připojit k FTP. Zkontrolujte spojení"
+"Unable to detect your site. Please make sure the entered path is correct.";"Stránku nelze smazat. Zkontrolujte, zda je cesta v pořádku"
+"Unable to extract the archive.";"Archiv nelze rozbalit"
+"Unable to open the archive.";"Archiv nelze otevřít"
+"Unable to open the file. Please, make sure that you sent a valid archive.";"Soubor nelze otevřít. Ujistěte se,že byl platný"
+"Upload a module";"Nahrát modul"
+"Upload your modules";"Nahrát modul"
+Username;"Uživatelské jméno"
+"You already have installed this update.";"Tento update je již nainstalován"
+"You can either fix this issue by setting the correct permissions to them and try again or enter your FTP access below:";"Můžete tento problém vyřešit správným nastavením oprávnění a zkusit znovu, nebo zadejte váš přístup FTP:"
+"﻿%s Update";"%s Update"
+" is now yours!";"je nyní Váš!"
+"%d validated points = ";"%d ověřených bodů "
+"1 loyalty point =";"1 věrnostní bod =  "
+"1 point";"1 bod =  "
+"1 validated point = ";"1 ověřený bod =  "
+"An error occurred while saving the password. Please try again later";"Při ukládání hesla došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving the password. Please try again later.";"Při ukládání hesla došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your loyalty card.";"Při ukládání věrnostní karty došlo k chybě"
+"An error occurred while saving your loyalty card. Please fill all fields in.";"Při ukládání věrnostní karty došlo k chybě. Vyplňte prosím všechna pole"
+"An error occurred while validating point. Please try again later.";"Při ověřování bodu došlo k chybě. Zkuste to prosím později"
+"Card name";"Název karty (pro vás)"
+Congratulations;Gratulujeme
+"Current card";"Součastný věrnostní program"
+"Delete this password?";"Smazat toto heslo?"
+"Employee's name";"Jméno zaměstnance"
+"Employee's name:";"Jméno zaměstnance:"
+"Employee's password";"Heslo zaměstnance"
+"Employee's password:";"Heslo zaměstnance:"
+"Enter the password";"Zadejte heslo"
+"My new loyalty card";"Nový věrnostní program"
+"My passwords";"Moje hesla"
+"Number of points";"Počet bodů (k odměně)"
+"Please enter a name";"Prosím, zadejte název"
+"Please enter the password";"Prosím, zadejte heslo"
+"Please show your phone to the store person so that he enters his password";"Požádejte prosím personál o vložení hesla k zapsání věrnostního bodu"
+"Point%s successfully validated";"Bod%s úspěšně ověřen"
+"Previous cards";"Předchozí věrnostní programy"
+Reward;Odměna
+"We are sorry but this card is temporarily blocked";"Je nám líto, ale tato karta je dočasně blokována"
+"Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point";"Chybné heslo. Buďte opatrní! %d zbývající pokusy%s před zablokováním karty. Požádejte personál o zadání hesla k ověření bodu"
+"Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point";"Chybné heslo.<br />Buďte opatrní! %d zbývající pokusy%s před zablokováním karty.<br /> Požádejte personál o zadání hesla k ověření bodu"
+"You have exceeded the number of attempts to validate points. Your card is locked for 24h";"Upps, překročili jste počet pokusů pro zadání hesla! Vaše karta je zablokována po dobu 24 hodin"
+"You just finished your card";"Právě jste nasbírali všechy body na Vaší kartě!"
+"You must be logged in to validate points";"K potvrzení věrnostních bodů musíte být přihlášeni"
+"Your loyalty card has been saved successfully";"Vaše věrnostní karta byla úspěšně uložena"
+"Your password must be 4 digits";"Heslo musí být 4 číslice"
+point;bod
+"point to validate";"bod k ověření"
+"points to validate";"body k ověření"
+"%s - Customer Service";"%s - Zákaznický servis"
+20.00%;20.00%
+"Add a picture";"Přidat obrázek"
+"Add options";"Přidat formát"
+"Add to cart";"Přidat do košíku"
+"An error occurred while proceeding the payment. Please, try again later.";"Při platbě došlo k chybě. Zkuste to prosím později"
+"An error occurred while proceeding your order. Please, check the following information:";"Při objednávce došlo k chybě. Zkuste to prosím později"
+"Are you sure you want to close without saving";"Opravdu chcete zavřít bez uložení?"
+"Are you sure you want to delete this category and all its subcategories?";"Opravdu chcete smazat tuto kategorii a všechny její podkategorie?"
+"Are you sure you want to delete this store?";"Opravdu chcete smazat tento obchod/sklad?"
+"Are you sure you want to delete this tax?";"Opravdu chcete smazat tuto daň?"
+"Are you sure you want to remove this product?";"Opravdu chcete smazat tento produkt?"
+"At least one option is required:";"Je vyžadován alespoň jeden formát"
+Cancelled;Zrušeno
+"Carry Out";?Rozvoz?
+Cart;Košík
+Cash;Hotovost
+Category;Kategorie
+"Category successfully saved.";"Kategorie byla úspěšně uložena."
+Check;Check
+"Choose a delivery method:";"Vyberte si způsob doručení:"
+"Choose a payment method:";"Vyberte si způsob platby:"
+"Choose a store:";"Vyberte si obchod/sklad:"
+Completed;Dokončeno
+"Connected Printers";"Připojené tiskárny"
+"Continue shopping";"Pokračovat v nákupu"
+"Create a new options group";"Vytvořit novou skupinu formátů"
+"Create a new product";"Vytvořit nový produkt"
+"Create a new tax";"Vytvořit novou daň"
+"Create a store";"Vytvořit obchod/sklad"
+"Credit Card by phone";"?Credit Card by phone?"
+"Credit card (pay upon pickup or delivery)";"Kreditní karta (platba při vyzvednutí nebo dodání)"
+Customer;Zákazník
+"Customer Service";"Zákaznický servis"
+Delivery;Doručení
+"Delivery Fees";"Poplatky za doručení"
+"Delivery Method";"Způsob doručení"
+"Delivery area";"Oblast pro doručení"
+"Delivery fees";"Poplatky za doručení"
+"Delivery fees:";"Poplatky za doručení:"
+"Delivery methods";"Způsob doručení"
+"Delivery methods:";"Způsob doručení:"
+"Delivery radius";"Okruh doručení"
+"Delivery radius:";"Okruh doručení:"
+"Delivery time";"Dodací lhůta"
+"Delivery time:";"Dodací lhůta:"
+Details;Podrobnosti
+"Edit a store";"Upravit obchod/sklad"
+"Edit the options group %s";"Upravit skupinu formátů %s"
+"Edit the product %s";"Upravit produkt %s"
+"Edit the tax %s";"Upravit daň %s"
+"Free delivery starting from";"Doprava zdarma od"
+"Free delivery starting from:";"Doprava zdarma od:"
+"Here is the detail of the order";"Zde je detail objednávky"
+"Here is the detail of your order";"Zde je detail Vaší objednávky"
+"Hours of operation";"Provozní doba"
+"Hours of operation:";"Provozní doba:"
+"In store";"V obchodě/skladu"
+"Meal Voucher";Stravenky
+"Minimum order";"Minimální objednávka"
+"Minimum order:";"Minimální objednávka:"
+"My Cart";"Můj košík"
+"My cart is empty";"Košík je prázdný"
+"My categories";Kategorie
+"My information";Informace
+"My orders";Objednávky
+"My product's categories";"Produktové kategorie"
+"My product's options";"Produkty - možnosti"
+"My products";Produkty
+"My stores";Obchody/sklady
+"My taxes";Daně
+"Name of the options group:";"Název skupiny formátů"
+"New order from the application";"Nová objednávka z mobilní aplikace"
+Number;Číslo
+"Option name";"Název formátu"
+"Option name:";"Název formátu:"
+"Options group successfully deleted";"Skupina formátů byla smazána"
+"Options group successfully saved";"Skupina formátů byla uložena"
+"Order Number";"Číslo objednávky"
+"Order confirmation";"Potvrzení objednávky"
+"Order details";"Detail objednávky"
+"Order successfully saved";"Objednávka byla úspěšně uložena"
+Orders;Objednávky
+Paid;Zaplaceno
+Password;Heslo
+Password:;Heslo:
+Payment;Platba
+"Payment Method";"Způsob platby"
+"Payment methods:";"Způsob platby:"
+Paypal;Paypal
+"Pending payment";"Nevyřízená platba"
+Picture;Obrázek
+"Please choose a delivery method";"Prosím, vyberte způsob doručení"
+"Please choose a payment method";"Prosím, vyberte způsob platby"
+"Please, enter an email address for the store %s";"Prosím, zadejte e-mailovou adresu pro obchod/sklad %s"
+Price;Cena
+"Price: %s";"Cena: %s"
+"Printer successfully saved";"Tiskárna byla úspěšně uložena"
+Proceed;Pokračovat
+Product;Produkt
+"Product name";"Název produktu"
+"Product name:";"Název produktu:"
+"Product successfully saved";"Produkt úspěšně uložen"
+Qty;Množství
+"Qty: %s";"Množství: %s"
+"Radius in Km";"Okruh v km"
+Review;?Shrnutí?
+Settings;Nastavení
+Signature;Podpis
+Signature:;Podpis:
+Status;Status
+"Store information";"Informace o obchodu/skladu"
+"Store name";"Název obchodu/skladu"
+"Store name:";"Název obchodu/skladu:"
+"Store successfully deleted";"Obchod/sklad úspěšně smazán"
+"Store successfully saved";"Obchod/sklad úspěšně uložen"
+Stores;Obchody/sklady
+Subtotal;Mezisoučet
+Tax;Daň
+"Tax name";"Název daně"
+"Tax name:";"Název daně:"
+"Tax rate";"Sazba daně"
+"Tax rate:";"Sazba daně:"
+"Tax successfully deleted";"Daň úspěšně smazána"
+"Tax successfully saved";"Daň úspěšně uložena"
+Tax:;Daň:
+"Thank you!";Děkujeme!
+"The delivery method";"Způsob doručení"
+"The following options are required:<br />%s";"Následující formáty jsou vyžadovány: <br />%s"
+"The option %s is required";"Formát %s je vyžadován"
+"The payment has been cancelled, something wrong happened? Feel free to contact us";"Platba byla zrušena, stalo se něco? Neváhejte nás kontaktovat"
+"The payment method";"Způsob platby"
+"Time in minutes";"Čas v minutách"
+Total;Celkem
+"Total Excl. Tax";"Celkem bez DPH"
+"Total Tax";"Celkové DPH"
+"Total: %s";"Celkem: %s"
+"Unit Price";"Jednotková cena"
+"Unit price";"Jednotková cena"
+Username;"Uživatelské jméno"
+Username:;"Uživatelské jméno:"
+"We apologize but the payment method %s is currently not available";"Omlouváme se, ale způsob platby %s není v současné době k dispozici"
+"We thank you for your order. A confirmation email has been sent";"Děkujeme Vám za Vaši objednávku. Potvrzovací e-mail byl odeslán"
+"You don't have any categories yet";"Zatím nemáte žádné kategorie"
+"You have a connected printer? Enter the email address";"Máte připojenou tiskárnu? Zadejte e-mailovou adresu"
+"You have a connected printer? Enter the email address for each store";"Máte připojenou tiskárnu? Zadejte e-mailovou adresu pro každý obchod/sklad"
+"Your address";"Vaše adresa"
+"Your email address";"Vaše e-mailová adresa"
+"Your firstname";"Vaše křestní jméno"
+"Your lastname";"Vaše příjmení"
+"Your phone number";"Vaše telefonní číslo"
+"e.g., Sauces";"např. Velikosti"
+﻿Cancelled;Zrušeno
+#NÁZEV?;?media_translation?
+"%s by %s";"%s po %s"
+"+ Add a track";"+ Přidat skladbu"
+"Add albums and tracks to the playlist:";"Přidejte alba a skladby do seznamu skladeb:"
+Album;Album
+Albums;Alba
+Albums:;Alba:
+"An error occurred while deleting you images gallery. Please try again later.";"Při mazání galerie došlo k chybě. Zkuste to prosím později"
+"An error occurred while deleting your album. Thanks for trying later.";"Při mazání alba došlo k chybě. Zkuste to prosím později"
+"An error occurred while deleting your playlist. Thanks for trying later.";"Při mazání seznamu skladeb došlo k chybě. Zkuste to prosím později"
+"An error occurred while deleting your track. Thanks for trying later.";"Při mazání skladby došlo k chybě. Zkuste to prosím později"
+"An error occurred while loading pictures. Please try later.";"Při nahrávání obrázků došlo k chybě. Zkuste to prosím později"
+"An error occurred while loading videos. Please try later.";"Při nahrávání videí došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your images gallery. Please try again later.";"Při ukládání galerie došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your playlist. Thanks for trying later.";"Při ukládání seznamu skladeb došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your videos gallery. Please try again later.";"Při ukládání videí došlo k chybě. Zkuste to prosím později"
+"Are you sure you don't want to create an album for these tracks?";"Opravdu nechcete vytvořit album pro tyto skladby?"
+"Are you sure you don't want to create an album for this track?";"Opravdu nechcete vytvořit album pro tuto skladbu?"
+"Are you sure you want to delete this album (this won't delete tracks)?";"Opravdu chcete smazat toto album? (toto nesmaže skladby)"
+"Are you sure you want to delete this album?";"Opravdu chcete smazat toto album?"
+"Are you sure you want to delete this playlist?";"Opravdu chcete smazat tento seznam skladeb?"
+"Are you sure you want to delete this track?";"Opravdu chcete smazat tuto skladbu?"
+Artist;Skupina/Interpret
+Artist:;Skupina/Interpret:
+Audio;Hudba
+Channel;Kanál
+"Choose an album";"Vyberte album"
+Custom;Vlastní
+"Delete this gallery?";"Odstranit tuto galerii?"
+"Feed URL";"URL zdroje"
+"Feed URL <span class=""required-entry"">*</span> :";"URL zdroje <span class=""required-entry"">*</span> :"
+"Gallery Name";"Název galerie"
+"Gallery Name <span class=""required-entry"">*</span> :";"Název galerie <span class=""required-entry"">*</span> :"
+Group;Skupina
+"I'm listening to";Poslouchám
+"Images gallery has been saved successfully";"Galerie byla úspěšně uložena"
+Instagram;Instagram
+"Last update:";"Poslední aktualizace:"
+"Maximum size : 2000*2000 px - Allowed filetypes : jpg and png";"Maximální velikost: 2000 * 2000 px - povolené typy souborů: jpg a png"
+"My pictures";"Moje obrázky"
+"No album found";"Album nenalezeno"
+"No artist found";"Umělec nenalezen"
+"No track found";"Skladba nenalezena"
+PLAYER;PLAYER
+Parameter;Parametr
+"Parameter/Feed Url";"Parametr / URL zdroj"
+Picasa;Picasa
+Picture%s;Obrázek%s
+Playlist;"Seznam skladeb"
+"Playlist successfully saved.";"Seznam skladeb úspěšně uložen"
+"Playlist title:";"Název seznamu skladeb:"
+Playlists;"Seznam skladeb"
+Podcast;Podcast
+"Podcast URL (iTunes format)";"Podcast URL (ve formátu iTunes)"
+"Read all";"Číst vše"
+"Required field";"Povinné pole"
+Search/Url;"Vyhledávání / URL"
+"The entered name is not a valid Instagram user.";"Toto není platný uživatel Instagramu"
+"This element is not an album.";"Toto není album"
+Track;Skladba
+Tracks;Skladby
+Type;Typ
+"URL (.mp3):";"URL (.mp3) - odkaz na skladbu:"
+"Videos gallery has been saved successfully";"Video galerie byla úspěšně uložena"
+Vimeo;Vimeo
+buy;koupit
+close;zavřít
+empty;prázdný
+from;od
+hide;skrýt
+loop;smyčka
+music;hudba
+next;další
+on;na
+pause;pauza
+play;spustit
+previous;předchozí
+share;sdílet
+shuffle;zamíchat
+track;skladba
+tracks;skladby
+"﻿%s by %s";"%s po %s"
+"Access restricted to authorized members only";"Přístup povolen pouze autorizovaným uživatelům"
+"Allow all the users by default:";"Povolit všem uživatelům:"
+"Choose the features to lock:";"Vyberte stránky/moduly, které chcete uzamknout"
+"Lock the entire application?";"Zamknout celou aplikaci?"
+"Restrict Access";"Omezený přístup (jen s povolením vlastníka aplikace)"
+"We are sorry but your account does not have enough permissions to access this page";"Je nám líto, ale váš účet nemá dostatečná oprávnění pro přístup na tuto stránku"
+"the email address";"e-mailová adresa"
+"the first name";jméno
+"the gender";oslovení
+"the last name";příjmení
+"the password";heslo
+"﻿Lock the entire application?";"Zamknout celou aplikaci?"
+Payments;Platby
+﻿Payments;Platby
+"An error occurred while saving your discount. Please fill in all fields";"Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"
+"Are you sure you want to use this discount?";"Opravdu chcete využít tuto slevu?"
+"Closed discounts";"Ukončené slevy"
+"Create a new discount";"Vytvořit novou slevu"
+"Delete this discount?";"Odstranit tuto slevu?"
+"Discount successfully deleted";"Sleva úspěšně smazána"
+"Discount successfully saved";"Sleva byla úspěšně uložena"
+"Please select an end date greater than the current date.";"Datum ukončení musí být větší než aktuální datum"
+"This discount is now used";"Tato sleva je právě používána"
+"Valid until";"Platí do:"
+"You have already use this discount";"Tuto slevu jste již použili"
+"You must be logged in to use a discount";"Pro využití slevy musíte být přihlášeni"
+"or illimited";"nebo stálá sleva"
+"use only once";"použít jen jednou"
+"you'll be able to remove this promotion later";"můžete ji však kdykoliv smazat"
+"﻿An error occurred while saving your discount. Please fill in all fields";"Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"
+"Additionnal Information";"Další informace"
+"And a radius (in Km):";"A poloměr (v km):"
+Android;Android
+"Creation date";Vytvořeno
+"Enter a location:";"Vyberte oblast (místo nebo GPS souřadnice):"
+"GCM Key";"GCM Key"
+"I want to send it";"Chci odeslat"
+"Keys successfully saved";"Klíč úspěšně uložen"
+Message;Zpráva
+Message:;Zpráva:
+Pending;Nevyřízené
+"Push Notifications";"PUSH zprávy"
+"Push Notifications Settings";"PUSH zprávy - nastavení"
+Radius;Poloměr
+"Send to a specific location";"Odeslat do konkrétní oblasti"
+"Send to all my users";"Odeslat všem uživatelům"
+"Sender ID";"ID odesílatele"
+"Sending date";"Datum odeslání"
+"The duration limit must be higher than the sent date";"Doba trvání musí být vyšší než datum odelsání!"
+"Your app must be published to send a push notification.";"Pro odesílání PUSH zpráv musí být vaše aplikace nejprve vypublikována"
+"Your message has been saved successfully and will be sent at the entered date";"Vaše zpráva byla úspěšně uložena a bude odeslána v zadaný termín"
+"Your message has been saved successfully and will be sent in a few minutes";"Vaše zpráva byla úspěšně uložena a bude odeslána během okamžiku"
+"and users entering the area";"a uživatelé, kteří vstoupí do této oblasti"
+"for a limited period";"po omezenou dobu"
+now;nyní
+"on a specific date";"k určitému datu"
+"﻿Additionnal Information";"Další informace"
+"%s ago";"%s před"
+"An error occurred while saving your RSS feed";"Při ukládání RSS zdroje došlo k chybě"
+"Display feed pictures whenever possible";"Zobrazit obrázky, když jsou k dispozici"
+"Enter the URL of this RSS feed";"Zadejte URL adresu tohoto RSS kanálu"
+"Found feeds";"Nalezené zdroje"
+"No RSS feed could be found";"Žádný RSS zdroj nenalezen"
+"RSS feed successfully saved";"RSS zdroj úspěšně uložen"
+"Show article";"Zobrazit článek"
+day;den
+hour;hodina
+minute;minuta
+"﻿%s ago";"%s před"
+Action;Akce
+"App Name";"Název aplikace"
+Client;Zákazník
+Date;Datum
+Invoice;Faktura
+"Invoice %s";"Faktura %s"
+"Invoice N°";"Faktura č."
+"Invoice NÂ°";"Faktura č."
+"List of your invoices";"Seznam faktur"
+"My Invoices";"Moje faktury"
+Order;Objednávka
+Orders;Objednávky
+"Paid At";Zaplaceno
+"Paid at:";Zaplaceno:
+"Price Excl. Tax";"Cena bez DPH"
+Qty;Množství
+"This feature is not ready yet. Please try again later.";"Tato funkce zatím není připravena. Zkuste to prosím později."
+"Total Excl. Tax";"Celkem bez DPH"
+"You don't have any invoices yet";"Zatím nemáte žádné faktury"
+﻿Action;Akce
+"An error occurred while loading the videos. Please try again later.";"Při nahrávání videa došlo k chybě. Zkuste to prosím později"
+"Enter your Facebook Fan Page Id";"Zadejte Vaše Facebook Fanpage ID"
+"Enter your Facebook Fan Page Id <span class=""required-entry""> *</span>:";"Zadejte Vaše Facebook Fanpage ID <span class=""required-entry""> *</span>:"
+"﻿An error occurred while loading the videos. Please try again later.";"Při nahrávání videa došlo k chybě. Zkuste to prosím později"
+"%s point%s";"%s bod%s"
+"A month";Měsíčně
+"A week";Týdně
+Challengers;Soutěžící
+"Current game";"Aktuální hra"
+"Currently no challengers";"Aktuálně nikdo nesoutěží"
+"Game Name";"Název hry"
+"Game successfully saved";"Hra byla úspěšně uložena"
+"Next game";"Další hra"
+"On the";Na
+Period;Období
+Periodicity;Opakování
+"Publication date";"Datum vydání"
+"Rank of the month";"Žebříček měsíce"
+"Rank of the week";"Žebříček týdne"
+"Team Leader";"První v pořadí"
+"﻿%s point%s";"%s bod%s"
+"Insert your HTML code:";"Vložte HTML kód"
+"Source Code";"Zdrojový kód"
+"﻿Source Code";"Zdrojový kód"
+"%s Subscription for %s";"%s Předplatné pro %s"
+"<a href=""%s"">Click here</a> to go back to your applications list";"<a href=""%s""> Klikněte zde </a> k návratu do seznamu aplikací"
+Active;Aktivní
+"An error occurred while processing the payment. For more information, please feel free to contact us.";"Při zpracování platby došlo k chybě. Pro více informací nás neváhejte kontaktovat."
+"An error occurred while processing your order. Please, try again later.";"Při zpracování objednávky došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving. Please try again later";"Při ukládání došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving. The selected subscription is not valid.";"Při ukládání došlo k chybě.Vybrané předplatné není platné."
+"Are you sure you want to delete this plan?";"Opravdu chcete smazat tento plán?"
+"Billing Address";"Fakturační adresa"
+"By checking this box, you agree <a id=""show_tos"" href=""javascript:void(0)";"Zaškrtnutím tohoto políčka souhlasíte s našimi <id=""show_tos"" href=""javascript:void(0)"
+"By checking this box, you agree <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">to our terms and conditions</a>";"Zaškrtnutím tohoto políčka souhlasíte s našimi <id=""show_tos"" href=""javascript:void(0);"" target =""_blank"" class=""underline"">Obchodními podmínkami </a>"
+"Charged to your client every month";"?Charged to your client every month?"
+"Charged to your client every year";"?Charged to your client every year?"
+"Charged to your client when placing the order";"?Charged to your client when placing the order?"
+"Choose the subscription that suits you best:";"Vyberte si předplatné, které vám nejlépe vyhovuje:"
+"Create a new subscription";"Vytvořit nový plán předplatného"
+Creation;Tvorba
+"Describe here this plan. Will be displayed on the front end";"Popis plánu předplatného. Bude se zobrazovat při platbě"
+"Each price must be entered excluding tax";"Každá cena musí být bez DPH"
+"Edit the subscription %s";"Upravit plán %s"
+Expiration;"Vypršení platnosti"
+"Expiration date";"Datum vypršení platnosti"
+"Give a name to this plan. Will be displayed on the front end";"Název plánu předplatného. Bude se zobrazovat při platbě"
+"List of your plans";"Seznam plánů předplatného"
+"List of your subscriptions";"Seznam předplatného"
+None;Žádný
+One-off;Jednorázově
+"Order's details";"Detail objednávky"
+Payment;Platba
+"Payment Option";"Možnost platby"
+"Payment secured by <img src=""%s"" width=""100"" title=""Paypal"" />";"Platba zajištěna společností <img src=""%s"" width=""100"" title=""Paypal"" />"
+"Please, enter a company";"Prosím, zadejte společnost"
+"Please, enter a country";"Prosím, zadejte zemi"
+"Please, enter a description.";"Prosím, zadejte popis"
+"Please, enter a name.";"?Prosím, zadejte jméno?"
+"Please, enter an address";"Prosím, zadejte adresu"
+Pricing;Ceník
+"Proceed to payment?";"Přejít k platbě?"
+Recurring;"Opakující se"
+"Setup Fee";"Zřizovací poplatek"
+"Setup fee";"Zřizovací poplatek"
+Subscription;Předplatné
+"Subscription successfully saved";"Předplatné úspěšně uloženo"
+Subtotal;Mezisoučet
+Thanks!;Děkujeme!
+"The monthly price is not a valid price (e.g. 12.34)";"Měsíční cena není platná cena (např 12.34)"
+"The setup fee is not a valid price (e.g. 12.34)";"Zřizovací poplatek není platná cena (např. 12.34)"
+"The yearly price is not a valid price (e.g. 12.34)";"Roční cena není platná cena (např 12.34)"
+"This subscription is active";"Toto předplatné je aktivní"
+"VAT Number";DIČ
+"You already have a subscription for this application";"Již máte předplatné pro tuto aplikaci"
+"You don't have any subscriptions yet";"Zatím nemáte žádne předplatné"
+"You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play.";"Jste téměř u konce! Po zaplacení vypublikujeme Vaše aplikace jak na iTunes AppStore a Google Play."
+"Your VAT Number is not valid";"Vaše DIČ není platné"
+"Your order has been canceled. If you need any help to place your order, please feel free to contact us.";"Vaše objednávka byla zrušena. Pokud potřebujete s objednávkou pomoc, neváhejte nás kontaktovat."
+"Your order has been successfully paid. Your application will be published very soon.";"Vaše objednávka byla úspěšně zaplacena. Vaše aplikace bude vypublikována v blízké době. Budeme Vás o tom informovat"
+"Your subscription must have at least one price";"Vaše předplatné musí mít alespoň jednu cenu"
+price;cena
+"﻿%s Subscription for %s";"%s Předplatné pro %s"
+"<b>File types:</b> %s<br /><b>Recommended size:</b> %s";"<b>Typy souborů:</b>%s<br /><b>Doporučená velikost:</b>%s"
+"Click here to send your favicon";"Klikněte zde pro vložení faviconu"
+"Click here to send your logo";"Klikněte zde pro vložení loga"
+Communications;Komunikace
+"Current favicon";"Aktuální favicon"
+"Current logo";"Aktuální logo"
+"Display a link to your clients to your support platform";"Zobrazit uživatelům odkaz na podporu"
+"Drop your favicon here";"Vložte favicon"
+"Drop your logo here";"Vložte logo"
+Sales;Obchod
+"Sales Email Address";"Emailová adresa na Obchod"
+"Sender's email address of the emails sent by the site to your clients";"?Sender's email address of the emails sent by the site to your clients?"
+"Sender's name of the emails sent by the site to your clients";"?Sender's name of the emails sent by the site to your clients?"
+"Support Email Address";"Emailová adresa na Podporu"
+"The folder /images/default is not writable.";"The folder /images/default is not writable."
+"Your Location";"Vaše místo"
+"Your Platform";"Vaše platforma"
+"Your company";"Vaše společnost"
+"﻿<b>File types:</b> %s<br /><b>Recommended size:</b> %s";"<b>Typy souborů:</b>%s<br /><b>Doporučená velikost:</b>%s"
+"List of your taxes";"Přehled daňových sazeb"
+"Please select a country";"Vyberte zemi"
+"Please, enter a tax rate.";"Zadejte daňovou sazbu"
+"Please, enter a valid tax rate.";"Prosím zadejte platnou daňovou sazbu"
+Rate;"Daňová sazba"
+Remove;Odstranit
+"You don't have created any taxes yet";"Zatím nemáte vytvořeny žádné daňové sazby"
+"﻿List of your taxes";"Přehled daňových sazeb"
+TEMPLATES;VZORY
+﻿TEMPLATES;VZORY
+"Create a new language";"Přidejte nový jazyk"
+"Default text";"Výchozí text"
+"Edit the language: %s";"Upravte jazyk: %s"
+Language;Jazyk
+"Language successfully saved";"Jazyk úspěšně uložen"
+"List of your languages";"Seznam jazyků"
+"Please, choose a file.";"Prosím, vyberte soubor"
+"Please, choose a language.";"Prosím, vyberte jazyk"
+"Select a file";"Vyberte soubor"
+"Select a language";"Vyberte si jazyk"
+"Text translation";"Překlad textu"
+Translations;Překlady
+"Your translation";"Váš překlad"
+"﻿Create a new language";"Přidejte nový jazyk"
+"Add a link";"Přidat odkaz"
+"An error occurred while saving your picto. Please try againg later.";"Při ukládání ikony došlo k chybě. Zkuste to prosím později"
+"Are you sure you want to delete this link?";"Opravdu chcete smazat tento odkaz?"
+"Are you sure you want to delete this picture?";"Opravdu chcete smazat tento obrázek?"
+Link;Odkaz
+"Link has been successfully deleted";"Odkaz byl úspěšně smazán"
+"Link has been successfully saved";"Odkaz byl úspěšně uložen"
+Link:;Odkaz:
+Picto;Ikona
+"The image has been successfully deleted";"Obrázek byl úspěšně smazán"
+"The image has been successfully saved";"Obrázek byl úspěšně uložen"
+"Your links";"Seznam odkazů"
+"﻿Add a link";"Přidat odkaz"
+"An error occurred while accessing your Wordpress website. Please, verify the domain name %s";"Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte název domény %s"
+"Categories successfully saved";"Kategorie byla úspěšně uložena"
+"Click here to download our Wordpress plugin";"Klikněte zde ke stažení Wordpress pluginu"
+"Enter your Wordpress URL:";"Zadejte URL Vší Wordpress stránky"
+"Loading categories";"Načítání kategorie"
+"We are sorry but no category has been detected on your Wordpress website.";"Omlouváme se, ale žádná kategorie nebyla nalezena na vašich Wordpress stránkách"
+"We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated.";"Je nám líto, ale náš Wordpress plugin nebyl nalezen na vašich webových stránkách. Prosím ujistěte se, že je správně nainstalován a aktivován."
+Wordpress;Wordpress
+"﻿An error occurred while accessing your Wordpress website. Please, verify the domain name %s";"Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte název domény %s"

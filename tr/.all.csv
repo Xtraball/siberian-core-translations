@@ -1,0 +1,1335 @@
+%s - Your new password;%s – Yeni şifreniz
+A request to reset your password has been made to log in to your administration panel.;Yönetim paneli şifrenizi sifirlamak için bir istek yapılmıştır.
+Admin successfully deleted;Yönetici silindi
+An error occurred while saving. The country is not valid.;Kaydedilirken bir hata oluştu. Ülke geçerli değil.
+Are you sure you want to delete this application?;Bu aplikasyonu silmek istediğinize eminmisiniz?
+Can add pages;Sayfa eklenebilir mi
+Change my password;Şifremi değiştir
+Confirm your password;Şifrenizi doğrulayın
+Create a new application;Yeni aplikasyon oluşturun
+Create a new user;Yeni kullanıcı oluşturun
+Created At;De Oluşturuldu
+Created at %s;%s te oluşturuldu
+Do not hesitate to give us your feedback by sharing your needs:;İsteklerinizi paylaşarak bize geribildirim göndermek için tereddüt etmeyin:
+"Edit the account ""%s""";"""%s"" hesabı güncelle"
+Edit the user %s;%s kullanıcını düzenle
+Enjoy!;Keyfine bak!
+Find some advices here:;Burada bazı tavsiyeler bulun:
+Here are your credentials, keep them preciously:;İşte kimlik bilgileri, lütfen gizli tunun:
+List of admin accounts;Yönetici hesapları listesi
+List of my accounts;Hesaplarımın listesi
+List of your users;Kullanıcılarınızın listesi
+Log-in As;Olarak giriş yapın
+Manage access;Erişimi yönet
+My Applications;Uygulamalarım
+My information;Bilgilerim
+Need some help?;Yardıma ihtiyacınız var mı?
+Please enter a valid email address.;Lütfen geçerli bir email adresi girin.
+Please, enter an application name;Lütfen bir aplikasyon ismi girin
+Ready to create your own apps?;Kendi aplikasyonunuzu oluşturmaya hazır mısınız?
+Sign up;Kaydol
+Thanks for choosing us!;Bizi seçtiğiniz için teşekkür ederiz.
+The Support Team;Destek ekibi
+The password and the confirmation does not match.;Doğrulam şifreniz uyuşmuyor.
+The password must be at least 6 characters.;Şifre en az 6 karekter olmalıdır.
+We are sorry but this email address is already used.;Üzgünüz ancak bu email adresi kullanılıyor.
+Welcome!;Hoşgeldiniz.
+You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes.;Bunu seveceksiniz,birçok profosyonel aplikasyon özelliğimiz sayesinde kendi cep telefonu app nizi  birkaç dakika içinde kendi adınızla oluşturabileceksiniz. 
+You can't delete the main account;Ana hesabı silemezsiniz
+You don't have any users yet;Henüz bir kullanıcınız bulunmuyor
+Your credentials;Kimlik bilgileriniz
+Your login:;Girişiniz:
+Your password:;Şifreniz:
+API Keys;API Anahtarları
+Api Keys;Api Anahtarları
+Api Keys successfully saved;Api Anahtarları başarıyla kaydedildi
+"1. Download the app previewer:";"1. App ön izleyicisi indir:"
+"2. Open the app and login";"2. App yi açın ve giriş yapın"
+"<b>File type:</b> %s";"<b>Dosya türü:</b> %s"
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Öge eklemek için</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>tıklayın.</span>"
+Activated;Aktifleştirildi
+"Add a new icon";"Yeni bir ikon ekleyin"
+"Add pages";"Sayfalar ekleyin"
+"Additional options";"Ek seçenekler"
+"An error occured while copying your app icon. Please check the icon, try to send it again and try again.";"App ikonu kopyalanırken bir hata oluştu. App ikonunu kontrol edin, tekrar göndermek ve yeniden deneyin."
+"An error occurred during the generation of your QRCode. Please try again later.";"QR codu üretimi sırasında hata meydana geldi. Daha sonra tekrar deneyiniz."
+"An error occurred while adding the option";"Seçeneği eklenirken bir hata oluştu"
+"An error occurred while changing your layout.";"Ekran planını değiştirirken bir hata oluştu."
+"An error occurred while deleting the option";"Seçeneği silinirken bir hata oluştu"
+"An error occurred while deleting your picture";"Resmi silinirken bir hata oluştu"
+"An error occurred while editing file (%s).";"Dosya (% s) düzenleme sırasında bir hata oluştu."
+"An error occurred while loading";"Yükleme sırasında bir hata oluştu"
+"An error occurred while saving the application. Please try again later.";"Uygulamayı kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while saving your colors.";"Renkleri kaydedilirken bir hata oluştu."
+"An error occurred while saving your page name.";"Sayfa adını kaydedilirken bir hata oluştu."
+"An error occurred while saving. The selected icon is not valid.";"Kaydedilirken bir hata oluştu. Seçilen ikon geçerli değil."
+"An error occurred while sorting your pages. Please try again later.";"Sayfalarınızı sıralama sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
+Analytics;Analizler
+"Android APK Generation";"Android APK Generation"
+"Android Version";"Android Version"
+"App Store Icon";"App Mağza ikonu"
+"Apple's Information";"Apple'ın Bilgisi"
+"Application name";"Uygulam ismi"
+"Are you sure you want to remove this application?";"Bu uygulamayı silmek istediğinize emin misiniz?"
+"At least 200 characters in the description";"Açıklamasında en az 200 karakter olmalı"
+"At least, 4 pages in the application";"Uygulamanızda en az 4 sayfa olmalı"
+Audio;Audio
+"Average by customer";"Müşteri tarafından ortalama"
+Book;Ayırmak
+"Bundle Id";"Paket Id"
+Business;İş
+"Buy one, get one!";"Bir alana,bir bedava!"
+Catalogs;Kataloglar
+Certificate;Sertifika
+"Change your";Değiştirin
+"Change your template";"Temanızı değiştirin"
+"Change your<br /><span>picture</span>";"Resminizi<br /><span>değiştirin</span>"
+"Checking CNAME configuration:";"CNAME yapılandırmasını denetleme:"
+"Choose a <br /><span class=""bold"">picture</span>";"Bir resim<br /><span class=""bold"">seç</span>"
+"Choose a country";"Bir ülke seç"
+"Choose a font family";"Yazı tipi seçin"
+"Choose a template to customize";"Özelleştirmek için bir tema seçin"
+"Choose your colors";"Renklerinizi seçin"
+"Choose your country";"Ülkenizi seçin"
+"Choose your design";"Tasarımınızı seçin"
+"Choose your font style";"Yazı tipi stilini seçin"
+"Choose your homepage image";"Ana sayfanız için resim seçin......<span class=""bold""><a href=""gsgsgsg"">Yardım</a></span>"
+"Choose your icons color";"İkonlarınızın renklerini seçin"
+"Choose your layout";"Ekran planınızı değiştirin"
+"Choose your template";"Temanızı seçin"
+"Click here to download the source code:";"Kaynak kodu indirmek için buraya tıklayın:"
+"Click here to send your certificate";"Sertifikanızı göndermek için buraya tıklayın"
+Colors;Renkler
+"Dashboard icon";"Yönetim paneli ikonu"
+Deactivated;Pasifleştirildi
+"Delete this page?";"Bu sayfa silinsin mi?"
+Design;Dizayn
+"Developer Accounts";"Geliştirici Hesapları"
+"Device Information";"Aygıt Bilgileri"
+"Discount zone description. Here your clients will be able to see the details of each discount";"İndirim tanımı.Müşterileriniz burda indirim detaylarını görebilir."
+Domain;Domain
+"Domain name";"Domain name"
+Download;İndir
+"Download our app previewer";"App önizleyicimizi indir"
+"Drop your certificate here";"Sertifikanızı buraya sürükleyin"
+"Edit my";Düzenle
+"Edit the application ""%s""";"""% s"" uygulamasını Düzenle "
+Editor;Editör
+Education;Eğitim
+Entertainment;Eğlence
+"Extension not allowed, '%s' only";"Uzatma mümkün değil, yanlızca '%s'"
+Features;Özellikler
+Finance;Finans
+"Food & Drink";"Yiyecek & İçecek"
+"Fred W.";NKT
+Games;Oyunlar
+"General Information";"Genel Bilgi"
+"General information";"Genel Bilgi"
+"Global visits";"Global ziyaretler"
+"Google Play Icon";"Google Play Ikonu"
+"Google's Information";"Google'ın Bilgisi"
+"Health & Fitness";"Sağlık & Fitnes"
+"Here is our latest creation. What do you think?";"Son kreasyonumuz,ne düşünüyorsunuz?"
+"Homepage preview";"Anasayfa önizleme"
+"I don't have a Google developer account and I want to create one";"Google geliştirici hesabım yok ve bir tane oluşturmak istiyorum"
+"I don't have an Apple developer account and I want to create one";"Apple geliştirici hesabım yok ve bir tane oluşturmak istiyorum"
+"I have an Apple developer account";"Apple geliştirici hesabım var"
+"I have an Google developer account";"Google geliştirici hesabım var"
+"I let you publish my application under your Apple developer account";"Uygulamamı Apple geliştiri hesabınız altında yayınlamanıza izin veriyorum"
+"I let you publish my application under your Google developer account";"Uygulamamı Google geliştiri hesabınız altında yayınlamanıza izin veriyorum"
+Icons;İkonlar
+Id;Id
+"If you validate, your app's colors and background image will be replaced";"Eğer doğrularsanız, uygulamanızın renkleri ve arka plan görüntüsü değişecek"
+"Installed application";"Yüklenmiş uygulamalar"
+"Key Password";"Anahtar şifre"
+Keywords;"Anahtar Kelimeler"
+"Last name:";Soyad:
+"Library icons";"Kütüphane ikonları"
+Lifestyle;"Yaşam Tarzı"
+"List of my applications";"Uygulamalarımın listesi"
+"List of your applications";"Uygulamalarının listesi"
+Loading;Yükleniyor
+"Lock the entire application";"Uygulamayı kilitleyin"
+"Love it <3";Beğeni<3
+Main;Ana
+"Manage icons";"İkonları yönetin"
+Media;Media
+Medical;Tıbbi
+"Missing Information";"Eksik bilgi"
+"Mobile Source Codes";"Mobil Kaynak Kodları"
+"Mobile source codes";"Mobil Kaynak Kodları"
+"Mobile website information";"Mobil web sitesi bilgileri"
+"My QRCode";QRKodum
+"My application in figures";"Rakamlarla Benim uygulamam"
+Navigation;Navigasyon
+News;Haberler
+"One free coffee";"Bir ücretsiz kahve"
+"Or go on your store<br />and look for ""Apps Company Previewer""";"Ya da mağzanızda gidin <br />""Uygulamalar şirket önizleyicisi"" de arayın"
+"Page name:";"Sayfa adı"
+"Percentage of returning customers";"Geri dönen müşterilerin yüzdesi"
+"Photo & Video";"Poto & Video"
+"Please enter a correct URL for the %s store";"Lütfen %s mağzası için doğru URL'yi girin"
+"Please enter a subdomain.";"Lütfen bir subdomain girin."
+"Please enter a valid URL";"Lütfen geçerli bir URL girin"
+"Please enter a valid address";"Lütfen geçerli bir adres girin"
+"Please enter a valid mobile website address.";"Geçerli bir mobil web sitesi adresi girin."
+Preview;Önizleme
+Productivity;Üretkenlik
+Promote;Destekle
+Publication;Yayın
+"Publish the application";"Uygulamayı yayınla"
+"Publish under our account";"Hesabımız altında yayınla"
+"Ready ? Publish my app!";"Hazır?Uygulamamı yayınla!"
+"Recommanded size:";"Gerekli boyut:"
+Reference;Referans
+"Remove this page from this folder?";"Bu sayfa bu dosyadan kaldırsın mı?"
+"Scan this QR Code";"QR Kodu tara"
+"Scan this QR Code:";"QR Kodu tara:"
+"Secondary category";"İkincil Kategori"
+"Secondary category<br />(Optional)";"İkincil Kategori</br>(Zorunlu değil)"
+"Send here your iOS certificate to enable the push notifications for this application.";"Bu uygulama için push bildirimlerini etkinleştirmek için buradan iOS sertifikası gönder."
+"Send you .pem certificate";".pem sertifikayı gönder"
+"Show the applications waiting for publication only.";"Sadece yayın için bekleyen uygulamaları göster."
+"Social Networking";"Sosyal Ağ"
+Sports;Sporlar
+"Startup image";"Başlangıç görüntüsü"
+Status;Statü
+"Store Password";"Mağza Şifresi"
+"Store URL";"Mağza URL si"
+"Stores Info";"Mağza bilgisi"
+"The Bundle Id is required";"Paket Id gerekli"
+"The QR Code is not available at this moment";"QR Kodu şu an için uygun değil"
+"The application has been successfully saved";"Uygulama başarıyla kaydedildi"
+"The application name";"Uygulama adı"
+"The application's name cannot start with a number";"Uygulama adı numara ile başlayamaz"
+"The description";Açıklama
+"The description must be at least 200 characters";"Açıklama en az 200 karekter içermeli"
+"The desktop icon";"Desktop ikonu"
+"The entered bundle id is incorrect, it should be like: com.siberiancms.app";"Girilen paket kimliği yanlış, com.turkapp.appo gibi olmalı"
+"The field is required";"Bu alan zorunlu"
+"The file has been successfully uploaded";"Dosya başarıyla yüklendi"
+"The following information are needed to download the source codes:<br />";"Aşağıdaki bilgiler kaynak kodlarını indirmek için gereklidir: <br />"
+"The homepage image";"Ana sayfa resmi"
+"The key cannot be empty.";"Anahtar boş birakılamaz"
+"The key is already used by another application.";"Anahtar başka bir uygulama için kullanılmıştır"
+"The keywords";"Anahtar Kelimeler"
+"The main category";"Ana kategori"
+"The startup image";"Başlangıç resmi"
+"This application does not exist";"Bu uygulama mevcut değil"
+"This application is visible on the front";"Bu uygulama görülür durumda"
+"This key is already used by system features.";"Bu anahtar zaten sistem özellikleri tarafından kullanılıyor."
+"This option enables you to set the currency used in your app";"Bu seçenek uygulamada kullanılan para birimini ayarlamanızı sağlar"
+"This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login.";"Bu sayfa mobil kullanıcıların hesaplarına girmek ve yönetmek için gösterilecektir.Kullanıcı girişi gerekli özellikleri kullandığınızda otomotik olarak eklenir."
+"To be able to download source codes, please provide the following information:<br />";"Kaynak kodları indirmenin mümkün olabilmesi için, aşağıdaki bilgileri veriniz: <br />"
+Travel;Seyahat
+URL;URL
+"URL Key";"URL Anahtarı"
+"Use into all of your application's pages";"Uygulamanızın tüm sayfaları içine kullanın"
+"Used points";"Kullanımış puanlar"
+"User Information";"Kullanıcı bilgisi"
+Utilities;Hizmetler
+Version;Versiyon
+Weather;Hava
+"You already have sent a certificate.";"Sertifikayı gönderdiniz."
+"You can download your QRCode by <a class=""f-bold"" href=""%s"">clicking here</a>";"QR kodunuzu <a class=""f-bold"" href=""%s"">yükleyebilirsiniz.</a>"
+"You can't use this domain.";"Bu domain i kullanamazsınız."
+"You don't have any applications yet";"Hiç uygulamanız yok"
+"You have already sent a certificate";"Sertifikayı gönderdiniz."
+"You have sent a certificate.";"Bir sertifika yolladınız."
+"You have to create a Google account before publishing your application. <a href=""https://play.google.com/apps/publish/signup"" target=""_blank"">Click here to create one.</a>";"Başvurunuzu yayınlamadan önce bir Google hesabı oluşturmanız gerekir. <a href=""https://play.google.com/apps/publish/signup"" target=""_blank""> oluşturmak için burayı tıklayın. </a>"
+"You have to create an Apple account before publishing your application. <a href=""https://developer.apple.com/register/index.action"" target=""_blank"">Click here to create one.</a>";"Başvurunuzu yayınlamadan önce bir Apple hesabı oluşturmanız gerekir. <a href=""https://developer.apple.com/register/index.action"" target=""_blank""> oluşturmak için burayı tıklayın. </a>"
+"You haven't chosen any template yet";"Henüz bir tema seçmediniz"
+"You may not delete a library icon";"Kütüphane ikonu silinemez"
+"You must have published your application to access this feature";"Bu özelliğe erişmek için başvurunuz yayınlanmış olmalı"
+"Your CNAME is properly set";"CNAME doğru ayarlanmamış"
+"Your best customers";"En iyi müşterileriniz"
+"Your customers in figures";"Rakamlarla müşterileriniz"
+"Your domain key ""%s"" is not valid.";"Domain anahtarınız  ""%s"" geçerli değil."
+"Your mobile address should not contain special characters";"Mobil adresiniz özel karakterler içermemelidir"
+"Your pages";Sayfalarınız
+"iOS Certificate";"iOS sertifikası"
+"iPad Retina:";"iPad Retina:"
+"iPhone 5 / 5S:";"iPhone 5 / 5S:"
+"iPhone 6 Plus:";"iPhone 6 Plus:"
+"iPhone 6:";"iPhone 6:"
+"iPhone Version";"iPhone Versiyonu"
+icon;ikon
+logo;logo
+times;kez
+"%d Unread Message";"%d Okunmamış mesaj";
+"%d Unread Messages";"%d Okunmamış mesajlar";
+"Account";"Hesap";
+"Change the password";"Şifreyi değiştir";
+"Click to mark as not read";"Okunmamış olarak işaretle";
+"Click to mark as read";"Okunmuş olarak işaretle";
+"Create a user";"Yeni kullanıcı oluştur";
+"Edit the account ""%s""";"""%s"" hesabını düzenle";
+"Edit the user";"Kullanıcı düzenle";
+"Enter your credentials:";"Kimlik bilgilerinizi girin:";
+"List of backoffice accounts";"Backofis kullanıcıları listesi";
+"List of the messages";"Mesajlar listesi";
+"Login to your backoffice interface";"Backofis arabirimine giriş";
+"People who are allowed to access the backoffice";"Backofis kullanmasına izin verilenler";
+"Siberian CMS";"Siberian CMS";
+"This account can't be deleted, it's the only one";"Bu hesap silinemez";"Bu hesap silinemez"
+"User successfully deleted";"Kullanıcı başarıyla silindi";
+"View Details";"Ayrıntıları görüntüle";
+"Your new password";"Yeni şifreniz";
+"Your password";"Şifreniz";
+Booking details;Rezervasyon detayları
+Booking details:;Rezervasyon detayları:
+Booking subject:;Rezervasyon konusu:
+Comment:;Yorum:
+Date and time;Tarih ve zaman
+Date and time:;Tarih ve zaman:
+Email address:;Email adres:
+Enter the location name and contact email:;Konumu adını ve iletişim e-posta girin:
+First name / Last name;İsim / Soyisim
+Here are his personal information:;Kişisel bilgileri:
+Name:;İsim:
+Nom du lieu :;Yer Adı:
+People number:;Kişi No:
+Phone number:;Tel No:
+Please fill out the following fields: ;Aşağıdaki alanları eksiksiz doldurunuz:
+Please fill out the following fields:<br />;Aşağıdaki alanları eksiksiz doldurunuz:<br />
+Please, choose a store;Lütfen bir mağza seçin
+Thank you for your request. We'll answer you as soon as possible.;İsteğiniz için teşekkür ederiz. En kısa sürede size cevap vereceğiz.
+The booking information;Rezervasyon bilgisi
+The booking informations;Rezervasyon bilgileri
+The date and time of the booking;Rezervasyon tarih ve saati
+The number of people;Insan sayısı
+You have received a message for the booking of;Rezervasyon için bir mesaj aldınız
+Your phone number or email address;Telefon numarası veya e-posta adresi
+%s - All;%s – Tümü
+Add a category;Bir kategori ekle
+Add a format;Bir format ekle
+All;Tümü
+An error occurred while loading your product.;Ürün yüklenirken bir hata oluştu.
+An error occurred while saving the category. Please try again later.;Kategori yüklenirken bir hata oluştu tekrar deneyin.
+An error occurred while saving the product. Please try again later.;Ürün kaydedilirken bir hata oluştu yeniden deneyin.
+An error occurred while saving the set meal. Please try again later.;Yemek kaydedilirken bir hata oluştu yeniden deneyin.
+An error occurred while saving. One of your categories could not be identified.;Kaydedilirken bir hata oluştu. Kategorilerden biri tespit edilememiştir.
+An error occurred while saving. One of your products could not be identified.;Kaydedilirken bir hata oluştu. Ürünlerinizin biri tespit edilememiştir.
+Are you sure you want to delete this product?;Bu ürünü silmek istediğinize eminmisiniz?
+Category;Kategori
+Choose a category;Bir kategori seçin
+Choose a subcategory;Bir alt kategori seçin
+Click on a category to display sub-categories;Alt kategorileri görüntülemek için bir kategoriye tıklayın
+Create a new product;Yeni bir ürün oluşturun
+Does this product have many formats?;Bu ürünün diğer formatları var mı?
+Edit the;Düzenle
+Edit the product;Ürünü düzenle
+Format;Format
+Picture;Resim
+Price;Fiyat
+Product;Ürün
+Product formats;Ürün formatları
+Product name;Ürün ismi
+Rules;Kurallar
+Set meal successfully deleted.;Set yemek başarıyla silindi
+Set meal successfully saved.;Set yemek basarıyla kaydedildi
+Sub-category;Alt -Kategori
+st;st
+sub-category;Alt-kategori
+.mp4 or .3gp format;.mp4 or .3gp format
+Add ;Ekle
+Add sections:;Bölümler ekleyin:
+Address:;Adres:
+Alignment:;Hizalama:
+An error occurred while saving your page.;Sayfanız kaydedilirken bir hata oluştu.
+Are you sure you want to delete this page?;Bu sayfayı silmek istediğinizden eminmisiniz?
+Display address;Adresi göster
+Display location button;Lokasyon gösterme düğmesi
+Label;Etiket
+Label:;Etiket:
+Large;Geniş
+Loading picture:;Resim yükle:
+Make a search or enter the Youtube Url:;Youtube Url girin:
+Medium;Orta
+My Youtube video:;Youtube videolarım:
+My video;Videom
+No videos matching your selection;Seçiminizi eşleşen video yok
+Page successfully deleted;Sayfa başarıyla silindi
+Page successfully saved;Sayfa başarıyla kaydedildi
+Podcast URL:;Podcast URL:
+Select a button type:;Bir puton türü seçin:
+Select a video type:;Bir video çeşidi seçin:
+Small;Küçük
+Video URL:;Video URL:
+Your Podcast:;Podcast ınız:
+"'Near me' radius (in km):";"'Yakınımda' yarıçap (km):"
+"An error occurred while deleting this answer. Please try again later.";"Bu cevap silinirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"Create a news:";"Bir haber oluşturun:"
+"Hide this info";"Bu bilgiyi gizle"
+"Information successfully deleted";"Bilgi başarıyla silindi"
+"Information successfully hidden";"Bilgi başarıyla gizlendi"
+"Information successfully saved";"Bilgi başarıyla kaydedildi"
+"Information successfully shown";"Bilgi başarıyla gösterildi"
+"Insert a";İliştir
+"It will be visible only after validation by our team.";"Ekibimiz tarafından doğrulamadan sonra gösterilir olacaktır."
+"My customers answers";"Müşteri cevapları"
+"My customers' comments";"Müşteri yorumları"
+"Near me";Yakınımda
+"Near me settings";"Yakınımda ayarları"
+"Near me' radius (in km):";"Yarıçap yakınımda (Km):"
+Post;Posta
+"Publishing date";"Yayın tarihi"
+Radius;Yarıçap
+"Radius must be a valid numeric value.";"Yarıçap numerik değer olmalı."
+"Radius must be provided.";"Yarıçap belirtilmeli."
+Recent;Enson
+"Show this info";"Bu bilgiyi göster"
+"There is no comment for this news";"Bu habere ait yorum bulunmuyor"
+"Was flagged as inappropriate";"Uygunsuz olarak işaretlendi"
+"You can't like more than once the same news";"Aynı haber için bir kereden fazla beğeni gönderemzsin"
+"You need to be connected to create a post";"Bir yazı oluşturmak için internete bağlı olmanı gerekir"
+"Your flag has successfully been notified";"Bayrağınız başarıyla bildirilmiştir"
+"Your like has been successfully added";"Beğenin başarıyla eklendi"
+"Your message has been successfully saved.";"Mesajınız başarıyla kaydedildi"
+"Your post was successfully added";"Yazınız başarıyla eklendi "
+An error occurred while saving your contact informations.;Iletişim bilgileri kaydedilirken bir hata oluştu.
+An error occurred while sending your request. Please try again later.;İsteğiniz gönderilirken bir hata oluştu. Daha sonra tekrar deneyiniz.
+And his phone number:;Telefonunu ekleyin:
+Are you sure you want to remove the picture?;Bu resmi kaldırmak istediğinizden eminmisiniz?
+City;Şehir
+Contact information;İletişim bilgisi
+Here is his email:;Email adresi:
+Here is his message:;Mesajı:
+Please enter properly the following fields: <br />;Aşağıdaki alanları doldurun: <br />
+Twitter;Twitter
+Website;Website
+You have received a message from a contact:;Bir kişiden bir mesaj aldınız:
+Your email;Email adresiniz:
+Your message has been sent;Mesajınız gönderildi
+Your request;Ricanız
+Zip code;Posta kodu
+%s - Account creation;%s – Hesap oluşturma
+%s - Your new password;%s – Yeni şifreniz
+A request to reset your password has been made.;Şifrenizi sıfırlamak için bir istek yapılmıştır.
+An error occurred while connecting to your Facebook account. Please try again later;Facebook hesabınıza bağlanırken bir hata oluştu. Daha sonra tekrar deneyiniz
+Are you sure you want to remove this user?;Bu kullanıcıyı kaldırmak istediğinizden emin misiniz?
+Change Password;Şifreyi değiştir
+Congratulations,;Tebrikler,
+Create;Oluştur
+Create a new user;Yeni kullanıcı oluştur
+Create an account;Hesap oluştur
+Customer;Müşteri
+Customers;Müşteriler
+Disconnect;Bağlantı yok
+Edit the user %s;%s kullanıcıyı düzenle
+First name;Adı
+Forgot your password?;Şifrenizi mi unuttunuz?
+Gender;Cinsiyet
+Here are your credentials:;Kimlik bilgileriniz:
+I accept the <u>privacy policy</u>;Gizlilik politikasını <u>kabul ediyorum</u>
+If you encounter any problems, do not hesitate to contact us:;Eğer herhangi bir sorunla karşılaşırsanız, lütfen bizimle irtibata geçmekten çekinmeyin:
+Last name;Soyad
+Login:;Giriş:
+Miss;Bayan
+Mr;Bayan
+Mrs;Bay
+My Account;Hesabım
+My application's users;Uygulama kullanıcıları
+Old Password;Önceki şifre
+Or with your account;ya da senin hesabınla
+Please enter your email address. We'll send you your password right now.;E-posta adresinizi girin. Size şifrenizi göndereceğiz.
+Please log in with your mobile phone;Cep telefonu ile Giriş Yapın
+Privacy Policy;Gizlilik Politikası
+See you soon,;Yakında görüşürüz,
+Show me in ranking;Sıralamamı göster
+The old email address does not match the entered email address.;Eski e-posta adresi girdiğiniz e-posta adresi ile eşleşmiyor.
+"This user can access the pages locked by the ""Locker"" feature";"Bu kullanıcı ""Locker"" özelliği ile kilitli sayfaları erişebilir"
+This user is visible in ranking;Bu kullanıcı sıralamasında görünür
+User;Kullanıcı
+Users;Kullanıcılar
+User Information;Kullanıcı bilgisi
+We are sorry but the %s account is already linked to one of our customers;Üzgünüz ancak% s hesap müşterilerimizin birine bağlıdır
+You have created your account. With this account, you will be able to enjoy great offers available in our application.;Hesabınızı oluşturduk.Bu hesapla mevcut tüm fonksiyonları kullanabilirsiniz.
+Your account has been successfully saved;Hesabınız başarıyla kaydedildi
+"%s ago";"%s önce"
+"404, page not found";"404, sayfa bulunamadı"
+"APIs";"API ler"
+"Accounts";"Hesaplar"
+"Actions";"Eylemler"
+"Add";"Ekle"
+"Add a";"Ekle"
+"Add image";"Resim ekle"
+"Address";"Adres"
+"All items";"Tüm ögeler"
+"An error occurred during process. Please try again later.";"İşlemi sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred during the process. Please try again later.";"İşlemi sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while loading places.";"Yerleri yüklerken bir hata oluştu."
+"An error occurred while loading. Please try again later.";"Yüklenirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while loading. Please, try again later.";"Yüklenirken bir hata oluştu. Daha sonra tekrar deneyin."
+"An error occurred while saving";"Kaydedilirken bir hata oluştu"
+"An error occurred while saving your account. Please try again later.";"Hesabınızı kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while saving your picture. Please try againg later.";"Resminiz kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while saving. Please try again later.";"Kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while saving. Please, try again later.";"Kaydedilirken bir hata oluştu. Daha sonra tekrar deneyin."
+"An error occurred while uploading your file. Please, try again later.";"Dosyanızı yüklenirken bir hata oluştu. Daha sonra tekrar deneyin."
+"An unexpected error occurred while calculating the route.";"Rota hesaplanırken beklenmeyen bir hata oluştu."
+"Appearance";"Görünüm"
+"Application";"Uygulama"
+"Application Name";"Uygulama adı"
+"Applications";"Uygulamalar"
+"Are you sure you want to delete this element?";"Bu öğeyi silmek istediğinizden emin misiniz?"
+"Are you sure you want to remove this account?";"Bu hesabı kaldırmak istediğinize emin misiniz?"
+"Authentication failed. Please check your email and/or your password";"Kimlik doğrulama başarısız oldu. E-posta adresinizi ve / veya şifrenizi kontrol edin"
+"Back";"Geri"
+"Background";"Background"
+"Browse";"Browse"
+"Can only be used once";"Sadece bir kez kullanılabilir"
+"Cancel";"İptal"
+"Cart";"Sepet"
+"Change password";"Şifreyi değiştir"
+"City";"Şehir"
+"City:";"Şehir:"
+"Close";"Kapat"
+"Comment";"Yorum"
+"Comments";"Yorumlar"
+"Communication";"İletişim"
+"Company";"Şirket"
+"Coms";"Coms"
+"Conditions";"Koşullar"
+"Confirm Password";"Şifreyi doğrula"
+"Confirm new password";"Yeni şifreyi doğrula"
+"Contact successfully added to your address book";"Kontak başarıyla adres defterinize eklendi"
+"Country";"Ülke"
+"Create";"Oluştur"
+"Create a new account";"Yeni bir hesap oluştur"
+"Created at";"de oluşturuldu"
+"Currency";"Para birimi"
+"Current password";"Mevcut şifre"
+"Dashboard";"Yönetim Paneli"
+"Date of birth";"Doğum tarihi"
+"Date of birth:";"Doğum tarihi"
+"Default Languages";"Birincil dil"
+"Delete";"Sil"
+"Description";"Açıklama"
+"Description:";"Açıklama:"
+"Details";"Detaylar"
+"Edit";"Düzenle"
+"Editing";"Düzenleme"
+"Email";"Email"
+"Email address";"Email adresi"
+"Email:";"Email:"
+"End at";"de bitti"
+"Error : <br/>";"Hata : <br/>"
+"Errors : <br/>";"Hatalar : <br/>"
+"Export your customers";"Müşterilerinizi dışarı aktarın"
+"Extension not allowed, '%s' only";"Uzatma izin verilmiyor,sadece '%s'"
+"Facebook";"Facebook"
+"Firstname";"Adı"
+"Firstname:";"Adi:"
+"Forgot your password ?";"Şifrenizi mi unuttunuz?"
+"Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now.";"Şifrenizi mi unuttunuz? Üzülmeyin! E-posta adresini girin ,size bir yenisini göndereceğiz."
+"General";"Genel"
+"Hello,";"Merhaba,"
+"Here is your new password:";"Yeni şifreniz:"
+"How do you want to access the backoffice if you remove the only user remaining?";"Bu hesap silinemez"
+"ID";"ID"
+"Image not high enough, %spx minimum allowed.";"Resim yüksekliği yeterli değil,en az %spx olmalı."
+"Image not large enough, %spx minimum allowed.";"Resim eni yeterli değil,en az %spx olmalı."
+"Image not large enough, '%s' allowed.";"Resim yeterince büyük değil,izin verilen '%s'"
+"Image too high, %spx maximum allowed.";"Resim yüksekliği çok fazla,en fazla %spx olmalı."
+"Image too large, %spx maximum allowed.";"Resim çok büyük, en fazla %spx olmalı."
+"Image too large, '%s' allowed.";"Resim çok büyük,izin verilen büyüklük '%s'."
+"In order to fully enjoy our features, we encourage you to use at least:.<br />";"Uygulamanızı etkin kullanmanız için  önerdiğimiz minimum özellik adedi:<br />"
+"In order to publish your application, we need:<br />- ";"Uygulamanızı yayınlayabilmemiz için gerekenler:<br />- "
+"Incorrect filetype.";"Yanlış dosya türü,"
+"Info successfully saved";"Bilgi başarıyla kaydedildi"
+"Information";"Bilgi"
+"Infos successfully saved";"Bilgi başarıyla kaydedildi"
+"Insert a <br /><span class=""bold"">cover image</span>";"Bir kapak resmi <br /><span class=""bold"">yükleyin</span>"
+"Invalid place";"Geçersiz yer"
+"Invoices";"Faturalar"
+"Last Name";"Soy Ad"
+"Lastname";"Soyad"
+"Lastname:";"Soyad:"
+"Like";"Beğen"
+"Likes";"Beğeniler"
+"Link";"Link"
+"Load More";"Daha fazla yükle"
+"Locate";"Yerleştir"
+"Location:";"Lokasyon:"
+"Log in";"Oturum Aç"
+"Log-in";"Oturum Aç"
+"Log-out";"Çıkış"
+"Logged in as";"Olarak girildi"
+"MM,d yy";"MM,d yy"
+"MM/dd/y";"MM/dd/y"
+"MM/dd/y 'at' hh:mm a";"MM/dd/y 'at' hh:mm a"
+"MM/dd/y hh:mm a";"MM/dd/y hh:mm a"
+"MM/dd/yy";"MM/dd/yy"
+"MM/dd/yyyy";"MM/dd/yyyy"
+"MMMM dd y";"MMMM dd y"
+"Main category";"Ana kategori"
+"Make this image colorizable";"Bu resmi renklendirilebilir yap"
+"Manage";"Yönet"
+"Map";"Harita"
+"Maps";"Haritalar"
+"Message from your app %s";"%s uygulamanızdan mesaj "
+"Messages";"Mesajlar"
+"Modules";"Modüller"
+"More";"Daha"
+"My account";"Hesabım"
+"My invoices";"Faturalarım"
+"Name";"Ad"
+"Never";"Asla"
+"New";"Yeni"
+"Next";"Sonraki"
+"No";"Yok"
+"No address to display on map.";"Harita üzerinde gösterilecek bir adres yok."
+"No place to display on map.";"Harita üzerinde gösterilecek bir yer yok."
+"No results";"Sonuç yok"
+"No uploaded image";"yüklenen resim sayısı"
+"Nothing to display";"Gösterilecek bir şey yok"
+"Number";"Sayı"
+"OK";"OK"
+"OR";"YA DA"
+"Ouch, this page doesn't exist";"Bu sayfa mevcut değil"
+"Password";"Şifre"
+"Password:";"Şifre:"
+"Passwords don't match";"Şifre eşleşmiyor"
+"Payment";"Ödeme"
+"Phone";"Telefon"
+"Phone:";"Tel:"
+"Photos";"Resimler"
+"Plans";"Planlar"
+"Platform Name";"Platform Adı"
+"Player";"Oyuncu"
+"Please enter a password";"Lütfen bir şifre girin"
+"Please enter a valid URL.";"Lütfen geçerli bir URL girin."
+"Please enter a valid credit card number.";"Lütfen geçerli bir kredi kartı numarası girin."
+"Please enter a valid date (ISO).";"Lütfen geçerli bir tarih girin (ISO)."
+"Please enter a valid date.";"Lütfen geçerli bir tarih girin."
+"Please enter a valid email address";"Lütfen geçerli bir email girin"
+"Please enter a valid email address.";"lütfen geçerli bir email adresi girin."
+"Please enter a valid number.";"Lütfen geçerli bir numara girin."
+"Please enter a valid url";"Lütfen geçerli bir url girin"
+"Please enter a value between {0} and {1} characters long.";"Lütfen {0} ile {1} karakter uzunluğu arasında bir değer girin."
+"Please enter a value between {0} and {1}.";"Lütfen {0} ile {1} arası bir değer giriniz."
+"Please enter a value greater than or equal to {0}.";"Lütfen {0} a eşit ya da büyük bir değer girin."
+"Please enter a value less than or equal to {0}.";"Lütfen {0} a eşit ya da daha küçük bir değer girin."
+"Please enter at least {0} characters.";"Lütfen en az {0} karakter girin."
+"Please enter no more than {0} characters.";"{0} karakterden daha fazla girmeyiniz."
+"Please enter only digits.";"Lütfen yalnızca numara girin."
+"Please enter the same value again.";"Lütfen aynı değeri tekrar girin."
+"Please enter your email address";"Lütfen email adresinizi girin"
+"Please fill in the following fields:";"Aşağıdaki alanları doldurunuz:"
+"Please fix this field.";"Lütfen alanı düzenleyin."
+"Please log in.";"Lütfen giriş yapın"
+"Please, enter a correct email address.";"Lütfen doğru email girin"
+"Please, enter a password.";"Lütfen bir şifre girin."
+"Please, enter a valid date";"Lütfen geçerli bir tarih girin"
+"Podcast";"Podcast"
+"Podcast URL (iTunes format)";"Podcast URL (iTunes format)"
+"Podcast type is invalid or can't be found";"Podcast türü geçersiz ya da bulunamıyor"
+"Postcode";"Posta kodu"
+"Postcode:";"Posta Kodu:"
+"Push";"Bildirim"
+"Required fields";"Gerekli alanlar"
+"Resize your picture";"Resminizi yeniden boyutlandırın"
+"Resize your picture:";"Resminizi yeniden boyutlandırın:"
+"SEND";"YOLLA"
+"Save";"Sakla"
+"Search";"Ara"
+"Select a country";"Bir ülke seçin"
+"Select all";"Tümünü seçin"
+"Send";"Gönder"
+"Send your pictures";"Resimlerinizi gönderin"
+"Settings";"Ayarlar"
+"Size:";"Boyut:"
+"Street";"Cadde"
+"Street:";"Cadde:"
+"Subscriptions";"Üyelik"
+"Support";"Destek"
+"Support Link";"Destek linki"
+"Tax";"Vergi"
+"Taxes";"Vergiler"
+"Text";"Metin"
+"The account has been successfully saved";"Hesap başarıyla kaydedildi"
+"The address you're looking for does not exists.";"Aradığınız adres mevcut değil."
+"The email is required";"Email gerekli"
+"The file '%s' does not exist";"Dosya '%s' mevcut değil"
+"The image '%s' does not exist";"Resim '%s' mevcut değil"
+"The image size '%s' could not be detected.";"Resim boyutu '%s' algılanamadı."
+"The old password does not match the entered password.";"Şifreler eşleşmiyor."
+"The password is required";"Şifre gerekli"
+"The password must be at least 6 characters";"Şifre en az 6 karekter olmalı"
+"The payment has been cancelled, something wrong happened? Feel free to contact us.";"Ödeme iptal edildi, bir şeyler yanlış oldu? Bizimle temas kurmaktan çekinmeyin."
+"This administrator does not exist";"Bu Yönetici mevcut değil"
+"This email address is already used";"Bu email adresi kullanımda"
+"This field is required";"Bu dosya gerekli"
+"This field is required.";"Gerekli alanları doldurunuz."
+"This section is unlocked for mobile users only";"Bu bölüm sadece mobil kullanıcılar için"
+"Timezone";"Zaman Dilimi"
+"Title";"Başlık:"
+"Title:";"Başlık:"
+"Total";"Toplam"
+"Translations";"Çeviriler"
+"Unable to add the contact to your address book";"Adres defterinize kişi eklenemiyor"
+"Unable to calculate the route.";"Rota hesaplanamıyor."
+"Unable to save image";"Resim kaydedilemiyor"
+"Unrecognized image format";"Tanınmayan resim biçimi"
+"Updated at";"de güncellendi"
+"Use this coupon";"Bu kuponu kullanın"
+"User";"Kullanıcı"
+"User successfully saved";"Kullanıcı başarıyla kaydedildi"
+"Username";"Kullanıcı adı"
+"Users";"Kullanıcılar"
+"VAT Number";"Vergi numarası"
+"Validate";"Geçerli"
+"Version %s";"Versiyon %s"
+"View";"Görünüm"
+"We are sorry but this address is already used.";"Üzgünüz ama bu adres kullanımda"
+"We are sorry but this email address already exists.";"Üzgünüz ama bu email kullanılmış"
+"We are sorry but this feature is not available yet";"Üzgünüz ama bu özellik henüz mevcut değil"
+"Website";"Website"
+"Yes";"Evet"
+"You already have this user in your contact";"Bu kullanıcı zaten listenizde"
+"You are gone offline";"Çevrim dışısınız"
+"You can upload a pem certificate only.";"Sadece bir pem sertifikası yükleyebilirsiniz."
+"You can upload a zip archive only.";"Sadece zip arşiv yüklenebilir."
+"You can upload an icon only (.ico and .png).";"Sadece (.ico ve .png) yükleyebilirsiniz."
+"You can upload an image only (.jpg, .jpeg, .gif and .png).";"Sadece (.jpg, .jpeg, .gif ve .png) yükleyebilirsiniz."
+"You can't upload more than one file at a time.";"Bir seferde birden fazla dosya yüklenemez."
+"You must be logged in to post a comment";"Yorum yazmak için giriş yapmalısınız"
+"You must give the permission to the app to add a contact to your address book";"Adres defterinize kontak eklemek için uygulamaya izin vermelisiniz"
+"You must share your location to access this page.";"Bu sayfaya ulaşmak için yerinizi paylaşmalısınız."
+"Your browser is too old to view the content of our website.<br />";"Tarayıcınız sitemizin içeriğini görüntülemek için çok eski. <br />"
+"Your comment";"Yorumunuz"
+"Your email address";"Email adresiniz"
+"Your email address does not exist";"Email adresiniz mevcut değil"
+"Your name";"Adınız"
+"Your new password has been sent to the entered email address";"Yeni şifreniz girilen e-posta adresine gönderildi"
+"Your password does not match the entered password.";"Şifreler eşleşmiyor."
+"Youtube";"Youtube"
+"close";"Kapat"
+"day";"gün"
+"days";"gün "
+"en";"tr"
+"hour";"saat"
+"hours";"saat"
+"loading";"yüklüyor"
+"minute";"dakika"
+"minutes";"dakika"
+"picture";"resim"
+"second";"saniye"
+"seconds";"saniye"
+"title";"başlık"
+"titles";"başlıklar"
+"to add a subfolder.";"Bir alt klasör eklemek için."
+An error occurred while deleting the event;Etkinlik silinirken bir hata oluştu
+An error occurred while loading this event;Etkinlik yüklenirken bir hata oluştu
+Beginning date:;Başlangıç tarihi:
+Calendar successfully deleted;Takvim başarıyla silindi
+Calendar's URL;Takvim URL
+Calendar's title;Takvim başlığı
+Change picture;Resmi değiştir
+Create a new event;Yeni bir etkinlik oluştur
+Custom Page;Müşteri Sayfası
+Delete this calendar?;Takvim silinsin mi?
+Delete this event?;Etkinlik silinsin mi?
+Ending date:;Bitiş tarihi:
+Enter your calendar's title;Takviminizin başlığını girin
+Event;Etkinlik
+Event successfully deleted;Etkinlik başarıyla silindi
+Event successfully saved;Etkinlik başarıyla kaydedildi
+Event title:;Etkinlik başlığı:
+Illustration;Örnekleme
+Max size: 2000x2000px - allowed formats: jpg & png;Max boyut: 2000x2000px – izin verilen formatlar: jpg & png
+Modify the event;Etkinliği düzenleyin
+RSVP;RSVP
+RSVP URL:;RSVP URL:
+Your Facebook page ID;Facebook sayfa ID si
+"Your Facebook page ID <span class=""required-entry"">*</span> :";"Facebook sayfa ID si <span class=""required-entry"">*</span> :"
+Your calendar is empty;Takviminiz boş
+iCal;iCal
+Add a page;Bir sayfa ekle
+Click on;Üzerine tıkla
+"Click on a page to add it to the folder <span id=""folder_name"" class=""folder_name"">""%s""</span>";"Klasöre eklemek için bir sayfaya tıklayın <span id=""folder_name"" class=""folder_name"">""%s""</span>"
+Click on a page to add it to the folder;Klasöre eklemek için bir sayfaya tıklayın
+Close mobile display;Mobil ekranı kapatın
+Delete this folder and all its subfolders?;Bu klasörü ve tüm alt klasörleri sil?
+Folder title is required;Klasör başlığı gereklidir
+Folders;Klasörler
+Mobile display;Mobil ekran
+New folder;Yeni klasör
+Subtitle;Altyazı
+You cannot add this feature;Bu özelliği eklenemez
+You must first complete the current category creation process;Önce mevcut kategori oluşturma işlemini tamamlamanız gerekir
+You will lose all unsaved changes, continue?;Devam ederseniz tüm kaydedilmemiş değişiklikleri kaybedersiniz?
+to add a folder.;bir klasör eklemek için.
+<strong>%s</strong> must be a numerical value<br />;<strong>%s</strong> numerik değer olmalı<br />
+<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />;<strong>%s</strong> Geçerli bir tarih olmalıdır (örk. gg/aa/yyyy)<br />
+<strong>%s</strong> must be a valid date<br />;<strong>%s</strong> geçerli bir tarih olmalı<br />
+<strong>%s</strong> must be a valid email address<br />;<strong>%s</strong> geçerli email olmalı<br />
+<strong>%s</strong> must be filled<br />;<strong>%s</strong> doldurulmalı<br />
+Add a field;Bir alan ekle
+Add a section;Bir bölüm ekle
+Add an option;Bir seçenek ekle
+An error occurred while saving. A field can't be identified.;Kaydedilirken bir hata oluştu. Bir alan tespit edilemedi.
+Are you sure you want to remove this field?;Bu alanı kaldırmak istediğinizden eminmisiniz?
+Are you sure you want to remove this section?;Bu bölümü kaldırmak istediğinizden eminmisiniz?
+Hello,;Merhaba,
+Checkbox;Onay kutusu
+Choose a field type:;Bir alan cinsi seçin:
+Create a new field;Yeni bir alan oluşturun
+Date/Hour;Tarih/Saat
+Drop down;Drop down
+Edit field %s;%s Alanını düzenle
+Field name;Alan adı
+Field name:;Alan adı:
+Geolocation;Coğrafi Konum
+Manage fields;Alanları yönet
+Manage options:;Seçenekleri yönet:
+Multiline text;Çok satırlı metin
+Option;Seçenek
+Radio;Radio
+Recipient email:;Alıcı e-posta:
+The form has been sent successfully;Form başarıyla gönderildi
+You have to choose a field type.;Bir alan türü seçmek zorundasınız.
+Your app's form;Uygulamanızın formu
+Your form has been filled out, here are the answers:;Formunuz dolduruldu,cevaplar burda:
+"%s Update";"%s Güncelleme"
+"All of your modules are up to date";"Tüm modülleriniz güncel"
+"Click here to send your module";"Burayı tıklayarak modülü gönderin"
+"Drop your module here";"Modülünüzü buraya sürükleyin"
+Host;Host
+Installing;Yükleniyor
+"Installing module <em><span id=""label_module""></span></em>";"Yükleme modülü <em><span id=""label_module""></span></em>"
+"Installing your module";"Modülünüz yükleniyor"
+"Module successfully installed";"Modül başarıyla yüklendi"
+"Module to upload";"Yüklenecek modül"
+"Modules Installation";"Modüller yüklemesi"
+"Modules successfully installed!";"Modüller başarıyla yüklendi"
+"No directory provided";"Dizin sağlanmamış"
+"No module to install";"Yüklemek için modül yok"
+"No modules uploaded yet";"Henüz hiç bir modül yüklenmemiş "
+"Or set the correct permissions to the following files and folders and try again:";"Ya da aşağıdaki dosyalar ve klasörler için doğru izinlerini ayarlayarak yeniden deneyin:"
+"Package Details";"Paket detayları"
+"Path to your system";"Sisteminizin yolu"
+"Please update the module to the %s version before installing this update.";"Bu güncelleştirmeyi yüklemeden önce%s sürümüne modülü güncelleyin."
+"Please update your system to the %s version before installing this update.";"Bu güncelleştirmeyi yüklemeden önce%s sürümüne sisteminizi güncelleyin."
+"Please wait, we're installing your module";"Lütfen bekleyin modülünüzü yüklüyoruz"
+"Please, enter a name";"Lütfen bir isim girin"
+"Please, fill out all fields";"Lütfen tüm alanları doldurunuz"
+Port;Port
+"Processing the installation";"Kurulum işliyor"
+Retry;Yenileyin
+"Select a module to upload";"Yüklemek için bir modül seçin"
+"Some files and folder are not writable. You can either provide your FTP access to install this update:";"Bazı dosya ve klasör yazılabilir değil. Bu güncelleştirmeyi yüklemek için FTP erişimide sağlayabilirsiniz:"
+"Some files don't have the right permissions and can't be updated";"Bazı dosyalar doğru izinlere sahip değil ve güncellenemedi"
+"The database connection failed. Please, check the entered information.";"Veritabanı bağlantısı başarısız oldu.Girdiğiniz bilgileri kontrol edin."
+"The entered password confirmation does not match the entered password.";"Şifreler eşleşmiyor."
+"The file %s does not exist";"Alan %s mevcut değil"
+"The file %s is not writable.";"%s dosyası yazılabilir değil."
+"The folder %s is not writable. Please fix this issue and try again.";"Klasör%s yazılabilir değil. Bu sorunu giderin ve yeniden deneyin."
+"The following files and folders are not writable:";"Aşağıdaki dosyalar ve klasörler yazılabilir değildir:"
+"The following files and folders are not writable: <br /> - %s";"Aşağıdaki dosyalar yazılabilir değil: <br /> - %s"
+"The installation of the module <span id=""installation_failed_module_name""></span> has failed: <span id=""installation_failed_because""></span>";"Modül yükleme <span id=""installation_failed_module_name""></span> reddedildi: <span id=""installation_failed_because""></span>"
+"The package you have uploaded is invalid.";"Yüklediğiniz paket geçersiz."
+"This process may take few minutes, please do not refresh the page";"Bu süreç birkaç dakika sürebilir bu süreçte sayfayı yenilemeyin."
+"This update is designed for the %s, you can't install it in your %s.";"Bu güncelleme%s için tasarlanmış,%s nizin üstüne kuramazsınız."
+"Unable to connect to your FTP. Please check the connection information.";"FTP bağlantı kurulamıyor. Bağlantı bilgilerini kontrol edin."
+"Unable to detect your site. Please make sure the entered path is correct.";"Sitenizi algılayamadı. Girilen yolun doğru olduğundan emin olun."
+"Unable to extract the archive.";"Arşiv dişa aktarılamıyor."
+"Unable to open the archive.";"Arşiv açılamıyor."
+"Unable to open the file. Please, make sure that you sent a valid archive.";"Dosya açılamıyor.Geçerli bir arşiv gönderildiğinden emin olun."
+"Upload a module";"Bir modül yükleyin"
+"Upload your modules";"Modüllerinizi yükleyin "
+Username;Kullanıcıadı
+"You already have installed this update.";"Zaten bu güncelleştirmeyi yüklediniz. "
+"You can either fix this issue by setting the correct permissions to them and try again or enter your FTP access below:";"Onlara doğru izinleri ayarlayarak bu sorunu giderebilirsiniz ve tekrar deneyin ya da FTP erişimini deneyiniz:"
+" is now yours!";"Şimdi sizin!"
+"%d validated points = ";"%d onaylı puanlar =  "
+"1 loyalty point =";"1 bağlılık puanı ="
+"1 point";"1 puan"
+"1 validated point = ";"1 onaylı puan = "
+"An error occurred while saving the password. Please try again later";"Parolanızı kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz"
+"An error occurred while saving the password. Please try again later.";"Parolanızı kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"An error occurred while saving your loyalty card.";"Bağlılık kartı kaydedilirken bir hata oluştu."
+"An error occurred while saving your loyalty card. Please fill all fields in.";"Bağlılık kartı kaydedilirken bir hata oluştu.Tüm alanları doldurunuz."
+"An error occurred while validating point. Please try again later.";"Puanlarınız doğrulanırken bir hata oluştu. Daha sonra tekrar deneyiniz."
+"Card name";"Kart ismi"
+"Congratulations";"Tebrikler"
+"Current card";"Güncel kart"
+"Delete this password?";"Bu şifre silinsin mi?"
+"Employee's name";"Çalışanın ismi:"
+"Employee's name:";"Çalışanın ismi"
+"Employee's password";"Çalışanın şifresi"
+"Employee's password:";"Çalışanın şifresi:"
+"Enter the password";"Şifre girin"
+"My new loyalty card";"Yeni bağlılık kartım"
+"My passwords";"Yeni şifrem"
+"Number of points";"Puan Sayısı"
+"Please enter a name";"Bir isim girin"
+"Please enter the password";"Şifre girin"
+"Please show your phone to the store person so that he enters his password";"Lütfen telefonunuzu mağza çalışanına gösterin ki şifresini girebilsin"
+"Point%s successfully validated";"%s puan başarıyla doğrulandı"
+"Previous cards";"Önceki kartlar"
+"Reward";"Ödül"
+"We are sorry but this card is temporarily blocked";"Üzgünüz ama bu kart geçici olarak bloke edilmiştir"
+"Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point";"Dikkat edin yanlış şifre girdiniz deneme sayınız %d kartınızı kitlemeden önce kalan deneme sayınız %s puanlarınızı doğrulatmak için mağza çalışanıyla konuşunuz."
+"Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point";"Yanlış şifre.<br />Dikkat edin! %d kez denediniz %s kartınızı kitlemeden önce kalan deneme sayınız %s.<br /> puanlarınızı doğrulatmak için mağza çalışanıyla konuşunuz"
+"You have exceeded the number of attempts to validate points. Your card is locked for 24h";"Puanlarınızı doğrulamak için deneme sayısını aştınız. Kartınız 24 saat kilitli"
+"You just finished your card";"Kartınızı bitirdiniz"
+"You must be logged in to validate points";"Puanları doğrulamak için giriş yapmalısınız"
+"Your loyalty card has been saved successfully";"Bağlılık kartınız başarıyla kaydedildi"
+"Your password must be 4 digits";"Şifreniz 4 basamaklı olmalı"
+"point";"puan"
+"point to validate";"dogrulama puanı"
+"points to validate";"doğrulam puanları"
+"validated points = ";"geçerli puanlar="
+%s - Customer Service;%s – Müşteri hizmetleri
+20.00%;20.00%
+Add a picture;Bir resim ekleyin
+Add options;Seçenekleri ekleyin
+Add to cart;Sepete ekle
+An error occurred while proceeding the payment. Please, try again later.;Ödeme devam ederken bir hata oluştu. Daha sonra tekrar deneyin.
+An error occurred while proceeding your order. Please, check the following information:;Siparişinizi devam ederken bir hata oluştu. Aşağıdaki bilgileri kontrol edin:
+Are you sure you want to close without saving;Kaydetmeden kapatmak istediğinizden emin misiniz?
+Are you sure you want to delete this category and all its subcategories?;Bu kategori ve tüm alt kategorilerini silmek istediğinizden emin misiniz?
+Are you sure you want to delete this store?;Bu mağazayı silmek istediğinizden emin misiniz?
+Are you sure you want to delete this tax?;Bu vergi silmek istediğinizden emin misiniz?
+Are you sure you want to remove this product?;Bu ürünü kaldırmak istediğinizden emin misiniz?
+At least one option is required:;En az bir seçenek gereklidir:
+Cancelled;İptal edildi
+Carry Out;Uygula
+Cart;Sepet
+Cash;Nakit
+Category;Kategori
+Category successfully saved.;Kategori başarıyla kaydedildi.
+Check;Kontrol
+Choose a delivery method:;Teslim şekli seçiniz:
+Choose a payment method:;Ödeme şekli seçiniz:
+Choose a store:;Bir mağza seçiniz:
+Completed;Tamamlandı
+Connected Printers;Bağlı yazıcılar
+Continue shopping;Alışverişe devam
+Create a new options group;Yeni seçenekler grubu oluştur
+Create a new product;Yeni ürün oluştur
+Create a new tax;Yeni vergi oluştur
+Create a store;Mağza oluştur
+Credit Card by phone;Kredi kartı (Telefonda)
+Credit card (pay upon pickup or delivery);Kredi kartı (Ürün tesliminde)
+Customer;Müşteri
+Customer Service;Müşteri servisi
+Delivery;Teslim
+Delivery Fees;Nakliye ücreti
+Delivery Method;Teslim şekli
+Delivery area;Teslim bölgesi
+Delivery fees;Nakliye ücreti
+Delivery fees:;Nakliye Ücreti:
+Delivery methods;Teslim şekilleri
+Delivery methods:;Teslim şekilleri:
+Delivery radius;Teslim yarıçapı
+Delivery radius:;Teslim yarıçapı:
+Delivery time;Teslim saati
+Delivery time:;Teslim saati:
+Details;Detaylar
+Edit a store;Bir mağza düzenle
+Edit the options group %s;Seçenekler grubu düzenleyin %s
+Edit the product %s;Ürün düzenleyin %s
+Edit the tax %s;Vergi düzenleyin %s
+Free delivery starting from;Başlayarak Ücretsiz teslimat
+Free delivery starting from:;Başlayarak Ücretsiz teslimat:
+Here is the detail of the order;Sipariş detayı
+Here is the detail of your order;Siparişlerinizin detayı
+Hours of operation;Çalışma saatleri
+Hours of operation:;Çalışma saatleri:
+In store;Mağzada
+Meal Voucher;Yemek Çeki
+Minimum order;Minimum sipariş
+Minimum order:;Minimum sipariş:
+My Cart;Sepetim
+My cart is empty;Sepetim boş
+My categories;Kategorilerim
+My information;Bilgilerim
+My orders;Siparişlerim
+My product's categories;Ürünlerimin kategorileri
+My product's options;Ürünlerimin seçenekleri
+My products;Ürünlerim
+My stores;Mağzalarım
+My taxes;Vergilerim
+Name of the options group:;Seçenekler grubunun Adı:
+New order from the application;Uygulamadan yeni sipariş
+Number;Sayı
+Option name;Seçenek adı
+Option name:;Seçenek adı:
+Options group successfully deleted;Seçenekler grubu başarıyla silindi
+Options group successfully saved;Seçenekler grubu başarıyla kaydedildi
+Order Number;Sipariş numarası
+Order confirmation;Sipariş doğrulaması
+Order details;Sipariş detayları
+Order successfully saved;Sipariş başarıyla kaydedildi
+Orders;Siparişler
+Paid;Ödendi
+Password;Şifre
+Password:;Şifre:
+Payment;Ödeme
+Payment Method;Ödeme Şekli
+Payment methods:;Ödeme şekilleri:
+Paypal;Paypal
+Pending payment;Bekleyen ödemeler
+Picture;Resim
+Please choose a delivery method;Bir teslim yöntemi seçiniz
+Please choose a payment method;Bir ödeme yöntemi seçiniz
+Please, enter an email address for the store %s;Mağza için bir email adresi seçin %s
+Price;Fiyat
+Price: %s;Fiyat: %s
+Printer successfully saved;Yazıcı başarıyla kaydedildi
+Proceed;Devamet
+Product;Ürün
+Product name;Ürün adı
+Product name:;Ürün adı:
+Product successfully saved;Ürün başarıyla kaydedildi
+Qty;Miktar
+Qty: %s;Miktar: %s
+Radius in Km;Km yarıcap
+Review;İncele
+Settings;Ayarlar
+Signature;İmza
+Signature:;İmza:
+Status;Statü
+Store information;Mağza Bilgisi
+Store name;Mağza ismi
+Store name:;Mağza ismi:
+Store successfully deleted;Mağza başarıyla silindi
+Store successfully saved;Mağza başarıyla kaydedildi
+Stores;Mağzalar
+Subtotal;Alt toplam
+Tax;Vergi
+Tax name;Vergi adı
+Tax name:;Vergi adı:
+Tax rate;Vergi oranı
+Tax rate:;Vergi oranı:
+Tax successfully deleted;Vergi başarıyla silindi
+Tax successfully saved;Vergi başarıyla kaydedildi
+Tax:;Vergi:
+Thank you!;Teşekkürler!
+The delivery method;Teslim şekli
+The following options are required:<br />%s;Aşağıdaki seçenekler gereklidir:<br />%s
+The option %s is required;Seçenek %s gerekli
+The payment has been cancelled, something wrong happened? Feel free to contact us;Ödeme iptal edildi, bir şeyler yanlış oldu? Bizimle temas kurmaktan çekinmeyin
+The payment method;Ödeme Şekli
+Time in minutes;Zaman(dakika)
+Total;Toplam
+Total Excl. Tax;Vergi hariç toplam
+Total Tax;Toplam vergi
+Total: %s;Toplam: %s
+Unit Price;BirimFiiyatı
+Unit price;Birim fiyatı
+Username;Kullanıcı adı
+Username:;Kullanıcı adı:
+We apologize but the payment method %s is currently not available;Maalesef ödeme yöntemi % s şu anda mevcut değil
+We thank you for your order. A confirmation email has been sent;Sipariş için teşekkür ederiz. Bir onay e-postası gönderildi
+You don't have any categories yet;Henüz kategoriniz yok
+You have a connected printer? Enter the email address;Bir bağlı yazıcınız var mı? E-posta adresinizi girin
+You have a connected printer? Enter the email address for each store;Bir bağlı yazıcınız var mı? Her mağaza için e-posta adresinizi girin
+Your address;Adresiniz
+Your email address;Email adresiniz
+Your firstname;Adınız
+Your lastname;Soyadınız 
+Your phone number;Telefon numaranız
+e.g., Sauces;örk Salçalar
+%s by %s;%s ile %s
++ Add a track;+ Bir şarkı ekle
+Add albums and tracks to the playlist:;Çalma listesine albüm ve parçaları ekleyin:
+Are you sure you don't want to create an album for these tracks?;Bu parçalar için bir albüm oluşturmak istemediğinizden emin misin?
+Are you sure you don't want to create an album for this track?;Bu parca için bir albüm oluşturmak istemediğinizden eminmisiniz?
+Are you sure you want to delete this album (this won't delete tracks)?;Bu albümü (bu şarkıları silmez) silmek istediğinizden emin misiniz?
+Are you sure you want to delete this album?;Bu albümü silmek istediğinizden emin misiniz?
+Are you sure you want to delete this playlist?;Bu oynatma listesini silmek istediğinizden emin misiniz?
+Are you sure you want to delete this track?;Bu parçayı silmek istediğinizden emin misiniz?
+Artist:;Sanatçı:
+Artist;Sanatçı
+Album;Albüm
+Albums;Albümler
+Albums:;Albümler:
+An error occurred while deleting your album. Thanks for trying later.;Albümünüzü silinirken bir hata oluştu. Daha sonra yeniden deneyin.
+An error occurred while deleting your playlist. Thanks for trying later.;Çalma listenizi silinirken bir hata oluştu. Daha sonra deneyiniz.
+An error occurred while deleting your track. Thanks for trying later.;Şarkınız silinirken bir hata oluştu daha sonra yeniden deneyiniz.
+An error occurred while saving your playlist. Thanks for trying later.;Çalma listenizi kaydedilirken bir hata oluştu. Daha sonra yeniden deneyin.
+An error occurred while deleting you images gallery. Please try again later.;Resim galeriniz silinirken bir hata oluştu daha sonra deneyiniz.
+An error occurred while loading pictures. Please try later.;Resminiz yüklenirken bir hata oluştu dah sonra yeniden deneyiniz.
+An error occurred while loading videos. Please try later.;Video yüklenirken bir hata oluştu. Lütfen daha sonra deneyin.
+An error occurred while saving your images gallery. Please try again later.;Görüntüler galerisi kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz.
+An error occurred while saving your videos gallery. Please try again later.;Videolarınızın galerisi kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz.
+Audio;Audio
+buy;satınal
+Channel;Kanal
+Choose an album;Bir albüm seç
+close;kapat
+Custom;Müşteri
+Delete this gallery?;Bu galeri silinsin mi?
+empty;boş
+Feed URL;Besleme URL'si
+"Feed URL <span class=""required-entry"">*</span> :";"Besleme URL <span class=""required-entry"">*</span> :"
+from;den
+Gallery Name;Galeri İsmi
+"Gallery Name <span class=""required-entry"">*</span> :";"Galeri İsmi <span class=""required-entry"">*</span> :"
+Group;Grup
+hide;gizle
+I'm listening to;Dinliyorum
+Images gallery has been saved successfully;Görüntüler galerisi başarıyla kaydedildi
+Instagram;Instagram
+Last update:;Son güncelleme:
+loop;loop
+Maximum size : 2000*2000 px - Allowed filetypes : jpg and png;Maksimum büyüklük : 2000*2000 px – İzin verilen dosya türleri : jpg and png
+music;müzik
+My pictures;Resimlerim
+next;sonraki
+No album found;Albüm bulunamadı
+No artist found;Şarkıcı bulunamadı
+No track found;Şarkı bulunamadı
+on;üstünde
+Parameter;Parametre
+Parameter/Feed Url;Parametre/besleme URL
+pause;durdur
+Picasa;Picasa
+Picture%s;Resim%s
+play;çal
+PLAYER;ÇALAR
+Playlist;Şarkı listesi
+Playlist title:;Şarkı listesi başlığı:
+Playlists;Şarkı listesi
+Playlist successfully saved.;Şarkı listesi başarıyla kaydedildi.
+Podcast;Podcast
+Podcast URL (iTunes format);Podcast URL (iTunes format)
+previous;önceki
+Read all;Hepsini oku
+Required field;Gerekli alan
+Search/Url;Ara/URL
+share;paylaş
+shuffle;karıştır
+The entered name is not a valid Instagram user.;Girilen ad geçerli Instagram kullanıcı değil.
+This element is not an album.;Bu eleman bir albüm değil.
+track;şarkı
+tracks;şarkılar
+Track;şarkı
+Tracks;şarkılar
+Type;Çeşit
+URL (.mp3):;URL (.mp3):
+Videos gallery has been saved successfully;Videolar galerisi başarıyla kaydedildi
+Vimeo;Vimeo
+Lock the entire application?;Tüm uygulamayı kilitleyin?
+Choose the features to lock:;Kilitlemek için özellikleri seçin:
+Restrict Access;Erişim sınırla
+Allow all the users by default:;Varsayılan olarak tüm kullanıcılara izin ver:
+the gender;cinsiyet
+the first name;ad
+the last name;soyad
+the email address;email 
+the password;şifre
+Access restricted to authorized members only;Erişim yetkili üyelere sınırlı
+We are sorry but your account does not have enough permissions to access this page;Üzgünüz ama hesabınız bu sayfaya erişmek için yeterli izinlere sahip değil
+Payments;Ödemeler
+An error occurred while saving your discount. Please fill in all fields;İndiriminiz kaydedilirken bir hata oluştu. Tüm alanları doldurunuz
+Are you sure you want to use this discount?;Bu indirimi kullanmak istediğinizden emin misiniz?
+Closed discounts;Kapalı indirimler
+Create a new discount;Yeni bir indirim oluştur
+Delete this discount?;Bu indirimi sil?
+Discount successfully deleted;İndirim başarıyla silindi
+Discount successfully saved;İndirim başarıyla kaydedildi
+Please select an end date greater than the current date.;Lütfen bugünden daha sonraki bir tarih seçin.
+This discount is now used;Bu indirim artık kullanılır
+Valid until;Tarihine kadar geçerli
+You have already use this discount;Zaten bu indirim kullanda
+You must be logged in to use a discount;İndirim kullanmak için giriş yapmalısınız
+or illimited;ya da sınırlı
+use only once;yanlızca bir kez kullanın
+you'll be able to remove this promotion later;Daha sonra bu promosyonu kaldırmak mümkün olacak
+Additionnal Information;Ek bilgi
+And a radius (in Km):;Ve bir yarıçap (Km):
+Android;Android
+Creation date;Oluşturma tarihi
+Enter a location:;Bir lokasyon girin:
+GCM Key;GCM Anahtarı
+I want to send it;Göndermek istiyorum
+Keys successfully saved;Anahtar başarıyla kaydedildi
+Message;Mesaj
+Message:;Mesaj:
+Pending;Bekliyor
+Push Notifications;Bildirim gönderme
+Push Notifications Settings;Bildirim gönderme ayarları
+Radius;Yarıçap
+Send to a specific location;Özel bir lokasyona gönderin
+Send to all my users;Tüm kullanıcılarıma yolla
+Sender ID;Yollayan ID
+Sending date;Yollama tarihi
+The duration limit must be higher than the sent date;Gönderme süresi gönderme tarihinden sonraki bir tarih olmalıdır
+Your app must be published to send a push notification.;Bildirim gönderebilmeniz için app nizin yayınlanmış olması gereklidir.
+Your message has been saved successfully and will be sent at the entered date;Mesajınız başarıyla kaydedildi ve girilen tarihte gönderilecektir
+Your message has been saved successfully and will be sent in a few minutes;Mesajınız başarıyla kaydedildi ve bir kaç dakika içinde gönderilecektir
+and users entering the area;ve kullanıcıların alanına giren
+for a limited period;sınırlı bir süre için
+now;şimdi
+on a specific date;özel bir tarihte
+%s ago;%s önce
+An error occurred while saving your RSS feed;RSS beslemesi kaydedilirken bir hata oluştu
+Display feed pictures whenever possible;Ekran geribesleme resimleri herzaman mümkün
+Enter the URL of this RSS feed;Bu RSS beslemesine URL'sini girin
+Found feeds;Bulunan beslemeler
+No RSS feed could be found;RSS besleme bulunamadı
+RSS feed successfully saved;RSS beslemesi başarıyla kaydedildi
+Show article;Makale göster
+day;gün
+hour;saat
+minute;dakika
+Action;Eylem
+App Name;App Adı
+Client;Müşteri
+Date;Tarih
+Invoice;Fatura
+Invoice %s;Fatura %s
+Invoice N°;Fatura N°
+List of your invoices;Faturalarınızın listesi
+My Invoices;Faturalarım
+Order;Sipariş
+Orders;Siparişler
+Paid At;te ödendi
+Paid at:;te ödendi:
+Price Excl. Tax;Vergi hariç fiyat
+Qty;miktar
+This feature is not ready yet. Please try again later.;Bu özellik henüz hazır değil. Daha sonra tekrar deneyiniz.
+Total Excl. Tax;Vergiler haric toplam tutar
+You don't have any invoices yet;Henüz faturanız yok
+An error occurred while loading the videos. Please try again later.;Video yüklenirken bir hata oluştu. Daha sonra tekrar deneyiniz.
+Enter your Facebook Fan Page Id;Facebook Fan Sayfası ID sini girin
+"Enter your Facebook Fan Page Id <span class=""required-entry""> *</span>:";"Facebook Fan Sayfası ID sini girin <span class=""required-entry""> *</span>:"
+%s point%s;%s puan%s
+A month;Bir ay
+A week;Bir hafta
+Challengers;Yarışmacılar
+Current game;Mevcut oyun
+Currently no challengers;Yarışmacı yok
+Game Name;Oyun ismi
+Game successfully saved;Oyun başarıyla kaydedildi
+Next game;Sonraki oyun
+On the;Üstünde
+Period;Dönem
+Periodicity;Dönemsel
+Publication date;Yayınlanma tarihi
+Rank of the month;Ayın derecesi
+Rank of the week;Haftanın derecesi
+Team Leader;Tim Lideri
+Source Code;Kaynak Kodu
+Insert your HTML code:;HTML kodu ekleyin:
+%s Subscription for %s;%s için üyelik %s
+"<a href=""%s"">Click here</a> to go back to your applications list";"<a href=""%s"">Aplikasyonlar listenize dönmek için</a> tıklayınız"
+Active;Aktif
+An error occurred while processing your order. Please, try again later.;Sipariş işlenirken bir hata oluştu. Daha sonra tekrar deneyin.
+An error occurred while saving. Please try again later;Kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz
+An error occurred while saving. The selected subscription is not valid.;Kaydedilirken bir hata oluştu. Seçilen abonelik geçerli değil.
+Are you sure you want to delete this plan?;Bu planı silmek istediğinizden emin misiniz?
+Billing Address;Fatura adresi
+"By checking this box, you agree <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">to our terms and conditions</a>";"Kutuyu işaretleyerek <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">koşul ve kurallarımızı kabul etmiş olursunuz</a>"
+Charged to your client every month;Aylık ücretlendirin
+Charged to your client every year;Yıllık ücretlendirin
+Charged to your client when placing the order;Sipariş verildiğinde ücretlendir.
+Choose the subscription that suits you best:;Size en uygun aboneliği seçin:
+Create a new subscription;Yeni bir abonelik oluştur
+Creation;Oluşturuluş
+Describe here this plan. Will be displayed on the front end;Burada bu planı açıklayın. Ön uçta görüntülenir
+Each price must be entered excluding tax;Her fiyat vergisi hariç girilmelidir
+Edit the subscription %s;Aboneliği düzenleyin %s
+Expiration;Bitiş
+Expiration date;Bitiş tarihi
+Give a name to this plan. Will be displayed on the front end;Bu plana bir isim verin. Ön uçta görüntülenir
+List of your plans;Planlarınızın listesi
+List of your subscriptions;Aboneleriinizin listesi
+None;Hiçbiri
+One-off;Kapalı
+Order's details;Sipariş detayları
+Payment;Ödeme
+Payment Option;Ödeme seçenekleri
+"Payment secured by <img src=""%s"" width=""100"" title=""Paypal"" />";"Güvenli ödeme <img src=""%s"" width=""100"" title=""Paypal"" />"
+Please, enter a company;Bir şirket girin
+Please, enter a country;Bir ülke girin
+Please, enter a description.;Bir açıklama girin.
+Please, enter a name.;İsim girin
+Please, enter an address;Adres girin
+Pricing;Ücretlendirme
+Proceed to payment?;Ödeme yapılsın mı?
+Recurring;Yenileme
+Setup Fee;Kurulum Ücreti
+Setup fee;Kurulum Ücreti
+Subscription;Abonelik
+Subscription successfully saved;Abonelik başarıyla kaydedildi
+Subtotal;Alt toplam
+Thanks!;Teşekkürler!
+The monthly price is not a valid price (e.g. 12.34);Aylık fiyat geçerli bir fiyat değil (örneğin 12,34)
+The setup fee is not a valid price (e.g. 12.34);Kurulum ücreti geçerli bir fiyat değil (örneğin 12,34)
+The yearly price is not a valid price (e.g. 12.34);Yıllık fiyat geçerli bir fiyat değil (örneğin 12,34)
+This subscription is active;Bu abonelik aktif
+An error occurred while processing the payment. For more information, please feel free to contact us.;Ödeme işlenirken bir hata oluştu. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin.
+VAT Number;KDV Numarası
+You already have a subscription for this application;Zaten bu uygulama için bir aboneliğiniz var
+You don't have any subscriptions yet;Henüz hiç abonelikleri yok
+You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play.;Neredeyse bitirdiniz! Abone olduktan sonra, App Store ve Google Play de hem yayınlayacağız.
+Your VAT Number is not valid;KDV Numaranız geçerli değil
+Your order has been canceled. If you need any help to place your order, please feel free to contact us.;Siparişiniz iptal edildi. Eğer sipariş için herhangi bir yardıma ihtiyacınız varsa, bizimle temas kurmaktan çekinmeyin lütfen.
+Your order has been successfully paid. Your application will be published very soon.;Siparişiniz başarıyla ödenmiştir. Başvurunuz çok yakında yayınlanacaktır.
+Your subscription must have at least one price;Aboneliğiniz en az bir fiyata sahip olmalıdır
+price;fiyat
+<b>File types:</b> %s<br /><b>Recommended size:</b> %s;<b>Dosya çeşidi:</b> %s<br /><b>Grekli alan:</b> %s
+Click here to send your favicon;Favicon göndermek için buraya tıklayın
+Click here to send your logo;Logonuzu göndermek için buraya tıklayın
+Communications;İletişim
+Current favicon;Güncel favicon
+Current logo;Güncel logos
+Display a link to your clients to your support platform;Destek platformu için müşterilerine bir bağlantı görüntüler
+Drop your favicon here;Buraya favicon bırakın
+Drop your logo here;Buraya logo bırakın
+Sales;Satışlar
+Sales Email Address;Satış E-posta Adresi
+Sender's email address of the emails sent by the site to your clients;Müşterilerinize site tarafından gönderilen e-postaların Gönderenin e-posta adresi
+Sender's name of the emails sent by the site to your clients;Müşterilerinize site tarafından gönderilen e-postaların Gönderenin ismi
+Support Email Address;Destek E-posta Adresi
+The folder /images/default is not writable.;Klasör / resimler / varsayılan yazılabilir değil.
+Your Location;Lokasyonunuz
+Your Platform;Platformunuz
+Your company;Şirketiniz
+List of your taxes;Vergilerinizin listesi
+Please select a country;Lütfen bir ülke seçin
+Please, enter a tax rate.;Bir vergi oranı girin.
+Please, enter a valid tax rate.;Geçerli bir vergi oranı girin.
+Rate;Oran
+Remove;Kaldır
+You don't have created any taxes yet;Henüz herhangi bir vergi oluşturlmadı
+TEMPLATES;ŞABLONLAR
+Create a new language;Yeni bir dil oluştur
+Default text;Varsayılan metin
+Edit the language: %s;Dil düzenleyin:%s
+Language;Dil
+Language successfully saved;Dil başarıyla kaydedildi
+List of your languages;Dillerinizin listesi
+Please, choose a file.;Lütfen bir dosya seçin.
+Please, choose a language.;Lütfen bir dil seçin
+Select a file;Bir dosya seçin.
+Select a language;Bir dil seçin
+Text translation;Metin çevirisi
+Translations;Çeviriler
+Your translation;Çeviriniz
+Add a link;Bir link ekle
+An error occurred while saving your picto. Please try againg later.;Resminiz kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz.
+Are you sure you want to delete this link?;Bu bağlantıyı silmek istediğinizden emin misiniz?
+Are you sure you want to delete this picture?;Bu resmi silmek istediğinizden emin misiniz?
+Link;Link
+Link has been successfully deleted;Bağlantı başarıyla silindi
+Link has been successfully saved;Bağlantı başarıyla kaydedildi
+Link:;Link:
+Picto;Resim
+The image has been successfully deleted;Görüntü başarıyla silindi
+The image has been successfully saved;Görüntü başarıyla kaydedildi
+Your links;Linkleriniz
+An error occurred while accessing your Wordpress website. Please, verify the domain name %s;Wordpress web sitesine erişim sırasında bir hata oluştu. Alan adı% s kontrol edin
+Categories successfully saved;Kategori başarıyla kaydedildi
+Click here to download our Wordpress plugin;Wordpress eklentimizi indirmek için tıklayınız
+Enter your Wordpress URL:;Wordpress URL'sini girin:
+Loading categories;Yükleme kategorileri
+We are sorry but no category has been detected on your Wordpress website.;Üzgünüz ama hiçbir kategori Wordpress web sitesinde tespit edilemedi.
+We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated.;Üzgünüz ama bizim Wordpress eklentisi web sitenizde tespit edilmemiştir. Doğru yüklenmiş ve etkinleştirilmiş olduğundan emin olun.
+Wordpress;Wordpress

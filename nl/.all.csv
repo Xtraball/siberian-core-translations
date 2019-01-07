@@ -1,0 +1,1309 @@
+%s - Your new password;%s – Uw nieuwe wachtwoord
+A request to reset your password has been made to log in to your administration panel.;Er is verzoek gedaan om uw wachtwoord te resetten voor het 'Dutch App Builder' platform admin panel.
+Admin successfully deleted;Admin succesvol verwijderd
+An error occurred while saving. The country is not valid.;Er is een fout opgetreden tijdens het opslaan. Het land is niet geldig.
+Are you sure you want to delete this application?;Weet u zeker dat u deze App wilt verwijderen?
+Can add pages;Je kan pagina's toevoegen
+Change my password;Wachtwoord wijzigen
+Confirm your password;Bevestig je wachtwoord
+Create a new application;Maak een nieuwe App
+Create a new user;Maak een nieuwe gebruiker
+Created At;Gemaakt op
+Created at %s;Gemaakt op %s
+Do not hesitate to give us your feedback by sharing your needs:;Aarzel niet om ons uw feedback te geven.  Heeft u vragen of problemen mail ons:
+"Edit the account ""%s""";"Bewerk de account ""%s”"
+Edit the user %s;"Bewerk de gebruiker ""%s”"
+Enjoy!;Veel plezier
+Find some advices here:;Vind uitleg en advies hier bewaar ze goed
+Here are your credentials, keep them preciously:;Hier zijn uw gegevens
+List of admin accounts;Lijst van admin accounts
+List of my accounts;Lijst van accounts
+List of your users;Lijst van gebruikers
+Log-in As;Log-in als
+Manage access;Beheer toegang
+My Applications;Mijn Apps
+My information;Mijn gegevens
+Need some help?;Hulp nodig?
+Please enter a valid email address.;Vul een geldig e-mailadres in.
+Please, enter an application name;Vul een applicatie naam in
+Ready to create your own apps?;Klaar om je eigen apps te maken?
+Sign up;Inschrijven
+Thanks for choosing us!;Bedankt dat u voor de Dutch App Builder koos!
+The Support Team;Het Dutch App Builder Team
+The password and the confirmation does not match.;Het wachtwoord en de bevestiging komt niet overeen.
+The password must be at least 6 characters.;Het wachtwoord moet minstens 6 karakterslang zijn.
+We are sorry but this email address is already used.;Het spijt ons maar dit e-mailadres wordt al gebruikt.
+Welcome!;Welkom
+You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes.;Je gaat het prachtig vinden! Dankzij onze efficiënte functies zult u in staat zijn om geweldige mobiele apps te creëren in uw naam binnen enkele minuten. 
+You can't delete the main account;Je kunt het hoofd account niet verwijderen
+You don't have any users yet;U hebt nog geen gebruiker
+Your credentials;Uw gegevens:
+Your login:;Uw login:
+Your password:;Uw wachtwoord:
+API Keys;Uw APIs lijst
+Api Keys;API sleutels
+Api Keys successfully saved;API sleutels opgeslagen
+1. Download the app previewer:;1. Download de app  previewer:
+2. Open the app and login;2. Open de App en log-in
+<b>File type:</b> %s;<b>Bestands- type:</b> %s
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Klik hier</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>om een item toe te voegen.</span>"
+Activated;Geactiveerd
+Add a new icon;Voeg een nieuw icoon toe
+Add pages;Voeg pagina's toe
+An error occured while copying your app icon. Please check the icon, try to send it again and try again.;Er is een fout opgetreden bij het kopiëren van uw app icoon. Chek de icoon, probeer hem opnieuw te verzenden.
+An error occurred during the generation of your QRCode. Please try again later.;Er is een fout opgetreden tijdens het genereren van uw QRCode. Probeer het later opnieuw.
+An error occurred while adding the option;Er is een fout opgetreden bij het toevoegen van de optie
+An error occurred while changing your layout.;Er is een fout opgetreden bij het lay-out veranderen.
+An error occurred while deleting the option;Er is een fout opgetreden bij het verwijderen van de optie
+An error occurred while deleting your picture;Er is een fout opgetreden bij het verwijderen van de afbeelding
+An error occurred while editing file (%s).;Er is een fout opgetreden bij het bewerken van het bestand
+An error occurred while loading;Er is een fout opgetreden tijdens het laden
+An error occurred while saving the application. Please try again later.;Er is een fout opgetreden tijdens het opslaan van de App. Probeer het later opnieuw.
+An error occurred while saving your colors.;Er is een fout opgetreden tijdens het opslaan van de kleuren.
+An error occurred while saving your page name.;Er is een fout opgetreden bij het opslaan van de pagina naam.
+An error occurred while saving. The selected icon is not valid.;Er is een fout opgetreden tijdens het opslaan. Het geselecteerde pictogram is niet geldig.
+An error occurred while sorting your pages. Please try again later.;Er is een fout opgetreden bij het sorteren van uw pagina's. Probeer het later opnieuw.
+Analytics;Statistieken
+Android APK Generation;
+Android Version;Android versie
+App Store Icon;App store icoon
+Apple's Information;Apple's Informatie
+Application name;App naam
+Are you sure you want to remove this application?;Weet u zeker dat u deze App (applicatie) wilt verwijderen?
+At least 200 characters in the description;Ten minste 200 tekens in de beschrijving
+At least, 4 pages in the application;Ten minste 4 pagina's in de App
+Average by customer;Gemiddelde per klant
+Bundle Id;Bundel Id
+Buy one, get one!;Koop er een krijg er een
+Certificate;Certificaat
+Change your;Wijzig uw
+Change your template;Wijzig uw template
+Change your<br /><span>picture</span>;Wijzig uw <br /> <span> afbeelding </ span>
+Checking CNAME configuration:;Controle CNAME configuratie:
+Choose your design;Kies uw ontwerp
+"Choose a <br /><span class=""bold"">picture</span>";"Kies een <br /><span class=""bold"">afbeeldingen</span>"
+Choose a country;Kies een land
+Choose a font family;Kies een lettertype
+Choose your colors;Kies uw kleuren
+Choose your country;Kies uw land
+Choose your font style;Kies uw lettertype stijl
+Choose your homepage image;Kies de afbeelding voor uw homepagina
+Choose your icons color;Kies uw pictogrammen kleur
+Choose your layout;Kies uw lay-out
+Choose your template;Kies uw template
+Click here to download the source code:;Klik hier om de broncode te downloaden:
+Click here to send your certificate;Klik hier om uw certificaat te uploaden
+Colors;Kleuren
+Dashboard icon;Dashboard icoon
+Deactivated;Gedeactiveerd
+Delete this page?;Deze pagina verwijderen?
+Design;Design
+Developer Accounts;Ontwikkelaar Accounts
+Device Information;Device Informatie
+Discount zone description. Here your clients will be able to see the details of each discount;Beschrijving korting. Hier kunnen uw klanten de details van elke korting zien
+Domain;Domeinnaam
+Domain name;Domeinnaam
+Download;Download
+Download our app previewer;Download onze App previewer
+Drop your certificate here;Laat je certificaat hier vallen
+Edit my;Bewerk mijn
+"Edit the application ""%s""";"Bewerk de applicatie ""%s"""
+Editor;Editor
+Extension not allowed, '%s' only;Extensie niet toegestaan, '%s' alleen.
+Features;Functies
+Fred W.;Dirk B.
+General Information;Algemene informatie
+General information;Algemene informatie
+Global visits;Globale bezoeken
+Google Play Icon;Google Play Icoon
+Google's Information;Google informatie
+Here is our latest creation. What do you think?;Hier is onze nieuwste creatie. Wat vind je er van?
+Homepage preview;Homepagina voorvertoning
+I don't have a Google developer account and I want to create one;Ik heb geen Google-developer-account maar ik wil er een te maken
+I don't have an Apple developer account and I want to create one;Ik heb geen Apple developer account maar ik wil er een te maken
+I have an Apple developer account;Ik heb een Apple-developer account
+I have an Google developer account;Ik heb een Google-developer account
+I let you publish my application under your Apple developer account;Ik laat jullie mijn App publiceren op jullie Apple developer account
+I let you publish my application under your Google developer account;Ik laat jullie mijn App publiceren op jullie Google developer account
+Icons;Iconen
+Id;Id
+If you validate, your app's colors and background image will be replaced;Als je bevestigt, worden uw App kleuren en achtergrond afbeelding vervangen
+Installed application;Geïnstalleerde toepassing
+Key Password;Key Password
+Keywords;Trefwoorden
+Last name:;Achternaam:
+Library icons;bibliotheek pictogrammen
+List of my applications;Lijst van mijn App's
+List of your applications;Lijst van uw App's
+Loading;Laden
+Lock the entire application;Vergrendel de gehele App
+Love it <3;"Love it ;)"
+Main;Hoofd
+Manage icons;Beheer iconen
+Media;Media
+Missing Information;Ontbrekende informatie
+Mobile Source Codes;Mobiele Source Codes
+Mobile source codes;Mobiele Source Codes
+Mobile website information;Mobiele website informatie
+My QRCode;Mijn QRCode
+My application in figures;Mijn App's in cijfers
+One free coffee;Een gratis koffie
+"Or go on your store<br />and look for ""Apps Company Previewer""";"Of ga naar uw winkel <br /> en zoek naar ""Apps Company Previewer"""
+Page name:;Pagina naam:
+Percentage of returning customers;Percentage terugkerende klanten
+Please enter a correct URL for the %s store;Vul een juiste URL voor de %s winkel
+Please enter a subdomain.;Vul een subdomein in.
+Please enter a valid URL;Vul een geldige URL in
+Please enter a valid address;Vul een geldig adres in
+Please enter a valid mobile website address.;Vul een geldig mobiele website-adres in.
+Preview;Voorbeeld
+Promote;Promoot
+Publication;Publicatie
+Publish the application;Publiceer de App
+Publish under our account;Publiceer op onze rekening
+Ready ? Publish my app!;Klaar? Publiceer mijn App!
+Recommanded size:;Aanbevolen grootte:
+Remove this page from this folder?;Verwijder pagina uit deze map?
+Scan this QR Code;Scan deze QR Code
+Scan this QR Code:;Scan deze QR Code:
+Secondary category;Secundaire categorie
+Secondary category<br />(Optional);Secundaire categorie <br/> (optioneel)
+Send here your iOS certificate to enable the push notifications for this application.;Plaats hier uw iOS-certificaat, om de push-notificaties voor deze App in te schakelen.
+Send you .pem certificate;Stuur je .pem certificaat
+Show the applications waiting for publication only.;Toon alleen App's die wachten op publicatie.
+Startup image;Opstart afbeelding
+Status;Status
+Store Password;Wachtwoord winkel
+Store URL;Winkel URL
+Stores Info;Winkel Info
+To be able to download source codes, please provide the following information:<br />;Voor het downloaden broncodes, de volgende informatie te verstrekken:<br/>
+The application's name cannot start with a number;De naam van de App kan niet beginnen met een getal
+The Bundle Id is required;De Bundle Id is verplicht
+The QR Code is not available at this moment;De QR code is niet beschikbaar op dit moment
+The application has been successfully saved;De App is met succes opgeslagen
+The application name;De naam van de App
+The description;De beschrijving van de App
+The description must be at least 200 characters;De beschrijving van de App moet minstens 200 tekens bevatten
+The desktop icon;Bureaublad icoon
+The entered bundle id is incorrect, it should be like: com.siberiancms.app;De ingevoerde bundel ID onjuist, het zou hier op moeten lijken: com.dbpromotie.app
+The field is required;Dit veld is verplicht
+The file has been successfully uploaded;Het bestand is geüpload
+The following information are needed to download the source codes:<br />;De volgende gegevens zijn nodig om de broncodes downloaden: <br/>
+The homepage image;De thuis(home)pagina afbeelding
+The key cannot be empty.;De sleutel kan niet leeg zijn.
+The key is already used by another application.;De sleutel wordt al gebruikt door een andere toepassing.
+The keywords;Te trefwoorden
+The main category;De hoofd categorie
+The startup image;Opstart afbeelding
+This application does not exist;Deze App bestaat niet
+This application is visible on the front;Deze App is zichtbaar aan de voorkant
+This option enables you to set the currency used in your app;Met deze optie kunt u de valuta die wordt gebruikt in uw app instellen
+This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login.;Deze pagina zal worden getoond aan de mobiele gebruikers om in te loggen. Hij wordt automatisch toegevoegd wanneer u functies activeert voor gebruiker die moeten inloggen
+URL;URL
+URL Key;URL Sleutel
+Use into all of your application's pages;Gebruik in alle pagina's van uw App
+Used points;Gebruikte punten
+User Information;Informatie voor de gebruiker
+Version;Versie
+You already have sent a certificate.;Je hebt al een certificaat verstuurd.
+"You can download your QRCode by <a class=""f-bold"" href=""%s"">clicking here</a>";U kunt uw QRCode downloaden door
+You don't have any applications yet;U heeft nog geen App's
+You have already sent a certificate;Je hebt al een certificaat verstuurd.
+You have sent a certificate.;Je hebt een certificaat verstuurd.
+You haven't chosen any template yet;U heeft nog geen template gekozen
+You may not delete a library icon;Je mag geen bibliotheek pictogram verwijderen
+You must have published your application to access this feature;U moet uw app gepubliceerd zijn, om deze functie te bekijken
+Your CNAME is properly set;Uw CNAME is is niet goed ingesteld
+Your best customers;Uw beste klanten
+Your customers in figures;Uw klanten in cijfers
+Your mobile address should not contain special characters;Uw mobiele-adres mag geen speciale tekens bevatten
+Your pages;Uw pagina's
+iOS Certificate;iOS Certificaat
+iPad Retina:;iPad Retina :
+iPhone 5 / 5S:;iPhone 5 / 5S :
+iPhone 6 Plus:;iPhone 6 Plus :
+iPhone 6:;IPhone 6 :
+iPhone Version;Version iPhone
+icon;icoon
+logo;logo
+times;tijden
+"%d Unread Message";"%d Ongelezen bericht"
+"%d Unread Messages";"%d ongelezen berichten"
+"Account";"Account"
+"Change the password";"Wijzig het wachtwoord"
+"Click to mark as not read";"Klik om te markeren als niet gelezen"
+"Click to mark as read";"Klik om te markeren als gelezen"
+"Create a user";"Maak een gebruiker aan"
+"Edit the account ""%s""";"Bewerk het account ""%s"""
+"Edit the user";"Bewerk de gebruiker"
+"Enter your credentials:";"Vul uw gegevens in:"
+"List of backoffice accounts";"Lijst van backoffice-accounts"
+"List of the messages";"Lijst van de berichten"
+"Login to your backoffice interface";"Log in om naar uw  backoffice-interface te gaan"
+"People who are allowed to access the backoffice";"Mensen met toegang tot de backoffice"
+"Siberian CMS";"Siberian CMS"
+"This account can't be deleted, it's the only one";"Dit account kan niet worden verwijderd, het is de enige"
+"User successfully deleted";"Gebruiker succesvol verwijderd"
+"View Details";"Bekijk details"
+"Your new password";"Uw nieuwe wachtwoord"
+"Your password";"Uw wachtwoord"
+Booking details;Reserveringdetails
+Booking details:;Reserveringdetails:
+Booking subject:;Boeking betreft:
+Comment:;Opmerkingen
+Date and time;Datum en tijd
+Date and time:;Datum en tijd:
+Email address:;Emailadres:
+Enter the location name and contact email:;Voer de locatienaam en contact email in:
+First name / Last name;Voornaam / Achternaam
+Here are his personal information:;Voici ses informations personnelles :
+Name:;Naam:
+Nom du lieu :;Vul naam in:
+People number:;Aantal personen:
+Phone number:;Telefoonnummer
+Please fill out the following fields: ;Vul de volgende velden in:<br />
+Please fill out the following fields:<br />;Vul de volgende velden in:<br />
+Please, choose a store;Kies een winkel
+Thank you for your request. We'll answer you as soon as possible.;Bedankt voor uw verzoek. Wij beantwoorden deze zo spoedig mogelijk.
+The booking information;Reserveringsinformatie
+The booking informations;Reserveringsinformatie
+The date and time of the booking;Datum en tijd van de reservering
+The number of people;Aantal personen
+You have received a message for the booking of;U heeft een bericht van de boeking van de ontvangen
+Your phone number or email address;Uw telefoonnummer of emailadres
+%s - All;%s – Alles
+Add a category;Voeg een categorie toe
+Add a format;Bewerk formaat
+All;Alles
+An error occurred while loading your product.;Er is een fout opgetreden tijdens het laden van uw product.
+An error occurred while saving the category. Please try again later.;Er is een fout opgetreden tijdens het opslaan van de categorie. Probeer het later nog eens.
+An error occurred while saving the product. Please try again later.;Er is een fout opgetreden tijdens het opslaan van het product. Probeer het later nog eens.
+An error occurred while saving the set meal. Please try again later.;Er is een fout opgetreden tijdens het bewaren van het menu. Probeer het later nog eens.
+An error occurred while saving. One of your categories could not be identified.;Er is een fout opgetreden tijdens het opslaan. Een van uw categorieën kan niet worden geïdentificeerd.
+An error occurred while saving. One of your products could not be identified.;Er is een fout opgetreden tijdens het opslaan. Een van uw producten kan niet worden geïdentificeerd.
+Are you sure you want to delete this product?;Weet u zeker dat u dit product wilt verwijderen?
+Category;Categorie
+Choose a category;Kies een categorie
+Choose a subcategory;Kies een sub categorie
+Click on a category to display sub-categories;Klik op een categorie om een sub categorie te zien
+Create a new product;Maak een nieuw product
+Does this product have many formats?;Heeft dit product veel formaten?
+Edit the;bewerk de
+Edit the product;Bewerk product
+Format;Opmaak
+Picture;Afbeelding
+Price;Prijs
+Product;Product
+Product formats;Product formaat
+Product name;Product naam
+Rules;Regels
+Set meal successfully deleted.;Menu verwijderd.
+Set meal successfully saved.;Menu met succes opgeslagen.
+Sub-category;sub categorie
+st;st
+sub-category;sub categorie
+.mp4 or .3gp format;.mp4 or .3gp formaat
+Add ;Toevoegen
+Add sections:;Secties toe te voegen:
+Address:;Adres 
+Alignment:;Uitlijnen:
+An error occurred while saving your page.;Er is een fout opgetreden bij het opslaan van uw pagina.
+Are you sure you want to delete this page?;Weet u zeker dat u deze pagina wild verwijderen
+Display address;Toon adres
+Display location button;Toon locatie knop
+Label;Label
+Label:;Label:
+Large;Groot
+Loading picture:;Afbeelding laden
+Make a search or enter the Youtube Url:;Maak een zoekopdracht of voeg een Youtube Url in:
+Medium;Middel
+My Youtube video:;Mijn Youtube video:
+My video;Mijn video
+No videos matching your selection;Geen video's die voldoen aan uw selectie
+Page successfully deleted;Pagina succesvol verwijderd
+Page successfully saved;Pagina succesvol opgeslagen
+Podcast URL:;Podcast URL:
+Select a video type:;Selecteer een video-type:
+Small;Klein
+Video URL:;Video URL:
+Your Podcast:;Uw Podcast:
+An error occurred while deleting this answer. Please try again later.;Er is een fout opgetreden bij het verwijderen van dit antwoord. Probeer het later opnieuw.
+Create a news;Maak een nieuwsbericht:
+Hide this info;Verberg deze info
+Information successfully deleted;Informatie succesvol verwijderd
+Information successfully hidden;Informatie met succes verborgen
+Information successfully saved;Informatie met succes opgeslagen
+Information successfully shown;Informatie met succes getoond
+Insert a;Voeg in
+It will be visible only after validation by our team.;Uw reactie is zichtbaar na controle door ons team
+My customers answers;Reacties van mijn Klanten
+Publishing date;Publicatie datum
+Show this info;Toon deze info
+There is no comment for this news;Er is geen reactie op dit nieuws
+You can't like more than once the same news;Je kan en mag het maar één keer leuk vinden
+Your like has been successfully added;Je vind ik leuk is toegevoegd
+Your message has been successfully saved.;Uw bericht is succesvol opgeslagen.
+An error occurred while saving your contact informations.;Er is een fout opgetreden bij het opslaan van uw contact informatie.
+An error occurred while sending your request. Please try again later.;Er is een fout opgetreden tijdens het versturen van uw aanvraag. Probeer het later opnieuw.
+And his phone number:;En zijn telefoonnummer:
+Are you sure you want to remove the picture?;Weet u zeker dat u wilt de afbeelding verwijderen?
+City;Woonplaats
+Contact information;Contact informatie
+Here is his email:;Hier is zijn e-mail:
+Here is his message:;Hier is zijn boodschap:
+Please enter properly the following fields: <br />;Vul a.u.b. de volgende velden in: <br />
+Twitter;Twitter
+Website;Website
+You have received a message from a contact:;Je hebt een bericht van een contact ontvangen:
+Your email;Uw email
+Your message has been sent;Uw bericht is verstuurd
+Your request;Uw vraag
+Zip code;Postcode
+%s - Account creation;%s - Account gemaakt
+%s - Your new password;%s - Uw nieuwe wachtwoord
+A request to reset your password has been made.;Een verzoek om uw wachtwoord te resetten is gemaakt.
+An error occurred while connecting to your Facebook account. Please try again later;Er is een fout opgetreden tijdens het verbinden met je Facebook-account. Probeer het later opnieuw
+Are you sure you want to remove this user?;Weet u zeker dat u deze gebruiker wilt verwijderen?
+Change Password;Wachtwoord wijzigen
+Congratulations,;Gefeliciteerd,
+Create;Maak
+Create a new user;Maak een nieuwe gebruiker
+Create an account;Maak een account
+Customer;Klant
+Customers;Klanten
+Disconnect;Loskoppelen
+Edit the user %s;Bewerk de gebruiker %s
+First name;Voornaam
+Forgot your password?;Wachtwoord vergeten?
+Gender;Man / vrouw
+Here are your credentials:;Hier zijn uw gegevens:
+I accept the <u>privacy policy</u>;Ik accepteer het <u>privacybeleid</ u>
+If you encounter any problems, do not hesitate to contact us:;Als u problemen ondervindt, aarzel dan niet om contact opte nemen:
+Last name;Achternaam
+Login:;Login :
+Miss;Mejv.
+Mr;Dhr.
+Mrs;Mevr.
+My Account;Mijn account
+My application's users;Mijn App gebruikers
+Old Password;Oude wachtwoord
+Or with your account;Of met uw account
+Please enter your email address. We'll send you your password right now.;Vul uw e-mailadres in . We zullen u nu uw wachtwoord sturen.
+Please log in with your mobile phone;Log-in met uw mobiele telefoon
+Privacy Policy;Privacybeleid
+See you soon,;Tot ziens,
+Show me in ranking;Toon mij in het klassement
+The old email address does not match the entered email address.;Het oude e-mailadres komt niet overeen met het opgegeven e-mailadres.
+"This user can access the pages locked by the ""Locker"" feature";"Deze gebruiker kan toegang krijgen tot de pagina's die vergrendeld zijn door de functie ""Locker"""
+This user is visible in ranking;De gebruiker is zichtbaar in de ranking
+User;Gebruiker
+Users;Gebruikers
+User Information;Gebruiker informatie
+We are sorry but the %s account is already linked to one of our customers;Het spijt ons maar het %s-account is al gekoppeld aan een van onze klanten
+You have created your account. With this account, you will be able to enjoy great offers available in our application.;Je hebt je account aangemaakt. Met dit account, kunt u genieten van de geweldige aanbiedingen die beschikbaar zijn in onze applicatie.
+Your account has been successfully saved;Uw account is met succes opgeslagen
+"%d Unread Messages"
+"404, page not found"
+"APIs"
+"Accounts"
+"Action"
+"Actions"
+"Add"
+"Add a"
+"Add<br /><span class=""bold"">Pictures</span>"
+"Add an <br /><span class=""bold"">image</span>"
+"Address"
+"All items"
+"An error occurred during process. Please try again later."
+"An error occurred during the process. Please try again later."
+"An error occurred while loading. Please try again later."
+"An error occurred while loading. Please, try again later."
+"An error occurred while saving"
+"An error occurred while saving your account. Please try again later."
+"An error occurred while saving your picture. Please try againg later."
+"An error occurred while saving. Please try again later."
+"An error occurred while saving. Please, try again later."
+"An error occurred while uploading your file. Please, try again later."
+"Appearance"
+"Application"
+"Application Name"
+"Applications"
+"Are you sure you want to delete this element?"
+"Are you sure you want to remove this account?"
+"Authentication failed. Please check your email and/or your password"
+"Back"
+"Browse"
+"Can only be used once"
+"Cancel"
+"Cart"
+"Catalog"
+"Category"
+"Change password"
+"City"
+"City:"
+"Close"
+"close"
+"Comment"
+"Comments"
+"Communication"
+"Company"
+"Coms"
+"Conditions"
+"Confirm Password"
+"Confirm new password"
+"Country"
+"Country:"
+"Create"
+"Create a new account"
+"Created at"
+"Created at:"
+"Currency"
+"Current password"
+"Dashboard"
+"Date"
+"day"
+"days"
+"Default Languages"
+"Delete"
+"Description"
+"Description:"
+"Details"
+"Edit"
+"Editing"
+"Email"
+"Email address"
+"Email:"
+"End at"
+"Error : <br/>"
+"Errors : <br/>"
+"Export your customers"
+"Extension not allowed, '%s' only"
+"Facebook"
+"Firstname"
+"Firstname:"
+"Forgot your password ?"
+"Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+"General"
+"Hello,"
+"Here is your new password:"
+"hour"
+"hours"
+"How do you want to access the backoffice if you remove the only user remaining?"
+"ID"
+"Image not high enough, %spx minimum allowed."
+"Image not large enough, %spx minimum allowed."
+"Image not large enough, '%s' allowed."
+"Image successfully saved"
+"Image too high, %spx maximum allowed."
+"Image too large, %spx maximum allowed."
+"Image too large, '%s' allowed."
+"In order to fully enjoy our features, we encourage you to use at least:.<br />"
+"In order to publish your application, we need:<br />- "
+"Incorrect filetype."
+"Info successfully saved"
+"Information"
+"Infos successfully saved"
+"Insert a <br /><span class=""bold"">cover image</span>"
+"Invoice %s"
+"Invoices"
+"Last Name"
+"Lastname"
+"Lastname:"
+"Latitude"
+"Latitude:"
+"Like"
+"Likes"
+"Link"
+"Load more"
+"loading"
+"Locate"
+"Location:"
+"Log in"
+"Log-in"
+"Log-out"
+"Logged in as"
+"Login"
+"Longitude"
+"Longitude:"
+"minute"
+"minutes"
+"MM/dd/y"
+"MM/dd/y 'at' hh:mm a"
+"MM/dd/y hh:mm a"
+"MM/dd/yy"
+"MM/dd/yyyy"
+"MM,d yy"
+"MMMM dd y"
+"Never"
+"No"
+"Main category"
+"Make this image colorizable"
+"Manage"
+"Maps"
+"Message from your app %s"
+"Messages"
+"Modules"
+"More"
+"My account"
+"My invoices"
+"My Invoices"
+"Name"
+"New"
+"No file found."
+"Nothing to display"
+"Number"
+"OK"
+"OR"
+"Ouch, this page doesn't exist"
+"Password"
+"Password:"
+"Passwords don't match"
+"Phone"
+"Phone:"
+"Picture%s"
+"Plans"
+"Platform Name"
+"Player"
+"Please, enter a date greater than today"
+"Please enter a password"
+"Please enter a valid email address"
+"Please enter a valid url"
+"Please enter your email address"
+"Please fill in the following fields:"
+"Please log in."
+"Please, enter a correct email address."
+"Please, enter a password."
+"Please, enter a valid date"
+"Podcast"
+"Podcast type is invalid or can't be found"
+"Podcast URL (iTunes format)"
+"Postcode"
+"Postcode:"
+"Price:"
+"Push"
+"Required fields"
+"Resize your picture"
+"Resize your picture:"
+"SEND"
+"Save"
+"Search"
+"second"
+"seconds"
+"Select a country"
+"Select all"
+"Send"
+"Send your pictures"
+"Settings"
+"Size:"
+"Street"
+"Street:"
+"Subscriptions"
+"Support"
+"Support Link"
+"Tax"
+"Taxes"
+"Text"
+"The account has been successfully saved"
+"The email is required"
+"The file '%s' does not exist"
+"The file %s does not exist"
+"The image '%s' does not exist"
+"The image size '%s' could not be detected."
+"The old password does not match the entered password."
+"The password is required"
+"The password must be at least 6 characters"
+"This administrator does not exist"
+"This email address is already used"
+"This field is required"
+"This user does not exist."
+"Timezone"
+"title"
+"titles"
+"Title"
+"Title:"
+"Total"
+"Updated at"
+"Use this coupon"
+"User"
+"User successfully saved"
+"Username"
+"Users"
+"Validate"
+"VAT Number"
+"Version %s"
+"View"
+"We are sorry but this address is already used."
+"We are sorry but this email address already exists."
+"We are sorry but this feature is not available yet"
+"Yes"
+"You can upload a pem certificate only."
+"You can upload a zip archive only."
+"You can upload an icon only (.ico and .png)."
+"You can upload an image only (.jpg, .jpeg, .gif and .png)."
+"You can't upload more than one file at a time."
+"You must be logged in to post a comment"
+"Your browser is too old to view the content of our website.<br />"
+"Your comment"
+"Your email address"
+"Your email address does not exist"
+"Your name"
+"Your new password has been sent to the entered email address"
+"Your password does not match the entered password."
+"Youtube"
+"en"
+"picture"
+"to add a subfolder."
+An error occurred while deleting the event;Er is een fout opgetreden tijdens het verwijderen van dit evenement 
+An error occurred while loading this event;Er is een fout opgetreden tijdens het laden van dit evenement 
+Beginning date:;Begin datum:
+Calendar successfully deleted;Kalender is verwijderd
+Calendar's URL;Kalender URL
+Calendar's title;Kalender titel
+Change picture;Verander afbeelding
+Create a new event;Maak een nieuw evenement
+Custom Page;Aangepaste pagina
+Delete this calendar?;Verwijder Kalender
+Delete this event?;Verwijder evenement
+Ending date:;Eind datum:
+Enter your calendar's title;Vul de titel van uw agenda in 
+Event;Evenement bewaard
+Event successfully deleted;Evenement verwijderd
+Event successfully saved;Evenement bewaard
+Event title:;Evenement titel
+Illustration;Illustratie
+Max size: 2000x2000px - allowed formats: jpg & png;Maximale grootte:  2000x2000px – toegestaande formaten jpg en png
+Modify the event;Bewerk evenement
+RSVP;RSVP
+RSVP URL:;RSVP URL:
+Your Facebook page ID;Uw FaceBook pagina ID
+"Your Facebook page ID <span class=""required-entry"">*</span> :";"Uw FaceBook pagina ID <span class=""required-entry"">*</span> :"
+Your calendar is empty;Je agenda is leeg
+iCal;iCal
+Add a page;Voeg pagina in
+Click on;Klik op
+"Click on a page to add it to the folder <span id=""folder_name"" class=""folder_name"">""%s""</span>";"Klik op een pagina om deze aan een map toe te voegen <span id=""folder_name"" class=""folder_name"">""%s""</span>"
+Click on a page to add it to the folder;Klik op een pagina om deze aan een map toe te voegen
+Close mobile display;Sluit mobiele weergave
+Delete this folder and all its subfolders?;Deze map en alle submappen verwijderen?
+Folder title is required;Maptitel is vereist
+Folders;Mappen
+Mobile display;Mobiele weergave
+New folder;Nieuwe map
+Subtitle;Ondertitel
+You cannot add this feature;U kunt dit kenmerk niet toevoegen 
+You must first complete the current category creation process;U moet eerst het huidige categorieën creatieproces voltooien
+You will lose all unsaved changes, continue?;U verliest alle niet-opgeslagen wijzigingen, doorgaan?
+to add a folder.;een map toevoegen
+<strong>%s</strong> must be a numerical value<br />;<strong>%s</strong> moet een numerieke waarde zijn<br />
+<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />;<strong>%s</strong> moet een geldige datum zijn (e.g. dd/mm/yyyy)<br />
+<strong>%s</strong> must be a valid date<br />;<strong>%s</strong> moet een geldige datum zijn<br />
+<strong>%s</strong> must be a valid email address<br />;<strong>%s</strong> moet een geldig e-mailadres zijn<br />
+<strong>%s</strong> must be filled<br />;<strong>%s</strong> moeten worden ingevuld<br />
+Add a field;Bewerk veld
+Add a section;Bewerk een selectie
+Add an option;Bewerk een optie
+An error occurred while saving. A field can't be identified.;Er is een fout opgetreden tijdens het opslaan. Een veld kan niet worden geïdentificeerd.
+Are you sure you want to remove this field?;Bent u zeker dat u dit veld wilt verwijderen?
+Are you sure you want to remove this section?;Bent u zeker dat u dit gedeelte wilt  verwijderen?
+Hello,;Hallo
+Checkbox;Checkbox
+Choose a field type:;Kies een veld type
+Create a new field;Maak een nieuw veld
+Date/Hour;Datum/uur
+Drop down;Dropdown
+Edit field %s;Bewerk veld %s
+Field name;Veldnaam
+Field name:;Veldnaam:
+Geolocation;Geolocatie
+Manage fields;Beheer velden
+Manage options:;Beheer opties:
+Multiline text;Multiline text
+Option;Optie
+Radio;Radio
+Recipient email:;Ontvanger e-mail:
+The form has been sent successfully;Het formulier is succesvol verzonden
+You have to choose a field type.;Je moet een veld type kiezen.
+Your app's form;Uw app formulier
+Your form has been filled out, here are the answers:;Uw formulier is ingevuld  hier zijn de antwoorden:
+"Your browser is too old and can not display the content optimally";"Votre navigateur est trop ancien et n'affichera pas les contenus de manière optimale.<br />"
+"To fully enjoy all our features, we recommend you to use at least: <br />";"Afin de profiter pleinement de toutes nos fonctionnalités, nous vous recommandons d'utiliser au moins : <br />"
+;
+Features;Fonctionnalités
+"Photos and Videos Galleries";"Galeries photos et vidéos"
+"Photos and videos are the best way to convey the atmosphere of a celebration or store.";"Rien de mieux que des photos ou des vidéos pour mettre en valeur les soirées ou l'ambiance d'un commerce."
+"Photos Galleries";"Galerie photos"
+"Product / price list";"Listing produits"
+"Product / price list";"Listing produits / tarifs"
+"Emphasize the products and prices of your clients by making information available on their clients mobile.";"Mettez en avant les produits et tarifs de vos clients commerçants, sur le mobile de leurs clients"
+"White Label Admin Panel";"Interface en Marque Blanche"
+"You want to resell mobile applications to your clients. Would you like to enable them to manage their own application? No problem. We provide an interface in your image, with your design, in your name, on your website.";"Vous créez des applications mobiles pour vos clients. Vous souhaitez leur permettre de gérer leur application eux-mêmes ? Oui ? Pas de souci, nous vous fournissons une interface à vos couleurs, à votre nom, sur votre site."
+"White Label Admin Panel";"Interface en Marque Blanche"
+"Touch To Call";"Touch To Call"
+"Calling a store is just a touch away. You can integrate the button into your application in one click.";"Quoi de mieux qu'un appel en une touche pour joindre un commerce ? En un clic, intégrez un bouton d'appel sur vos applications mobiles."
+"Clients will never have to hunt for the store number again.";"Fini les longues recherches de numéros de téléphone."
+Geolocation;Géo-localisation
+"Integrate your store address and enable your clients to find it directly using the mobile application.";"Intégrez très simplement l'adresse d'un commerce et permettez aux clients de le situer directement depuis l'application mobile."
+"Sell all features";"Voir toutes les fonctionnalités"
+"In a matter of minutes, create Iphone and Android native apps, as well as a mobile website for many small businesses. Thanks to our full white label system, you keep a total control of your customers.";"Créez en quelques minutes des applications mobiles pour les commerçants. Aucune connaissance technique n'est requise et nous publions votre application dès qu'elle est prête."
+Restaurants;Restaurants
+Sports;Sports
+Bars;Bars
+"Fashion / Clothing";"Mode / Vêtements"
+"Fashion<br />Clothing";Mode
+"Snacking / Restaurants";"Snacking / Restaurants"
+"Snacking<br />Restaurants";"Snacking<br />Restaurants"
+"Hotels / Pensions";"Hôtels / Gîtes"
+"Hotels<br />Pensions";"Hôtels<br />Gîtes"
+"Real Estate";Immobilier
+"Hair / Beauty";"Coiffeurs / beauté"
+"Hair<br />Beauty";Coiffeurs
+"Bars / Cafes";"Bars / Cafés"
+"Bars<br />Cafes";"Bars<br />Cafés"
+"Our applications can run on all devices:";"Nous supportons toutes les plateformes"
+"IPhones, Android and HTML5 for users of Windows 8 and BlackBerry.<br />You have nothing to worry about. Tiger will do the work for you.";"Iphones, Android, et HTML5 pour toucher les utilisateurs de Windows 8 et BlackBerry.<br />Ne vous souciez de rien, Tiger s'occupe de créer du joli code pour vous."
+"Effective applications + Fair price = Happy customers";"Apps efficaces + Prix minime = Des clients heureux"
+"I was skeptical at first, but I have to admit that you deliver. My clients' smiling faces are proof of that.";"Au début j'étais sceptique, mais maintenant j'avoue vous êtes au top. J'aime voir la tête ravie de mes clients."
+"Freelance developer";"Développeur freelance"
+"Your solution helped me develop my product portfolio, and sales are booming! Thanks again!";"Merci encore, j'ai pu développer mon portefeuille de produits avec votre solution et ça se vend très bien !"
+"Software supplier";"Distributeur logiciel"
+"I only wish that our competitors couldn't use your solution (...) it's a dream come true for us.";"J'aimerai qu'une seule chose c'est que nos concurrents n'utilisent pas votre solution (...) on en rêvait."
+"Project manager";"Chef de projet"
+Pricing;Prix
+All of your modules are up to date;Al uw modules zijn up to date
+Click here to send your module;Klik hier om uw module te selecteren op uw pc
+Drop your module here;Laat hier uw module vallen
+"Installing module <em><span id=""label_module""></span></em>";"Installeert module <em><span id=""label_module""></span></em>"
+Installing;Installeren
+Installing your module;Installeert module
+Module successfully installed;Module met succes geïnstalleerd
+Module to upload;Modules klaar voor upload
+Modules Installation;Module installatie
+Modules successfully installed!;Module met succes geïnstalleerd!
+No directory provided;Geen directory aangegeven
+No module to install;Geen modules te installeren
+No modules uploaded yet;Nog geen modules geüpload
+Please wait, we're installing your module;Een ogenblik geduld we installeren de module
+Please, enter a name;Vul een naam in
+Please, fill out all fields;Vul alle velden in
+Processing the installation;Verwerken van de installatie
+Retry;Opnieuw
+Select a module to upload;Selecteer een module om te uploaden
+The database connection failed. Please, check the entered information.;De database verbinding mislukt. Alstublieft  controleer de ingevulde informatie. 
+The entered password confirmation does not match the entered password.;Het bevestiging wachtwoord komt niet overeen met het eerst ingevulde wachtwoord.
+The file %s does not exist;Het bestand %s bestaat niet
+The folder %s is not writable. Please fix this issue and try again.;De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het opnieuw. 
+The folder %s is not writable.;De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het opnieuw. 
+The following folders are not writable: <br /> - %s;De volgende mappen zijn niet beschrijfbaar: <br /> - %s
+"The installation of the module <span id=""installation_failed_module_name""></span> has failed: <span id=""installation_failed_because""></span>";"De installatie van de module <span id=""installation_failed_module_name""></span> is mislukt: <span id=""installation_failed_because""> </ span> "
+This process may take few minutes, please do not refresh the page;Dit proces kan enkele minuten duren pagina niet vernieuwen
+Unable to extract the archive.;Kan archief niet uit pakken
+Unable to open the archive.;Kan archief niet openen
+Unable to open the file. Please, make sure that you sent a valid archive.;Kan het bestand te openen. Zorg ervoor dat u een geldig archief (bestand) heeft gestuurd.
+Upload a module;Upload een module
+Upload your modules;Upload uw modules
+ is now yours!;Is nu van u
+%d validated points = ;%d goedgekeurde punten =
+1 loyalty point =;1 Loyaliteit punt =
+1 point;1 punt
+1 validated point = ;1 goedgekeurd punt =
+An error occurred while saving the password. Please try again later;Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer het later opnieuw.
+An error occurred while saving the password. Please try again later.;Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer het later opnieuw.
+An error occurred while saving your loyalty card.;Er is een fout opgetreden tijdens het opslaan van uw klantenkaart.
+An error occurred while saving your loyalty card. Please fill all fields in.;Er is een fout opgetreden tijdens het opslaan van uw klantenkaart. Vul alle velden in.
+An error occurred while validating point. Please try again later.;Er is een fout opgetreden bij het keuren van de punten. Probeer het later opnieuw.
+Card name;Kaart naam
+Congratulations;Gefeliciteerd
+Current card;Huidige kaart
+Delete this password?;Verwijder dit wachtwoord
+Employee's name:;Naam van werknemer:
+Employee's name;Naam van werknemer:
+Employee's password:;Wachtwoord werknemer:
+Employee's password;Wachtwoord werknemer
+Enter the password;Vul het wachtwoord in
+My new loyalty card;Mijn nieuwe klantenkaart 
+My passwords;Mijn wachtwoorden
+Number of points;Aantal punten 
+point to validate;punten valideren
+points to validate;punten valideren
+Please enter a name;Vul een naam in
+Please enter the password;Vul het wachtwoord in
+Please show your phone to the store person so that he enters his password;laat je telefoon aan de winkel medewerker zien zodat hij zijn wachtwoord kan invullen
+Point%s successfully validated;Punten%s met succes gekeurd
+Previous cards;Vorige kaarten
+Reward;Beloning
+We are sorry but this card is temporarily blocked;Sorry uw kaart is tijdelijk geblokkeerd
+Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point;Verkeerd wachtwoord. Wees voorzichtig!  %d nog %s resterende pogingen vóór vergrendeling van uw kaart. Vraag aan het winkelpersoneel voor uw punt te valideren
+Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point;Verkeerd wachtwoord. <br/> Wees voorzichtig!  %d nog %s resterende pogingen vóór vergrendeling van uw kaart. <br /> Vraag aan het winkelpersoneel voor uw punt te valideren
+You have exceeded the number of attempts to validate points. Your card is locked for 24h;U hebt het aantal pogingen om punten te valideren overschreden. Uw kaart is geblokkeerd voor 24 uur
+You just finished your card;U heeft uw kaart vol
+You must be logged in to validate points;Je moet ingelogd zijn om punten te valideren
+Your loyalty card has been saved successfully;Uw klantenkaart is succesvol opgeslagen
+Your password must be 4 digits;Uw wachtwoord moet uit 4 cijfers bestaan
+point;punt
+point to validate;Punt te valideren
+points to validate;Punten te valideren
+Cancelled;Geannuleerd
+%s - Customer Service;%s - Klantenservice
+20.00%;20.00%
+Add a picture;Voeg een afbeelding toe
+Add options;Opties toe te voegen
+An error occurred while proceeding the payment. Please, try again later.;Er is een fout opgetreden bij het betalen. Probeer het later opnieuw.
+An error occurred while proceeding your order. Please, check the following information:;Er is een fout opgetreden bij het bestellen. Controleer de volgende gegegevens:
+Are you sure you want to close without saving;Weet u zeker dat u wilt sluiten zonder op te bewaren
+Are you sure you want to delete this category and all its subcategories?;Weet u zeker dat u deze categorie en alle subcategorieën wilt verwijderen?
+Are you sure you want to delete this store?;Weet u zeker dat u deze winkel wilt verwijderen?
+Are you sure you want to delete this store?;Weet u zeker dat u deze winkel wilt verwijderen?
+Are you sure you want to delete this tax?;Weett u zeker dat u deze belasting wilt verwijderen?
+Are you sure you want to remove this product?;Weett u zeker dat u dit product wilt verwijderen?
+At least one option is required:;Ten minste één optie is vereist:
+Carry Out;Uitvoeren
+Cart;Winkelwagen
+Cash;Contant
+Category;Categorie
+Category successfully saved.;Categorie succesvol opgeslagen.
+Check;
+Choose a delivery method:;Kies een levering methode:
+Choose a payment method:;Kies een betaalmethode:
+Choose a store:;Kies een winkel:
+Completed;Voltooid
+Connected Printers;Aangesloten printers
+Continue shopping;Verder met winkelen
+Create a new options group;Maak een nieuwe keuze groep
+Create a new product;Maak een nieuw product
+Create a new tax;Maak een nieuwe belasting
+Create a store;Maak een winkel
+Credit card (pay upon pickup or delivery);Creditcard (betalen bij afhalen of afleveren)
+Credit Card by phone;Credit Card via de telefoon
+Customer;Klant
+Customer;Klant
+Customer Service;Klantenservice
+Delivery;Levering
+Delivery;Levering
+Delivery area;Leveringsgebied
+Delivery fees;Verzendingskosten
+Delivery fees;Verzendingskosten
+Delivery fees;Verzendingskosten
+Delivery Fees;Verzendingskosten
+Delivery fees:;Verzendingskosten:
+Delivery Method;Levering Wijze
+Delivery methods;Wijze van levering
+Delivery methods:;Levering methoden:
+Delivery radius;Levering straal
+Delivery radius:;Levering straal:
+Delivery time;Levertijd
+Delivery time;Levertijd
+Delivery time:;Levertijd:
+Details;Details
+e.g., Sauces;bijv, Sauzen
+Edit a store;Bewerk een winkel
+Edit the options group %s;Bewerk de opties groep %s
+Edit the product %s;Bewerk het product %s
+Edit the tax %s;Bewerk de belasting % s
+Free delivery starting from;Gratis levering vanaf
+Free delivery starting from:;Gratis levering vanaf:
+Here is the detail of the order;Hier zijn de details van de bestelling
+Here is the detail of your order;Hier zijn de details van je bestelling
+Hours of operation;Openingstijden
+Hours of operation:;Openingstijden:
+In store;Op voorraad
+Meal Voucher;Maaltijdcheque
+Minimum order;Minimum order
+Minimum order:;Minimum order:
+My Cart;Mijn winkelwagen
+My cart is empty;Mijn winkelwagen is leeg
+My categories;Mijn categorieën
+My information;Mijn gegevens
+My orders;Mijn bestellingen
+My product's categories;Mijn product categorieën
+My product's options;Mijn product opties
+My products;Mijn producten
+My stores;Mijn winkels
+My taxes;Mijn belastingen
+Name of the options group:;Naam opties groep
+New order from the application;Nieuwe order van de App
+Number;Nummer
+Option name;Opties naam
+Option name:;Opties naam:
+Options group successfully deleted;Groep opties succesvol verwijderd
+Options group successfully saved;Groep opties succesvol bewaard
+Order confirmation;Bestel bevestiging
+Order details;Bestel details
+Order Number;Bestelnummer
+Order successfully saved;Bestelling bewaart
+Orders;Bestellingen
+Paid;Betaald
+Password;Wachtwoord
+Password:;Wachtwoord:
+Payment;Betaling
+Payment Method;Betalingsmethode
+Payment methods:;Betaalmethoden:
+Paypal;Paypal
+Pending payment;In afwachting van betaling
+Picture;Afbeelding
+Please choose a delivery method;Kies een levering methode
+Please choose a payment method;Kies een betaalmethode
+Please, enter an email address for the store %s;Vul een e-mailadres voor de winkel %s
+Price;Prijs
+Price: %s;Prijs: %s
+Printer successfully saved;Printer succesvol opgeslagen
+Proceed;Verdergaan
+Product;Product
+Product;Product
+Product name;Productnaam
+Product name:;Productnaam:
+Product successfully saved;Product succesvol opgeslagen
+Qty;Aantal
+Qty;Aantal
+Qty: %s;Aantal: %s
+Radius in Km;Radius in Km
+Review;Recensie
+Settings;Instellingen
+Signature;Handtekening
+Signature:;Handtekening:
+Status;Status
+Store information;Winkelgegevens
+Store name;Naam van de winkel
+Store name:;Naam winkel:
+Store successfully deleted;Winkel succesvol verwijderd
+Store successfully saved;Winkel succesvol opgeslagen
+Stores;Winkels
+Subtotal;Subtotaal
+Subtotal;Subtotaal
+Tax;belasting
+Tax;belasting
+Tax name;Belasting naam
+Tax name:;Belasting naam:
+Tax rate;Belastingtarief
+Tax rate:;Belastingtarief:
+Tax successfully deleted;Belasting succesvol verwijderd
+Tax successfully saved;Belasting succesvol opgeslagen
+Tax:;BTW:
+Thank you!;Dankjewel!
+The delivery method;Levering Wijze
+The following options are required:<br />%s;De volgende opties zijn verplicht: <br />% s
+The option %s is required;Deze optie is %s verplicht
+The payment has been cancelled, something wrong happened? Feel free to contact us;De betaling is geannuleerd, er iets mis is er gebeurd? Voel je vrij om ons te contacteren
+The payment method;De betaalmethode
+Time in minutes;Tijd in minuten
+Total;Totaal
+Total;Totaal
+Total;Totaal
+Total Excl. Tax;Totaal Excl. BTW
+Total Excl. Tax;Totaal Excl. BTW
+Total Tax;Total inclusief BTW
+Total: %s;Totaal: %s
+Unit price;Stukprijs
+Unit Price;Prijs per stuk
+Username;Gebruikersnaam
+Username:;Gebruikersnaam:
+We apologize but the payment method %s is currently not available;Onze excuses maar de betaalmethode %s is momenteel niet beschikbaar
+We thank you for your order. A confirmation email has been sent;Dank u voor uw bestelling. Een bevestigingsmail is verstuurd
+You don't have any categories yet;U heeft nog geen categorieën
+You have a connected printer? Enter the email address;Je hebt een aangesloten printer? Vul het e-mailadres in
+You have a connected printer? Enter the email address for each store;Je hebt een aangesloten printer? Vul het e-mailadres voor iedere winkel in
+Your address;Uw adres
+Your email address;Uw e-mail adres
+Your firstname;Uw voornaam
+Your lastname;Uw achternaam
+Your phone number;Uw telefoonnummer
++ Add a track;+ Voeg een nummer toe
+Add albums and tracks to the playlist:;Albums en tracks toevoegen aan de afspeellijst:
+Are you sure you don't want to create an album for these tracks?;Weet u zeker dat u  geen album voor deze nummers wilt maken?
+Are you sure you don't want to create an album for this track?;Weet u zeker dat u  geen album voor dit nummer wilt maken?
+Are you sure you want to delete this album (this won't delete tracks)?;Weet u zeker dat u dit album wilt verwijderen? ( nummers worden niet verwijdert)
+Are you sure you want to delete this album?;Weet u zeker dat u dit album wilt verwijderen?
+Are you sure you want to delete this playlist?;Weet u zeker dat u dit nummer wilt verwijderen?
+Are you sure you want to delete this track?;Weet u zeker dat u dit nummer wilt verwijderen?
+Artist:;Artiest
+Artist;Artiest
+Album;Album
+Albums;Albums
+Albums:;Albums:
+An error occurred while deleting your album. Thanks for trying later.;Er is een fout opgetreden tijdens het verwijderen van uw album. Probeer het later opnieuw.
+An error occurred while deleting your playlist. Thanks for trying later.;Er is een fout opgetreden tijdens het verwijderen van uw afspeellijst. Probeer het later opnieuw.
+An error occurred while deleting your track. Thanks for trying later.;Er is een fout opgetreden bij het verwijderen van je track. Probeer het later opnieuw.
+An error occurred while saving your playlist. Thanks for trying later.;Er is een fout opgetreden bij het opslaan van uw afspeellijst. Probeer het later opnieuw.
+An error occurred while deleting you images gallery. Please try again later.;Er is een fout opgetreden bij het verwijderen van je fotoalbum. Probeer het later opnieuw.
+An error occurred while loading pictures. Please try later.;Er is een fout opgetreden tijdens het laden van de afbeeldingen. Probeert u het later nog eens..
+An error occurred while loading videos. Please try later.;Er is een fout opgetreden tijdens het laden van de video's. Probeer het later nog eens.
+An error occurred while saving your images gallery. Please try again later.;Er is een fout opgetreden tijdens het opslaan van uw afbeeldingen galerij. Probeer het later nog eens.
+An error occurred while saving your videos gallery. Please try again later.;Er is een fout opgetreden tijdens het opslaan van uw video galerij. Probeer het later nog eens.
+Audio;Audio
+buy;koop
+Channel;Kanaal
+Choose an album;Kies een album
+close;sluit
+Custom;Aangepast
+Delete this gallery?;Verwijder deze galerij
+empty;leeg
+Feed URL;Url de votre flux
+"Feed URL <span class=""required-entry"">*</span> :";"Url de votre flux <span class=""required-entry"">*</span> :"
+from;van
+Gallery Name;Gallery Naam
+"Gallery Name <span class=""required-entry"">*</span> :";"Gallery Naam <span class=""required-entry"">*</span> :"
+Group;Groep
+hide;verberg
+I'm listening to;Ik luister naar
+Images gallery has been saved successfully;Fotoalbum met succes opgeslagen
+Instagram;Instagram
+Last update:;Laatste update:
+loop;Herhaal
+Maximum size : 2000*2000 px - Allowed filetypes : jpg and png;Maximaal formaat : 2000x2000px – toegestaande formaten: jpg et png
+music;muziek
+My pictures;Mijn afbeeldingen
+next;volgende
+No album found;Geen album gevonden
+No artist found;Geen artiest gevonden
+No track found;Geen nummer gevonden
+on;op
+Parameter;Parameter
+Parameter/Feed Url;Parameter/Feed Url
+pause;pauze
+Picasa;Picasa
+Picture%s;Afbeeldingen%s
+play;play
+PLAYER;PLAYER
+Playlist;Afspeellijst
+Playlist title:;Afspeellijst-titel:
+Playlists;Afspeellijsten
+Playlist successfully saved.;Afspeellijst succesvol opgeslagen.
+Podcast;Podcast
+Podcast URL (iTunes format);Podcast URL (iTunes-formaat)
+previous;vorige
+Read all;Lees alle
+Required field;Verplicht veld
+Search/Url;Zoek/Url
+share;deel
+shuffle;shuffel
+The entered name is not a valid Instagram user.;De ingevoerde naam is geen geldige Instagram gebruiker.
+This element is not an album.;Dit element is niet een album.
+track;nummer
+tracks;nummers
+Track;nummer
+Tracks;nummers
+Type;Type
+URL (.mp3):;URL (.mp3):
+Videos gallery has been saved successfully;Video galerij is met succes opgeslagen
+Vimeo;Vimeo
+Lock the entire application?;Vergrendel de gehele applicatie?
+Choose the features to lock:;Kies de functies om te vergrendelen:
+Restrict Access;Beperk toegang
+Allow all the users by default:;Beperkte toegang
+the gender;man /vrouw
+the first name;de voornaam
+the last name;de achternaam
+the email address;het e-mailadres
+the password;Het wachtwoord
+Access restricted to authorized members only;Toegang alleen voor leden
+We are sorry but your account does not have enough permissions to access this page;Het spijt ons maar uw account heeft niet genoeg rechten om deze pagina te bekijken
+Payments;Betalingen
+Identifier:;Identifier
+Identifier:;Identifier:
+Rating:;Waardering:
+Label:;Label:
+Latitude:;Breedtegraad:
+Longitude:;Lengtegraad:
+Number of rooms:;Aantal kamers:
+Information:;Informatie:
+Opening Details:;Openingsdetails:
+Indexing data... This process will take #{d}. Please, do not refresh the page.;Data indexeren... Dit proces duurt #{d}. Gelieve de pagina niet te verversen.
+about %s hour;Ongeveer %s uur
+about %s hours;Ongeveer %s uren
+less than a minute;Minder dan een minuut
+This identifier is already used.;Deze identifier is al in gebruik.
+Unable to automatically retrieve the coordinates of this place. Please, provide them manually.;Het automatisch terughalen van de coordinaten is mislukt. Gelieve deze handmatig in te voeren.
+Distance:;Afstand:
+An error occurred while saving your discount. Please fill in all fields;Er is een fout opgetreden bij het opslaan van uw coupon. Vul alle velden in.
+Are you sure you want to use this discount?;Weet u zeker dat u deze korting wilt gebruiken?
+Closed discounts;Afgeronde promoties
+Create a new discount;Maak een nieuwe korting
+Delete this discount?;Verwijder deze korting
+Discount successfully deleted;Korting succesvol verwijderd
+Discount successfully saved;Korting succesvol opgeslagen
+Please select an end date greater than the current date.;Selecteer een einddatum groter is dan de huidige datum.
+This discount is now used;Deze korting is nu gebruikt
+Valid until;Geldig tot
+You have already use this discount;Je hebt al van deze korting gebruik gemaakt
+You must be logged in to use a discount;Je moet ingelogd zijn om een korting te gebruiken
+or illimited;of gelimiteerd
+use only once;alleen eenmaal
+you'll be able to remove this promotion later;je kunt deze promotie later verwijderen
+Additionnal Information;Bijkomende informatie
+And a radius (in Km):;En een straal (in km):
+Android;Android
+Creation date;Aanmaak datum
+Enter a location:;Geef een locatie op:
+GCM Key;GCM Key
+I want to send it;Ik wil het bericht versturen
+Keys successfully saved;Key succesvol opgeslagen
+Message;Bericht
+Message:;Berichten:
+Pending;Nog niet verzonden
+Push Notifications;Notifications Push
+Push Notifications Settings;Paramètres des notifications push
+Radius;Radius
+Send to a specific location;Stuur naar een specifiek gebied
+Send to all my users;Verstuur naar alle gebruikers
+Sender ID;Zender ID
+Sending date;Verzend datum
+The duration limit must be higher than the sent date;De tijdslimiet moet hoger zijn dan de verzonden datum
+Your app must be published to send a push notification.;Uw app moet worden gepubliceerd om een push-bericht versturen.
+Your message has been saved successfully and will be sent at the entered date;Uw bericht is succesvol opgeslagen en word op de ingevoerde datum verstuurd
+Your message has been saved successfully and will be sent in a few minutes;Uw bericht is succesvol opgeslagen, en word in een paar minuten verzonden
+and users entering the area;en gebruikers die het gebied binnen komen
+for a limited period;voor een bepaalde periode
+now;nu
+on a specific date;op een bepaalde datum
+%s ago;%s geleden
+An error occurred while saving your RSS feed;Er heeft zich een fout voorgedaan tijdens het opslaan van uw RSS feed
+Display feed pictures whenever possible;Toon feed afbeeldingen wanneer mogelijk
+Enter the URL of this RSS feed;Vul de url in van de RSS feed
+Found feeds;Gevonden feeds
+No RSS feed could be found;Er kon geen RSS feed gevonden worden
+RSS feed successfully saved;RSS feed succesvol opgeslagen
+Show article;Bekijk artikel
+day;dag
+hour;uur
+minute;minuut
+Action;Actie
+App Name;App Naam
+Client;Klant
+Date;Datum
+Invoice;Factuur
+Invoice %s;Factuur %s
+Invoice N°;Factuur N°
+List of your invoices;Lijst van uw facturen
+My Invoices;Mijn Facturen
+Order;Opdracht
+Orders;Bestellingen
+Paid At;Betaald op
+Paid at:;Betaald op:
+Price Excl. Tax;Prijs excl. BTW
+Qty;Aantal
+This feature is not ready yet. Please try again later.;Deze functie is nog niet beschikbaar. Probeer het later opnieuw.
+Total Excl. Tax;Totaal Excl. BTW
+You don't have any invoices yet;U heeft nog geen facturen
+An error occurred while loading the videos. Please try again later.;Er is een fout opgetreden tijdens het laden van de video's. Probeer het later opnieuw.
+Enter your Facebook Fan Page Id;Voer hier uw Facebook fanpagina ID in
+"Enter your Facebook Fan Page Id <span class=""required-entry""> *</span>:";"Voer hier uw Facebook fanpagina ID in <span class=""Verpligte invoer""> *</span> :"
+%s point%s;%s punten%s
+A month;Een maand
+A week;Een week
+Challengers;Uitdagers
+Current game;Huidig spel
+Currently no challengers;Pas de challengers pour l'instant
+Game Name;Naam van spel
+Game successfully saved;Spel succesvol opgeslagen
+Next game;Volgend spel
+On the;Op de
+Period;Période
+Periodicity;Periodiciteit
+Publication date;Publicatiedatum
+Rank of the month;Klassement van de maand
+Rank of the week;Klassement van de week
+Team Leader;Teamleider
+Source Code;Source Code
+Insert your HTML code:;Plaats de HTML-code:
+%s Subscription for %s;%s Inschrijving voor %s
+"<a href=""%s"">Click here</a> to go back to your applications list";"<a href=""%s"">Klik hier</a> om terug te gaan naar je lijst met App's"
+Active;Actief
+An error occurred while processing your order. Please, try again later.;Er is een fout opgetreden bij het verwerken van uw bestelling. Probeer het later opnieuw.
+An error occurred while saving. Please try again later;Er is een fout opgetreden tijdens het opslaan. Probeer het later opnieuw
+An error occurred while saving. The selected subscription is not valid.;Er is een fout opgetreden tijdens het opslaan. Het geselecteerde abonnement is niet geldig.
+Are you sure you want to delete this plan?;Weet u zeker dat u dit plan wilt verwijderen?
+Billing Address;Factuuradres
+"By checking this box, you agree <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">to our terms and conditions</a>";"Door het aanvinken van dit vakje, gaat u akkoord <a id = ""show_tos"" href = ""javascript: void (0);"" target = ""_ blank"" class = ""onderstrepen""> met onze algemene voorwaarden </a>"
+Charged to your client every month;Word maandelijks in rekening gebracht
+Charged to your client every year;Word jaarlijks in rekening gebracht
+Charged to your client when placing the order;Word in rekening gebracht bij het plaatsen van de bestelling
+Choose the subscription that suits you best:;Kies het abonnement dat het beste bij u past:
+Create a new subscription;Maak een nieuw abonnement
+Creation;Maak
+Describe here this plan. Will be displayed on the front end;Beschrijf hier dit plan. Zal op de voorkant worden weergegeven
+Each price must be entered excluding tax;iedere prijs moet worden ingevoerd exclusief BTW
+Edit the subscription %s;Bewerk het abonnement %s
+Expiration;Vervalt
+Expiration date;Vervaldatum
+Give a name to this plan. Will be displayed on the front end;Geef een naam aan dit plan. Zal op de voorkant worden weergegeven
+List of your plans;Uw prijslijsten (tarieven)
+List of your subscriptions;Lijst van uw abonnementen
+None;Geen
+One-off;Eenmalig
+Order's details;Bestel details
+Payment;Betaling
+Payment Option;Betaal optie
+"Payment secured by <img src=""%s"" width=""100"" title=""Paypal"" />";"Beveiligde betaling door <img src=""%s"" width=""100"" title=""Paypal"" />"
+Please, enter a company;Vul een bedrijfsnaam in.
+Please, enter a country;Vul een land in.
+Please, enter a description.;Vul een beschrijving in.
+Please, enter a name.;Vul een naam in.
+Please, enter an address;Vul een adres in.
+Pricing;Tarieven
+Proceed to payment?;Overgaan tot betaling?
+Recurring;Terugkerende
+Setup Fee;Setup kosten
+Setup fee;Setup kosten
+Subscription;Abonnement
+Subscription successfully saved;Abonnement succesvol opgeslagen
+Subtotal;Subtotaal
+Thanks!;Bedankt!
+The monthly price is not a valid price (e.g. 12.34);Het maandelijkse tarief heeft geen geldige waarde (bijvoorbeeld 12.34)
+The setup fee is not a valid price (e.g. 12.34);De setup fee heeft geen geldige waarde (bijv. 12.34)
+The yearly price is not a valid price (e.g. 12.34);Het  jaarlijkse tarief heeft geen geldige waarde (bijvoorbeeld 12.34)
+This subscription is active;Dit abonnement is actief
+An error occurred while processing the payment. For more information, please feel free to contact us.;Er is een fout opgetreden bij het verwerken van de betaling. Voor meer informatie neem contact met ons op
+VAT Number;BTW-nummer
+You already have a subscription for this application;U heeft al een abonnement voor deze App
+You don't have any subscriptions yet;Je hebt nog geen abonnementen
+You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play.;Je bent bijna klaar! Na inschrijving zullen we uw applicatie op zowel de AppStore en Google Play publiceren.
+Your VAT Number is not valid;Uw BTW-nummer is niet geldig
+Your order has been canceled. If you need any help to place your order, please feel free to contact us.;Uw bestelling is geannuleerd. Als u hulp nodig hebt om uw bestelling te plaatsen neem dan gerust contact met ons op
+Your order has been successfully paid. Your application will be published very soon.;Uw bestelling is succesvol betaald. Uw App zal zeer binnenkort worden gepubliceerd.
+Your subscription must have at least one price;Uw abonnement moet ten minste één prijs hebben
+price;Prijs
+<b>File types:</b> %s<br /><b>Recommended size:</b> %s;<b>Bestandstypen:</b> %s<br /><b>Aanbevolen grootte:</b> %s
+Click here to send your favicon;Klik hier om je favicon te uploaden
+Click here to send your logo;Klik hier om uw logo te uploaden
+Communications;Communicatie
+Current favicon;Huidige favicon
+Current logo;Huidig logo
+Display a link to your clients to your support platform;Toont een link aan uw klanten naar uw helpdesk
+Drop your favicon here;Laat hier uw favicon vallen
+Drop your logo here;Laat hier uw logo vallen
+Sales;Verkoop
+Sales Email Address;Verkoop – e-mailadres
+Sender's email address of the emails sent by the site to your clients;E-mail adres van de  e-mails die door de site word verzonden naar uw klanten
+Sender's name of the emails sent by the site to your clients;Naam van de afzender die door de site naar uw klanten word verzonden
+Support Email Address;Helpdesk email adres
+The folder /images/default is not writable.;De map / images / default is niet beschrijfbaar.
+Your Location;Uw Locatie
+Your Platform;Uw Platform
+Your company;Uw bedrijf
+List of your taxes;Lijst van belastingen
+Please select a country;Selecteer een land
+Please, enter a tax rate.;Vul een belastingtarief in.
+Please, enter a valid tax rate.;Vul een geldig belastingtarief in.
+Rate;Beoordeel
+Remove;Verwijderen
+You don't have created any taxes yet;Je hebt nog geen lijst met belasting tariven gemaakt
+TEMPLATES;Template
+Add a link;Voeg een link toe
+An error occurred while saving your picto. Please try againg later.;Er is een fout opgetreden bij het opslaan van uw pictogram. Probeert u het later nog een keer.
+Are you sure you want to delete this link?;Weet u zeker dat u deze link wilt verwijderen?
+Are you sure you want to delete this picture?;Weet u zeker dat u deze afbeelding wilt verwijderen?
+Link;Link
+Link has been successfully deleted;Link is succesvol verwijderd
+Link has been successfully saved;Link is succesvol opgeslagen
+Link:;Link:
+Picto;Picto
+The image has been successfully deleted;De afbeelding is met succes verwijderd
+The image has been successfully saved;De afbeelding is met succes bewaard
+Your links;Uw links
+An error occurred while accessing your Wordpress website. Please, verify the domain name %s;Er is een fout opgetreden bij het openen van uw Wordpress website. Controleert de domeinnaam %s
+Categories successfully saved;Categorieën succesvol opgeslagen
+Click here to download our Wordpress plugin;Klik hier om onze WordPress plugin te downloaden
+Enter your Wordpress URL:;Vul uw Wordpress URL in:
+Loading categories;Categorieën Laden
+We are sorry but no category has been detected on your Wordpress website.;Het spijt ons maar er zijn geen categorieën gedetecteerd op uw Wordpress website.
+We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated.;Het spijt ons maar er is geen wordpress plugin gededekteerd op uw website. Zorg er voor dat de plugin goed is geinstaleerd op uw website
+Wordpress;Wordpress

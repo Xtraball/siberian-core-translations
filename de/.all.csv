@@ -1,0 +1,1549 @@
+"%s - Your new password";"%s - Ihr neues Passwort"
+"A request to reset your password has been made to log in to your administration panel.";"Eine Anforderung zum Zurücksetzen Ihres Passworts erzielt worden, sich in Ihre Administrations-Bereich einloggen."
+"Admin successfully deleted";"Admin gelöscht"
+"An error occurred while saving your account. Please try again later.";"Beim Speichern Ihres Kontos ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving. The country is not valid.";"Fehler beim Speichern. Das Land ist nicht gültig."
+"Are you sure you want to delete this application?";"Bist du sicher, dass Sie diese Anwendung löschen möchten?"
+"Can add pages";"Können Seiten hinzufügen"
+"Change my password";"Mein Passwort ändern"
+"Confirm new password";"Neues Passwort bestätigen"
+"Confirm your password";"Passwort bestätigen"
+"Create a new application";"Erstellen einer neuen Anwendung"
+"Create a new user";"Einen neuen Benutzer erstellen"
+"Created At";"Erstellt am"
+"Created at %s";"Erstellt am %s"
+"Current password";"Aktuelles Passwort"
+Details;"Details "
+"Do not hesitate to give us your feedback by sharing your needs:";"Zögern Sie nicht, uns Ihr Feedback zu geben, durch den Austausch von Ihren Bedürfnissen:"
+"Edit the account ""%s""";"Bearbeiten Sie das Konto ""%s"""
+"Edit the user %s";"Bearbeiten des Benutzers %s"
+Enjoy!;"Genießen Sie!"
+"Enter your credentials:";"Geben Sie Ihre Zugangsdaten ein:"
+"Find some advices here:";"Finden Sie hier einige Ratschläge:"
+"Forgot your password ?";"Passwort vergessen?"
+"Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now.";"Passwort vergessen? Machen Sie sich keine Sorgen! Geben Sie hier einfach Ihre E-Mail-Adresse ein und Sie erhalten ein neues passwort."
+"Here are your credentials, keep them preciously:";"Hier sind Ihre Anmeldedaten, halten sie kostbar:"
+"List of admin accounts";"Liste der Administratorkonten"
+"List of my accounts";"Liste meiner Konten"
+"List of your users";"Liste der Benutzer"
+"Log in";einloggen
+"Log-in As";"Einloggen als"
+"Login to your admin interface";"Anmeldung zu Ihrem Admin-Interface"
+"Manage access";"Verwalten des Zugriffs"
+"Mark as read";"Als gelesen markieren"
+"Mark as unread";"Als ungelesen markieren "
+"My Applications";"Meine Anwendungen"
+"My account";"Mein Konto"
+"My information";"Meine Informationen"
+"My informations";"Meine Informationen"
+"My notifications";"Meine Benachrichtigungen"
+"My notifications list";"Meine Benachrichtigungen Liste "
+"Need some help?";"Brauchen Sie Hilfe?"
+Notifications;"Benachrichtigungen "
+"Please enter a valid email address.";"Bitte geben Sie eine gültige e-Mail-Adresse."
+"Please, enter an application name";"Bitte geben Sie den Namen einer Anwendung"
+"Ready to create your own apps?";"Bereit, Ihre eigenen apps zu erstellen?"
+"Required fields";"Erforderliche Felder"
+Send;senden
+"Sign up";Anmelden
+"Thanks for choosing us!";"Danke, dass du uns die Wahl!"
+"The Support Team";"Das Support-Team"
+"The password and the confirmation does not match.";"Das Kennwort und die Bestätigung stimmt nicht überein."
+"The password must be at least 6 characters.";"Das Passwort muss mindestens 6 Zeichen lang sein."
+"We are sorry but this email address is already used.";"Es tut uns leid, aber diese e-Mail-Adresse wird bereits verwendet."
+Welcome!;"Herzlich Willkommen!"
+"You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes.";"Du wirst es lieben! Dank unserer effektiven Funktionen werden Sie in der Lage, große mobile Anwendungen in Ihrem Namen innerhalb von Minuten zu erstellen."
+"You can't delete the main account";"Die Haupt-Account kann nicht gelöscht werden."
+"You don't have any users yet";"Sie haben alle Benutzer noch nicht"
+"Your account has been successfully saved";"Ihr Konto wurde erfolgreich gespeichert"
+"Your credentials";"Ihre Anmeldeinformationen"
+"Your email address";"Ihre E-Mail-Adresse"
+"Your login:";"Ihr Login:"
+"Your password";"Ihr Passwort"
+"Your password:";"Ihr Passwort:"
+"API Keys";"API-Keys "
+"Api Keys";API-Schlüssel
+"Api Keys successfully saved";"API-Schlüssel erfolgreich gespeichert"
+"Your APIs list";"Ihre Liste APIs"
+" ""Remove this page from this folder?""";"Diese Seite aus diesem Ordner entfernen?"
+"1. Download the app previewer:";"1. Laden Sie die app-Vorschau:"
+"2. Open the app and login";"2. Öffnen Sie die app und Anmeldung"
+"<b>File type:</b> %s";"<b>Typ:</b> %s"
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Klicken Sie auf</span><button class=""add"" type=""button""> <i class=""icon-plus""></i></button> <span>, ein Element hinzuzufügen.</span>"
+Activated;Aktiviert
+"Add a new icon";"Fügen Sie ein neues Symbol"
+"Add pages";"Seiten hinzufügen"
+"Additional options";"Zusätzliche Optionen"
+"An error occured while copying your app icon. Please check the icon, try to send it again and try again.";"Fehler beim Kopieren Ihre app-Symbol. Bitte überprüfen Sie das Symbol, senden Sie es erneut, und versuchen Sie es erneut versuchen."
+"An error occurred during the generation of your QRCode. Please try again later.";"Bei der Erzeugung des QRCode ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.                                                           "
+"An error occurred while adding the option";"Beim Hinzufügen der Option ist ein Fehler aufgetreten"
+"An error occurred while changing your layout.";"Beim wechseln Ihres Layouts ist ein Fehler aufgetreten."
+"An error occurred while deleting the option";"Beim Löschen der Option ist ein Fehler aufgetreten"
+"An error occurred while deleting your picture";"Beim Löschen Ihres Bildes ist ein Fehler aufgetreten"
+"An error occurred while editing file (%s).";"Fehler beim Bearbeiten der Datei (%s)."
+"An error occurred while loading";"Fehler beim Laden"
+"An error occurred while saving the application. Please try again later.";"Fehler beim Speichern der Anwendung. Bitte versuchen Sie es später erneut."
+"An error occurred while saving your colors.";"Beim Speichern der Farben ist ein Fehler aufgetreten."
+"An error occurred while saving your page name.";"Beim Speichern des Seitennamens ist ein Fehler aufgetreten."
+"An error occurred while saving. The selected icon is not valid.";"Beim Speichern ist ein Fehler aufgetreten. Das gewählte Symbol ist nicht gültig."
+"An error occurred while sorting your pages. Please try again later.";"Beim Sortieren Ihrer Seiten ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+Analytics;Analytics
+"Android APK Generation";"Android APK-Generation"
+"Android Version";"Android-Version "
+"App Store Icon";"App Store-Symbol"
+"Apple's Information";Apples-Informationen
+"Application name";"Name der Anwendung"
+"Are you sure you want to remove this application?";"Bist du sicher, dass Sie diese Anwendung entfernen möchten?"
+"At least 200 characters in the description";"Mindestens 200 Zeichen in der Beschreibung"
+"At least, 4 pages in the application";"Zumindest Seiten 4, in der Anwendung"
+"At least, 4 pages in your application";"Zumindest, 4 Seiten in Ihrer Anwendung"
+Audio;Audio
+"Average by customer";"Durchschnittliche vom Kunden"
+Book;Buch
+"Bundle Id";"Bündel Id"
+Business;Geschäft
+"Buy one, get one!";"Zwei zum Preis von einem!"
+Catalogs;Kataloge
+Certificate;Zertifikat
+"Change your";"aktualisieren Sie Ihre"
+"Change your template";"Ändern Sie Ihre Vorlage"
+"Change your<br /><span>picture</span>";"Änderung Ihrer < Br / > <span>Bild</span>"
+"Checking CNAME configuration:";"CNAME-Konfiguration überprüfen:"
+"Choose a <br /><span class=""bold"">picture</span>";"Wählen Sie einen <br /> <span class=""bold""> Bild </span>"
+"Choose a country";"Wählen Sie ein Land"
+"Choose a font family";"Wählen Sie eine Schriftfamilie"
+"Choose a template to customize";"Wählen Sie eine Vorlage anpassen"
+"Choose an";"Wählen Sie ein"
+"Choose your colors";"Wählen Sie Ihre Farben"
+"Choose your country";"Wählen Sie Ihr Land"
+"Choose your design";"Design auswählen"
+"Choose your font style";"Wählen Sie Ihren Schriftstil"
+"Choose your homepage image";"Wählen Sie Ihr Bild"
+"Choose your icons color";"Wählen Sie Ihre Farbe Icons."
+"Choose your layout";"Wählen Sie Ihr Layout"
+"Choose your template";"Wählen Sie Ihre Vorlage"
+"Click here to download the source code:";"Klicken Sie hier, um den Quellcode herunterladen: "
+"Click here to send your certificate";"Klicken Sie hier, um Ihr Zertifikat senden"
+Colors;Farben
+Comment;Kommentar
+"Customize your app's colors";"Passen Sie Farben Ihrer App an"
+"Customize your app's style";"Passen Sie den Stil der App an."
+"Dashboard icon";Dashboard-Symbol
+Deactivated;Deaktiviert
+"Delete this page?";"Diese Seite löschen ?"
+Design;Design
+"Developer Accounts";Entwickler-Accounts
+"Device Information";Geräteinformationen
+"Discount zone description. Here your clients will be able to see the details of each discount";"Discount Zonen Beschreibung. Hier werden Ihre Kunden die Discount details sehen."
+Domain;Domäne
+"Domain name";Domain-Name
+Download;Herunterladen
+"Download our app previewer";"Laden Sie unsere app-Vorschau"
+"Drop your certificate here";"Ihr Zertifikat hier ablegen"
+"Edit my";"Bearbeiten meiner"
+"Edit the application ""%s""";"Bearbeiten Sie die Anwendung ""%s"""
+Editor;Editor
+Education;Bildung
+Entertainment;Unterhaltung
+"Extension not allowed, '%s' only";"Erweiterung nicht erlaubt, ""%s"" nur"
+Features;Eigenschaften
+Finance;Finanzen
+"Food & Drink";"Essen & trinken"
+"Fred W.";"Fred W."
+Games;Spiele
+"General Information";"Allgemeine Informationen"
+"General information";"Allgemeine Informationen"
+"Global visits";"Globale Besuche"
+"Google Play Icon";Google-Play-Symbol
+"Google's Information";"Googles Informationen"
+"Health & Fitness";"Gesundheits- & -Eignung"
+"Here is our latest creation. What do you think?";"Hier ist unsere neueste Kreation. Was denken Sie?"
+"Homepage preview";"Homepage Vorschau"
+"I don't have a Google developer account and I want to create one";"Ich habe ein Google-Entwickler-Konto und ich erstellen möchten"
+"I don't have an Apple developer account and I want to create one";"Ich habe einen Apple-Entwickler-Account und ich erstellen möchten"
+"I have an Apple developer account";"Ich habe einen Apple Developer account"
+"I have an Google developer account";"Ich habe ein Google-Entwickler-Konto"
+"I let you publish my application under your Apple developer account";"Ich lasse dich meine Anwendung unter Ihrem Apple-Entwickler-Account veröffentlichen"
+"I let you publish my application under your Google developer account";"Ich lasse dich meine Anwendung unter Ihrem Google-Entwickler-Account veröffentlichen"
+Icons;Symbole
+Id;ID
+"If you validate, your app's colors and background image will be replaced";"Wenn Sie bestätigen, werden die Farben Ihrer App und Hintergrundbild ersetzt werden"
+Information;Informationen
+"Installed application";"Installierte Apps"
+"Key Password";"Kennwort für Schlüssel"
+Keywords;Schlüsselwörter
+"Last name:";Nachname:
+"Library icons";Bibliothek-Symbole
+Lifestyle;Lebensstil
+"List of my applications";"Liste meiner Anwendungen"
+"List of your applications";"Liste Ihrer Anwendungen"
+Loading;Laden
+"Lock the entire application";"Die gesamte Anwendung zu sperren"
+"Love it <3";"Ich liebe es <3"
+Main;Hauptkategorie
+"Manage icons";"Symbole verwalten"
+"Manage your app's features";"Features der App verwalten "
+"Marc A.";"Marc A."
+Media;Medien
+Medical;Medizinische
+"Missing Information";"Fehlende Informationen"
+"Mobile Source Codes";"Mobile Source-Codes"
+"Mobile source codes";"Mobile-Source-Codes "
+"Mobile website information";"Mobile-Website Informationen"
+"More infos";"mehr Infos"
+"My QRCode";"Mein QRCode"
+"My application in figures";"Meine Anwendungen ein paar Zahlen"
+Navigation;Navigation
+News;News
+"One free coffee";"Ein kostenloser Kaffee"
+"Or go on your store<br />and look for ""Apps Company Previewer""";"Oder gehen Sie auf Ihren Shop < Br / > und suchen Sie nach ""Apps-Firma-Vorschau"""
+"Page name:";Seitenname:
+"Percentage of returning customers";"Prozentualer Anteil der wiederkehrenden Kunden"
+"Photo & Video";"Foto- & -Video"
+"Please enter a correct URL for the %s store";"Bitte geben Sie eine korrekte URL für den %s-Speicher"
+"Please enter a subdomain.";"Bitte geben Sie eine Subdomain ein."
+"Please enter a valid URL";"Bitte geben Sie eine gültige URL"
+"Please enter a valid address";"Bitte geben Sie eine gültige Adresse ein"
+"Please enter a valid mobile website address.";"Bitte geben Sie eine gültige mobil Website-Adresse ein."
+"Please log in.";"Bitte melden Sie sich an"
+Preview;Vorschau
+Productivity;Produktivität
+Promote;fördern
+"Promote your app!";"Werben Sie für Ihre App!"
+Publication;Veröffentlichung
+"Publish the application";"Veröffentlichen Sie die Anwendung"
+"Publish under our account";"Veröffentlicht unter unserem Konto"
+"Publish your app";"Veröffentlichen Sie Ihre App"
+"Ready ? Publish my app!";"Sind Sie bereit? Veröffentlichen Sie meine app!"
+"Recommanded size:";"Empfohlenen Größe:"
+Reference;Referenz
+"Remove this page from this folder?";"Entfernen Sie diese Seite, aus diesem Ordner?"
+"Scan this QR Code";"Scannen Sie diesen QR-Code"
+"Scan this QR Code:";"Scannen Sie diesen QR-Code:"
+"Secondary category";"Sekundäre Kategorie"
+"Secondary category<br />(Optional)";"Zweitkategorie < Br />(Optional)"
+"Send here your iOS certificate to enable the push notifications for this application.";"Senden Sie hier Ihre iOS-Zertifikat um die Push-Benachrichtigungen für diese Anwendung zu ermöglichen."
+"Send you .pem certificate";"Senden Sie .pem-Zertifikat"
+"Show the applications waiting for publication only.";"Zeigen Sie die Anwendungen, die Veröffentlichung nur warten."
+"Social Networking";Social-Networking
+Sports;Sport
+"Startup image";Startbild
+Status;Status
+"Store Password";"Kennwort speichern"
+"Store URL";Shop-URL
+"Stores Info";Shops-Info
+"The  homepage image";"Die Bild Homepage"
+"The Bundle Id is required";"Das Bündel Id ist erforderlich"
+"The QR Code is not available at this moment";"Der QR-Code ist im Moment nicht verfügbar"
+"The application has been successfully saved";"Die Anwendung wurde erfolgreich gespeichert"
+"The application name";"Der Name der Anwendung"
+"The application's name cannot start with a number";"Den Namen der Anwendung darf nicht mit einer Zahl beginnen."
+"The description";"Die Beschreibung"
+"The description must be at least 200 characters";"Die Beschreibung muss mindestens 200 Zeichen lang sein."
+"The desktop icon";"Das Desktop-Symbol"
+"The entered bundle id is incorrect, it should be like: com.siberiancms.app";"Com.siberiancms.app: Der eingegebene Bundle-ID nicht korrekt ist, sollte es so sein,"
+"The field is required";"Das Feld muss ausgefüllt werden"
+"The file has been successfully uploaded";"Die Datei wurde erfolgreich hochgeladen"
+"The following information are needed to download the source codes:<br />";"Die folgende Informationen sind erforderlich, um die Quelltexte herunterladen: < Br / >"
+"The homepage image";"Das Homepage-Bild"
+"The key cannot be empty.";"Der Schlüssel darf nicht leer sein."
+"The key is already used by another application.";"Der Schlüssel ist bereits von einer anderen Anwendung verwendet."
+"The keywords";"Die Schlüsselwörter"
+"The main category";"Die Hauptkategorie"
+"The startup image";"Das Startbild"
+"This application does not exist";"Diese Anwendung ist nicht vorhanden."
+"This application is visible on the front";"Diese Anwendung ist sichtbar auf der Vorderseite"
+"This key is already used by system features.";"Dieser Schlüssel wird bereits von Systemfunktionen verwendet."
+"This option enables you to set the currency used in your app";"Diese Option ermöglicht Ihnen, die in Ihrer Anwendung verwendete Währung einzustellen."
+"This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login.";"Diese Seite wird mobilen Nutzern angezeigt um sich anzumelden und Ihr Konto zu verwalten. "
+"To be able to download source codes, please provide the following information:<br />";"Um Quellcode herunterladen zu können, geben Sie bitte die folgenden Informationen: <br /> "
+Travel;Reisen
+URL;URL
+"URL Key";URL-Schlüssel
+"Use into all of your application's pages";"Verwenden Sie in allen Seiten Ihrer Anwendung"
+"Used points";"Gebrauchte Punkte"
+"User Information";Benutzerinformationen
+Utilities;Dienstprogramme
+Version;Version
+Weather;Wetter
+"You already have sent a certificate.";"Sie haben bereits ein Zertifikat gesendet."
+"You can download your QRCode by";"Sie können Ihren QRCode Downloaden bei"
+"You can download your QRCode by <a class=""f-bold"" href=""%s"">clicking here</a>";"Sie können Ihre QRCode herunterladen, indem <a class=""f-bold"" href=""%s""> Sie hier klicken</a>"
+"You can't use this domain.";"Diese Domäne kann nicht verwendet werden."
+"You don't have any applications yet";"Sie noch alle Anwendungen nicht"
+"You have already sent a certificate";"Sie haben bereits ein Zertifikat gesendet."
+"You have sent a certificate.";"Sie haben ein Zertifikat gesendet."
+"You have to create a Google account before publishing your application. <a href=""https://play.google.com/apps/publish/signup"" target=""_blank"">Click here to create one.</a>";"Du musst ein Google-Konto zu erstellen, bevor Sie veröffentlichen Ihre Anwendung. <a href=""https://play.google.com/apps/publish/signup"" target=""_blank""> Klicken Sie hier, um eine zu erstellen.</a>"
+"You have to create an Apple account before publishing your application. <a href=""https://developer.apple.com/register/index.action"" target=""_blank"">Click here to create one.</a>";"Du musst einen Apple-Account vor dem Veröffentlichen der Anwendung erstellen. <a href=""https://developer.apple.com/register/index.action"" target=""_blank""> Klicken Sie hier, um eine zu erstellen.</a>"
+"You haven't chosen any template yet";"Sie haben noch keine Vorlage gewählt"
+"You may not delete a library icon";"Sie können kein Bibliothekssymbol löschen."
+"You must have published your application to access this feature";"Sie müssen Ihre Anwendung vorher veröffentlichen, um diese Funktion zu nutzen"
+"Your CNAME is properly set";"Ihre CNAME ist korrekt eingestellt."
+"Your application in few numbers";"Ihre Anwendung in ein paar Zahlen"
+"Your best customers";"Ihre besten Kunden"
+"Your customers in figures";"Ihre Kunden in Zahlen"
+"Your domain key ""%s"" is not valid.";"Ihre Domain-Schlüssel ""%s"" ist nicht gültig."
+"Your mobile address should not contain special characters";"Ihre Mobil Adresse sollte keine Sonderzeichen enthalten."
+"Your pages";"Ihre Seiten"
+"clicking here";"Klicken Sie hier"
+"iOS Certificate";"iOS Zertifikat"
+"iPad Retina:";"iPad Retina:"
+"iPhone 5 / 5S:";"iPhone 5 / 5 s:"
+"iPhone 6 Plus:";"iPhone 6 Plus:"
+"iPhone 6:";"iPhone 6:"
+"iPhone Version";"iPhone Version "
+icon;Symbol
+logo;Logo
+times;Zeiten
+"to add a subfolder.";"Einen Unterordner hinzuzufügen."
+"%d Unread Message";"%d ungelesene Nachricht"
+"%d Unread Messages";"%d ungelesene Nachrichten"
+"Account";"Konto"
+"Change the password";"Ändern des Kennworts"
+"Click to mark as not read";"Hier klicken, um als nicht gelesen markiert"
+"Click to mark as read";"Klicken Sie auf als gelesen markieren"
+"Create a user";"Erstellen Sie einen Benutzer"
+"Edit the account ""%s""";"Bearbeiten Sie das Konto ""%s"""
+"Edit the user";"Den Benutzer bearbeiten"
+"Enter your credentials:";"Geben Sie Ihre Anmeldeinformationen:"
+"List of backoffice accounts";"Liste der Backoffice-Konten"
+"List of the messages";"Liste der Nachrichten"
+"Login to your backoffice interface";"Anmelden, um Ihre Backoffice-Schnittstelle"
+"People who are allowed to access the backoffice";"Menschen, die das Backoffice zugreifen dürfen"
+"Siberian CMS";"Siberian CMS"
+"This account can't be deleted, it's the only one";"Dieses Konto kann nicht gelöscht werden, es ist die einzige"
+"User successfully deleted";"Benutzer erfolgreich gelöscht"
+"View Details";"Details anzeigen"
+"Your new password";"Ihr neues Passwort"
+"Your password";"Ihr Passwort"
+"An error occurred while sending your message. We apologize and ask you to try later.";"Während der Übertragung Ihrer Nachricht ist ein Fehler aufgetreten. Wir entschuldigen uns und bitten Sie, es später nochmals zu versuchen."
+"Booking details";Buchungsdetails
+"Booking details:";"Einzelheiten zur Buchung:"
+"Booking subject:";"Buchung betrifft:"
+Comment:;Kommentar:
+"Date and time";"Datum und Uhrzeit"
+"Date and time:";"Datum und Zeit:"
+"Email address:";E-Mail-Adresse:
+"Enter the location name and contact email:";"Geben Sie den Namen Ihrer Stadt ein und Ihre E-Mail Adresse."
+"First name / Last name";"Vorname / Nachname"
+"Here are his personal information:";"Hier sind seine persönlichen Informationen:"
+Location:;Ort:
+"MM dd yy";"MM dd yy"
+Mddyy;Mddyy
+"Message from your app %s";"Nachricht von Ihrer App %s"
+Name:;Name:
+"Nom du lieu :";"Nom du Lieu:"
+"People number:";"Personen Anzahl:"
+"Phone number:";Telefonnummer:
+"Please fill out the following fields: ";"Bitte füllen Sie folgende Felder aus:"
+"Please fill out the following fields:<br />";"Bitte füllen Sie die folgenden Felder: <br />"
+"Please, choose a store";"Bitte wählen Sie einen Shop"
+SEND;Senden
+"Thank you for your request. We'll answer you as soon as possible.";"Vielen Dank für Ihre Anfrage. Wir werden Sie so bald wie möglich beantworten."
+"The booking information";"Die Buchungsinformationen"
+"The booking informations";"Die Buchungsinformationen"
+"The date and time of the booking";"Das Datum und die Zeit der Buchung"
+"The number of people";"Die Personenanzahl"
+"You have received a message for the booking of";"Sie haben eine Nachricht für die Buchung erhalten."
+"Your chosen location";"Ihren gewählten Standort"
+"Your name";"Ihr Name"
+"Your phone number or email address";"Ihre Telefonnummer oder E-Mail-Adresse"
+"hh:ii A";"hh:ii A"
+hhiiA;hhiiA
+"%s - All";"%s - alle"
+"<span id=""price_from_%s"">From:<br /></span><span id=""current_price_%s"">%s</span>";"<span id=""price_from_%s"">From:<br /></span><span id=""current_price_%s"">%s</span>"
+"Add a";hinzufügen
+"Add a category";"Fügen Sie eine Kategorie hinzu"
+"Add a format";"Wählen Sie ein Format"
+"Add to cart";"Zum Warenkorb hinzufügen."
+All;alle
+"An error occurred while loading your product.";"Beim Laden Ihres Produktes ist ein Fehler aufgetreten."
+"An error occurred while saving the category. Please try again later.";"Beim Speichern der Kategorie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving the product. Please try again later.";"Beim Speichern des Produkts ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving the set meal. Please try again later.";"Beim Speichern des Menüs ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving. One of your categories could not be identified.";"Beim Speichern ist ein Fehler aufgetreten. Eine Ihrer Kategorien konnte nicht identifiziert werden."
+"An error occurred while saving. One of your products could not be identified.";"Beim Speichern ist ein Fehler aufgetreten. Eines Ihrer Produkte konnte nicht identifiziert werden."
+"Are you sure you want to delete this product?";"Bist du sicher, dass Sie dieses Produkt löschen möchten?"
+Category;Kategorie
+"Choose a category";"Wählen Sie eine Kategorie"
+"Choose a subcategory";"Wählen Sie eine Unterkategorie"
+"Click on a category to display sub-categories";"Klicken Sie auf eine Kategorie um zu den Unterkategorien zu gelangen."
+"Create a new product";"Erstellen Sie ein neues Produkt"
+"Does this product have many formats?";"Hat dieses Produkt viele Formate?"
+"Edit the";"bearbeiten Sie die"
+"Edit the product";"Produkt bearbeiten"
+Format;Format
+"Main category";Hauptkategorie
+More;mehr
+Picture;Bild
+Price;Preis
+Product;Produkt
+"Product formats";Produktformate
+"Product name";Produktname
+Qty;Qty
+Rules;Regeln
+"Set meal successfully deleted.";"Menü erfolgreich gelöscht ."
+"Set meal successfully saved.";"Menü erfolgreich gespeichert ."
+Sub-category;Unterkategorie
+en;de
+nd;er
+st;er
+sub-category;Unterkategorie
+".mp4 or .3gp format";". mp4 oder .3 gp-Format"
+"Add ";hinzufügen
+"Add a";hinzufügen
+"Add sections:";"In Sektionen:"
+Address:;Adresse:
+Alignment:;Ausrichtung:
+"An error occurred while saving your page.";"Beim Speichern Ihrer Seite ist ein Fehler aufgetreten."
+"Are you sure you want to delete this page?";"Bist du sicher, dass Sie diese Seite löschen möchten?"
+Description:;Beschreibung:
+"Display address";Anzeigeadresse
+"Display location button";"Standort Display-Taste"
+Label;Label:
+Label:;Label:
+Large;groß
+"Loading picture:";"Das Bild wird geladen:"
+"Make a search or enter the Youtube Url:";"Suchen Sie oder geben Sie den Youtube Link ein:"
+Medium;Medium
+"My Youtube video:";"Mein Youtube-Video:"
+"My video";"Mein Video"
+"No videos matching your selection";"Keine Videos Ihrer Selektion entsprechen"
+"Page successfully deleted";"Seite wurde erfolgreich gelöscht."
+"Page successfully saved";"Seite erfolgreich gespeichert"
+Picture;Bild
+Pictures;Bilder
+"Podcast URL:";"Podcast URL:"
+"Select a button type:";"Wählen Sie eine Schaltfläche:"
+"Select a video type:";"Wählen Sie eine Video Art:"
+Size:;Größe:
+Small;klein
+"Video URL:";"Video URL:"
+"Your Podcast:";"Ihr Podcast:"
+"'Near me' radius (in km):";"'In meiner Nähe' Radius (in km):"
+"An error occurred while deleting this answer. Please try again later.";"Beim Löschen dieser Antwort ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"Create a news:";"Erstellen Sie eine Nachricht:"
+"Hide this info";"Ausblenden dieser Info"
+"Information successfully deleted";"Informationen erfolgreich gelöscht"
+"Information successfully hidden";"Informationen erfolgreich ausgeblendet"
+"Information successfully saved";"Informationen erfolgreich gespeichert"
+"Information successfully showed";"Informationen erfolgreich angezeigt"
+"Information successfully shown";"Erfolgreich angezeigten Informationen"
+"Insert a";"Legen Sie ein"
+"It will be visible only after validation by our team.";"Nach der Freigabe von unserem Team wird es sichtbar sein."
+Like;Like
+Loading...;"Wird geladen ..."
+"My customers answers";"Meine Kunden Antworten"
+"My customers' comments";"Meine Kunden Kommentare"
+"Near me";"In der Nähe von mir"
+"Near me settings";"Benachbarte Einstellungen"
+"Nothing more to display";"Nichts mehr zu zeigen"
+"Please, enter a comment";"Bitte geben Sie ein Kommentar ein"
+Post;Bereitstellen
+"Publishing date";Veröffentlichungsdatum
+"Pull up to display more";"Ziehen Sie, um mehr Anzeigen"
+Radius;RADIUS
+"Radius must be a valid numeric value.";"RADIUS muss einen gültigen numerischen Wert sein."
+"Radius must be provided.";"RADIUS muss angegeben werden."
+Recent;"Den letzten"
+"Release to refresh...";"aktualisieren Sie"
+"Show this info";"Zeigen Sie diese Infos "
+"There is no comment for this news";"Es gibt keinen Kommentar zu diesen News"
+"Was flagged as inappropriate";"Wurde als unangemessen markiert"
+"You can't like more than once the same news";"Sie können nicht mehr als einmal die gleichen Nachrichten senden."
+"You need to be connected to create a post";"Sie müssen verbunden sein, um einen Beitrag zu erstellen"
+"Your comment";"Ihr Kommentar"
+"Your flag has successfully been notified";"Ihre Flagge worden erfolgreich notifiziert"
+"Your like has been successfully added";"Ihr like wurde erfolgreich hinzugefügt."
+"Your message has been successfully saved.";"Ihre Nachricht wurde erfolgreich gespeichert."
+"Your post was successfully added";"Ihre Nachricht wurde erfolgreich hinzugefügt."
+"An error occurred while saving your contact informations.";"Während dem speichern Ihrer Kontaktinformationen ist ein Fehler aufgetreten."
+"An error occurred while sending your message. We apologize and ask you to try later.";"Während der Übermittlung Ihrer Nachricht ist ein Fehler aufgetreten. Wir entschuldigen uns und bitten Sie, es später nochmals zu versuchen"
+"An error occurred while sending your request. Please try again later.";"Beim Senden Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+"And his phone number:";"Und seine Telefonnummer:"
+"Are you sure you want to remove the picture?";"Sind Sie sicher, dass Sie das Bild entfernen möchten?"
+City;Stadt
+"Contact information";Kontaktinformationen
+"Contact informations";Kontaktinformationen
+"Here is his email:";"Hier ist seine e-Mail:"
+"Here is his message:";"Hier ist seine Botschaft:"
+"Informations successfully saved";"Informationen erfolgreich gespeichert"
+"Insert a <br /><span class=""bold"">cover image</span>";"Legen Sie eine <br /> <span class=""bold""> Cover-Bild </span>"
+"Message from your app %s";"Nachricht von Ihrer App %s"
+"Please enter properly the following fields: <br />";"Bitte vervollständigen Sie die folgenden Felder: <br />"
+SEND;senden
+"Thank you for your request. We'll answer you as soon as possible.";"Vielen Dank für Ihre Anfrage. Wir werden Sie so bald wie möglich beantworten."
+Twitter;Twitter
+Website;Website
+"You have received a message from a contact:";"Sie haben eine Nachricht von einem Kontakt erhalten:"
+"Your email";"Ihre E-Mail"
+"Your message has been sent";"Ihre Nachricht wurde gesendet"
+"Your name";"Ihr Name"
+"Your request";Inhalt
+"Zip code";PLZ
+"%s - Account creation";"%s - Kontoerstellung"
+"%s - Your new password";"%s - Ihr neues Passwort"
+"%s – Account creation";"%s - Konto-Erstellung"
+"A request to reset your password has been made.";"Eine Anforderung zum Zurücksetzen Ihres Passworts erzielt worden."
+"An error occurred while connecting to your Facebook account. Please try again later";"Während die Verbindung zu Ihrem Facebook-Account hergestellt wurde ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+"Are you sure you want to remove this user?";"Bist du sicher, dass Sie diesen Benutzer entfernen möchten?"
+"Change Password";"Passwort ändern"
+Congratulations,;"Herzlichen Glückwunsch,"
+Create;Erstellen
+"Create a new user";"Einen neuen Benutzer erstellen"
+"Create an account";"Erstellen Sie ein Konto"
+"Current password";"Aktuelles Passwort"
+Customer;Kunde
+Customers;Kunden
+Disconnect;"Trennen Sie"
+"Edit the user %s";"Bearbeiten des Benutzers %s"
+"First name";Vorname
+"Forgot your password?";"Passwort vergessen ?"
+Gender;Geschlecht
+"Here are your credentials:";"Hier sind Ihre Anmeldeinformationen:"
+"I accept the <u>privacy policy</u>";"Ich akzeptiere die <u>Datenschutzbestimmungen</u>"
+"If you encounter any problems, do not hesitate to contact us:";"Wenn Sie Probleme haben, zögern Sie nicht uns zu kontaktieren:"
+"Last name";Nachname
+Log-in;Log-in
+Login:;Login:
+Miss;Miss
+Mr;Herr
+Mrs;Frau
+"My Account";"Ihr Konto"
+"My application's users";"Meine Anwendung Benutzer"
+"New password";"Neues Passwort"
+Old;alt
+"Old Password";"Altes Passwort"
+"Or with your account";"Oder mit Ihrem Konto"
+"Please enter your email address. We'll send you your password right now.";"Bitte geben Sie Ihre E-Mail-Adresse ein. Ihr Passwort wird Ihnen per E-Mail zugestellt."
+"Please log in with your mobile phone";"Bitte melden Sie sich mit Ihrem Mobiltelefon an."
+"Privacy Policy";"Privacy Policy"
+"See you soon,";"Bis bald"
+"Show me in ranking";"Zeigen Sie mir die Rangfolge"
+"The old email address does not match the entered email address.";"Die alte e-Mail-Adresse stimmt nicht überein, die eingegebene Email-Adresse."
+"This user can access the pages locked by the ""Locker"" feature";"Benutzer kann die Funktion des ""Locker"" gesperrten Seiten zugreifen."
+"This user is visible in ranking";"Dieser Benutzer ist sichtbar im ranking"
+User;Benutzer
+"User Information";Benutzerinformationen
+Users;Benutzer
+"We are sorry but the %s account is already linked to one of our customers";"Es tut uns leid, aber die %s-Konto ist bereits mit einem unserer Kunden verbunden"
+"You have created your account. With this account, you will be able to enjoy great offers available in our application.";"Sie haben Ihr Konto erstellt. Mit diesem Konto werden Sie in den Genuss von tollen Angeboten in unserer Anwendung verfügbar."
+"Your account has been successfully saved";"Ihr Konto wurde erfolgreich gespeichert"
+"%s – Your new password";"%s - Ihr neues Passwort"
+"404, Page not found";"404, Seite nicht gefunden"
+"404, page not found";"404, Seite nicht gefunden"
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>"
+APIs;APIs
+Accounts;Konten
+Actions;Aktionen
+Activated;aktiviert
+Add;hinzufügen
+"Add a";"Fügen Sie eine"
+"Add a new icon";"Fügen Sie ein neues Symbol hinzu"
+"Add image";"Bild hinzufügen"
+Address;Adresse
+Address:;Adresse
+All;alle
+"All items";"Alle Elemente"
+"An error occurred during process. Please try again later.";"Während des Prozesses ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred during the process. Please try again later.";"Während des Vorgangs ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+"An error occurred the during process. Please try again later.";"Während des Prozesses ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while loading places.";"Fehler beim Laden von Orten."
+"An error occurred while loading the page";"Beim Laden der Seite ist ein Fehler aufgetreten"
+"An error occurred while loading the videos. Please try again later.";"Beim Laden der Videos ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while loading. Please try again later.";"Beim Laden ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while loading. Please, try again later.";"Während des Ladens ist ein Fehler aufgetreten. Bitte, versuchen Sie es später erneut."
+"An error occurred while saving";"Beim Speichern ist ein Fehler aufgetreten"
+"An error occurred while saving your account. Please try again later.";"Fehler beim Speichern von Ihrem Konto. Bitte versuchen Sie es später erneut."
+"An error occurred while saving your picto. Please try againg later.";"Beim Speichern Ihres Piktogramm ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving your picture. Please try againg later.";"Und speichern Ihres Bildesn ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving. Please try again later.";"Beim Speichern ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving. Please, try again later.";"Fehler beim Speichern. Bitte, versuchen Sie es später erneut."
+"An error occurred while uploading your file. Please, try again later.";"Beim Hochladen der Datei ist ein Fehler aufgetreten. Bitte, versuchen Sie es später erneut."
+"An unexpected error occurred while calculating the route.";"Unerwarteter Fehler beim Berechnen der Route."
+"Api Keys";"api Keys "
+Appearance;Darstellung
+Application;Anwendung
+"Application Name";"Name der Anwendung"
+"Application name";"Name der Anwendung"
+Applications;Anwendungen
+"Are you sure you want to delete this element?";"Bist du sicher, dass Sie dieses Element löschen möchten?"
+"Are you sure you want to delete this picture?";"Sind Sie sicher, dass Sie dieses Bild wirklich löschen möchten ?"
+"Are you sure you want to remove this account?";"Bist du sicher, dass Sie dieses Konto entfernen möchten?"
+"Authentication failed. Please check your email and/or your password";"Authentifizierung fehlgeschlagen. Bitte überprüfen Sie Ihre E-Mail-und / oder Ihr Passwort vergessen"
+Back;zurück
+Background;Hintergrund
+Booking;Reservierung
+Browse;blättern
+Calendar;Kalender
+"Can only be used once";"Kann nur einmal verwendet werden"
+Cancel;stornieren
+Cart;Einkaufswagen
+Catalog;Katalog
+"Change password";"Passwort ändern"
+"Checking CNAME configuration:";"Überprüfen CNAME-Konfiguration:"
+"Choose a";"Wählen Sie ein"
+City;Stadt
+City:;Stadt:
+Close;schließen
+Comment;Kommentar
+Comments;Kommentare
+Communication;Kommunikation
+Company;Firma
+Coms;COMS
+Conditions;Bedingungen
+"Confirm Password";"Kennwort bestätigen"
+"Confirm new password";"Neues Kennwort bestätigen"
+Contact;Kontakt
+"Contact successfully added to your address book";"Kontakt erfolgreich zu Ihrem Adressbuch hinzugefügt"
+Contest;Wettbewerb
+Country;land
+Create;Krieren
+"Create a new account";"Ein neues Konto erstellen"
+"Created at";"Erstellt am"
+"Creation date";Erstellungsdatum
+Currency;Währung
+"Current password";"Aktuelle Kennwort"
+"Custom Page";"Benutzerdefinierte Seiten"
+Dashboard;Dashboard
+"Date of birth";Geburtsdatum
+"Date of birth:";Geburtsdatum:
+Deactivated;deaktiviert
+"Default Languages";Standardsprachen
+Delete;löschen
+Description;Beschreibung
+Description:;Beschreibung:
+Details;Informationen
+Discount;Rabatt
+Domain;"Domain "
+Edit;Bearbeiten
+"Edit my";"bearbeiten Sie meine"
+Editing;Bearbeitung
+Email;Email
+"Email address";E-Mail-Adresse
+Email:;Email:
+"End at";Ende
+"Error : <br/>";"Fehler: <br/>"
+"Errors : <br/>";"Fehler: <br/>"
+"Export your customers";"Exportieren Sie Ihre Kunden"
+"Extension not allowed, '%s' only";"Erweiterung nicht erlaubt, '%s' nur"
+Facebook;Facebook
+Features;Eigenschaften
+"First name";Vorname
+Firstname;Vorname
+Firstname:;Vorname:
+Folders;Ordner
+"Forgot your password ?";"Passwort vergessen?"
+"Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now.";"Passwort vergessen? Macht nichts! Geben Sie einfach Ihre e-Mail-Adresse und wir schicken Ihnen sofort eine neue."
+Form;Form
+Gender;Geschlecht
+General;Allgemeine
+Hello,;Hallo
+"Here is your new password:";"Hier ist Ihr neue Kennwort ein:"
+Hide...;"Ausblenden ..."
+"How do you want to access the backoffice if you remove the only user remaining?";"Wie wollen Sie die Backoffice zugreifen, wenn Sie der einzige Benutzer verbleibenden entfernen?"
+ID;ID
+Icons;Icons
+"If you use this discount now, you'll be no longer able to use it later";"Wenn Sie diesen Rabatt nun verwenden, werden Sie Ihn später nicht mehr verwenden können. "
+"Image not high enough, %spx minimum allowed.";"Bild nicht hoch genug, erlaubt % Spx minimale."
+"Image not large enough, %spx minimum allowed.";"Bild nicht groß genug, erlaubt % Spx minimale."
+"Image not large enough, '%s' allowed.";"Bild nicht groß genug, '%s' darf."
+"Image too high, %spx maximum allowed.";"Bild zu hoch, % Spx maximal zulässig."
+"Image too large, %spx maximum allowed.";"Bild zu groß ist, % Spx maximal zulässig."
+"Image too large, '%s' allowed.";"Bild zu groß, '%s' darf."
+Images;Bilder
+"In order to fully enjoy our features, we encourage you to use at least:.<br />";"Um unsere Funktionen voll zu genießen, wir empfehlen Ihnen mindestens:. < Br / >"
+"In order to publish your application, we need:<br />- ";"Um Ihre Anwendung zu veröffentlichen, brauchen wir: < Br / >-"
+"Incorrect filetype.";"Falsche Filetype."
+"Info successfully saved";"Info erfolgreich gespeichert"
+Information;Informationen
+"Infos successfully saved";"Infos erfolgreich gespeichert"
+"Insert a <br /><span class=""bold"">cover image</span>";"Legen Sie eine <br /> <span class=""bold""> Cover-Bild </span>"
+"Invalid place";"Ungültiger Ort"
+Invoices;Rechnungen
+"Last Name";Nachname
+"Last name:";Nachname
+Lastname;Nachname
+Lastname:;Nachname:
+"Library icons";"Bibliothek Symbole"
+Like;Wie
+Likes;Mag
+Link;Link
+Links;Links
+"Load More";"Mehr zu laden"
+Loading;Ladung
+Locate;lokalisieren
+Location:;Lage:
+"Log in";Anmelden
+Log-in;Einloggen
+Log-out;"Log out"
+"Logged in as";"Eingeloggt als"
+"Loyalty Card";"Loyalitäts karte"
+"MM,d yy";"MM,d yy"
+MM/dd/y;MM/dd/y
+"MM/dd/y 'at' hh:mm a";"MM/dd/y 'at' hh:mm a"
+"MM/dd/y hh:mm a";"MM/dd/y hh:mm a"
+MM/dd/yy;MM/TT/JJ
+MM/dd/yyyy;TT/MM/JJJJ
+"MMMM dd y";"MMMM, dd y"
+"MMMM dd y 'at' hh:mm";"MMMM dd y 'at' hh:mm"
+Main;Haupt
+"Main category";Hauptkategorie
+"Make this image colorizable";"Machen Sie dieses Bild colorizable"
+Manage;verwalten
+"Manage icons";"symbole verwalten"
+Map;Karte
+Maps;Karten
+"Message from your app %s";"Nachricht von Ihrer Anwendung %s"
+Messages;Nachrichten
+Miss;Fräulein
+Module;Modul
+Modules;Module
+More;mehr
+Mr;Herr
+Mrs;Frau
+"My account";"Mein Konto"
+"My invoices";"Meine Rechnungen"
+"My pictures";"Meine Bilder"
+Name;Name
+Never;nie
+New;neu
+Newswall;Neuikeitenwand
+Next;Nächste
+No;Nein
+"No address to display on map.";"Keine Adresse auf Karte anzeigen."
+"No place to display on map.";"Keinen Ort auf der Karte angezeigt."
+"No results";"Keine Ergebnisse"
+"No uploaded image";"Kein Bild hochgeladen"
+"Nothing to display";"Nichts zum Anzeigen"
+Number;Anzahl
+OK;Okay
+OR;OR
+"Ouch, this page doesn't exist";"Autsch, existiert diese Seite nicht"
+"Page name:";Seitenname:
+Password;Passwort
+Password:;Passwort
+"Passwords don't match";"Kennwörter stimmen nicht überein"
+Payment;Zahlung
+Phone;Telefon
+Phone:;Telefon:
+Photos;Fotos
+Picture%s;Bild%s
+Plans;Pläne
+"Platform Name";Plattformname
+Player;Spieler
+"Please enter a password";"Bitte geben Sie ein Passwort ein"
+"Please enter a valid URL.";"Bitte geben Sie eine gültige URL."
+"Please enter a valid credit card number.";"Bitte geben Sie eine gültige Kreditkartennummer."
+"Please enter a valid date (ISO).";"Bitte geben Sie ein gültiges Datum (ISO)."
+"Please enter a valid date.";"Bitte geben Sie ein gültiges Datum."
+"Please enter a valid email address";"Bitte geben Sie eine gültige E-Mail-Adresse ein."
+"Please enter a valid email address.";"Bitte geben Sie eine gültige e-Mail-Adresse."
+"Please enter a valid number.";"Bitte geben Sie eine gültige Nummer."
+"Please enter a valid url";"Bitte geben Sie eine gültige URL ein"
+"Please enter a value between {0} and {1} characters long.";"Bitte geben Sie einen Wert zwischen {0} und {1} Zeichen lang."
+"Please enter a value between {0} and {1}.";"Bitte geben Sie einen Wert zwischen {0} und {1}."
+"Please enter a value greater than or equal to {0}.";"Bitte geben Sie einen Wert größer oder gleich {0}."
+"Please enter a value less than or equal to {0}.";"Bitte geben Sie einen Wert kleiner oder gleich {0}."
+"Please enter at least {0} characters.";"Bitte geben Sie mindestens {0} Zeichen."
+"Please enter no more than {0} characters.";"Bitte geben Sie nicht mehr als {0} Zeichen."
+"Please enter only digits.";"Bitte geben Sie nur Ziffern."
+"Please enter the password";"Bitte geben Sie das Passwort ein."
+"Please enter the same value again.";"Bitte geben Sie den gleichen Wert wieder."
+"Please enter your email address";"Bitte geben Sie Ihre E-Mail-Adresse ein."
+"Please fill in the following fields:";"Bitte füllen Sie die folgenden Felder aus:"
+"Please fix this field.";"Bitte korrigieren Sie in diesem Feld."
+"Please log in.";"Bitte einloggen."
+"Please show your phone to the store person so that he enters his password";"Bitte geben Sie ein Passwort ein."
+"Please, enter a correct email address.";"Bitte geben Sie eine korrekte e-Mail-Adresse."
+"Please, enter a password.";"Bitte geben Sie ein Passwort."
+"Please, enter a valid date";"Bitte geben Sie ein gültiges Datum ein."
+"Please, fill out all fields";"Bitte füllen Sie alle Felder aus"
+Podcast;Podcast
+"Podcast URL (iTunes format)";"Podcast-URL (iTunes-Format)"
+"Podcast type is invalid or can't be found";"Podcast-Typ ist ungültig oder wurde nicht gefunden"
+Postcode;Postleitzahl
+Postcode:;Postleitzahl:
+Push;Push
+"Push Notifications";Push-Benachrichtigungen
+"RSS Feed";"RSS Feed"
+"Recommanded size:";"die von uns empfohlene Größe:"
+"Required fields";Pflichtfelder
+"Resize your picture";"Ändern Sie die Größe Ihres Bildes"
+"Resize your picture:";"Verkleinern Sie Ihr Bild:"
+SEND;Senden
+Save;sparen
+Search;Suche
+"Select a country";"Wählen Sie ein Land"
+"Select all";"Wählen Sie alle"
+Send;senden
+"Send your pictures";"Senden Sie Ihre Bilder"
+"Set Meal";Menü
+Settings;"Einstellungen "
+Show...;"Anzeigen ..."
+"Siberian, build a mobile app easier";"Siberian, bauen eine mobile Anwendung einfacher "
+Size:;Größe:
+Street;Straße
+Street:;Strasse:
+Subscriptions;Abonnements
+Subtitle;Untertitel
+Support;Unterstützung
+"Support Link";"Link Support"
+Tax;Steuer
+Taxes;Steuern
+Text;Text
+"The account has been successfully saved";"Das Konto wurde erfolgreich gespeichert"
+"The address you're looking for does not exists.";"Die Adresse, die Sie ist nicht suchen vorhanden."
+"The email is required";"Die e-Mail ist erforderlich"
+"The entered password confirmation does not match the entered password.";"Das eingegebene Passwort Bestätigt nicht das eingegebene Kennwort. "
+"The file '%s' does not exist";"Die Datei '%s' ist nicht vorhanden."
+"The image '%s' does not exist";"Das Bild '%s' ist nicht vorhanden."
+"The image has been successfully deleted";"Das Bild wurde erfolgreich gelöscht"
+"The image has been successfully saved";"Das Bild wurde erfolgreich gespeichert"
+"The image size '%s' could not be detected.";"Die Bildgröße ""%s"" konnte nicht gefunden werden."
+"The old email address does not match the entered email address.";"Die alte E-Mail-Adresse stimmt nicht mit der angegebenen E-Mail-Adresse überein."
+"The old password does not match the entered password.";"Das alte Passwort darf nicht dem neu eingegebenen Passwort entsprechen."
+"The password is required";"Das Kennwort ist erforderlich"
+"The password must be at least 6 characters";"Das Passwort muss mindestens 6 Zeichen lang sein"
+"The payment has been cancelled, something wrong happened? Feel free to contact us.";"Abgebrochen die Zahlung wurde, etwas passiert ist? Zögern Sie nicht uns zu kontaktieren."
+"This administrator does not exist";"Dieser Administrator ist nicht vorhanden."
+"This email address is already used";"Diese e-Mail-Adresse wird bereits verwendet"
+"This field is required";"Dieses Feld ist erforderlich"
+"This field is required.";"Dieses Feld ist erforderlich."
+"This section is unlocked for mobile users only";"Dieser Abschnitt ist nur für mobile Nutzer freigeschaltet."
+Timezone;TimeZone
+Title;Titel
+Title:;Titel:
+Total;Gesamt
+Type;Typ
+"Unable to add the contact to your address book";"Nicht in der Lage, den Kontakt zu Ihrem Adressbuch hinzufügen"
+"Unable to calculate the route.";"Nicht in der Lage, die Route zu berechnen."
+"Unable to save image";"Nicht in der Lage, Bild speichern"
+"Unknown error";"Unbekannter Fehler"
+"Unrecognized image format";"Unbekanntes Bildformat"
+"Updated at";"Aktualisiert am"
+"Use this coupon";"Verwenden Sie diesen coupon"
+"Use this discount";"Mit diesem Rabatt"
+User;Benutzer
+"User successfully saved";"Benutzer erfolgreich gespeichert"
+Username;Benutzername
+Users;Benutzer
+"VAT Number";Umsatzsteuer-Identifikationsnummer
+Validate;bestätigen
+"Version %s";"Version %s"
+Video;Video
+Videos;Videos
+View;Ansicht
+"We are sorry but this address is already used.";"Es tut uns leid, aber diese Adresse wird bereits verwendet."
+"We are sorry but this email address already exists.";"Es tut uns leid, aber diese e-Mail-Adresse bereits vorhanden ist."
+"We are sorry but this feature is not available yet";"Es tut uns leid, aber dieses Feature ist noch nicht verfügbar"
+Website;Webseite
+Yes;Ja
+"You already have this user in your contact";"Sie haben bereits diesen Benutzer in Ihrem Kontakt"
+"You are gone offline";"Sie sind offline gegangen."
+"You can upload a pem certificate only.";"Sie können nur ein Pem-Zertifikat hochladen."
+"You can upload a zip archive only.";"Sie können ein Zip-Archiv nur hochladen."
+"You can upload an icon only (.ico and .png).";"Sie können ein Symbol nur (ICO und PNG) hochladen."
+"You can upload an image only (.jpg, .jpeg, .gif and .png).";"Sie können ein Bild nur (.jpg, .jpeg, .gif und .png) hochladen."
+"You can't upload more than one file at a time.";"Sie können nicht mehrere Dateien gleichzeitig hochladen."
+"You may not delete a library icon";"Sie können kein Bibliothek Symbol löschen"
+"You must be logged in to post a comment";"Sie müssen eingeloggt sein um einen Kommentar schreiben"
+"You must give the permission to the app to add a contact to your address book";"Sie müssen die Berechtigung zur app, einen Kontakt in Ihrem Adressbuch hinzuzufügen geben."
+"You must share your location to access this page.";"Sie müssen Ihren Standort zum Aufrufen dieser Seite teilen."
+"Your CNAME is properly set";"Ihre CNAME richtig eingestellt ist"
+"Your browser is too old to view the content of our website.<br />";"Ihr Browser ist zu alt, um den Inhalt unserer Website. anzeigen < Br / >"
+"Your comment";"Ihr Kommentar"
+"Your email address";"Ihre E-Mail Adresse"
+"Your email address does not exist";"Ihre E-Mail-Adresse existiert nicht"
+"Your name";"Ihr Name"
+"Your new password has been sent to the entered email address";"Ihr neues Passwort wurde an die eingegebene E-Mail-Adresse gesendet"
+"Your password does not match the entered password.";"Ihr Passwort darf nicht dem eingegebenen Passwort entsprechen."
+Youtube;Youtube
+"Zip code";Postleitzahl
+close;Schließen
+day;Tag
+days;Tage
+en;En-US
+hour;Stunde
+hours;Stunden
+icon;Symbol
+loading;Laden
+logo;Logo
+minute;minute
+minutes;Minuten
+password;Passwort
+picture;Bild
+second;Sekunde
+seconds;Sekunden
+title;Titel
+titles;Titel
+"to add a subfolder.";"Fügen Sie einen Unterordner."
+"Add a picture";"Ein Bild hinzufügen"
+"An error occurred while deleting the event";"Beim Löschen der Veranstaltung ist ein Fehler aufgetreten"
+"An error occurred while loading this event";"Beim Laden dieses Ereignisses ist ein Fehler aufgetreten"
+"Beginning date:";Anfangsdatum:
+"Calendar successfully deleted";"Kalender erfolgreich gelöscht"
+"Calendar's URL";"Kalender URL"
+"Calendar's title";"Kalender Titel"
+"Change picture";"Bild ändern"
+"Create a new event";"Erstellen Sie eine neue Veranstaltung"
+"Custom Page";"Benutzerdefinierte Seite"
+"Delete this calendar?";"Löschen Sie diesen Kalender?"
+"Delete this event?";"Löschen Sie diese Veranstaltung?"
+Description:;Beschreibung:
+"Ending date:";Enddatum:
+"Enter your calendar's title";"Geben Sie Ihre Kalender-Titel ein"
+Event;Veranstaltung
+"Event successfully deleted";"Ereignis erfolgreich gelöscht"
+"Event successfully saved";"Ereignis erfolgreich gespeichert"
+"Event title:";"Titel der Veranstaltung:"
+Illustration;Abbildung
+Location:;Ort:
+"Max size: 2000x2000px - allowed formats: jpg & png";"Max. Größe: 2000x2000px - erlaubte Formate: Jpg & Png"
+"Modify the event";"Ändern Sie die Veranstaltung"
+"More events";"Weitere Veranstaltungen"
+RSVP;RSVP
+"RSVP URL:";"RSVP URL:"
+"Send your pictures";"Senden Sie Ihre Fotos"
+Title:;Titel:
+"Your Facebook page ID";"Ihre Facebook-Seiten ID"
+"Your Facebook page ID <span class=""required-entry"">*</span> :";"Ihre Facebook-Seite ID <span class=""required-entry""> * </span>:"
+"Your calendar is empty";"Ihr Kalender ist leer"
+iCal;iCal
+"Add a";hinzufügen
+"Add a page";"Hinzufügen einer Seite"
+"Click on";"Klicken Sie auf"
+"Click on a page to add it to the folder";"Klicken Sie auf eine Seite, um sie dem Ordner hinzufügen"
+"Click on a page to add it to the folder <span id=""folder_name"" class=""folder_name"">""%s""</span>";"Klicken Sie auf eine Seite, um sie in den Ordner <span id=""folder_name"" class=""folder_name""> ""%s"" hinzufügen </span>"
+"Close mobile display";"Schließen des mobile Display"
+"Delete this folder and all its subfolders?";"Löschen Sie diesen Ordner und alle seine Unterordner?"
+"Folder title is required";"Titel Ordner ist erforderlich"
+Folders;Ordner
+"Mobile display";Handy-Display
+"New folder";"Neuer Ordner"
+Subtitle;Untertitel
+"You cannot add this feature";"Sie können diese Funktion nicht hinzufügen"
+"You must first complete the current category creation process";"Sie müssen zuerst die aktuellen Kategorie Entstehungsprozesse abschließen"
+"You will lose all unsaved changes, continue?";"Sie werden alle nicht gespeicherten Änderungen verlieren, fortfahren?"
+"to add a folder.";"einen Ordner hinzufügen."
+"to add a subfolder.";"einen Unterordner hinzuzufügen."
+"<strong>%s</strong> must be a numerical value<br />";"<strong>%s</strong> ist ein Zahlenwert <br />"
+"<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />";"<strong>%s</strong> muss ein gültiges Datum (z.B. tt/mm/jjjj) < Br / >"
+"<strong>%s</strong> must be a valid date<br />";"<strong>%s</strong> muss ein gültiges Datum sein <br />"
+"<strong>%s</strong> must be a valid email address<br />";"<strong>%s</strong> muss eine gültige E-Mail-Adresse sein <br />"
+"<strong>%s</strong> must be filled<br />";"<strong>%s</strong> <br /> müssen ausgefüllt werden"
+"Add a field";"Fügen Sie ein Feld hinzu"
+"Add a section";"Fügen Sie einen Abschnitt hinzu"
+"Add an option";"Hinzufügen einer Option"
+"An error occurred while retrieving the user location";"Beim Abrufen des Benutzer-Standorts ist ein Fehler aufgetreten"
+"An error occurred while retrieving your location";"Beim Abrufen Ihrer Position ist ein Fehler aufgetreten"
+"An error occurred while saving. A field can't be identified.";"Beim Speichern ist ein Fehler aufgetreten. Ein Feld kann nicht identifiziert werden."
+"An error occurred while sending the form. Please, try again later.";"Beim Versenden des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+"Are you sure you want to remove this field?";"Sind Sie sicher, dass Sie dieses Feld entfernen möchten?"
+"Are you sure you want to remove this section?";"Sind Sie sicher, dass Sie diesen Abschnitt entfernen möchten?"
+Checkbox;Checkbox
+"Choose a field type:";"Wählen Sie einen Feldtyp:"
+"Create a new field";"Erstellen Sie ein neues Feld"
+Date/Hour;"Datum / Uhrzeit"
+"Drop down";"Drop down"
+"Edit field %s";"Edit-Feld %s"
+"Field name";"Field name"
+"Field name:";Feldname:
+Geolocation;Geolocation
+Hello,;Hallo
+"Manage fields";"Felder verwalten"
+"Manage options:";"Optionen verwalten:"
+"Multiline text";"mehrzeiliger Text"
+Number;Anzahl
+Option;Option
+Radio;Radio
+"Recipient email:";"Empfänger E-Mail:"
+"The form has been sent successfully";"Das Formular wurde erfolgreich gesendet"
+"This field is required";"Dieses Feld ist erforderlich"
+"We thank you for having filled out our form.";"Wir danken Ihnen, dass Sie unser Formular ausgefüllt haben."
+"You have refused to share your location";"Sie haben sich geweigert, Ihren Standort zu teilen"
+"You have to choose a field type.";"Sie müssen einen Feldtyp wählen."
+"Your app's form";"Ihre App Form"
+"Your form has been filled out, here are the answers:";"Ihr Formular ausgefüllt hat, hier sind die Antworten:"
+"%s Update";%s-update
+"All of your modules are up to date";"Alle Ihre Module sind auf dem neuesten Stand"
+"Click here to send your module";"Klicken Sie hier, um das Modul zu senden"
+"Drop your module here";"Ihr Modul hier ablegen"
+Host;Host
+Installing;Installation
+"Installing module <em><span id=""label_module""></span></em>";"Installation von Modul <em><span id=""label_module""></span></em>"
+"Installing your module";"Ihr Modul installieren"
+"Module Installation";Modulinstallation
+"Module successfully installed";"Modul erfolgreich installiert"
+"Module to upload";"Modul hochladen"
+Modules;Module
+"Modules Installation";"Module Installation"
+"Modules successfully installed!";"Module erfolgreich installiert!"
+"No directory provided";"Kein Verzeichnis bereitgestellt"
+"No module to install";"Kein Modul zu installieren"
+"No modules uploaded yet";"Keine Module noch hochgeladen"
+"Or set the correct permissions to the following files and folders and try again:";"Oder legen Sie die richtigen Berechtigungen auf die folgenden Dateien und Ordner und versuchen Sie es erneut:"
+"Package Details";Paketdetails
+"Path to your system";"Pfad zu Ihrem system"
+"Please update the module to the %s version before installing this update.";"Bitte aktualisieren Sie das Modul auf die %s-Version, bevor Sie dieses Update installieren."
+"Please update your system to the %s version before installing this update.";"Bitte aktualisieren Sie Ihr System auf die %s-Version, bevor Sie dieses Update installieren"
+"Please wait, we're installing your module";"Bitte warten Sie, wir installieren das Modul"
+"Please, enter a name";"Bitte geben Sie einen Namen ein."
+"Please, fill out all fields";"Bitte füllen Sie alle Felder"
+Port;Port
+"Processing the installation";"Die Verarbeitung der Installation"
+Retry;"""Wiederholen"""
+"Select a module to upload";"Wählen Sie ein Modul um es zu laden"
+"Some files and folder are not writable. You can either provide your FTP access to install this update:";"Einige Dateien und Ordner sind nicht schreibgeschützt. Sie bieten entweder Ihre FTP-Zugriff, um dieses Update zu installieren:"
+"Some files don't have the right permissions and can't be updated";"Einige Dateien nicht die richtigen Berechtigungen haben und können nicht aktualisiert werden"
+"The database connection failed. Please, check the entered information.";"Die Datenbankverbindung ist fehlgeschlagen. Bitte überprüfen Sie die eingegebenen Informationen."
+"The entered password confirmation does not match the entered password.";"Die eingegebene Passwortbestätigung überein das eingegebene Passwort nicht. Ihr Modul installieren"
+"The file %s does not exist";"Die Datei %s existiert nicht"
+"The file %s is not writable.";"Die Datei %s ist nicht beschreibbar."
+"The folder %s is not writable.";"Der Ordner %s ist nicht beschreibbar."
+"The folder %s is not writable. Please fix this issue and try again.";"Der Ordner %s ist nicht beschreibbar. Bitte beheben Sie dieses Problem und versuchen es erneut."
+"The following files and folders are not writable:";"Die folgenden Dateien und Ordner sind nicht beschreibbar:"
+"The following files and folders are not writable: <br /> - %s";"Die folgenden Dateien und Ordner sind nicht beschreibbar: < Br / >-%s"
+"The following folders are not writable: <br /> - %s";"Die folgenden Ordner sind nicht beschreibbar: <br /> -%s"
+"The installation of the module %s has failed: <span id=""installation_failed_because""></span>";"Die Installation des Moduls %s ist fehlgeschlagen: <span id=""installation_failed_because""> </span>"
+"The installation of the module <span id=""installation_failed_module_name""></span> has failed: <span id=""installation_failed_because""></span>";"Die Installation des Moduls <span id=""installation_failed_module_name""></span> ist fehlgeschlagen: <span id=""installation_failed_because""></span>"
+"The package you have uploaded is invalid.";"Das Paket, das du hochgeladen hast ist ungültig."
+"This process may take few minutes, please do not refresh the page";"Dieser Vorgang kann einige Minuten dauern, bitte die Seite nicht aktualisieren"
+"This update is designed for the %s, you can't install it in your %s.";"Dieses Update ist für die %s, Sie es in Ihre %s können nicht installiert werden."
+"Unable to connect to your FTP. Please check the connection information.";"Keine Verbindung zu Ihrem FTP. Bitte überprüfen Sie die Verbindungsinformationen."
+"Unable to detect your site. Please make sure the entered path is correct.";"Nicht in der Lage, Ihre Website zu erkennen. Bitte achten Sie darauf, dass der eingegebene Pfad korrekt ist."
+"Unable to extract the archive.";"Kann das Archiv zu extrahieren."
+"Unable to open the archive.";"Unfähig, das Archiv zu öffnen."
+"Unable to open the file. Please, make sure that you sent a valid archive.";"Nicht in der Lage, die Datei zu öffnen. Stellen Sie sicher, dass Sie eine gültige Archiv geschickt."
+"Upload a module";"Ein Modul Galerie"
+"Upload your modules";"Laden Sie Ihre Module"
+Username;Benutzername
+"You already have installed this update.";"Dieses Update haben bereits installiert."
+" is now yours!";"gehört jetzt dir!"
+"%d validated points = ";"%d validiert Punkte ="
+"1 loyalty point =";"1 Treuepunkt ="
+"1 point";"1 Punkt"
+"1 validated point = ";"1 validiert Punkt ="
+"An error occurred while saving the password. Please try again later";"Fehler beim Speichern des Kennworts. Bitte versuchen Sie es später noch einmal"
+"An error occurred while saving the password. Please try again later.";"Beim Speichern des Passworts ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving your loyalty card.";"Beim Speichern Ihrer Kundenkarte ist ein Fehler aufgetreten."
+"An error occurred while saving your loyalty card. Please fill all fields in.";"Beim Speichern Ihrer Kundenkarte ist ein Fehler aufgetreten. Bitte füllen Sie alle Felder aus."
+"An error occurred while validating point. Please try again later.";"Während der verwaltung der Punkte ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"Card name";Kartennamen
+Conditions;Bedingungen
+Congratulations;Gratulation
+"Current card";"Aktuelle Karte"
+"Delete this password?";"Möchten Sie dieses Passwort löschen ?"
+"Employee's name";Mitarbeitername
+"Employee's name:";"Name des Mitarbeiters:"
+"Employee's password";"Passwort des Mitarbeiters"
+"Employee's password:";"Mitarbeiters Passwort:"
+"Enter the password";"Geben Sie das Kennwort"
+"My new loyalty card";"Meine neue Kundenkarte"
+"My passwords";"Meine Passwörter"
+"Number of points";Punkte
+"Please enter a name";"Bitte geben Sie einen Namen ein"
+"Please enter the password";"Bitte geben Sie das Passwort ein"
+"Please log in.";"Bitte melden Sie sich an"
+"Please show your phone to the store person so that he enters his password";"Bitte zeigen Sie Ihr Telefon der Store-Person damit er sein Kennwort eingibt"
+"Point%s successfully validated";"Punkt %s erfolgreich verwaltet"
+"Previous cards";"vorherige Karte"
+Reward;Belohnung
+"We are sorry but this card is temporarily blocked";"Es tut uns leid, aber diese Karte wurde vorübergehend gesperrt"
+"We are sorry, your card is temporarily blocked";"Es tut uns leid, Ihre Karte wurde vorübergehend gesperrt"
+"Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point";"Falsches Passwort. Seien Sie vorsichtig! %d Nummer(n) Versuch %s bevor Ihre Karte gesperrt. Bitten Sie die Speicher-Person für die Überprüfung Ihrer Punkt"
+"Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point";"Falsches Passwort. <br /> Seien Sie vorsichtig! %d %s verbleibenden Versuche zum Sperren Ihrer Karte. <br /> Frage Shop Person für Validierung Ihrer Punkt"
+"You have exceeded the number of attempts to validate points. Your card is locked for 24h";"Sie haben die Anzahl der Versuche, um Punkte zu verwalten überschritten. Ihre Karte ist für 24 Stunden gesperrt"
+"You have unlocked %d loyalty card%s";"Sie haben% d-Kundenkarte entriegelt %s"
+"You just finished your card";"Sie haben Ihre Karte aufgebraucht"
+"You must be logged in to validate points";"Sie müssen angemeldet sein, um Punkte zu verwalten"
+"You own:";"Sie besitzen:"
+"You're gonna validate <span id=""number_of_points"">1 point</span>";"Du wirst validate <span id=""number_of_points""> 1 Punkt </span>"
+"Your loyalty card has been saved successfully";"Ihre Treue-Karte wurde erfolgreich gespeichert"
+"Your password must be 4 digits";"Ihr Passwort muss 4-stellig sein"
+point;point
+"point to validate";"Punkt überprüfen"
+"points to validate";"Punkte überprüfen"
+"validated points = ";"validierte Punkte ="
+"%s - Customer Service";"%s - Kundendienst"
+20.00%;"20,00 %"
+"Add a picture";"Hinzufügen eines Bildes"
+"Add options";"Hinzufügen von Optionen"
+"Add to cart";Warenkorb
+"An error occurred while proceeding the payment. Please, try again later.";"Fehler beim Verfahren der Zahlung. Bitte, versuchen Sie es später erneut."
+"An error occurred while proceeding your order. Please, check the following information:";"Fehler beim Verfahren Ihrer Bestellung. Bitte überprüfen Sie die folgende Informationen:"
+"Are you sure you want to close without saving";"Sind Sie sicher, dass Sie ohne Speichern schließen möchten"
+"Are you sure you want to delete this category and all its subcategories?";"Bist du sicher, dass Sie diese Kategorie und ihre Unterkategorien löschen möchten?"
+"Are you sure you want to delete this store?";"Bist du sicher, dass Sie diesen Speicher löschen möchten?"
+"Are you sure you want to delete this tax?";"Bist du sicher, dass Sie diese Steuer löschen möchten?"
+"Are you sure you want to remove this product?";"Bist du sicher, dass Sie dieses Produkt entfernen möchten?"
+"At least one option is required:";"Mindestens eine Option ist erforderlich:"
+Cancelled;Abgesagt
+"Carry Out";Durchführen
+Cart;Warenkorb
+Cash;Bargeld
+Category;Kategorie
+"Category successfully saved.";"Kategorie erfolgreich gespeichert."
+Check;Überprüfen
+"Choose a delivery method:";"Wählen Sie eine Versandart:"
+"Choose a payment method:";"Wählen Sie eine Zahlungsmethode:"
+"Choose a store:";"Wählen Sie einen Shop:"
+Completed;Abgeschlossen
+"Connected Printers";"Angeschlossenen Drucker"
+"Continue shopping";"Weiter einkaufen"
+"Create a new options group";"Erstellen einer neuen Optionengruppe"
+"Create a new product";"Erstellen Sie ein neues Produkt"
+"Create a new tax";"Erstellen Sie eine neue Steuer"
+"Create a store";"Erstellen Sie einen Speicher"
+"Credit Card by phone";"Kreditkarte per Telefon"
+"Credit card (pay upon pickup or delivery)";"Kreditkarte (Bezahlung bei Abholung oder Lieferung)"
+Customer;Kunde
+"Customer Service";Kundendienst
+Delivery;Lieferung
+"Delivery Fees";Versandkosten
+"Delivery Method";Übermittlungsmethode
+"Delivery area";Liefergebiet
+"Delivery fees";Versandkosten
+"Delivery fees:";Versandkosten
+"Delivery methods";Liefermethoden
+"Delivery methods:";Liefermethoden
+"Delivery radius";"Lieferung radius"
+"Delivery radius:";"Lieferung radius"
+"Delivery time";Lieferzeit
+"Delivery time:";Lieferzeit
+Details;Informationen
+"Edit a store";"Bearbeiten Sie ein Geschäft"
+"Edit the options group %s";"Bearbeiten der Optionengruppe für %s"
+"Edit the product %s";"Bearbeiten Sie das Produkt %s"
+"Edit the tax %s";"Bearbeiten Sie die Steuer %s"
+"Free delivery starting from";"Kostenlose Lieferung ab"
+"Free delivery starting from:";"Kostenlose Lieferung ab:"
+"Here is the detail of the order";"Hier sind die Details der Bestellung"
+"Here is the detail of your order";"Hier sind die Details Ihrer Bestellung"
+"Hours of operation";Öffnungszeiten
+"Hours of operation:";Betriebsstunden:
+"In store";"Im Speicher"
+"Meal Voucher";"Essen Gutschein"
+"Minimum order";Mindestbestellmenge
+"Minimum order:";"Minimaler Auftrag:"
+"My Cart";"Mein Warenkorb"
+"My cart is empty";"Mein Warenkorb ist leer"
+"My categories";"Meine Kategorien"
+"My information";"Meine Informationen"
+"My orders";"Meine Bestellungen"
+"My product's categories";"Mein Produkt-Kategorien"
+"My product's options";"Mein Produkt-Optionen"
+"My products";"Meine Produkte"
+"My stores";"Meine Vorräte"
+"My taxes";"Meine Steuern"
+"Name of the options group:";"Name der Optionengruppe:"
+"New order from the application";"Neuer Auftrag von der Anwendung"
+Number;Anzahl
+"Option name";Optionsnamen
+"Option name:";"Name der Option:"
+"Options group successfully deleted";"Optionengruppe erfolgreich gelöscht"
+"Options group successfully saved";"Optionengruppe erfolgreich gespeichert"
+"Order Number";Bestell-Nr.
+"Order confirmation";Auftragsbestätigung
+"Order details";Bestelldetails
+"Order successfully saved";"Bestellung erfolgreich gespeichert"
+Orders;Bestellungen
+Paid;Bezahlt
+Password;Passwort
+Password:;Passwort
+Payment;Zahlung
+"Payment Method";Zahlungsmethode
+"Payment methods:";Zahlungsmethoden:
+Paypal;PayPal
+"Pending payment";"Ausstehende Zahlung"
+Picture;Bild
+"Please choose a delivery method";"Bitte wählen Sie eine Versandart"
+"Please choose a payment method";"Bitte wählen Sie eine Zahlungsmethode"
+"Please, enter an email address for the store %s";"Bitte geben Sie eine e-Mail-Adresse für den Store %s"
+Price;Preis
+"Price: %s";"Preis: %s"
+"Printer successfully saved";"Drucker erfolgreich gespeichert"
+Proceed;"Gehen Sie"
+Product;Produkt
+"Product name";Produktname
+"Product name:";Produktname
+"Product successfully saved";"Produkt erfolgreich gespeichert"
+Qty;Qty
+"Qty: %s";"Qty: %s"
+"Radius in Km";"RADIUS in Km"
+Review;Bewertung
+Settings;Einstellungen
+Signature;Signatur
+Signature:;Signatur
+Status;Status
+"Store information";Shop-Informationen
+"Store name";Shop-Namen
+"Store name:";Shop-Name:
+"Store successfully deleted";"Shop erfolgreich gelöscht"
+"Store successfully saved";"Shop erfolgreich gespeichert"
+Stores;Shops
+Subtotal;Zwischensumme
+Tax;Steuer
+"Tax name";Steuername
+"Tax name:";Steuername
+"Tax rate";Steuersatz
+"Tax rate:";Steuersatz
+"Tax successfully deleted";"Steuern erfolgreich gelöscht"
+"Tax successfully saved";"Steuern erfolgreich gespeichert"
+Tax:;Gebühr:
+"Thank you!";"Vielen Dank!"
+"The delivery method";"Die Übermittlungsmethode"
+"The following options are required:<br />%s";"Die folgenden Optionen sind erforderlich: < Br />%s"
+"The option %s is required";"Die Option %s ist erforderlich"
+"The payment has been cancelled, something wrong happened? Feel free to contact us";"Abgebrochen die Zahlung wurde, etwas passiert ist? Zögern Sie nicht uns zu kontaktieren"
+"The payment method";"Die Zahlungsmethode"
+"Time in minutes";"Zeit in Minuten"
+Total;Gesamt
+"Total Excl. Tax";"Total exkl. USt."
+"Total Tax";"Steuern gesamt"
+"Total: %s";"Gesamt: %s"
+"Unit Price";VK-Preis
+"Unit price";VK-Preis
+Username;Benutzername
+Username:;Benutzername
+"We apologize but the payment method %s is currently not available";"Tut uns leid aber die Zahlungsmethode %s ist derzeit nicht verfügbar"
+"We thank you for your order. A confirmation email has been sent";"Wir danken Ihnen für Ihre Bestellung. Eine Bestätigungs-Email wurde gesendet"
+"You don't have any categories yet";"Sie noch alle Kategorien nicht"
+"You have a connected printer? Enter the email address";"Haben Sie einen angeschlossenen Drucker? Geben Sie die e-Mail-Adresse"
+"You have a connected printer? Enter the email address for each store";"Haben Sie einen angeschlossenen Drucker? Geben Sie die e-Mail-Adresse für jedes Geschäft"
+"Your address";"Ihre Adresse"
+"Your email address";"Ihre e-Mail-Adresse"
+"Your firstname";"Ihr Vorname"
+"Your lastname";"Ihr Nachname"
+"Your phone number";"Ihre Telefonnummer"
+"e.g., Sauces";"z.B. Saucen"
+"%s by %s";"%s von %s"
+"+ Add a track";"+ Hinzufügen eines Titels"
+"Add albums and tracks to the playlist:";"Alben und Tracks zur Wiedergabeliste hinzugefügt:"
+Album;Album
+Albums;Alben
+Albums:;Alben:
+"An error occurred while deleting you images gallery. Please try again later.";"Beim Speichern der Bilder-Galerie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+"An error occurred while deleting your album. Thanks for trying later.";"Fehler beim Löschen von deinem Album. Danke für den Versuch später."
+"An error occurred while deleting your playlist. Thanks for trying later.";"Fehler beim Löschen der Wiedergabeliste. Danke für den Versuch später."
+"An error occurred while deleting your track. Thanks for trying later.";"Fehler beim Löschen von deinem Track. Danke für den Versuch später."
+"An error occurred while loading pictures. Please try later.";"Beim Laden der Bilder ist ein Fehler aufgetreten. Bitte versuchen Sie es später."
+"An error occurred while loading videos. Please try later.";"Beim Laden des Videos ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving your images gallery. Please try again later.";"Beim Speichern der Bilder-Galerie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+"An error occurred while saving your playlist. Thanks for trying later.";"Fehler beim Speichern der Wiedergabeliste. Danke für den Versuch später."
+"An error occurred while saving your videos gallery. Please try again later.";"Beim speichern der Video-Galerie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"Are you sure you don't want to create an album for these tracks?";"Bist du sicher, dass Sie kein Album für diese Tracks erstellen will?"
+"Are you sure you don't want to create an album for this track?";"Bist du sicher, dass Sie nicht möchten, erstellen Sie ein Album für diesen Track?"
+"Are you sure you want to delete this album (this won't delete tracks)?";"Sind Sie sicher, dass Sie dieses Album löschen (Dies wird nicht Spuren löschen) möchten?"
+"Are you sure you want to delete this album?";"Bist du sicher, dass Sie dieses Album löschen möchten?"
+"Are you sure you want to delete this playlist?";"Bist du sicher, dass Sie diese Wiedergabeliste löschen möchten?"
+"Are you sure you want to delete this track?";"Bist du sicher, dass Sie diesen Track löschen möchten?"
+Artist;Künstler
+Artist:;Künstler:
+Audio;Audio
+Channel;Kanal
+"Choose an album";"Wählen Sie ein Album"
+Custom;Custom
+"Delete this gallery?";"Möchten Sie diese Galerie löschen ?"
+Description:;Beschreibung:
+"Feed URL";"Feed URL"
+"Feed URL <span class=""required-entry"">*</span> :";"Feed URL <span class=""required-entry"">*</span> :"
+"Gallery Name";Galeriename
+"Gallery Name <span class=""required-entry"">*</span> :";"Galeriename <span class=""required-entry""> * </span>:"
+Group;Gruppe
+"I'm listening to";"Ich höre"
+"Images gallery has been saved successfully";"Bilder-Galerie wurde erfolgreich gespeichert"
+Instagram;Instagram
+"Last update:";"Letztes Update:"
+"Maximum size : 2000*2000 px - Allowed filetypes : jpg and png";"Maximale Größe: 2000 * 2000 Pixel - erlaubte Dateitypen: jpg und png"
+"More pictures";"Weitere Bilder"
+"More videos";"mehr Videos"
+"My pictures";"Meine Bilder"
+"No album found";"Kein Album gefunden"
+"No artist found";"Kein Künstler gefunden"
+"No pictures matching your selection";"Keine Bilder, in Ihrer Auswahl"
+"No track found";"Keine Spur gefunden"
+"No videos matching your selection";"Keine Videos gefunden, die Ihrer Auswahl entspricht"
+PLAYER;PLAYER
+Parameter;Parameter
+"Parameter/Feed Url";"Parameter /-Feed URL "
+Picasa;Picasa
+Picture%s;"Bild %s"
+Playlist;Playlist
+"Playlist successfully saved.";"Playlist erfolgreich gespeichert."
+"Playlist title:";"Playlist Titel:"
+Playlists;Wiedergabelisten
+Podcast;Podcast
+"Podcast URL (iTunes format)";"Podcast-URL (iTunes-Format)"
+"Read all";"Lesen Sie alle"
+"Required field";Pflichtfeld
+Search;Suche
+Search/Url;"Recherche / URL"
+"Send your pictures";"Senden Sie Ihre Fotos"
+"The entered name is not a valid Instagram user.";"Der eingegebene Name ist kein gültiger Benutzer Instagram."
+"This element is not an album.";"Dieses Element ist kein Album."
+Title:;Titel:
+Track;Track
+Tracks;Spuren
+Type;Typ
+"URL (.mp3):";"URL (. MP3):"
+User;Benutzer
+"Videos gallery has been saved successfully";"Die Video-Galerie wurde erfolgreich gespeichert"
+Vimeo;Vimeo
+buy;kaufen
+close;Schließen
+empty;leer
+from;Von
+hide;Ausblenden
+loop;Schleife
+music;Musik
+next;Nächste
+on;auf
+pause;Anhalten
+play;spielen
+previous;vorherige
+share;Freigeben
+shuffle;shuffle
+track;Track
+tracks;Spuren
+"Access restricted to authorized members only";"Zugang nur für autorisierte Mitarbeiter nur"
+"Allow all the users by default:";"Ermöglichen Sie allen Benutzern standardmäßig:"
+"Choose the features to lock:";"Wählen Sie die Funktionen sperren:"
+"Lock the entire application?";"Sperren die gesamte Anwendung zu?"
+"Restrict Access";"Einschränken des Zugriffs"
+"We are sorry but your account does not have enough permissions to access this page";"Es tut uns leid, aber Ihr Konto verfügt nicht über genügend Berechtigungen Zugriff auf diese Seite"
+"the email address";"die e-Mail-Adresse"
+"the first name";"der erste name"
+"the gender";"das Geschlecht"
+"the last name";"der Nachname"
+"the password";"das Kennwort"
+Payments;Zahlungen
+"An error occurred while saving your discount. Please fill in all fields";"Beim Speichern des Rabatts ist ein Fehler aufgetreten. Bitte verfollständigen Sie alle Felder."
+"Are you sure you want to use this discount?";"Sind Sie sicher, dass dieser Rabatt verwenden möchten?"
+"Can only be used once";"kann nur einmal verwendet werden,"
+"Closed discounts";"geschlossen Rabatte"
+"Create a new discount";"Erstellen Sie einen neuen Rabatt"
+"Delete this discount?";"Löschen Sie diesen Rabatt?"
+Details;Beschreibung
+"Discount successfully deleted";"Discount erfolgreich gelöscht"
+"Discount successfully saved";"Discount erfolgreich gespeichert"
+"End at";"Endet am"
+On;Ein
+"Please log in.";"Bitte melden Sie sich an"
+"Please select an end date greater than the current date.";"Bitte wählen Sie ein Enddatum."
+"This discount is now used";"Dieser Rabatt wird nun verwendet."
+"Use this coupon";"Verwenden Sie diesen Coupon"
+"Valid until";"Gültig bis"
+"You have already use this discount";"Sie haben diesen Gutschein bereits eingelöst."
+"You must be logged in to use a discount";"Sie müssen angemeldet sein, um einen Gutschein zu verwenden"
+"or illimited";"oder ADSL"
+"use only once";"Verwenden Sie nur einmal"
+"you'll be able to remove this promotion later";"Sie werden dieses Angebot später entfernen"
+"<a href=""%s"">Click here to provide the required information to send push notifications</a>";"<a href=""%s""> Klicken Sie hier, um die erforderlichen Informationen zur Verfügung stellen, um Push-Benachrichtigungen senden </a>"
+"Additionnal Information";"Zusätzliche Informationen"
+"And a radius (in Km):";"Und ein Radius (in Km):"
+Android;Android
+"Creation date";Erstellungsdatum
+"Enter a location:";"Geben Sie einen Ort ein:"
+"GCM Key";"GCM Key "
+"I want to send it";"Ich möchte es senden"
+"Keys successfully saved";"Schlüssel erfolgreich gespeichert"
+Message;Nachricht
+Message:;Nachricht:
+Pending;anstehend
+"Push Notifications";Push-Benachrichtigungen
+"Push Notifications Settings";"Push-Benachrichtigungen Einstellungen "
+Radius;RADIUS
+"Send to a specific location";"Senden Sie es an einen bestimmten Ort"
+"Send to all my users";"Senden an alle meine Benutzer"
+"Send you .pem certificate";"Senden Sie. Pem Zertifikat "
+"Sender ID";"Sender ID"
+"Sending date";Sendedatum
+"The duration limit must be higher than the sent date";"Die Dauer Grenze muss höher als die Sendedatum sein"
+Title:;Titel:
+"You don't have any push notifications";"Sie haben noch keine Push-Benachrichtigungen erhalten."
+"You have already sent a certificate";"Sie haben bereits ein Zertifikat gesendet "
+"Your app must be published to send a push notification.";"Ihre Anwendung muss veröffentlicht werden, um eine Push-Benachrichtigung zu senden."
+"Your message has been saved successfully and will be sent at the entered date";"Ihre Nachricht wurde erfolgreich gespeichert und wird am eingegebenen Datum gesendet werden"
+"Your message has been saved successfully and will be sent in a few minutes";"Ihre Nachricht wurde erfolgreich gespeichert und wird in wenigen Minuten gesendet werden"
+"and users entering the area";"und Anwender im Bereich"
+"for a limited period";"für einen begrenzten Zeitraum"
+now;jetzt
+"on a specific date";"an einem bestimmten Datum"
+"%s ago";"%s vor"
+"An error occurred while saving your RSS feed";"Bei RSS-Feed ist ein Fehler aufgetreten"
+"Display feed pictures whenever possible";"Display-Feed Bilder, wenn möglich"
+"Enter a name and an URL address for this RSS feed";"Geben Sie einen Namen und eine URL-Adresse für diese RSS-Feeds ein"
+"Enter the URL of this RSS feed";"Geben Sie diesen RSS-feed-URL"
+"Found feeds";"gefunde Feeds"
+"No RSS feed could be found";"Es konnte keine RSS Feed gefunden werden."
+"Please enter a title";"Geben Sie einen Titel ein."
+"RSS feed successfully saved";"RSS-Feed erfolgreich gespeichert"
+"Show article";"Artikel anzeigen"
+URL;URL
+day;Tag
+hour;Stunde
+minute;Minute
+Action;Aktion
+"App Name";App-Name
+Client;Client
+Date;Datum
+Invoice;Rechnung
+"Invoice %s";"Rechnung %s"
+"Invoice N°";"Rechnung N °"
+"List of your invoices";"Liste der Rechnungen"
+"My Invoices";"Meine Rechnungen"
+Order;Bestellung
+Orders;Bestellungen
+"Paid At";Gezahlt
+"Paid at:";Gezahlt
+"Price Excl. Tax";"Preis ohne MwSt."
+Qty;Qty
+"This feature is not ready yet. Please try again later.";"Diese Funktion ist noch nicht bereit. Bitte versuchen Sie es später erneut."
+"Total Excl. Tax";"Total exkl. USt."
+"You don't have any invoices yet";"Sie noch alle Rechnungen nicht"
+"An error occurred while loading the videos. Please try again later.";"Fehler beim Laden der Videos. Bitte versuchen Sie es später erneut."
+"Enter your Facebook Fan Page Id";"Geben Sie Ihre Facebook Fan Page Id"
+"Enter your Facebook Fan Page Id <span class=""required-entry""> *</span>:";"Geben Sie Ihre Facebook Fan Page Id <span class=""required-entry""> * </span>:"
+"More Posts";"mehr Beiträge"
+"Published on %s";"Veröffentlicht am %s"
+"Your comment";"Ihr Kommentar "
+"like it";"Lieb es"
+"talk about it";"darüber reden"
+"%s point%s";"Punkt %s %s"
+"A month";"Ein Monat"
+"A week";"Eine Woche"
+Challengers;Challengers
+"Current game";"aktuelles Spiel"
+"Currently no challengers";"Derzeit keine Herausforderer"
+"End at";"Endet am"
+"Game Name";Spielnamen
+"Game successfully saved";"Spiel erfolgreich gespeichert"
+"Next game";"Nächstes Spiel"
+"On the";am
+Period;Periode
+Periodicity;Periodizität
+"Publication date";Erscheinungsdatum
+"Rank of the month";"Rang des Monats"
+"Rank of the week";"Rang der Woche"
+"Team Leader";"Team Leader"
+"Insert your HTML code:";"Fügen Sie den HTML-Code ein:"
+"Source Code";Source-Code
+"%s Subscription for %s";"Abonnement von %s für %s"
+"<a href=""%s"">Click here</a> to go back to your applications list";"<a href=""%s""> Klicken Sie hier</a>, um wieder auf Ihre Liste ""Anwendungen"""
+Active;Aktive
+"An error occurred while processing the payment. For more information, please feel free to contact us.";"Fehler bei der Verarbeitung der Zahlung. Für weitere Informationen wenden Sie sich bitte an uns wenden."
+"An error occurred while processing your order. Please, try again later.";"Fehler bei der Abwicklung Ihrer Bestellung. Bitte, versuchen Sie es später erneut."
+"An error occurred while saving. Please try again later";"Fehler beim Speichern. Bitte versuchen Sie es später noch einmal"
+"An error occurred while saving. The selected subscription is not valid.";"Fehler beim Speichern. Das ausgewählte Abonnement ist nicht gültig."
+"Are you sure you want to delete this plan?";"Bist du sicher, dass Sie diesen Plan löschen möchten?"
+"Billing Address";Rechnungsadresse
+"By checking this box, you agree <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">to our terms and conditions</a>";"Durch Aktivieren dieses Kontrollkästchens, stimmen Sie <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline""> unseren Allgemeinen Geschäftsbedingungen</a>"
+"Charged to your client every month";"Zahlen für Ihre Kunden jeden Monat"
+"Charged to your client every year";"Zahlen für Ihre Kunden jedes Jahr"
+"Charged to your client when placing the order";"Zahlen für Ihre Kunden bei der Bestellung"
+"Choose the subscription that suits you best:";"Wählen Sie das Abonnement, das Ihnen am meisten zusagt:"
+"Create a new subscription";"Erstellen Sie ein neues Abonnement"
+Creation;Erstellung
+"Describe here this plan. Will be displayed on the front end";"Beschreiben Sie dieser Plan hier. Auf dem front-End erscheint"
+"Each price must be entered excluding tax";"Jeder Preis muss eingegeben werden, zzgl. MwSt."
+"Edit the subscription %s";"Bearbeiten Sie das Abonnement von %s"
+Expiration;Ablauf
+"Expiration date";Ablaufdatum
+"Give a name to this plan. Will be displayed on the front end";"Geben Sie einen Namen für diesen Plan. Auf dem front-End erscheint"
+"List of your plans";"Liste Ihrer Pläne"
+"List of your subscriptions";"Liste Ihrer Abonnements"
+None;Keine
+One-off;Einmalige
+"Order's details";"Die Bestelldetails"
+Payment;Zahlung
+"Payment Option";Zahlungsoption
+"Payment secured by <img src=""%s"" width=""100"" title=""Paypal"" />";"Zahlung gesichert durch <img src=""%s"" width=""100"" title=""Paypal"" />"
+"Please, enter a company";"Bitte geben Sie eine Firma"
+"Please, enter a country";"Bitte geben Sie ein Land"
+"Please, enter a description.";"Bitte geben Sie eine Beschreibung ein."
+"Please, enter a name.";"Bitte geben Sie einen Namen."
+"Please, enter an address";"Bitte geben Sie eine Adresse"
+Pricing;Preise
+"Proceed to payment?";"Fahren Sie mit Zahlung?"
+Recurring;Wiederkehrende
+"Setup Fee";Setup-Gebühr
+"Setup fee";Setup-Gebühr
+Subscription;Abonnement
+"Subscription successfully saved";"Abonnement erfolgreich gespeichert"
+Subtotal;Zwischensumme
+Thanks!;"Vielen Dank!"
+"The monthly price is not a valid price (e.g. 12.34)";"Der monatliche Preis ist keine gültige Preis (z.B. 12,34)"
+"The setup fee is not a valid price (e.g. 12.34)";"Die Einrichtungsgebühr kostet nicht gültig (z.B. 12,34)"
+"The yearly price is not a valid price (e.g. 12.34)";"Der jährliche Preis ist keine gültige Preis (z.B. 12,34)"
+"This subscription is active";"Dieses Abonnement ist aktiv"
+"VAT Number";Umsatzsteuer-Identifikationsnummer
+"You already have a subscription for this application";"Sie haben bereits ein Abonnement für diese Anwendung"
+"You don't have any subscriptions yet";"Sie noch alle Abonnements nicht"
+"You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play.";"Sie sind fast fertig! Nach der Anmeldung veröffentlichen wir Ihre Anwendung auf den AppStore und die Google-spielen."
+"Your VAT Number is not valid";"Ihre MwSt.-Nummer ist nicht gültig"
+"Your order has been canceled. If you need any help to place your order, please feel free to contact us.";"Ihre Bestellung wurde abgebrochen. Benötigen Sie Hilfe zu Ihrer Bestellung, wenden Sie sich bitte an uns wenden."
+"Your order has been successfully paid. Your application will be published very soon.";"Ihre Bestellung wurde erfolgreich bezahlt. Ihre Bewerbung wird sehr bald veröffentlicht."
+"Your subscription must have at least one price";"Ihr Abonnement muss mindestens einen Preis haben."
+price;Preis
+"<b>File types:</b> %s<br /><b>Recommended size:</b> %s";"<b>Dateitypen:</b> %s < Br / > <b>Größe empfohlen:</b> %s"
+"Click here to send your favicon";"Klicken Sie hier, um Ihr Favicon zu senden"
+"Click here to send your logo";"Klicken Sie hier, um Ihr Logo senden"
+Communications;Kommunikation
+"Current favicon";"Aktuelle favicon"
+"Current logo";"Aktuelle logo"
+"Display a link to your clients to your support platform";"Zeigt einen Link an Ihre Kunden an Ihre Support-Plattform"
+"Drop your favicon here";"Ihr Favicon hierher ziehen"
+"Drop your logo here";"Ihr Logo hier ablegen"
+Sales;Vertrieb
+"Sales Email Address";"Verkauf E-Mail-Adresse"
+"Sender's email address of the emails sent by the site to your clients";"E-Mail-Adresse des Absenders der e-Mails, die von der Site an Ihre Kunden"
+"Sender's name of the emails sent by the site to your clients";"Name des Absenders der e-Mails, die von der Site an Ihre Kunden"
+"Support Email Address";Support-Email-Adresse
+"The folder /images/default is not writable.";"Die Ordner-/images/default ist nicht schreibbar."
+"Your Location";"Ihren Standort"
+"Your Platform";"Ihre Plattform"
+"Your company";"Ihr Unternehmen"
+"List of your taxes";"Liste der Ihre Steuern"
+"Please select a country";"Bitte wählen Sie ein Land"
+"Please, enter a tax rate.";"Bitte geben Sie einen Steuersatz."
+"Please, enter a valid tax rate.";"Bitte geben Sie einen gültigen Steuersatz."
+Rate;Komplettpreise
+Remove;Entfernen
+"You don't have created any taxes yet";"Sie haben nicht Steuern noch erstellt"
+"Choose a template to customize";"Wählen Sie eine Vorlage zum gestalten "
+TEMPLATES;VORLAGEN
+"Create a new language";"Erstellen Sie eine neue Sprache"
+"Default text";Standardtext
+"Edit the language: %s";"Editieren Sie die Sprache: %s"
+Language;Sprache
+"Language successfully saved";"Sprache erfolgreich gespeichert"
+"List of your languages";"Liste der Sprachen"
+"Please, choose a file.";"Bitte wählen Sie eine Datei."
+"Please, choose a language.";"Bitte wählen Sie eine Sprache."
+"Select a file";"Wählen Sie eine Datei"
+"Select a language";"Wählen Sie eine Sprache"
+"Text translation";Textübersetzung
+Translations;Übersetzungen
+"Your translation";"Ihre Übersetzung"
+"Add a link";"Link hinzufügen"
+"An error occurred while saving your picto. Please try againg later.";"Fehler beim Speichern Ihrer Picto. Bitte versuchen Sie später Againg."
+"Are you sure you want to delete this link?";"Sind Sie sicher, dass Sie diesen Link löschen möchten ?"
+"Are you sure you want to delete this picture?";"Bist du sicher, dass Sie dieses Bild löschen möchten?"
+Informations;Informationen
+Link;Link
+"Link has been successfully deleted";"Die Verbindung wurde erfolgreich gelöscht"
+"Link has been successfully saved";"Die Verbindung wurde erfolgreich gespeichert"
+Link:;Link:
+Picto;Picto
+"The image has been successfully deleted";"Das Bild wurde gelöscht"
+"The image has been successfully saved";"Das Bild wurde erfolgreich gespeichert"
+"Your links";"Ihre Links"
+"An error occurred while accessing your Wordpress website. Please, verify the domain name %s";"Beim Zugriff auf Ihre Wordpress-Website ist ein Fehler aufgetreten. Bitte überprüfen Sie den Namen der Domäne %s"
+"Categories successfully saved";"Kategorien erfolgreich gespeichert"
+"Click here to download our Wordpress plugin";"Klicken Sie hier, um unsere Wordpress-Plugin zu downloaden"
+"Enter your Wordpress URL:";"Geben Sie Ihre Wordpress-URL ein:"
+"Loading categories";"Lädt Kategorien"
+"We are sorry but no category has been detected on your Wordpress website.";"Es tut uns leid, aber jede Kategorie wurde auf Ihrem Wordpress-Website festgestellt."
+"We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated.";"Es tut uns leid, aber unser Wordpress Plugin wurde nicht auf Ihren Webseiten entdeckt. Bitte konntrollieren sie die Installation und Aktivierung."
+Wordpress;WordPress
