@@ -1,0 +1,82 @@
+#NÁZEV?;?media_translation?
+"%s by %s";"%s po %s"
+"+ Add a track";"+ Přidat skladbu"
+"Add albums and tracks to the playlist:";"Přidejte alba a skladby do seznamu skladeb:"
+Album;Album
+Albums;Alba
+Albums:;Alba:
+"An error occurred while deleting you images gallery. Please try again later.";"Při mazání galerie došlo k chybě. Zkuste to prosím později"
+"An error occurred while deleting your album. Thanks for trying later.";"Při mazání alba došlo k chybě. Zkuste to prosím později"
+"An error occurred while deleting your playlist. Thanks for trying later.";"Při mazání seznamu skladeb došlo k chybě. Zkuste to prosím později"
+"An error occurred while deleting your track. Thanks for trying later.";"Při mazání skladby došlo k chybě. Zkuste to prosím později"
+"An error occurred while loading pictures. Please try later.";"Při nahrávání obrázků došlo k chybě. Zkuste to prosím později"
+"An error occurred while loading videos. Please try later.";"Při nahrávání videí došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your images gallery. Please try again later.";"Při ukládání galerie došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your playlist. Thanks for trying later.";"Při ukládání seznamu skladeb došlo k chybě. Zkuste to prosím později"
+"An error occurred while saving your videos gallery. Please try again later.";"Při ukládání videí došlo k chybě. Zkuste to prosím později"
+"Are you sure you don't want to create an album for these tracks?";"Opravdu nechcete vytvořit album pro tyto skladby?"
+"Are you sure you don't want to create an album for this track?";"Opravdu nechcete vytvořit album pro tuto skladbu?"
+"Are you sure you want to delete this album (this won't delete tracks)?";"Opravdu chcete smazat toto album? (toto nesmaže skladby)"
+"Are you sure you want to delete this album?";"Opravdu chcete smazat toto album?"
+"Are you sure you want to delete this playlist?";"Opravdu chcete smazat tento seznam skladeb?"
+"Are you sure you want to delete this track?";"Opravdu chcete smazat tuto skladbu?"
+Artist;Skupina/Interpret
+Artist:;Skupina/Interpret:
+Audio;Hudba
+Channel;Kanál
+"Choose an album";"Vyberte album"
+Custom;Vlastní
+"Delete this gallery?";"Odstranit tuto galerii?"
+"Feed URL";"URL zdroje"
+"Feed URL <span class=""required-entry"">*</span> :";"URL zdroje <span class=""required-entry"">*</span> :"
+"Gallery Name";"Název galerie"
+"Gallery Name <span class=""required-entry"">*</span> :";"Název galerie <span class=""required-entry"">*</span> :"
+Group;Skupina
+"I'm listening to";Poslouchám
+"Images gallery has been saved successfully";"Galerie byla úspěšně uložena"
+Instagram;Instagram
+"Last update:";"Poslední aktualizace:"
+"Maximum size : 2000*2000 px - Allowed filetypes : jpg and png";"Maximální velikost: 2000 * 2000 px - povolené typy souborů: jpg a png"
+"My pictures";"Moje obrázky"
+"No album found";"Album nenalezeno"
+"No artist found";"Umělec nenalezen"
+"No track found";"Skladba nenalezena"
+PLAYER;PLAYER
+Parameter;Parametr
+"Parameter/Feed Url";"Parametr / URL zdroj"
+Picasa;Picasa
+Picture%s;Obrázek%s
+Playlist;"Seznam skladeb"
+"Playlist successfully saved.";"Seznam skladeb úspěšně uložen"
+"Playlist title:";"Název seznamu skladeb:"
+Playlists;"Seznam skladeb"
+Podcast;Podcast
+"Podcast URL (iTunes format)";"Podcast URL (ve formátu iTunes)"
+"Read all";"Číst vše"
+"Required field";"Povinné pole"
+Search/Url;"Vyhledávání / URL"
+"The entered name is not a valid Instagram user.";"Toto není platný uživatel Instagramu"
+"This element is not an album.";"Toto není album"
+Track;Skladba
+Tracks;Skladby
+Type;Typ
+"URL (.mp3):";"URL (.mp3) - odkaz na skladbu:"
+"Videos gallery has been saved successfully";"Video galerie byla úspěšně uložena"
+Vimeo;Vimeo
+buy;koupit
+close;zavřít
+empty;prázdný
+from;od
+hide;skrýt
+loop;smyčka
+music;hudba
+next;další
+on;na
+pause;pauza
+play;spustit
+previous;předchozí
+share;sdílet
+shuffle;zamíchat
+track;skladba
+tracks;skladby
+"﻿%s by %s";"%s po %s"

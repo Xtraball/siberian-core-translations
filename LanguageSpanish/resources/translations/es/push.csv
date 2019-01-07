@@ -1,0 +1,26 @@
+Message;Mensaje
+"Creation date";"Fecha de creación"
+"Sending date";"Fecha del envío"
+Pending;"No enviado"
+Title:;Título:
+Message:;Mensaje:
+"I want to send it";"Quiero enviarle"
+"<a href=""%s"">Click here to provide the required information to send push notifications</a>";"<a href=""%s"">Haga clic aquí para proporcionar la información necesaria para enviar notificaciones push</a>"
+"Additionnal Information";"Información adicional"
+now;ahora
+"on a specific date";"en una fecha específica"
+"and users entering the area";"y a los usuarios entrando en la zona"
+"for a limited period";"por un período limitado"
+"Send to all my users";"Enviar a todos mis usuarios"
+"Send to a specific location";"Enviar a un lugar específico"
+"Enter a location:";"Inserta una ubicación:"
+"And a radius (in Km):";"Y un radio (en km):"
+"Push Notifications Settings";"Ajustes de Notificaciones Push"
+"Send you .pem certificate";"Enviar su certificado .pem "
+"You have already sent a certificate";"Usted ya ha enviado su certificado"
+"GCM Key";"Clave GCM"
+"Sender ID";"ID del remitente"
+"You don't have any push notifications";"No tiene ninguna Notificación Push"
+"Your message has been saved successfully and will be sent in a few minutes";"Su mensaje ha sido guardado correctamente y será enviado en unos minutos"
+"Your message has been saved successfully and will be sent at the entered date";"Su mensaje ha sido guardado correctamente y será enviado en la fecha introducida"
+"The duration limit must be higher than the sent date";"El límite de duración debe ser después la fecha de envío"

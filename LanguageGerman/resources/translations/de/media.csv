@@ -1,0 +1,89 @@
+"%s by %s";"%s von %s"
+"+ Add a track";"+ Hinzufügen eines Titels"
+"Add albums and tracks to the playlist:";"Alben und Tracks zur Wiedergabeliste hinzugefügt:"
+Album;Album
+Albums;Alben
+Albums:;Alben:
+"An error occurred while deleting you images gallery. Please try again later.";"Beim Speichern der Bilder-Galerie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+"An error occurred while deleting your album. Thanks for trying later.";"Fehler beim Löschen von deinem Album. Danke für den Versuch später."
+"An error occurred while deleting your playlist. Thanks for trying later.";"Fehler beim Löschen der Wiedergabeliste. Danke für den Versuch später."
+"An error occurred while deleting your track. Thanks for trying later.";"Fehler beim Löschen von deinem Track. Danke für den Versuch später."
+"An error occurred while loading pictures. Please try later.";"Beim Laden der Bilder ist ein Fehler aufgetreten. Bitte versuchen Sie es später."
+"An error occurred while loading videos. Please try later.";"Beim Laden des Videos ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving your images gallery. Please try again later.";"Beim Speichern der Bilder-Galerie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+"An error occurred while saving your playlist. Thanks for trying later.";"Fehler beim Speichern der Wiedergabeliste. Danke für den Versuch später."
+"An error occurred while saving your videos gallery. Please try again later.";"Beim speichern der Video-Galerie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"Are you sure you don't want to create an album for these tracks?";"Bist du sicher, dass Sie kein Album für diese Tracks erstellen will?"
+"Are you sure you don't want to create an album for this track?";"Bist du sicher, dass Sie nicht möchten, erstellen Sie ein Album für diesen Track?"
+"Are you sure you want to delete this album (this won't delete tracks)?";"Sind Sie sicher, dass Sie dieses Album löschen (Dies wird nicht Spuren löschen) möchten?"
+"Are you sure you want to delete this album?";"Bist du sicher, dass Sie dieses Album löschen möchten?"
+"Are you sure you want to delete this playlist?";"Bist du sicher, dass Sie diese Wiedergabeliste löschen möchten?"
+"Are you sure you want to delete this track?";"Bist du sicher, dass Sie diesen Track löschen möchten?"
+Artist;Künstler
+Artist:;Künstler:
+Audio;Audio
+Channel;Kanal
+"Choose an album";"Wählen Sie ein Album"
+Custom;Custom
+"Delete this gallery?";"Möchten Sie diese Galerie löschen ?"
+Description:;Beschreibung:
+"Feed URL";"Feed URL"
+"Feed URL <span class=""required-entry"">*</span> :";"Feed URL <span class=""required-entry"">*</span> :"
+"Gallery Name";Galeriename
+"Gallery Name <span class=""required-entry"">*</span> :";"Galeriename <span class=""required-entry""> * </span>:"
+Group;Gruppe
+"I'm listening to";"Ich höre"
+"Images gallery has been saved successfully";"Bilder-Galerie wurde erfolgreich gespeichert"
+Instagram;Instagram
+"Last update:";"Letztes Update:"
+"Maximum size : 2000*2000 px - Allowed filetypes : jpg and png";"Maximale Größe: 2000 * 2000 Pixel - erlaubte Dateitypen: jpg und png"
+"More pictures";"Weitere Bilder"
+"More videos";"mehr Videos"
+"My pictures";"Meine Bilder"
+"No album found";"Kein Album gefunden"
+"No artist found";"Kein Künstler gefunden"
+"No pictures matching your selection";"Keine Bilder, in Ihrer Auswahl"
+"No track found";"Keine Spur gefunden"
+"No videos matching your selection";"Keine Videos gefunden, die Ihrer Auswahl entspricht"
+PLAYER;PLAYER
+Parameter;Parameter
+"Parameter/Feed Url";"Parameter /-Feed URL "
+Picasa;Picasa
+Picture%s;"Bild %s"
+Playlist;Playlist
+"Playlist successfully saved.";"Playlist erfolgreich gespeichert."
+"Playlist title:";"Playlist Titel:"
+Playlists;Wiedergabelisten
+Podcast;Podcast
+"Podcast URL (iTunes format)";"Podcast-URL (iTunes-Format)"
+"Read all";"Lesen Sie alle"
+"Required field";Pflichtfeld
+Search;Suche
+Search/Url;"Recherche / URL"
+"Send your pictures";"Senden Sie Ihre Fotos"
+"The entered name is not a valid Instagram user.";"Der eingegebene Name ist kein gültiger Benutzer Instagram."
+"This element is not an album.";"Dieses Element ist kein Album."
+Title:;Titel:
+Track;Track
+Tracks;Spuren
+Type;Typ
+"URL (.mp3):";"URL (. MP3):"
+User;Benutzer
+"Videos gallery has been saved successfully";"Die Video-Galerie wurde erfolgreich gespeichert"
+Vimeo;Vimeo
+buy;kaufen
+close;Schließen
+empty;leer
+from;Von
+hide;Ausblenden
+loop;Schleife
+music;Musik
+next;Nächste
+on;auf
+pause;Anhalten
+play;spielen
+previous;vorherige
+share;Freigeben
+shuffle;shuffle
+track;Track
+tracks;Spuren

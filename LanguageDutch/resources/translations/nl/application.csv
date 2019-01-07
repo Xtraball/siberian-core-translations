@@ -1,0 +1,184 @@
+1. Download the app previewer:;1. Download de app  previewer:
+2. Open the app and login;2. Open de App en log-in
+<b>File type:</b> %s;<b>Bestands- type:</b> %s
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Klik hier</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>om een item toe te voegen.</span>"
+Activated;Geactiveerd
+Add a new icon;Voeg een nieuw icoon toe
+Add pages;Voeg pagina's toe
+An error occured while copying your app icon. Please check the icon, try to send it again and try again.;Er is een fout opgetreden bij het kopiëren van uw app icoon. Chek de icoon, probeer hem opnieuw te verzenden.
+An error occurred during the generation of your QRCode. Please try again later.;Er is een fout opgetreden tijdens het genereren van uw QRCode. Probeer het later opnieuw.
+An error occurred while adding the option;Er is een fout opgetreden bij het toevoegen van de optie
+An error occurred while changing your layout.;Er is een fout opgetreden bij het lay-out veranderen.
+An error occurred while deleting the option;Er is een fout opgetreden bij het verwijderen van de optie
+An error occurred while deleting your picture;Er is een fout opgetreden bij het verwijderen van de afbeelding
+An error occurred while editing file (%s).;Er is een fout opgetreden bij het bewerken van het bestand
+An error occurred while loading;Er is een fout opgetreden tijdens het laden
+An error occurred while saving the application. Please try again later.;Er is een fout opgetreden tijdens het opslaan van de App. Probeer het later opnieuw.
+An error occurred while saving your colors.;Er is een fout opgetreden tijdens het opslaan van de kleuren.
+An error occurred while saving your page name.;Er is een fout opgetreden bij het opslaan van de pagina naam.
+An error occurred while saving. The selected icon is not valid.;Er is een fout opgetreden tijdens het opslaan. Het geselecteerde pictogram is niet geldig.
+An error occurred while sorting your pages. Please try again later.;Er is een fout opgetreden bij het sorteren van uw pagina's. Probeer het later opnieuw.
+Analytics;Statistieken
+Android APK Generation;
+Android Version;Android versie
+App Store Icon;App store icoon
+Apple's Information;Apple's Informatie
+Application name;App naam
+Are you sure you want to remove this application?;Weet u zeker dat u deze App (applicatie) wilt verwijderen?
+At least 200 characters in the description;Ten minste 200 tekens in de beschrijving
+At least, 4 pages in the application;Ten minste 4 pagina's in de App
+Average by customer;Gemiddelde per klant
+Bundle Id;Bundel Id
+Buy one, get one!;Koop er een krijg er een
+Certificate;Certificaat
+Change your;Wijzig uw
+Change your template;Wijzig uw template
+Change your<br /><span>picture</span>;Wijzig uw <br /> <span> afbeelding </ span>
+Checking CNAME configuration:;Controle CNAME configuratie:
+Choose your design;Kies uw ontwerp
+"Choose a <br /><span class=""bold"">picture</span>";"Kies een <br /><span class=""bold"">afbeeldingen</span>"
+Choose a country;Kies een land
+Choose a font family;Kies een lettertype
+Choose your colors;Kies uw kleuren
+Choose your country;Kies uw land
+Choose your font style;Kies uw lettertype stijl
+Choose your homepage image;Kies de afbeelding voor uw homepagina
+Choose your icons color;Kies uw pictogrammen kleur
+Choose your layout;Kies uw lay-out
+Choose your template;Kies uw template
+Click here to download the source code:;Klik hier om de broncode te downloaden:
+Click here to send your certificate;Klik hier om uw certificaat te uploaden
+Colors;Kleuren
+Dashboard icon;Dashboard icoon
+Deactivated;Gedeactiveerd
+Delete this page?;Deze pagina verwijderen?
+Design;Design
+Developer Accounts;Ontwikkelaar Accounts
+Device Information;Device Informatie
+Discount zone description. Here your clients will be able to see the details of each discount;Beschrijving korting. Hier kunnen uw klanten de details van elke korting zien
+Domain;Domeinnaam
+Domain name;Domeinnaam
+Download;Download
+Download our app previewer;Download onze App previewer
+Drop your certificate here;Laat je certificaat hier vallen
+Edit my;Bewerk mijn
+"Edit the application ""%s""";"Bewerk de applicatie ""%s"""
+Editor;Editor
+Extension not allowed, '%s' only;Extensie niet toegestaan, '%s' alleen.
+Features;Functies
+Fred W.;Dirk B.
+General Information;Algemene informatie
+General information;Algemene informatie
+Global visits;Globale bezoeken
+Google Play Icon;Google Play Icoon
+Google's Information;Google informatie
+Here is our latest creation. What do you think?;Hier is onze nieuwste creatie. Wat vind je er van?
+Homepage preview;Homepagina voorvertoning
+I don't have a Google developer account and I want to create one;Ik heb geen Google-developer-account maar ik wil er een te maken
+I don't have an Apple developer account and I want to create one;Ik heb geen Apple developer account maar ik wil er een te maken
+I have an Apple developer account;Ik heb een Apple-developer account
+I have an Google developer account;Ik heb een Google-developer account
+I let you publish my application under your Apple developer account;Ik laat jullie mijn App publiceren op jullie Apple developer account
+I let you publish my application under your Google developer account;Ik laat jullie mijn App publiceren op jullie Google developer account
+Icons;Iconen
+Id;Id
+If you validate, your app's colors and background image will be replaced;Als je bevestigt, worden uw App kleuren en achtergrond afbeelding vervangen
+Installed application;Geïnstalleerde toepassing
+Key Password;Key Password
+Keywords;Trefwoorden
+Last name:;Achternaam:
+Library icons;bibliotheek pictogrammen
+List of my applications;Lijst van mijn App's
+List of your applications;Lijst van uw App's
+Loading;Laden
+Lock the entire application;Vergrendel de gehele App
+Love it <3;"Love it ;)"
+Main;Hoofd
+Manage icons;Beheer iconen
+Media;Media
+Missing Information;Ontbrekende informatie
+Mobile Source Codes;Mobiele Source Codes
+Mobile source codes;Mobiele Source Codes
+Mobile website information;Mobiele website informatie
+My QRCode;Mijn QRCode
+My application in figures;Mijn App's in cijfers
+One free coffee;Een gratis koffie
+"Or go on your store<br />and look for ""Apps Company Previewer""";"Of ga naar uw winkel <br /> en zoek naar ""Apps Company Previewer"""
+Page name:;Pagina naam:
+Percentage of returning customers;Percentage terugkerende klanten
+Please enter a correct URL for the %s store;Vul een juiste URL voor de %s winkel
+Please enter a subdomain.;Vul een subdomein in.
+Please enter a valid URL;Vul een geldige URL in
+Please enter a valid address;Vul een geldig adres in
+Please enter a valid mobile website address.;Vul een geldig mobiele website-adres in.
+Preview;Voorbeeld
+Promote;Promoot
+Publication;Publicatie
+Publish the application;Publiceer de App
+Publish under our account;Publiceer op onze rekening
+Ready ? Publish my app!;Klaar? Publiceer mijn App!
+Recommanded size:;Aanbevolen grootte:
+Remove this page from this folder?;Verwijder pagina uit deze map?
+Scan this QR Code;Scan deze QR Code
+Scan this QR Code:;Scan deze QR Code:
+Secondary category;Secundaire categorie
+Secondary category<br />(Optional);Secundaire categorie <br/> (optioneel)
+Send here your iOS certificate to enable the push notifications for this application.;Plaats hier uw iOS-certificaat, om de push-notificaties voor deze App in te schakelen.
+Send you .pem certificate;Stuur je .pem certificaat
+Show the applications waiting for publication only.;Toon alleen App's die wachten op publicatie.
+Startup image;Opstart afbeelding
+Status;Status
+Store Password;Wachtwoord winkel
+Store URL;Winkel URL
+Stores Info;Winkel Info
+To be able to download source codes, please provide the following information:<br />;Voor het downloaden broncodes, de volgende informatie te verstrekken:<br/>
+The application's name cannot start with a number;De naam van de App kan niet beginnen met een getal
+The Bundle Id is required;De Bundle Id is verplicht
+The QR Code is not available at this moment;De QR code is niet beschikbaar op dit moment
+The application has been successfully saved;De App is met succes opgeslagen
+The application name;De naam van de App
+The description;De beschrijving van de App
+The description must be at least 200 characters;De beschrijving van de App moet minstens 200 tekens bevatten
+The desktop icon;Bureaublad icoon
+The entered bundle id is incorrect, it should be like: com.siberiancms.app;De ingevoerde bundel ID onjuist, het zou hier op moeten lijken: com.dbpromotie.app
+The field is required;Dit veld is verplicht
+The file has been successfully uploaded;Het bestand is geüpload
+The following information are needed to download the source codes:<br />;De volgende gegevens zijn nodig om de broncodes downloaden: <br/>
+The homepage image;De thuis(home)pagina afbeelding
+The key cannot be empty.;De sleutel kan niet leeg zijn.
+The key is already used by another application.;De sleutel wordt al gebruikt door een andere toepassing.
+The keywords;Te trefwoorden
+The main category;De hoofd categorie
+The startup image;Opstart afbeelding
+This application does not exist;Deze App bestaat niet
+This application is visible on the front;Deze App is zichtbaar aan de voorkant
+This option enables you to set the currency used in your app;Met deze optie kunt u de valuta die wordt gebruikt in uw app instellen
+This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login.;Deze pagina zal worden getoond aan de mobiele gebruikers om in te loggen. Hij wordt automatisch toegevoegd wanneer u functies activeert voor gebruiker die moeten inloggen
+URL;URL
+URL Key;URL Sleutel
+Use into all of your application's pages;Gebruik in alle pagina's van uw App
+Used points;Gebruikte punten
+User Information;Informatie voor de gebruiker
+Version;Versie
+You already have sent a certificate.;Je hebt al een certificaat verstuurd.
+"You can download your QRCode by <a class=""f-bold"" href=""%s"">clicking here</a>";U kunt uw QRCode downloaden door
+You don't have any applications yet;U heeft nog geen App's
+You have already sent a certificate;Je hebt al een certificaat verstuurd.
+You have sent a certificate.;Je hebt een certificaat verstuurd.
+You haven't chosen any template yet;U heeft nog geen template gekozen
+You may not delete a library icon;Je mag geen bibliotheek pictogram verwijderen
+You must have published your application to access this feature;U moet uw app gepubliceerd zijn, om deze functie te bekijken
+Your CNAME is properly set;Uw CNAME is is niet goed ingesteld
+Your best customers;Uw beste klanten
+Your customers in figures;Uw klanten in cijfers
+Your mobile address should not contain special characters;Uw mobiele-adres mag geen speciale tekens bevatten
+Your pages;Uw pagina's
+iOS Certificate;iOS Certificaat
+iPad Retina:;iPad Retina :
+iPhone 5 / 5S:;iPhone 5 / 5S :
+iPhone 6 Plus:;iPhone 6 Plus :
+iPhone 6:;IPhone 6 :
+iPhone Version;Version iPhone
+icon;icoon
+logo;logo
+times;tijden

@@ -1,0 +1,185 @@
+1. Download the app previewer:;1. Download do app previewer:
+2. Open the app and login;2. Open the app and login
+<b>File type:</b> %s;<b>Tipo de Arquivo:</b> %s
+"<span>Click on</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to add an item.</span>";"<span>Clicar em</span><button class=""add"" type=""button""><i class=""icon-plus""></i></button> <span>to adicionar um item</span>"
+Activated;Ativado
+Add a new icon;Adicionar um novo ícone
+Add pages;Adicionar páginas
+Additional options;Opções Adicionais
+An error occured while copying your app icon. Please check the icon, try to send it again and try again.;Ocorreu um erro ao copiar o ícone do app. Por favor, verifique o ícone, tente enviá-lo novamente.
+An error occurred during the generation of your QRCode. Please try again later.;Ocorreu um erro durante a geração do seu QRCode. Por favor, tente novamente mais tarde.
+An error occurred while adding the option;Ocorreu um erro ao adicionar a opção
+An error occurred while changing your layout.;Ocorreu um erro ao mudar seu layout.
+An error occurred while deleting the option;Ocorreu um erro ao excluir a opção
+An error occurred while deleting your picture;Ocorreu um erro durante a exclusão de sua imagem
+An error occurred while editing file (%s).;Ocorreu um erro durante a edição de arquivos (%s).
+An error occurred while loading;Ocorreu um erro durante o carregamento
+An error occurred while saving the application. Please try again later.;Ocorreu um erro ao salvar o aplicativo. Por favor, tente novamente mais tarde.
+An error occurred while saving your colors.;Ocorreu um erro ao salvar suas cores.
+An error occurred while saving your page name.;Ocorreu um erro ao salvar o nome da página.
+An error occurred while saving. The selected icon is not valid.;Ocorreu um erro ao salvar. O ícone selecionado não é válido.
+An error occurred while sorting your pages. Please try again later.;Ocorreu um erro ao classificar suas páginas. Por favor, tente novamente mais tarde.
+Analytics;Analytics
+Android APK Generation;Geração Android APK
+Android Version;Versão Android
+App Store Icon;Ícone App Store
+Apple's Information;Informação Apple's
+Application name;Nome Aplicação
+Are you sure you want to remove this application?;Tem certeza de que deseja remover este aplicativo?
+At least 200 characters in the description;Use pelo menos 200 caracteres na descrição
+At least, 4 pages in the application;Use pelo menos quatro páginas do aplicativo
+Average by customer;Média por consumidor
+Bundle Id;Bundle Id
+Buy one, get one!;Compre um, leve dois!
+Certificate;Certificado
+Change your;Mude o seu
+Change your template;Mude o seu template
+Change your<br /><span>picture</span>;Mude sua<br /><span>imagem</span>
+Checking CNAME configuration:;Verificar configuração CNAME:
+Choose your design;Escolha seu design
+"Choose a <br /><span class=""bold"">picture</span>";"Escolha uma <br /><span class=""bold"">imagem</span>"
+Choose a country;Escolha um país
+Choose a font family;Escolha uma família de fontes
+Choose your colors;Escolha suas cores
+Choose your country;Escolha seu país
+Choose your font style;Escolha seu estilo de fonte
+Choose your homepage image;Escolha sua imagem de homepage
+Choose your icons color;Escolha a cor dos seus ícones
+Choose your layout;Escolha seu layoute
+Choose your template;Escolha seu template
+Click here to download the source code:;Clique aqui para baixar o código-fonte:
+Click here to send your certificate;Clique aqui para enviar o seu certificado
+Colors;Cores
+Dashboard icon;Ícone Painel de Controle
+Deactivated;Desativado
+Delete this page?;Deletar esta página?
+Design;Design
+Developer Accounts;Contas de desenvolvedores
+Device Information;Informações sobre dispositivo
+Discount zone description. Here your clients will be able to see the details of each discount;Descrição zona de desconto. Aqui seus clientes serão capazes de ver os detalhes de cada desconto
+Domain;Domínio
+Domain name;Nome Domínio
+Download;Download
+Download our app previewer;Baixe nosso visualizador app
+Drop your certificate here;Coloque seu certificado aqui
+Edit my;Editar minha
+"Edit the application ""%s""";"Edite o aplicativo ""%s"""
+Editor;Editor
+Extension not allowed, '%s' only;Extensão não permitida, '%s' only
+Features;Recursos
+Fred W.;Fred W.
+General Information;Informações Gerais
+General information;Informações Gerais
+Global visits;Visitas Globais
+Google Play Icon;Ícone Google Play
+Google's Information;Informações Google's
+Here is our latest creation. What do you think?;Aqui é a nossa mais recente criação. O que você acha?
+Homepage preview;Homepage pré-visualização
+I don't have a Google developer account and I want to create one;Eu não tenho uma conta de desenvolvedor do Google e eu quero criar uma
+I don't have an Apple developer account and I want to create one;Eu não tenho uma conta de desenvolvedor da Apple e eu quero criar uma
+I have an Apple developer account;Eu tenho uma conta de desenvolvedor da Apple
+I have an Google developer account;Eu tenho uma conta de desenvolvedor Google
+I let you publish my application under your Apple developer account;Eu deixo você publicar meu aplicativo em sua conta de desenvolvedor da Apple
+I let you publish my application under your Google developer account;Eu deixo você publicar o meu pedido em sua conta de desenvolvedor Google
+Icons;Ícones
+Id;Id
+If you validate, your app's colors and background image will be replaced;Se você validar, a imagem de fundo e as cores do seu aplicativo serão substituídas
+Installed application;Aplicativo Instalado
+Key Password;Senha Chave
+Keywords;Chaves
+Last name:;Sobrenome:
+Library icons;Biblioteca de Ícones
+List of my applications;Lista dos meus aplicativos
+List of your applications;Lista de seus aplicativos
+Loading;Carregamento
+Lock the entire application;Bloquear o aplicativo inteiro
+Love it <3;Adoro <3
+Main;Principal
+Manage icons;Gerenciar Ícones
+Media;Mídia
+Missing Information;Falta de informação
+Mobile Source Codes;Código-fonte Smartphone
+Mobile source codes;Código-fonte Smartphone
+Mobile website information;Informações do site móvel
+My QRCode;Meu QRCode
+My application in figures;Meu aplicativo em números
+One free coffee;Um café
+"Or go on your store<br />and look for ""Apps Company Previewer""";"Ou ir em sua loja<br />e procurar o ""Previewer app Company"""
+Page name:;Nome da página:
+Percentage of returning customers;Percentual de retorno de clientes
+Please enter a correct URL for the %s store;Digite uma URL correta para a %s loja
+Please enter a subdomain.;Por favor insira um subdomínio.
+Please enter a valid URL;Digite uma URL válida
+Please enter a valid address;Por favor insira um endereço válido
+Please enter a valid mobile website address.;Por favor insira um endereço de site para celular válido.
+Preview;Visualização
+Promote;Promover
+Publication;Publicação
+Publish the application;Publique o aplicativo
+Publish under our account;Publicar através de nossa conta
+Ready ? Publish my app!;Pronto? Publicar o meu app!
+Recommanded size:;Tamanho recomendado:
+Remove this page from this folder?;Remover esta página a partir desta pasta?
+Scan this QR Code;Leia este QR Code
+Scan this QR Code:;Leia este QR Code:
+Secondary category;Categoria Secundária
+Secondary category<br />(Optional);Categoria secundária<br />(Opcional)
+Send here your iOS certificate to enable the push notifications for this application.;Envie aqui o seu certificado iOS para permitir as notificações push para este aplicativo.
+Send you .pem certificate;Envie você o certificado .pem
+Show the applications waiting for publication only.;Mostrar os aplicativos que esperam apenas a publicação.
+Startup image;Imagem de Ínicio
+Status;Status
+Store Password;Senha Loja
+Store URL;URL Loja
+Stores Info;Info Loja
+To be able to download source codes, please provide the following information:<br />;Para ser capaz de baixar os códigos-fonte, por favor, forneça as seguintes informações:<br />
+The application's name cannot start with a number;O nome do aplicativo não pode começar com um número
+The Bundle Id is required;A Bundle Id é necessária
+The QR Code is not available at this moment;O QR Code não está disponível neste momento
+The application has been successfully saved;O aplicativo foi salvo com sucesso
+The application name;O nome do aplicativo
+The description;Descrição
+The description must be at least 200 characters;A descrição deve ser de pelo menos 200 caracteres
+The desktop icon;Ícone Área de Trabalho
+The entered bundle id is incorrect, it should be like: com.siberiancms.app;O bundle id introduzido é incorreto, ele deve ser como: com.citrinoapp.app
+The field is required;O campo é obrigatório
+The file has been successfully uploaded;O arquivo foi enviado com sucesso
+The following information are needed to download the source codes:<br />;As informações a seguir são necessárias para fazer o download dos códigos-fonte:<br />
+The homepage image;Imagem da Homepage
+The key cannot be empty.;A chave não pode estar vazia.
+The key is already used by another application.;A chave já está sendo usada por outro aplicativo.
+The keywords;As chaves
+The main category;A categoria principal
+The startup image;A Imagem de início
+This application does not exist;Este aplicativo não existe
+This application is visible on the front;Este aplicativo é visível na parte frontal
+This option enables you to set the currency used in your app;Esta opção permite que você defina a moeda usada em seu aplicativo
+This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login.;Esta página será exibida para usuários móveis permitindo identificar e gerir a sua conta. Acrescenta-se automaticamente quando você usar os recursos que necessitam de Login de usuário.
+URL;URL
+URL Key;Chave URL
+Use into all of your application's pages;Use em todas as páginas do seu aplicativo
+Used points;Pontos Utilizados
+User Information;Informações Usuário
+Version;Versão
+You already have sent a certificate.;Você já enviou um certificado.
+"You can download your QRCode by <a class=""f-bold"" href=""%s"">clicking here</a>";"Você pode fazer o download do QRCode por <a class=""f-bold"" href=""%s"">clicando aqui</a>"
+You don't have any applications yet;Você não tem nenhum aplicativo ainda
+You have already sent a certificate;Você já enviou um certificado
+You have sent a certificate.;Enviou um certificado.
+You haven't chosen any template yet;Você não escolheu nenhum template ainda
+You may not delete a library icon;Você não pode excluir um ícone da biblioteca
+You must have published your application to access this feature;Você deve publicar o seu aplicativo para acessar esta funcionalidade
+Your CNAME is properly set;Seu CNAME está configurado corretamente
+Your best customers;Seus melhores clientes
+Your customers in figures;Seus clientes em números
+Your mobile address should not contain special characters;O seu endereço móvel não deve conter caracteres especiais
+Your pages;Suas páginas
+iOS Certificate;iOS Certificado
+iPad Retina:;iPad Retina:
+iPhone 5 / 5S:;iPhone 5 / 5S:
+iPhone 6 Plus:;iPhone 6 Plus:
+iPhone 6:;iPhone 6:
+iPhone Version;Versão Iphone
+icon;ícone
+logo;logo
+times;vezes

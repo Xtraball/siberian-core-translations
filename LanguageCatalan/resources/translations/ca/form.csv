@@ -1,0 +1,31 @@
+"<strong>%s</strong> must be a numerical value<br />";"<strong>%s</strong> ha de ser un valor numèric < br / >"
+"<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />";"<strong>%s</strong> ha de ser una data vàlida (p. ex. dd/mm/aaaa) < br / >"
+"<strong>%s</strong> must be a valid date<br />";"<strong>%s</strong> ha de ser una data vàlida < br / >"
+"<strong>%s</strong> must be a valid email address<br />";"<strong>%s</strong> ha de ser una adreça electrònica vàlida < br / >"
+"<strong>%s</strong> must be filled<br />";"<strong>%s</strong> són obligatoris < br / >"
+"Add a field";"Afegeix un camp"
+"Add a section";"Afegeix una secció"
+"Add an option";"Afegir l'opció"
+"An error occurred while saving. A field can't be identified.";"S'ha produït un error mentre es desava. Un camp no es pot identificar."
+"Are you sure you want to remove this field?";"Esteu segur que voleu suprimir aquest camp?"
+"Are you sure you want to remove this section?";"Esteu segur que voleu suprimir aquesta secció?"
+Checkbox;"Casella de selecció"
+"Choose a field type:";"Trieu un tipus de camp:"
+"Create a new field";"Crear un nou camp"
+Date/Hour;Data/hora
+"Drop down";Desplegable
+"Edit field %s";"Editar camp %s"
+"Field name";"Nom del camp"
+"Field name:";"Nom del camp:"
+Geolocation;Geolocalització
+Hello,;Hola,
+"Manage fields";"Administra els camps"
+"Manage options:";"Administrar opcions:"
+"Multiline text";"Text múltiples línies"
+Option;Opció
+Radio;Ràdio
+"Recipient email:";"E-mail de receptor:"
+"The form has been sent successfully";"El formulari ha estat enviat correctament"
+"You have to choose a field type.";"Vostè ha de triar un tipus de camp."
+"Your app's form";"Forma del seu app"
+"Your form has been filled out, here are the answers:";"El formulari emplenat, aquí hi ha les respostes:"

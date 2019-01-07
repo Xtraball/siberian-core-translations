@@ -1,0 +1,14 @@
+"%s ago";"%s vor"
+"An error occurred while saving your RSS feed";"Bei RSS-Feed ist ein Fehler aufgetreten"
+"Display feed pictures whenever possible";"Display-Feed Bilder, wenn möglich"
+"Enter a name and an URL address for this RSS feed";"Geben Sie einen Namen und eine URL-Adresse für diese RSS-Feeds ein"
+"Enter the URL of this RSS feed";"Geben Sie diesen RSS-feed-URL"
+"Found feeds";"gefunde Feeds"
+"No RSS feed could be found";"Es konnte keine RSS Feed gefunden werden."
+"Please enter a title";"Geben Sie einen Titel ein."
+"RSS feed successfully saved";"RSS-Feed erfolgreich gespeichert"
+"Show article";"Artikel anzeigen"
+URL;URL
+day;Tag
+hour;Stunde
+minute;Minute

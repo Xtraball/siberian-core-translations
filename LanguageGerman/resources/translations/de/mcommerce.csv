@@ -1,0 +1,152 @@
+"%s - Customer Service";"%s - Kundendienst"
+20.00%;"20,00 %"
+"Add a picture";"Hinzufügen eines Bildes"
+"Add options";"Hinzufügen von Optionen"
+"Add to cart";Warenkorb
+"An error occurred while proceeding the payment. Please, try again later.";"Fehler beim Verfahren der Zahlung. Bitte, versuchen Sie es später erneut."
+"An error occurred while proceeding your order. Please, check the following information:";"Fehler beim Verfahren Ihrer Bestellung. Bitte überprüfen Sie die folgende Informationen:"
+"Are you sure you want to close without saving";"Sind Sie sicher, dass Sie ohne Speichern schließen möchten"
+"Are you sure you want to delete this category and all its subcategories?";"Bist du sicher, dass Sie diese Kategorie und ihre Unterkategorien löschen möchten?"
+"Are you sure you want to delete this store?";"Bist du sicher, dass Sie diesen Speicher löschen möchten?"
+"Are you sure you want to delete this tax?";"Bist du sicher, dass Sie diese Steuer löschen möchten?"
+"Are you sure you want to remove this product?";"Bist du sicher, dass Sie dieses Produkt entfernen möchten?"
+"At least one option is required:";"Mindestens eine Option ist erforderlich:"
+Cancelled;Abgesagt
+"Carry Out";Durchführen
+Cart;Warenkorb
+Cash;Bargeld
+Category;Kategorie
+"Category successfully saved.";"Kategorie erfolgreich gespeichert."
+Check;Überprüfen
+"Choose a delivery method:";"Wählen Sie eine Versandart:"
+"Choose a payment method:";"Wählen Sie eine Zahlungsmethode:"
+"Choose a store:";"Wählen Sie einen Shop:"
+Completed;Abgeschlossen
+"Connected Printers";"Angeschlossenen Drucker"
+"Continue shopping";"Weiter einkaufen"
+"Create a new options group";"Erstellen einer neuen Optionengruppe"
+"Create a new product";"Erstellen Sie ein neues Produkt"
+"Create a new tax";"Erstellen Sie eine neue Steuer"
+"Create a store";"Erstellen Sie einen Speicher"
+"Credit Card by phone";"Kreditkarte per Telefon"
+"Credit card (pay upon pickup or delivery)";"Kreditkarte (Bezahlung bei Abholung oder Lieferung)"
+Customer;Kunde
+"Customer Service";Kundendienst
+Delivery;Lieferung
+"Delivery Fees";Versandkosten
+"Delivery Method";Übermittlungsmethode
+"Delivery area";Liefergebiet
+"Delivery fees";Versandkosten
+"Delivery fees:";Versandkosten
+"Delivery methods";Liefermethoden
+"Delivery methods:";Liefermethoden
+"Delivery radius";"Lieferung radius"
+"Delivery radius:";"Lieferung radius"
+"Delivery time";Lieferzeit
+"Delivery time:";Lieferzeit
+Details;Informationen
+"Edit a store";"Bearbeiten Sie ein Geschäft"
+"Edit the options group %s";"Bearbeiten der Optionengruppe für %s"
+"Edit the product %s";"Bearbeiten Sie das Produkt %s"
+"Edit the tax %s";"Bearbeiten Sie die Steuer %s"
+"Free delivery starting from";"Kostenlose Lieferung ab"
+"Free delivery starting from:";"Kostenlose Lieferung ab:"
+"Here is the detail of the order";"Hier sind die Details der Bestellung"
+"Here is the detail of your order";"Hier sind die Details Ihrer Bestellung"
+"Hours of operation";Öffnungszeiten
+"Hours of operation:";Betriebsstunden:
+"In store";"Im Speicher"
+"Meal Voucher";"Essen Gutschein"
+"Minimum order";Mindestbestellmenge
+"Minimum order:";"Minimaler Auftrag:"
+"My Cart";"Mein Warenkorb"
+"My cart is empty";"Mein Warenkorb ist leer"
+"My categories";"Meine Kategorien"
+"My information";"Meine Informationen"
+"My orders";"Meine Bestellungen"
+"My product's categories";"Mein Produkt-Kategorien"
+"My product's options";"Mein Produkt-Optionen"
+"My products";"Meine Produkte"
+"My stores";"Meine Vorräte"
+"My taxes";"Meine Steuern"
+"Name of the options group:";"Name der Optionengruppe:"
+"New order from the application";"Neuer Auftrag von der Anwendung"
+Number;Anzahl
+"Option name";Optionsnamen
+"Option name:";"Name der Option:"
+"Options group successfully deleted";"Optionengruppe erfolgreich gelöscht"
+"Options group successfully saved";"Optionengruppe erfolgreich gespeichert"
+"Order Number";Bestell-Nr.
+"Order confirmation";Auftragsbestätigung
+"Order details";Bestelldetails
+"Order successfully saved";"Bestellung erfolgreich gespeichert"
+Orders;Bestellungen
+Paid;Bezahlt
+Password;Passwort
+Password:;Passwort
+Payment;Zahlung
+"Payment Method";Zahlungsmethode
+"Payment methods:";Zahlungsmethoden:
+Paypal;PayPal
+"Pending payment";"Ausstehende Zahlung"
+Picture;Bild
+"Please choose a delivery method";"Bitte wählen Sie eine Versandart"
+"Please choose a payment method";"Bitte wählen Sie eine Zahlungsmethode"
+"Please, enter an email address for the store %s";"Bitte geben Sie eine e-Mail-Adresse für den Store %s"
+Price;Preis
+"Price: %s";"Preis: %s"
+"Printer successfully saved";"Drucker erfolgreich gespeichert"
+Proceed;"Gehen Sie"
+Product;Produkt
+"Product name";Produktname
+"Product name:";Produktname
+"Product successfully saved";"Produkt erfolgreich gespeichert"
+Qty;Qty
+"Qty: %s";"Qty: %s"
+"Radius in Km";"RADIUS in Km"
+Review;Bewertung
+Settings;Einstellungen
+Signature;Signatur
+Signature:;Signatur
+Status;Status
+"Store information";Shop-Informationen
+"Store name";Shop-Namen
+"Store name:";Shop-Name:
+"Store successfully deleted";"Shop erfolgreich gelöscht"
+"Store successfully saved";"Shop erfolgreich gespeichert"
+Stores;Shops
+Subtotal;Zwischensumme
+Tax;Steuer
+"Tax name";Steuername
+"Tax name:";Steuername
+"Tax rate";Steuersatz
+"Tax rate:";Steuersatz
+"Tax successfully deleted";"Steuern erfolgreich gelöscht"
+"Tax successfully saved";"Steuern erfolgreich gespeichert"
+Tax:;Gebühr:
+"Thank you!";"Vielen Dank!"
+"The delivery method";"Die Übermittlungsmethode"
+"The following options are required:<br />%s";"Die folgenden Optionen sind erforderlich: < Br />%s"
+"The option %s is required";"Die Option %s ist erforderlich"
+"The payment has been cancelled, something wrong happened? Feel free to contact us";"Abgebrochen die Zahlung wurde, etwas passiert ist? Zögern Sie nicht uns zu kontaktieren"
+"The payment method";"Die Zahlungsmethode"
+"Time in minutes";"Zeit in Minuten"
+Total;Gesamt
+"Total Excl. Tax";"Total exkl. USt."
+"Total Tax";"Steuern gesamt"
+"Total: %s";"Gesamt: %s"
+"Unit Price";VK-Preis
+"Unit price";VK-Preis
+Username;Benutzername
+Username:;Benutzername
+"We apologize but the payment method %s is currently not available";"Tut uns leid aber die Zahlungsmethode %s ist derzeit nicht verfügbar"
+"We thank you for your order. A confirmation email has been sent";"Wir danken Ihnen für Ihre Bestellung. Eine Bestätigungs-Email wurde gesendet"
+"You don't have any categories yet";"Sie noch alle Kategorien nicht"
+"You have a connected printer? Enter the email address";"Haben Sie einen angeschlossenen Drucker? Geben Sie die e-Mail-Adresse"
+"You have a connected printer? Enter the email address for each store";"Haben Sie einen angeschlossenen Drucker? Geben Sie die e-Mail-Adresse für jedes Geschäft"
+"Your address";"Ihre Adresse"
+"Your email address";"Ihre e-Mail-Adresse"
+"Your firstname";"Ihr Vorname"
+"Your lastname";"Ihr Nachname"
+"Your phone number";"Ihre Telefonnummer"
+"e.g., Sauces";"z.B. Saucen"

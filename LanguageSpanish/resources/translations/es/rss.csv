@@ -1,0 +1,9 @@
+"Display feed pictures whenever possible";"RSS Mostrar imágenes siempre que sea posible"
+"Enter a name and an URL address for this RSS feed";"Escriba un nombre y la dirección URL del Feed RSS"
+URL;URL
+"Found feeds";"Lista de los Feeds encontrados"
+"%s ago";"Hay %s"
+"No RSS feed could be found";"No se encontró ningún Feed RSS "
+"Please enter a title";"Por favor introduzca un título"
+"An error occurred while saving your RSS feed";"Se ha producido un error al guardar su Feed RSS"
+"RSS feed successfully saved";"Feed RSS guardado correctamente"

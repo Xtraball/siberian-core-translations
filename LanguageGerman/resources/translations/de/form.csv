@@ -1,0 +1,38 @@
+"<strong>%s</strong> must be a numerical value<br />";"<strong>%s</strong> ist ein Zahlenwert <br />"
+"<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />";"<strong>%s</strong> muss ein gültiges Datum (z.B. tt/mm/jjjj) < Br / >"
+"<strong>%s</strong> must be a valid date<br />";"<strong>%s</strong> muss ein gültiges Datum sein <br />"
+"<strong>%s</strong> must be a valid email address<br />";"<strong>%s</strong> muss eine gültige E-Mail-Adresse sein <br />"
+"<strong>%s</strong> must be filled<br />";"<strong>%s</strong> <br /> müssen ausgefüllt werden"
+"Add a field";"Fügen Sie ein Feld hinzu"
+"Add a section";"Fügen Sie einen Abschnitt hinzu"
+"Add an option";"Hinzufügen einer Option"
+"An error occurred while retrieving the user location";"Beim Abrufen des Benutzer-Standorts ist ein Fehler aufgetreten"
+"An error occurred while retrieving your location";"Beim Abrufen Ihrer Position ist ein Fehler aufgetreten"
+"An error occurred while saving. A field can't be identified.";"Beim Speichern ist ein Fehler aufgetreten. Ein Feld kann nicht identifiziert werden."
+"An error occurred while sending the form. Please, try again later.";"Beim Versenden des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+"Are you sure you want to remove this field?";"Sind Sie sicher, dass Sie dieses Feld entfernen möchten?"
+"Are you sure you want to remove this section?";"Sind Sie sicher, dass Sie diesen Abschnitt entfernen möchten?"
+Checkbox;Checkbox
+"Choose a field type:";"Wählen Sie einen Feldtyp:"
+"Create a new field";"Erstellen Sie ein neues Feld"
+Date/Hour;"Datum / Uhrzeit"
+"Drop down";"Drop down"
+"Edit field %s";"Edit-Feld %s"
+"Field name";"Field name"
+"Field name:";Feldname:
+Geolocation;Geolocation
+Hello,;Hallo
+"Manage fields";"Felder verwalten"
+"Manage options:";"Optionen verwalten:"
+"Multiline text";"mehrzeiliger Text"
+Number;Anzahl
+Option;Option
+Radio;Radio
+"Recipient email:";"Empfänger E-Mail:"
+"The form has been sent successfully";"Das Formular wurde erfolgreich gesendet"
+"This field is required";"Dieses Feld ist erforderlich"
+"We thank you for having filled out our form.";"Wir danken Ihnen, dass Sie unser Formular ausgefüllt haben."
+"You have refused to share your location";"Sie haben sich geweigert, Ihren Standort zu teilen"
+"You have to choose a field type.";"Sie müssen einen Feldtyp wählen."
+"Your app's form";"Ihre App Form"
+"Your form has been filled out, here are the answers:";"Ihr Formular ausgefüllt hat, hier sind die Antworten:"

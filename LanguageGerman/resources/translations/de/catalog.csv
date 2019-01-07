@@ -1,0 +1,39 @@
+"%s - All";"%s - alle"
+"<span id=""price_from_%s"">From:<br /></span><span id=""current_price_%s"">%s</span>";"<span id=""price_from_%s"">From:<br /></span><span id=""current_price_%s"">%s</span>"
+"Add a";hinzufügen
+"Add a category";"Fügen Sie eine Kategorie hinzu"
+"Add a format";"Wählen Sie ein Format"
+"Add to cart";"Zum Warenkorb hinzufügen."
+All;alle
+"An error occurred while loading your product.";"Beim Laden Ihres Produktes ist ein Fehler aufgetreten."
+"An error occurred while saving the category. Please try again later.";"Beim Speichern der Kategorie ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving the product. Please try again later.";"Beim Speichern des Produkts ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving the set meal. Please try again later.";"Beim Speichern des Menüs ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+"An error occurred while saving. One of your categories could not be identified.";"Beim Speichern ist ein Fehler aufgetreten. Eine Ihrer Kategorien konnte nicht identifiziert werden."
+"An error occurred while saving. One of your products could not be identified.";"Beim Speichern ist ein Fehler aufgetreten. Eines Ihrer Produkte konnte nicht identifiziert werden."
+"Are you sure you want to delete this product?";"Bist du sicher, dass Sie dieses Produkt löschen möchten?"
+Category;Kategorie
+"Choose a category";"Wählen Sie eine Kategorie"
+"Choose a subcategory";"Wählen Sie eine Unterkategorie"
+"Click on a category to display sub-categories";"Klicken Sie auf eine Kategorie um zu den Unterkategorien zu gelangen."
+"Create a new product";"Erstellen Sie ein neues Produkt"
+"Does this product have many formats?";"Hat dieses Produkt viele Formate?"
+"Edit the";"bearbeiten Sie die"
+"Edit the product";"Produkt bearbeiten"
+Format;Format
+"Main category";Hauptkategorie
+More;mehr
+Picture;Bild
+Price;Preis
+Product;Produkt
+"Product formats";Produktformate
+"Product name";Produktname
+Qty;Qty
+Rules;Regeln
+"Set meal successfully deleted.";"Menü erfolgreich gelöscht ."
+"Set meal successfully saved.";"Menü erfolgreich gespeichert ."
+Sub-category;Unterkategorie
+en;de
+nd;er
+st;er
+sub-category;Unterkategorie

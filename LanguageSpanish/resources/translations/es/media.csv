@@ -1,0 +1,28 @@
+Parameter;Parámetros
+"Send your pictures";"Envíe sus imágenes"
+User;Usuario
+"Gallery Name";"Nombre de la galería"
+"Choose an album";"Elija un album"
+"Maximum size : 2000*2000 px - Allowed filetypes : jpg and png";"Tamaño máximo: 2000 * 2000 píxeles - tipos de archivo permitidos : jpg y png"
+Description:;"Descripción :"
+"Required field";"Este campos es obligatorio"
+"Delete this gallery?";"¿Desea eliminar esta galería?"
+Title:;Título:
+Search;Buscar
+"Gallery Name <span class=""required-entry"">*</span> :";"Nombre de la galería <span class=""required-entry"">*</span> :"
+"Feed URL";"URL de su Feed RSS"
+"Feed URL <span class=""required-entry"">*</span> :";"URL de su Feed RSS <span class=""required-entry"">*</span> :"
+"Parameter/Feed Url";"Parametro/Url de su Feed RSS"
+Search/Url;Buscar/Url
+"More pictures";"Más imágenes"
+"No pictures matching your selection";"No hay imágenes que coincidan con su selección"
+"An error occurred while loading pictures. Please try later.";"Se ha producido un error al cargar imágenes. Por favor inténtelo de nuevo más tarde"
+"More videos";"Más vídeos"
+"No videos matching your selection";"No hay vídeos que coincidan con su selección"
+"An error occurred while loading videos. Please try later.";"Se ha producido un error al cargar los vídeos. Por favor inténtelo de nuevo más tarde"
+"The entered name is not a valid Instagram user.";"El nombre ingresado no es un usuario de Instagram válido."
+"An error occurred while saving your images gallery. Please try again later.";"Se ha producido un error al guardar su galería de imágenes. Por favor inténtelo de nuevo más tarde "
+"Images gallery has been saved successfully";"Su galería de imágenes ha sido guardada correctamente"
+"An error occurred while deleting you images gallery. Please try again later.";"Se ha producido un error al eliminar su galería de imágenes. Por favor inténtelo de nuevo más tarde "
+"An error occurred while saving your videos gallery. Please try again later.";"Se ha producido un error al guardar su galería de vídeos . Por favor inténtelo de nuevo más tarde"
+"Videos gallery has been saved successfully";"Su galería de vídeos ha sido guardada correctamente"

@@ -1,0 +1,31 @@
+<strong>%s</strong> must be a numerical value<br />;<strong>%s</strong> deve ser um valor numérico<br />
+<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />;<strong>%s</strong> deve ser uma data válida (e.g. dd/mm/yyyy)<br />
+<strong>%s</strong> must be a valid date<br />;<strong>%s</strong> deve ser uma data válida<br />
+<strong>%s</strong> must be a valid email address<br />;<strong>%s</strong> deve ser um endereço de email válido<br />
+<strong>%s</strong> must be filled<br />;<strong>%s</strong>deve ser preenchido<br />
+Add a field;Adicionar um campo
+Add a section;Adicionar uma seção
+Add an option;Adicionar uma opção
+An error occurred while saving. A field can't be identified.;Ocorreu um erro ao salvar. Um campo não pode ser identificado.
+Are you sure you want to remove this field?;Tem certeza de que deseja remover este campo?
+Are you sure you want to remove this section?;Tem certeza de que deseja remover esta seção?
+Hello,;Olá,
+Checkbox;Checkbox
+Choose a field type:;Escolha um tipo de campo:
+Create a new field;Criar um novo campo
+Date/Hour;Data/Hora
+Drop down;Drop down
+Edit field %s;Editar campo %s
+Field name;Nome do campo
+Field name:;Nome do campo:
+Geolocation;Geolocalização
+Manage fields;Gerenciar campos
+Manage options:;Gerenciar opções:
+Multiline text;Texto de múltiplas linhas
+Option;Opção
+Radio;Radio
+Recipient email:;Destinatário e-mail:
+The form has been sent successfully;O formulário foi enviada com sucesso!
+You have to choose a field type.;Você tem que escolher um tipo de campo.
+Your app's form;Formulário de seu aplicativo
+Your form has been filled out, here are the answers:;Seu formulário foi preenchido, aqui estão as respostas:

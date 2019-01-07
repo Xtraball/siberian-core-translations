@@ -1,0 +1,45 @@
+"%s - Account creation";"%s - Création de compte"
+"%s - Your new password";"%s - Votre nouveau mot de passe"
+"%s – Account creation";"%s - Création du compte"
+"%s – Your new password";"%s - Votre nouveau mot de passe"
+"A request to reset your password has been made.";"Une requête pour "
+"An error occurred while connecting to your Facebook account. Please try again later";"Une erreur est survenue lors de la tentative de connexion avec votre compte Facebook. Merci de réessayer ultérieurement."
+"Are you sure you want to remove this user?";"Êtes-vous sûr de vouloir supprimer cet utilisateur?"
+"Change Password";"Changer le mot de passe"
+Congratulations,;Félicitations,
+Create;Créer
+"Create a new user";"Créez un nouvel utilisateur"
+"Create an account";"Créez un compte"
+Customer;Client
+Customers;Clients
+Disconnect;Déconnexion
+"Edit the user %s";"Modifier l'utilisateur %s"
+"First name";Prénom
+"Forgot your password?";"Mot de passe oublié ?"
+Gender;Civilité
+"Here are your credentials:";"Voici vos identifiants"
+"I accept the <u>privacy policy</u>";"J'accepte les <u>privacy policy</u>"
+"If you encounter any problems, do not hesitate to contact us:";"Si vous rencontrez un problème, n'hésitez pas à nous contacter :"
+"Last name";"nom de famille"
+Login:;"Login :"
+Miss;Mlle
+Mr;M
+Mrs;Mme
+"My Account";"Mon compte"
+"My application's users";"Les utilisateurs de mon application"
+"Old Password";"Ancien mot de passe"
+"Or with your account";"Ou avec votre compte"
+"Please enter your email address. We'll send you your password right now.";"Veuillez indiquer l'adresse email. Nous vous envoyons dans l'instant un nouveau mot de passe."
+"Please log in with your mobile phone";"Veuillez utiliser votre mobile pour vous connecter"
+"Privacy Policy";"Privacy Policy"
+"See you soon,";bientôt,
+"Show me in ranking";"Apparaître dans le classement"
+"The old email address does not match the entered email address.";"Votre adresse email ne correspond pas à l'adresse email saisie dans la confirmation."
+"This user can access the pages locked by the ""Locker"" feature";"Cet utilisateur peut accéder aux pages verrouillées par la fonction ""Locker"""
+"This user is visible in ranking";"Cet utilisateur est visible dans le classement"
+User;utilisateur
+"User Information";"Informations utilisateur"
+Users;utilisateurs
+"We are sorry but the %s account is already linked to one of our customers";"Nous sommes désolés mais ce compte %s est déjà lié à un de nos clients"
+"You have created your account. With this account, you will be able to enjoy great offers available in our application.";"Vous avez créé votre compte. Avec ce compte, vous serez en mesure de profiter des meilleurs offres disponibles dans notre application."
+"Your account has been successfully saved";"Votre compte a été sauvegardé avec succès"

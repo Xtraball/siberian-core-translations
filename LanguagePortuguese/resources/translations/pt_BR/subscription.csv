@@ -1,0 +1,57 @@
+%s Subscription for %s;%s Assinatura para %s
+"<a href=""%s"">Click here</a> to go back to your applications list";"<a href=""%s"">Clique aqui</a> para voltar à sua lista de pedidos"
+Active;Ativo
+An error occurred while processing your order. Please, try again later.;Ocorreu um erro ao processar seu pedido. Por favor, tente novamente mais tarde.
+An error occurred while saving. Please try again later;Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde
+An error occurred while saving. The selected subscription is not valid.;Ocorreu um erro ao salvar. A assinatura selecionada não é válida.
+Are you sure you want to delete this plan?;Tem certeza de que deseja excluir este plano?
+Billing Address;Endereço de cobrança
+"By checking this box, you agree <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">to our terms and conditions</a>";"Ao marcar esta caixa, você concorda <a id=""show_tos"" href=""javascript:void(0);"" target=""_blank"" class=""underline"">com os nossos termos e condições</a>"
+Charged to your client every month;Cobrados do seu cliente a cada mês
+Charged to your client every year;Cobrados do seu cliente a cada ano
+Charged to your client when placing the order;Cobrados do seu cliente no momento do pedido
+Choose the subscription that suits you best:;Escolha a assinatura que melhor lhe convier:
+Create a new subscription;Criar uma nova assinatura
+Creation;Criação
+Describe here this plan. Will be displayed on the front end;Descrição do Plano. Será exibido no Front End
+Each price must be entered excluding tax;Cada preço deve ser digitado excluindo impostos
+Edit the subscription %s;Editar a assinatura %s
+Expiration;Expiração
+Expiration date;Data de Expiração
+Give a name to this plan. Will be displayed on the front end;Dê um nome para este plano. Será exibido no Front End
+List of your plans;Lista de planos
+List of your subscriptions;Lista de Assinaturas
+None;Nenhum
+One-off;One-off
+Order's details;Detalhes Pedido's
+Payment;Pagamento
+Payment Option;Opções de Pagamento
+"Payment secured by <img src=""%s"" width=""100"" title=""Paypal"" />";"Pagamento protegido por <img src=""%s"" width=""100"" title=""Paypal"" />"
+Please, enter a company;Por favor, insira uma empresa
+Please, enter a country;Por favor, insira um país
+Please, enter a description.;Por favor, insira uma descrição.
+Please, enter a name.;Por favor, insira um nome.
+Please, enter an address;Por favor, insira um endereço
+Pricing;Preço
+Proceed to payment?;Continuar Pagamento?
+Recurring;Recorrente
+Setup Fee;Taxa de Instalação
+Setup fee;Taxa de Instalação
+Subscription;Assinatura
+Subscription successfully saved;Assinatura salva com sucesso
+Subtotal;Subtotal
+Thanks!;Obrigado!
+The monthly price is not a valid price (e.g. 12.34);O preço mensal não é um preço válido (ex: 12.34)
+The setup fee is not a valid price (e.g. 12.34);The setup fee is not a valid price (e.g. 12.34)
+The yearly price is not a valid price (e.g. 12.34);O preço anual não é um preço válido (ex: 12.34)
+This subscription is active;Esta assinatura é ativa
+An error occurred while processing the payment. For more information, please feel free to contact us.;Ocorreu um erro ao processar o pagamento. Para mais informações, não hesite em contatar-nos.
+VAT Number;VAT Número
+You already have a subscription for this application;Você já tem uma assinatura para este aplicativo
+You don't have any subscriptions yet;Você não tem nenhuma assinatura ainda
+You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play.;Você está quase pronto! Após a assinatura, vamos publicar seu aplicativo tanto na AppStore e no Google Play.
+Your VAT Number is not valid;Seu número VAT não é válido
+Your order has been canceled. If you need any help to place your order, please feel free to contact us.;O seu pedido foi cancelado. Se você precisar de alguma ajuda para fazer seu pedido, por favor, não hesite em contatar-nos.
+Your order has been successfully paid. Your application will be published very soon.;Seu pedido foi pago com sucesso. Seu aplicativo será publicado muito em breve.
+Your subscription must have at least one price;Sua assinatura deve ter pelo menos um preço
+price;preço

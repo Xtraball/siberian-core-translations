@@ -1,0 +1,16 @@
+Identifier:;Identifier
+Identifier:;Identifier:
+Rating:;Waardering:
+Label:;Label:
+Latitude:;Breedtegraad:
+Longitude:;Lengtegraad:
+Number of rooms:;Aantal kamers:
+Information:;Informatie:
+Opening Details:;Openingsdetails:
+Indexing data... This process will take #{d}. Please, do not refresh the page.;Data indexeren... Dit proces duurt #{d}. Gelieve de pagina niet te verversen.
+about %s hour;Ongeveer %s uur
+about %s hours;Ongeveer %s uren
+less than a minute;Minder dan een minuut
+This identifier is already used.;Deze identifier is al in gebruik.
+Unable to automatically retrieve the coordinates of this place. Please, provide them manually.;Het automatisch terughalen van de coordinaten is mislukt. Gelieve deze handmatig in te voeren.
+Distance:;Afstand:
