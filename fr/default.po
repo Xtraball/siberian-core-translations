@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 15:45+0000\n"
+"PO-Revision-Date: 2019-01-08 15:45+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
+"fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: fr/default.csv:1 
 msgid "404, page not found"
 msgstr "404, page non trouvée"
@@ -272,7 +288,7 @@ msgstr "Promo"
 
 #: fr/default.csv:69 
 msgid "Edit"
-msgstr "Edition"
+msgstr "Editer"
 
 #: fr/default.csv:70 
 msgid "Editing"
@@ -1150,3 +1166,164 @@ msgstr "titres"
 msgid "to add a subfolder."
 msgstr "pour ajouter un sous-dossier."
 
+#: base/default.csv:1 
+msgid "10 seconds"
+msgstr "10 secondes"
+
+#: base/default.csv:2 
+msgid "15 seconds"
+msgstr "15 secondes"
+
+#: base/default.csv:3 
+msgid "20 seconds"
+msgstr "20 secondes"
+
+#: base/default.csv:4 
+msgid "2Checkout"
+msgstr "2Checkout"
+
+#: base/default.csv:5 
+msgid "30 seconds"
+msgstr "30 secondes"
+
+#: base/default.csv:7 
+msgid "A step requires at least a title and a text."
+msgstr "Un titre et du texte son requis"
+
+#: base/default.csv:8 
+msgid "API"
+msgstr "API"
+
+#: base/default.csv:10 
+msgid "APK Generator Service"
+msgstr "Service de génération APK"
+
+#: base/default.csv:11 
+msgid "APK Generator advanced settings"
+msgstr "Paramètres avancés du générateur APK"
+
+#: base/default.csv:12 
+msgid "APK Generator for builds from the Editor (Local or Service)"
+msgstr "Selection du générateur APK, Local ou Service"
+
+#: base/default.csv:13 
+msgid "Access Management"
+msgstr "Gestion des accès"
+
+#: base/default.csv:14 
+msgid "Account"
+msgstr "Compte"
+
+#: base/default.csv:16 
+msgid "Acl"
+msgstr "ACL"
+
+#: base/default.csv:18 
+msgid "Activate"
+msgstr "Activer"
+
+#: base/default.csv:19 
+msgid "Activity"
+msgstr "Activité"
+
+#: base/default.csv:20 
+msgid "AdMob Banner ID"
+msgstr "ID Bannière AdMob"
+
+#: base/default.csv:21 
+msgid "AdMob Interstitial ID"
+msgstr "ID Interstitielle AdMob"
+
+#: base/default.csv:23 
+msgid "Add Image"
+msgstr "Ajouter un image"
+
+#: base/default.csv:25 
+msgid "Add a page"
+msgstr "Ajouter un page"
+
+#: base/default.csv:26 
+msgid "Add a picture"
+msgstr "Ajouter une image"
+
+#: base/default.csv:27 
+msgid "Add content"
+msgstr "Ajouter du contenu"
+
+#: base/default.csv:28 
+msgid "Add extension"
+msgstr "Ajouter une extension"
+
+#: base/default.csv:29 
+msgid "Add feature"
+msgstr "Ajouter une fonctionalité"
+
+#: base/default.csv:31 
+msgid "Add new upload extensions."
+msgstr "Ajouter des extensions."
+
+#: base/default.csv:33 
+msgid "Address (more)"
+msgstr "Adresse (plus)"
+
+#: base/default.csv:34 
+msgid "Addresses"
+msgstr "Adresses"
+
+#: base/default.csv:35 
+msgid "Admin"
+msgstr "Administrateur"
+
+#: base/default.csv:36 
+msgid "Admin panel type"
+msgstr "Nom de votre interface d'administration"
+
+#: base/default.csv:39 
+msgid "Advanced options"
+msgstr "Options avancées"
+
+#: base/default.csv:40 
+msgid "After validating, you will be redirected to the 2Checkout checkout page."
+msgstr ""
+"Après la validation vous serez redirigé vers la page de paiement de "
+"2Checkout."
+
+#: base/default.csv:41 
+msgid "After validating, you will be redirected to the PayPal checkout page."
+msgstr ""
+"Après la validation vous serez redirigé version la page de paiement de "
+"PayPal."
+
+#: base/default.csv:42 
+msgid "Alert: The SSL Certificate %s automatic renewal failed."
+msgstr ""
+"Information: Le renouvellement du certificat SSL/HTTPS pour le domaine %s a "
+"échoué."
+
+#: base/default.csv:43 
+msgid "Alignment"
+msgstr "Alignement"
+
+#: base/default.csv:44 
+msgid "All data"
+msgstr "Toutes les données"
+
+#: base/default.csv:46 
+msgid "All user list"
+msgstr "Tous les utilisateurs"
+
+#: base/default.csv:47 
+msgid "Allow users to export features"
+msgstr "Autoriser les utilisateurs à exporter les fonctionnalités"
+
+#: base/default.csv:48 
+msgid "Allow users to import features"
+msgstr "Autoriser les utilisateurs à importer les fonctionnalités"
+
+#: base/default.csv:49 
+msgid "Allowed upload extensions."
+msgstr "Extensions autorisés."
+
+#: base/default.csv:51 
+msgid "An error occurred during process.<br />Please try again later."
+msgstr "Une erreur est survenue.<br />Merci d'essayer à nouveau plus tard."
