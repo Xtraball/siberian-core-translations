@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 15:36+0000\n"
+"PO-Revision-Date: 2019-01-08 15:36+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"backoffice/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: fr/backoffice.csv:1 
 msgid "%d Unread Message"
 msgstr "%d message non lus"
@@ -78,3 +94,68 @@ msgstr "Votre nouveau mot de passe"
 msgid "Your password"
 msgstr "Votre mot de passe"
 
+#: base/backoffice.csv:1 
+msgid "60000 maximum allowed."
+msgstr "60000 caractères maximum."
+
+#: base/backoffice.csv:2 
+msgid "A certificate already exists for the domain %s, if you want to re-generate it, use 'Force re-generate' to proceed."
+msgstr ""
+"Un certificat existes déjà pour le domaine %s, si vous voulez le remplacer "
+"cliquez sur 'Forcer la génération'."
+
+#: base/backoffice.csv:3 
+msgid "[APK]"
+msgstr "[APK]"
+
+#: base/backoffice.csv:4 
+msgid "APK Queue empty"
+msgstr "File d'attente APK vide"
+
+#: base/backoffice.csv:5 
+msgid "APK Queue status"
+msgstr "Etat de la file d'attente APK"
+
+#: base/backoffice.csv:6 
+msgid "APNS Feedback:"
+msgstr "Test APNS:"
+
+#: base/backoffice.csv:7 
+msgid "APNS Feedback port 2196 is:"
+msgstr "Test APNS sur le port 2196:"
+
+#: base/backoffice.csv:8 
+msgid "APNS Port 2195 is:"
+msgstr "Etat du port 2195 (APNS):"
+
+#: base/backoffice.csv:10 
+msgid "Account Role"
+msgstr "Rôle utilisateur"
+
+#: base/backoffice.csv:11 
+msgid "Actions"
+msgstr "Actions"
+
+#: base/backoffice.csv:12 
+msgid "Activate VAT number check with VIES"
+msgstr "Activer la vérification du numéro de TVA via VIES"
+
+#: base/backoffice.csv:13 
+msgid "Activate user"
+msgstr "Activer l'utilisateur"
+
+#: base/backoffice.csv:14 
+msgid "Active ?"
+msgstr "Actif ?"
+
+#: base/backoffice.csv:15 
+msgid "Add a custom text to the footer of your invoices"
+msgstr "Ajouter un message personnalisé au bas de vos factures"
+
+#: base/backoffice.csv:16 
+msgid "Admin panel type"
+msgstr "Nom de votre interface d'administration"
+
+#: base/backoffice.csv:17 
+msgid "Advanced"
+msgstr "Avancé"
