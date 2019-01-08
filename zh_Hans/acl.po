@@ -1,2 +1,60 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-09 09:38+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/acl/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "Actions"
+msgstr "行动"
+
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr "有错误上传文件。请稍后再试。"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "Create a new role"
+msgstr "创建一个新的角色"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit %s role"
+msgstr "编辑％s角色"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "List of your roles"
+msgstr "您的角色列表"
+
+msgid "Role"
+msgstr "职能"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "This role will be the default one for the whole platform."
+msgstr "此角色将是整个平台的默认角色。"
+
+msgid "You don't have any role yet"
+msgstr "你还没有任何角色"
+
+msgid "Your role has been successfully deleted"
+msgstr "您的角色已成功删除"
+
+msgid "Your role has been successfully saved"
+msgstr "您的角色已成功保存"
