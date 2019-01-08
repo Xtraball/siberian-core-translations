@@ -1,36 +1,27 @@
-#: base/topic.csv:1 
 msgid "Are you sure you want to close without saving?"
 msgstr "Are you sure you want to close without saving?"
 
-#: base/topic.csv:2 
 msgid "Are you sure you want to delete this category and all its subcategories?"
 msgstr "Are you sure you want to delete this category and all its subcategories?"
 
-#: base/topic.csv:3 
 msgid "Description"
 msgstr "Description"
 
-#: base/topic.csv:4 
 msgid "Description successfully saved."
 msgstr "Description successfully saved."
 
-#: base/topic.csv:5 
 msgid "Manage Topics"
 msgstr "Manage Topics"
 
-#: base/topic.csv:6 
 msgid "No topics for now."
 msgstr "No topics for now."
 
-#: base/topic.csv:7 
 msgid "Page description"
 msgstr "Page description"
 
-#: base/topic.csv:8 
 msgid "Save"
 msgstr "Save"
 
-#: base/topic.csv:9 
 msgid "Subscribe"
 msgstr "Subscribe"
 

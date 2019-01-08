@@ -1,192 +1,144 @@
-#: base/loyaltycard.csv:1 
 msgid "1 loyalty point ="
 msgstr "1 loyalty point ="
 
-#: base/loyaltycard.csv:2 
 msgid "1 point"
 msgstr "1 point"
 
-#: base/loyaltycard.csv:3 
 msgid "1 validated point ="
 msgstr "1 validated point ="
 
-#: base/loyaltycard.csv:4 
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr "An error occurred while retrieving QRCode. Please try again later"
 
-#: base/loyaltycard.csv:5 
 msgid "An error occurred while saving the password. Please try again later"
 msgstr "An error occurred while saving the password. Please try again later"
 
-#: base/loyaltycard.csv:6 
 msgid "An error occurred while saving your loyalty card."
 msgstr "An error occurred while saving your loyalty card."
 
-#: base/loyaltycard.csv:7 
 msgid "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr "An error occurred while saving your loyalty card. Please fill all fields in."
 
-#: base/loyaltycard.csv:8 
 msgid "An error occurred while validating point. Please try again later."
 msgstr "An error occurred while validating point. Please try again later."
 
-#: base/loyaltycard.csv:9 
 msgid "An error occurred with your QRCode."
 msgstr "An error occurred with your QRCode."
 
-#: base/loyaltycard.csv:10 
 msgid "Card name"
 msgstr "Card name"
 
-#: base/loyaltycard.csv:11 
 msgid "Congratulations"
 msgstr "Congratulations"
 
-#: base/loyaltycard.csv:12 
 msgid "Current card"
 msgstr "Current card"
 
-#: base/loyaltycard.csv:13 
 msgid "Delete this password?"
 msgstr "Delete this password?"
 
-#: base/loyaltycard.csv:14 
 msgid "Employee's name:"
 msgstr "Employee's name:"
 
-#: base/loyaltycard.csv:15 
 msgid "Employee's password:"
 msgstr "Employee's password:"
 
-#: base/loyaltycard.csv:16 
 msgid "Enter password"
 msgstr "Enter password"
 
-#: base/loyaltycard.csv:17 
 msgid "Enter the password"
 msgstr "Enter the password"
 
-#: base/loyaltycard.csv:18 
 msgid "My new loyalty card"
 msgstr "My new loyalty card"
 
-#: base/loyaltycard.csv:19 
 msgid "My passwords"
 msgstr "My passwords"
 
-#: base/loyaltycard.csv:20 
 msgid "No cards available"
 msgstr "No cards available"
 
-#: base/loyaltycard.csv:21 
 msgid "Number of points"
 msgstr "Number of points"
 
-#: base/loyaltycard.csv:22 
 msgid "Please enter a name"
 msgstr "Please enter a name"
 
-#: base/loyaltycard.csv:23 
 msgid "Please enter the password"
 msgstr "Please enter the password"
 
-#: base/loyaltycard.csv:24 
 msgid "Please show your phone to the store person so that he enters his password"
 msgstr "Please show your phone to the store person so that he enters his password"
 
-#: base/loyaltycard.csv:25 
 msgid "Point active"
 msgstr "Point active"
 
-#: base/loyaltycard.csv:26 
 msgid "Point inactive"
 msgstr "Point inactive"
 
-#: base/loyaltycard.csv:27 
 msgid "Point%s successfully validated"
 msgstr "Point%s successfully validated"
 
-#: base/loyaltycard.csv:28 
 msgid "Previous cards"
 msgstr "Previous cards"
 
-#: base/loyaltycard.csv:29 
 msgid "Reward"
 msgstr "Reward"
 
-#: base/loyaltycard.csv:30 
 msgid "Rewards"
 msgstr "Rewards"
 
-#: base/loyaltycard.csv:31 
 msgid "Scan QRCode"
 msgstr "Scan QRCode"
 
-#: base/loyaltycard.csv:32 
 msgid "This card is uniq:"
 msgstr "This card is uniq:"
 
-#: base/loyaltycard.csv:33 
 msgid "Unlock by QRCode"
 msgstr "Unlock by QRCode"
 
-#: base/loyaltycard.csv:34 
 msgid "Unreadable QRCode, sorry."
 msgstr "Unreadable QRCode, sorry."
 
-#: base/loyaltycard.csv:35 
 msgid "Use only once?"
 msgstr "Use only once?"
 
-#: base/loyaltycard.csv:36 
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "We are sorry but this card is temporarily blocked"
 
-#: base/loyaltycard.csv:37 
 msgid "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
 msgstr "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
 
-#: base/loyaltycard.csv:38 
 msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
 msgstr "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
 
-#: base/loyaltycard.csv:39 
 msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
 msgstr "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
 
-#: base/loyaltycard.csv:40 
 msgid "You just finished your card"
 msgstr "You just finished your card"
 
-#: base/loyaltycard.csv:41 
 msgid "You must be logged in to validate points"
 msgstr "You must be logged in to validate points"
 
-#: base/loyaltycard.csv:42 
 msgid "Your loyalty card has been saved successfully"
 msgstr "Your loyalty card has been saved successfully"
 
-#: base/loyaltycard.csv:43 
 msgid "Your password must be 4 digits"
 msgstr "Your password must be 4 digits"
 
-#: base/loyaltycard.csv:44 
 msgid "is now yours!"
 msgstr "is now yours!"
 
-#: base/loyaltycard.csv:45 
 msgid "point"
 msgstr "point"
 
-#: base/loyaltycard.csv:46 
 msgid "point to validate"
 msgstr "point to validate"
 
-#: base/loyaltycard.csv:47 
 msgid "points to validate"
 msgstr "points to validate"
 
-#: base/loyaltycard.csv:48 
 msgid "validated points ="
 msgstr "validated points ="
 

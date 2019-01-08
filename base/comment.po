@@ -1,160 +1,120 @@
-#: base/comment.csv:1 
 msgid "Add a comment"
 msgstr "Add a comment"
 
-#: base/comment.csv:2 
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "An error occurred while deleting this answer. Please try again later."
 
-#: base/comment.csv:3 
 msgid "COMMENTS"
 msgstr "COMMENTS"
 
-#: base/comment.csv:4 
 msgid "Create a news"
 msgstr "Create a news"
 
-#: base/comment.csv:5 
 msgid "Delete this info"
 msgstr "Delete this info"
 
-#: base/comment.csv:6 
 msgid "Flag"
 msgstr "Flag"
 
-#: base/comment.csv:7 
 msgid "Flag as inappropriate"
 msgstr "Flag as inappropriate"
 
-#: base/comment.csv:8 
 msgid "Hide this info"
 msgstr "Hide this info"
 
-#: base/comment.csv:9 
 msgid "Information successfully deleted"
 msgstr "Information successfully deleted"
 
-#: base/comment.csv:10 
 msgid "Information successfully hidden"
 msgstr "Information successfully hidden"
 
-#: base/comment.csv:11 
 msgid "Information successfully saved"
 msgstr "Information successfully saved"
 
-#: base/comment.csv:12 
 msgid "Information successfully shown"
 msgstr "Information successfully shown"
 
-#: base/comment.csv:13 
 msgid "Insert a"
 msgstr "Insert a"
 
-#: base/comment.csv:14 
 msgid "It will be visible only after validation by our team."
 msgstr "It will be visible only after validation by our team."
 
-#: base/comment.csv:15 
 msgid "My customers answers"
 msgstr "My customers answers"
 
-#: base/comment.csv:16 
 msgid "My customers' comments"
 msgstr "My customers' comments"
 
-#: base/comment.csv:17 
 msgid "Near me"
 msgstr "Near me"
 
-#: base/comment.csv:18 
 msgid "'Near me' radius (in km):"
 msgstr "'Near me' radius (in km):"
 
-#: base/comment.csv:19 
 msgid "Near me settings"
 msgstr "Near me settings"
 
-#: base/comment.csv:20 
 msgid "New post"
 msgstr "New post"
 
-#: base/comment.csv:21 
 msgid "No comment for now"
 msgstr "No comment for now"
 
-#: base/comment.csv:22 
 msgid "No comments for now"
 msgstr "No comments for now"
 
-#: base/comment.csv:23 
 msgid "Post"
 msgstr "Post"
 
-#: base/comment.csv:24 
 msgid "Publishing date"
 msgstr "Publishing date"
 
-#: base/comment.csv:25 
 msgid "Radius"
 msgstr "Radius"
 
-#: base/comment.csv:26 
 msgid "Radius must be a valid numeric value."
 msgstr "Radius must be a valid numeric value."
 
-#: base/comment.csv:27 
 msgid "Radius must be provided."
 msgstr "Radius must be provided."
 
-#: base/comment.csv:28 
 msgid "Read More"
 msgstr "Read More"
 
-#: base/comment.csv:29 
 msgid "Recent"
 msgstr "Recent"
 
-#: base/comment.csv:30 
 msgid "Show this info"
 msgstr "Show this info"
 
-#: base/comment.csv:31 
 msgid "There is no comment for this news"
 msgstr "There is no comment for this news"
 
-#: base/comment.csv:32 
 msgid "Was flagged as inappropriate"
 msgstr "Was flagged as inappropriate"
 
-#: base/comment.csv:33 
 msgid "You can't like more than once the same news"
 msgstr "You can't like more than once the same news"
 
-#: base/comment.csv:34 
 msgid "You have to enter a text message."
 msgstr "You have to enter a text message."
 
-#: base/comment.csv:35 
 msgid "You need to be connected to create a post"
 msgstr "You need to be connected to create a post"
 
-#: base/comment.csv:36 
 msgid "Your flag has successfully been notified"
 msgstr "Your flag has successfully been notified"
 
-#: base/comment.csv:37 
 msgid "Your like has been successfully added"
 msgstr "Your like has been successfully added"
 
-#: base/comment.csv:38 
 msgid "Your message has been successfully saved."
 msgstr "Your message has been successfully saved."
 
-#: base/comment.csv:39 
 msgid "Your post was successfully added"
 msgstr "Your post was successfully added"
 
-#: base/comment.csv:40 
 msgid "en"
 msgstr "en"
 

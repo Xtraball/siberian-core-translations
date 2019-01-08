@@ -1,128 +1,96 @@
-#: base/preview.csv:1 
 msgid "Add"
 msgstr "Add"
 
-#: base/preview.csv:2 
 msgid "An error occurred during the process. Please try again later."
 msgstr "An error occurred during the process. Please try again later."
 
-#: base/preview.csv:3 
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr "An error occurred while deleting your preview. Please try again later."
 
-#: base/preview.csv:4 
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr "An error occurred while saving your previews. Please try again later."
 
-#: base/preview.csv:5 
 msgid "Click here to send your image"
 msgstr "Click here to send your image"
 
-#: base/preview.csv:6 
 msgid "Create a new preview"
 msgstr "Create a new preview"
 
-#: base/preview.csv:7 
 msgid "Delete image"
 msgstr "Delete image"
 
-#: base/preview.csv:8 
 msgid "Delete translation"
 msgstr "Delete translation"
 
-#: base/preview.csv:9 
 msgid "Description"
 msgstr "Description"
 
-#: base/preview.csv:10 
 msgid "Drag and drop images to reorder them."
 msgstr "Drag and drop images to reorder them."
 
-#: base/preview.csv:11 
 msgid "Drop your image here"
 msgstr "Drop your image here"
 
-#: base/preview.csv:12 
 msgid "Edit the preview"
 msgstr "Edit the preview"
 
-#: base/preview.csv:13 
 msgid "Existing images :"
 msgstr "Existing images :"
 
-#: base/preview.csv:14 
 msgid "Feature"
 msgstr "Feature"
 
-#: base/preview.csv:15 
 msgid "Language"
 msgstr "Language"
 
-#: base/preview.csv:16 
 msgid "List of existing previews"
 msgstr "List of existing previews"
 
-#: base/preview.csv:17 
 msgid "OR"
 msgstr "OR"
 
-#: base/preview.csv:18 
 msgid "Preview images"
 msgstr "Preview images"
 
-#: base/preview.csv:19 
 msgid "Preview successfully saved"
 msgstr "Preview successfully saved"
 
-#: base/preview.csv:20 
 msgid "Previews"
 msgstr "Previews"
 
-#: base/preview.csv:21 
 msgid "Search"
 msgstr "Search"
 
-#: base/preview.csv:22 
 msgid "Sorry, but an existing preview for this feature has been found. Please edit existing one."
 msgstr "Sorry, but an existing preview for this feature has been found. Please edit existing one."
 
-#: base/preview.csv:23 
 msgid "Title"
 msgstr "Title"
 
-#: base/preview.csv:24 
 msgid "Unable to copy the file."
 msgstr "Unable to copy the file."
 
-#: base/preview.csv:25 
 msgid "Unable to create the directory."
 msgstr "Unable to create the directory."
 
-#: base/preview.csv:26 
 msgid "Unable to delete the file."
 msgstr "Unable to delete the file."
 
-#: base/preview.csv:27 
 msgid "Unable to delete the file %s"
 msgstr "Unable to delete the file %s"
 
-#: base/preview.csv:28 
 msgid "You don't have any previews yet"
 msgstr "You don't have any previews yet"
 
-#: base/preview.csv:29 
 msgid "Your image has been successfully saved"
 msgstr "Your image has been successfully saved"
 
-#: base/preview.csv:30 
 msgid "Your preview has been deleted successfully."
 msgstr "Your preview has been deleted successfully."
 
-#: base/preview.csv:31 
 msgid "Your preview translation has been deleted successfully."
 msgstr "Your preview translation has been deleted successfully."
 
-#: base/preview.csv:32 
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>File types:</b> %s<br />"
 

@@ -1,108 +1,81 @@
-#: base/weather.csv:1 
 msgid "Astronomy"
 msgstr "Astronomy"
 
-#: base/weather.csv:2 
 msgid "Atmosphere"
 msgstr "Atmosphere"
 
-#: base/weather.csv:3 
 msgid "Change location"
 msgstr "Change location"
 
-#: base/weather.csv:4 
 msgid "Chill:"
 msgstr "Chill:"
 
-#: base/weather.csv:5 
 msgid "Click here to view more details on current weather."
 msgstr "Click here to view more details on current weather."
 
-#: base/weather.csv:6 
 msgid "Country:"
 msgstr "Country:"
 
-#: base/weather.csv:7 
 msgid "Direction:"
 msgstr "Direction:"
 
-#: base/weather.csv:8 
 msgid "Fri"
 msgstr "Fri"
 
-#: base/weather.csv:9 
 msgid "Humidity:"
 msgstr "Humidity:"
 
-#: base/weather.csv:10 
 msgid "Mon"
 msgstr "Mon"
 
-#: base/weather.csv:11 
 msgid "Postal code or city"
 msgstr "Postal code or city"
 
-#: base/weather.csv:12 
 msgid "Pressure:"
 msgstr "Pressure:"
 
-#: base/weather.csv:13 
 msgid "Rising:"
 msgstr "Rising:"
 
-#: base/weather.csv:14 
 msgid "Sat"
 msgstr "Sat"
 
-#: base/weather.csv:15 
 msgid "Sorry, but the weather service is not available for the moment. Please try again later."
 msgstr "Sorry, but the weather service is not available for the moment. Please try again later."
 
-#: base/weather.csv:16 
 msgid "Speed:"
 msgstr "Speed:"
 
-#: base/weather.csv:17 
 msgid "Sun"
 msgstr "Sun"
 
-#: base/weather.csv:18 
 msgid "Sunrise:"
 msgstr "Sunrise:"
 
-#: base/weather.csv:19 
 msgid "Sunset:"
 msgstr "Sunset:"
 
-#: base/weather.csv:20 
 msgid "Thu"
 msgstr "Thu"
 
-#: base/weather.csv:21 
 msgid "Tue"
 msgstr "Tue"
 
-#: base/weather.csv:22 
 msgid "Units:"
 msgstr "Units:"
 
-#: base/weather.csv:23 
 msgid "Use my location"
 msgstr "Use my location"
 
-#: base/weather.csv:24 
 msgid "Visibility:"
 msgstr "Visibility:"
 
-#: base/weather.csv:25 
 msgid "Weather information"
 msgstr "Weather information"
 
-#: base/weather.csv:26 
 msgid "Wed"
 msgstr "Wed"
 
-#: base/weather.csv:27 
 msgid "Wind"
 msgstr "Wind"
 

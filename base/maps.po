@@ -1,48 +1,36 @@
-#: base/maps.csv:1 
 msgid "About"
 msgstr "About"
 
-#: base/maps.csv:2 
 msgid "Address is mandatory."
 msgstr "Address is mandatory."
 
-#: base/maps.csv:3 
 msgid "Destination address"
 msgstr "Destination address"
 
-#: base/maps.csv:4 
 msgid "From:"
 msgstr "From:"
 
-#: base/maps.csv:5 
 msgid "Hide itinerary steps"
 msgstr "Hide itinerary steps"
 
-#: base/maps.csv:6 
 msgid "Maps configuration"
 msgstr "Maps configuration"
 
-#: base/maps.csv:7 
 msgid "Maps navigation"
 msgstr "Maps navigation"
 
-#: base/maps.csv:8 
 msgid "More Information"
 msgstr "More Information"
 
-#: base/maps.csv:9 
 msgid "See itinerary steps"
 msgstr "See itinerary steps"
 
-#: base/maps.csv:10 
 msgid "Sorry, the route cannot be calculated."
 msgstr "Sorry, the route cannot be calculated."
 
-#: base/maps.csv:11 
 msgid "To:"
 msgstr "To:"
 
-#: base/maps.csv:12 
 msgid "Unit distance"
 msgstr "Unit distance"
 

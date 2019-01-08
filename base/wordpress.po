@@ -1,168 +1,126 @@
-#: base/wordpress.csv:1 
 msgid "1 day"
 msgstr "1 day"
 
-#: base/wordpress.csv:2 
 msgid "1 hour"
 msgstr "1 hour"
 
-#: base/wordpress.csv:3 
 msgid "1 minute"
 msgstr "1 minute"
 
-#: base/wordpress.csv:4 
 msgid "12 hours"
 msgstr "12 hours"
 
-#: base/wordpress.csv:5 
 msgid "15 minutes"
 msgstr "15 minutes"
 
-#: base/wordpress.csv:6 
 msgid "3 hours"
 msgstr "3 hours"
 
-#: base/wordpress.csv:7 
 msgid "30 minutes"
 msgstr "30 minutes"
 
-#: base/wordpress.csv:8 
 msgid "6 hours"
 msgstr "6 hours"
 
-#: base/wordpress.csv:9 
 msgid "Add a query"
 msgstr "Add a query"
 
-#: base/wordpress.csv:10 
 msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
 msgstr "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
 
-#: base/wordpress.csv:11 
 msgid "Ascending"
 msgstr "Ascending"
 
-#: base/wordpress.csv:12 
 msgid "Author"
 msgstr "Author"
 
-#: base/wordpress.csv:13 
 msgid "Cache lifetime (excluding pull to refresh)"
 msgstr "Cache lifetime (excluding pull to refresh)"
 
-#: base/wordpress.csv:14 
 msgid "Categories successfully saved"
 msgstr "Categories successfully saved"
 
-#: base/wordpress.csv:15 
 msgid "Click here to download our Wordpress plugin"
 msgstr "Click here to download our Wordpress plugin"
 
-#: base/wordpress.csv:16 
 msgid "Cover & Thumbnails are only visible when queries are not grouped."
 msgstr "Cover & Thumbnails are only visible when queries are not grouped."
 
-#: base/wordpress.csv:17 
 msgid "Date"
 msgstr "Date"
 
-#: base/wordpress.csv:18 
 msgid "Descending"
 msgstr "Descending"
 
-#: base/wordpress.csv:19 
 msgid "Enter your Wordpress URL:"
 msgstr "Enter your Wordpress URL:"
 
-#: base/wordpress.csv:20 
 msgid "Group all queries into a single list"
 msgstr "Group all queries into a single list"
 
-#: base/wordpress.csv:21 
 msgid "ID"
 msgstr "ID"
 
-#: base/wordpress.csv:22 
 msgid "If your WordPress is secured by a login/password, and/or you want to display private posts you can set here a user to be used to retrieve posts."
 msgstr "If your WordPress is secured by a login/password, and/or you want to display private posts you can set here a user to be used to retrieve posts."
 
-#: base/wordpress.csv:23 
 msgid "Loading categories"
 msgstr "Loading categories"
 
-#: base/wordpress.csv:24 
 msgid "Manage WordPress"
 msgstr "Manage WordPress"
 
-#: base/wordpress.csv:25 
 msgid "Manage queries"
 msgstr "Manage queries"
 
-#: base/wordpress.csv:26 
 msgid "No cache"
 msgstr "No cache"
 
-#: base/wordpress.csv:27 
 msgid "Note: cache is automatically refreshed on any user pull to refresh action whatever the lifetime set."
 msgstr "Note: cache is automatically refreshed on any user pull to refresh action whatever the lifetime set."
 
-#: base/wordpress.csv:28 
 msgid "Pages"
 msgstr "Pages"
 
-#: base/wordpress.csv:29 
 msgid "Relevance"
 msgstr "Relevance"
 
-#: base/wordpress.csv:30 
 msgid "Show title & subtitle"
 msgstr "Show title & subtitle"
 
-#: base/wordpress.csv:31 
 msgid "Sorry, we are unable to fetch any category or post from your WordPress."
 msgstr "Sorry, we are unable to fetch any category or post from your WordPress."
 
-#: base/wordpress.csv:32 
 msgid "Sort by"
 msgstr "Sort by"
 
-#: base/wordpress.csv:33 
 msgid "Sort order"
 msgstr "Sort order"
 
-#: base/wordpress.csv:34 
 msgid "Strip shortcodes"
 msgstr "Strip shortcodes"
 
-#: base/wordpress.csv:35 
 msgid "Unable to find your WordPress or /wp-json/ endpoint."
 msgstr "Unable to find your WordPress or /wp-json/ endpoint."
 
-#: base/wordpress.csv:36 
 msgid "Unlimited (until any pull to refresh)"
 msgstr "Unlimited (until any pull to refresh)"
 
-#: base/wordpress.csv:37 
 msgid "We are sorry but no category has been detected on your Wordpress website."
 msgstr "We are sorry but no category has been detected on your Wordpress website."
 
-#: base/wordpress.csv:38 
 msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
 msgstr "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
 
-#: base/wordpress.csv:39 
 msgid "WordPress URL"
 msgstr "WordPress URL"
 
-#: base/wordpress.csv:40 
 msgid "Wordpress"
 msgstr "Wordpress"
 
-#: base/wordpress.csv:41 
 msgid "You can mix posts & pages in the queries if needed."
 msgstr "You can mix posts & pages in the queries if needed."
 
-#: base/wordpress.csv:42 
 msgid "You can mix posts & pages in the queries if needed, however it's not recommended and can lead to random sorting."
 msgstr "You can mix posts & pages in the queries if needed, however it's not recommended and can lead to random sorting."
 

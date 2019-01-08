@@ -1,20 +1,15 @@
-#: base/sourcecode.csv:1 
 msgid "Allow offline mode"
 msgstr "Allow offline mode"
 
-#: base/sourcecode.csv:2 
 msgid "Be aware that if the code you enter here requires any kind of server interaction it will not work properly in offline mode.)"
 msgstr "Be aware that if the code you enter here requires any kind of server interaction it will not work properly in offline mode.)"
 
-#: base/sourcecode.csv:3 
 msgid "Insert in-app link"
 msgstr "Insert in-app link"
 
-#: base/sourcecode.csv:4 
 msgid "Insert your HTML code:"
 msgstr "Insert your HTML code:"
 
-#: base/sourcecode.csv:5 
 msgid "Source Code"
 msgstr "Source Code"
 

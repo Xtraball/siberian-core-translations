@@ -1,68 +1,51 @@
-#: base/translation.csv:1 
 msgid "Create a new language"
 msgstr "Create a new language"
 
-#: base/translation.csv:2 
 msgid "Default text"
 msgstr "Default text"
 
-#: base/translation.csv:3 
 msgid "Edit the language: %s"
 msgstr "Edit the language: %s"
 
-#: base/translation.csv:4 
 msgid "Language"
 msgstr "Language"
 
-#: base/translation.csv:5 
 msgid "Language successfully saved"
 msgstr "Language successfully saved"
 
-#: base/translation.csv:6 
 msgid "List of your languages"
 msgstr "List of your languages"
 
-#: base/translation.csv:7 
 msgid "Please, choose a file."
 msgstr "Please, choose a file."
 
-#: base/translation.csv:8 
 msgid "Please, choose a language."
 msgstr "Please, choose a language."
 
-#: base/translation.csv:9 
 msgid "Select a file"
 msgstr "Select a file"
 
-#: base/translation.csv:10 
 msgid "Select a language"
 msgstr "Select a language"
 
-#: base/translation.csv:11 
 msgid "Text translation"
 msgstr "Text translation"
 
-#: base/translation.csv:12 
 msgid "Translate all"
 msgstr "Translate all"
 
-#: base/translation.csv:13 
 msgid "Translate missing entries"
 msgstr "Translate missing entries"
 
-#: base/translation.csv:14 
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr "Translate the 'e.g.' between parentheses only."
 
-#: base/translation.csv:15 
 msgid "Translation API is not available for the current language."
 msgstr "Translation API is not available for the current language."
 
-#: base/translation.csv:16 
 msgid "Warning: translation API is experimental for the current language and may fail."
 msgstr "Warning: translation API is experimental for the current language and may fail."
 
-#: base/translation.csv:17 
 msgid "Your translation"
 msgstr "Your translation"
 

@@ -1,2508 +1,1881 @@
-#: base/application.csv:1 
 msgid "* If apple doesn't detect any ads configurate, your application will be refused"
 msgstr "* If apple doesn't detect any ads configurate, your application will be refused"
 
-#: base/application.csv:2 
 msgid "* You have to justify why you need this background audio playing to Apple."
 msgstr "* You have to justify why you need this background audio playing to Apple."
 
-#: base/application.csv:3 
 msgid "* You have to justify why you need this background geolocation to Apple."
 msgstr "* You have to justify why you need this background geolocation to Apple."
 
-#: base/application.csv:4 
 msgid "1. Download the app previewer:"
 msgstr "1. Download the app previewer:"
 
-#: base/application.csv:5 
 msgid "1. Insert the following code between the %s tag of your page:"
 msgstr "1. Insert the following code between the %s tag of your page:"
 
-#: base/application.csv:6 
 msgid "2. Insert the following code at the end of the %s tag of your page:"
 msgstr "2. Insert the following code at the end of the %s tag of your page:"
 
-#: base/application.csv:7 
 msgid "2. Open the app and login"
 msgstr "2. Open the app and login"
 
-#: base/application.csv:8 
 msgid "API Keys"
 msgstr "API Keys"
 
-#: base/application.csv:9 
 msgid "APIs"
 msgstr "APIs"
 
-#: base/application.csv:10 
 msgid "Access Token"
 msgstr "Access Token"
 
-#: base/application.csv:11 
 msgid "Acl"
 msgstr "Acl"
 
-#: base/application.csv:12 
 msgid "Activated"
 msgstr "Activated"
 
-#: base/application.csv:13 
 msgid "AdMob ID"
 msgstr "AdMob ID"
 
-#: base/application.csv:14 
 msgid "AdMob Type"
 msgstr "AdMob Type"
 
-#: base/application.csv:15 
 msgid "Add a new icon"
 msgstr "Add a new icon"
 
-#: base/application.csv:16 
 msgid "Add a thumbnail"
 msgstr "Add a thumbnail"
 
-#: base/application.csv:17 
 msgid "Add an image"
 msgstr "Add an image"
 
-#: base/application.csv:18 
 msgid "Add pages"
 msgstr "Add pages"
 
-#: base/application.csv:19 
 msgid "Add pictures"
 msgstr "Add pictures"
 
-#: base/application.csv:20 
 msgid "Add place"
 msgstr "Add place"
 
-#: base/application.csv:21 
 msgid "Add sections:"
 msgstr "Add sections:"
 
-#: base/application.csv:22 
 msgid "Additional options"
 msgstr "Additional options"
 
-#: base/application.csv:23 
 msgid "Admin"
 msgstr "Admin"
 
-#: base/application.csv:24 
 msgid "Admin Account"
 msgstr "Admin Account"
 
-#: base/application.csv:25 
 msgid "Advanced"
 msgstr "Advanced"
 
-#: base/application.csv:26 
 msgid "Advanced Application Options"
 msgstr "Advanced Application Options"
 
-#: base/application.csv:27 
 msgid "Advanced Customization CSS / SCSS"
 msgstr "Advanced Customization CSS / SCSS"
 
-#: base/application.csv:28 
 msgid "Advertising"
 msgstr "Advertising"
 
-#: base/application.csv:29 
 msgid "All"
 msgstr "All"
 
-#: base/application.csv:30 
 msgid "All done!"
 msgstr "All done!"
 
-#: base/application.csv:31 
 msgid "Allow user to request app publication"
 msgstr "Allow user to request app publication"
 
-#: base/application.csv:32 
 msgid "Allowed"
 msgstr "Allowed"
 
-#: base/application.csv:33 
 msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
 msgstr "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
 
-#: base/application.csv:34 
 msgid "An error occurred. Sorry for the inconvenience."
 msgstr "An error occurred. Sorry for the inconvenience."
 
-#: base/application.csv:35 
 msgid "An error occurred during the generation of your QRCode. Please try again later."
 msgstr "An error occurred during the generation of your QRCode. Please try again later."
 
-#: base/application.csv:36 
 msgid "An error occurred while adding the option"
 msgstr "An error occurred while adding the option"
 
-#: base/application.csv:37 
 msgid "An error occurred while changing your layout."
 msgstr "An error occurred while changing your layout."
 
-#: base/application.csv:38 
 msgid "An error occurred while deleting the option"
 msgstr "An error occurred while deleting the option"
 
-#: base/application.csv:39 
 msgid "An error occurred while deleting your picture"
 msgstr "An error occurred while deleting your picture"
 
-#: base/application.csv:40 
 msgid "An error occurred while editing file (%s)."
 msgstr "An error occurred while editing file (%s)."
 
-#: base/application.csv:41 
 msgid "An error occurred while generating. Please try again later."
 msgstr "An error occurred while generating. Please try again later."
 
-#: base/application.csv:42 
 msgid "An error occurred while hidding the iOS Status Bar"
 msgstr "An error occurred while hidding the iOS Status Bar"
 
-#: base/application.csv:43 
 msgid "An error occurred while loading"
 msgstr "An error occurred while loading"
 
-#: base/application.csv:44 
 msgid "An error occurred while saving. Please try again later."
 msgstr "An error occurred while saving. Please try again later."
 
-#: base/application.csv:45 
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "An error occurred while saving. The selected icon is not valid."
 
-#: base/application.csv:46 
 msgid "An error occurred while saving the application. Please try again later."
 msgstr "An error occurred while saving the application. Please try again later."
 
-#: base/application.csv:47 
 msgid "An error occurred while saving your colors."
 msgstr "An error occurred while saving your colors."
 
-#: base/application.csv:48 
 msgid "An error occurred while saving your page name."
 msgstr "An error occurred while saving your page name."
 
-#: base/application.csv:49 
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "An error occurred while sorting your pages. Please try again later."
 
-#: base/application.csv:50 
 msgid "An error occurred while sorting your slider images. Please try again later."
 msgstr "An error occurred while sorting your slider images. Please try again later."
 
-#: base/application.csv:51 
 msgid "Analytics"
 msgstr "Analytics"
 
-#: base/application.csv:52 
 msgid "Analyzing fetched data..."
 msgstr "Analyzing fetched data..."
 
-#: base/application.csv:53 
 msgid "Android"
 msgstr "Android"
 
-#: base/application.csv:54 
 msgid "Android APK Generation"
 msgstr "Android APK Generation"
 
-#: base/application.csv:55 
 msgid "Android APK version"
 msgstr "Android APK version"
 
-#: base/application.csv:56 
 msgid "Android Version"
 msgstr "Android Version"
 
-#: base/application.csv:57 
 msgid "Android push"
 msgstr "Android push"
 
-#: base/application.csv:58 
 msgid "Angle"
 msgstr "Angle"
 
-#: base/application.csv:59 
 msgid "App ID"
 msgstr "App ID"
 
-#: base/application.csv:60 
 msgid "App Store Icon"
 msgstr "App Store Icon"
 
-#: base/application.csv:61 
 msgid "App design"
 msgstr "App design"
 
-#: base/application.csv:62 
 msgid "Apple rejects apps that includes Ad Support but doesn't use it.<br />Generate your iOS app out of this source code if you don't include Ads."
 msgstr "Apple rejects apps that includes Ad Support but doesn't use it.<br />Generate your iOS app out of this source code if you don't include Ads."
 
-#: base/application.csv:63 
 msgid "Apple's Information"
 msgstr "Apple's Information"
 
-#: base/application.csv:64 
 msgid "Application:"
 msgstr "Application:"
 
-#: base/application.csv:65 
 msgid "Application icon"
 msgstr "Application icon"
 
-#: base/application.csv:66 
 msgid "Application name"
 msgstr "Application name"
 
-#: base/application.csv:67 
 msgid "Are you sure you want to remove this application?"
 msgstr "Are you sure you want to remove this application?"
 
-#: base/application.csv:68 
 msgid "Around you"
 msgstr "Around you"
 
-#: base/application.csv:69 
 msgid "At least 200 characters in the description"
 msgstr "At least 200 characters in the description"
 
-#: base/application.csv:70 
 msgid "At least, 4 pages in the application"
 msgstr "At least, 4 pages in the application"
 
-#: base/application.csv:71 
 msgid "Attachment"
 msgstr "Attachment"
 
-#: base/application.csv:72 
 msgid "Audio"
 msgstr "Audio"
 
-#: base/application.csv:73 
 msgid "Auth"
 msgstr "Auth"
 
-#: base/application.csv:74 
 msgid "Available SCSS Variables corresponding to previously set colors"
 msgstr "Available SCSS Variables corresponding to previously set colors"
 
-#: base/application.csv:75 
 msgid "Average by customer"
 msgstr "Average by customer"
 
-#: base/application.csv:76 
 msgid "Background"
 msgstr "Background"
 
-#: base/application.csv:77 
 msgid "Backoffice"
 msgstr "Backoffice"
 
-#: base/application.csv:78 
 msgid "Banner"
 msgstr "Banner"
 
-#: base/application.csv:79 
 msgid "Banner Android price"
 msgstr "Banner Android price"
 
-#: base/application.csv:80 
 msgid "Banner Android store label"
 msgstr "Banner Android store label"
 
-#: base/application.csv:81 
 msgid "Banner author"
 msgstr "Banner author"
 
-#: base/application.csv:82 
 msgid "Banner button label"
 msgstr "Banner button label"
 
-#: base/application.csv:83 
 msgid "Banner iOS store label"
 msgstr "Banner iOS store label"
 
-#: base/application.csv:84 
 msgid "Banner settings"
 msgstr "Banner settings"
 
-#: base/application.csv:85 
 msgid "Banner title"
 msgstr "Banner title"
 
-#: base/application.csv:86 
 msgid "Book"
 msgstr "Book"
 
-#: base/application.csv:87 
 msgid "Border"
 msgstr "Border"
 
-#: base/application.csv:88 
 msgid "Border shadow"
 msgstr "Border shadow"
 
-#: base/application.csv:89 
 msgid "Bottom"
 msgstr "Bottom"
 
-#: base/application.csv:90 
 msgid "Build a mobile app easily"
 msgstr "Build a mobile app easily"
 
-#: base/application.csv:91 
 msgid "Build date"
 msgstr "Build date"
 
-#: base/application.csv:92 
 msgid "Build information"
 msgstr "Build information"
 
-#: base/application.csv:93 
 msgid "Bundle Id"
 msgstr "Bundle Id"
 
-#: base/application.csv:94 
 msgid "Business"
 msgstr "Business"
 
-#: base/application.csv:95 
 msgid "Button"
 msgstr "Button"
 
-#: base/application.csv:96 
 msgid "Buy one, get one!"
 msgstr "Buy one, get one!"
 
-#: base/application.csv:97 
 msgid "Cache"
 msgstr "Cache"
 
-#: base/application.csv:98 
 msgid "Calendar"
 msgstr "Calendar"
 
-#: base/application.csv:99 
 msgid "Catalogs"
 msgstr "Catalogs"
 
-#: base/application.csv:100 
 msgid "Certificate"
 msgstr "Certificate"
 
-#: base/application.csv:101 
 msgid "Change your"
 msgstr "Change your"
 
-#: base/application.csv:102 
 msgid "Change your icon"
 msgstr "Change your icon"
 
-#: base/application.csv:103 
 msgid "Change your layout"
 msgstr "Change your layout"
 
-#: base/application.csv:104 
 msgid "Change your picture"
 msgstr "Change your picture"
 
-#: base/application.csv:105 
 msgid "Change your template"
 msgstr "Change your template"
 
-#: base/application.csv:106 
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr "Change your<br /><span class='bold'>picture</span>"
 
-#: base/application.csv:107 
 msgid "Checking CNAME configuration:"
 msgstr "Checking CNAME configuration:"
 
-#: base/application.csv:108 
 msgid "Choose a <br /><span class='bold'>picture</span>"
 msgstr "Choose a <br /><span class='bold'>picture</span>"
 
-#: base/application.csv:109 
 msgid "Choose a country"
 msgstr "Choose a country"
 
-#: base/application.csv:110 
 msgid "Choose a font family"
 msgstr "Choose a font family"
 
-#: base/application.csv:111 
 msgid "Choose a picture"
 msgstr "Choose a picture"
 
-#: base/application.csv:112 
 msgid "Choose a template to customize"
 msgstr "Choose a template to customize"
 
-#: base/application.csv:113 
 msgid "Choose an icon"
 msgstr "Choose an icon"
 
-#: base/application.csv:114 
 msgid "Choose your colors"
 msgstr "Choose your colors"
 
-#: base/application.csv:115 
 msgid "Choose your country"
 msgstr "Choose your country"
 
-#: base/application.csv:116 
 msgid "Choose your design"
 msgstr "Choose your design"
 
-#: base/application.csv:117 
 msgid "Choose your font style"
 msgstr "Choose your font style"
 
-#: base/application.csv:118 
 msgid "Choose your homepage image"
 msgstr "Choose your homepage image"
 
-#: base/application.csv:119 
 msgid "Choose your icons color"
 msgstr "Choose your icons color"
 
-#: base/application.csv:120 
 msgid "Choose your layout"
 msgstr "Choose your layout"
 
-#: base/application.csv:121 
 msgid "Choose your template"
 msgstr "Choose your template"
 
-#: base/application.csv:122 
 msgid "Click here to download the source code:"
 msgstr "Click here to download the source code:"
 
-#: base/application.csv:123 
 msgid "Click here to send your certificate"
 msgstr "Click here to send your certificate"
 
-#: base/application.csv:124 
 msgid "Client ID"
 msgstr "Client ID"
 
-#: base/application.csv:125 
 msgid "Cms"
 msgstr "Cms"
 
-#: base/application.csv:126 
 msgid "Code Scan"
 msgstr "Code Scan"
 
-#: base/application.csv:127 
 msgid "Codescan"
 msgstr "Codescan"
 
-#: base/application.csv:128 
 msgid "Color"
 msgstr "Color"
 
-#: base/application.csv:129 
 msgid "Colorize pager"
 msgstr "Colorize pager"
 
-#: base/application.csv:130 
 msgid "Colors"
 msgstr "Colors"
 
-#: base/application.csv:131 
 msgid "Comments"
 msgstr "Comments"
 
-#: base/application.csv:132 
 msgid "Configuration"
 msgstr "Configuration"
 
-#: base/application.csv:133 
 msgid "Connect Button"
 msgstr "Connect Button"
 
-#: base/application.csv:134 
 msgid "Contact"
 msgstr "Contact"
 
-#: base/application.csv:135 
 msgid "Core"
 msgstr "Core"
 
-#: base/application.csv:136 
 msgid "Cover background images"
 msgstr "Cover background images"
 
-#: base/application.csv:137 
 msgid "Create a place"
 msgstr "Create a place"
 
-#: base/application.csv:138 
 msgid "Currently only one language can be selected."
 msgstr "Currently only one language can be selected."
 
-#: base/application.csv:139 
 msgid "Custom"
 msgstr "Custom"
 
-#: base/application.csv:140 
 msgid "Custom SMTP"
 msgstr "Custom SMTP"
 
-#: base/application.csv:141 
 msgid "Custom domain name:"
 msgstr "Custom domain name:"
 
-#: base/application.csv:142 
 msgid "Customization"
 msgstr "Customization"
 
-#: base/application.csv:143 
 msgid "Customize your app's style"
 msgstr "Customize your app's style"
 
-#: base/application.csv:144 
 msgid "Dashboard icon"
 msgstr "Dashboard icon"
 
-#: base/application.csv:145 
 msgid "Deactivated"
 msgstr "Deactivated"
 
-#: base/application.csv:146 
 msgid "Default"
 msgstr "Default"
 
-#: base/application.csv:147 
 msgid "Default (none)"
 msgstr "Default (none)"
 
-#: base/application.csv:148 
 msgid "Delete this page?"
 msgstr "Delete this page?"
 
-#: base/application.csv:149 
 msgid "Depth"
 msgstr "Depth"
 
-#: base/application.csv:150 
 msgid "Design"
 msgstr "Design"
 
-#: base/application.csv:151 
 msgid "Developer Accounts"
 msgstr "Developer Accounts"
 
-#: base/application.csv:152 
 msgid "Device Information"
 msgstr "Device Information"
 
-#: base/application.csv:153 
 msgid "Discount Zone"
 msgstr "Discount Zone"
 
-#: base/application.csv:154 
 msgid "Discount zone description. Here your clients will be able to see the details of each discount"
 msgstr "Discount zone description. Here your clients will be able to see the details of each discount"
 
-#: base/application.csv:155 
 msgid "Display Border Circle"
 msgstr "Display Border Circle"
 
-#: base/application.csv:156 
 msgid "Display Borders"
 msgstr "Display Borders"
 
-#: base/application.csv:157 
 msgid "Display Image"
 msgstr "Display Image"
 
-#: base/application.csv:158 
 msgid "Display Shadow"
 msgstr "Display Shadow"
 
-#: base/application.csv:159 
 msgid "Display address"
 msgstr "Display address"
 
-#: base/application.csv:160 
 msgid "Display borders"
 msgstr "Display borders"
 
-#: base/application.csv:161 
 msgid "Display image in page"
 msgstr "Display image in page"
 
-#: base/application.csv:162 
 msgid "Display location button"
 msgstr "Display location button"
 
-#: base/application.csv:163 
 msgid "Display the homepage slider"
 msgstr "Display the homepage slider"
 
-#: base/application.csv:164 
 msgid "Display title and subtitle in page"
 msgstr "Display title and subtitle in page"
 
-#: base/application.csv:165 
 msgid "Display titles"
 msgstr "Display titles"
 
-#: base/application.csv:166 
 msgid "Domain"
 msgstr "Domain"
 
-#: base/application.csv:167 
 msgid "Domain name"
 msgstr "Domain name"
 
-#: base/application.csv:168 
 msgid "Don't order:"
 msgstr "Don't order:"
 
-#: base/application.csv:169 
 msgid "Download"
 msgstr "Download"
 
-#: base/application.csv:170 
 msgid "Download last build"
 msgstr "Download last build"
 
-#: base/application.csv:171 
 msgid "Download latest"
 msgstr "Download latest"
 
-#: base/application.csv:172 
 msgid "Download our app previewer"
 msgstr "Download our app previewer"
 
-#: base/application.csv:173 
 msgid "Download your QRCode"
 msgstr "Download your QRCode"
 
-#: base/application.csv:174 
 msgid "Drop your certificate here"
 msgstr "Drop your certificate here"
 
-#: base/application.csv:175 
 msgid "Dynamic: percentage"
 msgstr "Dynamic: percentage"
 
-#: base/application.csv:176 
 msgid "Edit"
 msgstr "Edit"
 
-#: base/application.csv:177 
 msgid "Edit my"
 msgstr "Edit my"
 
-#: base/application.csv:178 
 msgid "Edit place"
 msgstr "Edit place"
 
-#: base/application.csv:179 
 msgid "Edit the application %s"
 msgstr "Edit the application %s"
 
-#: base/application.csv:180 
 msgid "Editor"
 msgstr "Editor"
 
-#: base/application.csv:181 
 msgid "Education"
 msgstr "Education"
 
-#: base/application.csv:182 
 msgid "E-mail"
 msgstr "E-mail"
 
-#: base/application.csv:183 
 msgid "Enable Offline content ?"
 msgstr "Enable Offline content ?"
 
-#: base/application.csv:184 
 msgid "Enable custom SMTP"
 msgstr "Enable custom SMTP"
 
-#: base/application.csv:185 
 msgid "Enable search filters:"
 msgstr "Enable search filters:"
 
-#: base/application.csv:186 
 msgid "Enter your AdMob ID for each platform."
 msgstr "Enter your AdMob ID for each platform."
 
-#: base/application.csv:187 
 msgid "Enter your Facebook page"
 msgstr "Enter your Facebook page"
 
-#: base/application.csv:188 
 msgid "Entertainment"
 msgstr "Entertainment"
 
-#: base/application.csv:189 
 msgid "Event"
 msgstr "Event"
 
-#: base/application.csv:190 
 msgid "Events"
 msgstr "Events"
 
-#: base/application.csv:191 
 msgid "Export"
 msgstr "Export"
 
-#: base/application.csv:192 
 msgid "Export App & Selected features."
 msgstr "Export App & Selected features."
 
-#: base/application.csv:193 
 msgid "Export as global Template"
 msgstr "Export as global Template"
 
-#: base/application.csv:194 
 msgid "Export your application to a re-usable template & share it across Apps & Platforms."
 msgstr "Export your application to a re-usable template & share it across Apps & Platforms."
 
-#: base/application.csv:195 
 msgid "Extension not allowed, '%s' only"
 msgstr "Extension not allowed, '%s' only"
 
-#: base/application.csv:196 
 msgid "Facebook"
 msgstr "Facebook"
 
-#: base/application.csv:197 
 msgid "Facebook API Keys"
 msgstr "Facebook API Keys"
 
-#: base/application.csv:198 
 msgid "Facebook API settings"
 msgstr "Facebook API settings"
 
-#: base/application.csv:199 
 msgid "Feature icons"
 msgstr "Feature icons"
 
-#: base/application.csv:200 
 msgid "Features"
 msgstr "Features"
 
-#: base/application.csv:201 
 msgid "Features Access Settings"
 msgstr "Features Access Settings"
 
-#: base/application.csv:202 
 msgid "Fetching data from Facebook and creating your features. It can take a while, be patient!"
 msgstr "Fetching data from Facebook and creating your features. It can take a while, be patient!"
 
-#: base/application.csv:203 
 msgid "Fidelity points"
 msgstr "Fidelity points"
 
-#: base/application.csv:204 
 msgid "Fidelity points rate"
 msgstr "Fidelity points rate"
 
-#: base/application.csv:205 
 msgid "Filter"
 msgstr "Filter"
 
-#: base/application.csv:206 
 msgid "Finance"
 msgstr "Finance"
 
-#: base/application.csv:207 
 msgid "Fixed: pixels"
 msgstr "Fixed: pixels"
 
-#: base/application.csv:208 
 msgid "Flickr API key"
 msgstr "Flickr API key"
 
-#: base/application.csv:209 
 msgid "Flickr API secret"
 msgstr "Flickr API secret"
 
-#: base/application.csv:210 
 msgid "Flickr API settings"
 msgstr "Flickr API settings"
 
-#: base/application.csv:211 
 msgid "Font-size"
 msgstr "Font-size"
 
-#: base/application.csv:212 
 msgid "Food & Drink"
 msgstr "Food & Drink"
 
-#: base/application.csv:213 
 msgid "Form has the following errors"
 msgstr "Form has the following errors"
 
-#: base/application.csv:214 
 msgid "Fred W."
 msgstr "Fred W."
 
-#: base/application.csv:215 
 msgid "Free until %s"
 msgstr "Free until %s"
 
-#: base/application.csv:216 
 msgid "Front"
 msgstr "Front"
 
-#: base/application.csv:217 
 msgid "Games"
 msgstr "Games"
 
-#: base/application.csv:218 
 msgid "General Information"
 msgstr "General Information"
 
-#: base/application.csv:219 
 msgid "General Settings"
 msgstr "General Settings"
 
-#: base/application.csv:220 
 msgid "General information"
 msgstr "General information"
 
-#: base/application.csv:221 
 msgid "Generate"
 msgstr "Generate"
 
-#: base/application.csv:222 
 msgid "Generate APK"
 msgstr "Generate APK"
 
-#: base/application.csv:223 
 msgid "Generate Android APK"
 msgstr "Generate Android APK"
 
-#: base/application.csv:224 
 msgid "Generate analytics for given period"
 msgstr "Generate analytics for given period"
 
-#: base/application.csv:225 
 msgid "Generate analytics for the current day"
 msgstr "Generate analytics for the current day"
 
-#: base/application.csv:226 
 msgid "Generate and Publish"
 msgstr "Generate and Publish"
 
-#: base/application.csv:227 
 msgid "Generate and publish iOS Application"
 msgstr "Generate and publish iOS Application"
 
-#: base/application.csv:228 
 msgid "Generate builds"
 msgstr "Generate builds"
 
-#: base/application.csv:229 
 msgid "Generate source"
 msgstr "Generate source"
 
-#: base/application.csv:230 
 msgid "Generate the source code"
 msgstr "Generate the source code"
 
-#: base/application.csv:231 
 msgid "Generation cancelled."
 msgstr "Generation cancelled."
 
-#: base/application.csv:232 
 msgid "Generation successfully queued."
 msgstr "Generation successfully queued."
 
-#: base/application.csv:233 
 msgid "Global visits"
 msgstr "Global visits"
 
-#: base/application.csv:234 
 msgid "Go to first images on loop"
 msgstr "Go to first images on loop"
 
-#: base/application.csv:235 
 msgid "Google Maps JavaScript API Key"
 msgstr "Google Maps JavaScript API Key"
 
-#: base/application.csv:236 
 msgid "Google Play Icon"
 msgstr "Google Play Icon"
 
-#: base/application.csv:237 
 msgid "Google's Information"
 msgstr "Google's Information"
 
-#: base/application.csv:238 
 msgid "Header"
 msgstr "Header"
 
-#: base/application.csv:239 
 msgid "Health & Fitness"
 msgstr "Health & Fitness"
 
-#: base/application.csv:240 
 msgid "Here is our latest creation. What do you think?"
 msgstr "Here is our latest creation. What do you think?"
 
-#: base/application.csv:241 
 msgid "Hidden"
 msgstr "Hidden"
 
-#: base/application.csv:242 
 msgid "Hide Android status bar"
 msgstr "Hide Android status bar"
 
-#: base/application.csv:243 
 msgid "Hide iOS status bar"
 msgstr "Hide iOS status bar"
 
-#: base/application.csv:244 
 msgid "Homepage preview"
 msgstr "Homepage preview"
 
-#: base/application.csv:245 
 msgid "Homepage slider options"
 msgstr "Homepage slider options"
 
-#: base/application.csv:246 
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "I don't have a Google developer account and I want to create one"
 
-#: base/application.csv:247 
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "I don't have an Apple developer account and I want to create one"
 
-#: base/application.csv:248 
 msgid "I have an Apple developer account"
 msgstr "I have an Apple developer account"
 
-#: base/application.csv:249 
 msgid "I have an Google developer account"
 msgstr "I have an Google developer account"
 
-#: base/application.csv:250 
 msgid "I let you publish my application under your Apple developer account"
 msgstr "I let you publish my application under your Apple developer account"
 
-#: base/application.csv:251 
 msgid "I let you publish my application under your Google developer account"
 msgstr "I let you publish my application under your Google developer account"
 
-#: base/application.csv:252 
 msgid "Icon"
 msgstr "Icon"
 
-#: base/application.csv:253 
 msgid "Icons"
 msgstr "Icons"
 
-#: base/application.csv:254 
 msgid "Icons & Images"
 msgstr "Icons & Images"
 
-#: base/application.csv:255 
 msgid "Id"
 msgstr "Id"
 
-#: base/application.csv:256 
 msgid "If a feature is not listed, it yet can't be exported."
 msgstr "If a feature is not listed, it yet can't be exported."
 
-#: base/application.csv:257 
 msgid "If you decide to change the slider size, all images will be dropped. Are you sure ?"
 msgstr "If you decide to change the slider size, all images will be dropped. Are you sure ?"
 
-#: base/application.csv:258 
 msgid "If you validate, your app's colors and background image will be replaced"
 msgstr "If you validate, your app's colors and background image will be replaced"
 
-#: base/application.csv:259 
 msgid "If you want to change the push icon, you <b>must re-publish</b> the application"
 msgstr "If you want to change the push icon, you <b>must re-publish</b> the application"
 
-#: base/application.csv:260 
 msgid "If your app is already published, changing the URL key or domain will break it. You will have to republish it. Change it anyway?"
 msgstr "If your app is already published, changing the URL key or domain will break it. You will have to republish it. Change it anyway?"
 
-#: base/application.csv:261 
 msgid "If your app is already published, changing the domain will break it. You will have to republish it. Change it anyway?"
 msgstr "If your app is already published, changing the domain will break it. You will have to republish it. Change it anyway?"
 
-#: base/application.csv:262 
 msgid "If your app is already published on the stores, be sure you have sent an update with the Ionic version, and that this update has already been accepted, otherwise your app may be broken."
 msgstr "If your app is already published on the stores, be sure you have sent an update with the Ionic version, and that this update has already been accepted, otherwise your app may be broken."
 
-#: base/application.csv:263 
 msgid "If your messages do not comply with App Store Review Guidelines, %s, your app might be possibly refused after Apple's review."
 msgstr "If your messages do not comply with App Store Review Guidelines, %s, your app might be possibly refused after Apple's review."
 
-#: base/application.csv:264 
 msgid "Image size"
 msgstr "Image size"
 
-#: base/application.csv:265 
 msgid "Images"
 msgstr "Images"
 
-#: base/application.csv:266 
 msgid "Images height"
 msgstr "Images height"
 
-#: base/application.csv:267 
 msgid "Import / Export"
 msgstr "Import / Export"
 
-#: base/application.csv:268 
 msgid "Import an application template or a single feature."
 msgstr "Import an application template or a single feature."
 
-#: base/application.csv:269 
 msgid "Import features from Facebook"
 msgstr "Import features from Facebook"
 
-#: base/application.csv:270 
 msgid "Import zip or yml"
 msgstr "Import zip or yml"
 
-#: base/application.csv:271 
 msgid "Imported features"
 msgstr "Imported features"
 
-#: base/application.csv:272 
 msgid "In case you have a main domain containing numbers you can change here the base for your App identifiers."
 msgstr "In case you have a main domain containing numbers you can change here the base for your App identifiers."
 
-#: base/application.csv:273 
 msgid "In order to help you start your application, we can retrieve some data from Facebook."
 msgstr "In order to help you start your application, we can retrieve some data from Facebook."
 
-#: base/application.csv:274 
 msgid "In order to insert a promote banner for your application on your site, please follow those steps:"
 msgstr "In order to insert a promote banner for your application on your site, please follow those steps:"
 
-#: base/application.csv:275 
 msgid "In-App Messages"
 msgstr "In-App Messages"
 
-#: base/application.csv:276 
 msgid "In-app links"
 msgstr "In-app links"
 
-#: base/application.csv:277 
 msgid "Info successfully saved"
 msgstr "Info successfully saved"
 
-#: base/application.csv:278 
 msgid "Input your SCSS here, save to validate & preview"
 msgstr "Input your SCSS here, save to validate & preview"
 
-#: base/application.csv:279 
 msgid "Insert"
 msgstr "Insert"
 
-#: base/application.csv:280 
 msgid "Insert & close"
 msgstr "Insert & close"
 
-#: base/application.csv:281 
 msgid "Instagram API Keys"
 msgstr "Instagram API Keys"
 
-#: base/application.csv:282 
 msgid "Instagram API settings"
 msgstr "Instagram API settings"
 
-#: base/application.csv:283 
 msgid "Installed application"
 msgstr "Installed application"
 
-#: base/application.csv:284 
 msgid "Installer"
 msgstr "Installer"
 
-#: base/application.csv:285 
 msgid "Integration"
 msgstr "Integration"
 
-#: base/application.csv:286 
 msgid "Invalid period, end date is before start date."
 msgstr "Invalid period, end date is before start date."
 
-#: base/application.csv:287 
 msgid "Invalid version"
 msgstr "Invalid version"
 
-#: base/application.csv:288 
 msgid "Job"
 msgstr "Job"
 
-#: base/application.csv:289 
 msgid "Key Password"
 msgstr "Key Password"
 
-#: base/application.csv:290 
 msgid "Keywords"
 msgstr "Keywords"
 
-#: base/application.csv:291 
 msgid "Label"
 msgstr "Label"
 
-#: base/application.csv:292 
 msgid "Landscape Left"
 msgstr "Landscape Left"
 
-#: base/application.csv:293 
 msgid "Landscape Right"
 msgstr "Landscape Right"
 
-#: base/application.csv:294 
 msgid "Language"
 msgstr "Language"
 
-#: base/application.csv:295 
 msgid "Languages"
 msgstr "Languages"
 
-#: base/application.csv:296 
 msgid "Last name:"
 msgstr "Last name:"
 
-#: base/application.csv:297 
 msgid "Latitude"
 msgstr "Latitude"
 
-#: base/application.csv:298 
 msgid "Layout options"
 msgstr "Layout options"
 
-#: base/application.csv:299 
 msgid "Left"
 msgstr "Left"
 
-#: base/application.csv:300 
 msgid "Left position"
 msgstr "Left position"
 
-#: base/application.csv:301 
 msgid "Library icons"
 msgstr "Library icons"
 
-#: base/application.csv:302 
 msgid "License key"
 msgstr "License key"
 
-#: base/application.csv:303 
 msgid "Lifestyle"
 msgstr "Lifestyle"
 
-#: base/application.csv:304 
 msgid "Line-height"
 msgstr "Line-height"
 
-#: base/application.csv:305 
 msgid "List of my applications"
 msgstr "List of my applications"
 
-#: base/application.csv:306 
 msgid "List of your applications"
 msgstr "List of your applications"
 
-#: base/application.csv:307 
 msgid "Loading"
 msgstr "Loading"
 
-#: base/application.csv:308 
 msgid "Lock the entire application"
 msgstr "Lock the entire application"
 
-#: base/application.csv:309 
 msgid "Longitude"
 msgstr "Longitude"
 
-#: base/application.csv:310 
 msgid "Loop features"
 msgstr "Loop features"
 
-#: base/application.csv:311 
 msgid "Loop over images"
 msgstr "Loop over images"
 
-#: base/application.csv:312 
 msgid "Love it <3"
 msgstr "Love it <3"
 
-#: base/application.csv:313 
 msgid "Lower case"
 msgstr "Lower case"
 
-#: base/application.csv:314 
 msgid "LoyaltyCard"
 msgstr "LoyaltyCard"
 
-#: base/application.csv:315 
 msgid "Main"
 msgstr "Main"
 
-#: base/application.csv:316 
 msgid "Manage Access"
 msgstr "Manage Access"
 
-#: base/application.csv:317 
 msgid "Manage Admins access feature by feature."
 msgstr "Manage Admins access feature by feature."
 
-#: base/application.csv:318 
 msgid "Manage Companies"
 msgstr "Manage Companies"
 
-#: base/application.csv:319 
 msgid "Manage icons"
 msgstr "Manage icons"
 
-#: base/application.csv:320 
 msgid "Manage your app's features"
 msgstr "Manage your app's features"
 
-#: base/application.csv:321 
 msgid "Mcommerce"
 msgstr "Mcommerce"
 
-#: base/application.csv:322 
 msgid "Media"
 msgstr "Media"
 
-#: base/application.csv:323 
 msgid "Medical"
 msgstr "Medical"
 
-#: base/application.csv:324 
 msgid "Menu-position"
 msgstr "Menu-position"
 
-#: base/application.csv:325 
 msgid "Message"
 msgstr "Message"
 
-#: base/application.csv:326 
 msgid "Message for both the two previous usages."
 msgstr "Message for both the two previous usages."
 
-#: base/application.csv:327 
 msgid "Misc"
 msgstr "Misc"
 
-#: base/application.csv:328 
 msgid "Missing Information"
 msgstr "Missing Information"
 
-#: base/application.csv:329 
 msgid "Missing parameters for cancellation."
 msgstr "Missing parameters for cancellation."
 
-#: base/application.csv:330 
 msgid "Mobile Source Codes"
 msgstr "Mobile Source Codes"
 
-#: base/application.csv:331 
 msgid "Mobile source codes"
 msgstr "Mobile source codes"
 
-#: base/application.csv:332 
 msgid "Mobile website information"
 msgstr "Mobile website information"
 
-#: base/application.csv:333 
 msgid "Monetization"
 msgstr "Monetization"
 
-#: base/application.csv:334 
 msgid "Monetize my app using AdMob?"
 msgstr "Monetize my app using AdMob?"
 
-#: base/application.csv:335 
 msgid "Monetize your app"
 msgstr "Monetize your app"
 
-#: base/application.csv:336 
 msgid "My Invoices"
 msgstr "My Invoices"
 
-#: base/application.csv:337 
 msgid "My QRCode"
 msgstr "My QRCode"
 
-#: base/application.csv:338 
 msgid "My application in figures"
 msgstr "My application in figures"
 
-#: base/application.csv:339 
 msgid "Name"
 msgstr "Name"
 
-#: base/application.csv:340 
 msgid "Navigation"
 msgstr "Navigation"
 
-#: base/application.csv:341 
 msgid "News"
 msgstr "News"
 
-#: base/application.csv:342 
 msgid "Next"
 msgstr "Next"
 
-#: base/application.csv:343 
 msgid "No"
 msgstr "No"
 
-#: base/application.csv:344 
 msgid "No Facebook page? You can"
 msgstr "No Facebook page? You can"
 
-#: base/application.csv:345 
 msgid "No account for now."
 msgstr "No account for now."
 
-#: base/application.csv:346 
 msgid "No data found"
 msgstr "No data found"
 
-#: base/application.csv:347 
 msgid "No features available for this application."
 msgstr "No features available for this application."
 
-#: base/application.csv:348 
 msgid "No message sent, there is no available applications."
 msgstr "No message sent, there is no available applications."
 
-#: base/application.csv:349 
 msgid "No options available."
 msgstr "No options available."
 
-#: base/application.csv:350 
 msgid "Not available offline."
 msgstr "Not available offline."
 
-#: base/application.csv:351 
 msgid "Note that if you want to add ads later, you will have to publish the app again."
 msgstr "Note that if you want to add ads later, you will have to publish the app again."
 
-#: base/application.csv:352 
 msgid "Nothing to show for now."
 msgstr "Nothing to show for now."
 
-#: base/application.csv:353 
 msgid "Notification center"
 msgstr "Notification center"
 
-#: base/application.csv:354 
 msgid "Off"
 msgstr "Off"
 
-#: base/application.csv:355 
 msgid "Offset"
 msgstr "Offset"
 
-#: base/application.csv:356 
 msgid "On!"
 msgstr "On!"
 
-#: base/application.csv:357 
 msgid "One free coffee"
 msgstr "One free coffee"
 
-#: base/application.csv:358 
 msgid "Option successfully saved"
 msgstr "Option successfully saved"
 
-#: base/application.csv:359 
 msgid "Options"
 msgstr "Options"
 
-#: base/application.csv:360 
 msgid "Options saved"
 msgstr "Options saved"
 
-#: base/application.csv:361 
 msgid "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgstr "Or go on your store<br />and look for 'Apps Company Previewer'"
 
-#: base/application.csv:362 
 msgid "Order places"
 msgstr "Order places"
 
-#: base/application.csv:363 
 msgid "Order places by distance:"
 msgstr "Order places by distance:"
 
-#: base/application.csv:364 
 msgid "Order results alphebetically:"
 msgstr "Order results alphebetically:"
 
-#: base/application.csv:365 
 msgid "Orientations saved!"
 msgstr "Orientations saved!"
 
-#: base/application.csv:366 
 msgid "Other"
 msgstr "Other"
 
-#: base/application.csv:367 
 msgid "Package Name"
 msgstr "Package Name"
 
-#: base/application.csv:368 
 msgid "Page name:"
 msgstr "Page name:"
 
-#: base/application.csv:369 
 msgid "Partially available offline."
 msgstr "Partially available offline."
 
-#: base/application.csv:370 
 msgid "Percentage of returning customers"
 msgstr "Percentage of returning customers"
 
-#: base/application.csv:371 
 msgid "Period to long, please select less than one month."
 msgstr "Period to long, please select less than one month."
 
-#: base/application.csv:372 
 msgid "Permissions Modal Alerts messages describe why your apps requires some permissions,"
 msgstr "Permissions Modal Alerts messages describe why your apps requires some permissions,"
 
-#: base/application.csv:373 
 msgid "Photo & Video"
 msgstr "Photo & Video"
 
-#: base/application.csv:374 
 msgid "Places"
 msgstr "Places"
 
-#: base/application.csv:375 
 msgid "Please check your messages before sending your app to be published, specifically if you are using iOS Auto publish service: if your app is refused after review, one build will be consumed."
 msgstr "Please check your messages before sending your app to be published, specifically if you are using iOS Auto publish service: if your app is refused after review, one build will be consumed."
 
-#: base/application.csv:376 
 msgid "Please enter a correct URL for the %s store"
 msgstr "Please enter a correct URL for the %s store"
 
-#: base/application.csv:377 
 msgid "Please enter a number for the duration."
 msgstr "Please enter a number for the duration."
 
-#: base/application.csv:378 
 msgid "Please enter a subdomain."
 msgstr "Please enter a subdomain."
 
-#: base/application.csv:379 
 msgid "Please enter a valid URL"
 msgstr "Please enter a valid URL"
 
-#: base/application.csv:380 
 msgid "Please enter a valid address"
 msgstr "Please enter a valid address"
 
-#: base/application.csv:381 
 msgid "Please enter a valid mobile website address."
 msgstr "Please enter a valid mobile website address."
 
-#: base/application.csv:382 
 msgid "Please fill iTunes Connect Identifier."
 msgstr "Please fill iTunes Connect Identifier."
 
-#: base/application.csv:383 
 msgid "Please note that AAC+ streams aren't managed yet on Firefox browser, but it will work well in the app."
 msgstr "Please note that AAC+ streams aren't managed yet on Firefox browser, but it will work well in the app."
 
-#: base/application.csv:384 
 msgid "Please select at least one language."
 msgstr "Please select at least one language."
 
-#: base/application.csv:385 
 msgid "Please wait while we generate application source."
 msgstr "Please wait while we generate application source."
 
-#: base/application.csv:386 
 msgid "Port"
 msgstr "Port"
 
-#: base/application.csv:387 
 msgid "Portrait"
 msgstr "Portrait"
 
-#: base/application.csv:388 
 msgid "Preset"
 msgstr "Preset"
 
-#: base/application.csv:389 
 msgid "Preview"
 msgstr "Preview"
 
-#: base/application.csv:390 
 msgid "Preview and test your native apps directly on your mobile."
 msgstr "Preview and test your native apps directly on your mobile."
 
-#: base/application.csv:391 
 msgid "Preview on your phone"
 msgstr "Preview on your phone"
 
-#: base/application.csv:392 
 msgid "Privacy policy URL"
 msgstr "Privacy policy URL"
 
-#: base/application.csv:393 
 msgid "Proceed to checkout before downloading the source code."
 msgstr "Proceed to checkout before downloading the source code."
 
-#: base/application.csv:394 
 msgid "Productivity"
 msgstr "Productivity"
 
-#: base/application.csv:395 
 msgid "Promote"
 msgstr "Promote"
 
-#: base/application.csv:396 
 msgid "Promote your app!"
 msgstr "Promote your app!"
 
-#: base/application.csv:397 
 msgid "Promotion"
 msgstr "Promotion"
 
-#: base/application.csv:398 
 msgid "Publication"
 msgstr "Publication"
 
-#: base/application.csv:399 
 msgid "Publish automatically to iTunes Connect"
 msgstr "Publish automatically to iTunes Connect"
 
-#: base/application.csv:400 
 msgid "Publish the application"
 msgstr "Publish the application"
 
-#: base/application.csv:401 
 msgid "Publish under our account"
 msgstr "Publish under our account"
 
-#: base/application.csv:402 
 msgid "QR Coupons"
 msgstr "QR Coupons"
 
-#: base/application.csv:403 
 msgid "Ready ? Publish my app!"
 msgstr "Ready ? Publish my app!"
 
-#: base/application.csv:404 
 msgid "Recommended size:"
 msgstr "Recommended size:"
 
-#: base/application.csv:405 
 msgid "Reference"
 msgstr "Reference"
 
-#: base/application.csv:406 
 msgid "Remaining build"
 msgstr "Remaining build"
 
-#: base/application.csv:407 
 msgid "Remaining builds"
 msgstr "Remaining builds"
 
-#: base/application.csv:408 
 msgid "Remove this page from this folder?"
 msgstr "Remove this page from this folder?"
 
-#: base/application.csv:409 
 msgid "Reset"
 msgstr "Reset"
 
-#: base/application.csv:410 
 msgid "Return to current feature"
 msgstr "Return to current feature"
 
-#: base/application.csv:411 
 msgid "Right"
 msgstr "Right"
 
-#: base/application.csv:412 
 msgid "Right position"
 msgstr "Right position"
 
-#: base/application.csv:413 
 msgid "Rss"
 msgstr "Rss"
 
-#: base/application.csv:414 
 msgid "SMTP Configuration"
 msgstr "SMTP Configuration"
 
-#: base/application.csv:415 
 msgid "SSL"
 msgstr "SSL"
 
-#: base/application.csv:416 
 msgid "Save"
 msgstr "Save"
 
-#: base/application.csv:417 
 msgid "Save publication settings"
 msgstr "Save publication settings"
 
-#: base/application.csv:418 
 msgid "Scan this QR Code"
 msgstr "Scan this QR Code"
 
-#: base/application.csv:419 
 msgid "Search by keywords ..."
 msgstr "Search by keywords ..."
 
-#: base/application.csv:420 
 msgid "Search filters & Options"
 msgstr "Search filters & Options"
 
-#: base/application.csv:421 
 msgid "Search radius"
 msgstr "Search radius"
 
-#: base/application.csv:422 
 msgid "Search settings"
 msgstr "Search settings"
 
-#: base/application.csv:423 
 msgid "Secondary category"
 msgstr "Secondary category"
 
-#: base/application.csv:424 
 msgid "Secondary category<br />(Optional)"
 msgstr "Secondary category<br />(Optional)"
 
-#: base/application.csv:425 
 msgid "Secret Key"
 msgstr "Secret Key"
 
-#: base/application.csv:426 
 msgid "Send here your iOS certificate to enable the push notifications for this application."
 msgstr "Send here your iOS certificate to enable the push notifications for this application."
 
-#: base/application.csv:427 
 msgid "Send request"
 msgstr "Send request"
 
-#: base/application.csv:428 
 msgid "Send you .pem certificate"
 msgstr "Send you .pem certificate"
 
-#: base/application.csv:429 
 msgid "Sender name/e-mail"
 msgstr "Sender name/e-mail"
 
-#: base/application.csv:430 
 msgid "Sender name/e-mail & Custom SMTP"
 msgstr "Sender name/e-mail & Custom SMTP"
 
-#: base/application.csv:431 
 msgid "Server"
 msgstr "Server"
 
-#: base/application.csv:432 
 msgid "Show"
 msgstr "Show"
 
-#: base/application.csv:433 
 msgid "Show the applications waiting for publication only."
 msgstr "Show the applications waiting for publication only."
 
-#: base/application.csv:434 
 msgid "Sidebar width"
 msgstr "Sidebar width"
 
-#: base/application.csv:435 
 msgid "Slider"
 msgstr "Slider"
 
-#: base/application.csv:436 
 msgid "Slider height"
 msgstr "Slider height"
 
-#: base/application.csv:437 
 msgid "Slider images duration, in seconds:"
 msgstr "Slider images duration, in seconds:"
 
-#: base/application.csv:438 
 msgid "Slideshow duration"
 msgstr "Slideshow duration"
 
-#: base/application.csv:439 
 msgid "Social"
 msgstr "Social"
 
-#: base/application.csv:440 
 msgid "Social Networking"
 msgstr "Social Networking"
 
-#: base/application.csv:441 
 msgid "Social Sharing"
 msgstr "Social Sharing"
 
-#: base/application.csv:442 
 msgid "Socialgaming"
 msgstr "Socialgaming"
 
-#: base/application.csv:443 
 msgid "Sorry, an error occurred while fetching data from Facebook. Please contact an admin."
 msgstr "Sorry, an error occurred while fetching data from Facebook. Please contact an admin."
 
-#: base/application.csv:444 
 msgid "Sorry, it seems that Facebook credentials are invalid. Please contact an administrator."
 msgstr "Sorry, it seems that Facebook credentials are invalid. Please contact an administrator."
 
-#: base/application.csv:445 
 msgid "Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgstr "Sorry, no data was found for this page. Maybe you used the wrong page id?"
 
-#: base/application.csv:446 
 msgid "Sorry, we need a page id."
 msgstr "Sorry, we need a page id."
 
-#: base/application.csv:447 
 msgid "Source type"
 msgstr "Source type"
 
-#: base/application.csv:448 
 msgid "Sourcecode"
 msgstr "Sourcecode"
 
-#: base/application.csv:449 
 msgid "Specifies the reason for your app to access the device's accelerometer."
 msgstr "Specifies the reason for your app to access the device's accelerometer."
 
-#: base/application.csv:450 
 msgid "Specifies the reason for your app to access the device's camera."
 msgstr "Specifies the reason for your app to access the device's camera."
 
-#: base/application.csv:451 
 msgid "Specifies the reason for your app to access the user's location information at all times."
 msgstr "Specifies the reason for your app to access the user's location information at all times."
 
-#: base/application.csv:452 
 msgid "Specifies the reason for your app to access the user's photo library."
 msgstr "Specifies the reason for your app to access the user's photo library."
 
-#: base/application.csv:453 
 msgid "Specifies the reason for your app to access the user’s location information while your app is in use."
 msgstr "Specifies the reason for your app to access the user’s location information while your app is in use."
 
-#: base/application.csv:454 
 msgid "Sports"
 msgstr "Sports"
 
-#: base/application.csv:455 
 msgid "Square icons"
 msgstr "Square icons"
 
-#: base/application.csv:456 
 msgid "Startup image"
 msgstr "Startup image"
 
-#: base/application.csv:457 
 msgid "Status"
 msgstr "Status"
 
-#: base/application.csv:458 
 msgid "Status bar"
 msgstr "Status bar"
 
-#: base/application.csv:459 
 msgid "Store App ID"
 msgstr "Store App ID"
 
-#: base/application.csv:460 
 msgid "Store Password"
 msgstr "Store Password"
 
-#: base/application.csv:461 
 msgid "Store URL"
 msgstr "Store URL"
 
-#: base/application.csv:462 
 msgid "Stores Info"
 msgstr "Stores Info"
 
-#: base/application.csv:463 
 msgid "Stores URL"
 msgstr "Stores URL"
 
-#: base/application.csv:464 
 msgid "Stretch"
 msgstr "Stretch"
 
-#: base/application.csv:465 
 msgid "Subheader"
 msgstr "Subheader"
 
-#: base/application.csv:466 
 msgid "Subtitle:"
 msgstr "Subtitle:"
 
-#: base/application.csv:467 
 msgid "Success."
 msgstr "Success."
 
-#: base/application.csv:468 
 msgid "System"
 msgstr "System"
 
-#: base/application.csv:469 
 msgid "Tabbar"
 msgstr "Tabbar"
 
-#: base/application.csv:470 
 msgid "Tags"
 msgstr "Tags"
 
-#: base/application.csv:471 
 msgid "Tags separated by commas"
 msgstr "Tags separated by commas"
 
-#: base/application.csv:472 
 msgid "Template"
 msgstr "Template"
 
-#: base/application.csv:473 
 msgid "Template description"
 msgstr "Template description"
 
-#: base/application.csv:474 
 msgid "Template name"
 msgstr "Template name"
 
-#: base/application.csv:475 
 msgid "Template preview"
 msgstr "Template preview"
 
-#: base/application.csv:476 
 msgid "Template version"
 msgstr "Template version"
 
-#: base/application.csv:477 
 msgid "Terms & Conditions"
 msgstr "Terms & Conditions"
 
-#: base/application.csv:478 
 msgid "The Bundle Id is required"
 msgstr "The Bundle Id is required"
 
-#: base/application.csv:479 
 msgid "The QR Code is not available at this moment"
 msgstr "The QR Code is not available at this moment"
 
-#: base/application.csv:480 
 msgid "The White-label you are trying to edit doesn't exists."
 msgstr "The White-label you are trying to edit doesn't exists."
 
-#: base/application.csv:481 
 msgid "The application has been successfully saved"
 msgstr "The application has been successfully saved"
 
-#: base/application.csv:482 
 msgid "The application name"
 msgstr "The application name"
 
-#: base/application.csv:483 
 msgid "The application's name cannot start with a number"
 msgstr "The application's name cannot start with a number"
 
-#: base/application.csv:484 
 msgid "The bundle id"
 msgstr "The bundle id"
 
-#: base/application.csv:485 
 msgid "The description"
 msgstr "The description"
 
-#: base/application.csv:486 
 msgid "The description must be at least 200 characters"
 msgstr "The description must be at least 200 characters"
 
-#: base/application.csv:487 
 msgid "The desktop icon"
 msgstr "The desktop icon"
 
-#: base/application.csv:488 
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 
-#: base/application.csv:489 
 msgid "The field is required"
 msgstr "The field is required"
 
-#: base/application.csv:490 
 msgid "The file has been successfully uploaded"
 msgstr "The file has been successfully uploaded"
 
-#: base/application.csv:491 
 msgid "The following information are needed to download the source codes:<br />"
 msgstr "The following information are needed to download the source codes:<br />"
 
-#: base/application.csv:492 
 msgid "The homepage image"
 msgstr "The homepage image"
 
-#: base/application.csv:493 
 msgid "The key cannot be empty."
 msgstr "The key cannot be empty."
 
-#: base/application.csv:494 
 msgid "The key is already used by another application."
 msgstr "The key is already used by another application."
 
-#: base/application.csv:495 
 msgid "The keywords"
 msgstr "The keywords"
 
-#: base/application.csv:496 
 msgid "The main category"
 msgstr "The main category"
 
-#: base/application.csv:497 
 msgid "The startup image"
 msgstr "The startup image"
 
-#: base/application.csv:498 
 msgid "This application does not exist"
 msgstr "This application does not exist"
 
-#: base/application.csv:499 
 msgid "This application is no longer available"
 msgstr "This application is no longer available"
 
-#: base/application.csv:500 
 msgid "This application is visible on the front"
 msgstr "This application is visible on the front"
 
-#: base/application.csv:501 
 msgid "This key is already used by system features."
 msgstr "This key is already used by system features."
 
-#: base/application.csv:502 
 msgid "This option enables you to set the currency used in your app"
 msgstr "This option enables you to set the currency used in your app"
 
-#: base/application.csv:503 
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 
-#: base/application.csv:504 
 msgid "This user can add pages to this application."
 msgstr "This user can add pages to this application."
 
-#: base/application.csv:505 
 msgid "Tip"
 msgstr "Tip"
 
-#: base/application.csv:506 
 msgid "Tips calculator"
 msgstr "Tips calculator"
 
-#: base/application.csv:507 
 msgid "Title"
 msgstr "Title"
 
-#: base/application.csv:508 
 msgid "Title case"
 msgstr "Title case"
 
-#: base/application.csv:509 
 msgid "Title position"
 msgstr "Title position"
 
-#: base/application.csv:510 
 msgid "Titles"
 msgstr "Titles"
 
-#: base/application.csv:511 
 msgid "To be able to download source codes, please provide the following information:<br />"
 msgstr "To be able to download source codes, please provide the following information:<br />"
 
-#: base/application.csv:512 
 msgid "Top"
 msgstr "Top"
 
-#: base/application.csv:513 
 msgid "Topic"
 msgstr "Topic"
 
-#: base/application.csv:514 
 msgid "Translation"
 msgstr "Translation"
 
-#: base/application.csv:515 
 msgid "Transparent"
 msgstr "Transparent"
 
-#: base/application.csv:516 
 msgid "Travel"
 msgstr "Travel"
 
-#: base/application.csv:517 
 msgid "Twitter API Keys"
 msgstr "Twitter API Keys"
 
-#: base/application.csv:518 
 msgid "Twitter API secret"
 msgstr "Twitter API secret"
 
-#: base/application.csv:519 
 msgid "Twitter API settings"
 msgstr "Twitter API settings"
 
-#: base/application.csv:520 
 msgid "Twitter API token"
 msgstr "Twitter API token"
 
-#: base/application.csv:521 
 msgid "Twitter consumer key"
 msgstr "Twitter consumer key"
 
-#: base/application.csv:522 
 msgid "Twitter consumer secret"
 msgstr "Twitter consumer secret"
 
-#: base/application.csv:523 
 msgid "Type"
 msgstr "Type"
 
-#: base/application.csv:524 
 msgid "UP"
 msgstr "UP"
 
-#: base/application.csv:525 
 msgid "URL"
 msgstr "URL"
 
-#: base/application.csv:526 
 msgid "URL Key"
 msgstr "URL Key"
 
-#: base/application.csv:527 
 msgid "Upload icon"
 msgstr "Upload icon"
 
-#: base/application.csv:528 
 msgid "Upload image"
 msgstr "Upload image"
 
-#: base/application.csv:529 
 msgid "Upper case"
 msgstr "Upper case"
 
-#: base/application.csv:530 
 msgid "Upside Down"
 msgstr "Upside Down"
 
-#: base/application.csv:531 
 msgid "Use Owner AdMob"
 msgstr "Use Owner AdMob"
 
-#: base/application.csv:532 
 msgid "Use ads for platform owner"
 msgstr "Use ads for platform owner"
 
-#: base/application.csv:533 
 msgid "Use background into all of your application's pages"
 msgstr "Use background into all of your application's pages"
 
-#: base/application.csv:534 
 msgid "Use into all of your application's pages"
 msgstr "Use into all of your application's pages"
 
-#: base/application.csv:535 
 msgid "Used points"
 msgstr "Used points"
 
-#: base/application.csv:536 
 msgid "User:"
 msgstr "User:"
 
-#: base/application.csv:537 
 msgid "User Information"
 msgstr "User Information"
 
-#: base/application.csv:538 
 msgid "Utilities"
 msgstr "Utilities"
 
-#: base/application.csv:539 
 msgid "Version"
 msgstr "Version"
 
-#: base/application.csv:540 
 msgid "Video"
 msgstr "Video"
 
-#: base/application.csv:541 
 msgid "Visible"
 msgstr "Visible"
 
-#: base/application.csv:542 
 msgid "Visible from all pages"
 msgstr "Visible from all pages"
 
-#: base/application.csv:543 
 msgid "Visible from all the application's pages (removes the homepage)"
 msgstr "Visible from all the application's pages (removes the homepage)"
 
-#: base/application.csv:544 
 msgid "We are sorry but this application has been deactivated and may not be re-activated."
 msgstr "We are sorry but this application has been deactivated and may not be re-activated."
 
-#: base/application.csv:545 
 msgid "Weather"
 msgstr "Weather"
 
-#: base/application.csv:546 
 msgid "Weblink"
 msgstr "Weblink"
 
-#: base/application.csv:547 
 msgid "White Label Editor Settings"
 msgstr "White Label Editor Settings"
 
-#: base/application.csv:548 
 msgid "Width"
 msgstr "Width"
 
-#: base/application.csv:549 
 msgid "With ads functionality"
 msgstr "With ads functionality"
 
-#: base/application.csv:550 
 msgid "With background audio playing"
 msgstr "With background audio playing"
 
-#: base/application.csv:551 
 msgid "With background geolocation"
 msgstr "With background geolocation"
 
-#: base/application.csv:552 
 msgid "With options"
 msgstr "With options"
 
-#: base/application.csv:553 
 msgid "Yes"
 msgstr "Yes"
 
-#: base/application.csv:554 
 msgid "You already have sent a certificate."
 msgstr "You already have sent a certificate."
 
-#: base/application.csv:555 
 msgid "You already sent a request, please wait 3 days from your previous request to retry."
 msgstr "You already sent a request, please wait 3 days from your previous request to retry."
 
-#: base/application.csv:556 
 msgid "You can add or change license in (<strong>Settings / General</strong>).<br/><em>note: builds are only consumed if they're successful.</em>"
 msgstr "You can add or change license in (<strong>Settings / General</strong>).<br/><em>note: builds are only consumed if they're successful.</em>"
 
-#: base/application.csv:557 
 msgid "You can use <b>%s</b> as variable for your application name."
 msgstr "You can use <b>%s</b> as variable for your application name."
 
-#: base/application.csv:558 
 msgid "You cannot have multiple sessions to manage apps, so the session for this app is closed. This page is about to be reloaded."
 msgstr "You cannot have multiple sessions to manage apps, so the session for this app is closed. This page is about to be reloaded."
 
-#: base/application.csv:559 
 msgid "You can't go back to Angular design."
 msgstr "You can't go back to Angular design."
 
-#: base/application.csv:560 
 msgid "You can't use this domain."
 msgstr "You can't use this domain."
 
-#: base/application.csv:561 
 msgid "You don't have any applications yet"
 msgstr "You don't have any applications yet"
 
-#: base/application.csv:562 
 msgid "You have already sent a certificate"
 msgstr "You have already sent a certificate"
 
-#: base/application.csv:563 
 msgid "You have sent a certificate."
 msgstr "You have sent a certificate."
 
-#: base/application.csv:564 
 msgid "You have to purchase the application before downloading the mobile source code."
 msgstr "You have to purchase the application before downloading the mobile source code."
 
-#: base/application.csv:565 
 msgid "You haven't chosen any template yet"
 msgstr "You haven't chosen any template yet"
 
-#: base/application.csv:566 
 msgid "You may not delete a library icon"
 msgstr "You may not delete a library icon"
 
-#: base/application.csv:567 
 msgid "You must choose an ads type"
 msgstr "You must choose an ads type"
 
-#: base/application.csv:568 
 msgid "You must have published your application to access this feature"
 msgstr "You must have published your application to access this feature"
 
-#: base/application.csv:569 
 msgid "You must select at least one orientation for iPad!"
 msgstr "You must select at least one orientation for iPad!"
 
-#: base/application.csv:570 
 msgid "You must select at least one orientation for iPhone!"
 msgstr "You must select at least one orientation for iPhone!"
 
-#: base/application.csv:571 
 msgid "Your CNAME is not properly set"
 msgstr "Your CNAME is not properly set"
 
-#: base/application.csv:572 
 msgid "Your CNAME is properly set"
 msgstr "Your CNAME is properly set"
 
-#: base/application.csv:573 
 msgid "Your administrator is using a custom smtp provider, if you don't want to use your own SMTP provider, you are invited to send a whitelist request via the button below"
 msgstr "Your administrator is using a custom smtp provider, if you don't want to use your own SMTP provider, you are invited to send a whitelist request via the button below"
 
-#: base/application.csv:574 
 msgid "Your analytics has been computed."
 msgstr "Your analytics has been computed."
 
-#: base/application.csv:575 
 msgid "Your app will be published"
 msgstr "Your app will be published"
 
-#: base/application.csv:576 
 msgid "Your application in few numbers"
 msgstr "Your application in few numbers"
 
-#: base/application.csv:577 
 msgid "Your application is now switched to Ionic"
 msgstr "Your application is now switched to Ionic"
 
-#: base/application.csv:578 
 msgid "Your application is ready to be published."
 msgstr "Your application is ready to be published."
 
-#: base/application.csv:579 
 msgid "Your best customers"
 msgstr "Your best customers"
 
-#: base/application.csv:580 
 msgid "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgstr "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 
-#: base/application.csv:581 
 msgid "Your customers in figures"
 msgstr "Your customers in figures"
 
-#: base/application.csv:582 
 msgid "Your customization has been applied to %s."
 msgstr "Your customization has been applied to %s."
 
-#: base/application.csv:583 
 msgid "Your customization has been applied to your white label panel."
 msgstr "Your customization has been applied to your white label panel."
 
-#: base/application.csv:584 
 msgid "Your design"
 msgstr "Your design"
 
-#: base/application.csv:585 
 msgid "Your iOS autobuild License Key"
 msgstr "Your iOS autobuild License Key"
 
-#: base/application.csv:586 
 msgid "Your mobile address should not contain special characters"
 msgstr "Your mobile address should not contain special characters"
 
-#: base/application.csv:587 
 msgid "Your package name is invalid, format should looks like com.mydomain.androidid"
 msgstr "Your package name is invalid, format should looks like com.mydomain.androidid"
 
-#: base/application.csv:588 
 msgid "Your pages"
 msgstr "Your pages"
 
-#: base/application.csv:589 
 msgid "address"
 msgstr "address"
 
-#: base/application.csv:590 
 msgid "alphabetically"
 msgstr "alphabetically"
 
-#: base/application.csv:591 
 msgid "<b>Around you</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgstr "<b>Around you</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 
-#: base/application.csv:592 
 msgid "<b>File type:</b> %s"
 msgstr "<b>File type:</b> %s"
 
-#: base/application.csv:593 
 msgid "<b>Note: </b>Icon must be white with transparency, the crop window will colorize it otherwise"
 msgstr "<b>Note: </b>Icon must be white with transparency, the crop window will colorize it otherwise"
 
-#: base/application.csv:594 
 msgid "<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the cron interval can increase your server load, be careful."
 msgstr "<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the cron interval can increase your server load, be careful."
 
-#: base/application.csv:595 
 msgid "<b>Push image & Color</b> are dynamic and doesn't require the app to be re-published."
 msgstr "<b>Push image & Color</b> are dynamic and doesn't require the app to be re-published."
 
-#: base/application.csv:596 
 msgid "building"
 msgstr "building"
 
-#: base/application.csv:597 
 msgid "by distance"
 msgstr "by distance"
 
-#: base/application.csv:598 
 msgid "default, by creation date"
 msgstr "default, by creation date"
 
-#: base/application.csv:599 
 msgid "eBanner iOS price"
 msgstr "eBanner iOS price"
 
-#: base/application.csv:600 
 msgid "e.g: On %s"
 msgstr "e.g: On %s"
 
-#: base/application.csv:601 
 msgid "failed"
 msgstr "failed"
 
-#: base/application.csv:602 
 msgid "from"
 msgstr "from"
 
-#: base/application.csv:603 
 msgid "iOS"
 msgstr "iOS"
 
-#: base/application.csv:604 
 msgid "iOS Certificate"
 msgstr "iOS Certificate"
 
-#: base/application.csv:605 
 msgid "iPad Retina:"
 msgstr "iPad Retina:"
 
-#: base/application.csv:606 
 msgid "iPad orientation settings"
 msgstr "iPad orientation settings"
 
-#: base/application.csv:607 
 msgid "iPhone & iPad orientation"
 msgstr "iPhone & iPad orientation"
 
-#: base/application.csv:608 
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S:"
 
-#: base/application.csv:609 
 msgid "iPhone 6:"
 msgstr "iPhone 6:"
 
-#: base/application.csv:610 
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6 Plus:"
 
-#: base/application.csv:611 
 msgid "iPhone Version"
 msgstr "iPhone Version"
 
-#: base/application.csv:612 
 msgid "iPhone Version (No Ads)"
 msgstr "iPhone Version (No Ads)"
 
-#: base/application.csv:613 
 msgid "iPhone orientation settings"
 msgstr "iPhone orientation settings"
 
-#: base/application.csv:614 
 msgid "iTunes Connect Login"
 msgstr "iTunes Connect Login"
 
-#: base/application.csv:615 
 msgid "iTunes Connect Password"
 msgstr "iTunes Connect Password"
 
-#: base/application.csv:616 
 msgid "icon"
 msgstr "icon"
 
-#: base/application.csv:617 
 msgid "like using the GPS or the camera. After the first installation of your app, those messages will be shown to the app user."
 msgstr "like using the GPS or the camera. After the first installation of your app, those messages will be shown to the app user."
 
-#: base/application.csv:618 
 msgid "logo"
 msgstr "logo"
 
-#: base/application.csv:619 
 msgid "pending"
 msgstr "pending"
 
-#: base/application.csv:620 
 msgid "%s Text"
 msgstr "%s Text"
 
-#: base/application.csv:621 
 msgid "seconds"
 msgstr "seconds"
 
-#: base/application.csv:622 
 msgid "skip this step"
 msgstr "skip this step"
 
-#: base/application.csv:623 
 msgid "success"
 msgstr "success"
 
-#: base/application.csv:624 
 msgid "times"
 msgstr "times"
 
-#: base/application.csv:625 
 msgid "to"
 msgstr "to"
 
-#: base/application.csv:626 
 msgid "with image"
 msgstr "with image"
 
-#: base/application.csv:627 
 msgid "without image"
 msgstr "without image"
 

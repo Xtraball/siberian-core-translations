@@ -1,76 +1,57 @@
-#: base/template.csv:1 
 msgid "All"
 msgstr "All"
 
-#: base/template.csv:2 
 msgid "Arts"
 msgstr "Arts"
 
-#: base/template.csv:3 
 msgid "Choose a template to customize"
 msgstr "Choose a template to customize"
 
-#: base/template.csv:4 
 msgid "City"
 msgstr "City"
 
-#: base/template.csv:5 
 msgid "Corporate"
 msgstr "Corporate"
 
-#: base/template.csv:6 
 msgid "Design"
 msgstr "Design"
 
-#: base/template.csv:7 
 msgid "Education"
 msgstr "Education"
 
-#: base/template.csv:8 
 msgid "Entertainment"
 msgstr "Entertainment"
 
-#: base/template.csv:9 
 msgid "Fashion"
 msgstr "Fashion"
 
-#: base/template.csv:10 
 msgid "Health & Beauty"
 msgstr "Health & Beauty"
 
-#: base/template.csv:11 
 msgid "Hotels"
 msgstr "Hotels"
 
-#: base/template.csv:12 
 msgid "List of your categories"
 msgstr "List of your categories"
 
-#: base/template.csv:13 
 msgid "Local Business"
 msgstr "Local Business"
 
-#: base/template.csv:14 
 msgid "Music"
 msgstr "Music"
 
-#: base/template.csv:15 
 msgid "Organizations"
 msgstr "Organizations"
 
-#: base/template.csv:16 
 msgid "Real Estate"
 msgstr "Real Estate"
 
-#: base/template.csv:17 
 msgid "Sports"
 msgstr "Sports"
 
-#: base/template.csv:18 
 msgid "TEMPLATES"
 msgstr "TEMPLATES"
 
-#: base/template.csv:19 
 msgid "Templates"
 msgstr "Templates"
 

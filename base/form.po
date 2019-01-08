@@ -1,148 +1,111 @@
-#: base/form.csv:1 
 msgid "Add a field"
 msgstr "Add a field"
 
-#: base/form.csv:2 
 msgid "Add a section"
 msgstr "Add a section"
 
-#: base/form.csv:3 
 msgid "Add an option"
 msgstr "Add an option"
 
-#: base/form.csv:4 
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "An error occurred while saving. A field can't be identified."
 
-#: base/form.csv:5 
 msgid "Are you sure you want to remove this field?"
 msgstr "Are you sure you want to remove this field?"
 
-#: base/form.csv:6 
 msgid "Are you sure you want to remove this section?"
 msgstr "Are you sure you want to remove this section?"
 
-#: base/form.csv:7 
 msgid "Checkbox"
 msgstr "Checkbox"
 
-#: base/form.csv:8 
 msgid "Choose a field type:"
 msgstr "Choose a field type:"
 
-#: base/form.csv:9 
 msgid "Create a new field"
 msgstr "Create a new field"
 
-#: base/form.csv:10 
 msgid "Date/Hour"
 msgstr "Date/Hour"
 
-#: base/form.csv:11 
 msgid "Drop down"
 msgstr "Drop down"
 
-#: base/form.csv:12 
 msgid "Edit field %s"
 msgstr "Edit field %s"
 
-#: base/form.csv:13 
 msgid "Field name"
 msgstr "Field name"
 
-#: base/form.csv:14 
 msgid "Form data will be sent to this email. Until you fill out this field, your form won't be displayed on client side."
 msgstr "Form data will be sent to this email. Until you fill out this field, your form won't be displayed on client side."
 
-#: base/form.csv:15 
 msgid "Geolocation"
 msgstr "Geolocation"
 
-#: base/form.csv:16 
 msgid "Hello,"
 msgstr "Hello,"
 
-#: base/form.csv:17 
 msgid "Import a picture"
 msgstr "Import a picture"
 
-#: base/form.csv:18 
 msgid "Import from Library"
 msgstr "Import from Library"
 
-#: base/form.csv:19 
 msgid "Manage fields"
 msgstr "Manage fields"
 
-#: base/form.csv:20 
 msgid "Manage options:"
 msgstr "Manage options:"
 
-#: base/form.csv:21 
 msgid "Multiline text"
 msgstr "Multiline text"
 
-#: base/form.csv:22 
 msgid "Option"
 msgstr "Option"
 
-#: base/form.csv:23 
 msgid "Radio"
 msgstr "Radio"
 
-#: base/form.csv:24 
 msgid "Recipient email"
 msgstr "Recipient email"
 
-#: base/form.csv:25 
 msgid "Take a picture"
 msgstr "Take a picture"
 
-#: base/form.csv:26 
 msgid "The form has been sent successfully"
 msgstr "The form has been sent successfully"
 
-#: base/form.csv:27 
 msgid "You have to choose a field type."
 msgstr "You have to choose a field type."
 
-#: base/form.csv:28 
 msgid "Your app's form"
 msgstr "Your app's form"
 
-#: base/form.csv:29 
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Your form has been filled out, here are the answers:"
 
-#: base/form.csv:30 
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "<strong>%s</strong> is not a numerical value<br />"
 
-#: base/form.csv:31 
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr "<strong>%s</strong> is not valid email address<br />"
 
-#: base/form.csv:32 
 msgid "<strong>%s</strong> is required<br />"
 msgstr "<strong>%s</strong> is required<br />"
 
-#: base/form.csv:33 
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> must be a numerical value<br />"
 
-#: base/form.csv:34 
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 
-#: base/form.csv:35 
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong> must be a valid date<br />"
 
-#: base/form.csv:36 
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> must be a valid email address<br />"
 
-#: base/form.csv:37 
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> must be filled<br />"
 

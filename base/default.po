@@ -1,3916 +1,2937 @@
-#: base/default.csv:1 
 msgid "10 seconds"
 msgstr "10 seconds"
 
-#: base/default.csv:2 
 msgid "15 seconds"
 msgstr "15 seconds"
 
-#: base/default.csv:3 
 msgid "20 seconds"
 msgstr "20 seconds"
 
-#: base/default.csv:4 
 msgid "2Checkout"
 msgstr "2Checkout"
 
-#: base/default.csv:5 
 msgid "30 seconds"
 msgstr "30 seconds"
 
-#: base/default.csv:6 
 msgid "404, page not found"
 msgstr "404, page not found"
 
-#: base/default.csv:7 
 msgid "A step requires at least a title and a text."
 msgstr "A step requires at least a title and a text."
 
-#: base/default.csv:8 
 msgid "API"
 msgstr "API"
 
-#: base/default.csv:9 
 msgid "APIs"
 msgstr "APIs"
 
-#: base/default.csv:10 
 msgid "APK Generator Service"
 msgstr "APK Generator Service"
 
-#: base/default.csv:11 
 msgid "APK Generator advanced settings"
 msgstr "APK Generator advanced settings"
 
-#: base/default.csv:12 
 msgid "APK Generator for builds from the Editor (Local or Service)"
 msgstr "APK Generator for builds from the Editor (Local or Service)"
 
-#: base/default.csv:13 
 msgid "Access Management"
 msgstr "Access Management"
 
-#: base/default.csv:14 
 msgid "Account"
 msgstr "Account"
 
-#: base/default.csv:15 
 msgid "Accounts"
 msgstr "Accounts"
 
-#: base/default.csv:16 
 msgid "Acl"
 msgstr "Acl"
 
-#: base/default.csv:17 
 msgid "Actions"
 msgstr "Actions"
 
-#: base/default.csv:18 
 msgid "Activate"
 msgstr "Activate"
 
-#: base/default.csv:19 
 msgid "Activity"
 msgstr "Activity"
 
-#: base/default.csv:20 
 msgid "AdMob Banner ID"
 msgstr "AdMob Banner ID"
 
-#: base/default.csv:21 
 msgid "AdMob Interstitial ID"
 msgstr "AdMob Interstitial ID"
 
-#: base/default.csv:22 
 msgid "Add"
 msgstr "Add"
 
-#: base/default.csv:23 
 msgid "Add Image"
 msgstr "Add Image"
 
-#: base/default.csv:24 
 msgid "Add a"
 msgstr "Add a"
 
-#: base/default.csv:25 
 msgid "Add a page"
 msgstr "Add a page"
 
-#: base/default.csv:26 
 msgid "Add a picture"
 msgstr "Add a picture"
 
-#: base/default.csv:27 
 msgid "Add content"
 msgstr "Add content"
 
-#: base/default.csv:28 
 msgid "Add extension"
 msgstr "Add extension"
 
-#: base/default.csv:29 
 msgid "Add feature"
 msgstr "Add feature"
 
-#: base/default.csv:30 
 msgid "Add image"
 msgstr "Add image"
 
-#: base/default.csv:31 
 msgid "Add new upload extensions."
 msgstr "Add new upload extensions."
 
-#: base/default.csv:32 
 msgid "Address"
 msgstr "Address"
 
-#: base/default.csv:33 
 msgid "Address (more)"
 msgstr "Address (more)"
 
-#: base/default.csv:34 
 msgid "Addresses"
 msgstr "Addresses"
 
-#: base/default.csv:35 
 msgid "Admin"
 msgstr "Admin"
 
-#: base/default.csv:36 
 msgid "Admin panel type"
 msgstr "Admin panel type"
 
-#: base/default.csv:37 
 msgid "Admob Banner ID"
 msgstr "Admob Banner ID"
 
-#: base/default.csv:38 
 msgid "Admob Interstitial ID"
 msgstr "Admob Interstitial ID"
 
-#: base/default.csv:39 
 msgid "Advanced options"
 msgstr "Advanced options"
 
-#: base/default.csv:40 
 msgid "After validating, you will be redirected to the 2Checkout checkout page."
 msgstr "After validating, you will be redirected to the 2Checkout checkout page."
 
-#: base/default.csv:41 
 msgid "After validating, you will be redirected to the PayPal checkout page."
 msgstr "After validating, you will be redirected to the PayPal checkout page."
 
-#: base/default.csv:42 
 msgid "Alert: The SSL Certificate %s automatic renewal failed."
 msgstr "Alert: The SSL Certificate %s automatic renewal failed."
 
-#: base/default.csv:43 
 msgid "Alignment"
 msgstr "Alignment"
 
-#: base/default.csv:44 
 msgid "All data"
 msgstr "All data"
 
-#: base/default.csv:45 
 msgid "All items"
 msgstr "All items"
 
-#: base/default.csv:46 
 msgid "All user list"
 msgstr "All user list"
 
-#: base/default.csv:47 
 msgid "Allow users to export features"
 msgstr "Allow users to export features"
 
-#: base/default.csv:48 
 msgid "Allow users to import features"
 msgstr "Allow users to import features"
 
-#: base/default.csv:49 
 msgid "Allowed upload extensions."
 msgstr "Allowed upload extensions."
 
-#: base/default.csv:50 
 msgid "An error occurred during process. Please try again later."
 msgstr "An error occurred during process. Please try again later."
 
-#: base/default.csv:51 
 msgid "An error occurred during process.<br />Please try again later."
 msgstr "An error occurred during process.<br />Please try again later."
 
-#: base/default.csv:52 
 msgid "An error occurred during the process. Please try again later."
 msgstr "An error occurred during the process. Please try again later."
 
-#: base/default.csv:53 
 msgid "An error occurred while editing your invoice : can't find order"
 msgstr "An error occurred while editing your invoice : can't find order"
 
-#: base/default.csv:54 
 msgid "An error occurred while loading. Please try again later."
 msgstr "An error occurred while loading. Please try again later."
 
-#: base/default.csv:55 
 msgid "An error occurred while loading places."
 msgstr "An error occurred while loading places."
 
-#: base/default.csv:56 
 msgid "An error occurred while processing your payment."
 msgstr "An error occurred while processing your payment."
 
-#: base/default.csv:57 
 msgid "An error occurred while saving"
 msgstr "An error occurred while saving"
 
-#: base/default.csv:58 
 msgid "An error occurred while saving. Please try again later."
 msgstr "An error occurred while saving. Please try again later."
 
-#: base/default.csv:59 
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "An error occurred while saving your account. Please try again later."
 
-#: base/default.csv:60 
 msgid "An error occurred while saving your picture. Please try again later."
 msgstr "An error occurred while saving your picture. Please try again later."
 
-#: base/default.csv:61 
 msgid "An error occurred while uploading your file. Please, try again later."
 msgstr "An error occurred while uploading your file. Please, try again later."
 
-#: base/default.csv:62 
 msgid "An unexpected error occurred while calculating the route."
 msgstr "An unexpected error occurred while calculating the route."
 
-#: base/default.csv:63 
 msgid "An unknown error occurred while creating the push notification."
 msgstr "An unknown error occurred while creating the push notification."
 
-#: base/default.csv:64 
 msgid "An unknown error occurred while issue-ing your certificate."
 msgstr "An unknown error occurred while issue-ing your certificate."
 
-#: base/default.csv:65 
 msgid "An unknown error occurred while loading the page."
 msgstr "An unknown error occurred while loading the page."
 
-#: base/default.csv:66 
 msgid "Android APK"
 msgstr "Android APK"
 
-#: base/default.csv:67 
 msgid "Android SDK is not installed"
 msgstr "Android SDK is not installed"
 
-#: base/default.csv:68 
 msgid "Android Source"
 msgstr "Android Source"
 
-#: base/default.csv:69 
 msgid "Android Spinner"
 msgstr "Android Spinner"
 
-#: base/default.csv:70 
 msgid "Android base Package Name can't be empty."
 msgstr "Android base Package Name can't be empty."
 
-#: base/default.csv:71 
 msgid "Android base Package Name must contain only letters, dots & minus."
 msgstr "Android base Package Name must contain only letters, dots & minus."
 
-#: base/default.csv:72 
 msgid "Android base Package Name must contain only letters, dots & minus with at least two dots.<br />Example: com.mydomain.admin"
 msgstr "Android base Package Name must contain only letters, dots & minus with at least two dots.<br />Example: com.mydomain.admin"
 
-#: base/default.csv:73 
 msgid "Android only"
 msgstr "Android only"
 
-#: base/default.csv:74 
 msgid "Answers"
 msgstr "Answers"
 
-#: base/default.csv:75 
 msgid "App"
 msgstr "App"
 
-#: base/default.csv:76 
 msgid "App analytics"
 msgstr "App analytics"
 
-#: base/default.csv:77 
 msgid "App id"
 msgstr "App id"
 
-#: base/default.csv:78 
 msgid "Appearance"
 msgstr "Appearance"
 
-#: base/default.csv:79 
 msgid "Apple Development teams"
 msgstr "Apple Development teams"
 
-#: base/default.csv:80 
 msgid "Application"
 msgstr "Application"
 
-#: base/default.csv:81 
 msgid "Application Name"
 msgstr "Application Name"
 
-#: base/default.csv:82 
 msgid "Application base Bundle ID (iOS)"
 msgstr "Application base Bundle ID (iOS)"
 
-#: base/default.csv:83 
 msgid "Application base Package Name (Android)"
 msgstr "Application base Package Name (Android)"
 
-#: base/default.csv:84 
 msgid "Applications"
 msgstr "Applications"
 
-#: base/default.csv:85 
 msgid "Are you sure you want to delete this admin?"
 msgstr "Are you sure you want to delete this admin?"
 
-#: base/default.csv:86 
 msgid "Are you sure you want to delete this element?"
 msgstr "Are you sure you want to delete this element?"
 
-#: base/default.csv:87 
 msgid "Are you sure you want to delete this invoice?"
 msgstr "Are you sure you want to delete this invoice?"
 
-#: base/default.csv:88 
 msgid "Are you sure you want to delete this subscription?"
 msgstr "Are you sure you want to delete this subscription?"
 
-#: base/default.csv:89 
 msgid "Are you sure you want to remove this account?"
 msgstr "Are you sure you want to remove this account?"
 
-#: base/default.csv:90 
 msgid "Artist"
 msgstr "Artist"
 
-#: base/default.csv:91 
 msgid "At least, 1 page in the application"
 msgstr "At least, 1 page in the application"
 
-#: base/default.csv:92 
 msgid "At least one <b>published</b> application is required in order to use global push notifications."
 msgstr "At least one <b>published</b> application is required in order to use global push notifications."
 
-#: base/default.csv:93 
 msgid "Attachment"
 msgstr "Attachment"
 
-#: base/default.csv:94 
 msgid "Audio"
 msgstr "Audio"
 
-#: base/default.csv:95 
 msgid "Authentication failed"
 msgstr "Authentication failed"
 
-#: base/default.csv:96 
 msgid "Authentication failed. Please, check the username and/or the password"
 msgstr "Authentication failed. Please, check the username and/or the password"
 
-#: base/default.csv:97 
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "Authentication failed. Please check your email and/or your password"
 
-#: base/default.csv:98 
 msgid "Autocomplete & Suggestions ..."
 msgstr "Autocomplete & Suggestions ..."
 
-#: base/default.csv:99 
 msgid "Average cart"
 msgstr "Average cart"
 
-#: base/default.csv:100 
 msgid "Average for active users"
 msgstr "Average for active users"
 
-#: base/default.csv:101 
 msgid "Average for all users"
 msgstr "Average for all users"
 
-#: base/default.csv:102 
 msgid "Back"
 msgstr "Back"
 
-#: base/default.csv:103 
 msgid "Back button icon"
 msgstr "Back button icon"
 
-#: base/default.csv:104 
 msgid "Background"
 msgstr "Background"
 
-#: base/default.csv:105 
 msgid "Background (landscape)"
 msgstr "Background (landscape)"
 
-#: base/default.csv:106 
 msgid "Background (portrait)"
 msgstr "Background (portrait)"
 
-#: base/default.csv:107 
 msgid "Backoffice"
 msgstr "Backoffice"
 
-#: base/default.csv:108 
 msgid "Bad settings can break your APK Generator, leave empty to use defaults."
 msgstr "Bad settings can break your APK Generator, leave empty to use defaults."
 
-#: base/default.csv:109 
 msgid "Banner"
 msgstr "Banner"
 
-#: base/default.csv:110 
 msgid "Banner & Interstitial"
 msgstr "Banner & Interstitial"
 
-#: base/default.csv:111 
 msgid "Be careful you are working in"
 msgstr "Be careful you are working in"
 
-#: base/default.csv:112 
 msgid "Bearer Token"
 msgstr "Bearer Token"
 
-#: base/default.csv:113 
 msgid "Before you can send push notification, you must have at least one of iOS or Android application in a published state."
 msgstr "Before you can send push notification, you must have at least one of iOS or Android application in a published state."
 
-#: base/default.csv:114 
 msgid "Booking"
 msgstr "Booking"
 
-#: base/default.csv:115 
 msgid "Booking details"
 msgstr "Booking details"
 
-#: base/default.csv:116 
 msgid "Booking::findAction An unknown error occurred, please try again later."
 msgstr "Booking::findAction An unknown error occurred, please try again later."
 
-#: base/default.csv:117 
 msgid "Bottom"
 msgstr "Bottom"
 
-#: base/default.csv:118 
 msgid "Browse"
 msgstr "Browse"
 
-#: base/default.csv:119 
 msgid "Button"
 msgstr "Button"
 
-#: base/default.csv:120 
 msgid "Button assertive"
 msgstr "Button assertive"
 
-#: base/default.csv:121 
 msgid "Button balanced"
 msgstr "Button balanced"
 
-#: base/default.csv:122 
 msgid "Button calm"
 msgstr "Button calm"
 
-#: base/default.csv:123 
 msgid "Button dark"
 msgstr "Button dark"
 
-#: base/default.csv:124 
 msgid "Button energized"
 msgstr "Button energized"
 
-#: base/default.csv:125 
 msgid "Button light"
 msgstr "Button light"
 
-#: base/default.csv:126 
 msgid "Button positive"
 msgstr "Button positive"
 
-#: base/default.csv:127 
 msgid "Button royal"
 msgstr "Button royal"
 
-#: base/default.csv:128 
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr "By checking this, a search field will appear in your folder feature"
 
-#: base/default.csv:129 
 msgid "By default, popups steps try to use a smart placement. You can force this placement if needed."
 msgstr "By default, popups steps try to use a smart placement. You can force this placement if needed."
 
-#: base/default.csv:130 
 msgid "Cache"
 msgstr "Cache"
 
-#: base/default.csv:131 
 msgid "Calendar"
 msgstr "Calendar"
 
-#: base/default.csv:132 
 msgid "Callback URIs"
 msgstr "Callback URIs"
 
-#: base/default.csv:133 
 msgid "Can only be used once"
 msgstr "Can only be used once"
 
-#: base/default.csv:134 
 msgid "Cancel"
 msgstr "Cancel"
 
-#: base/default.csv:135 
 msgid "Card"
 msgstr "Card"
 
-#: base/default.csv:136 
 msgid "Card Item"
 msgstr "Card Item"
 
-#: base/default.csv:137 
 msgid "Careful, someone else is working on this application."
 msgstr "Careful, someone else is working on this application."
 
-#: base/default.csv:138 
 msgid "Cart"
 msgstr "Cart"
 
-#: base/default.csv:139 
 msgid "Catalog"
 msgstr "Catalog"
 
-#: base/default.csv:140 
 msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 msgstr "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 
-#: base/default.csv:141 
 msgid "Change password"
 msgstr "Change password"
 
-#: base/default.csv:142 
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr "Change your<br /><span class='bold'>picture</span>"
 
-#: base/default.csv:143 
 msgid "Changing the Application icon requires a rebuild / republication."
 msgstr "Changing the Application icon requires a rebuild / republication."
 
-#: base/default.csv:144 
 msgid "Changing this option requires you to republish your iOS application."
 msgstr "Changing this option requires you to republish your iOS application."
 
-#: base/default.csv:145 
 msgid "Checkbox"
 msgstr "Checkbox"
 
-#: base/default.csv:146 
 msgid "Checkbox off"
 msgstr "Checkbox off"
 
-#: base/default.csv:147 
 msgid "Checkbox on"
 msgstr "Checkbox on"
 
-#: base/default.csv:148 
 msgid "Checking Permissions"
 msgstr "Checking Permissions"
 
-#: base/default.csv:149 
 msgid "Choose a file to import:"
 msgstr "Choose a file to import:"
 
-#: base/default.csv:150 
 msgid "Choose an object to import:"
 msgstr "Choose an object to import:"
 
-#: base/default.csv:151 
 msgid "City"
 msgstr "City"
 
-#: base/default.csv:152 
 msgid "ClamAV is an optional anti-virus, you can enable it up below."
 msgstr "ClamAV is an optional anti-virus, you can enable it up below."
 
-#: base/default.csv:153 
 msgid "ClamAV settings"
 msgstr "ClamAV settings"
 
-#: base/default.csv:154 
 msgid "ClamAV settings have been saved."
 msgstr "ClamAV settings have been saved."
 
-#: base/default.csv:155 
 msgid "Click here to log-in"
 msgstr "Click here to log-in"
 
-#: base/default.csv:156 
 msgid "Click here to open the application"
 msgstr "Click here to open the application"
 
-#: base/default.csv:157 
 msgid "Click on"
 msgstr "Click on"
 
-#: base/default.csv:158 
 msgid "Click on a feature to add it to the folder"
 msgstr "Click on a feature to add it to the folder"
 
-#: base/default.csv:159 
 msgid "Click on a feature to add it to the folder %s"
 msgstr "Click on a feature to add it to the folder %s"
 
-#: base/default.csv:160 
 msgid "Click to import your file"
 msgstr "Click to import your file"
 
-#: base/default.csv:161 
 msgid "Close"
 msgstr "Close"
 
-#: base/default.csv:162 
 msgid "Close mobile display"
 msgstr "Close mobile display"
 
-#: base/default.csv:163 
 msgid "CloudFlare is not supported, please use a CNAME."
 msgstr "CloudFlare is not supported, please use a CNAME."
 
-#: base/default.csv:164 
 msgid "CloudFlare is not supported, you must use a CNAME targeting your main domain."
 msgstr "CloudFlare is not supported, you must use a CNAME targeting your main domain."
 
-#: base/default.csv:165 
 msgid "Cms"
 msgstr "Cms"
 
-#: base/default.csv:166 
 msgid "Codescan"
 msgstr "Codescan"
 
-#: base/default.csv:167 
 msgid "Comment"
 msgstr "Comment"
 
-#: base/default.csv:168 
 msgid "Comments"
 msgstr "Comments"
 
-#: base/default.csv:169 
 msgid "Commerce"
 msgstr "Commerce"
 
-#: base/default.csv:170 
 msgid "Communication"
 msgstr "Communication"
 
-#: base/default.csv:171 
 msgid "Company"
 msgstr "Company"
 
-#: base/default.csv:172 
 msgid "Coms"
 msgstr "Coms"
 
-#: base/default.csv:173 
 msgid "Conditions"
 msgstr "Conditions"
 
-#: base/default.csv:174 
 msgid "Configuration partially saved"
 msgstr "Configuration partially saved"
 
-#: base/default.csv:175 
 msgid "Confirm"
 msgstr "Confirm"
 
-#: base/default.csv:176 
 msgid "Confirm Password"
 msgstr "Confirm Password"
 
-#: base/default.csv:177 
 msgid "Confirm new password"
 msgstr "Confirm new password"
 
-#: base/default.csv:178 
 msgid "Confirmation"
 msgstr "Confirmation"
 
-#: base/default.csv:179 
 msgid "Confirmation required"
 msgstr "Confirmation required"
 
-#: base/default.csv:180 
 msgid "Connection type"
 msgstr "Connection type"
 
-#: base/default.csv:181 
 msgid "Contact"
 msgstr "Contact"
 
-#: base/default.csv:182 
 msgid "Contact successfully added to your address book"
 msgstr "Contact successfully added to your address book"
 
-#: base/default.csv:183 
 msgid "Contact us"
 msgstr "Contact us"
 
-#: base/default.csv:184 
 msgid "Contest"
 msgstr "Contest"
 
-#: base/default.csv:185 
 msgid "Coordinates"
 msgstr "Coordinates"
 
-#: base/default.csv:186 
 msgid "Copy"
 msgstr "Copy"
 
-#: base/default.csv:187 
 msgid "Copying"
 msgstr "Copying"
 
-#: base/default.csv:188 
 msgid "Core"
 msgstr "Core"
 
-#: base/default.csv:189 
 msgid "Country"
 msgstr "Country"
 
-#: base/default.csv:190 
 msgid "Cover"
 msgstr "Cover"
 
-#: base/default.csv:191 
 msgid "Create"
 msgstr "Create"
 
-#: base/default.csv:192 
 msgid "Create / Edit a User"
 msgstr "Create / Edit a User"
 
-#: base/default.csv:193 
 msgid "Create a new account"
 msgstr "Create a new account"
 
-#: base/default.csv:194 
 msgid "Create an account"
 msgstr "Create an account"
 
-#: base/default.csv:195 
 msgid "Created at"
 msgstr "Created at"
 
-#: base/default.csv:196 
 msgid "Creator Email"
 msgstr "Creator Email"
 
-#: base/default.csv:197 
 msgid "Currency"
 msgstr "Currency"
 
-#: base/default.csv:198 
 msgid "Current load is"
 msgstr "Current load is"
 
-#: base/default.csv:199 
 msgid "Current password"
 msgstr "Current password"
 
-#: base/default.csv:200 
 msgid "Current status is"
 msgstr "Current status is"
 
-#: base/default.csv:201 
 msgid "Custom Page"
 msgstr "Custom Page"
 
-#: base/default.csv:202 
 msgid "Customization"
 msgstr "Customization"
 
-#: base/default.csv:203 
 msgid "Customization mode activated"
 msgstr "Customization mode activated"
 
-#: base/default.csv:204 
 msgid "Customize your app's colors"
 msgstr "Customize your app's colors"
 
-#: base/default.csv:205 
 msgid "DEFAULT"
 msgstr "DEFAULT"
 
-#: base/default.csv:206 
 msgid "DELETE"
 msgstr "DELETE"
 
-#: base/default.csv:207 
 msgid "(DEMO)"
 msgstr "(DEMO)"
 
-#: base/default.csv:208 
 msgid "Dashboard"
 msgstr "Dashboard"
 
-#: base/default.csv:209 
 msgid "Data saved successfully."
 msgstr "Data saved successfully."
 
-#: base/default.csv:210 
 msgid "Date"
 msgstr "Date"
 
-#: base/default.csv:211 
 msgid "Date and time"
 msgstr "Date and time"
 
-#: base/default.csv:212 
 msgid "Date of birth"
 msgstr "Date of birth"
 
-#: base/default.csv:213 
 msgid "Deactivate"
 msgstr "Deactivate"
 
-#: base/default.csv:214 
 msgid "Debug"
 msgstr "Debug"
 
-#: base/default.csv:215 
 msgid "Debug output"
 msgstr "Debug output"
 
-#: base/default.csv:216 
 msgid "Default Languages"
 msgstr "Default Languages"
 
-#: base/default.csv:217 
 msgid "Default role for all new users"
 msgstr "Default role for all new users"
 
-#: base/default.csv:218 
 msgid "Default search distance"
 msgstr "Default search distance"
 
-#: base/default.csv:219 
 msgid "Delete"
 msgstr "Delete"
 
-#: base/default.csv:220 
 msgid "Delete a feature"
 msgstr "Delete a feature"
 
-#: base/default.csv:221 
 msgid "Delete the Application"
 msgstr "Delete the Application"
 
-#: base/default.csv:222 
 msgid "Delete this folder and all its subfolders?"
 msgstr "Delete this folder and all its subfolders?"
 
-#: base/default.csv:223 
 msgid "Delivered"
 msgstr "Delivered"
 
-#: base/default.csv:224 
 msgid "Delivery Cost"
 msgstr "Delivery Cost"
 
-#: base/default.csv:225 
 msgid "Delivery method"
 msgstr "Delivery method"
 
-#: base/default.csv:226 
 msgid "Description"
 msgstr "Description"
 
-#: base/default.csv:227 
 msgid "Details"
 msgstr "Details"
 
-#: base/default.csv:228 
 msgid "Development"
 msgstr "Development"
 
-#: base/default.csv:229 
 msgid "Dialog"
 msgstr "Dialog"
 
-#: base/default.csv:230 
 msgid "Dialog background"
 msgstr "Dialog background"
 
-#: base/default.csv:231 
 msgid "Dialog button"
 msgstr "Dialog button"
 
-#: base/default.csv:232 
 msgid "Dialog text"
 msgstr "Dialog text"
 
-#: base/default.csv:233 
 msgid "Discount"
 msgstr "Discount"
 
-#: base/default.csv:234 
 msgid "Discounts"
 msgstr "Discounts"
 
-#: base/default.csv:235 
 msgid "Display pictogram instead of image in map"
 msgstr "Display pictogram instead of image in map"
 
-#: base/default.csv:236 
 msgid "Distance unit"
 msgstr "Distance unit"
 
-#: base/default.csv:237 
 msgid "Do not export"
 msgstr "Do not export"
 
-#: base/default.csv:238 
 msgid "Do you want to download all the contents now to access it when offline? If you do, we recommend you to use a WiFi connection."
 msgstr "Do you want to download all the contents now to access it when offline? If you do, we recommend you to use a WiFi connection."
 
-#: base/default.csv:239 
 msgid "Do you want to return to the homepage?"
 msgstr "Do you want to return to the homepage?"
 
-#: base/default.csv:240 
 msgid "Done"
 msgstr "Done"
 
-#: base/default.csv:241 
 msgid "Don't close the app while downloading. This may take a while."
 msgstr "Don't close the app while downloading. This may take a while."
 
-#: base/default.csv:242 
 msgid "Download APK"
 msgstr "Download APK"
 
-#: base/default.csv:243 
 msgid "Download a copy of my data"
 msgstr "Download a copy of my data"
 
-#: base/default.csv:244 
 msgid "Download as zip"
 msgstr "Download as zip"
 
-#: base/default.csv:245 
 msgid "Download complete list for this metric"
 msgstr "Download complete list for this metric"
 
-#: base/default.csv:246 
 msgid "Download current search as CSV"
 msgstr "Download current search as CSV"
 
-#: base/default.csv:247 
 msgid "Download file is not available in DEMO mode."
 msgstr "Download file is not available in DEMO mode."
 
-#: base/default.csv:248 
 msgid "Download latest APK"
 msgstr "Download latest APK"
 
-#: base/default.csv:249 
 msgid "Download latest sources"
 msgstr "Download latest sources"
 
-#: base/default.csv:250 
 msgid "Download list of user who used this discount"
 msgstr "Download list of user who used this discount"
 
-#: base/default.csv:251 
 msgid "Download list of user who used this loyalty card"
 msgstr "Download list of user who used this loyalty card"
 
-#: base/default.csv:252 
 msgid "Download list of user who used this scratch card"
 msgstr "Download list of user who used this scratch card"
 
-#: base/default.csv:253 
 msgid "Download only winner list for this scratch card"
 msgstr "Download only winner list for this scratch card"
 
-#: base/default.csv:254 
 msgid "Download the APK"
 msgstr "Download the APK"
 
-#: base/default.csv:255 
 msgid "Download the Source code"
 msgstr "Download the Source code"
 
-#: base/default.csv:256 
 msgid "Downloading..."
 msgstr "Downloading..."
 
-#: base/default.csv:257 
 msgid "Drop your json here"
 msgstr "Drop your json here"
 
-#: base/default.csv:258 
 msgid "EDIT"
 msgstr "EDIT"
 
-#: base/default.csv:259 
 msgid "Edit"
 msgstr "Edit"
 
-#: base/default.csv:260 
 msgid "Edit an invoice for this plan"
 msgstr "Edit an invoice for this plan"
 
-#: base/default.csv:261 
 msgid "Edit folder"
 msgstr "Edit folder"
 
-#: base/default.csv:262 
 msgid "Edit step for this element"
 msgstr "Edit step for this element"
 
-#: base/default.csv:263 
 msgid "Editing"
 msgstr "Editing"
 
-#: base/default.csv:264 
 msgid "Editor"
 msgstr "Editor"
 
-#: base/default.csv:265 
 msgid "Editor note: A user with a given role can only assign Self role (if the role is SELF-ASSIGNABLE) & Child roles."
 msgstr "Editor note: A user with a given role can only assign Self role (if the role is SELF-ASSIGNABLE) & Child roles."
 
-#: base/default.csv:266 
 msgid "Editor note: A user with a given role can only assign self & child roles."
 msgstr "Editor note: A user with a given role can only assign self & child roles."
 
-#: base/default.csv:267 
 msgid "Element n°"
 msgstr "Element n°"
 
-#: base/default.csv:268 
 msgid "Email"
 msgstr "Email"
 
-#: base/default.csv:269 
 msgid "Email address"
 msgstr "Email address"
 
-#: base/default.csv:270 
 msgid "Enable search in folders"
 msgstr "Enable search in folders"
 
-#: base/default.csv:271 
 msgid "Enable test API ?"
 msgstr "Enable test API ?"
 
-#: base/default.csv:272 
 msgid "End at"
 msgstr "End at"
 
-#: base/default.csv:273 
 msgid "End tour"
 msgstr "End tour"
 
-#: base/default.csv:274 
 msgid "Enter your twitter handle"
 msgstr "Enter your twitter handle"
 
-#: base/default.csv:275 
 msgid "Error"
 msgstr "Error"
 
-#: base/default.csv:276 
 msgid "Error : <br/>"
 msgstr "Error : <br/>"
 
-#: base/default.csv:277 
 msgid "Error on import configuration."
 msgstr "Error on import configuration."
 
-#: base/default.csv:278 
 msgid "Errors : <br/>"
 msgstr "Errors : <br/>"
 
-#: base/default.csv:279 
 msgid "European <b>General Data Protection Regulation (GDPR)</b>"
 msgstr "European <b>General Data Protection Regulation (GDPR)</b>"
 
-#: base/default.csv:280 
 msgid "Event"
 msgstr "Event"
 
-#: base/default.csv:281 
 msgid "Events"
 msgstr "Events"
 
-#: base/default.csv:282 
 msgid "Export / Import"
 msgstr "Export / Import"
 
-#: base/default.csv:283 
 msgid "Export / Import of features is currently in beta and available only with some features."
 msgstr "Export / Import of features is currently in beta and available only with some features."
 
-#: base/default.csv:284 
 msgid "Export your customers"
 msgstr "Export your customers"
 
-#: base/default.csv:285 
 msgid "Extension"
 msgstr "Extension"
 
-#: base/default.csv:286 
 msgid "Extension can't be empty."
 msgstr "Extension can't be empty."
 
-#: base/default.csv:287 
 msgid "Extension not allowed, '%s' only"
 msgstr "Extension not allowed, '%s' only"
 
-#: base/default.csv:288 
 msgid "Extension %s is strictly forbidden."
 msgstr "Extension %s is strictly forbidden."
 
-#: base/default.csv:289 
 msgid "Extension: txt, png, jpeg, avi, etc..."
 msgstr "Extension: txt, png, jpeg, avi, etc..."
 
-#: base/default.csv:290 
 msgid "Facebook"
 msgstr "Facebook"
 
-#: base/default.csv:291 
 msgid "Fan Wall"
 msgstr "Fan Wall"
 
-#: base/default.csv:292 
 msgid "Fanwall"
 msgstr "Fanwall"
 
-#: base/default.csv:293 
 msgid "Feature Analytics"
 msgstr "Feature Analytics"
 
-#: base/default.csv:294 
 msgid "Feature Top 5 visits"
 msgstr "Feature Top 5 visits"
 
-#: base/default.csv:295 
 msgid "Features"
 msgstr "Features"
 
-#: base/default.csv:296 
 msgid "Filter metrics"
 msgstr "Filter metrics"
 
-#: base/default.csv:297 
 msgid "Firewall"
 msgstr "Firewall"
 
-#: base/default.csv:298 
 msgid "First Name"
 msgstr "First Name"
 
-#: base/default.csv:299 
 msgid "First name"
 msgstr "First name"
 
-#: base/default.csv:300 
 msgid "First name / Last name"
 msgstr "First name / Last name"
 
-#: base/default.csv:301 
 msgid "Firstname"
 msgstr "Firstname"
 
-#: base/default.csv:302 
 msgid "Folder"
 msgstr "Folder"
 
-#: base/default.csv:303 
 msgid "Folder title is required"
 msgstr "Folder title is required"
 
-#: base/default.csv:304 
 msgid "Folders"
 msgstr "Folders"
 
-#: base/default.csv:305 
 msgid "Folders (v2)"
 msgstr "Folders (v2)"
 
-#: base/default.csv:306 
 msgid "Forbidden image format"
 msgstr "Forbidden image format"
 
-#: base/default.csv:307 
 msgid "Force request & Upload to panel"
 msgstr "Force request & Upload to panel"
 
-#: base/default.csv:308 
 msgid "Forgot your password?"
 msgstr "Forgot your password?"
 
-#: base/default.csv:309 
 msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
 msgstr "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
 
-#: base/default.csv:310 
 msgid "Form"
 msgstr "Form"
 
-#: base/default.csv:311 
 msgid "Form has the following errors"
 msgstr "Form has the following errors"
 
-#: base/default.csv:312 
 msgid "Free until"
 msgstr "Free until"
 
-#: base/default.csv:313 
 msgid "From:"
 msgstr "From:"
 
-#: base/default.csv:314 
 msgid "Front"
 msgstr "Front"
 
-#: base/default.csv:315 
 msgid "GCM settings saved."
 msgstr "GCM settings saved."
 
-#: base/default.csv:316 
 msgid "GRADLE extended options"
 msgstr "GRADLE extended options"
 
-#: base/default.csv:317 
 msgid "General"
 msgstr "General"
 
-#: base/default.csv:318 
 msgid "Generate"
 msgstr "Generate"
 
-#: base/default.csv:319 
 msgid "Generate an invoice for this offline plan by using the form below."
 msgstr "Generate an invoice for this offline plan by using the form below."
 
-#: base/default.csv:320 
 msgid "Generate build"
 msgstr "Generate build"
 
-#: base/default.csv:321 
 msgid "Generate sources"
 msgstr "Generate sources"
 
-#: base/default.csv:322 
 msgid "Global push"
 msgstr "Global push"
 
-#: base/default.csv:323 
 msgid "Global push notifications"
 msgstr "Global push notifications"
 
-#: base/default.csv:324 
 msgid "Go back"
 msgstr "Go back"
 
-#: base/default.csv:325 
 msgid "Google Maps settings"
 msgstr "Google Maps settings"
 
-#: base/default.csv:326 
 msgid "HH:mm a"
 msgstr "HH:mm a"
 
-#: base/default.csv:327 
 msgid "Hello,"
 msgstr "Hello,"
 
-#: base/default.csv:328 
 msgid "Here is your new password:"
 msgstr "Here is your new password:"
 
-#: base/default.csv:329 
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr "Hi. I just found: $1 in the $2 app."
 
-#: base/default.csv:330 
 msgid "Hide"
 msgstr "Hide"
 
-#: base/default.csv:331 
 msgid "Hide iOS status bar"
 msgstr "Hide iOS status bar"
 
-#: base/default.csv:332 
 msgid "Hint"
 msgstr "Hint"
 
-#: base/default.csv:333 
 msgid "Home"
 msgstr "Home"
 
-#: base/default.csv:334 
 msgid "Homepage"
 msgstr "Homepage"
 
-#: base/default.csv:335 
 msgid "Host"
 msgstr "Host"
 
-#: base/default.csv:336 
 msgid "Hostnames associated with this Certificate"
 msgstr "Hostnames associated with this Certificate"
 
-#: base/default.csv:337 
 msgid "How do you want to access the backoffice if you remove the only user remaining?"
 msgstr "How do you want to access the backoffice if you remove the only user remaining?"
 
-#: base/default.csv:338 
 msgid "ID"
 msgstr "ID"
 
-#: base/default.csv:339 
 msgid "IP"
 msgstr "IP"
 
-#: base/default.csv:340 
 msgid "IP, example: 127.0.0.1"
 msgstr "IP, example: 127.0.0.1"
 
-#: base/default.csv:341 
 msgid "Icons size"
 msgstr "Icons size"
 
-#: base/default.csv:342 
 msgid "If user doesn't use AdMob, split revenue will default to 100."
 msgstr "If user doesn't use AdMob, split revenue will default to 100."
 
-#: base/default.csv:343 
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "I'm listening to $1 from $2 on $3 app."
 
-#: base/default.csv:344 
 msgid "I'm listening to $1 on $2 app."
 msgstr "I'm listening to $1 on $2 app."
 
-#: base/default.csv:345 
 msgid "Image"
 msgstr "Image"
 
-#: base/default.csv:346 
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "Image not high enough, %spx minimum allowed."
 
-#: base/default.csv:347 
 msgid "Image not large enough, '%s' allowed."
 msgstr "Image not large enough, '%s' allowed."
 
-#: base/default.csv:348 
 msgid "Image not large enough, %spx minimum allowed."
 msgstr "Image not large enough, %spx minimum allowed."
 
-#: base/default.csv:349 
 msgid "Image successfully saved"
 msgstr "Image successfully saved"
 
-#: base/default.csv:350 
 msgid "Image too high, %spx maximum allowed."
 msgstr "Image too high, %spx maximum allowed."
 
-#: base/default.csv:351 
 msgid "Image too large, '%s' allowed."
 msgstr "Image too large, '%s' allowed."
 
-#: base/default.csv:352 
 msgid "Image too large, %spx maximum allowed."
 msgstr "Image too large, %spx maximum allowed."
 
-#: base/default.csv:353 
 msgid "Images"
 msgstr "Images"
 
-#: base/default.csv:354 
 msgid "Images opacity"
 msgstr "Images opacity"
 
-#: base/default.csv:355 
 msgid "Import"
 msgstr "Import"
 
-#: base/default.csv:356 
 msgid "Import a background image"
 msgstr "Import a background image"
 
-#: base/default.csv:357 
 msgid "Import a cover image"
 msgstr "Import a cover image"
 
-#: base/default.csv:358 
 msgid "Import a single feature."
 msgstr "Import a single feature."
 
-#: base/default.csv:359 
 msgid "Import a thumbnail"
 msgstr "Import a thumbnail"
 
-#: base/default.csv:360 
 msgid "Import a thumbnail image"
 msgstr "Import a thumbnail image"
 
-#: base/default.csv:361 
 msgid "Import yml"
 msgstr "Import yml"
 
-#: base/default.csv:362 
 msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
 msgstr "In order to fully enjoy our features, we encourage you to use at least:.<br />"
 
-#: base/default.csv:363 
 msgid "In order to publish your application, we need:"
 msgstr "In order to publish your application, we need:"
 
-#: base/default.csv:364 
 msgid "In order to use global push notifications your app must be published."
 msgstr "In order to use global push notifications your app must be published."
 
-#: base/default.csv:365 
 msgid "Incorrect filetype."
 msgstr "Incorrect filetype."
 
-#: base/default.csv:366 
 msgid "Info"
 msgstr "Info"
 
-#: base/default.csv:367 
 msgid "Info successfully saved"
 msgstr "Info successfully saved"
 
-#: base/default.csv:368 
 msgid "Information"
 msgstr "Information"
 
-#: base/default.csv:369 
 msgid "Infos successfully saved"
 msgstr "Infos successfully saved"
 
-#: base/default.csv:370 
 msgid "Inherit global layout"
 msgstr "Inherit global layout"
 
-#: base/default.csv:371 
 msgid "Insert a <br /><span class'bold'>cover image</span>"
 msgstr "Insert a <br /><span class'bold'>cover image</span>"
 
-#: base/default.csv:372 
 msgid "Insert a cover image"
 msgstr "Insert a cover image"
 
-#: base/default.csv:373 
 msgid "Insert a picture"
 msgstr "Insert a picture"
 
-#: base/default.csv:374 
 msgid "Installer"
 msgstr "Installer"
 
-#: base/default.csv:375 
 msgid "Installs"
 msgstr "Installs"
 
-#: base/default.csv:376 
 msgid "Integration"
 msgstr "Integration"
 
-#: base/default.csv:377 
 msgid "Interstitial"
 msgstr "Interstitial"
 
-#: base/default.csv:378 
 msgid "Invalid place"
 msgstr "Invalid place"
 
-#: base/default.csv:379 
 msgid "Invoice creation date"
 msgstr "Invoice creation date"
 
-#: base/default.csv:380 
 msgid "Invoice payment date"
 msgstr "Invoice payment date"
 
-#: base/default.csv:381 
 msgid "Invoices"
 msgstr "Invoices"
 
-#: base/default.csv:382 
 msgid "Issuer"
 msgstr "Issuer"
 
-#: base/default.csv:383 
 msgid "It seems that the renewal of the following SSL Certificate %s is failing, please check in <b>Settings > Advanced > Configuration</b> for the specified certificate."
 msgstr "It seems that the renewal of the following SSL Certificate %s is failing, please check in <b>Settings > Advanced > Configuration</b> for the specified certificate."
 
-#: base/default.csv:384 
 msgid "JAVA Extended options"
 msgstr "JAVA Extended options"
 
-#: base/default.csv:385 
 msgid "Landscape"
 msgstr "Landscape"
 
-#: base/default.csv:386 
 msgid "Last Name"
 msgstr "Last Name"
 
-#: base/default.csv:387 
 msgid "Last action"
 msgstr "Last action"
 
-#: base/default.csv:388 
 msgid "Last error"
 msgstr "Last error"
 
-#: base/default.csv:389 
 msgid "Last login"
 msgstr "Last login"
 
-#: base/default.csv:390 
 msgid "Last name"
 msgstr "Last name"
 
-#: base/default.csv:391 
 msgid "Last update date"
 msgstr "Last update date"
 
-#: base/default.csv:392 
 msgid "Lastname"
 msgstr "Lastname"
 
-#: base/default.csv:393 
 msgid "Layout #1"
 msgstr "Layout #1"
 
-#: base/default.csv:394 
 msgid "Layout #2"
 msgstr "Layout #2"
 
-#: base/default.csv:395 
 msgid "Layout #3"
 msgstr "Layout #3"
 
-#: base/default.csv:396 
 msgid "Layout #4"
 msgstr "Layout #4"
 
-#: base/default.csv:397 
 msgid "Layout #5"
 msgstr "Layout #5"
 
-#: base/default.csv:398 
 msgid "Layout #6"
 msgstr "Layout #6"
 
-#: base/default.csv:399 
 msgid "Leave blank if your web space is the current domain."
 msgstr "Leave blank if your web space is the current domain."
 
-#: base/default.csv:400 
 msgid "Left"
 msgstr "Left"
 
-#: base/default.csv:401 
 msgid "Let your users know what is locked"
 msgstr "Let your users know what is locked"
 
-#: base/default.csv:402 
 msgid "Like"
 msgstr "Like"
 
-#: base/default.csv:403 
 msgid "Likes"
 msgstr "Likes"
 
-#: base/default.csv:404 
 msgid "Link"
 msgstr "Link"
 
-#: base/default.csv:405 
 msgid "Links"
 msgstr "Links"
 
-#: base/default.csv:406 
 msgid "Links are now re-ordered!"
 msgstr "Links are now re-ordered!"
 
-#: base/default.csv:407 
 msgid "List"
 msgstr "List"
 
-#: base/default.csv:408 
 msgid "List Item"
 msgstr "List Item"
 
-#: base/default.csv:409 
 msgid "List of your invoices"
 msgstr "List of your invoices"
 
-#: base/default.csv:410 
 msgid "Load More"
 msgstr "Load More"
 
-#: base/default.csv:411 
 msgid "Loading"
 msgstr "Loading"
 
-#: base/default.csv:412 
 msgid "Loading picture"
 msgstr "Loading picture"
 
-#: base/default.csv:413 
 msgid "Local APK Generator"
 msgstr "Local APK Generator"
 
-#: base/default.csv:414 
 msgid "Local APK build"
 msgstr "Local APK build"
 
-#: base/default.csv:415 
 msgid "Locate"
 msgstr "Locate"
 
-#: base/default.csv:416 
 msgid "Location"
 msgstr "Location"
 
-#: base/default.csv:417 
 msgid "Location: %s"
 msgstr "Location: %s"
 
-#: base/default.csv:418 
 msgid "Log in"
 msgstr "Log in"
 
-#: base/default.csv:419 
 msgid "Logged in as"
 msgstr "Logged in as"
 
-#: base/default.csv:420 
 msgid "Log-in"
 msgstr "Log-in"
 
-#: base/default.csv:421 
 msgid "Login to access your data"
 msgstr "Login to access your data"
 
-#: base/default.csv:422 
 msgid "Login to your admin interface"
 msgstr "Login to your admin interface"
 
-#: base/default.csv:423 
 msgid "Log-out"
 msgstr "Log-out"
 
-#: base/default.csv:424 
 msgid "Loyalty Card"
 msgstr "Loyalty Card"
 
-#: base/default.csv:425 
 msgid "LoyaltyCard"
 msgstr "LoyaltyCard"
 
-#: base/default.csv:426 
 msgid "MMMM dd y"
 msgstr "MMMM dd y"
 
-#: base/default.csv:427 
 msgid "MM,d yy"
 msgstr "MM,d yy"
 
-#: base/default.csv:428 
 msgid "MM.dd.y"
 msgstr "MM.dd.y"
 
-#: base/default.csv:429 
 msgid "MM.dd.y 'at' HH:mm a"
 msgstr "MM.dd.y 'at' HH:mm a"
 
-#: base/default.csv:430 
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "MM/dd/y 'at' hh:mm a"
 
-#: base/default.csv:431 
 msgid "MM/dd/y hh:mm a"
 msgstr "MM/dd/y hh:mm a"
 
-#: base/default.csv:432 
 msgid "MM/dd/yy"
 msgstr "MM/dd/yy"
 
-#: base/default.csv:433 
 msgid "MM/dd/yyyy"
 msgstr "MM/dd/yyyy"
 
-#: base/default.csv:434 
 msgid "Main Platform"
 msgstr "Main Platform"
 
-#: base/default.csv:435 
 msgid "Main category"
 msgstr "Main category"
 
-#: base/default.csv:436 
 msgid "Main domain"
 msgstr "Main domain"
 
-#: base/default.csv:437 
 msgid "Main domain (without https?://) is required for services, and tools."
 msgstr "Main domain (without https?://) is required for services, and tools."
 
-#: base/default.csv:438 
 msgid "Main hostname"
 msgstr "Main hostname"
 
-#: base/default.csv:439 
 msgid "Make this image colorizable"
 msgstr "Make this image colorizable"
 
-#: base/default.csv:440 
 msgid "Manage"
 msgstr "Manage"
 
-#: base/default.csv:441 
 msgid "Manage Folders"
 msgstr "Manage Folders"
 
-#: base/default.csv:442 
 msgid "Manage Places"
 msgstr "Manage Places"
 
-#: base/default.csv:443 
 msgid "Manage Tour"
 msgstr "Manage Tour"
 
-#: base/default.csv:444 
 msgid "Manage content"
 msgstr "Manage content"
 
-#: base/default.csv:445 
 msgid "Map"
 msgstr "Map"
 
-#: base/default.csv:446 
 msgid "Maps"
 msgstr "Maps"
 
-#: base/default.csv:447 
 msgid "Mcommerce"
 msgstr "Mcommerce"
 
-#: base/default.csv:448 
 msgid "Media"
 msgstr "Media"
 
-#: base/default.csv:449 
 msgid "Message"
 msgstr "Message"
 
-#: base/default.csv:450 
 msgid "Message from your app %s"
 msgstr "Message from your app %s"
 
-#: base/default.csv:451 
 msgid "Messages"
 msgstr "Messages"
 
-#: base/default.csv:452 
 msgid "Metadata"
 msgstr "Metadata"
 
-#: base/default.csv:453 
 msgid "Method"
 msgstr "Method"
 
-#: base/default.csv:454 
 msgid "Middle"
 msgstr "Middle"
 
-#: base/default.csv:455 
 msgid "Migrate sessions"
 msgstr "Migrate sessions"
 
-#: base/default.csv:456 
 msgid "Migrate sessions to Redis"
 msgstr "Migrate sessions to Redis"
 
-#: base/default.csv:457 
 msgid "Misc"
 msgstr "Misc"
 
-#: base/default.csv:458 
 msgid "Missing appId"
 msgstr "Missing appId"
 
-#: base/default.csv:459 
 msgid "Missing gallery_id"
 msgstr "Missing gallery_id"
 
-#: base/default.csv:460 
 msgid "Missing parameters."
 msgstr "Missing parameters."
 
-#: base/default.csv:461 
 msgid "Missing params"
 msgstr "Missing params"
 
-#: base/default.csv:462 
 msgid "Missing status"
 msgstr "Missing status"
 
-#: base/default.csv:463 
 msgid "Missing value"
 msgstr "Missing value"
 
-#: base/default.csv:464 
 msgid "Missing values"
 msgstr "Missing values"
 
-#: base/default.csv:465 
 msgid "Mobile display"
 msgstr "Mobile display"
 
-#: base/default.csv:466 
 msgid "Modal"
 msgstr "Modal"
 
-#: base/default.csv:467 
 msgid "Modules"
 msgstr "Modules"
 
-#: base/default.csv:468 
 msgid "Monetization"
 msgstr "Monetization"
 
-#: base/default.csv:469 
 msgid "Month"
 msgstr "Month"
 
-#: base/default.csv:470 
 msgid "Monthly"
 msgstr "Monthly"
 
-#: base/default.csv:471 
 msgid "More"
 msgstr "More"
 
-#: base/default.csv:472 
 msgid "My Users List"
 msgstr "My Users List"
 
-#: base/default.csv:473 
 msgid "My account"
 msgstr "My account"
 
-#: base/default.csv:474 
 msgid "My custom template"
 msgstr "My custom template"
 
-#: base/default.csv:475 
 msgid "My invoices"
 msgstr "My invoices"
 
-#: base/default.csv:476 
 msgid "MyTemplate"
 msgstr "MyTemplate"
 
-#: base/default.csv:477 
 msgid "NSCameraUsageDescription"
 msgstr "NSCameraUsageDescription"
 
-#: base/default.csv:478 
 msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
 msgstr "NSLocationAlwaysAndWhenInUseUsageDescription"
 
-#: base/default.csv:479 
 msgid "NSLocationAlwaysUsageDescription"
 msgstr "NSLocationAlwaysUsageDescription"
 
-#: base/default.csv:480 
 msgid "NSLocationWhenInUseUsageDescription"
 msgstr "NSLocationWhenInUseUsageDescription"
 
-#: base/default.csv:481 
 msgid "NSMotionUsageDescription"
 msgstr "NSMotionUsageDescription"
 
-#: base/default.csv:482 
 msgid "NSPhotoLibraryUsageDescription"
 msgstr "NSPhotoLibraryUsageDescription"
 
-#: base/default.csv:483 
 msgid "Name"
 msgstr "Name"
 
-#: base/default.csv:484 
 msgid "Never"
 msgstr "Never"
 
-#: base/default.csv:485 
 msgid "New"
 msgstr "New"
 
-#: base/default.csv:486 
 msgid "New folder"
 msgstr "New folder"
 
-#: base/default.csv:487 
 msgid "New format"
 msgstr "New format"
 
-#: base/default.csv:488 
 msgid "New password"
 msgstr "New password"
 
-#: base/default.csv:489 
 msgid "New positions are missing."
 msgstr "New positions are missing."
 
-#: base/default.csv:490 
 msgid "New subfolder"
 msgstr "New subfolder"
 
-#: base/default.csv:491 
 msgid "Newswall"
 msgstr "Newswall"
 
-#: base/default.csv:492 
 msgid "Next"
 msgstr "Next"
 
-#: base/default.csv:493 
 msgid "No"
 msgstr "No"
 
-#: base/default.csv:494 
 msgid "No Results"
 msgstr "No Results"
 
-#: base/default.csv:495 
 msgid "No address to display on map."
 msgstr "No address to display on map."
 
-#: base/default.csv:496 
 msgid "No data for this metrics for now."
 msgstr "No data for this metrics for now."
 
-#: base/default.csv:497 
 msgid "No features"
 msgstr "No features"
 
-#: base/default.csv:498 
 msgid "No invoice for now."
 msgstr "No invoice for now."
 
-#: base/default.csv:499 
 msgid "No items found"
 msgstr "No items found"
 
-#: base/default.csv:500 
 msgid "No linkable element found on this page."
 msgstr "No linkable element found on this page."
 
-#: base/default.csv:501 
 msgid "No logs"
 msgstr "No logs"
 
-#: base/default.csv:502 
 msgid "No modules"
 msgstr "No modules"
 
-#: base/default.csv:503 
 msgid "No place to display on map."
 msgstr "No place to display on map."
 
-#: base/default.csv:504 
 msgid "No profile found. Please create one in Settings tab."
 msgstr "No profile found. Please create one in Settings tab."
 
-#: base/default.csv:505 
 msgid "No published applications available."
 msgstr "No published applications available."
 
-#: base/default.csv:506 
 msgid "No results for your request."
 msgstr "No results for your request."
 
-#: base/default.csv:507 
 msgid "No rules"
 msgstr "No rules"
 
-#: base/default.csv:508 
 msgid "No uploaded image"
 msgstr "No uploaded image"
 
-#: base/default.csv:509 
 msgid "Not available offline."
 msgstr "Not available offline."
 
-#: base/default.csv:510 
 msgid "Note"
 msgstr "Note"
 
-#: base/default.csv:511 
 msgid "Note: A disabled feature is not removed from published applications & can still be edited, but users can't add it anymore!"
 msgstr "Note: A disabled feature is not removed from published applications & can still be edited, but users can't add it anymore!"
 
-#: base/default.csv:512 
 msgid "Note: Let's encrypt X1 is a staging certificate."
 msgstr "Note: Let's encrypt X1 is a staging certificate."
 
-#: base/default.csv:513 
 msgid "Nothing to display."
 msgstr "Nothing to display."
 
-#: base/default.csv:514 
 msgid "Number"
 msgstr "Number"
 
-#: base/default.csv:515 
 msgid "Number of people"
 msgstr "Number of people"
 
-#: base/default.csv:516 
 msgid "Number of reward used"
 msgstr "Number of reward used"
 
-#: base/default.csv:517 
 msgid "OK"
 msgstr "OK"
 
-#: base/default.csv:518 
 msgid "OR"
 msgstr "OR"
 
-#: base/default.csv:519 
 msgid "Offline Payment"
 msgstr "Offline Payment"
 
-#: base/default.csv:520 
 msgid "Offline content"
 msgstr "Offline content"
 
-#: base/default.csv:521 
 msgid "Old Password"
 msgstr "Old Password"
 
-#: base/default.csv:522 
 msgid "Only active"
 msgstr "Only active"
 
-#: base/default.csv:523 
 msgid "Only inactive"
 msgstr "Only inactive"
 
-#: base/default.csv:524 
 msgid "Only offline"
 msgstr "Only offline"
 
-#: base/default.csv:525 
 msgid "Only published application are available for global push notifications."
 msgstr "Only published application are available for global push notifications."
 
-#: base/default.csv:526 
 msgid "Open custom URL"
 msgstr "Open custom URL"
 
-#: base/default.csv:527 
 msgid "Open settings"
 msgstr "Open settings"
 
-#: base/default.csv:528 
 msgid "Options"
 msgstr "Options"
 
-#: base/default.csv:529 
 msgid "Or do you want to return to editor?"
 msgstr "Or do you want to return to editor?"
 
-#: base/default.csv:530 
 msgid "Order"
 msgstr "Order"
 
-#: base/default.csv:531 
 msgid "Order date"
 msgstr "Order date"
 
-#: base/default.csv:532 
 msgid "Origin"
 msgstr "Origin"
 
-#: base/default.csv:533 
 msgid "Ouch, this page doesn't exist"
 msgstr "Ouch, this page doesn't exist"
 
-#: base/default.csv:534 
 msgid "Override layout"
 msgstr "Override layout"
 
-#: base/default.csv:535 
 msgid "PHP Version"
 msgstr "PHP Version"
 
-#: base/default.csv:536 
 msgid "Package name"
 msgstr "Package name"
 
-#: base/default.csv:537 
 msgid "Padlock"
 msgstr "Padlock"
 
-#: base/default.csv:538 
 msgid "Page settings"
 msgstr "Page settings"
 
-#: base/default.csv:539 
 msgid "Paid At"
 msgstr "Paid At"
 
-#: base/default.csv:540 
 msgid "Paid amount"
 msgstr "Paid amount"
 
-#: base/default.csv:541 
 msgid "Paid at"
 msgstr "Paid at"
 
-#: base/default.csv:542 
 msgid "Parent"
 msgstr "Parent"
 
-#: base/default.csv:543 
 msgid "Password"
 msgstr "Password"
 
-#: base/default.csv:544 
 msgid "Password (clear)"
 msgstr "Password (clear)"
 
-#: base/default.csv:545 
 msgid "Password (hashed)"
 msgstr "Password (hashed)"
 
-#: base/default.csv:546 
 msgid "Passwords don't match"
 msgstr "Passwords don't match"
 
-#: base/default.csv:547 
 msgid "PayPal Express Checkout"
 msgstr "PayPal Express Checkout"
 
-#: base/default.csv:548 
 msgid "Payment"
 msgstr "Payment"
 
-#: base/default.csv:549 
 msgid "Payment ID"
 msgstr "Payment ID"
 
-#: base/default.csv:550 
 msgid "Payment Method"
 msgstr "Payment Method"
 
-#: base/default.csv:551 
 msgid "Payment method"
 msgstr "Payment method"
 
-#: base/default.csv:552 
 msgid "Payments"
 msgstr "Payments"
 
-#: base/default.csv:553 
 msgid "Permissions"
 msgstr "Permissions"
 
-#: base/default.csv:554 
 msgid "Personal data"
 msgstr "Personal data"
 
-#: base/default.csv:555 
 msgid "Phone"
 msgstr "Phone"
 
-#: base/default.csv:556 
 msgid "Phone and/or E-mail"
 msgstr "Phone and/or E-mail"
 
-#: base/default.csv:557 
 msgid "Photos"
 msgstr "Photos"
 
-#: base/default.csv:558 
 msgid "Place disabled"
 msgstr "Place disabled"
 
-#: base/default.csv:559 
 msgid "Places"
 msgstr "Places"
 
-#: base/default.csv:560 
 msgid "Plain"
 msgstr "Plain"
 
-#: base/default.csv:561 
 msgid "Plans"
 msgstr "Plans"
 
-#: base/default.csv:562 
 msgid "Platform"
 msgstr "Platform"
 
-#: base/default.csv:563 
 msgid "Platform Name"
 msgstr "Platform Name"
 
-#: base/default.csv:564 
 msgid "Platform hostname"
 msgstr "Platform hostname"
 
-#: base/default.csv:565 
 msgid "Player"
 msgstr "Player"
 
-#: base/default.csv:566 
 msgid "Please create the API keys to enable this feature."
 msgstr "Please create the API keys to enable this feature."
 
-#: base/default.csv:567 
 msgid "Please, enter a correct email address."
 msgstr "Please, enter a correct email address."
 
-#: base/default.csv:568 
 msgid "Please enter a password"
 msgstr "Please enter a password"
 
-#: base/default.csv:569 
 msgid "Please enter a valid URL."
 msgstr "Please enter a valid URL."
 
-#: base/default.csv:570 
 msgid "Please enter a valid credit card number."
 msgstr "Please enter a valid credit card number."
 
-#: base/default.csv:571 
 msgid "Please, enter a valid date"
 msgstr "Please, enter a valid date"
 
-#: base/default.csv:572 
 msgid "Please enter a valid date (ISO)."
 msgstr "Please enter a valid date (ISO)."
 
-#: base/default.csv:573 
 msgid "Please enter a valid email address"
 msgstr "Please enter a valid email address"
 
-#: base/default.csv:574 
 msgid "Please enter a valid number."
 msgstr "Please enter a valid number."
 
-#: base/default.csv:575 
 msgid "Please enter a valid url"
 msgstr "Please enter a valid url"
 
-#: base/default.csv:576 
 msgid "Please enter a value between {0} and {1}."
 msgstr "Please enter a value between {0} and {1}."
 
-#: base/default.csv:577 
 msgid "Please enter a value between {0} and {1} characters long."
 msgstr "Please enter a value between {0} and {1} characters long."
 
-#: base/default.csv:578 
 msgid "Please enter a value greater than or equal to {0}."
 msgstr "Please enter a value greater than or equal to {0}."
 
-#: base/default.csv:579 
 msgid "Please enter a value less than or equal to {0}."
 msgstr "Please enter a value less than or equal to {0}."
 
-#: base/default.csv:580 
 msgid "Please enter at least {0} characters."
 msgstr "Please enter at least {0} characters."
 
-#: base/default.csv:581 
 msgid "Please enter no more than {0} characters."
 msgstr "Please enter no more than {0} characters."
 
-#: base/default.csv:582 
 msgid "Please enter only digits."
 msgstr "Please enter only digits."
 
-#: base/default.csv:583 
 msgid "Please enter the same value again."
 msgstr "Please enter the same value again."
 
-#: base/default.csv:584 
 msgid "Please enter your email address"
 msgstr "Please enter your email address"
 
-#: base/default.csv:585 
 msgid "Please fill in the following fields:"
 msgstr "Please fill in the following fields:"
 
-#: base/default.csv:586 
 msgid "Please fill out the following fields"
 msgstr "Please fill out the following fields"
 
-#: base/default.csv:587 
 msgid "Please fix this field."
 msgstr "Please fix this field."
 
-#: base/default.csv:588 
 msgid "Please log in."
 msgstr "Please log in."
 
-#: base/default.csv:589 
 msgid "Please note that this page is currently displaying DEMO data. Real data will be displayed when the %s applications limit is reached."
 msgstr "Please note that this page is currently displaying DEMO data. Real data will be displayed when the %s applications limit is reached."
 
-#: base/default.csv:590 
 msgid "Please note that this page is currently displaying DEMO data. Real data will be displayed when your application is published."
 msgstr "Please note that this page is currently displaying DEMO data. Real data will be displayed when your application is published."
 
-#: base/default.csv:591 
 msgid "Please provide a certificate."
 msgstr "Please provide a certificate."
 
-#: base/default.csv:592 
 msgid "Please select at least one application."
 msgstr "Please select at least one application."
 
-#: base/default.csv:593 
 msgid "Please wait..."
 msgstr "Please wait..."
 
-#: base/default.csv:594 
 msgid "Podcast"
 msgstr "Podcast"
 
-#: base/default.csv:595 
 msgid "Podcast URL"
 msgstr "Podcast URL"
 
-#: base/default.csv:596 
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (iTunes format)"
 
-#: base/default.csv:597 
 msgid "Podcast type is invalid or can't be found"
 msgstr "Podcast type is invalid or can't be found"
 
-#: base/default.csv:598 
 msgid "Port"
 msgstr "Port"
 
-#: base/default.csv:599 
 msgid "Port, example: 3310"
 msgstr "Port, example: 3310"
 
-#: base/default.csv:600 
 msgid "Position Menu"
 msgstr "Position Menu"
 
-#: base/default.csv:601 
 msgid "Postcode"
 msgstr "Postcode"
 
-#: base/default.csv:602 
 msgid "Previewer"
 msgstr "Previewer"
 
-#: base/default.csv:603 
 msgid "Previews"
 msgstr "Previews"
 
-#: base/default.csv:604 
 msgid "Privacy"
 msgstr "Privacy"
 
-#: base/default.csv:605 
 msgid "Privacy Policy"
 msgstr "Privacy Policy"
 
-#: base/default.csv:606 
 msgid "Privacy policy"
 msgstr "Privacy policy"
 
-#: base/default.csv:607 
 msgid "Privacy policy section for GDPR"
 msgstr "Privacy policy section for GDPR"
 
-#: base/default.csv:608 
 msgid "Privacy policy successfully saved"
 msgstr "Privacy policy successfully saved"
 
-#: base/default.csv:609 
 msgid "Privacy settings"
 msgstr "Privacy settings"
 
-#: base/default.csv:610 
 msgid "Products"
 msgstr "Products"
 
-#: base/default.csv:611 
 msgid "Profile"
 msgstr "Profile"
 
-#: base/default.csv:612 
 msgid "Promotion"
 msgstr "Promotion"
 
-#: base/default.csv:613 
 msgid "Publication settings"
 msgstr "Publication settings"
 
-#: base/default.csv:614 
 msgid "Publish your app"
 msgstr "Publish your app"
 
-#: base/default.csv:615 
 msgid "Publishable Key"
 msgstr "Publishable Key"
 
-#: base/default.csv:616 
 msgid "Push"
 msgstr "Push"
 
-#: base/default.csv:617 
 msgid "Push Notifications"
 msgstr "Push Notifications"
 
-#: base/default.csv:618 
 msgid "Push message"
 msgstr "Push message"
 
-#: base/default.csv:619 
 msgid "Push message is sent."
 msgstr "Push message is sent."
 
-#: base/default.csv:620 
 msgid "Push notification"
 msgstr "Push notification"
 
-#: base/default.csv:621 
 msgid "Push notifications"
 msgstr "Push notifications"
 
-#: base/default.csv:622 
 msgid "Push notifications Your account doesn't exists on editor side. Please create it before using tour edition."
 msgstr "Push notifications Your account doesn't exists on editor side. Please create it before using tour edition."
 
-#: base/default.csv:623 
 msgid "QR Code"
 msgstr "QR Code"
 
-#: base/default.csv:624 
 msgid "QRCode"
 msgstr "QRCode"
 
-#: base/default.csv:625 
 msgid "Qty"
 msgstr "Qty"
 
-#: base/default.csv:626 
 msgid "Query"
 msgstr "Query"
 
-#: base/default.csv:627 
 msgid "RSS Feed"
 msgstr "RSS Feed"
 
-#: base/default.csv:628 
 msgid "Radio"
 msgstr "Radio"
 
-#: base/default.csv:629 
 msgid "Redis AUTH KEY"
 msgstr "Redis AUTH KEY"
 
-#: base/default.csv:630 
 msgid "Registration date"
 msgstr "Registration date"
 
-#: base/default.csv:631 
 msgid "Release"
 msgstr "Release"
 
-#: base/default.csv:632 
 msgid "Remove"
 msgstr "Remove"
 
-#: base/default.csv:633 
 msgid "Remove this page from this folder?"
 msgstr "Remove this page from this folder?"
 
-#: base/default.csv:634 
 msgid "Remove this step"
 msgstr "Remove this step"
 
-#: base/default.csv:635 
 msgid "Request & Upload to panel"
 msgstr "Request & Upload to panel"
 
-#: base/default.csv:636 
 msgid "Request APK generation"
 msgstr "Request APK generation"
 
-#: base/default.csv:637 
 msgid "Request or renew the certificate via Let's Encrypt."
 msgstr "Request or renew the certificate via Let's Encrypt."
 
-#: base/default.csv:638 
 msgid "Requested by"
 msgstr "Requested by"
 
-#: base/default.csv:639 
 msgid "Required fields"
 msgstr "Required fields"
 
-#: base/default.csv:640 
 msgid "Reset to default Privacy Policy."
 msgstr "Reset to default Privacy Policy."
 
-#: base/default.csv:641 
 msgid "Resize your picture"
 msgstr "Resize your picture"
 
-#: base/default.csv:642 
 msgid "Restart"
 msgstr "Restart"
 
-#: base/default.csv:643 
 msgid "Restore Apps"
 msgstr "Restore Apps"
 
-#: base/default.csv:644 
 msgid "Restore Apps sources"
 msgstr "Restore Apps sources"
 
-#: base/default.csv:645 
 msgid "Right"
 msgstr "Right"
 
-#: base/default.csv:646 
 msgid "Roles"
 msgstr "Roles"
 
-#: base/default.csv:647 
 msgid "Rss"
 msgstr "Rss"
 
-#: base/default.csv:648 
 msgid "Rule have been added."
 msgstr "Rule have been added."
 
-#: base/default.csv:649 
 msgid "Rule have been removed."
 msgstr "Rule have been removed."
 
-#: base/default.csv:650 
 msgid "Run Android SDK update"
 msgstr "Run Android SDK update"
 
-#: base/default.csv:651 
 msgid "SCSS successfully saved"
 msgstr "SCSS successfully saved"
 
-#: base/default.csv:652 
 msgid "SELF-ASSIGNABLE"
 msgstr "SELF-ASSIGNABLE"
 
-#: base/default.csv:653 
 msgid "SEND"
 msgstr "SEND"
 
-#: base/default.csv:654 
 msgid "SMTP"
 msgstr "SMTP"
 
-#: base/default.csv:655 
 msgid "SMTP - Whitelist: An administrator sent a request for white-listing his domain."
 msgstr "SMTP - Whitelist: An administrator sent a request for white-listing his domain."
 
-#: base/default.csv:656 
 msgid "SMTP Credentials (Affiliated to the White-Label %s)"
 msgstr "SMTP Credentials (Affiliated to the White-Label %s)"
 
-#: base/default.csv:657 
 msgid "Sales by Categories (TOP 10)"
 msgstr "Sales by Categories (TOP 10)"
 
-#: base/default.csv:658 
 msgid "Sales by Payment method"
 msgstr "Sales by Payment method"
 
-#: base/default.csv:659 
 msgid "Sales by Store"
 msgstr "Sales by Store"
 
-#: base/default.csv:660 
 msgid "Sales by product (TOP 20)"
 msgstr "Sales by product (TOP 20)"
 
-#: base/default.csv:661 
 msgid "Sample"
 msgstr "Sample"
 
-#: base/default.csv:662 
 msgid "Save"
 msgstr "Save"
 
-#: base/default.csv:663 
 msgid "Save GCM settings"
 msgstr "Save GCM settings"
 
-#: base/default.csv:664 
 msgid "Save iTunes credentials"
 msgstr "Save iTunes credentials"
 
-#: base/default.csv:665 
 msgid "Save sender id & key"
 msgstr "Save sender id & key"
 
-#: base/default.csv:666 
 msgid "Scan it."
 msgstr "Scan it."
 
-#: base/default.csv:667 
 msgid "Scan now to unlock"
 msgstr "Scan now to unlock"
 
-#: base/default.csv:668 
 msgid "Scheduled for"
 msgstr "Scheduled for"
 
-#: base/default.csv:669 
 msgid "Scheduled for <i>%s</i>"
 msgstr "Scheduled for <i>%s</i>"
 
-#: base/default.csv:670 
 msgid "Scratchcard Users"
 msgstr "Scratchcard Users"
 
-#: base/default.csv:671 
 msgid "Search"
 msgstr "Search"
 
-#: base/default.csv:672 
 msgid "Search ..."
 msgstr "Search ..."
 
-#: base/default.csv:673 
 msgid "Search / Filter"
 msgstr "Search / Filter"
 
-#: base/default.csv:674 
 msgid "Search, filter ..."
 msgstr "Search, filter ..."
 
-#: base/default.csv:675 
 msgid "Search results"
 msgstr "Search results"
 
-#: base/default.csv:676 
 msgid "See"
 msgstr "See"
 
-#: base/default.csv:677 
 msgid "Select a Development team"
 msgstr "Select a Development team"
 
-#: base/default.csv:678 
 msgid "Select a country"
 msgstr "Select a country"
 
-#: base/default.csv:679 
 msgid "Select a hostname"
 msgstr "Select a hostname"
 
-#: base/default.csv:680 
 msgid "Select a panel type or self-managed"
 msgstr "Select a panel type or self-managed"
 
-#: base/default.csv:681 
 msgid "Select all"
 msgstr "Select all"
 
-#: base/default.csv:682 
 msgid "Select an album"
 msgstr "Select an album"
 
-#: base/default.csv:683 
 msgid "Select an iTunes Connect provider"
 msgstr "Select an iTunes Connect provider"
 
-#: base/default.csv:684 
 msgid "Select target applications"
 msgstr "Select target applications"
 
-#: base/default.csv:685 
 msgid "Select your back button appearance"
 msgstr "Select your back button appearance"
 
-#: base/default.csv:686 
 msgid "Selected hostname"
 msgstr "Selected hostname"
 
-#: base/default.csv:687 
 msgid "Selected main hostname"
 msgstr "Selected main hostname"
 
-#: base/default.csv:688 
 msgid "Send"
 msgstr "Send"
 
-#: base/default.csv:689 
 msgid "Send a cover image"
 msgstr "Send a cover image"
 
-#: base/default.csv:690 
 msgid "Send push"
 msgstr "Send push"
 
-#: base/default.csv:691 
 msgid "Send report"
 msgstr "Send report"
 
-#: base/default.csv:692 
 msgid "Send to all applications."
 msgstr "Send to all applications."
 
-#: base/default.csv:693 
 msgid "Send your pictures"
 msgstr "Send your pictures"
 
-#: base/default.csv:694 
 msgid "Sender ID"
 msgstr "Sender ID"
 
-#: base/default.csv:695 
 msgid "Sender email"
 msgstr "Sender email"
 
-#: base/default.csv:696 
 msgid "Sender name"
 msgstr "Sender name"
 
-#: base/default.csv:697 
 msgid "Server key"
 msgstr "Server key"
 
-#: base/default.csv:698 
 msgid "Service APK Generator"
 msgstr "Service APK Generator"
 
-#: base/default.csv:699 
 msgid "Service APK generator"
 msgstr "Service APK generator"
 
-#: base/default.csv:700 
 msgid "Service notes"
 msgstr "Service notes"
 
-#: base/default.csv:701 
 msgid "Session settings"
 msgstr "Session settings"
 
-#: base/default.csv:702 
 msgid "Set Meal"
 msgstr "Set Meal"
 
-#: base/default.csv:703 
 msgid "Settings"
 msgstr "Settings"
 
-#: base/default.csv:704 
 msgid "Show"
 msgstr "Show"
 
-#: base/default.csv:705 
 msgid "Show cover"
 msgstr "Show cover"
 
-#: base/default.csv:706 
 msgid "Show search field"
 msgstr "Show search field"
 
-#: base/default.csv:707 
 msgid "Show title"
 msgstr "Show title"
 
-#: base/default.csv:708 
 msgid "Siberian current installation path"
 msgstr "Siberian current installation path"
 
-#: base/default.csv:709 
 msgid "Siberian domain"
 msgstr "Siberian domain"
 
-#: base/default.csv:710 
 msgid "Siberian informations"
 msgstr "Siberian informations"
 
-#: base/default.csv:711 
 msgid "Siberian uses it to scan all uploaded files that have passed the soft Firewall."
 msgstr "Siberian uses it to scan all uploaded files that have passed the soft Firewall."
 
-#: base/default.csv:712 
 msgid "Size:"
 msgstr "Size:"
 
-#: base/default.csv:713 
 msgid "Size on disk"
 msgstr "Size on disk"
 
-#: base/default.csv:714 
 msgid "Slack notification settings"
 msgstr "Slack notification settings"
 
-#: base/default.csv:715 
 msgid "Slider"
 msgstr "Slider"
 
-#: base/default.csv:716 
 msgid "Social"
 msgstr "Social"
 
-#: base/default.csv:717 
 msgid "Socialgaming"
 msgstr "Socialgaming"
 
-#: base/default.csv:718 
 msgid "Socket"
 msgstr "Socket"
 
-#: base/default.csv:719 
 msgid "Soundcloud"
 msgstr "Soundcloud"
 
-#: base/default.csv:720 
 msgid "Source code"
 msgstr "Source code"
 
-#: base/default.csv:721 
 msgid "Source code generation is not configured, ask your administrator for more informations."
 msgstr "Source code generation is not configured, ask your administrator for more informations."
 
-#: base/default.csv:722 
 msgid "Sourcecode"
 msgstr "Sourcecode"
 
-#: base/default.csv:723 
 msgid "Sources"
 msgstr "Sources"
 
-#: base/default.csv:724 
 msgid "Spinner"
 msgstr "Spinner"
 
-#: base/default.csv:725 
 msgid "Split Ad revenue (percent for you)"
 msgstr "Split Ad revenue (percent for you)"
 
-#: base/default.csv:726 
 msgid "Start date must be lower than end date."
 msgstr "Start date must be lower than end date."
 
-#: base/default.csv:727 
 msgid "State / Province"
 msgstr "State / Province"
 
-#: base/default.csv:728 
 msgid "Step placement (optional)"
 msgstr "Step placement (optional)"
 
-#: base/default.csv:729 
 msgid "Step saved successfully."
 msgstr "Step saved successfully."
 
-#: base/default.csv:730 
 msgid "Step text"
 msgstr "Step text"
 
-#: base/default.csv:731 
 msgid "Step title"
 msgstr "Step title"
 
-#: base/default.csv:732 
 msgid "Street"
 msgstr "Street"
 
-#: base/default.csv:733 
 msgid "Subscriptions"
 msgstr "Subscriptions"
 
-#: base/default.csv:734 
 msgid "Subtitle"
 msgstr "Subtitle"
 
-#: base/default.csv:735 
 msgid "Success"
 msgstr "Success"
 
-#: base/default.csv:736 
 msgid "Support"
 msgstr "Support"
 
-#: base/default.csv:737 
 msgid "Support Link"
 msgstr "Support Link"
 
-#: base/default.csv:738 
 msgid "Support link"
 msgstr "Support link"
 
-#: base/default.csv:739 
 msgid "Switch to Ionic design"
 msgstr "Switch to Ionic design"
 
-#: base/default.csv:740 
 msgid "System"
 msgstr "System"
 
-#: base/default.csv:741 
 msgid "TLS"
 msgstr "TLS"
 
-#: base/default.csv:742 
 msgid "Target applications"
 msgstr "Target applications"
 
-#: base/default.csv:743 
 msgid "Target devices"
 msgstr "Target devices"
 
-#: base/default.csv:744 
 msgid "Target specific devices"
 msgstr "Target specific devices"
 
-#: base/default.csv:745 
 msgid "Tax"
 msgstr "Tax"
 
-#: base/default.csv:746 
 msgid "Taxes"
 msgstr "Taxes"
 
-#: base/default.csv:747 
 msgid "Template"
 msgstr "Template"
 
-#: base/default.csv:748 
 msgid "Test SMTP"
 msgstr "Test SMTP"
 
-#: base/default.csv:749 
 msgid "Text"
 msgstr "Text"
 
-#: base/default.csv:750 
 msgid "Thank you"
 msgstr "Thank you"
 
-#: base/default.csv:751 
 msgid "Thank you for your request.<br />We'll answer you as soon as possible."
 msgstr "Thank you for your request.<br />We'll answer you as soon as possible."
 
-#: base/default.csv:752 
 msgid "The account has been successfully saved"
 msgstr "The account has been successfully saved"
 
-#: base/default.csv:753 
 msgid "The address you're looking for does not exists."
 msgstr "The address you're looking for does not exists."
 
-#: base/default.csv:754 
 msgid "The admin_id is required"
 msgstr "The admin_id is required"
 
-#: base/default.csv:755 
 msgid "The admin_id parameter is required"
 msgstr "The admin_id parameter is required"
 
-#: base/default.csv:756 
 msgid "The app_id is required"
 msgstr "The app_id is required"
 
-#: base/default.csv:757 
 msgid "The app_id parameter is required"
 msgstr "The app_id parameter is required"
 
-#: base/default.csv:758 
 msgid "The certificate request failed 3 times, please check the certificate information, your panel credentials, and everything else.<br />If your certificate is valid, you can try to upload to panel only."
 msgstr "The certificate request failed 3 times, please check the certificate information, your panel credentials, and everything else.<br />If your certificate is valid, you can try to upload to panel only."
 
-#: base/default.csv:759 
 msgid "The email is required"
 msgstr "The email is required"
 
-#: base/default.csv:760 
 msgid "The entered text mismatch"
 msgstr "The entered text mismatch"
 
-#: base/default.csv:761 
 msgid "The file '%s' does not exist"
 msgstr "The file '%s' does not exist"
 
-#: base/default.csv:762 
 msgid "The image '%s' does not exist"
 msgstr "The image '%s' does not exist"
 
-#: base/default.csv:763 
 msgid "The image size '%s' could not be detected."
 msgstr "The image size '%s' could not be detected."
 
-#: base/default.csv:764 
 msgid "The name is required"
 msgstr "The name is required"
 
-#: base/default.csv:765 
 msgid "The old password does not match the entered password."
 msgstr "The old password does not match the entered password."
 
-#: base/default.csv:766 
 msgid "The password is required"
 msgstr "The password is required"
 
-#: base/default.csv:767 
 msgid "The password must be at least 6 characters"
 msgstr "The password must be at least 6 characters"
 
-#: base/default.csv:768 
 msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
 msgstr "The payment has been cancelled, something wrong happened? Feel free to contact us."
 
-#: base/default.csv:769 
 msgid "The sent request is empty."
 msgstr "The sent request is empty."
 
-#: base/default.csv:770 
 msgid "The user_id is required"
 msgstr "The user_id is required"
 
-#: base/default.csv:771 
 msgid "The value_id is required."
 msgstr "The value_id is required."
 
-#: base/default.csv:772 
 msgid "This URL is already used"
 msgstr "This URL is already used"
 
-#: base/default.csv:773 
 msgid "This admin can generate APK"
 msgstr "This admin can generate APK"
 
-#: base/default.csv:774 
 msgid "This admin does not exist"
 msgstr "This admin does not exist"
 
-#: base/default.csv:775 
 msgid "This admin gives you the required information to publish applications"
 msgstr "This admin gives you the required information to publish applications"
 
-#: base/default.csv:776 
 msgid "This administrator does not exist"
 msgstr "This administrator does not exist"
 
-#: base/default.csv:777 
 msgid "This application does not exist"
 msgstr "This application does not exist"
 
-#: base/default.csv:778 
 msgid "This block type doesn't exist"
 msgstr "This block type doesn't exist"
 
-#: base/default.csv:779 
 msgid "This code is unrecognized"
 msgstr "This code is unrecognized"
 
-#: base/default.csv:780 
 msgid "This email address does not exist"
 msgstr "This email address does not exist"
 
-#: base/default.csv:781 
 msgid "This email address is already used"
 msgstr "This email address is already used"
 
-#: base/default.csv:782 
 msgid "This feature is available from the application only"
 msgstr "This feature is available from the application only"
 
-#: base/default.csv:783 
 msgid "This feature is disabled by default since update 4.12.24 and is deprecated in favor of Folders v2."
 msgstr "This feature is disabled by default since update 4.12.24 and is deprecated in favor of Folders v2."
 
-#: base/default.csv:784 
 msgid "This feature opens the Code Scan camera"
 msgstr "This feature opens the Code Scan camera"
 
-#: base/default.csv:785 
 msgid "This field is required"
 msgstr "This field is required"
 
-#: base/default.csv:786 
 msgid "This layout has no option."
 msgstr "This layout has no option."
 
-#: base/default.csv:787 
 msgid "This option doesn't exists."
 msgstr "This option doesn't exists."
 
-#: base/default.csv:788 
 msgid "This option is not compatible with applications using Forms and/or features with Keyboard."
 msgstr "This option is not compatible with applications using Forms and/or features with Keyboard."
 
-#: base/default.csv:789 
 msgid "This plan is an offline plan."
 msgstr "This plan is an offline plan."
 
-#: base/default.csv:790 
 msgid "This section is unlocked for mobile users only"
 msgstr "This section is unlocked for mobile users only"
 
-#: base/default.csv:791 
 msgid "This will open the code scan camera on your device."
 msgstr "This will open the code scan camera on your device."
 
-#: base/default.csv:792 
 msgid "Thumbnail"
 msgstr "Thumbnail"
 
-#: base/default.csv:793 
 msgid "Time spent in application"
 msgstr "Time spent in application"
 
-#: base/default.csv:794 
 msgid "Timezone"
 msgstr "Timezone"
 
-#: base/default.csv:795 
 msgid "Tip"
 msgstr "Tip"
 
-#: base/default.csv:796 
 msgid "Title"
 msgstr "Title"
 
-#: base/default.csv:797 
 msgid "Title & Message are both required."
 msgstr "Title & Message are both required."
 
-#: base/default.csv:798 
 msgid "Title's Card"
 msgstr "Title's Card"
 
-#: base/default.csv:799 
 msgid "Title's List"
 msgstr "Title's List"
 
-#: base/default.csv:800 
 msgid "To be able to use ClamAV you must have it installed on your server and configured accordingly to our documentation."
 msgstr "To be able to use ClamAV you must have it installed on your server and configured accordingly to our documentation."
 
-#: base/default.csv:801 
 msgid "Toggle"
 msgstr "Toggle"
 
-#: base/default.csv:802 
 msgid "Toggle off"
 msgstr "Toggle off"
 
-#: base/default.csv:803 
 msgid "Toggle on"
 msgstr "Toggle on"
 
-#: base/default.csv:804 
 msgid "Toggle's Handle off"
 msgstr "Toggle's Handle off"
 
-#: base/default.csv:805 
 msgid "Toggle's Handle on"
 msgstr "Toggle's Handle on"
 
-#: base/default.csv:806 
 msgid "Token"
 msgstr "Token"
 
-#: base/default.csv:807 
 msgid "Tooltip"
 msgstr "Tooltip"
 
-#: base/default.csv:808 
 msgid "Top"
 msgstr "Top"
 
-#: base/default.csv:809 
 msgid "Top installs"
 msgstr "Top installs"
 
-#: base/default.csv:810 
 msgid "Top position"
 msgstr "Top position"
 
-#: base/default.csv:811 
 msgid "Top visits"
 msgstr "Top visits"
 
-#: base/default.csv:812 
 msgid "Topic"
 msgstr "Topic"
 
-#: base/default.csv:813 
 msgid "Topics"
 msgstr "Topics"
 
-#: base/default.csv:814 
 msgid "Total"
 msgstr "Total"
 
-#: base/default.csv:815 
 msgid "Total Excl. Tax"
 msgstr "Total Excl. Tax"
 
-#: base/default.csv:816 
 msgid "Total installs"
 msgstr "Total installs"
 
-#: base/default.csv:817 
 msgid "Total sales"
 msgstr "Total sales"
 
-#: base/default.csv:818 
 msgid "Total visits"
 msgstr "Total visits"
 
-#: base/default.csv:819 
 msgid "Tour"
 msgstr "Tour"
 
-#: base/default.csv:820 
 msgid "Tour Edition"
 msgstr "Tour Edition"
 
-#: base/default.csv:821 
 msgid "Translation"
 msgstr "Translation"
 
-#: base/default.csv:822 
 msgid "Translations"
 msgstr "Translations"
 
-#: base/default.csv:823 
 msgid "URL"
 msgstr "URL"
 
-#: base/default.csv:824 
 msgid "Unable to add the contact to your address book"
 msgstr "Unable to add the contact to your address book"
 
-#: base/default.csv:825 
 msgid "Unable to calculate the route."
 msgstr "Unable to calculate the route."
 
-#: base/default.csv:826 
 msgid "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if your are not in `Staging`"
 msgstr "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if your are not in `Staging`"
 
-#: base/default.csv:827 
 msgid "Unable to find TC with id %s."
 msgstr "Unable to find TC with id %s."
 
-#: base/default.csv:828 
 msgid "Unable to save image"
 msgstr "Unable to save image"
 
-#: base/default.csv:829 
 msgid "Unrecognized image format"
 msgstr "Unrecognized image format"
 
-#: base/default.csv:830 
 msgid "Until:"
 msgstr "Until:"
 
-#: base/default.csv:831 
 msgid "Updated at"
 msgstr "Updated at"
 
-#: base/default.csv:832 
 msgid "Upload to panel"
 msgstr "Upload to panel"
 
-#: base/default.csv:833 
 msgid "Upload your json here"
 msgstr "Upload your json here"
 
-#: base/default.csv:834 
 msgid "Use card design"
 msgstr "Use card design"
 
-#: base/default.csv:835 
 msgid "Use the homepage image as background in all features"
 msgstr "Use the homepage image as background in all features"
 
-#: base/default.csv:836 
 msgid "Use this coupon"
 msgstr "Use this coupon"
 
-#: base/default.csv:837 
 msgid "User"
 msgstr "User"
 
-#: base/default.csv:838 
 msgid "User successfully saved"
 msgstr "User successfully saved"
 
-#: base/default.csv:839 
 msgid "Username"
 msgstr "Username"
 
-#: base/default.csv:840 
 msgid "Users"
 msgstr "Users"
 
-#: base/default.csv:841 
 msgid "Users activity"
 msgstr "Users activity"
 
-#: base/default.csv:842 
 msgid "Users localization"
 msgstr "Users localization"
 
-#: base/default.csv:843 
 msgid "VAT Number"
 msgstr "VAT Number"
 
-#: base/default.csv:844 
 msgid "Valid until"
 msgstr "Valid until"
 
-#: base/default.csv:845 
 msgid "Validate"
 msgstr "Validate"
 
-#: base/default.csv:846 
 msgid "Validated points"
 msgstr "Validated points"
 
-#: base/default.csv:847 
 msgid "Validated points by Loyalty card Analytics"
 msgstr "Validated points by Loyalty card Analytics"
 
-#: base/default.csv:848 
 msgid "Validations by Discount Analytics"
 msgstr "Validations by Discount Analytics"
 
-#: base/default.csv:849 
 msgid "Version %s"
 msgstr "Version %s"
 
-#: base/default.csv:850 
 msgid "Video"
 msgstr "Video"
 
-#: base/default.csv:851 
 msgid "Video URL"
 msgstr "Video URL"
 
-#: base/default.csv:852 
 msgid "Videos"
 msgstr "Videos"
 
-#: base/default.csv:853 
 msgid "View"
 msgstr "View"
 
-#: base/default.csv:854 
 msgid "View full article"
 msgstr "View full article"
 
-#: base/default.csv:855 
 msgid "View my actual data"
 msgstr "View my actual data"
 
-#: base/default.csv:856 
 msgid "Visits"
 msgstr "Visits"
 
-#: base/default.csv:857 
 msgid "Visits by feature (All)"
 msgstr "Visits by feature (All)"
 
-#: base/default.csv:858 
 msgid "Visits by feature (Top 5)"
 msgstr "Visits by feature (Top 5)"
 
-#: base/default.csv:859 
 msgid "Visits by product (TOP 20)"
 msgstr "Visits by product (TOP 20)"
 
-#: base/default.csv:860 
 msgid "We are sorry but this address is already used."
 msgstr "We are sorry but this address is already used."
 
-#: base/default.csv:861 
 msgid "We are sorry but this email address already exists."
 msgstr "We are sorry but this email address already exists."
 
-#: base/default.csv:862 
 msgid "We are sorry but this username already exists."
 msgstr "We are sorry but this username already exists."
 
-#: base/default.csv:863 
 msgid "Web folder Owner"
 msgstr "Web folder Owner"
 
-#: base/default.csv:864 
 msgid "Web space"
 msgstr "Web space"
 
-#: base/default.csv:865 
 msgid "Webhook"
 msgstr "Webhook"
 
-#: base/default.csv:866 
 msgid "Weblink"
 msgstr "Weblink"
 
-#: base/default.csv:867 
 msgid "Website"
 msgstr "Website"
 
-#: base/default.csv:868 
 msgid "We've sent you an e-mail with your access token."
 msgstr "We've sent you an e-mail with your access token."
 
-#: base/default.csv:869 
 msgid "When selecting \'Enable test API\' in a payment method, be sure to create test credentials, check the documentation of your payment method."
 msgstr "When selecting \'Enable test API\' in a payment method, be sure to create test credentials, check the documentation of your payment method."
 
-#: base/default.csv:870 
 msgid "White Label Editor"
 msgstr "White Label Editor"
 
-#: base/default.csv:871 
 msgid "Who is online"
 msgstr "Who is online"
 
-#: base/default.csv:872 
 msgid "Winners list"
 msgstr "Winners list"
 
-#: base/default.csv:873 
 msgid "WordPress"
 msgstr "WordPress"
 
-#: base/default.csv:874 
 msgid "Wordpress"
 msgstr "Wordpress"
 
-#: base/default.csv:875 
 msgid "Year"
 msgstr "Year"
 
-#: base/default.csv:876 
 msgid "Yearly"
 msgstr "Yearly"
 
-#: base/default.csv:877 
 msgid "Yes"
 msgstr "Yes"
 
-#: base/default.csv:878 
 msgid "You already have this user in your contact"
 msgstr "You already have this user in your contact"
 
-#: base/default.csv:879 
 msgid "You are about to delete this certificate, Are you sure ?"
 msgstr "You are about to delete this certificate, Are you sure ?"
 
-#: base/default.csv:880 
 msgid "You are gone offline"
 msgstr "You are gone offline"
 
-#: base/default.csv:881 
 msgid "You are not allowed to delete a feature!"
 msgstr "You are not allowed to delete a feature!"
 
-#: base/default.csv:882 
 msgid "You are using a custom SMTP configuration, and the following white-label administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-listed.<br /><br />You can add his domain in your SMTP provider panel and send him the instructions to configure it for his domain."
 msgstr "You are using a custom SMTP configuration, and the following white-label administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-listed.<br /><br />You can add his domain in your SMTP provider panel and send him the instructions to configure it for his domain."
 
-#: base/default.csv:883 
 msgid "You can add allowed extensions, please note that .php, .js & .ico are strictly forbidden and can't be added"
 msgstr "You can add allowed extensions, please note that .php, .js & .ico are strictly forbidden and can't be added"
 
-#: base/default.csv:884 
 msgid "You can extend JAVA & GRADLE options to better fit your server hardware."
 msgstr "You can extend JAVA & GRADLE options to better fit your server hardware."
 
-#: base/default.csv:885 
 msgid "You can follow the URL below to access your data report"
 msgstr "You can follow the URL below to access your data report"
 
-#: base/default.csv:886 
 msgid "You can globally disable a feature!"
 msgstr "You can globally disable a feature!"
 
-#: base/default.csv:887 
 msgid "You can upload a pem certificate only."
 msgstr "You can upload a pem certificate only."
 
-#: base/default.csv:888 
 msgid "You can upload a png only (.png)."
 msgstr "You can upload a png only (.png)."
 
-#: base/default.csv:889 
 msgid "You can upload a zip archive only."
 msgstr "You can upload a zip archive only."
 
-#: base/default.csv:890 
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "You can upload an icon only (.ico and .png)."
 
-#: base/default.csv:891 
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgstr "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 
-#: base/default.csv:892 
 msgid "You cannot add this feature"
 msgstr "You cannot add this feature"
 
-#: base/default.csv:893 
 msgid "You can't upload more than one file at a time."
 msgstr "You can't upload more than one file at a time."
 
-#: base/default.csv:894 
 msgid "You current working environment is"
 msgstr "You current working environment is"
 
-#: base/default.csv:895 
 msgid "You don't have any applications yet"
 msgstr "You don't have any applications yet"
 
-#: base/default.csv:896 
 msgid "You don't have any invoices yet"
 msgstr "You don't have any invoices yet"
 
-#: base/default.csv:897 
 msgid "You have gone offline"
 msgstr "You have gone offline"
 
-#: base/default.csv:898 
 msgid "You have to chose a start and an end date."
 msgstr "You have to chose a start and an end date."
 
-#: base/default.csv:899 
 msgid "You must be logged in to like something!"
 msgstr "You must be logged in to like something!"
 
-#: base/default.csv:900 
 msgid "You must be logged in to post a comment"
 msgstr "You must be logged in to post a comment"
 
-#: base/default.csv:901 
 msgid "You must fill ip & port."
 msgstr "You must fill ip & port."
 
-#: base/default.csv:902 
 msgid "You must first complete the current category creation process"
 msgstr "You must first complete the current category creation process"
 
-#: base/default.csv:903 
 msgid "You must give the permission to the app to add a contact to your address book"
 msgstr "You must give the permission to the app to add a contact to your address book"
 
-#: base/default.csv:904 
 msgid "You must share your location to access this page."
 msgstr "You must share your location to access this page."
 
-#: base/default.csv:905 
 msgid "You will lose all unsaved changes, continue?"
 msgstr "You will lose all unsaved changes, continue?"
 
-#: base/default.csv:906 
 msgid "Your PHP version is too old, please upgrade to PHP 5.4+."
 msgstr "Your PHP version is too old, please upgrade to PHP 5.4+."
 
-#: base/default.csv:907 
 msgid "Your access token is"
 msgstr "Your access token is"
 
-#: base/default.csv:908 
 msgid "Your analytics will be computed and available soon"
 msgstr "Your analytics will be computed and available soon"
 
-#: base/default.csv:909 
 msgid "Your are not allowed to assign this role."
 msgstr "Your are not allowed to assign this role."
 
-#: base/default.csv:910 
 msgid "Your browser is too old to view the content of our website.<br />"
 msgstr "Your browser is too old to view the content of our website.<br />"
 
-#: base/default.csv:911 
 msgid "Your build should be ready"
 msgstr "Your build should be ready"
 
-#: base/default.csv:912 
 msgid "Your comment"
 msgstr "Your comment"
 
-#: base/default.csv:913 
 msgid "Your email address"
 msgstr "Your email address"
 
-#: base/default.csv:914 
 msgid "Your email address does not exist"
 msgstr "Your email address does not exist"
 
-#: base/default.csv:915 
 msgid "Your invoice has been edited successfully."
 msgstr "Your invoice has been edited successfully."
 
-#: base/default.csv:916 
 msgid "Your name"
 msgstr "Your name"
 
-#: base/default.csv:917 
 msgid "Your new password has been sent to the entered email address"
 msgstr "Your new password has been sent to the entered email address"
 
-#: base/default.csv:918 
 msgid "Your password does not match the entered password."
 msgstr "Your password does not match the entered password."
 
-#: base/default.csv:919 
 msgid "Your request has been successfully sent, please wait for your administrator to answer."
 msgstr "Your request has been successfully sent, please wait for your administrator to answer."
 
-#: base/default.csv:920 
 msgid "Your subscription has been deleted successfully."
 msgstr "Your subscription has been deleted successfully."
 
-#: base/default.csv:921 
 msgid "Your subscription status has been changed successfully."
 msgstr "Your subscription status has been changed successfully."
 
-#: base/default.csv:922 
 msgid "Youtube"
 msgstr "Youtube"
 
-#: base/default.csv:923 
 msgid "Zip code"
 msgstr "Zip code"
 
-#: base/default.csv:924 
 msgid "average"
 msgstr "average"
 
-#: base/default.csv:925 
 msgid "be careful or set it back to"
 msgstr "be careful or set it back to"
 
-#: base/default.csv:926 
 msgid "close"
 msgstr "close"
 
-#: base/default.csv:927 
 msgid "confirm action, deletion, etc ..."
 msgstr "confirm action, deletion, etc ..."
 
-#: base/default.csv:928 
 msgid "contextual, depends on module/layout"
 msgstr "contextual, depends on module/layout"
 
-#: base/default.csv:929 
 msgid "day"
 msgstr "day"
 
-#: base/default.csv:930 
 msgid "days"
 msgstr "days"
 
-#: base/default.csv:931 
 msgid "disabled"
 msgstr "disabled"
 
-#: base/default.csv:932 
 msgid "en"
 msgstr "en"
 
-#: base/default.csv:933 
 msgid "enabled"
 msgstr "enabled"
 
-#: base/default.csv:934 
 msgid "form submit, search, validation, confirmation"
 msgstr "form submit, search, validation, confirmation"
 
-#: base/default.csv:935 
 msgid "hh:mm a"
 msgstr "hh:mm a"
 
-#: base/default.csv:936 
 msgid "high"
 msgstr "high"
 
-#: base/default.csv:937 
 msgid "hour"
 msgstr "hour"
 
-#: base/default.csv:938 
 msgid "hours"
 msgstr "hours"
 
-#: base/default.csv:939 
 msgid "iOS & Android"
 msgstr "iOS & Android"
 
-#: base/default.csv:940 
 msgid "iOS Source"
 msgstr "iOS Source"
 
-#: base/default.csv:941 
 msgid "iOS Spinner"
 msgstr "iOS Spinner"
 
-#: base/default.csv:942 
 msgid "iOS base Bundle ID  must contain only letters, dots & minus."
 msgstr "iOS base Bundle ID  must contain only letters, dots & minus."
 
-#: base/default.csv:943 
 msgid "iOS base Bundle ID  must contain only letters, dots & minus with at least two dots.<br />Example: com.mydomain.admin"
 msgstr "iOS base Bundle ID  must contain only letters, dots & minus with at least two dots.<br />Example: com.mydomain.admin"
 
-#: base/default.csv:944 
 msgid "iOS base Bundle ID can't be empty."
 msgstr "iOS base Bundle ID can't be empty."
 
-#: base/default.csv:945 
 msgid "iOS only"
 msgstr "iOS only"
 
-#: base/default.csv:946 
 msgid "iPhone"
 msgstr "iPhone"
 
-#: base/default.csv:947 
 msgid "iTunes"
 msgstr "iTunes"
 
-#: base/default.csv:948 
 msgid "iTunes Connect providers"
 msgstr "iTunes Connect providers"
 
-#: base/default.csv:949 
 msgid "idle"
 msgstr "idle"
 
-#: base/default.csv:950 
 msgid "informative, modal"
 msgstr "informative, modal"
 
-#: base/default.csv:951 
 msgid "is updated once a day"
 msgstr "is updated once a day"
 
-#: base/default.csv:952 
 msgid "loading"
 msgstr "loading"
 
-#: base/default.csv:953 
 msgid "low"
 msgstr "low"
 
-#: base/default.csv:954 
 msgid "maintenance"
 msgstr "maintenance"
 
-#: base/default.csv:955 
 msgid "minute"
 msgstr "minute"
 
-#: base/default.csv:956 
 msgid "minutes"
 msgstr "minutes"
 
-#: base/default.csv:957 
 msgid "nd"
 msgstr "nd"
 
-#: base/default.csv:958 
 msgid "never"
 msgstr "never"
 
-#: base/default.csv:959 
 msgid "online"
 msgstr "online"
 
-#: base/default.csv:960 
 msgid "phone, locate, facebook, email, etc.."
 msgstr "phone, locate, facebook, email, etc.."
 
-#: base/default.csv:961 
 msgid "picture"
 msgstr "picture"
 
-#: base/default.csv:962 
 msgid "posts"
 msgstr "posts"
 
-#: base/default.csv:963 
 msgid "remaining characters"
 msgstr "remaining characters"
 
-#: base/default.csv:964 
 msgid "%s / Month"
 msgstr "%s / Month"
 
-#: base/default.csv:965 
 msgid "%s / Year"
 msgstr "%s / Year"
 
-#: base/default.csv:966 
 msgid "%s An unknown error occurred, please try again later."
 msgstr "%s An unknown error occurred, please try again later."
 
-#: base/default.csv:967 
 msgid "%s Image"
 msgstr "%s Image"
 
-#: base/default.csv:968 
 msgid "%s Images"
 msgstr "%s Images"
 
-#: base/default.csv:969 
 msgid "%s, No params sent."
 msgstr "%s, No params sent."
 
-#: base/default.csv:970 
 msgid "%s ago"
 msgstr "%s ago"
 
-#: base/default.csv:971 
 msgid "second"
 msgstr "second"
 
-#: base/default.csv:972 
 msgid "seconds"
 msgstr "seconds"
 
-#: base/default.csv:973 
 msgid "this feature is globally disabled!"
 msgstr "this feature is globally disabled!"
 
-#: base/default.csv:974 
 msgid "title"
 msgstr "title"
 
-#: base/default.csv:975 
 msgid "titles"
 msgstr "titles"
 
-#: base/default.csv:976 
 msgid "to add a folder."
 msgstr "to add a folder."
 
-#: base/default.csv:977 
 msgid "to add a subfolder."
 msgstr "to add a subfolder."
 
-#: base/default.csv:978 
 msgid "twitter"
 msgstr "twitter"
 
-#: base/default.csv:979 
 msgid "unreachable"
 msgstr "unreachable"
 

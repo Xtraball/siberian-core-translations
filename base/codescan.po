@@ -1,8 +1,6 @@
-#: base/codescan.csv:1 
 msgid "An error occurred while reading the code"
 msgstr "An error occurred while reading the code"
 
-#: base/codescan.csv:2 
 msgid "Scan result"
 msgstr "Scan result"
 
