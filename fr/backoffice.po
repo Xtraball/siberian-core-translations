@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:36+0000\n"
-"PO-Revision-Date: 2019-01-08 15:36+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
 "backoffice/fr/>\n"
@@ -159,3 +159,42 @@ msgstr "Nom de votre interface d'administration"
 #: base/backoffice.csv:17 
 msgid "Advanced"
 msgstr "Avancé"
+
+msgid "Authenticate"
+msgstr "Authentifier"
+
+msgid "Backoffice options"
+msgstr "Options de backoffice"
+
+msgid "Clear cache"
+msgstr "Effacer cache"
+
+msgid "Clear logs"
+msgstr "Effacer les journaux"
+
+msgid "Created At"
+msgstr "Créé le"
+
+msgid "Exists"
+msgstr "Existe"
+
+msgid "Forgot password"
+msgstr "Mot de passe oublié"
+
+msgid "Grant user"
+msgstr "Autoriser utilisateur"
+
+msgid "Rebuild manifest"
+msgstr "Reconstruire le manifeste"
+
+msgid "Revoke user"
+msgstr "Révoquer l'utilisateur"
+
+msgid "Select API access"
+msgstr "Sélectionnez les accès à l'API"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Update"
+msgstr "Mettre à jour"
