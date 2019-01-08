@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 15:46+0000\n"
+"PO-Revision-Date: 2019-01-08 15:46+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"application/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: fr/application.csv:1 
 msgid " "Remove this page from this folder?""
 msgstr "Enlever cette page de ce dossier?"
@@ -966,3 +982,26 @@ msgstr "Temps"
 msgid "to add a subfolder."
 msgstr "Ajouter un sous-dossier."
 
+#: base/application.csv:11 
+msgid "Acl"
+msgstr "ACL"
+
+#: base/application.csv:23 
+msgid "Admin"
+msgstr "Administrateur"
+
+#: base/application.csv:25 
+msgid "Advanced"
+msgstr "Avancé"
+
+#: base/application.csv:176 
+msgid "Edit"
+msgstr "Editer"
+
+#: base/application.csv:255 
+msgid "Id"
+msgstr "Id"
+
+#: base/application.csv:291 
+msgid "Label"
+msgstr "Nom"
