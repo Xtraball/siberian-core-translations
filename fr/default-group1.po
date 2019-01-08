@@ -1,2 +1,106 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-08 16:55+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"default-group1/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "20,00 %"
+msgstr "20,00 %"
+
+msgid "A new user just registered!"
+msgstr "Un nouvel utilisateur enregistré!"
+
+msgid "A user just made a new subscription on the Platform <b>%s</b>, for the Application <b>%s</b>."
+msgstr ""
+"Un utilisateur vient de faire une nouvelle souscription sur la Plate-forme "
+"<b>%s</b>, pour l'Application <b>%s</b>."
+
+msgid "A user registered on your Platform %s"
+msgstr "Nouvel utilisateur sur votre Plate-forme de %s"
+
+msgid "APK Generation"
+msgstr "Génération APK"
+
+msgid "APK build failed!"
+msgstr "Echec de la génération APK!"
+
+msgid "APK build succeed!"
+msgstr "Génération de l'APK terminée!"
+
+msgid "APK generation for App: %s"
+msgstr "Génération de l'APK pour l'application: %s"
+
+msgid "Account Created"
+msgstr "Compte Créé"
+
+msgid "Activate the user"
+msgstr "Activer l'utilisateur"
+
+msgid "Activating or Deactivating a parent subscription will apply to it's childs."
+msgstr ""
+"L'activation ou la désactivation d'un abonnement parent s'appliquent à aux "
+"souscriptions attachées."
+
+msgid "Activation"
+msgstr "Activation"
+
+msgid "Activation of your Subscription!"
+msgstr "Activation de votre abonnement!"
+
+msgid "Active subscriptions with remaining slots."
+msgstr "Abonnements actifs avec emplacements disponibles."
+
+msgid "Add a region"
+msgstr "Ajouter une région"
+
+msgid "Adding %s to SAN."
+msgstr "Ajout du domaine %s au certificat SSL/HTTPS."
+
+msgid "Admin Cancellation"
+msgstr "Annulation administrateur"
+
+msgid "AdminId is required to save the Application."
+msgstr "Le champ AdminId est nécessaire pour sauvegarder l'Application."
+
+msgid "Album:"
+msgstr "Album:"
+
+msgid "All sessions are now migrated to Redis."
+msgstr "Les sessions sont désormais transférés vers Redis."
+
+msgid "An administrator of the Platform <b>%s</b>, activated your subscription for the Application <b>%s</b>"
+msgstr ""
+"Un administrateur de la plate-forme <b>%s</b>, viens d'activer votre "
+"abonnement pour l'application <b>%s</b>"
+
+msgid "An administrator of the Platform <b>%s</b>, cancelled your subscription for the Application <b>%s</b>"
+msgstr ""
+"Un administrateur de la plate-forme <b>%s</b>, viens d'annuler votre "
+"abonnement pour l'application <b>%s</b>"
+
+msgid "An administrator of the Platform <b>%s</b>, deactivated your subscription for the Application <b>%s</b>"
+msgstr ""
+"Un administrateur de la plate-forme <b>%s</b>, viens de désactiver votre "
+"abonnement pour l'application <b>%s</b>"
+
+msgid "An error occured while adding the block."
+msgstr "Une erreur s'est produite lors de l'ajout du bloc."
+
+msgid "An error occurred. Please try again later."
+msgstr "Une erreur inconnue s'est produite, veuillez réessayer plus tard."
+
+msgid "An error occurred, backButton is required!"
+msgstr "Une erreur s'est produite, backButton est nécessaire!"
+
+msgid "An error occurred, please try again."
+msgstr "Une erreur s'est produite, veuillez essayer de nouveau."
+
+msgid "An error occurred when generating the apk"
+msgstr "Une erreur s'est produite lors de la génération de l'APK"
