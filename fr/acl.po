@@ -1,2 +1,75 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-08 11:13+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/acl/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+#: base/acl.csv:1 
+msgid "Actions"
+msgstr "Actions"
+
+#: base/acl.csv:2 
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr "Une erreur est survenue durant l'édition. Merci de réessayer plus tard."
+
+#: base/acl.csv:3 
+msgid "Code"
+msgstr "Code"
+
+#: base/acl.csv:4 
+msgid "Create a new role"
+msgstr "Ajouter un rôle"
+
+#: base/acl.csv:5 
+msgid "Delete"
+msgstr "Supprimer"
+
+#: base/acl.csv:6 
+msgid "Edit"
+msgstr "Editer"
+
+#: base/acl.csv:7 
+msgid "Edit %s role"
+msgstr "Edition de %s"
+
+#: base/acl.csv:8 
+msgid "Id"
+msgstr "Id"
+
+#: base/acl.csv:9 
+msgid "Label"
+msgstr "Nom"
+
+#: base/acl.csv:10 
+msgid "List of your roles"
+msgstr "Liste des rôles"
+
+#: base/acl.csv:11 
+msgid "Role"
+msgstr "Rôle"
+
+#: base/acl.csv:12 
+msgid "Search"
+msgstr "Rechercher"
+
+#: base/acl.csv:13 
+msgid "This role will be the default one for the whole platform."
+msgstr "Définir comme rôle par défaut pour toute nouvelle inscription."
+
+#: base/acl.csv:14 
+msgid "You don't have any role yet"
+msgstr "Aucun rôle"
+
+#: base/acl.csv:15 
+msgid "Your role has been successfully deleted"
+msgstr "Le rôle à bien été supprimé"
+
+#: base/acl.csv:16 
+msgid "Your role has been successfully saved"
+msgstr "Le rôle à bien été sauvegardé"
