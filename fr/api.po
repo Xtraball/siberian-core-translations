@@ -1,3 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/api/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: fr/api.csv:1 
 msgid "API Keys"
 msgstr "Clés API"
@@ -14,3 +29,50 @@ msgstr "Clés API sauvegardés avec succès"
 msgid "Your APIs list"
 msgstr "Votre liste d'API"
 
+msgid "Api Users"
+msgstr "Utilisateur Api"
+
+msgid "Authenticate"
+msgstr "Authentifier"
+
+msgid "Backoffice options"
+msgstr "Options de backoffice"
+
+msgid "Clear cache"
+msgstr "Effacer cache"
+
+msgid "Clear logs"
+msgstr "Effacer les journaux"
+
+msgid "Create a new user"
+msgstr "Créer un nouvel utilisateur"
+
+msgid "Created At"
+msgstr "Créé le"
+
+msgid "Exists"
+msgstr "Existe"
+
+msgid "Forgot password"
+msgstr "Mot de passe oublié"
+
+msgid "Grant user"
+msgstr "Autoriser utilisateur"
+
+msgid "List of your users"
+msgstr "Liste de vos utilisateurs"
+
+msgid "Rebuild manifest"
+msgstr "Reconstruire le manifeste"
+
+msgid "Revoke user"
+msgstr "Révoquer l'utilisateur"
+
+msgid "Select API access"
+msgstr "Sélectionnez les accès à l'API"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "You don't have any users yet"
+msgstr "Vous n'avez pas encore d'utilisateurs"
