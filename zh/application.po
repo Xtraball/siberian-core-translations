@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-09 09:38+0000\n"
+"PO-Revision-Date: 2019-01-09 09:38+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/application/zh_Hans/>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: zh/application.csv:1 
 msgid "1. Download the app previewer:"
 msgstr "1.下载应用程序的预览："
@@ -734,3 +750,8 @@ msgstr "徽标"
 msgid "times"
 msgstr "时"
 
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Label"
+msgstr "标签"
