@@ -1,0 +1,40 @@
+#: ca/rss.csv:1 
+msgid "An error occurred while saving your RSS feed"
+msgstr "S'ha produït un error mentre es desava el vostre feed RSS"
+
+#: ca/rss.csv:2 
+msgid "Display feed pictures whenever possible"
+msgstr "Exhibició alimentar imatges sempre que sigui possible"
+
+#: ca/rss.csv:3 
+msgid "Enter the URL of this RSS feed"
+msgstr "Introduïu l'URL d'aquest feed RSS"
+
+#: ca/rss.csv:4 
+msgid "Found feeds"
+msgstr "Trobar canals"
+
+#: ca/rss.csv:5 
+msgid "No RSS feed could be found"
+msgstr "S'ha trobat cap feed RSS"
+
+#: ca/rss.csv:6 
+msgid "RSS feed successfully saved"
+msgstr "Feed RSS salvat correctament"
+
+#: ca/rss.csv:7 
+msgid "Show article"
+msgstr "Article Mostra"
+
+#: ca/rss.csv:8 
+msgid "day"
+msgstr "el dia"
+
+#: ca/rss.csv:9 
+msgid "hour"
+msgstr "hores"
+
+#: ca/rss.csv:10 
+msgid "minute"
+msgstr "minut"
+

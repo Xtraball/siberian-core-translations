@@ -1,0 +1,92 @@
+#: es/admin.csv:1 
+msgid "My informations"
+msgstr "Mis informaciones"
+
+#: es/admin.csv:2 
+msgid "Change my password"
+msgstr "Cambiar mi contraseña"
+
+#: es/admin.csv:3 
+msgid "Current password"
+msgstr "Contraseña actual"
+
+#: es/admin.csv:4 
+msgid "Confirm new password"
+msgstr "Confirmar nueva contraseña"
+
+#: es/admin.csv:5 
+msgid "Required fields"
+msgstr "Campos necesarios"
+
+#: es/admin.csv:6 
+msgid "Enter your credentials:"
+msgstr "Ingrese su cuenta :"
+
+#: es/admin.csv:7 
+msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+msgstr "¿Ha olvidado su contraseña? No se preocupe, introduzca su dirección de correo electrónico y le reenviaremos una directamente."
+
+#: es/admin.csv:8 
+msgid "Forgot your password ?"
+msgstr "¿Olvidó tu contraseña?"
+
+#: es/admin.csv:9 
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: es/admin.csv:10 
+msgid "Send"
+msgstr "enviar"
+
+#: es/admin.csv:11 
+msgid "Login to your admin interface"
+msgstr "Conexión a su panel de administración"
+
+#: es/admin.csv:12 
+msgid "Your email address"
+msgstr "Su dirección de correo electrónico"
+
+#: es/admin.csv:13 
+msgid "Your password"
+msgstr "Su contraseña"
+
+#: es/admin.csv:14 
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: es/admin.csv:15 
+msgid "My notifications list"
+msgstr "Mi lista de notificaciones"
+
+#: es/admin.csv:16 
+msgid "Details"
+msgstr "Detalles"
+
+#: es/admin.csv:17 
+msgid "Mark as unread"
+msgstr "Marcar como no leído"
+
+#: es/admin.csv:18 
+msgid "Mark as read"
+msgstr "Marcar como leído"
+
+#: es/admin.csv:19 
+msgid "An error occurred while saving your account. Please try again later."
+msgstr "Se ha producido un error al guardar la cuenta. Por favor inténtelo de nuevo más tarde."
+
+#: es/admin.csv:20 
+msgid "Your account has been successfully saved"
+msgstr "Su cuenta ha sido guardada con éxito"
+
+#: es/admin.csv:21 
+msgid "Login to your admin interface"
+msgstr "Conexión a su panel de administración"
+
+#: es/admin.csv:22 
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: es/admin.csv:23 
+msgid "My notifications"
+msgstr "Mis notificaciones"
+

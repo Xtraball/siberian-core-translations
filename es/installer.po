@@ -1,0 +1,68 @@
+#: es/installer.csv:1 
+msgid "Modules"
+msgstr "Módulos"
+
+#: es/installer.csv:2 
+msgid "Upload a module"
+msgstr "Cargar un módulo"
+
+#: es/installer.csv:3 
+msgid "Select a module to upload"
+msgstr "Seleccionar un módulo"
+
+#: es/installer.csv:4 
+msgid "Module Installation"
+msgstr "Instalación del módulo"
+
+#: es/installer.csv:5 
+msgid "Processing the installation"
+msgstr "Proceso de instalación"
+
+#: es/installer.csv:6 
+msgid "Please wait, we're installing your module"
+msgstr "Por favor espere, estamos instalando su módulo"
+
+#: es/installer.csv:7 
+msgid "This process may take few minutes, please do not refresh the page"
+msgstr "Este proceso puede tardar unos minutos, por favor no actualice la página"
+
+#: es/installer.csv:8 
+msgid "The installation of the module %s has failed: <span id="installation_failed_because"></span>"
+msgstr "La instalación del módulo %s ha fallado: <span id="installation_failed_because"></span>"
+
+#: es/installer.csv:9 
+msgid "No module to install"
+msgstr "Ningún módulo para instalar"
+
+#: es/installer.csv:10 
+msgid "All of your modules are up to date"
+msgstr "Todos los módulos están al día"
+
+#: es/installer.csv:11 
+msgid "Please, enter a name"
+msgstr "Por favor, introduzca su nombre"
+
+#: es/installer.csv:12 
+msgid "The database connection failed. Please, check the entered information."
+msgstr "La conexión de la base de datos ha fallado. Por favor, revise la información introducida."
+
+#: es/installer.csv:13 
+msgid "The folder %s is not writable. Please fix this issue and try again."
+msgstr "La carpeta %s no se puede escribir. Por favor, corrija este problema y vuelva a intentarlo."
+
+#: es/installer.csv:14 
+msgid "Unable to extract the archive."
+msgstr "No se puede extraer el archivo."
+
+#: es/installer.csv:15 
+msgid "Unable to open the archive."
+msgstr "No se puede abrir el archivo."
+
+#: es/installer.csv:16 
+msgid "The following folders are not writable: <br /> - %s"
+msgstr "Las siguientes carpetas no se pueden escribir: <br /> - %s"
+
+#: es/installer.csv:17 
+msgid "The folder %s is not writable."
+msgstr "La carpeta %s no se puede escribir."
+

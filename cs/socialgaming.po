@@ -1,0 +1,68 @@
+#: cs/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s bod%s"
+
+#: cs/socialgaming.csv:2 
+msgid "A month"
+msgstr "Měsíčně"
+
+#: cs/socialgaming.csv:3 
+msgid "A week"
+msgstr "Týdně"
+
+#: cs/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Soutěžící"
+
+#: cs/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Aktuální hra"
+
+#: cs/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "Aktuálně nikdo nesoutěží"
+
+#: cs/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Název hry"
+
+#: cs/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Hra byla úspěšně uložena"
+
+#: cs/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Další hra"
+
+#: cs/socialgaming.csv:10 
+msgid "On the"
+msgstr "Na"
+
+#: cs/socialgaming.csv:11 
+msgid "Period"
+msgstr "Období"
+
+#: cs/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Opakování"
+
+#: cs/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Datum vydání"
+
+#: cs/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Žebříček měsíce"
+
+#: cs/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Žebříček týdne"
+
+#: cs/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "První v pořadí"
+
+#: cs/socialgaming.csv:17 
+msgid "﻿%s point%s"
+msgstr "%s bod%s"
+

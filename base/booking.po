@@ -1,0 +1,96 @@
+#: base/booking.csv:1 
+msgid "Booking details"
+msgstr "Booking details"
+
+#: base/booking.csv:2 
+msgid "Booking location:"
+msgstr "Booking location:"
+
+#: base/booking.csv:3 
+msgid "Booking subject:"
+msgstr "Booking subject:"
+
+#: base/booking.csv:4 
+msgid "Comment:"
+msgstr "Comment:"
+
+#: base/booking.csv:5 
+msgid "Date and time"
+msgstr "Date and time"
+
+#: base/booking.csv:6 
+msgid "Email address:"
+msgstr "Email address:"
+
+#: base/booking.csv:7 
+msgid "Enter the location name and contact email:"
+msgstr "Enter the location name and contact email:"
+
+#: base/booking.csv:8 
+msgid "First name / Last name"
+msgstr "First name / Last name"
+
+#: base/booking.csv:9 
+msgid "Here are his personal information:"
+msgstr "Here are his personal information:"
+
+#: base/booking.csv:10 
+msgid "Information"
+msgstr "Information"
+
+#: base/booking.csv:11 
+msgid "Location"
+msgstr "Location"
+
+#: base/booking.csv:12 
+msgid "Name:"
+msgstr "Name:"
+
+#: base/booking.csv:13 
+msgid "Number of people"
+msgstr "Number of people"
+
+#: base/booking.csv:14 
+msgid "Phone number:"
+msgstr "Phone number:"
+
+#: base/booking.csv:15 
+msgid "Please, choose a store"
+msgstr "Please, choose a store"
+
+#: base/booking.csv:16 
+msgid "Please fill out the following fields:"
+msgstr "Please fill out the following fields:"
+
+#: base/booking.csv:17 
+msgid "Please fill out the following fields:<br/>"
+msgstr "Please fill out the following fields:<br/>"
+
+#: base/booking.csv:18 
+msgid "Thank you for your request. We'll answer you as soon as possible."
+msgstr "Thank you for your request. We'll answer you as soon as possible."
+
+#: base/booking.csv:19 
+msgid "The booking information"
+msgstr "The booking information"
+
+#: base/booking.csv:20 
+msgid "The date and time of the booking"
+msgstr "The date and time of the booking"
+
+#: base/booking.csv:21 
+msgid "The number of people"
+msgstr "The number of people"
+
+#: base/booking.csv:22 
+msgid "You have received a message for the booking of"
+msgstr "You have received a message for the booking of"
+
+#: base/booking.csv:23 
+msgid "Your name"
+msgstr "Your name"
+
+#: base/booking.csv:24 
+msgid "Your phone number or email address"
+msgstr "Your phone number or email address"
+

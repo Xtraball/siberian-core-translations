@@ -1,0 +1,52 @@
+#: ru/translation.csv:1 
+msgid "Create a new language"
+msgstr "Создать новый языковой перевод"
+
+#: ru/translation.csv:2 
+msgid "Default text"
+msgstr "Текст по умолчанию"
+
+#: ru/translation.csv:3 
+msgid "Edit the language: %s"
+msgstr "Изменить язык: %s"
+
+#: ru/translation.csv:4 
+msgid "Language"
+msgstr "Язык"
+
+#: ru/translation.csv:5 
+msgid "Language successfully saved"
+msgstr "Перевод успешно сохранен"
+
+#: ru/translation.csv:6 
+msgid "List of your languages"
+msgstr "Список ваших переводов"
+
+#: ru/translation.csv:7 
+msgid "Please, choose a language."
+msgstr "Пожалуйста, выберите язык."
+
+#: ru/translation.csv:8 
+msgid "Please, choose a file."
+msgstr "Пожалуйста, выберите файл."
+
+#: ru/translation.csv:9 
+msgid "Select a file"
+msgstr "Выберите файл"
+
+#: ru/translation.csv:10 
+msgid "Select a language"
+msgstr "Выберите язык"
+
+#: ru/translation.csv:11 
+msgid "Text translation"
+msgstr "Перевод текста"
+
+#: ru/translation.csv:12 
+msgid "Translations"
+msgstr "Переводы"
+
+#: ru/translation.csv:13 
+msgid "Your translation"
+msgstr "Ваш перевод"
+

@@ -1,0 +1,1188 @@
+#: zh/default.csv:1 
+msgid "%d Unread Messages"
+msgstr "％d 更多的未读消息"
+
+#: zh/default.csv:2 
+msgid "404, page not found"
+msgstr "404找不到网页"
+
+#: zh/default.csv:3 
+msgid "APIs"
+msgstr "API"
+
+#: zh/default.csv:4 
+msgid "Access restricted to authorized members only"
+msgstr "只有授权的用户访问受限制"
+
+#: zh/default.csv:5 
+msgid "Accounts"
+msgstr "帐户"
+
+#: zh/default.csv:6 
+msgid "Action"
+msgstr "行动"
+
+#: zh/default.csv:7 
+msgid "Actions"
+msgstr "行动"
+
+#: zh/default.csv:8 
+msgid "Add"
+msgstr "添加在"
+
+#: zh/default.csv:9 
+msgid "Add a"
+msgstr "添加/个"
+
+#: zh/default.csv:10 
+msgid "Add<br /><span class="bold">Pictures</span>"
+msgstr "添加<br /><span class="bold">图片</span>"
+
+#: zh/default.csv:11 
+msgid "Add an <br /><span class="bold">image</span>"
+msgstr "添加<br /><span class="bold">图片</span>"
+
+#: zh/default.csv:12 
+msgid "Address"
+msgstr "街道地址"
+
+#: zh/default.csv:13 
+msgid "All items"
+msgstr "所有项目"
+
+#: zh/default.csv:14 
+msgid "An error occurred during process. Please try again later."
+msgstr "在处理过程中发生了错误。请稍后再试。"
+
+#: zh/default.csv:15 
+msgid "An error occurred during the process. Please try again later."
+msgstr "有在此过程中的错误。请稍后再试。"
+
+#: zh/default.csv:16 
+msgid "An error occurred while loading. Please try again later."
+msgstr "有一个错误加载。请稍后再试。"
+
+#: zh/default.csv:17 
+msgid "An error occurred while loading. Please, try again later."
+msgstr "有一个错误加载。请稍后再试。"
+
+#: zh/default.csv:18 
+msgid "An error occurred while saving"
+msgstr "有错误节能"
+
+#: zh/default.csv:19 
+msgid "An error occurred while saving your account. Please try again later."
+msgstr "有一个错误节省你自己。请稍后再试。"
+
+#: zh/default.csv:20 
+msgid "An error occurred while saving your picture. Please try againg later."
+msgstr "发生错误保存图像。请重试。"
+
+#: zh/default.csv:21 
+msgid "An error occurred while saving. Please try again later."
+msgstr "有一个错误的节省。请稍后再试。"
+
+#: zh/default.csv:22 
+msgid "An error occurred while saving. Please, try again later."
+msgstr "有一个错误的节省。请稍后再试。"
+
+#: zh/default.csv:23 
+msgid "An error occurred while uploading your file. Please, try again later."
+msgstr "有错误上传文件。请稍后再试。"
+
+#: zh/default.csv:24 
+msgid "Appearance"
+msgstr "出现"
+
+#: zh/default.csv:25 
+msgid "Application"
+msgstr "应用"
+
+#: zh/default.csv:26 
+msgid "Application Name"
+msgstr "应用程序名称"
+
+#: zh/default.csv:27 
+msgid "Applications"
+msgstr "应用"
+
+#: zh/default.csv:28 
+msgid "Are you sure you want to delete this element?"
+msgstr "你确定你要删除这个项目吗？"
+
+#: zh/default.csv:29 
+msgid "Are you sure you want to use this discount?"
+msgstr "你确定要使用这个折扣？"
+
+#: zh/default.csv:30 
+msgid "Are you sure you want to remove this account?"
+msgstr "你确定要删除此帐户？"
+
+#: zh/default.csv:31 
+msgid "Authentication failed. Please check your email and/or your password"
+msgstr "验证失败。请检查您的电子邮件和/或密码"
+
+#: zh/default.csv:32 
+msgid "Back"
+msgstr "回来"
+
+#: zh/default.csv:33 
+msgid "Browse"
+msgstr "探索"
+
+#: zh/default.csv:34 
+msgid "Can only be used once"
+msgstr "它只能使用一次"
+
+#: zh/default.csv:35 
+msgid "Cancel"
+msgstr "取消"
+
+#: zh/default.csv:36 
+msgid "Cart"
+msgstr "购物车"
+
+#: zh/default.csv:37 
+msgid "Catalog"
+msgstr "目录"
+
+#: zh/default.csv:38 
+msgid "Category"
+msgstr "类别"
+
+#: zh/default.csv:39 
+msgid "Change password"
+msgstr "更改密码"
+
+#: zh/default.csv:40 
+msgid "City"
+msgstr "城市"
+
+#: zh/default.csv:41 
+msgid "City:"
+msgstr "城市："
+
+#: zh/default.csv:42 
+msgid "Close"
+msgstr "关闭"
+
+#: zh/default.csv:43 
+msgid "close"
+msgstr "关闭"
+
+#: zh/default.csv:44 
+msgid "Comment"
+msgstr "评论"
+
+#: zh/default.csv:45 
+msgid "Comments"
+msgstr "点评"
+
+#: zh/default.csv:46 
+msgid "Communication"
+msgstr "沟通"
+
+#: zh/default.csv:47 
+msgid "Company"
+msgstr "业务"
+
+#: zh/default.csv:48 
+msgid "Coms"
+msgstr "COMS"
+
+#: zh/default.csv:49 
+msgid "Conditions"
+msgstr "条款"
+
+#: zh/default.csv:50 
+msgid "Confirm Password"
+msgstr "确认密码"
+
+#: zh/default.csv:51 
+msgid "Confirm new password"
+msgstr "确认新密码"
+
+#: zh/default.csv:52 
+msgid "Country"
+msgstr "国家"
+
+#: zh/default.csv:53 
+msgid "Country:"
+msgstr "国家："
+
+#: zh/default.csv:54 
+msgid "Create"
+msgstr "创建"
+
+#: zh/default.csv:55 
+msgid "Create an account"
+msgstr "创建一个帐户"
+
+#: zh/default.csv:56 
+msgid "Create a new account"
+msgstr "创建新帐号"
+
+#: zh/default.csv:57 
+msgid "Created at"
+msgstr "创建于"
+
+#: zh/default.csv:58 
+msgid "Created at:"
+msgstr "创建于："
+
+#: zh/default.csv:59 
+msgid "Currency"
+msgstr "货币"
+
+#: zh/default.csv:60 
+msgid "Current password"
+msgstr "当前密码"
+
+#: zh/default.csv:61 
+msgid "Dashboard"
+msgstr "控制面板"
+
+#: zh/default.csv:62 
+msgid "Date of birth"
+msgstr "出生日期"
+
+#: zh/default.csv:63 
+msgid "Date of birth:"
+msgstr "出生日期："
+
+#: zh/default.csv:64 
+msgid "Date"
+msgstr "日期"
+
+#: zh/default.csv:65 
+msgid "day"
+msgstr "天"
+
+#: zh/default.csv:66 
+msgid "days"
+msgstr "天"
+
+#: zh/default.csv:67 
+msgid "Default Languages"
+msgstr "默认语言"
+
+#: zh/default.csv:68 
+msgid "Delete"
+msgstr "删除"
+
+#: zh/default.csv:69 
+msgid "Delivery"
+msgstr "交货"
+
+#: zh/default.csv:70 
+msgid "Description"
+msgstr "描述"
+
+#: zh/default.csv:71 
+msgid "Description:"
+msgstr "说明："
+
+#: zh/default.csv:72 
+msgid "Details"
+msgstr "详细信息"
+
+#: zh/default.csv:73 
+msgid "Edit"
+msgstr "编辑"
+
+#: zh/default.csv:74 
+msgid "Editing"
+msgstr "版"
+
+#: zh/default.csv:75 
+msgid "Email"
+msgstr "电子邮件"
+
+#: zh/default.csv:76 
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#: zh/default.csv:77 
+msgid "Email:"
+msgstr "电子邮件："
+
+#: zh/default.csv:78 
+msgid "End at"
+msgstr "在结果"
+
+#: zh/default.csv:79 
+msgid "Error : <br/>"
+msgstr "错误: <br>"
+
+#: zh/default.csv:80 
+msgid "Errors : <br/>"
+msgstr "错误: <br>"
+
+#: zh/default.csv:81 
+msgid "Export your customers"
+msgstr "导出你的客户"
+
+#: zh/default.csv:82 
+msgid "Extension not allowed, '%s' only"
+msgstr "该扩展是不允许的， '％s' 的唯一"
+
+#: zh/default.csv:83 
+msgid "Facebook"
+msgstr "Facebook的"
+
+#: zh/default.csv:84 
+msgid "First name:"
+msgstr "姓名："
+
+#: zh/default.csv:85 
+msgid "First name"
+msgstr "名字"
+
+#: zh/default.csv:86 
+msgid "Firstname"
+msgstr "名字"
+
+#: zh/default.csv:87 
+msgid "Firstname:"
+msgstr "姓名："
+
+#: zh/default.csv:88 
+msgid "Forgot your password?"
+msgstr "忘记密码了吗？"
+
+#: zh/default.csv:89 
+msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+msgstr "忘记密码了吗？不用担心！只要输入您的电子邮件地址，我们将马上送你一个新的。"
+
+#: zh/default.csv:90 
+msgid "Gender"
+msgstr "性别"
+
+#: zh/default.csv:91 
+msgid "General"
+msgstr "一般"
+
+#: zh/default.csv:92 
+msgid "Hello,"
+msgstr "您好，"
+
+#: zh/default.csv:93 
+msgid "Here is your new password:"
+msgstr "这是你的新密码："
+
+#: zh/default.csv:94 
+msgid "hour"
+msgstr "时间"
+
+#: zh/default.csv:95 
+msgid "hours"
+msgstr "小时"
+
+#: zh/default.csv:96 
+msgid "How do you want to access the backoffice if you remove the only user remaining?"
+msgstr "你将如何访问后台，如果用户仅剩下了吗？"
+
+#: zh/default.csv:97 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "我接受 <u>隐私政策</u>"
+
+#: zh/default.csv:98 
+msgid "ID"
+msgstr "ID"
+
+#: zh/default.csv:99 
+msgid "Image not high enough, %spx minimum allowed."
+msgstr "图像不够高，最小％spx允许的。"
+
+#: zh/default.csv:100 
+msgid "Image not large enough, %spx minimum allowed."
+msgstr "图像不够大，至少％spx 的限制。"
+
+#: zh/default.csv:101 
+msgid "Image not large enough, '%s' allowed."
+msgstr "图像不够大， ' ％s'的允许。"
+
+#: zh/default.csv:102 
+msgid "Image successfully saved"
+msgstr "照片保存成功"
+
+#: zh/default.csv:103 
+msgid "Image too high, %spx maximum allowed."
+msgstr "图像太高，最大值％spx 允许的。"
+
+#: zh/default.csv:104 
+msgid "Image too large, %spx maximum allowed."
+msgstr "图像太大，最多％spx 允许的。"
+
+#: zh/default.csv:105 
+msgid "Image too large, '%s' allowed."
+msgstr "图像太大， ' ％s'的允许。"
+
+#: zh/default.csv:106 
+msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
+msgstr "为了充分享受我们的特点，我们建议至少使用。<br/>"
+
+#: zh/default.csv:107 
+msgid "In order to publish your application, we need:<br />- "
+msgstr "发布应用程序，我们需要：<br/> - "
+
+#: zh/default.csv:108 
+msgid "Incorrect filetype."
+msgstr "不正确的文件类型。"
+
+#: zh/default.csv:109 
+msgid "Info successfully saved"
+msgstr "信息保存成功"
+
+#: zh/default.csv:110 
+msgid "Information"
+msgstr "信息"
+
+#: zh/default.csv:111 
+msgid "Infos successfully saved"
+msgstr "相关信息保存成功"
+
+#: zh/default.csv:112 
+msgid "Insert a <br /><span class="bold">cover image</span>"
+msgstr "插入 <br /><span class="bold">封面图片 </span>"
+
+#: zh/default.csv:113 
+msgid "Invoice %s"
+msgstr "发票％s"
+
+#: zh/default.csv:114 
+msgid "Invoices"
+msgstr "发票"
+
+#: zh/default.csv:115 
+msgid "Last Name"
+msgstr "姓"
+
+#: zh/default.csv:116 
+msgid "Lastname"
+msgstr "姓"
+
+#: zh/default.csv:117 
+msgid "Lastname:"
+msgstr "姓："
+
+#: zh/default.csv:118 
+msgid "Latitude"
+msgstr "纬度"
+
+#: zh/default.csv:119 
+msgid "Latitude:"
+msgstr "纬度："
+
+#: zh/default.csv:120 
+msgid "Like"
+msgstr "我喜欢"
+
+#: zh/default.csv:121 
+msgid "Likes"
+msgstr "我喜欢"
+
+#: zh/default.csv:122 
+msgid "Link"
+msgstr "链接"
+
+#: zh/default.csv:123 
+msgid "Load more"
+msgstr "装载更多"
+
+#: zh/default.csv:124 
+msgid "loading"
+msgstr "加载"
+
+#: zh/default.csv:125 
+msgid "Locate"
+msgstr "定位"
+
+#: zh/default.csv:126 
+msgid "Location:"
+msgstr "地点："
+
+#: zh/default.csv:127 
+msgid "Log in"
+msgstr "登录"
+
+#: zh/default.csv:128 
+msgid "Log-in"
+msgstr "登录"
+
+#: zh/default.csv:129 
+msgid "Log-out"
+msgstr "注销"
+
+#: zh/default.csv:130 
+msgid "Logged in as"
+msgstr "登录为"
+
+#: zh/default.csv:131 
+msgid "Login"
+msgstr "登录"
+
+#: zh/default.csv:132 
+msgid "Longitude"
+msgstr "长度"
+
+#: zh/default.csv:133 
+msgid "Longitude:"
+msgstr "长度："
+
+#: zh/default.csv:134 
+msgid "Miss"
+msgstr "女士."
+
+#: zh/default.csv:135 
+msgid "Mr"
+msgstr "先生"
+
+#: zh/default.csv:136 
+msgid "Mrs"
+msgstr "女士"
+
+#: zh/default.csv:137 
+msgid "minute"
+msgstr "分钟"
+
+#: zh/default.csv:138 
+msgid "minutes"
+msgstr "分钟"
+
+#: zh/default.csv:139 
+msgid "MM/dd/y"
+msgstr "MM/dd/y"
+
+#: zh/default.csv:140 
+msgid "MM/dd/y 'at' hh:mm a"
+msgstr "MM/dd/y 'at' hh:mm a"
+
+#: zh/default.csv:141 
+msgid "MM/dd/y hh:mm a"
+msgstr "MM/dd/y hh:mm a"
+
+#: zh/default.csv:142 
+msgid "MM/dd/yy"
+msgstr "MM/dd/yy"
+
+#: zh/default.csv:143 
+msgid "MM/dd/yyyy"
+msgstr "DD / MM / YYYY"
+
+#: zh/default.csv:144 
+msgid "MM,d yy"
+msgstr "MM/dd/yyyy"
+
+#: zh/default.csv:145 
+msgid "MMMM dd y"
+msgstr "MMMM dd y"
+
+#: zh/default.csv:146 
+msgid "Never"
+msgstr "从来没有"
+
+#: zh/default.csv:147 
+msgid "No"
+msgstr "别"
+
+#: zh/default.csv:148 
+msgid "Main category"
+msgstr "大类"
+
+#: zh/default.csv:149 
+msgid "Make this image colorizable"
+msgstr "使这个colorizable图像"
+
+#: zh/default.csv:150 
+msgid "Manage"
+msgstr "管理"
+
+#: zh/default.csv:151 
+msgid "Maps"
+msgstr "地图"
+
+#: zh/default.csv:152 
+msgid "Message from your app %s"
+msgstr "消息应用程序％s"
+
+#: zh/default.csv:153 
+msgid "Messages"
+msgstr "帖子"
+
+#: zh/default.csv:154 
+msgid "Modules"
+msgstr "模块"
+
+#: zh/default.csv:155 
+msgid "More"
+msgstr "更多"
+
+#: zh/default.csv:156 
+msgid "My account"
+msgstr "我的账户"
+
+#: zh/default.csv:157 
+msgid "My information"
+msgstr "我的信息"
+
+#: zh/default.csv:158 
+msgid "My invoices"
+msgstr "我的发票"
+
+#: zh/default.csv:159 
+msgid "My invoices"
+msgstr "我的发票"
+
+#: zh/default.csv:160 
+msgid "Name"
+msgstr "名字"
+
+#: zh/default.csv:161 
+msgid "Next"
+msgstr "下一个"
+
+#: zh/default.csv:162 
+msgid "New"
+msgstr "新"
+
+#: zh/default.csv:163 
+msgid "No file found."
+msgstr "没有文件被发现。"
+
+#: zh/default.csv:164 
+msgid "Nothing to display"
+msgstr "没有显示"
+
+#: zh/default.csv:165 
+msgid "Number"
+msgstr "号码"
+
+#: zh/default.csv:166 
+msgid "OK"
+msgstr "行"
+
+#: zh/default.csv:167 
+msgid "OR"
+msgstr "Ø"
+
+#: zh/default.csv:168 
+msgid "Ouch, this page doesn't exist"
+msgstr "哎哟，这个页面不存在"
+
+#: zh/default.csv:169 
+msgid "Password"
+msgstr "密码"
+
+#: zh/default.csv:170 
+msgid "Password:"
+msgstr "密码："
+
+#: zh/default.csv:171 
+msgid "Passwords don't match"
+msgstr "密码不匹配"
+
+#: zh/default.csv:172 
+msgid "Phone"
+msgstr "电话"
+
+#: zh/default.csv:173 
+msgid "Phone:"
+msgstr "联系电话："
+
+#: zh/default.csv:174 
+msgid "Picture%s"
+msgstr "图像％s"
+
+#: zh/default.csv:175 
+msgid "Plans"
+msgstr "飞机"
+
+#: zh/default.csv:176 
+msgid "Platform Name"
+msgstr "名称平台"
+
+#: zh/default.csv:177 
+msgid "Player"
+msgstr "播放机"
+
+#: zh/default.csv:178 
+msgid "Please, enter a date greater than today"
+msgstr "请输入一个日期大于今天"
+
+#: zh/default.csv:179 
+msgid "Please enter a password"
+msgstr "请输入密码"
+
+#: zh/default.csv:180 
+msgid "Please enter a valid email address"
+msgstr "请输入有效的电子邮件地址"
+
+#: zh/default.csv:181 
+msgid "Please enter a valid url"
+msgstr "请输入有效的URL"
+
+#: zh/default.csv:182 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "请输入您的电子邮件。现在，我们将发送您的密码。"
+
+#: zh/default.csv:183 
+msgid "Please enter your email address"
+msgstr "请输入您的电子邮件地址"
+
+#: zh/default.csv:184 
+msgid "Please fill in the following fields:"
+msgstr "请填写以下字段："
+
+#: zh/default.csv:185 
+msgid "Please log in."
+msgstr "请登录。"
+
+#: zh/default.csv:186 
+msgid "Please, enter a correct email address."
+msgstr "请输入正确的电子邮件地址。"
+
+#: zh/default.csv:187 
+msgid "Please, enter a password."
+msgstr "请输入密码。"
+
+#: zh/default.csv:188 
+msgid "Please, enter a valid date"
+msgstr "有效日期请输入"
+
+#: zh/default.csv:189 
+msgid "Podcast"
+msgstr "播客"
+
+#: zh/default.csv:190 
+msgid "Podcast type is invalid or can't be found"
+msgstr "播客类型无效或无法找到"
+
+#: zh/default.csv:191 
+msgid "Podcast URL (iTunes format)"
+msgstr "URL播客（ iTunes的格式）"
+
+#: zh/default.csv:192 
+msgid "Postcode"
+msgstr "邮政编码"
+
+#: zh/default.csv:193 
+msgid "Postcode:"
+msgstr "邮政编码："
+
+#: zh/default.csv:194 
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: zh/default.csv:195 
+msgid "Price:"
+msgstr "价格："
+
+#: zh/default.csv:196 
+msgid "Push"
+msgstr "推"
+
+#: zh/default.csv:197 
+msgid "Required fields"
+msgstr "必填项"
+
+#: zh/default.csv:198 
+msgid "Resize your picture"
+msgstr "调整图片大小"
+
+#: zh/default.csv:199 
+msgid "Resize your picture:"
+msgstr "调整图像大小："
+
+#: zh/default.csv:200 
+msgid "SEND"
+msgstr "发送"
+
+#: zh/default.csv:201 
+msgid "Save"
+msgstr "保存"
+
+#: zh/default.csv:202 
+msgid "Search"
+msgstr "搜索"
+
+#: zh/default.csv:203 
+msgid "second"
+msgstr "第二"
+
+#: zh/default.csv:204 
+msgid "seconds"
+msgstr "秒"
+
+#: zh/default.csv:205 
+msgid "Select a country"
+msgstr "选择一个国家"
+
+#: zh/default.csv:206 
+msgid "Select all"
+msgstr "选择所有"
+
+#: zh/default.csv:207 
+msgid "Send"
+msgstr "发送"
+
+#: zh/default.csv:208 
+msgid "Send your pictures"
+msgstr "发送影像"
+
+#: zh/default.csv:209 
+msgid "Settings"
+msgstr "设置"
+
+#: zh/default.csv:210 
+msgid "Size:"
+msgstr "尺寸："
+
+#: zh/default.csv:211 
+msgid "Street"
+msgstr "街头"
+
+#: zh/default.csv:212 
+msgid "Street:"
+msgstr "街道："
+
+#: zh/default.csv:213 
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: zh/default.csv:214 
+msgid "Support"
+msgstr "支持"
+
+#: zh/default.csv:215 
+msgid "Support Link"
+msgstr "Link支持"
+
+#: zh/default.csv:216 
+msgid "Tax"
+msgstr "税"
+
+#: zh/default.csv:217 
+msgid "Taxes"
+msgstr "税收"
+
+#: zh/default.csv:218 
+msgid "Text"
+msgstr "文本"
+
+#: zh/default.csv:219 
+msgid "The account has been successfully saved"
+msgstr "该帐户已成功保存"
+
+#: zh/default.csv:220 
+msgid "The email is required"
+msgstr "它要求的电子邮件"
+
+#: zh/default.csv:221 
+msgid "The file '%s' does not exist"
+msgstr "该文件'％s '不存在"
+
+#: zh/default.csv:222 
+msgid "The file %s does not exist"
+msgstr "文件％s不存在"
+
+#: zh/default.csv:223 
+msgid "The image '%s' does not exist"
+msgstr "图像'％s'不存在"
+
+#: zh/default.csv:224 
+msgid "The image size '%s' could not be detected."
+msgstr "不能被检测到的图像“％ s”的大小。"
+
+#: zh/default.csv:225 
+msgid "The old password does not match the entered password."
+msgstr "旧密码不输入的密码相匹配。"
+
+#: zh/default.csv:226 
+msgid "The password is required"
+msgstr "密码是必需的"
+
+#: zh/default.csv:227 
+msgid "The password must be at least 6 characters"
+msgstr "密码必须至少6个字符"
+
+#: zh/default.csv:228 
+msgid "This administrator does not exist"
+msgstr "该管理员不存在"
+
+#: zh/default.csv:229 
+msgid "This email address is already used"
+msgstr "此电子邮件地址已被使用"
+
+#: zh/default.csv:230 
+msgid "This field is required"
+msgstr "这是必填栏"
+
+#: zh/default.csv:231 
+msgid "This user does not exist"
+msgstr "这个用户不存在"
+
+#: zh/default.csv:232 
+msgid "Timezone"
+msgstr "时区"
+
+#: zh/default.csv:233 
+msgid "title"
+msgstr "称号"
+
+#: zh/default.csv:234 
+msgid "titles"
+msgstr "证券"
+
+#: zh/default.csv:235 
+msgid "Title"
+msgstr "称号"
+
+#: zh/default.csv:236 
+msgid "Title:"
+msgstr "题目："
+
+#: zh/default.csv:237 
+msgid "Total"
+msgstr "总"
+
+#: zh/default.csv:238 
+msgid "Updated at"
+msgstr "更新"
+
+#: zh/default.csv:239 
+msgid "Use this coupon"
+msgstr "使用此优惠券"
+
+#: zh/default.csv:240 
+msgid "User"
+msgstr "用户"
+
+#: zh/default.csv:241 
+msgid "User successfully saved"
+msgstr "用户成功保存"
+
+#: zh/default.csv:242 
+msgid "Username"
+msgstr "用户名"
+
+#: zh/default.csv:243 
+msgid "Users"
+msgstr "用户"
+
+#: zh/default.csv:244 
+msgid "Valid until"
+msgstr "有效期至"
+
+#: zh/default.csv:245 
+msgid "Validate"
+msgstr "验证"
+
+#: zh/default.csv:246 
+msgid "VAT Number"
+msgstr "增值税号"
+
+#: zh/default.csv:247 
+msgid "Version %s"
+msgstr "％s的版本"
+
+#: zh/default.csv:248 
+msgid "View"
+msgstr "见"
+
+#: zh/default.csv:249 
+msgid "We are sorry but this address is already used."
+msgstr "很抱歉，但这个地址已被使用。"
+
+#: zh/default.csv:250 
+msgid "We are sorry but this email address already exists."
+msgstr "很抱歉，但已经有此电子邮件。"
+
+#: zh/default.csv:251 
+msgid "We are sorry but this feature is not available yet"
+msgstr "对不起，此功能不可用"
+
+#: zh/default.csv:252 
+msgid "Yes"
+msgstr "是的"
+
+#: zh/default.csv:253 
+msgid "You can upload a pem certificate only."
+msgstr "您只能加载PEM证书。"
+
+#: zh/default.csv:254 
+msgid "You can upload a zip archive only."
+msgstr "你只能上传一个zip文件。"
+
+#: zh/default.csv:255 
+msgid "You can upload an icon only (.ico and .png)."
+msgstr "您可以加载一个单一的（ .ICO和.png ）图标。"
+
+#: zh/default.csv:256 
+msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
+msgstr "您可以上传只有一个图像（ .JPG ， .JPEG ，.GIF和.png ） 。"
+
+#: zh/default.csv:257 
+msgid "You can't upload more than one file at a time."
+msgstr "你不能上传多个文件的时间。"
+
+#: zh/default.csv:258 
+msgid "You must be logged in to post a comment"
+msgstr "您必须登录后才能发表评论"
+
+#: zh/default.csv:259 
+msgid "Your browser is too old to view the content of our website.<br />"
+msgstr "您的浏览器太旧，以显示我们的网站的内容。<br />"
+
+#: zh/default.csv:260 
+msgid "Your comment"
+msgstr "您的评论"
+
+#: zh/default.csv:261 
+msgid "Your email address"
+msgstr "您的电子邮件地址"
+
+#: zh/default.csv:262 
+msgid "Your email address does not exist"
+msgstr "您的电子邮件地址不存在"
+
+#: zh/default.csv:263 
+msgid "Your name"
+msgstr "你的名字"
+
+#: zh/default.csv:264 
+msgid "Your new password has been sent to the entered email address"
+msgstr "您的新密码已发送到输入的电子邮件地址"
+
+#: zh/default.csv:265 
+msgid "Your password does not match the entered password."
+msgstr "您的密码不输入的密码相匹配。"
+
+#: zh/default.csv:266 
+msgid "Youtube"
+msgstr "的Youtube"
+
+#: zh/default.csv:267 
+msgid "en"
+msgstr "在"
+
+#: zh/default.csv:268 
+msgid "picture"
+msgstr "图像"
+
+#: zh/default.csv:269 
+msgid "to add a subfolder."
+msgstr "添加一个子文件夹。"
+
+#: zh/default.csv:270 
+msgid "Discount"
+msgstr "折扣"
+
+#: zh/default.csv:271 
+msgid "Newswall"
+msgstr "新闻"
+
+#: zh/default.csv:272 
+msgid "Discount"
+msgstr "折扣"
+
+#: zh/default.csv:273 
+msgid "Loyalty Card"
+msgstr "点卡"
+
+#: zh/default.csv:274 
+msgid "Catalog"
+msgstr "目录"
+
+#: zh/default.csv:275 
+msgid "Catalog"
+msgstr "目录"
+
+#: zh/default.csv:276 
+msgid "Set Meal"
+msgstr "菜单"
+
+#: zh/default.csv:277 
+msgid "Custom Page"
+msgstr "页面"
+
+#: zh/default.csv:278 
+msgid "Custom Page"
+msgstr "页面"
+
+#: zh/default.csv:279 
+msgid "RSS Feed"
+msgstr "RSS"
+
+#: zh/default.csv:280 
+msgid "Images"
+msgstr "意象"
+
+#: zh/default.csv:281 
+msgid "Video"
+msgstr "视频"
+
+#: zh/default.csv:282 
+msgid "Videos"
+msgstr "视频"
+
+#: zh/default.csv:283 
+msgid "Contact"
+msgstr "联系"
+
+#: zh/default.csv:284 
+msgid "Contest"
+msgstr "竞争"
+
+#: zh/default.csv:285 
+msgid "Booking"
+msgstr "储备"
+
+#: zh/default.csv:286 
+msgid "Calendar"
+msgstr "日记"
+
+#: zh/default.csv:287 
+msgid "Push Notifications"
+msgstr "警报"
+
+#: zh/default.csv:288 
+msgid "Link"
+msgstr "链接"
+
+#: zh/default.csv:289 
+msgid "Links"
+msgstr "链接"
+
+#: zh/default.csv:290 
+msgid "Form"
+msgstr "形式"
+
+#: zh/default.csv:291 
+msgid "Loyalty Card"
+msgstr "点卡"
+
+#: zh/default.csv:292 
+msgid "Audio"
+msgstr "音频"
+
+#: zh/default.csv:293 
+msgid "Source code"
+msgstr "代码"
+
+#: zh/default.csv:294 
+msgid "Places"
+msgstr "地方"
+
+#: zh/default.csv:295 
+msgid "Padlock"
+msgstr "访问"
+
+#: zh/default.csv:296 
+msgid "Folder"
+msgstr "夹"
+
+#: zh/default.csv:297 
+msgid "Commerce"
+msgstr "店"
+

@@ -1,0 +1,64 @@
+#: base/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "An error occurred while saving your contact informations."
+
+#: base/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "An error occurred while sending your request. Please try again later."
+
+#: base/contact.csv:3 
+msgid "And his phone number:"
+msgstr "And his phone number:"
+
+#: base/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Are you sure you want to remove the picture?"
+
+#: base/contact.csv:5 
+msgid "City"
+msgstr "City"
+
+#: base/contact.csv:6 
+msgid "Contact information"
+msgstr "Contact information"
+
+#: base/contact.csv:7 
+msgid "Here is his email:"
+msgstr "Here is his email:"
+
+#: base/contact.csv:8 
+msgid "Here is his message:"
+msgstr "Here is his message:"
+
+#: base/contact.csv:9 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Please enter properly the following fields: <br />"
+
+#: base/contact.csv:10 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: base/contact.csv:11 
+msgid "Website"
+msgstr "Website"
+
+#: base/contact.csv:12 
+msgid "You have received a message from a contact:"
+msgstr "You have received a message from a contact:"
+
+#: base/contact.csv:13 
+msgid "Your email"
+msgstr "Your email"
+
+#: base/contact.csv:14 
+msgid "Your message has been sent"
+msgstr "Your message has been sent"
+
+#: base/contact.csv:15 
+msgid "Your request"
+msgstr "Your request"
+
+#: base/contact.csv:16 
+msgid "Zip code"
+msgstr "Zip code"
+

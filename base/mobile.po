@@ -1,0 +1,512 @@
+#: base/mobile.csv:1 
+msgid "Access my personal data"
+msgstr "Access my personal data"
+
+#: base/mobile.csv:2 
+msgid "Add a comment"
+msgstr "Add a comment"
+
+#: base/mobile.csv:3 
+msgid "Add image"
+msgstr "Add image"
+
+#: base/mobile.csv:4 
+msgid "Add to address book"
+msgstr "Add to address book"
+
+#: base/mobile.csv:5 
+msgid "Address"
+msgstr "Address"
+
+#: base/mobile.csv:6 
+msgid "Albums"
+msgstr "Albums"
+
+#: base/mobile.csv:7 
+msgid "An error occurred while loading the media."
+msgstr "An error occurred while loading the media."
+
+#: base/mobile.csv:8 
+msgid "An error occurred while loading the radio."
+msgstr "An error occurred while loading the radio."
+
+#: base/mobile.csv:9 
+msgid "An error occurred while reading the code."
+msgstr "An error occurred while reading the code."
+
+#: base/mobile.csv:10 
+msgid "An unexpected error occurred while calculating the route."
+msgstr "An unexpected error occurred while calculating the route."
+
+#: base/mobile.csv:11 
+msgid "Application is Locked"
+msgstr "Application is Locked"
+
+#: base/mobile.csv:12 
+msgid "Buffering"
+msgstr "Buffering"
+
+#: base/mobile.csv:13 
+msgid "Buy Tickets"
+msgstr "Buy Tickets"
+
+#: base/mobile.csv:14 
+msgid "Buy tickets"
+msgstr "Buy tickets"
+
+#: base/mobile.csv:15 
+msgid "CVC ***"
+msgstr "CVC ***"
+
+#: base/mobile.csv:16 
+msgid "Cancel"
+msgstr "Cancel"
+
+#: base/mobile.csv:17 
+msgid "Cancel delete"
+msgstr "Cancel delete"
+
+#: base/mobile.csv:18 
+msgid "Cancel edit"
+msgstr "Cancel edit"
+
+#: base/mobile.csv:19 
+msgid "Civility"
+msgstr "Civility"
+
+#: base/mobile.csv:20 
+msgid "Clear"
+msgstr "Clear"
+
+#: base/mobile.csv:21 
+msgid "Click here to log-in"
+msgstr "Click here to log-in"
+
+#: base/mobile.csv:22 
+msgid "Close"
+msgstr "Close"
+
+#: base/mobile.csv:23 
+msgid "Comment"
+msgstr "Comment"
+
+#: base/mobile.csv:24 
+msgid "Copy"
+msgstr "Copy"
+
+#: base/mobile.csv:25 
+msgid "Create an account"
+msgstr "Create an account"
+
+#: base/mobile.csv:26 
+msgid "Date and time"
+msgstr "Date and time"
+
+#: base/mobile.csv:27 
+msgid "Delete"
+msgstr "Delete"
+
+#: base/mobile.csv:28 
+msgid "Delivery address"
+msgstr "Delivery address"
+
+#: base/mobile.csv:29 
+msgid "Description"
+msgstr "Description"
+
+#: base/mobile.csv:30 
+msgid "Discount code"
+msgstr "Discount code"
+
+#: base/mobile.csv:31 
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: base/mobile.csv:32 
+msgid "Done"
+msgstr "Done"
+
+#: base/mobile.csv:33 
+msgid "Downloading..."
+msgstr "Downloading..."
+
+#: base/mobile.csv:34 
+msgid "EXP"
+msgstr "EXP"
+
+#: base/mobile.csv:35 
+msgid "Email"
+msgstr "Email"
+
+#: base/mobile.csv:36 
+msgid "Error"
+msgstr "Error"
+
+#: base/mobile.csv:37 
+msgid "First name / Last name"
+msgstr "First name / Last name"
+
+#: base/mobile.csv:38 
+msgid "Firstname"
+msgstr "Firstname"
+
+#: base/mobile.csv:39 
+msgid "Flag"
+msgstr "Flag"
+
+#: base/mobile.csv:40 
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+#: base/mobile.csv:41 
+msgid "Hi. I just found: $1 in the $2 app."
+msgstr "Hi. I just found: $1 in the $2 app."
+
+#: base/mobile.csv:42 
+msgid "I accept the privacy policy"
+msgstr "I accept the privacy policy"
+
+#: base/mobile.csv:43 
+msgid "I just found this discount $1 in $2 app."
+msgstr "I just found this discount $1 in $2 app."
+
+#: base/mobile.csv:44 
+msgid "Identity"
+msgstr "Identity"
+
+#: base/mobile.csv:45 
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "I'm listening to $1 from $2 on $3 app."
+
+#: base/mobile.csv:46 
+msgid "I'm listening to $1 on $2 app."
+msgstr "I'm listening to $1 on $2 app."
+
+#: base/mobile.csv:47 
+msgid "Info"
+msgstr "Info"
+
+#: base/mobile.csv:48 
+msgid "Informations"
+msgstr "Informations"
+
+#: base/mobile.csv:49 
+msgid "Invoicing address"
+msgstr "Invoicing address"
+
+#: base/mobile.csv:50 
+msgid "Lastname"
+msgstr "Lastname"
+
+#: base/mobile.csv:51 
+msgid "Like"
+msgstr "Like"
+
+#: base/mobile.csv:52 
+msgid "Loading"
+msgstr "Loading"
+
+#: base/mobile.csv:53 
+msgid "Locate"
+msgstr "Locate"
+
+#: base/mobile.csv:54 
+msgid "Location"
+msgstr "Location"
+
+#: base/mobile.csv:55 
+msgid "Log-in"
+msgstr "Log-in"
+
+#: base/mobile.csv:56 
+msgid "Login error"
+msgstr "Login error"
+
+#: base/mobile.csv:57 
+msgid "Log-in with Facebook"
+msgstr "Log-in with Facebook"
+
+#: base/mobile.csv:58 
+msgid "Map"
+msgstr "Map"
+
+#: base/mobile.csv:59 
+msgid "Miss"
+msgstr "Miss"
+
+#: base/mobile.csv:60 
+msgid "Mr"
+msgstr "Mr"
+
+#: base/mobile.csv:61 
+msgid "Mrs"
+msgstr "Mrs"
+
+#: base/mobile.csv:62 
+msgid "My account"
+msgstr "My account"
+
+#: base/mobile.csv:63 
+msgid "New Post"
+msgstr "New Post"
+
+#: base/mobile.csv:64 
+msgid "Nickname"
+msgstr "Nickname"
+
+#: base/mobile.csv:65 
+msgid "No comments for now."
+msgstr "No comments for now."
+
+#: base/mobile.csv:66 
+msgid "No form available"
+msgstr "No form available"
+
+#: base/mobile.csv:67 
+msgid "No images found"
+msgstr "No images found"
+
+#: base/mobile.csv:68 
+msgid "No items found"
+msgstr "No items found"
+
+#: base/mobile.csv:69 
+msgid "No results for your request."
+msgstr "No results for your request."
+
+#: base/mobile.csv:70 
+msgid "Notes"
+msgstr "Notes"
+
+#: base/mobile.csv:71 
+msgid "Notification"
+msgstr "Notification"
+
+#: base/mobile.csv:72 
+msgid "Number of people"
+msgstr "Number of people"
+
+#: base/mobile.csv:73 
+msgid "OK"
+msgstr "OK"
+
+#: base/mobile.csv:74 
+msgid "Offline mode"
+msgstr "Offline mode"
+
+#: base/mobile.csv:75 
+msgid "Ok"
+msgstr "Ok"
+
+#: base/mobile.csv:76 
+msgid "Open link"
+msgstr "Open link"
+
+#: base/mobile.csv:77 
+msgid "Or with your account"
+msgstr "Or with your account"
+
+#: base/mobile.csv:78 
+msgid "Order Details"
+msgstr "Order Details"
+
+#: base/mobile.csv:79 
+msgid "Overview"
+msgstr "Overview"
+
+#: base/mobile.csv:80 
+msgid "Password"
+msgstr "Password"
+
+#: base/mobile.csv:81 
+msgid "Phone"
+msgstr "Phone"
+
+#: base/mobile.csv:82 
+msgid "Photos"
+msgstr "Photos"
+
+#: base/mobile.csv:83 
+msgid "Playlists"
+msgstr "Playlists"
+
+#: base/mobile.csv:84 
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+#: base/mobile.csv:85 
+msgid "Please enter your email address."
+msgstr "Please enter your email address."
+
+#: base/mobile.csv:86 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Please enter your email address. We'll send you your password right now."
+
+#: base/mobile.csv:87 
+msgid "Please wait..."
+msgstr "Please wait..."
+
+#: base/mobile.csv:88 
+msgid "Podcast"
+msgstr "Podcast"
+
+#: base/mobile.csv:89 
+msgid "Prices"
+msgstr "Prices"
+
+#: base/mobile.csv:90 
+msgid "Privacy"
+msgstr "Privacy"
+
+#: base/mobile.csv:91 
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: base/mobile.csv:92 
+msgid "Pull to refresh..."
+msgstr "Pull to refresh..."
+
+#: base/mobile.csv:93 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: base/mobile.csv:94 
+msgid "Read all"
+msgstr "Read all"
+
+#: base/mobile.csv:95 
+msgid "Scan result"
+msgstr "Scan result"
+
+#: base/mobile.csv:96 
+msgid "See details"
+msgstr "See details"
+
+#: base/mobile.csv:97 
+msgid "Send"
+msgstr "Send"
+
+#: base/mobile.csv:98 
+msgid "Send contact request"
+msgstr "Send contact request"
+
+#: base/mobile.csv:99 
+msgid "Show me in ranking"
+msgstr "Show me in ranking"
+
+#: base/mobile.csv:100 
+msgid "Success"
+msgstr "Success"
+
+#: base/mobile.csv:101 
+msgid "Tap to download in background"
+msgstr "Tap to download in background"
+
+#: base/mobile.csv:102 
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: base/mobile.csv:103 
+msgid "The address you're looking for does not exists."
+msgstr "The address you're looking for does not exists."
+
+#: base/mobile.csv:104 
+msgid "The sign in flow was canceled"
+msgstr "The sign in flow was canceled"
+
+#: base/mobile.csv:105 
+msgid "There is no route available with these informations."
+msgstr "There is no route available with these informations."
+
+#: base/mobile.csv:106 
+msgid "This application is no longer available"
+msgstr "This application is no longer available"
+
+#: base/mobile.csv:107 
+msgid "This feature is disabled in this preview"
+msgstr "This feature is disabled in this preview"
+
+#: base/mobile.csv:108 
+msgid "This feature is not available in offline mode!"
+msgstr "This feature is not available in offline mode!"
+
+#: base/mobile.csv:109 
+msgid "This field is required"
+msgstr "This field is required"
+
+#: base/mobile.csv:110 
+msgid "This will open the code scan camera on your device."
+msgstr "This will open the code scan camera on your device."
+
+#: base/mobile.csv:111 
+msgid "Title"
+msgstr "Title"
+
+#: base/mobile.csv:112 
+msgid "Tracks"
+msgstr "Tracks"
+
+#: base/mobile.csv:113 
+msgid "Triple tap to close the preview"
+msgstr "Triple tap to close the preview"
+
+#: base/mobile.csv:114 
+msgid "Use this coupon"
+msgstr "Use this coupon"
+
+#: base/mobile.csv:115 
+msgid "Valid Until"
+msgstr "Valid Until"
+
+#: base/mobile.csv:116 
+msgid "View"
+msgstr "View"
+
+#: base/mobile.csv:117 
+msgid "We are sorry but this application has been deactivated and may not be re-activated."
+msgstr "We are sorry but this application has been deactivated and may not be re-activated."
+
+#: base/mobile.csv:118 
+msgid "Website"
+msgstr "Website"
+
+#: base/mobile.csv:119 
+msgid "We'll send you your password right now."
+msgstr "We'll send you your password right now."
+
+#: base/mobile.csv:120 
+msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+msgstr "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+
+#: base/mobile.csv:121 
+msgid "XXXX XXXX XXXX"
+msgstr "XXXX XXXX XXXX"
+
+#: base/mobile.csv:122 
+msgid "You must fill at least one field!"
+msgstr "You must fill at least one field!"
+
+#: base/mobile.csv:123 
+msgid "Your comment"
+msgstr "Your comment"
+
+#: base/mobile.csv:124 
+msgid "Your location could not be found because your application doesn't use SSL."
+msgstr "Your location could not be found because your application doesn't use SSL."
+
+#: base/mobile.csv:125 
+msgid "followers"
+msgstr "followers"
+
+#: base/mobile.csv:126 
+msgid "following"
+msgstr "following"
+
+#: base/mobile.csv:127 
+msgid "track"
+msgstr "track"
+
+#: base/mobile.csv:128 
+msgid "tracks"
+msgstr "tracks"
+

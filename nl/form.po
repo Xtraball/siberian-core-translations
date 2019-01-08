@@ -1,0 +1,124 @@
+#: nl/form.csv:1 
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "<strong>%s</strong> moet een numerieke waarde zijn<br />"
+
+#: nl/form.csv:2 
+msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgstr "<strong>%s</strong> moet een geldige datum zijn (e.g. dd/mm/yyyy)<br />"
+
+#: nl/form.csv:3 
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "<strong>%s</strong> moet een geldige datum zijn<br />"
+
+#: nl/form.csv:4 
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "<strong>%s</strong> moet een geldig e-mailadres zijn<br />"
+
+#: nl/form.csv:5 
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "<strong>%s</strong> moeten worden ingevuld<br />"
+
+#: nl/form.csv:6 
+msgid "Add a field"
+msgstr "Bewerk veld"
+
+#: nl/form.csv:7 
+msgid "Add a section"
+msgstr "Bewerk een selectie"
+
+#: nl/form.csv:8 
+msgid "Add an option"
+msgstr "Bewerk een optie"
+
+#: nl/form.csv:9 
+msgid "An error occurred while saving. A field can't be identified."
+msgstr "Er is een fout opgetreden tijdens het opslaan. Een veld kan niet worden geïdentificeerd."
+
+#: nl/form.csv:10 
+msgid "Are you sure you want to remove this field?"
+msgstr "Bent u zeker dat u dit veld wilt verwijderen?"
+
+#: nl/form.csv:11 
+msgid "Are you sure you want to remove this section?"
+msgstr "Bent u zeker dat u dit gedeelte wilt  verwijderen?"
+
+#: nl/form.csv:12 
+msgid "Hello,"
+msgstr "Hallo"
+
+#: nl/form.csv:13 
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: nl/form.csv:14 
+msgid "Choose a field type:"
+msgstr "Kies een veld type"
+
+#: nl/form.csv:15 
+msgid "Create a new field"
+msgstr "Maak een nieuw veld"
+
+#: nl/form.csv:16 
+msgid "Date/Hour"
+msgstr "Datum/uur"
+
+#: nl/form.csv:17 
+msgid "Drop down"
+msgstr "Dropdown"
+
+#: nl/form.csv:18 
+msgid "Edit field %s"
+msgstr "Bewerk veld %s"
+
+#: nl/form.csv:19 
+msgid "Field name"
+msgstr "Veldnaam"
+
+#: nl/form.csv:20 
+msgid "Field name:"
+msgstr "Veldnaam:"
+
+#: nl/form.csv:21 
+msgid "Geolocation"
+msgstr "Geolocatie"
+
+#: nl/form.csv:22 
+msgid "Manage fields"
+msgstr "Beheer velden"
+
+#: nl/form.csv:23 
+msgid "Manage options:"
+msgstr "Beheer opties:"
+
+#: nl/form.csv:24 
+msgid "Multiline text"
+msgstr "Multiline text"
+
+#: nl/form.csv:25 
+msgid "Option"
+msgstr "Optie"
+
+#: nl/form.csv:26 
+msgid "Radio"
+msgstr "Radio"
+
+#: nl/form.csv:27 
+msgid "Recipient email:"
+msgstr "Ontvanger e-mail:"
+
+#: nl/form.csv:28 
+msgid "The form has been sent successfully"
+msgstr "Het formulier is succesvol verzonden"
+
+#: nl/form.csv:29 
+msgid "You have to choose a field type."
+msgstr "Je moet een veld type kiezen."
+
+#: nl/form.csv:30 
+msgid "Your app's form"
+msgstr "Uw app formulier"
+
+#: nl/form.csv:31 
+msgid "Your form has been filled out, here are the answers:"
+msgstr "Uw formulier is ingevuld  hier zijn de antwoorden:"
+

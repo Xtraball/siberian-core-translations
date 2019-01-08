@@ -1,0 +1,1448 @@
+#: base/backoffice.csv:1 
+msgid "60000 maximum allowed."
+msgstr "60000 maximum allowed."
+
+#: base/backoffice.csv:2 
+msgid "A certificate already exists for the domain %s, if you want to re-generate it, use 'Force re-generate' to proceed."
+msgstr "A certificate already exists for the domain %s, if you want to re-generate it, use 'Force re-generate' to proceed."
+
+#: base/backoffice.csv:3 
+msgid "[APK]"
+msgstr "[APK]"
+
+#: base/backoffice.csv:4 
+msgid "APK Queue empty"
+msgstr "APK Queue empty"
+
+#: base/backoffice.csv:5 
+msgid "APK Queue status"
+msgstr "APK Queue status"
+
+#: base/backoffice.csv:6 
+msgid "APNS Feedback:"
+msgstr "APNS Feedback:"
+
+#: base/backoffice.csv:7 
+msgid "APNS Feedback port 2196 is:"
+msgstr "APNS Feedback port 2196 is:"
+
+#: base/backoffice.csv:8 
+msgid "APNS Port 2195 is:"
+msgstr "APNS Port 2195 is:"
+
+#: base/backoffice.csv:9 
+msgid "Account"
+msgstr "Account"
+
+#: base/backoffice.csv:10 
+msgid "Account Role"
+msgstr "Account Role"
+
+#: base/backoffice.csv:11 
+msgid "Actions"
+msgstr "Actions"
+
+#: base/backoffice.csv:12 
+msgid "Activate VAT number check with VIES"
+msgstr "Activate VAT number check with VIES"
+
+#: base/backoffice.csv:13 
+msgid "Activate user"
+msgstr "Activate user"
+
+#: base/backoffice.csv:14 
+msgid "Active ?"
+msgstr "Active ?"
+
+#: base/backoffice.csv:15 
+msgid "Add a custom text to the footer of your invoices"
+msgstr "Add a custom text to the footer of your invoices"
+
+#: base/backoffice.csv:16 
+msgid "Admin panel type"
+msgstr "Admin panel type"
+
+#: base/backoffice.csv:17 
+msgid "Advanced"
+msgstr "Advanced"
+
+#: base/backoffice.csv:18 
+msgid "Alert: The APK build for the Application: %s (%s) is stuck for more than one hour."
+msgstr "Alert: The APK build for the Application: %s (%s) is stuck for more than one hour."
+
+#: base/backoffice.csv:19 
+msgid "Alert: The Source build for the Application: %s (%s) is stuck for more than one hour."
+msgstr "Alert: The Source build for the Application: %s (%s) is stuck for more than one hour."
+
+#: base/backoffice.csv:20 
+msgid "All the files are required."
+msgstr "All the files are required."
+
+#: base/backoffice.csv:21 
+msgid "An entry already exists for this hostname, remove it first if you need to change your certificates."
+msgstr "An entry already exists for this hostname, remove it first if you need to change your certificates."
+
+#: base/backoffice.csv:22 
+msgid "An error occured"
+msgstr "An error occured"
+
+#: base/backoffice.csv:23 
+msgid "An error occured while saving certificate to %s."
+msgstr "An error occured while saving certificate to %s."
+
+#: base/backoffice.csv:24 
+msgid "An error occurred during the process. Please try again later."
+msgstr "An error occurred during the process. Please try again later."
+
+#: base/backoffice.csv:25 
+msgid "An unknown error occured while issueing your certificate."
+msgstr "An unknown error occured while issueing your certificate."
+
+#: base/backoffice.csv:26 
+msgid "Android SDK:"
+msgstr "Android SDK:"
+
+#: base/backoffice.csv:27 
+msgid "App name"
+msgstr "App name"
+
+#: base/backoffice.csv:28 
+msgid "Application settings"
+msgstr "Application settings"
+
+#: base/backoffice.csv:29 
+msgid "Application successfully queued for generation."
+msgstr "Application successfully queued for generation."
+
+#: base/backoffice.csv:30 
+msgid "Applications/Previewer manifest for automatic updates."
+msgstr "Applications/Previewer manifest for automatic updates."
+
+#: base/backoffice.csv:31 
+msgid "Are you sure ?"
+msgstr "Are you sure ?"
+
+#: base/backoffice.csv:32 
+msgid "Auth type"
+msgstr "Auth type"
+
+#: base/backoffice.csv:33 
+msgid "Authenticate"
+msgstr "Authenticate"
+
+#: base/backoffice.csv:34 
+msgid "Average build time in seconds:"
+msgstr "Average build time in seconds:"
+
+#: base/backoffice.csv:35 
+msgid "Average sources/apk build time:"
+msgstr "Average sources/apk build time:"
+
+#: base/backoffice.csv:36 
+msgid "Backoffice options"
+msgstr "Backoffice options"
+
+#: base/backoffice.csv:37 
+msgid "Bearer Token Auth (API)"
+msgstr "Bearer Token Auth (API)"
+
+#: base/backoffice.csv:38 
+msgid "Bearer Token Auth is valid."
+msgstr "Bearer Token Auth is valid."
+
+#: base/backoffice.csv:39 
+msgid "Beta"
+msgstr "Beta"
+
+#: base/backoffice.csv:40 
+msgid "Build status"
+msgstr "Build status"
+
+#: base/backoffice.csv:41 
+msgid "Build time (in seconds)"
+msgstr "Build time (in seconds)"
+
+#: base/backoffice.csv:42 
+msgid "By clicking on link below, you will open your editor in tour editing mode. Please note that your user account must be created on editor side."
+msgstr "By clicking on link below, you will open your editor in tour editing mode. Please note that your user account must be created on editor side."
+
+#: base/backoffice.csv:43 
+msgid "CA"
+msgstr "CA"
+
+#: base/backoffice.csv:44 
+msgid "CA certificate"
+msgstr "CA certificate"
+
+#: base/backoffice.csv:45 
+msgid "CA path:"
+msgstr "CA path:"
+
+#: base/backoffice.csv:46 
+msgid "CRON Scheduler interval"
+msgstr "CRON Scheduler interval"
+
+#: base/backoffice.csv:47 
+msgid "Cache cleared"
+msgstr "Cache cleared"
+
+#: base/backoffice.csv:48 
+msgid "Cache (var/cache, system cache)"
+msgstr "Cache (var/cache, system cache)"
+
+#: base/backoffice.csv:49 
+msgid "Can generate APK"
+msgstr "Can generate APK"
+
+#: base/backoffice.csv:50 
+msgid "Cert"
+msgstr "Cert"
+
+#: base/backoffice.csv:51 
+msgid "Certificate"
+msgstr "Certificate"
+
+#: base/backoffice.csv:52 
+msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+
+#: base/backoffice.csv:53 
+msgid "Certificate path:"
+msgstr "Certificate path:"
+
+#: base/backoffice.csv:54 
+msgid "Certificate successfully generated."
+msgstr "Certificate successfully generated."
+
+#: base/backoffice.csv:55 
+msgid "Certificate successfully generated. Please wait while %s is reloading configuration ..."
+msgstr "Certificate successfully generated. Please wait while %s is reloading configuration ..."
+
+#: base/backoffice.csv:56 
+msgid "Certificate successfully re-generated."
+msgstr "Certificate successfully re-generated."
+
+#: base/backoffice.csv:57 
+msgid "Change the password"
+msgstr "Change the password"
+
+#: base/backoffice.csv:58 
+msgid "Check if this cron command is installed under the web user & if you have set a timezone in Settings > General"
+msgstr "Check if this cron command is installed under the web user & if you have set a timezone in Settings > General"
+
+#: base/backoffice.csv:59 
+msgid "Clear"
+msgstr "Clear"
+
+#: base/backoffice.csv:60 
+msgid "Clear cache"
+msgstr "Clear cache"
+
+#: base/backoffice.csv:61 
+msgid "Clear logs"
+msgstr "Clear logs"
+
+#: base/backoffice.csv:62 
+msgid "Cleared cron errors."
+msgstr "Cleared cron errors."
+
+#: base/backoffice.csv:63 
+msgid "Click here to send your CA certificate"
+msgstr "Click here to send your CA certificate"
+
+#: base/backoffice.csv:64 
+msgid "Click here to send your Private certificate"
+msgstr "Click here to send your Private certificate"
+
+#: base/backoffice.csv:65 
+msgid "Click here to send your certificate"
+msgstr "Click here to send your certificate"
+
+#: base/backoffice.csv:66 
+msgid "Click to mark as not read"
+msgstr "Click to mark as not read"
+
+#: base/backoffice.csv:67 
+msgid "Click to mark as read"
+msgstr "Click to mark as read"
+
+#: base/backoffice.csv:68 
+msgid "Closed"
+msgstr "Closed"
+
+#: base/backoffice.csv:69 
+msgid "Complete build log"
+msgstr "Complete build log"
+
+#: base/backoffice.csv:70 
+msgid "Configuration"
+msgstr "Configuration"
+
+#: base/backoffice.csv:71 
+msgid "Configuration successfully saved"
+msgstr "Configuration successfully saved"
+
+#: base/backoffice.csv:72 
+msgid "Core modules"
+msgstr "Core modules"
+
+#: base/backoffice.csv:73 
+msgid "Create a user"
+msgstr "Create a user"
+
+#: base/backoffice.csv:74 
+msgid "Created At"
+msgstr "Created At"
+
+#: base/backoffice.csv:75 
+msgid "Creation date"
+msgstr "Creation date"
+
+#: base/backoffice.csv:76 
+msgid "Cron"
+msgstr "Cron"
+
+#: base/backoffice.csv:77 
+msgid "Cron alerts"
+msgstr "Cron alerts"
+
+#: base/backoffice.csv:78 
+msgid "Cron interval"
+msgstr "Cron interval"
+
+#: base/backoffice.csv:79 
+msgid "Cron scheduler"
+msgstr "Cron scheduler"
+
+#: base/backoffice.csv:80 
+msgid "Cron scheduler help"
+msgstr "Cron scheduler help"
+
+#: base/backoffice.csv:81 
+msgid "Custom SMTP Configuration"
+msgstr "Custom SMTP Configuration"
+
+#: base/backoffice.csv:82 
+msgid "Day of month"
+msgstr "Day of month"
+
+#: base/backoffice.csv:83 
+msgid "Day of week"
+msgstr "Day of week"
+
+#: base/backoffice.csv:84 
+msgid "Deactivate user"
+msgstr "Deactivate user"
+
+#: base/backoffice.csv:85 
+msgid "Default (no)"
+msgstr "Default (no)"
+
+#: base/backoffice.csv:86 
+msgid "Development"
+msgstr "Development"
+
+#: base/backoffice.csv:87 
+msgid "DirectAdmin"
+msgstr "DirectAdmin"
+
+#: base/backoffice.csv:88 
+msgid "DirectAdmin (beta)"
+msgstr "DirectAdmin (beta)"
+
+#: base/backoffice.csv:89 
+msgid "Disable cron jobs"
+msgstr "Disable cron jobs"
+
+#: base/backoffice.csv:90 
+msgid "Disabled"
+msgstr "Disabled"
+
+#: base/backoffice.csv:91 
+msgid "Disk usage & Cache:"
+msgstr "Disk usage & Cache:"
+
+#: base/backoffice.csv:92 
+msgid "Dismiss & install later"
+msgstr "Dismiss & install later"
+
+#: base/backoffice.csv:93 
+msgid "Display"
+msgstr "Display"
+
+#: base/backoffice.csv:94 
+msgid "Doesn't meet the requirements"
+msgstr "Doesn't meet the requirements"
+
+#: base/backoffice.csv:95 
+msgid "Download latest source"
+msgstr "Download latest source"
+
+#: base/backoffice.csv:96 
+msgid "Drop your certificate here"
+msgstr "Drop your certificate here"
+
+#: base/backoffice.csv:97 
+msgid "Edit the user"
+msgstr "Edit the user"
+
+#: base/backoffice.csv:98 
+msgid "Editor's Design"
+msgstr "Editor's Design"
+
+#: base/backoffice.csv:99 
+msgid "Enable custom SMTP configuration"
+msgstr "Enable custom SMTP configuration"
+
+#: base/backoffice.csv:100 
+msgid "Enter your credentials:"
+msgstr "Enter your credentials:"
+
+#: base/backoffice.csv:101 
+msgid "Environment"
+msgstr "Environment"
+
+#: base/backoffice.csv:102 
+msgid "Error, order already paid."
+msgstr "Error, order already paid."
+
+#: base/backoffice.csv:103 
+msgid "Errors are displayed on page, outputs are more verbose, this is an option for debug purpose, use with care as it may output some critical informations about your server."
+msgstr "Errors are displayed on page, outputs are more verbose, this is an option for debug purpose, use with care as it may output some critical informations about your server."
+
+#: base/backoffice.csv:104 
+msgid "Exists"
+msgstr "Exists"
+
+#: base/backoffice.csv:105 
+msgid "External extensions"
+msgstr "External extensions"
+
+#: base/backoffice.csv:106 
+msgid "Failed"
+msgstr "Failed"
+
+#: base/backoffice.csv:107 
+msgid "File hash is different from manifest."
+msgstr "File hash is different from manifest."
+
+#: base/backoffice.csv:108 
+msgid "File is missing."
+msgstr "File is missing."
+
+#: base/backoffice.csv:109 
+msgid "Force re-generation"
+msgstr "Force re-generation"
+
+#: base/backoffice.csv:110 
+msgid "Forgot password"
+msgstr "Forgot password"
+
+#: base/backoffice.csv:111 
+msgid "Full"
+msgstr "Full"
+
+#: base/backoffice.csv:112 
+msgid "Full path to use within your webserver."
+msgstr "Full path to use within your webserver."
+
+#: base/backoffice.csv:113 
+msgid "General settings"
+msgstr "General settings"
+
+#: base/backoffice.csv:114 
+msgid "Generate"
+msgstr "Generate"
+
+#: base/backoffice.csv:115 
+msgid "Generate a certificate via Let's Encrypt."
+msgstr "Generate a certificate via Let's Encrypt."
+
+#: base/backoffice.csv:116 
+msgid "Generate source"
+msgstr "Generate source"
+
+#: base/backoffice.csv:117 
+msgid "Generating"
+msgstr "Generating"
+
+#: base/backoffice.csv:118 
+msgid "[Global]"
+msgstr "[Global]"
+
+#: base/backoffice.csv:119 
+msgid "Grant user"
+msgstr "Grant user"
+
+#: base/backoffice.csv:120 
+msgid "HTTP Basic Auth (API)"
+msgstr "HTTP Basic Auth (API)"
+
+#: base/backoffice.csv:121 
+msgid "HTTP Basic Auth is valid."
+msgstr "HTTP Basic Auth is valid."
+
+#: base/backoffice.csv:122 
+msgid "HTTPS & SSL Certificates"
+msgstr "HTTPS & SSL Certificates"
+
+#: base/backoffice.csv:123 
+msgid "HTTPS host is unreachable."
+msgstr "HTTPS host is unreachable."
+
+#: base/backoffice.csv:124 
+msgid "HTTPS is not available on your server."
+msgstr "HTTPS is not available on your server."
+
+#: base/backoffice.csv:125 
+msgid "HTTPS not reachable"
+msgstr "HTTPS not reachable"
+
+#: base/backoffice.csv:126 
+msgid "HTTPS support is in <b>Beta</b>, you should test it on your <b>development server</b> first & prepare for further migration."
+msgstr "HTTPS support is in <b>Beta</b>, you should test it on your <b>development server</b> first & prepare for further migration."
+
+#: base/backoffice.csv:127 
+msgid "HTTPS support is in test, you should only try it on your development server prior to prepare for further migration."
+msgstr "HTTPS support is in test, you should only try it on your development server prior to prepare for further migration."
+
+#: base/backoffice.csv:128 
+msgid "Hide"
+msgstr "Hide"
+
+#: base/backoffice.csv:129 
+msgid "Host"
+msgstr "Host"
+
+#: base/backoffice.csv:130 
+msgid "Hostname"
+msgstr "Hostname"
+
+#: base/backoffice.csv:131 
+msgid "Hostnames associated with this Certificate"
+msgstr "Hostnames associated with this Certificate"
+
+#: base/backoffice.csv:132 
+msgid "Hour"
+msgstr "Hour"
+
+#: base/backoffice.csv:133 
+msgid "ID"
+msgstr "ID"
+
+#: base/backoffice.csv:134 
+msgid "If inactive, your customer won't see the tour."
+msgstr "If inactive, your customer won't see the tour."
+
+#: base/backoffice.csv:135 
+msgid "If you are unable to install or run the cronjob on your hosting/server you can disable it."
+msgstr "If you are unable to install or run the cronjob on your hosting/server you can disable it."
+
+#: base/backoffice.csv:136 
+msgid "Info"
+msgstr "Info"
+
+#: base/backoffice.csv:137 
+msgid "Installed"
+msgstr "Installed"
+
+#: base/backoffice.csv:138 
+msgid "Installed icon packs"
+msgstr "Installed icon packs"
+
+#: base/backoffice.csv:139 
+msgid "Installed layouts"
+msgstr "Installed layouts"
+
+#: base/backoffice.csv:140 
+msgid "Installed modules"
+msgstr "Installed modules"
+
+#: base/backoffice.csv:141 
+msgid "Installed, version"
+msgstr "Installed, version"
+
+#: base/backoffice.csv:142 
+msgid "Integrity check"
+msgstr "Integrity check"
+
+#: base/backoffice.csv:143 
+msgid "Invoice options"
+msgstr "Invoice options"
+
+#: base/backoffice.csv:144 
+msgid "Issued certificates"
+msgstr "Issued certificates"
+
+#: base/backoffice.csv:145 
+msgid "JAVA:"
+msgstr "JAVA:"
+
+#: base/backoffice.csv:146 
+msgid "Last cron error"
+msgstr "Last cron error"
+
+#: base/backoffice.csv:147 
+msgid "Last failure"
+msgstr "Last failure"
+
+#: base/backoffice.csv:148 
+msgid "Last success"
+msgstr "Last success"
+
+#: base/backoffice.csv:149 
+msgid "Last trigger"
+msgstr "Last trigger"
+
+#: base/backoffice.csv:150 
+msgid "Let's Encrypt certificates renewal"
+msgstr "Let's Encrypt certificates renewal"
+
+#: base/backoffice.csv:151 
+msgid "Let's Encrypt environment"
+msgstr "Let's Encrypt environment"
+
+#: base/backoffice.csv:152 
+msgid "[Let's Encrypt] renewing certificate."
+msgstr "[Let's Encrypt] renewing certificate."
+
+#: base/backoffice.csv:153 
+msgid "[Let's Encrypt] will add %s to SAN."
+msgstr "[Let's Encrypt] will add %s to SAN."
+
+#: base/backoffice.csv:154 
+msgid "Link preview"
+msgstr "Link preview"
+
+#: base/backoffice.csv:155 
+msgid "List of backoffice accounts"
+msgstr "List of backoffice accounts"
+
+#: base/backoffice.csv:156 
+msgid "List of the messages"
+msgstr "List of the messages"
+
+#: base/backoffice.csv:157 
+msgid "Loaded"
+msgstr "Loaded"
+
+#: base/backoffice.csv:158 
+msgid "Log"
+msgstr "Log"
+
+#: base/backoffice.csv:159 
+msgid "Log (var/log, log files)"
+msgstr "Log (var/log, log files)"
+
+#: base/backoffice.csv:160 
+msgid "Login to your backoffice interface"
+msgstr "Login to your backoffice interface"
+
+#: base/backoffice.csv:161 
+msgid "Logs cleared."
+msgstr "Logs cleared."
+
+#: base/backoffice.csv:162 
+msgid "Mark all as read"
+msgstr "Mark all as read"
+
+#: base/backoffice.csv:163 
+msgid "Mark as new"
+msgstr "Mark as new"
+
+#: base/backoffice.csv:164 
+msgid "Mark as read"
+msgstr "Mark as read"
+
+#: base/backoffice.csv:165 
+msgid "Messages"
+msgstr "Messages"
+
+#: base/backoffice.csv:166 
+msgid "Minute"
+msgstr "Minute"
+
+#: base/backoffice.csv:167 
+msgid "Missing parameters for generation."
+msgstr "Missing parameters for generation."
+
+#: base/backoffice.csv:168 
+msgid "Mobile Source Codes & Builds"
+msgstr "Mobile Source Codes & Builds"
+
+#: base/backoffice.csv:169 
+msgid "Module/User tasks"
+msgstr "Module/User tasks"
+
+#: base/backoffice.csv:170 
+msgid "Month"
+msgstr "Month"
+
+#: base/backoffice.csv:171 
+msgid "My Invoices"
+msgstr "My Invoices"
+
+#: base/backoffice.csv:172 
+msgid "My tour is active"
+msgstr "My tour is active"
+
+#: base/backoffice.csv:173 
+msgid "Name"
+msgstr "Name"
+
+#: base/backoffice.csv:174 
+msgid "New messages"
+msgstr "New messages"
+
+#: base/backoffice.csv:175 
+msgid "New users"
+msgstr "New users"
+
+#: base/backoffice.csv:176 
+msgid "No"
+msgstr "No"
+
+#: base/backoffice.csv:177 
+msgid "No file has been sent"
+msgstr "No file has been sent"
+
+#: base/backoffice.csv:178 
+msgid "No icon packs"
+msgstr "No icon packs"
+
+#: base/backoffice.csv:179 
+msgid "No informations."
+msgstr "No informations."
+
+#: base/backoffice.csv:180 
+msgid "No layouts"
+msgstr "No layouts"
+
+#: base/backoffice.csv:181 
+msgid "No module/user tasks"
+msgstr "No module/user tasks"
+
+#: base/backoffice.csv:182 
+msgid "No system tasks"
+msgstr "No system tasks"
+
+#: base/backoffice.csv:183 
+msgid "None"
+msgstr "None"
+
+#: base/backoffice.csv:184 
+msgid "Not found"
+msgstr "Not found"
+
+#: base/backoffice.csv:185 
+msgid "Not running"
+msgstr "Not running"
+
+#: base/backoffice.csv:186 
+msgid "Not yet generated."
+msgstr "Not yet generated."
+
+#: base/backoffice.csv:187 
+msgid "Note:"
+msgstr "Note:"
+
+#: base/backoffice.csv:188 
+msgid "Note: Let's encrypt X1 is a staging certificate."
+msgstr "Note: Let's encrypt X1 is a staging certificate."
+
+#: base/backoffice.csv:189 
+msgid "Number of typed characters:"
+msgstr "Number of typed characters:"
+
+#: base/backoffice.csv:190 
+msgid "OR"
+msgstr "OR"
+
+#: base/backoffice.csv:191 
+msgid "Ok"
+msgstr "Ok"
+
+#: base/backoffice.csv:192 
+msgid "Ok, you may consider upgrade to >=5.4"
+msgstr "Ok, you may consider upgrade to >=5.4"
+
+#: base/backoffice.csv:193 
+msgid "Ok, you may upgrade to php 5.6"
+msgstr "Ok, you may upgrade to php 5.6"
+
+#: base/backoffice.csv:194 
+msgid "One of the three given Certificates path is not readable, please make sure they have the good rights."
+msgstr "One of the three given Certificates path is not readable, please make sure they have the good rights."
+
+#: base/backoffice.csv:195 
+msgid "Open"
+msgstr "Open"
+
+#: base/backoffice.csv:196 
+msgid "Open the tour editing mode"
+msgstr "Open the tour editing mode"
+
+#: base/backoffice.csv:197 
+msgid "Optional binaries"
+msgstr "Optional binaries"
+
+#: base/backoffice.csv:198 
+msgid "Optional libraries"
+msgstr "Optional libraries"
+
+#: base/backoffice.csv:199 
+msgid "Otherwise install it manually, from your panel, or directly from your ssh access."
+msgstr "Otherwise install it manually, from your panel, or directly from your ssh access."
+
+#: base/backoffice.csv:200 
+msgid "Overview - WebApp (var/apps/browser, overview & webapp cache)"
+msgstr "Overview - WebApp (var/apps/browser, overview & webapp cache)"
+
+#: base/backoffice.csv:201 
+msgid "Overview cache cleared."
+msgstr "Overview cache cleared."
+
+#: base/backoffice.csv:202 
+msgid "PEM test:"
+msgstr "PEM test:"
+
+#: base/backoffice.csv:203 
+msgid "PHP version %s:"
+msgstr "PHP version %s:"
+
+#: base/backoffice.csv:204 
+msgid "Password"
+msgstr "Password"
+
+#: base/backoffice.csv:205 
+msgid "Path to your CA certificate"
+msgstr "Path to your CA certificate"
+
+#: base/backoffice.csv:206 
+msgid "Path to your Certificate"
+msgstr "Path to your Certificate"
+
+#: base/backoffice.csv:207 
+msgid "Path to your Private certificate"
+msgstr "Path to your Private certificate"
+
+#: base/backoffice.csv:208 
+msgid "Path to your Private key"
+msgstr "Path to your Private key"
+
+#: base/backoffice.csv:209 
+msgid "Payment received"
+msgstr "Payment received"
+
+#: base/backoffice.csv:210 
+msgid "People who are allowed to access the backoffice"
+msgstr "People who are allowed to access the backoffice"
+
+#: base/backoffice.csv:211 
+msgid "Permission, denied from Plesk, please use the admin account."
+msgstr "Permission, denied from Plesk, please use the admin account."
+
+#: base/backoffice.csv:212 
+msgid "Plesk"
+msgstr "Plesk"
+
+#: base/backoffice.csv:213 
+msgid "Plesk 12+"
+msgstr "Plesk 12+"
+
+#: base/backoffice.csv:214 
+msgid "[Plesk] Unknown error."
+msgstr "[Plesk] Unknown error."
+
+#: base/backoffice.csv:215 
+msgid "Port"
+msgstr "Port"
+
+#: base/backoffice.csv:216 
+msgid "Preview 5.0"
+msgstr "Preview 5.0"
+
+#: base/backoffice.csv:217 
+msgid "Privacy policy URL"
+msgstr "Privacy policy URL"
+
+#: base/backoffice.csv:218 
+msgid "Private"
+msgstr "Private"
+
+#: base/backoffice.csv:219 
+msgid "Private certificate"
+msgstr "Private certificate"
+
+#: base/backoffice.csv:220 
+msgid "Private path:"
+msgstr "Private path:"
+
+#: base/backoffice.csv:221 
+msgid "Production"
+msgstr "Production"
+
+#: base/backoffice.csv:222 
+msgid "Progress"
+msgstr "Progress"
+
+#: base/backoffice.csv:223 
+msgid "Publication access type"
+msgstr "Publication access type"
+
+#: base/backoffice.csv:224 
+msgid "Push messages:"
+msgstr "Push messages:"
+
+#: base/backoffice.csv:225 
+msgid "Queued"
+msgstr "Queued"
+
+#: base/backoffice.csv:226 
+msgid "Queued %s/%s"
+msgstr "Queued %s/%s"
+
+#: base/backoffice.csv:227 
+msgid "Read"
+msgstr "Read"
+
+#: base/backoffice.csv:228 
+msgid "Rebuild"
+msgstr "Rebuild"
+
+#: base/backoffice.csv:229 
+msgid "Rebuild manifest"
+msgstr "Rebuild manifest"
+
+#: base/backoffice.csv:230 
+msgid "Rebuilding application manifest files."
+msgstr "Rebuilding application manifest files."
+
+#: base/backoffice.csv:231 
+msgid "Regular updates system"
+msgstr "Regular updates system"
+
+#: base/backoffice.csv:232 
+msgid "Remove locks"
+msgstr "Remove locks"
+
+#: base/backoffice.csv:233 
+msgid "Remove locks now"
+msgstr "Remove locks now"
+
+#: base/backoffice.csv:234 
+msgid "Removing CRON Scheduler lock files."
+msgstr "Removing CRON Scheduler lock files."
+
+#: base/backoffice.csv:235 
+msgid "Removing domains: %s"
+msgstr "Removing domains: %s"
+
+#: base/backoffice.csv:236 
+msgid "Request"
+msgstr "Request"
+
+#: base/backoffice.csv:237 
+msgid "Request the certificate via Let's Encrypt."
+msgstr "Request the certificate via Let's Encrypt."
+
+#: base/backoffice.csv:238 
+msgid "Required extensions"
+msgstr "Required extensions"
+
+#: base/backoffice.csv:239 
+msgid "Revoke user"
+msgstr "Revoke user"
+
+#: base/backoffice.csv:240 
+msgid "Run test"
+msgstr "Run test"
+
+#: base/backoffice.csv:241 
+msgid "SSL"
+msgstr "SSL"
+
+#: base/backoffice.csv:242 
+msgid "Sales"
+msgstr "Sales"
+
+#: base/backoffice.csv:243 
+msgid "Sales configuration"
+msgstr "Sales configuration"
+
+#: base/backoffice.csv:244 
+msgid "Save"
+msgstr "Save"
+
+#: base/backoffice.csv:245 
+msgid "Select API access"
+msgstr "Select API access"
+
+#: base/backoffice.csv:246 
+msgid "Select a panel type or self-managed"
+msgstr "Select a panel type or self-managed"
+
+#: base/backoffice.csv:247 
+msgid "Self-managed"
+msgstr "Self-managed"
+
+#: base/backoffice.csv:248 
+msgid "Self-managed sync is not available for now."
+msgstr "Self-managed sync is not available for now."
+
+#: base/backoffice.csv:249 
+msgid "Send anonymous statistics to improve the apps builder."
+msgstr "Send anonymous statistics to improve the apps builder."
+
+#: base/backoffice.csv:250 
+msgid "Server"
+msgstr "Server"
+
+#: base/backoffice.csv:251 
+msgid "Services"
+msgstr "Services"
+
+#: base/backoffice.csv:252 
+msgid "Show All Applications"
+msgstr "Show All Applications"
+
+#: base/backoffice.csv:253 
+msgid "Show more"
+msgstr "Show more"
+
+#: base/backoffice.csv:254 
+msgid "Siberian - Backoffice"
+msgstr "Siberian - Backoffice"
+
+#: base/backoffice.csv:255 
+msgid "Siberian CMS"
+msgstr "Siberian CMS"
+
+#: base/backoffice.csv:256 
+msgid "[Siberian_Cpanel] Unable to update cPanel SSL Certificate for %s"
+msgstr "[Siberian_Cpanel] Unable to update cPanel SSL Certificate for %s"
+
+#: base/backoffice.csv:257 
+msgid "[Siberian_VestaCP] requires php 5.6+"
+msgstr "[Siberian_VestaCP] requires php 5.6+"
+
+#: base/backoffice.csv:258 
+msgid "Something went wrong with the API Sync to %s, retry or check in your panel if your SSL certificate is correctly setup."
+msgstr "Something went wrong with the API Sync to %s, retry or check in your panel if your SSL certificate is correctly setup."
+
+#: base/backoffice.csv:259 
+msgid "Source"
+msgstr "Source"
+
+#: base/backoffice.csv:260 
+msgid "Source Queue empty"
+msgstr "Source Queue empty"
+
+#: base/backoffice.csv:261 
+msgid "Source Queue status"
+msgstr "Source Queue status"
+
+#: base/backoffice.csv:262 
+msgid "[Sources]"
+msgstr "[Sources]"
+
+#: base/backoffice.csv:263 
+msgid "Sources code"
+msgstr "Sources code"
+
+#: base/backoffice.csv:264 
+msgid "Stable"
+msgstr "Stable"
+
+#: base/backoffice.csv:265 
+msgid "Staging"
+msgstr "Staging"
+
+#: base/backoffice.csv:266 
+msgid "Start editing your platform tour"
+msgstr "Start editing your platform tour"
+
+#: base/backoffice.csv:267 
+msgid "Statistics"
+msgstr "Statistics"
+
+#: base/backoffice.csv:268 
+msgid "Statistics are used to improve the platform and help understanding usage of the apps builder."
+msgstr "Statistics are used to improve the platform and help understanding usage of the apps builder."
+
+#: base/backoffice.csv:269 
+msgid "Status"
+msgstr "Status"
+
+#: base/backoffice.csv:270 
+msgid "Submit a bug report or improvement request for beta/preview"
+msgstr "Submit a bug report or improvement request for beta/preview"
+
+#: base/backoffice.csv:271 
+msgid "Success"
+msgstr "Success"
+
+#: base/backoffice.csv:272 
+msgid "Successfully cleaned-up old certificate."
+msgstr "Successfully cleaned-up old certificate."
+
+#: base/backoffice.csv:273 
+msgid "Successfully installed new certificate."
+msgstr "Successfully installed new certificate."
+
+#: base/backoffice.csv:274 
+msgid "Successfully removed the certificate."
+msgstr "Successfully removed the certificate."
+
+#: base/backoffice.csv:275 
+msgid "Successfully saved Certificate to %s"
+msgstr "Successfully saved Certificate to %s"
+
+#: base/backoffice.csv:276 
+msgid "Sync files"
+msgstr "Sync files"
+
+#: base/backoffice.csv:277 
+msgid "System Diagnostic"
+msgstr "System Diagnostic"
+
+#: base/backoffice.csv:278 
+msgid "System tasks"
+msgstr "System tasks"
+
+#: base/backoffice.csv:279 
+msgid "System was unable to validate any Bearer Token Auth call."
+msgstr "System was unable to validate any Bearer Token Auth call."
+
+#: base/backoffice.csv:280 
+msgid "System was unable to validate any HTTP Basic Auth call."
+msgstr "System was unable to validate any HTTP Basic Auth call."
+
+#: base/backoffice.csv:281 
+msgid "Temp (var/tmp, application sources & apk)"
+msgstr "Temp (var/tmp, application sources & apk)"
+
+#: base/backoffice.csv:282 
+msgid "Templates"
+msgstr "Templates"
+
+#: base/backoffice.csv:283 
+msgid "Test SSL/HTTPS"
+msgstr "Test SSL/HTTPS"
+
+#: base/backoffice.csv:284 
+msgid "Testing: %s"
+msgstr "Testing: %s"
+
+#: base/backoffice.csv:285 
+msgid "The PHP executable guessed path <b>'%s'</b> may be incorrect, please double check for it."
+msgstr "The PHP executable guessed path <b>'%s'</b> may be incorrect, please double check for it."
+
+#: base/backoffice.csv:286 
+msgid "The default setting to run your production server."
+msgstr "The default setting to run your production server."
+
+#: base/backoffice.csv:287 
+msgid "The domain %s doesn't belong to you, or is not configured on your server."
+msgstr "The domain %s doesn't belong to you, or is not configured on your server."
+
+#: base/backoffice.csv:288 
+msgid "The given CA certificate doesn't match the hostname."
+msgstr "The given CA certificate doesn't match the hostname."
+
+#: base/backoffice.csv:289 
+msgid "The given certificate doesn't match the hostname."
+msgstr "The given certificate doesn't match the hostname."
+
+#: base/backoffice.csv:290 
+msgid "The given certificate doesn't match the hostname or wiSibldcard."
+msgstr "The given certificate doesn't match the hostname or wiSibldcard."
+
+#: base/backoffice.csv:291 
+msgid "This account can't be deleted, it's the only one"
+msgstr "This account can't be deleted, it's the only one"
+
+#: base/backoffice.csv:292 
+msgid "This action mainly serves as a development & support purpose<br />This will restore App sources 'iOS', 'Android', 'HTML5' & 'Overview' from the latest Siberian version, then rebuild the manifest to restore installed modules."
+msgstr "This action mainly serves as a development & support purpose<br />This will restore App sources 'iOS', 'Android', 'HTML5' & 'Overview' from the latest Siberian version, then rebuild the manifest to restore installed modules."
+
+#: base/backoffice.csv:293 
+msgid "This e-mail address must be reachable, as you will receive important e-mails from the system & user actions."
+msgstr "This e-mail address must be reachable, as you will receive important e-mails from the system & user actions."
+
+#: base/backoffice.csv:294 
+msgid "This message will be displayed as a waiting message when your users chose an offline payment method"
+msgstr "This message will be displayed as a waiting message when your users chose an offline payment method"
+
+#: base/backoffice.csv:295 
+msgid "This message will be displayed as an information message to describe which offline payment method you offer"
+msgstr "This message will be displayed as an information message to describe which offline payment method you offer"
+
+#: base/backoffice.csv:296 
+msgid "This test is for development & support usage, this only highlights potential missing and/or modified files, results need to be interpreted."
+msgstr "This test is for development & support usage, this only highlights potential missing and/or modified files, results need to be interpreted."
+
+#: base/backoffice.csv:297 
+msgid "Tools"
+msgstr "Tools"
+
+#: base/backoffice.csv:298 
+msgid "Total sales"
+msgstr "Total sales"
+
+#: base/backoffice.csv:299 
+msgid "Total usage:"
+msgstr "Total usage:"
+
+#: base/backoffice.csv:300 
+msgid "Tour settings"
+msgstr "Tour settings"
+
+#: base/backoffice.csv:301 
+msgid "Tour status"
+msgstr "Tour status"
+
+#: base/backoffice.csv:302 
+msgid "Tour status successfully saved."
+msgstr "Tour status successfully saved."
+
+#: base/backoffice.csv:303 
+msgid "UID"
+msgstr "UID"
+
+#: base/backoffice.csv:304 
+msgid "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if your are not in `Staging`"
+msgstr "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if your are not in `Staging`"
+
+#: base/backoffice.csv:305 
+msgid "Unknown"
+msgstr "Unknown"
+
+#: base/backoffice.csv:306 
+msgid "Unknown - Self-managed"
+msgstr "Unknown - Self-managed"
+
+#: base/backoffice.csv:307 
+msgid "Update"
+msgstr "Update"
+
+#: base/backoffice.csv:308 
+msgid "Update channel"
+msgstr "Update channel"
+
+#: base/backoffice.csv:309 
+msgid "Updated At"
+msgstr "Updated At"
+
+#: base/backoffice.csv:310 
+msgid "Upload"
+msgstr "Upload"
+
+#: base/backoffice.csv:311 
+msgid "Upload files or use existing certificates on my server"
+msgstr "Upload files or use existing certificates on my server"
+
+#: base/backoffice.csv:312 
+msgid "Upload my certificates"
+msgstr "Upload my certificates"
+
+#: base/backoffice.csv:313 
+msgid "Upload your own certificates"
+msgstr "Upload your own certificates"
+
+#: base/backoffice.csv:314 
+msgid "Use HTTPS"
+msgstr "Use HTTPS"
+
+#: base/backoffice.csv:315 
+msgid "Use existing certificates on my server"
+msgstr "Use existing certificates on my server"
+
+#: base/backoffice.csv:316 
+msgid "User successfully deleted"
+msgstr "User successfully deleted"
+
+#: base/backoffice.csv:317 
+msgid "Username"
+msgstr "Username"
+
+#: base/backoffice.csv:318 
+msgid "User's status successfully edited"
+msgstr "User's status successfully edited"
+
+#: base/backoffice.csv:319 
+msgid "VAT check options"
+msgstr "VAT check options"
+
+#: base/backoffice.csv:320 
+msgid "Validation"
+msgstr "Validation"
+
+#: base/backoffice.csv:321 
+msgid "VestaCP"
+msgstr "VestaCP"
+
+#: base/backoffice.csv:322 
+msgid "VestaCP (php 5.6+ only)"
+msgstr "VestaCP (php 5.6+ only)"
+
+#: base/backoffice.csv:323 
+msgid "View Details"
+msgstr "View Details"
+
+#: base/backoffice.csv:324 
+msgid "WHM cPanel"
+msgstr "WHM cPanel"
+
+#: base/backoffice.csv:325 
+msgid "Waiting for %s to reload, this can take a while..."
+msgstr "Waiting for %s to reload, this can take a while..."
+
+#: base/backoffice.csv:326 
+msgid "We recommned using <b>preview</b> on a testing or development server, we won't provide regular ticket support for these update channels, only bug reports via the form below."
+msgstr "We recommned using <b>preview</b> on a testing or development server, we won't provide regular ticket support for these update channels, only bug reports via the form below."
+
+#: base/backoffice.csv:327 
+msgid "Web space"
+msgstr "Web space"
+
+#: base/backoffice.csv:328 
+msgid "White Label"
+msgstr "White Label"
+
+#: base/backoffice.csv:329 
+msgid "Whitelabel"
+msgstr "Whitelabel"
+
+#: base/backoffice.csv:330 
+msgid "Whitelabel hostnames associated with this Certificate"
+msgstr "Whitelabel hostnames associated with this Certificate"
+
+#: base/backoffice.csv:331 
+msgid "Whitelabel request"
+msgstr "Whitelabel request"
+
+#: base/backoffice.csv:332 
+msgid "Whitelabels"
+msgstr "Whitelabels"
+
+#: base/backoffice.csv:333 
+msgid "Yes"
+msgstr "Yes"
+
+#: base/backoffice.csv:334 
+msgid "Yes, install the update."
+msgstr "Yes, install the update."
+
+#: base/backoffice.csv:335 
+msgid "You are about to clean all the cron lock files !\nAre you sure ?"
+msgstr "You are about to clean all the cron lock files !\nAre you sure ?"
+
+#: base/backoffice.csv:336 
+msgid "You are about to clean all your log files !\nAre you sure ?"
+msgstr "You are about to clean all your log files !\nAre you sure ?"
+
+#: base/backoffice.csv:337 
+msgid "You are about to delete this certificate, Are you sure ?"
+msgstr "You are about to delete this certificate, Are you sure ?"
+
+#: base/backoffice.csv:338 
+msgid "You are about to wipe all your temporary files, this includes the generated sources & apk builds !\nAre you sure ?"
+msgstr "You are about to wipe all your temporary files, this includes the generated sources & apk builds !\nAre you sure ?"
+
+#: base/backoffice.csv:339 
+msgid "You can use <b>%s</b> as a dynamic variable for your application name."
+msgstr "You can use <b>%s</b> as a dynamic variable for your application name."
+
+#: base/backoffice.csv:340 
+msgid "You have a Source generation stuck for more than 1 hour, please check in <b>Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further builds you can remove locks from the button below."
+msgstr "You have a Source generation stuck for more than 1 hour, please check in <b>Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further builds you can remove locks from the button below."
+
+#: base/backoffice.csv:341 
+msgid "You have an APK generation stuck for more than 1 hour, please check in <b>Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further builds you can remove locks from the button below."
+msgstr "You have an APK generation stuck for more than 1 hour, please check in <b>Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further builds you can remove locks from the button below."
+
+#: base/backoffice.csv:342 
+msgid "You have no certificate yet."
+msgstr "You have no certificate yet."
+
+#: base/backoffice.csv:343 
+msgid "You have no new messages."
+msgstr "You have no new messages."
+
+#: base/backoffice.csv:344 
+msgid "You must select an Admin panel type before requesting a Certificate."
+msgstr "You must select an Admin panel type before requesting a Certificate."
+
+#: base/backoffice.csv:345 
+msgid "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't forget to renew it on the following page <a href="%s">configuration</a>."
+msgstr "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't forget to renew it on the following page <a href="%s">configuration</a>."
+
+#: base/backoffice.csv:346 
+msgid "Your certificate is invalid"
+msgstr "Your certificate is invalid"
+
+#: base/backoffice.csv:347 
+msgid "Your certificate is valid until:"
+msgstr "Your certificate is valid until:"
+
+#: base/backoffice.csv:348 
+msgid "Your certificates are saved."
+msgstr "Your certificates are saved."
+
+#: base/backoffice.csv:349 
+msgid "Your new password"
+msgstr "Your new password"
+
+#: base/backoffice.csv:350 
+msgid "Your password"
+msgstr "Your password"
+
+#: base/backoffice.csv:351 
+msgid "<b>Actual preview version is Siberian 5.0</b>."
+msgstr "<b>Actual preview version is Siberian 5.0</b>."
+
+#: base/backoffice.csv:352 
+msgid "<b>Disclaimer:</b> You are using the <b>preview</b> update channel, this channel is intended for <b>tests & previews</b> of new features, if you are not sure stay with <b>stable channel</b>."
+msgstr "<b>Disclaimer:</b> You are using the <b>preview</b> update channel, this channel is intended for <b>tests & previews</b> of new features, if you are not sure stay with <b>stable channel</b>."
+
+#: base/backoffice.csv:353 
+msgid "<b>Note for Bug report:</b> give us a maximum of description of how you reached the bug, and possibly screenshots."
+msgstr "<b>Note for Bug report:</b> give us a maximum of description of how you reached the bug, and possibly screenshots."
+
+#: base/backoffice.csv:354 
+msgid "<b>Note</b>: sources & push will be sent immediately after their creation, scheduled push will not work & media optimization is disabled."
+msgstr "<b>Note</b>: sources & push will be sent immediately after their creation, scheduled push will not work & media optimization is disabled."
+
+#: base/backoffice.csv:355 
+msgid "customer"
+msgstr "customer"
+
+#: base/backoffice.csv:356 
+msgid "%d Unread Message"
+msgstr "%d Unread Message"
+
+#: base/backoffice.csv:357 
+msgid "%d Unread Messages"
+msgstr "%d Unread Messages"
+
+#: base/backoffice.csv:358 
+msgid "for the bundle id:"
+msgstr "for the bundle id:"
+
+#: base/backoffice.csv:359 
+msgid "letsencrypt"
+msgstr "letsencrypt"
+
+#: base/backoffice.csv:360 
+msgid "per page"
+msgstr "per page"
+
+#: base/backoffice.csv:361 
+msgid "see Settings > Advanced > Configuration > Cron to edit options."
+msgstr "see Settings > Advanced > Configuration > Cron to edit options."
+
+#: base/backoffice.csv:362 
+msgid "values are refreshed once a day only!"
+msgstr "values are refreshed once a day only!"
+

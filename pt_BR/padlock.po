@@ -1,0 +1,44 @@
+#: pt_BR/padlock.csv:1 
+msgid "Lock the entire application?"
+msgstr "Bloquear o aplicativo inteiro?"
+
+#: pt_BR/padlock.csv:2 
+msgid "Choose the features to lock:"
+msgstr "Escolha os recursos para bloquear:"
+
+#: pt_BR/padlock.csv:3 
+msgid "Restrict Access"
+msgstr "Acesso Restrito"
+
+#: pt_BR/padlock.csv:4 
+msgid "Allow all the users by default:"
+msgstr "Permitir todos os usuários por padrão:"
+
+#: pt_BR/padlock.csv:5 
+msgid "the gender"
+msgstr "Sexo"
+
+#: pt_BR/padlock.csv:6 
+msgid "the first name"
+msgstr "Nome"
+
+#: pt_BR/padlock.csv:7 
+msgid "the last name"
+msgstr "Sobrenome"
+
+#: pt_BR/padlock.csv:8 
+msgid "the email address"
+msgstr "Endereço de e-mail"
+
+#: pt_BR/padlock.csv:9 
+msgid "the password"
+msgstr "senha"
+
+#: pt_BR/padlock.csv:10 
+msgid "Access restricted to authorized members only"
+msgstr "Acesso restrito a membros autorizados apenas"
+
+#: pt_BR/padlock.csv:11 
+msgid "We are sorry but your account does not have enough permissions to access this page"
+msgstr "Lamentamos, mas a sua conta não tem permissões suficientes para acessar este recurso."
+

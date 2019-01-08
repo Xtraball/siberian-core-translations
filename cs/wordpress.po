@@ -1,0 +1,36 @@
+#: cs/wordpress.csv:1 
+msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
+msgstr "Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte název domény %s"
+
+#: cs/wordpress.csv:2 
+msgid "Categories successfully saved"
+msgstr "Kategorie byla úspěšně uložena"
+
+#: cs/wordpress.csv:3 
+msgid "Click here to download our Wordpress plugin"
+msgstr "Klikněte zde ke stažení Wordpress pluginu"
+
+#: cs/wordpress.csv:4 
+msgid "Enter your Wordpress URL:"
+msgstr "Zadejte URL Vší Wordpress stránky"
+
+#: cs/wordpress.csv:5 
+msgid "Loading categories"
+msgstr "Načítání kategorie"
+
+#: cs/wordpress.csv:6 
+msgid "We are sorry but no category has been detected on your Wordpress website."
+msgstr "Omlouváme se, ale žádná kategorie nebyla nalezena na vašich Wordpress stránkách"
+
+#: cs/wordpress.csv:7 
+msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
+msgstr "Je nám líto, ale náš Wordpress plugin nebyl nalezen na vašich webových stránkách. Prosím ujistěte se, že je správně nainstalován a aktivován."
+
+#: cs/wordpress.csv:8 
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: cs/wordpress.csv:9 
+msgid "﻿An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
+msgstr "Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte název domény %s"
+

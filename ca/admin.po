@@ -1,0 +1,168 @@
+#: ca/admin.csv:1 
+msgid "%s - Your new password"
+msgstr "% S - La seva nova contrasenya"
+
+#: ca/admin.csv:2 
+msgid "A request to reset your password has been made to log in to your administration panel."
+msgstr "Una sol·licitud per restablir la contrasenya s'ha fet per accedir al seu panell d'administració."
+
+#: ca/admin.csv:3 
+msgid "Admin successfully deleted"
+msgstr "Admin ha eliminat correctament"
+
+#: ca/admin.csv:4 
+msgid "An error occurred while saving. The country is not valid."
+msgstr "S'ha produït un error en desar. El país no és vàlida."
+
+#: ca/admin.csv:5 
+msgid "Are you sure you want to delete this application?"
+msgstr "Segur que vols eliminar aquesta aplicació?"
+
+#: ca/admin.csv:6 
+msgid "Can add pages"
+msgstr "Podeu afegir pàgines"
+
+#: ca/admin.csv:7 
+msgid "Change my password"
+msgstr "Canviar la contrasenya"
+
+#: ca/admin.csv:8 
+msgid "Confirm your password"
+msgstr "Confirmeu la contrasenya"
+
+#: ca/admin.csv:9 
+msgid "Create a new application"
+msgstr "Crear una nova aplicació"
+
+#: ca/admin.csv:10 
+msgid "Create a new user"
+msgstr "Crea un nou usuari"
+
+#: ca/admin.csv:11 
+msgid "Created At"
+msgstr "Creat el"
+
+#: ca/admin.csv:12 
+msgid "Created at %s"
+msgstr "Creat el% s"
+
+#: ca/admin.csv:13 
+msgid "Do not hesitate to give us your feedback by sharing your needs:"
+msgstr "No dubti en fer-nos arribar els seus comentaris en compartir les seves necessitats:"
+
+#: ca/admin.csv:14 
+msgid "Edit the account "%s""
+msgstr "Editeu el compte "% s""
+
+#: ca/admin.csv:15 
+msgid "Edit the user %s"
+msgstr "Editeu l'usuari% s"
+
+#: ca/admin.csv:16 
+msgid "Enjoy!"
+msgstr "Gaudiu!"
+
+#: ca/admin.csv:17 
+msgid "Find some advices here:"
+msgstr "Troba aquí alguns consells:"
+
+#: ca/admin.csv:18 
+msgid "Here are your credentials, keep them preciously:"
+msgstr "Aquí estan els seus credencials, mantenir preciosament:"
+
+#: ca/admin.csv:19 
+msgid "List of admin accounts"
+msgstr "Llista de comptes d'administrador"
+
+#: ca/admin.csv:20 
+msgid "List of my accounts"
+msgstr "Llista dels meus comptes"
+
+#: ca/admin.csv:21 
+msgid "List of your users"
+msgstr "Llista dels seus usuaris"
+
+#: ca/admin.csv:22 
+msgid "Log-in As"
+msgstr "Log-in Com"
+
+#: ca/admin.csv:23 
+msgid "Manage access"
+msgstr "Administrar l'accés"
+
+#: ca/admin.csv:24 
+msgid "My Applications"
+msgstr "Els meus Aplicacions"
+
+#: ca/admin.csv:25 
+msgid "My information"
+msgstr "La meva informació"
+
+#: ca/admin.csv:26 
+msgid "Need some help?"
+msgstr "Necessites ajuda?"
+
+#: ca/admin.csv:27 
+msgid "Please enter a valid email address."
+msgstr "Si us plau, introdueix una adreça de correu electrònic vàlida."
+
+#: ca/admin.csv:28 
+msgid "Please, enter an application name"
+msgstr "Si us plau, introduïu un nom d'aplicació"
+
+#: ca/admin.csv:29 
+msgid "Ready to create your own apps?"
+msgstr "A punt per crear les seves pròpies aplicacions?"
+
+#: ca/admin.csv:30 
+msgid "Sign up"
+msgstr "Sign up"
+
+#: ca/admin.csv:31 
+msgid "Thanks for choosing us!"
+msgstr "Gràcies per triar!"
+
+#: ca/admin.csv:32 
+msgid "The Support Team"
+msgstr "L'Equip de Suport"
+
+#: ca/admin.csv:33 
+msgid "The password and the confirmation does not match."
+msgstr "La contrasenya i la confirmació no coincideix."
+
+#: ca/admin.csv:34 
+msgid "The password must be at least 6 characters."
+msgstr "La contrasenya ha de tenir com a mínim 6 caràcters."
+
+#: ca/admin.csv:35 
+msgid "We are sorry but this email address is already used."
+msgstr "Ho sentim però aquesta adreça de correu electrònic ja està en ús."
+
+#: ca/admin.csv:36 
+msgid "Welcome!"
+msgstr "Benvingut!"
+
+#: ca/admin.csv:37 
+msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+msgstr "Vostè va encantar! Gràcies a les nostres característiques eficaços, vostè serà capaç de crear grans aplicacions mòbils en el seu nom, en qüestió de minuts."
+
+#: ca/admin.csv:38 
+msgid "You can't delete the main account"
+msgstr "No es pot eliminar el compte principal"
+
+#: ca/admin.csv:39 
+msgid "You don't have any users yet"
+msgstr "No té cap usuari encara"
+
+#: ca/admin.csv:40 
+msgid "Your credentials"
+msgstr "Els seus credencials"
+
+#: ca/admin.csv:41 
+msgid "Your login:"
+msgstr "El seu nom d'usuari:"
+
+#: ca/admin.csv:42 
+msgid "Your password:"
+msgstr "La seva contrasenya:"
+

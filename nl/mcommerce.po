@@ -1,0 +1,656 @@
+#: nl/mcommerce.csv:1 
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: nl/mcommerce.csv:2 
+msgid "%s - Customer Service"
+msgstr "%s - Klantenservice"
+
+#: nl/mcommerce.csv:3 
+msgid "20.00%"
+msgstr "20.00%"
+
+#: nl/mcommerce.csv:4 
+msgid "Add a picture"
+msgstr "Voeg een afbeelding toe"
+
+#: nl/mcommerce.csv:5 
+msgid "Add options"
+msgstr "Opties toe te voegen"
+
+#: nl/mcommerce.csv:6 
+msgid "An error occurred while proceeding the payment. Please, try again later."
+msgstr "Er is een fout opgetreden bij het betalen. Probeer het later opnieuw."
+
+#: nl/mcommerce.csv:7 
+msgid "An error occurred while proceeding your order. Please, check the following information:"
+msgstr "Er is een fout opgetreden bij het bestellen. Controleer de volgende gegegevens:"
+
+#: nl/mcommerce.csv:8 
+msgid "Are you sure you want to close without saving"
+msgstr "Weet u zeker dat u wilt sluiten zonder op te bewaren"
+
+#: nl/mcommerce.csv:9 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Weet u zeker dat u deze categorie en alle subcategorieën wilt verwijderen?"
+
+#: nl/mcommerce.csv:10 
+msgid "Are you sure you want to delete this store?"
+msgstr "Weet u zeker dat u deze winkel wilt verwijderen?"
+
+#: nl/mcommerce.csv:11 
+msgid "Are you sure you want to delete this store?"
+msgstr "Weet u zeker dat u deze winkel wilt verwijderen?"
+
+#: nl/mcommerce.csv:12 
+msgid "Are you sure you want to delete this tax?"
+msgstr "Weett u zeker dat u deze belasting wilt verwijderen?"
+
+#: nl/mcommerce.csv:13 
+msgid "Are you sure you want to remove this product?"
+msgstr "Weett u zeker dat u dit product wilt verwijderen?"
+
+#: nl/mcommerce.csv:14 
+msgid "At least one option is required:"
+msgstr "Ten minste één optie is vereist:"
+
+#: nl/mcommerce.csv:15 
+msgid "Carry Out"
+msgstr "Uitvoeren"
+
+#: nl/mcommerce.csv:16 
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: nl/mcommerce.csv:17 
+msgid "Cash"
+msgstr "Contant"
+
+#: nl/mcommerce.csv:18 
+msgid "Category"
+msgstr "Categorie"
+
+#: nl/mcommerce.csv:19 
+msgid "Category successfully saved."
+msgstr "Categorie succesvol opgeslagen."
+
+#: nl/mcommerce.csv:20 
+msgid "Check"
+msgstr ""
+
+#: nl/mcommerce.csv:21 
+msgid "Choose a delivery method:"
+msgstr "Kies een levering methode:"
+
+#: nl/mcommerce.csv:22 
+msgid "Choose a payment method:"
+msgstr "Kies een betaalmethode:"
+
+#: nl/mcommerce.csv:23 
+msgid "Choose a store:"
+msgstr "Kies een winkel:"
+
+#: nl/mcommerce.csv:24 
+msgid "Completed"
+msgstr "Voltooid"
+
+#: nl/mcommerce.csv:25 
+msgid "Connected Printers"
+msgstr "Aangesloten printers"
+
+#: nl/mcommerce.csv:26 
+msgid "Continue shopping"
+msgstr "Verder met winkelen"
+
+#: nl/mcommerce.csv:27 
+msgid "Create a new options group"
+msgstr "Maak een nieuwe keuze groep"
+
+#: nl/mcommerce.csv:28 
+msgid "Create a new product"
+msgstr "Maak een nieuw product"
+
+#: nl/mcommerce.csv:29 
+msgid "Create a new tax"
+msgstr "Maak een nieuwe belasting"
+
+#: nl/mcommerce.csv:30 
+msgid "Create a store"
+msgstr "Maak een winkel"
+
+#: nl/mcommerce.csv:31 
+msgid "Credit card (pay upon pickup or delivery)"
+msgstr "Creditcard (betalen bij afhalen of afleveren)"
+
+#: nl/mcommerce.csv:32 
+msgid "Credit Card by phone"
+msgstr "Credit Card via de telefoon"
+
+#: nl/mcommerce.csv:33 
+msgid "Customer"
+msgstr "Klant"
+
+#: nl/mcommerce.csv:34 
+msgid "Customer"
+msgstr "Klant"
+
+#: nl/mcommerce.csv:35 
+msgid "Customer Service"
+msgstr "Klantenservice"
+
+#: nl/mcommerce.csv:36 
+msgid "Delivery"
+msgstr "Levering"
+
+#: nl/mcommerce.csv:37 
+msgid "Delivery"
+msgstr "Levering"
+
+#: nl/mcommerce.csv:38 
+msgid "Delivery area"
+msgstr "Leveringsgebied"
+
+#: nl/mcommerce.csv:39 
+msgid "Delivery fees"
+msgstr "Verzendingskosten"
+
+#: nl/mcommerce.csv:40 
+msgid "Delivery fees"
+msgstr "Verzendingskosten"
+
+#: nl/mcommerce.csv:41 
+msgid "Delivery fees"
+msgstr "Verzendingskosten"
+
+#: nl/mcommerce.csv:42 
+msgid "Delivery Fees"
+msgstr "Verzendingskosten"
+
+#: nl/mcommerce.csv:43 
+msgid "Delivery fees:"
+msgstr "Verzendingskosten:"
+
+#: nl/mcommerce.csv:44 
+msgid "Delivery Method"
+msgstr "Levering Wijze"
+
+#: nl/mcommerce.csv:45 
+msgid "Delivery methods"
+msgstr "Wijze van levering"
+
+#: nl/mcommerce.csv:46 
+msgid "Delivery methods:"
+msgstr "Levering methoden:"
+
+#: nl/mcommerce.csv:47 
+msgid "Delivery radius"
+msgstr "Levering straal"
+
+#: nl/mcommerce.csv:48 
+msgid "Delivery radius:"
+msgstr "Levering straal:"
+
+#: nl/mcommerce.csv:49 
+msgid "Delivery time"
+msgstr "Levertijd"
+
+#: nl/mcommerce.csv:50 
+msgid "Delivery time"
+msgstr "Levertijd"
+
+#: nl/mcommerce.csv:51 
+msgid "Delivery time:"
+msgstr "Levertijd:"
+
+#: nl/mcommerce.csv:52 
+msgid "Details"
+msgstr "Details"
+
+#: nl/mcommerce.csv:53 
+msgid "e.g., Sauces"
+msgstr "bijv, Sauzen"
+
+#: nl/mcommerce.csv:54 
+msgid "Edit a store"
+msgstr "Bewerk een winkel"
+
+#: nl/mcommerce.csv:55 
+msgid "Edit the options group %s"
+msgstr "Bewerk de opties groep %s"
+
+#: nl/mcommerce.csv:56 
+msgid "Edit the product %s"
+msgstr "Bewerk het product %s"
+
+#: nl/mcommerce.csv:57 
+msgid "Edit the tax %s"
+msgstr "Bewerk de belasting % s"
+
+#: nl/mcommerce.csv:58 
+msgid "Free delivery starting from"
+msgstr "Gratis levering vanaf"
+
+#: nl/mcommerce.csv:59 
+msgid "Free delivery starting from:"
+msgstr "Gratis levering vanaf:"
+
+#: nl/mcommerce.csv:60 
+msgid "Here is the detail of the order"
+msgstr "Hier zijn de details van de bestelling"
+
+#: nl/mcommerce.csv:61 
+msgid "Here is the detail of your order"
+msgstr "Hier zijn de details van je bestelling"
+
+#: nl/mcommerce.csv:62 
+msgid "Hours of operation"
+msgstr "Openingstijden"
+
+#: nl/mcommerce.csv:63 
+msgid "Hours of operation:"
+msgstr "Openingstijden:"
+
+#: nl/mcommerce.csv:64 
+msgid "In store"
+msgstr "Op voorraad"
+
+#: nl/mcommerce.csv:65 
+msgid "Meal Voucher"
+msgstr "Maaltijdcheque"
+
+#: nl/mcommerce.csv:66 
+msgid "Minimum order"
+msgstr "Minimum order"
+
+#: nl/mcommerce.csv:67 
+msgid "Minimum order:"
+msgstr "Minimum order:"
+
+#: nl/mcommerce.csv:68 
+msgid "My Cart"
+msgstr "Mijn winkelwagen"
+
+#: nl/mcommerce.csv:69 
+msgid "My cart is empty"
+msgstr "Mijn winkelwagen is leeg"
+
+#: nl/mcommerce.csv:70 
+msgid "My categories"
+msgstr "Mijn categorieën"
+
+#: nl/mcommerce.csv:71 
+msgid "My information"
+msgstr "Mijn gegevens"
+
+#: nl/mcommerce.csv:72 
+msgid "My orders"
+msgstr "Mijn bestellingen"
+
+#: nl/mcommerce.csv:73 
+msgid "My product's categories"
+msgstr "Mijn product categorieën"
+
+#: nl/mcommerce.csv:74 
+msgid "My product's options"
+msgstr "Mijn product opties"
+
+#: nl/mcommerce.csv:75 
+msgid "My products"
+msgstr "Mijn producten"
+
+#: nl/mcommerce.csv:76 
+msgid "My stores"
+msgstr "Mijn winkels"
+
+#: nl/mcommerce.csv:77 
+msgid "My taxes"
+msgstr "Mijn belastingen"
+
+#: nl/mcommerce.csv:78 
+msgid "Name of the options group:"
+msgstr "Naam opties groep"
+
+#: nl/mcommerce.csv:79 
+msgid "New order from the application"
+msgstr "Nieuwe order van de App"
+
+#: nl/mcommerce.csv:80 
+msgid "Number"
+msgstr "Nummer"
+
+#: nl/mcommerce.csv:81 
+msgid "Option name"
+msgstr "Opties naam"
+
+#: nl/mcommerce.csv:82 
+msgid "Option name:"
+msgstr "Opties naam:"
+
+#: nl/mcommerce.csv:83 
+msgid "Options group successfully deleted"
+msgstr "Groep opties succesvol verwijderd"
+
+#: nl/mcommerce.csv:84 
+msgid "Options group successfully saved"
+msgstr "Groep opties succesvol bewaard"
+
+#: nl/mcommerce.csv:85 
+msgid "Order confirmation"
+msgstr "Bestel bevestiging"
+
+#: nl/mcommerce.csv:86 
+msgid "Order details"
+msgstr "Bestel details"
+
+#: nl/mcommerce.csv:87 
+msgid "Order Number"
+msgstr "Bestelnummer"
+
+#: nl/mcommerce.csv:88 
+msgid "Order successfully saved"
+msgstr "Bestelling bewaart"
+
+#: nl/mcommerce.csv:89 
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: nl/mcommerce.csv:90 
+msgid "Paid"
+msgstr "Betaald"
+
+#: nl/mcommerce.csv:91 
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: nl/mcommerce.csv:92 
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+#: nl/mcommerce.csv:93 
+msgid "Payment"
+msgstr "Betaling"
+
+#: nl/mcommerce.csv:94 
+msgid "Payment Method"
+msgstr "Betalingsmethode"
+
+#: nl/mcommerce.csv:95 
+msgid "Payment methods:"
+msgstr "Betaalmethoden:"
+
+#: nl/mcommerce.csv:96 
+msgid "Paypal"
+msgstr "Paypal"
+
+#: nl/mcommerce.csv:97 
+msgid "Pending payment"
+msgstr "In afwachting van betaling"
+
+#: nl/mcommerce.csv:98 
+msgid "Picture"
+msgstr "Afbeelding"
+
+#: nl/mcommerce.csv:99 
+msgid "Please choose a delivery method"
+msgstr "Kies een levering methode"
+
+#: nl/mcommerce.csv:100 
+msgid "Please choose a payment method"
+msgstr "Kies een betaalmethode"
+
+#: nl/mcommerce.csv:101 
+msgid "Please, enter an email address for the store %s"
+msgstr "Vul een e-mailadres voor de winkel %s"
+
+#: nl/mcommerce.csv:102 
+msgid "Price"
+msgstr "Prijs"
+
+#: nl/mcommerce.csv:103 
+msgid "Price: %s"
+msgstr "Prijs: %s"
+
+#: nl/mcommerce.csv:104 
+msgid "Printer successfully saved"
+msgstr "Printer succesvol opgeslagen"
+
+#: nl/mcommerce.csv:105 
+msgid "Proceed"
+msgstr "Verdergaan"
+
+#: nl/mcommerce.csv:106 
+msgid "Product"
+msgstr "Product"
+
+#: nl/mcommerce.csv:107 
+msgid "Product"
+msgstr "Product"
+
+#: nl/mcommerce.csv:108 
+msgid "Product name"
+msgstr "Productnaam"
+
+#: nl/mcommerce.csv:109 
+msgid "Product name:"
+msgstr "Productnaam:"
+
+#: nl/mcommerce.csv:110 
+msgid "Product successfully saved"
+msgstr "Product succesvol opgeslagen"
+
+#: nl/mcommerce.csv:111 
+msgid "Qty"
+msgstr "Aantal"
+
+#: nl/mcommerce.csv:112 
+msgid "Qty"
+msgstr "Aantal"
+
+#: nl/mcommerce.csv:113 
+msgid "Qty: %s"
+msgstr "Aantal: %s"
+
+#: nl/mcommerce.csv:114 
+msgid "Radius in Km"
+msgstr "Radius in Km"
+
+#: nl/mcommerce.csv:115 
+msgid "Review"
+msgstr "Recensie"
+
+#: nl/mcommerce.csv:116 
+msgid "Settings"
+msgstr "Instellingen"
+
+#: nl/mcommerce.csv:117 
+msgid "Signature"
+msgstr "Handtekening"
+
+#: nl/mcommerce.csv:118 
+msgid "Signature:"
+msgstr "Handtekening:"
+
+#: nl/mcommerce.csv:119 
+msgid "Status"
+msgstr "Status"
+
+#: nl/mcommerce.csv:120 
+msgid "Store information"
+msgstr "Winkelgegevens"
+
+#: nl/mcommerce.csv:121 
+msgid "Store name"
+msgstr "Naam van de winkel"
+
+#: nl/mcommerce.csv:122 
+msgid "Store name:"
+msgstr "Naam winkel:"
+
+#: nl/mcommerce.csv:123 
+msgid "Store successfully deleted"
+msgstr "Winkel succesvol verwijderd"
+
+#: nl/mcommerce.csv:124 
+msgid "Store successfully saved"
+msgstr "Winkel succesvol opgeslagen"
+
+#: nl/mcommerce.csv:125 
+msgid "Stores"
+msgstr "Winkels"
+
+#: nl/mcommerce.csv:126 
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: nl/mcommerce.csv:127 
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: nl/mcommerce.csv:128 
+msgid "Tax"
+msgstr "belasting"
+
+#: nl/mcommerce.csv:129 
+msgid "Tax"
+msgstr "belasting"
+
+#: nl/mcommerce.csv:130 
+msgid "Tax name"
+msgstr "Belasting naam"
+
+#: nl/mcommerce.csv:131 
+msgid "Tax name:"
+msgstr "Belasting naam:"
+
+#: nl/mcommerce.csv:132 
+msgid "Tax rate"
+msgstr "Belastingtarief"
+
+#: nl/mcommerce.csv:133 
+msgid "Tax rate:"
+msgstr "Belastingtarief:"
+
+#: nl/mcommerce.csv:134 
+msgid "Tax successfully deleted"
+msgstr "Belasting succesvol verwijderd"
+
+#: nl/mcommerce.csv:135 
+msgid "Tax successfully saved"
+msgstr "Belasting succesvol opgeslagen"
+
+#: nl/mcommerce.csv:136 
+msgid "Tax:"
+msgstr "BTW:"
+
+#: nl/mcommerce.csv:137 
+msgid "Thank you!"
+msgstr "Dankjewel!"
+
+#: nl/mcommerce.csv:138 
+msgid "The delivery method"
+msgstr "Levering Wijze"
+
+#: nl/mcommerce.csv:139 
+msgid "The following options are required:<br />%s"
+msgstr "De volgende opties zijn verplicht: <br />% s"
+
+#: nl/mcommerce.csv:140 
+msgid "The option %s is required"
+msgstr "Deze optie is %s verplicht"
+
+#: nl/mcommerce.csv:141 
+msgid "The payment has been cancelled, something wrong happened? Feel free to contact us"
+msgstr "De betaling is geannuleerd, er iets mis is er gebeurd? Voel je vrij om ons te contacteren"
+
+#: nl/mcommerce.csv:142 
+msgid "The payment method"
+msgstr "De betaalmethode"
+
+#: nl/mcommerce.csv:143 
+msgid "Time in minutes"
+msgstr "Tijd in minuten"
+
+#: nl/mcommerce.csv:144 
+msgid "Total"
+msgstr "Totaal"
+
+#: nl/mcommerce.csv:145 
+msgid "Total"
+msgstr "Totaal"
+
+#: nl/mcommerce.csv:146 
+msgid "Total"
+msgstr "Totaal"
+
+#: nl/mcommerce.csv:147 
+msgid "Total Excl. Tax"
+msgstr "Totaal Excl. BTW"
+
+#: nl/mcommerce.csv:148 
+msgid "Total Excl. Tax"
+msgstr "Totaal Excl. BTW"
+
+#: nl/mcommerce.csv:149 
+msgid "Total Tax"
+msgstr "Total inclusief BTW"
+
+#: nl/mcommerce.csv:150 
+msgid "Total: %s"
+msgstr "Totaal: %s"
+
+#: nl/mcommerce.csv:151 
+msgid "Unit price"
+msgstr "Stukprijs"
+
+#: nl/mcommerce.csv:152 
+msgid "Unit Price"
+msgstr "Prijs per stuk"
+
+#: nl/mcommerce.csv:153 
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: nl/mcommerce.csv:154 
+msgid "Username:"
+msgstr "Gebruikersnaam:"
+
+#: nl/mcommerce.csv:155 
+msgid "We apologize but the payment method %s is currently not available"
+msgstr "Onze excuses maar de betaalmethode %s is momenteel niet beschikbaar"
+
+#: nl/mcommerce.csv:156 
+msgid "We thank you for your order. A confirmation email has been sent"
+msgstr "Dank u voor uw bestelling. Een bevestigingsmail is verstuurd"
+
+#: nl/mcommerce.csv:157 
+msgid "You don't have any categories yet"
+msgstr "U heeft nog geen categorieën"
+
+#: nl/mcommerce.csv:158 
+msgid "You have a connected printer? Enter the email address"
+msgstr "Je hebt een aangesloten printer? Vul het e-mailadres in"
+
+#: nl/mcommerce.csv:159 
+msgid "You have a connected printer? Enter the email address for each store"
+msgstr "Je hebt een aangesloten printer? Vul het e-mailadres voor iedere winkel in"
+
+#: nl/mcommerce.csv:160 
+msgid "Your address"
+msgstr "Uw adres"
+
+#: nl/mcommerce.csv:161 
+msgid "Your email address"
+msgstr "Uw e-mail adres"
+
+#: nl/mcommerce.csv:162 
+msgid "Your firstname"
+msgstr "Uw voornaam"
+
+#: nl/mcommerce.csv:163 
+msgid "Your lastname"
+msgstr "Uw achternaam"
+
+#: nl/mcommerce.csv:164 
+msgid "Your phone number"
+msgstr "Uw telefoonnummer"
+

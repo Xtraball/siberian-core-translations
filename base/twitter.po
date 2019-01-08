@@ -1,0 +1,64 @@
+#: base/twitter.csv:1 
+msgid "An error occurred while saving."
+msgstr "An error occurred while saving."
+
+#: base/twitter.csv:2 
+msgid "An error occurred while saving. Please try again later."
+msgstr "An error occurred while saving. Please try again later."
+
+#: base/twitter.csv:3 
+msgid "Could not authenticate you."
+msgstr "Could not authenticate you."
+
+#: base/twitter.csv:4 
+msgid "Enter your twitter handle/url"
+msgstr "Enter your twitter handle/url"
+
+#: base/twitter.csv:5 
+msgid "Handle"
+msgstr "Handle"
+
+#: base/twitter.csv:6 
+msgid "Info successfully saved"
+msgstr "Info successfully saved"
+
+#: base/twitter.csv:7 
+msgid "Sorry, that page does not exist."
+msgstr "Sorry, that page does not exist."
+
+#: base/twitter.csv:8 
+msgid "Twitter API secret"
+msgstr "Twitter API secret"
+
+#: base/twitter.csv:9 
+msgid "Twitter API settings"
+msgstr "Twitter API settings"
+
+#: base/twitter.csv:10 
+msgid "Twitter API token"
+msgstr "Twitter API token"
+
+#: base/twitter.csv:11 
+msgid "Twitter consumer key"
+msgstr "Twitter consumer key"
+
+#: base/twitter.csv:12 
+msgid "Twitter consumer secret"
+msgstr "Twitter consumer secret"
+
+#: base/twitter.csv:13 
+msgid "Verify"
+msgstr "Verify"
+
+#: base/twitter.csv:14 
+msgid "followers"
+msgstr "followers"
+
+#: base/twitter.csv:15 
+msgid "following"
+msgstr "following"
+
+#: base/twitter.csv:16 
+msgid "was verified with success"
+msgstr "was verified with success"
+

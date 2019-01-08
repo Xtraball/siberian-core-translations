@@ -1,0 +1,104 @@
+#: fr/push.csv:1 
+msgid "Additionnal Information"
+msgstr "Informations complémentaires"
+
+#: fr/push.csv:2 
+msgid "And a radius (in Km):"
+msgstr "Et un rayon (en Km) :"
+
+#: fr/push.csv:3 
+msgid "Android"
+msgstr "Android"
+
+#: fr/push.csv:4 
+msgid "Creation date"
+msgstr "Date de création"
+
+#: fr/push.csv:5 
+msgid "Enter a location:"
+msgstr "Saisissez une adresse :"
+
+#: fr/push.csv:6 
+msgid "GCM Key"
+msgstr "Clé GCM"
+
+#: fr/push.csv:7 
+msgid "I want to send it"
+msgstr "Je veux l'envoyer"
+
+#: fr/push.csv:8 
+msgid "Keys successfully saved"
+msgstr "Clés sauvegardées avec succès"
+
+#: fr/push.csv:9 
+msgid "Message"
+msgstr "Message"
+
+#: fr/push.csv:10 
+msgid "Message:"
+msgstr "Message :"
+
+#: fr/push.csv:11 
+msgid "Pending"
+msgstr "Non envoyé"
+
+#: fr/push.csv:12 
+msgid "Push Notifications"
+msgstr "Notifications Push"
+
+#: fr/push.csv:13 
+msgid "Push Notifications Settings"
+msgstr "Paramètres des notifications push"
+
+#: fr/push.csv:14 
+msgid "Radius"
+msgstr "Rayon"
+
+#: fr/push.csv:15 
+msgid "Send to a specific location"
+msgstr "Envoyer dans une localisation précise"
+
+#: fr/push.csv:16 
+msgid "Send to all my users"
+msgstr "Envoyer à tous mes utilisateurs"
+
+#: fr/push.csv:17 
+msgid "Sender ID"
+msgstr "Sender ID"
+
+#: fr/push.csv:18 
+msgid "Sending date"
+msgstr "Date d'envoi"
+
+#: fr/push.csv:19 
+msgid "The duration limit must be higher than the sent date"
+msgstr "La limite de durée doit être supérieure à la date d'envoi"
+
+#: fr/push.csv:20 
+msgid "Your app must be published to send a push notification."
+msgstr "Votre application doit être publiée pour pouvoir envoyer des notifications push."
+
+#: fr/push.csv:21 
+msgid "Your message has been saved successfully and will be sent at the entered date"
+msgstr "Votre message a bien été enregistré et sera envoyé à la date indiquée"
+
+#: fr/push.csv:22 
+msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgstr "Votre message a bien été enregistré et sera envoyé dans quelques minutes"
+
+#: fr/push.csv:23 
+msgid "and users entering the area"
+msgstr "ainsi qu'aux utilisateurs entrant dans la zone"
+
+#: fr/push.csv:24 
+msgid "for a limited period"
+msgstr "pendant une durée limitée"
+
+#: fr/push.csv:25 
+msgid "now"
+msgstr "maintenant"
+
+#: fr/push.csv:26 
+msgid "on a specific date"
+msgstr "à une date spécifique"
+

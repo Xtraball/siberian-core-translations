@@ -1,0 +1,80 @@
+#: ca/backoffice.csv:1 
+msgid "%d Unread Message"
+msgstr "% D missatge no llegit"
+
+#: ca/backoffice.csv:2 
+msgid "%d Unread Messages"
+msgstr "% D missatges no llegits"
+
+#: ca/backoffice.csv:3 
+msgid "Account"
+msgstr "compte"
+
+#: ca/backoffice.csv:4 
+msgid "Change the password"
+msgstr "Canviar la contrasenya"
+
+#: ca/backoffice.csv:5 
+msgid "Click to mark as not read"
+msgstr "Feu clic per marcar com no llegit"
+
+#: ca/backoffice.csv:6 
+msgid "Click to mark as read"
+msgstr "Feu clic per marcar com llegit"
+
+#: ca/backoffice.csv:7 
+msgid "Create a user"
+msgstr "Crear un usuari"
+
+#: ca/backoffice.csv:8 
+msgid "Edit the account "%s""
+msgstr "Editeu el compte "% s""
+
+#: ca/backoffice.csv:9 
+msgid "Edit the user"
+msgstr "Editeu l'usuari"
+
+#: ca/backoffice.csv:10 
+msgid "Enter your credentials:"
+msgstr "Introdueixi les seves credencials:"
+
+#: ca/backoffice.csv:11 
+msgid "List of backoffice accounts"
+msgstr "Llista de comptes de backoffice"
+
+#: ca/backoffice.csv:12 
+msgid "List of the messages"
+msgstr "Llista dels missatges"
+
+#: ca/backoffice.csv:13 
+msgid "Login to your backoffice interface"
+msgstr "Accedeix al teu interfície de backoffice"
+
+#: ca/backoffice.csv:14 
+msgid "People who are allowed to access the backoffice"
+msgstr "Les persones que tenen permís per accedir al backoffice"
+
+#: ca/backoffice.csv:15 
+msgid "Siberian CMS"
+msgstr "Siberian CMS"
+
+#: ca/backoffice.csv:16 
+msgid "This account can't be deleted, it's the only one"
+msgstr "Aquest compte no es pot eliminar, és l'únic"
+
+#: ca/backoffice.csv:17 
+msgid "User successfully deleted"
+msgstr "Usuari eliminat correctament"
+
+#: ca/backoffice.csv:18 
+msgid "View Details"
+msgstr "veure detalls"
+
+#: ca/backoffice.csv:19 
+msgid "Your new password"
+msgstr "La seva nova contrasenya"
+
+#: ca/backoffice.csv:20 
+msgid "Your password"
+msgstr "la seva contrasenya"
+

@@ -1,0 +1,52 @@
+#: cs/weblink.csv:1 
+msgid "Add a link"
+msgstr "Přidat odkaz"
+
+#: cs/weblink.csv:2 
+msgid "An error occurred while saving your picto. Please try againg later."
+msgstr "Při ukládání ikony došlo k chybě. Zkuste to prosím později"
+
+#: cs/weblink.csv:3 
+msgid "Are you sure you want to delete this link?"
+msgstr "Opravdu chcete smazat tento odkaz?"
+
+#: cs/weblink.csv:4 
+msgid "Are you sure you want to delete this picture?"
+msgstr "Opravdu chcete smazat tento obrázek?"
+
+#: cs/weblink.csv:5 
+msgid "Link"
+msgstr "Odkaz"
+
+#: cs/weblink.csv:6 
+msgid "Link has been successfully deleted"
+msgstr "Odkaz byl úspěšně smazán"
+
+#: cs/weblink.csv:7 
+msgid "Link has been successfully saved"
+msgstr "Odkaz byl úspěšně uložen"
+
+#: cs/weblink.csv:8 
+msgid "Link:"
+msgstr "Odkaz:"
+
+#: cs/weblink.csv:9 
+msgid "Picto"
+msgstr "Ikona"
+
+#: cs/weblink.csv:10 
+msgid "The image has been successfully deleted"
+msgstr "Obrázek byl úspěšně smazán"
+
+#: cs/weblink.csv:11 
+msgid "The image has been successfully saved"
+msgstr "Obrázek byl úspěšně uložen"
+
+#: cs/weblink.csv:12 
+msgid "Your links"
+msgstr "Seznam odkazů"
+
+#: cs/weblink.csv:13 
+msgid "﻿Add a link"
+msgstr "Přidat odkaz"
+

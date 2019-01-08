@@ -1,0 +1,8 @@
+#: tr/sourcecode.csv:1 
+msgid "Source Code"
+msgstr "Kaynak Kodu"
+
+#: tr/sourcecode.csv:2 
+msgid "Insert your HTML code:"
+msgstr "HTML kodu ekleyin:"
+

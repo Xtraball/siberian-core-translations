@@ -1,0 +1,104 @@
+#: ca/event.csv:1 
+msgid "An error occurred while deleting the event"
+msgstr "Produït un error en suprimir l'esdeveniment"
+
+#: ca/event.csv:2 
+msgid "An error occurred while loading this event"
+msgstr "S'ha produït un error mentre carrega aquest esdeveniment"
+
+#: ca/event.csv:3 
+msgid "Beginning date:"
+msgstr "Data de començament:"
+
+#: ca/event.csv:4 
+msgid "Calendar successfully deleted"
+msgstr "Calendari correctament"
+
+#: ca/event.csv:5 
+msgid "Calendar's URL"
+msgstr "URL del calendari"
+
+#: ca/event.csv:6 
+msgid "Calendar's title"
+msgstr "Títol del calendari"
+
+#: ca/event.csv:7 
+msgid "Change picture"
+msgstr "Canvia la imatge"
+
+#: ca/event.csv:8 
+msgid "Create a new event"
+msgstr "Crear un nou esdeveniment"
+
+#: ca/event.csv:9 
+msgid "Custom Page"
+msgstr "Costum pàgina"
+
+#: ca/event.csv:10 
+msgid "Delete this calendar?"
+msgstr "Voleu suprimir aquest calendari?"
+
+#: ca/event.csv:11 
+msgid "Delete this event?"
+msgstr "Voleu suprimir aquest esdeveniment?"
+
+#: ca/event.csv:12 
+msgid "Ending date:"
+msgstr "Data d'acabament:"
+
+#: ca/event.csv:13 
+msgid "Enter your calendar's title"
+msgstr "Introdueixi el títol del calendari"
+
+#: ca/event.csv:14 
+msgid "Event"
+msgstr "Esdeveniment"
+
+#: ca/event.csv:15 
+msgid "Event successfully deleted"
+msgstr "Esdeveniment correctament"
+
+#: ca/event.csv:16 
+msgid "Event successfully saved"
+msgstr "Esdeveniment salvat correctament"
+
+#: ca/event.csv:17 
+msgid "Event title:"
+msgstr "Títol de l'esdeveniment:"
+
+#: ca/event.csv:18 
+msgid "Illustration"
+msgstr "Il·lustració"
+
+#: ca/event.csv:19 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Mida de Max: 2000x2000px - permesos els formats de: jpg & png"
+
+#: ca/event.csv:20 
+msgid "Modify the event"
+msgstr "Modificar l'esdeveniment"
+
+#: ca/event.csv:21 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: ca/event.csv:22 
+msgid "RSVP URL:"
+msgstr "URL DE CONFIRMAR LA SEVA ASSISTÈNCIA:"
+
+#: ca/event.csv:23 
+msgid "Your Facebook page ID"
+msgstr "El vostre ID de pàgina de Facebook"
+
+#: ca/event.csv:24 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "El teu Facebook pàgina ID <span class="required-entry"> *</span>:"
+
+#: ca/event.csv:25 
+msgid "Your calendar is empty"
+msgstr "El calendari està buit"
+
+#: ca/event.csv:26 
+msgid "iCal"
+msgstr "iCal"
+

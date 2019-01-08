@@ -1,0 +1,28 @@
+#: ca/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Llista dels seus impostos"
+
+#: ca/tax.csv:2 
+msgid "Please select a country"
+msgstr "Si us plau seleccioni un país"
+
+#: ca/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Si us plau, introduïu un tipus impositiu."
+
+#: ca/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Si us plau, introduïu un tipus impositiu vigent."
+
+#: ca/tax.csv:5 
+msgid "Rate"
+msgstr "Taxa"
+
+#: ca/tax.csv:6 
+msgid "Remove"
+msgstr "Treure"
+
+#: ca/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "No heu creat cap impostos encara"
+

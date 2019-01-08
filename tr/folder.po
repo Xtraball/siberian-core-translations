@@ -1,0 +1,60 @@
+#: tr/folder.csv:1 
+msgid "Add a page"
+msgstr "Bir sayfa ekle"
+
+#: tr/folder.csv:2 
+msgid "Click on"
+msgstr "Üzerine tıkla"
+
+#: tr/folder.csv:3 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Klasöre eklemek için bir sayfaya tıklayın <span id="folder_name" class="folder_name">"%s"</span>"
+
+#: tr/folder.csv:4 
+msgid "Click on a page to add it to the folder"
+msgstr "Klasöre eklemek için bir sayfaya tıklayın"
+
+#: tr/folder.csv:5 
+msgid "Close mobile display"
+msgstr "Mobil ekranı kapatın"
+
+#: tr/folder.csv:6 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Bu klasörü ve tüm alt klasörleri sil?"
+
+#: tr/folder.csv:7 
+msgid "Folder title is required"
+msgstr "Klasör başlığı gereklidir"
+
+#: tr/folder.csv:8 
+msgid "Folders"
+msgstr "Klasörler"
+
+#: tr/folder.csv:9 
+msgid "Mobile display"
+msgstr "Mobil ekran"
+
+#: tr/folder.csv:10 
+msgid "New folder"
+msgstr "Yeni klasör"
+
+#: tr/folder.csv:11 
+msgid "Subtitle"
+msgstr "Altyazı"
+
+#: tr/folder.csv:12 
+msgid "You cannot add this feature"
+msgstr "Bu özelliği eklenemez"
+
+#: tr/folder.csv:13 
+msgid "You must first complete the current category creation process"
+msgstr "Önce mevcut kategori oluşturma işlemini tamamlamanız gerekir"
+
+#: tr/folder.csv:14 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Devam ederseniz tüm kaydedilmemiş değişiklikleri kaybedersiniz?"
+
+#: tr/folder.csv:15 
+msgid "to add a folder."
+msgstr "bir klasör eklemek için."
+

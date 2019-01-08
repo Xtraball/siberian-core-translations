@@ -1,0 +1,56 @@
+#: it/preview.csv:1 
+msgid "<b>File types:</b> %s<br />"
+msgstr "<b>Tipi di file:</b> %s<br/>"
+
+#: it/preview.csv:2 
+msgid "Add"
+msgstr "Aggiungi"
+
+#: it/preview.csv:3 
+msgid "An error occurred during the process. Please try again later."
+msgstr "Si è verificato un errore durante il processo. Per favore riprova più tardi."
+
+#: it/preview.csv:4 
+msgid "An error occurred while deleting your preview. Please try again later."
+msgstr "Si è verificato un errore nella cancellazione della tua anteprima. Per favore riprova più tardi."
+
+#: it/preview.csv:5 
+msgid "An error occurred while saving your previews. Please try again later."
+msgstr "Si è verificato un errore nel salvataggio della tua anteprima. Per favore riprova più tardi."
+
+#: it/preview.csv:6 
+msgid "Click here to send your image"
+msgstr "Clicca qui per inviare la tua immagine"
+
+#: it/preview.csv:7 
+msgid "Create a new preview"
+msgstr "Crea una nuova anteprima"
+
+#: it/preview.csv:8 
+msgid "Delete image"
+msgstr "Cancella l'immagine"
+
+#: it/preview.csv:9 
+msgid "Delete translation"
+msgstr "Cancella traduzione"
+
+#: it/preview.csv:10 
+msgid "Description"
+msgstr "Descrizione"
+
+#: it/preview.csv:11 
+msgid "Drag and drop images to reorder them."
+msgstr "Trascina e rilascia le immagini per riordinarle."
+
+#: it/preview.csv:12 
+msgid "Drop your image here"
+msgstr "Inserisci la tua immagine qui"
+
+#: it/preview.csv:13 
+msgid "Edit the preview"
+msgstr "Modifica l'anteprima"
+
+#: it/preview.csv:14 
+msgid "Existing images :"
+msgstr "Immagini esistenti:"
+

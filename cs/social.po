@@ -1,0 +1,16 @@
+#: cs/social.csv:1 
+msgid "An error occurred while loading the videos. Please try again later."
+msgstr "Při nahrávání videa došlo k chybě. Zkuste to prosím později"
+
+#: cs/social.csv:2 
+msgid "Enter your Facebook Fan Page Id"
+msgstr "Zadejte Vaše Facebook Fanpage ID"
+
+#: cs/social.csv:3 
+msgid "Enter your Facebook Fan Page Id <span class="required-entry"> *</span>:"
+msgstr "Zadejte Vaše Facebook Fanpage ID <span class="required-entry"> *</span>:"
+
+#: cs/social.csv:4 
+msgid "﻿An error occurred while loading the videos. Please try again later."
+msgstr "Při nahrávání videa došlo k chybě. Zkuste to prosím později"
+

@@ -1,0 +1,180 @@
+#: el/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "%s - Δημιουργία Λογαριασμού"
+
+#: el/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "%s - Ο νέος σας κωδικός"
+
+#: el/customer.csv:3 
+msgid "%s – Account creation"
+msgstr "%s – Δημιουργία Λογαριασμού"
+
+#: el/customer.csv:4 
+msgid "%s – Your new password"
+msgstr "%s – Ο νέος σας κωδικός"
+
+#: el/customer.csv:5 
+msgid "A request to reset your password has been made."
+msgstr "Η αίτηση για την επαναφορά του κωδικού πρόσβασής σας έχει γίνει."
+
+#: el/customer.csv:6 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "Παρουσιάστηκε σφάλμα κατά τη σύνδεση στο λογαριασμό σας στο Facebook. Παρακαλώ δοκιμάστε ξανά αργότερα"
+
+#: el/customer.csv:7 
+msgid "Are you sure you want to remove this user?"
+msgstr "Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτόν τον χρήστη?"
+
+#: el/customer.csv:8 
+msgid "Change Password"
+msgstr "Αλλαγή Κωδικού"
+
+#: el/customer.csv:9 
+msgid "Congratulations,"
+msgstr "Συγχαρητήρια,"
+
+#: el/customer.csv:10 
+msgid "Create"
+msgstr "Δημιουργώ"
+
+#: el/customer.csv:11 
+msgid "Create a new user"
+msgstr "Δημιουργήστε έναν νέο χρήστη"
+
+#: el/customer.csv:12 
+msgid "Create an account"
+msgstr "Δημιουργήστε έναν λογαριασμό"
+
+#: el/customer.csv:13 
+msgid "Customer"
+msgstr "Πελάτης"
+
+#: el/customer.csv:14 
+msgid "Customers"
+msgstr "Πελάτες"
+
+#: el/customer.csv:15 
+msgid "Disconnect"
+msgstr "Αποσύνδεση"
+
+#: el/customer.csv:16 
+msgid "Edit the user %s"
+msgstr "Επεξεργαστείτε το χρήστη% s"
+
+#: el/customer.csv:17 
+msgid "First name"
+msgstr "Όνομα"
+
+#: el/customer.csv:18 
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό σας?"
+
+#: el/customer.csv:19 
+msgid "Gender"
+msgstr "Φύλλο"
+
+#: el/customer.csv:20 
+msgid "Here are your credentials:"
+msgstr "Εδώ είναι τα διαπιστευτήριά σας:"
+
+#: el/customer.csv:21 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Αποδέχομαι την <u> Πολιτική Προστασίας Προσωπικών Δεδομένων </ u>"
+
+#: el/customer.csv:22 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Αν αντιμετωπίσετε κάποιο πρόβλημα, μην διστάσετε να επικοινωνήσετε μαζί μας:"
+
+#: el/customer.csv:23 
+msgid "Last name"
+msgstr "Επώνυμο"
+
+#: el/customer.csv:24 
+msgid "Login:"
+msgstr "Σύνδεση :"
+
+#: el/customer.csv:25 
+msgid "Miss"
+msgstr "Δεσποινίς"
+
+#: el/customer.csv:26 
+msgid "Mr"
+msgstr "Κύριος"
+
+#: el/customer.csv:27 
+msgid "Mrs"
+msgstr "Κυρία"
+
+#: el/customer.csv:28 
+msgid "My Account"
+msgstr "Ο Λογαριασμός μου"
+
+#: el/customer.csv:29 
+msgid "My application's users"
+msgstr "Οι χρήστες των εφαρμογών μου"
+
+#: el/customer.csv:30 
+msgid "Old Password"
+msgstr "Παλιός Κωδικός"
+
+#: el/customer.csv:31 
+msgid "Or with your account"
+msgstr "Ή με το λογαριασμό σας"
+
+#: el/customer.csv:32 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Παρακαλώ εισάγετε τη διεύθυνση email σας. Θα σας στείλουμε τον κωδικό πρόσβασής σας τώρα."
+
+#: el/customer.csv:33 
+msgid "Please log in with your mobile phone"
+msgstr "Παρακαλώ συνδεθείτε με το κινητό σας τηλέφωνο"
+
+#: el/customer.csv:34 
+msgid "Privacy Policy"
+msgstr "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+
+#: el/customer.csv:35 
+msgid "See you soon,"
+msgstr "Θα σε δώ σύντομα,"
+
+#: el/customer.csv:36 
+msgid "Show me in ranking"
+msgstr "Δείξε μου την κατάταξη"
+
+#: el/customer.csv:37 
+msgid "The old email address does not match the entered email address."
+msgstr "Η παλιά διεύθυνση ηλεκτρονικού ταχυδρομείου δεν ταιριάζει με την καταχωρημένη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+#: el/customer.csv:38 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Αυτός ο χρήστης μπορεί να έχει πρόσβαση στις κλειδωμένες σελίδες από το χαρακτηριστικό "Locker""
+
+#: el/customer.csv:39 
+msgid "This user is visible in ranking"
+msgstr "Αυτός ο χρήστης είναι ορατός στην κατάταξη"
+
+#: el/customer.csv:40 
+msgid "User"
+msgstr "Χρήστης"
+
+#: el/customer.csv:41 
+msgid "User Information"
+msgstr "Πληροφορίες Χρήστη"
+
+#: el/customer.csv:42 
+msgid "Users"
+msgstr "Χρήστες"
+
+#: el/customer.csv:43 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Λυπούμαστε, αλλά ο λογαριασμός % s είναι ήδη συνδεδεμένος με έναν από τους πελάτες μας"
+
+#: el/customer.csv:44 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "Έχετε δημιουργήσει το λογαριασμό σας. Με αυτόν τον λογαριασμό, θα είστε σε θέση να απολαύσετε τις υπέροχες προσφορές που είναι διαθέσιμες στην εφαρμογή μας."
+
+#: el/customer.csv:45 
+msgid "Your account has been successfully saved"
+msgstr "Ο λογαριασμός σας έχει αποθηκευτεί επιτυχώς"
+

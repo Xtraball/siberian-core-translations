@@ -1,0 +1,128 @@
+#: el/catalog.csv:1 
+msgid "%s - All"
+msgstr "%s - Όλα"
+
+#: el/catalog.csv:2 
+msgid "%s – All"
+msgstr "%s – Όλα"
+
+#: el/catalog.csv:3 
+msgid "Add a category"
+msgstr "Προσθήκη κατηγορίας"
+
+#: el/catalog.csv:4 
+msgid "Add a format"
+msgstr "Προσθήκη επιλογής"
+
+#: el/catalog.csv:5 
+msgid "All"
+msgstr "Όλα"
+
+#: el/catalog.csv:6 
+msgid "An error occurred while loading your product."
+msgstr "Υπηρξε σφάλμα κατά την φόρτωση του προϊόντος σας."
+
+#: el/catalog.csv:7 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "Υπηρξε σφάλμα κατά την αποθήκευση της κατηγορίας. Παρακαλώ δοκιμάστε ξανά αργότερα."
+
+#: el/catalog.csv:8 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "Υπηρξε σφάλμα κατά την αποθήκευση του προϊόντος. Παρακαλώ δοκιμάστε ξανά αργότερα."
+
+#: el/catalog.csv:9 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "Υπηρξε σφάλμα κατά την αποθήκευση του γεύματος. Παρακαλώ δοκιμάστε ξανά αργότερα."
+
+#: el/catalog.csv:10 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "Υπηρξε σφάλμα κατά την αποθήκευση. Μία από τις κατηγορίες σας δεν ήταν εφικτό να αναγνωριστεί."
+
+#: el/catalog.csv:11 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "Υπηρξε σφάλμα κατά την αποθήκευση. Ένα από τα προϊόντα σας δεν ήταν εφικτό να αναγνωριστεί."
+
+#: el/catalog.csv:12 
+msgid "Are you sure you want to delete this product?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το προϊόν?"
+
+#: el/catalog.csv:13 
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: el/catalog.csv:14 
+msgid "Choose a category"
+msgstr "Επιλογή κατηγορίας"
+
+#: el/catalog.csv:15 
+msgid "Choose a subcategory"
+msgstr "Επιλογή υποκατηγορίας"
+
+#: el/catalog.csv:16 
+msgid "Click on a category to display sub-categories"
+msgstr "Κάντε κλικ σε μια κατηγορία για να εμφανιστούν οι υποκατηγορίες"
+
+#: el/catalog.csv:17 
+msgid "Create a new product"
+msgstr "Δημιουργήστε ένα νέο προϊόν"
+
+#: el/catalog.csv:18 
+msgid "Does this product have many formats?"
+msgstr "Μήπως αυτό το προϊόν έχει και άλλες επιλογές?"
+
+#: el/catalog.csv:19 
+msgid "Edit the"
+msgstr "Επεξεργασία"
+
+#: el/catalog.csv:20 
+msgid "Edit the product"
+msgstr "Επεξεργασία προϊόντος"
+
+#: el/catalog.csv:21 
+msgid "Format"
+msgstr "Επιλογή"
+
+#: el/catalog.csv:22 
+msgid "Picture"
+msgstr "Εικόνα"
+
+#: el/catalog.csv:23 
+msgid "Price"
+msgstr "Τιμή"
+
+#: el/catalog.csv:24 
+msgid "Product"
+msgstr "Προϊόν"
+
+#: el/catalog.csv:25 
+msgid "Product formats"
+msgstr "Επιλογές προϊόντος"
+
+#: el/catalog.csv:26 
+msgid "Product name"
+msgstr "Όνομα προϊόντος"
+
+#: el/catalog.csv:27 
+msgid "Rules"
+msgstr "Κανόνες"
+
+#: el/catalog.csv:28 
+msgid "Set meal successfully deleted."
+msgstr "Το γεύμα διεγράφη επιτυχώς."
+
+#: el/catalog.csv:29 
+msgid "Set meal successfully saved."
+msgstr "Το γεύμα αποθηκεύτηκε επιτυχώς."
+
+#: el/catalog.csv:30 
+msgid "Sub-category"
+msgstr "Υποκατηγορία"
+
+#: el/catalog.csv:31 
+msgid "st"
+msgstr "ο"
+
+#: el/catalog.csv:32 
+msgid "sub-category"
+msgstr "υποκατηγορία"
+

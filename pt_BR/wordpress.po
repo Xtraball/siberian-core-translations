@@ -1,0 +1,32 @@
+#: pt_BR/wordpress.csv:1 
+msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
+msgstr "Ocorreu um erro ao acessar o seu site Wordpress. Por favor, verifique o nome de domínio %s"
+
+#: pt_BR/wordpress.csv:2 
+msgid "Categories successfully saved"
+msgstr "Categorias salvas com sucesso"
+
+#: pt_BR/wordpress.csv:3 
+msgid "Click here to download our Wordpress plugin"
+msgstr "Clique aqui para baixar nosso plugin Wordpress"
+
+#: pt_BR/wordpress.csv:4 
+msgid "Enter your Wordpress URL:"
+msgstr "Digite sua URL Wordpress:"
+
+#: pt_BR/wordpress.csv:5 
+msgid "Loading categories"
+msgstr "Carregando categorias"
+
+#: pt_BR/wordpress.csv:6 
+msgid "We are sorry but no category has been detected on your Wordpress website."
+msgstr "Lamentamos, mas nenhuma categoria foi encontrada em seu site Wordpress."
+
+#: pt_BR/wordpress.csv:7 
+msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
+msgstr "Lamentamos, mas nosso plugin Wordpress não foi encontrado em seu site. Por favor, certifique-se de que esteja corretamente instalado e ativado."
+
+#: pt_BR/wordpress.csv:8 
+msgid "Wordpress"
+msgstr "Wordpress"
+

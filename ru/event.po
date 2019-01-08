@@ -1,0 +1,104 @@
+#: ru/event.csv:1 
+msgid "An error occurred while deleting the event"
+msgstr "Произошла ошибка при удалении события"
+
+#: ru/event.csv:2 
+msgid "An error occurred while loading this event"
+msgstr "Произошла ошибка при загрузке события"
+
+#: ru/event.csv:3 
+msgid "Beginning date:"
+msgstr "Дата начала:"
+
+#: ru/event.csv:4 
+msgid "Calendar successfully deleted"
+msgstr "Календарь успешно удален"
+
+#: ru/event.csv:5 
+msgid "Calendar's URL"
+msgstr "URL календаря"
+
+#: ru/event.csv:6 
+msgid "Calendar's title"
+msgstr "Название календаря"
+
+#: ru/event.csv:7 
+msgid "Change picture"
+msgstr "Сменить картинку"
+
+#: ru/event.csv:8 
+msgid "Create a new event"
+msgstr "Создать новое событие"
+
+#: ru/event.csv:9 
+msgid "Custom Page"
+msgstr "Свой"
+
+#: ru/event.csv:10 
+msgid "Delete this calendar?"
+msgstr "Удалить этот календарь?"
+
+#: ru/event.csv:11 
+msgid "Delete this event?"
+msgstr "Удалить это событие?"
+
+#: ru/event.csv:12 
+msgid "Ending date:"
+msgstr "Дата окончания:"
+
+#: ru/event.csv:13 
+msgid "Enter your calendar's title"
+msgstr "Введите название вашего календаря"
+
+#: ru/event.csv:14 
+msgid "Event"
+msgstr "Событие"
+
+#: ru/event.csv:15 
+msgid "Event successfully deleted"
+msgstr "Событие успешно удалено"
+
+#: ru/event.csv:16 
+msgid "Event successfully saved"
+msgstr "Событие успешно сохранено"
+
+#: ru/event.csv:17 
+msgid "Event title:"
+msgstr "Название мероприятия:"
+
+#: ru/event.csv:18 
+msgid "Illustration"
+msgstr "Иллюстрация"
+
+#: ru/event.csv:19 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Максимальный размер: 2000x2000px,  допустимые форматы: JPG & PNG"
+
+#: ru/event.csv:20 
+msgid "Modify the event"
+msgstr "Изменить событие"
+
+#: ru/event.csv:21 
+msgid "RSVP"
+msgstr "Посмотреть подробности"
+
+#: ru/event.csv:22 
+msgid "RSVP URL:"
+msgstr "Подробности по URL:"
+
+#: ru/event.csv:23 
+msgid "Your Facebook page ID"
+msgstr "Ваш ID на странице Facebook "
+
+#: ru/event.csv:24 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "Ваш ID на странице Facebook <span class="требует ввода">*</span> :"
+
+#: ru/event.csv:25 
+msgid "Your calendar is empty"
+msgstr "Ваш календарь пуст"
+
+#: ru/event.csv:26 
+msgid "iCal"
+msgstr "iCal - Apple"
+

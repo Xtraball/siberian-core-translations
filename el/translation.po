@@ -1,0 +1,52 @@
+#: el/translation.csv:1 
+msgid "Create a new language"
+msgstr "Δημιουργία νέας γλώσσας"
+
+#: el/translation.csv:2 
+msgid "Default text"
+msgstr "Προεπιλεγμένο κείμενο"
+
+#: el/translation.csv:3 
+msgid "Edit the language: %s"
+msgstr "Επεξεργασία γλώσσας: %s"
+
+#: el/translation.csv:4 
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: el/translation.csv:5 
+msgid "Language successfully saved"
+msgstr "Η γλώσσα αποθηκεύτηκε επιτυχώς"
+
+#: el/translation.csv:6 
+msgid "List of your languages"
+msgstr "Λίστα διαθέσιμων γλωσσών"
+
+#: el/translation.csv:7 
+msgid "Please, choose a file."
+msgstr "Παρακαλούμε, επιλέξετε ένα αρχείο."
+
+#: el/translation.csv:8 
+msgid "Please, choose a language."
+msgstr "Παρακαλούμε, επιλέξετε μία γλώσσα."
+
+#: el/translation.csv:9 
+msgid "Select a file"
+msgstr "Επιλογή αρχείου"
+
+#: el/translation.csv:10 
+msgid "Select a language"
+msgstr "Επιλογή γλώσσας"
+
+#: el/translation.csv:11 
+msgid "Text translation"
+msgstr "Μετάφραση κειμένου"
+
+#: el/translation.csv:12 
+msgid "Translations"
+msgstr "Μεταφράσεις"
+
+#: el/translation.csv:13 
+msgid "Your translation"
+msgstr "Η μετάφρασή σας"
+

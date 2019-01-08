@@ -1,0 +1,8 @@
+#: de/template.csv:1 
+msgid "Choose a template to customize"
+msgstr "Wählen Sie eine Vorlage zum gestalten "
+
+#: de/template.csv:2 
+msgid "TEMPLATES"
+msgstr "VORLAGEN"
+

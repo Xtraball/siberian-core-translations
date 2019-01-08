@@ -1,0 +1,128 @@
+#: fr/catalog.csv:1 
+msgid "%s - All"
+msgstr "%s - Tout"
+
+#: fr/catalog.csv:2 
+msgid "%s – All"
+msgstr "%s – Tout"
+
+#: fr/catalog.csv:3 
+msgid "Add a category"
+msgstr "Ajouter une catégorie"
+
+#: fr/catalog.csv:4 
+msgid "Add a format"
+msgstr "Ajouter un format"
+
+#: fr/catalog.csv:5 
+msgid "All"
+msgstr "Toutes"
+
+#: fr/catalog.csv:6 
+msgid "An error occurred while loading your product."
+msgstr "Une erreur est survenue lors du chargement de votre produit."
+
+#: fr/catalog.csv:7 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "Une erreur est survenue lors de la sauvegarde de votre catégorie. Merci de réessayer ultérieurement."
+
+#: fr/catalog.csv:8 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "Une erreur est survenue lors de la sauvegarde du produit. Merci de réessayer ultérieurement."
+
+#: fr/catalog.csv:9 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "Une erreur est survenue lors de la sauvegarde du menu. Merci de réessayer ultérieurement."
+
+#: fr/catalog.csv:10 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "Une erreur est survenue lors de la sauvegarde. Une catégorie n'a pas pu être identifiée."
+
+#: fr/catalog.csv:11 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "Une erreur est survenue lors de la sauvegarde. Un produit n'a pas pu être identifiée."
+
+#: fr/catalog.csv:12 
+msgid "Are you sure you want to delete this product?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce produit ?"
+
+#: fr/catalog.csv:13 
+msgid "Category"
+msgstr "Catégorie"
+
+#: fr/catalog.csv:14 
+msgid "Choose a category"
+msgstr "Choisissez une catégorie"
+
+#: fr/catalog.csv:15 
+msgid "Choose a subcategory"
+msgstr "Choisissez une sous-catégorie"
+
+#: fr/catalog.csv:16 
+msgid "Click on a category to display sub-categories"
+msgstr "Cliquez sur une catégorie pour afficher les sous-catégories"
+
+#: fr/catalog.csv:17 
+msgid "Create a new product"
+msgstr "Créer un nouveau produit"
+
+#: fr/catalog.csv:18 
+msgid "Does this product have many formats?"
+msgstr "Ce produit a-t-il plusieurs formats ?"
+
+#: fr/catalog.csv:19 
+msgid "Edit the"
+msgstr "Modifiez l'"
+
+#: fr/catalog.csv:20 
+msgid "Edit the product"
+msgstr "Modifier le produit"
+
+#: fr/catalog.csv:21 
+msgid "Format"
+msgstr "Format"
+
+#: fr/catalog.csv:22 
+msgid "Picture"
+msgstr "Illustration"
+
+#: fr/catalog.csv:23 
+msgid "Price"
+msgstr "Prix"
+
+#: fr/catalog.csv:24 
+msgid "Product"
+msgstr "Produit"
+
+#: fr/catalog.csv:25 
+msgid "Product formats"
+msgstr "Formats du produit"
+
+#: fr/catalog.csv:26 
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: fr/catalog.csv:27 
+msgid "Rules"
+msgstr "Condition"
+
+#: fr/catalog.csv:28 
+msgid "Set meal successfully deleted."
+msgstr "Menu supprimé avec succès."
+
+#: fr/catalog.csv:29 
+msgid "Set meal successfully saved."
+msgstr "Menu sauvegardé avec succès."
+
+#: fr/catalog.csv:30 
+msgid "Sub-category"
+msgstr "Sous-catégorie"
+
+#: fr/catalog.csv:31 
+msgid "st"
+msgstr "er"
+
+#: fr/catalog.csv:32 
+msgid "sub-category"
+msgstr "sous-catégorie"
+

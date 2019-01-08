@@ -1,0 +1,104 @@
+#: zh/push.csv:1 
+msgid "Additionnal Information"
+msgstr "附加信息"
+
+#: zh/push.csv:2 
+msgid "And a radius (in Km):"
+msgstr "及周边地区（公里数） ："
+
+#: zh/push.csv:3 
+msgid "Android"
+msgstr "安卓"
+
+#: zh/push.csv:4 
+msgid "Creation date"
+msgstr "创建日期"
+
+#: zh/push.csv:5 
+msgid "Enter a location:"
+msgstr "输入位置："
+
+#: zh/push.csv:6 
+msgid "GCM Key"
+msgstr "关键GCM"
+
+#: zh/push.csv:7 
+msgid "I want to send it"
+msgstr "我想送"
+
+#: zh/push.csv:8 
+msgid "Keys successfully saved"
+msgstr "保存成功关键"
+
+#: zh/push.csv:9 
+msgid "Message"
+msgstr "信息"
+
+#: zh/push.csv:10 
+msgid "Message:"
+msgstr "消息："
+
+#: zh/push.csv:11 
+msgid "Pending"
+msgstr "坡"
+
+#: zh/push.csv:12 
+msgid "Push Notifications"
+msgstr "推送通知"
+
+#: zh/push.csv:13 
+msgid "Push Notifications Settings"
+msgstr "推送通知设置"
+
+#: zh/push.csv:14 
+msgid "Radius"
+msgstr "无线电"
+
+#: zh/push.csv:15 
+msgid "Send to a specific location"
+msgstr "发送到特定的位置"
+
+#: zh/push.csv:16 
+msgid "Send to all my users"
+msgstr "发送给我的所有用户"
+
+#: zh/push.csv:17 
+msgid "Sender ID"
+msgstr "ID交货"
+
+#: zh/push.csv:18 
+msgid "Sending date"
+msgstr "送货日期"
+
+#: zh/push.csv:19 
+msgid "The duration limit must be higher than the sent date"
+msgstr "时间限制必须大于出货日期"
+
+#: zh/push.csv:20 
+msgid "Your app must be published to send a push notification."
+msgstr "必须将应用程序发布到发送推送通知。"
+
+#: zh/push.csv:21 
+msgid "Your message has been saved successfully and will be sent at the entered date"
+msgstr "您的留言已成功保存，输入的日期将被发送"
+
+#: zh/push.csv:22 
+msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgstr "您的留言已成功保存，并在几分钟内将被发送"
+
+#: zh/push.csv:23 
+msgid "and users entering the area"
+msgstr "和在该地区的用户"
+
+#: zh/push.csv:24 
+msgid "for a limited period"
+msgstr "在有限的时间"
+
+#: zh/push.csv:25 
+msgid "now"
+msgstr "现在"
+
+#: zh/push.csv:26 
+msgid "on a specific date"
+msgstr "在特定日期"
+

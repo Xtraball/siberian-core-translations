@@ -1,0 +1,64 @@
+#: nl/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s punten%s"
+
+#: nl/socialgaming.csv:2 
+msgid "A month"
+msgstr "Een maand"
+
+#: nl/socialgaming.csv:3 
+msgid "A week"
+msgstr "Een week"
+
+#: nl/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Uitdagers"
+
+#: nl/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Huidig spel"
+
+#: nl/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "Pas de challengers pour l'instant"
+
+#: nl/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Naam van spel"
+
+#: nl/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Spel succesvol opgeslagen"
+
+#: nl/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Volgend spel"
+
+#: nl/socialgaming.csv:10 
+msgid "On the"
+msgstr "Op de"
+
+#: nl/socialgaming.csv:11 
+msgid "Period"
+msgstr "Période"
+
+#: nl/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Periodiciteit"
+
+#: nl/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Publicatiedatum"
+
+#: nl/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Klassement van de maand"
+
+#: nl/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Klassement van de week"
+
+#: nl/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "Teamleider"
+

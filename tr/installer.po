@@ -1,0 +1,200 @@
+#: tr/installer.csv:1 
+msgid "%s Update"
+msgstr "%s Güncelleme"
+
+#: tr/installer.csv:2 
+msgid "All of your modules are up to date"
+msgstr "Tüm modülleriniz güncel"
+
+#: tr/installer.csv:3 
+msgid "Click here to send your module"
+msgstr "Burayı tıklayarak modülü gönderin"
+
+#: tr/installer.csv:4 
+msgid "Drop your module here"
+msgstr "Modülünüzü buraya sürükleyin"
+
+#: tr/installer.csv:5 
+msgid "Host"
+msgstr "Host"
+
+#: tr/installer.csv:6 
+msgid "Installing"
+msgstr "Yükleniyor"
+
+#: tr/installer.csv:7 
+msgid "Installing module <em><span id="label_module"></span></em>"
+msgstr "Yükleme modülü <em><span id="label_module"></span></em>"
+
+#: tr/installer.csv:8 
+msgid "Installing your module"
+msgstr "Modülünüz yükleniyor"
+
+#: tr/installer.csv:9 
+msgid "Module successfully installed"
+msgstr "Modül başarıyla yüklendi"
+
+#: tr/installer.csv:10 
+msgid "Module to upload"
+msgstr "Yüklenecek modül"
+
+#: tr/installer.csv:11 
+msgid "Modules Installation"
+msgstr "Modüller yüklemesi"
+
+#: tr/installer.csv:12 
+msgid "Modules successfully installed!"
+msgstr "Modüller başarıyla yüklendi"
+
+#: tr/installer.csv:13 
+msgid "No directory provided"
+msgstr "Dizin sağlanmamış"
+
+#: tr/installer.csv:14 
+msgid "No module to install"
+msgstr "Yüklemek için modül yok"
+
+#: tr/installer.csv:15 
+msgid "No modules uploaded yet"
+msgstr "Henüz hiç bir modül yüklenmemiş "
+
+#: tr/installer.csv:16 
+msgid "Or set the correct permissions to the following files and folders and try again:"
+msgstr "Ya da aşağıdaki dosyalar ve klasörler için doğru izinlerini ayarlayarak yeniden deneyin:"
+
+#: tr/installer.csv:17 
+msgid "Package Details"
+msgstr "Paket detayları"
+
+#: tr/installer.csv:18 
+msgid "Path to your system"
+msgstr "Sisteminizin yolu"
+
+#: tr/installer.csv:19 
+msgid "Please update the module to the %s version before installing this update."
+msgstr "Bu güncelleştirmeyi yüklemeden önce%s sürümüne modülü güncelleyin."
+
+#: tr/installer.csv:20 
+msgid "Please update your system to the %s version before installing this update."
+msgstr "Bu güncelleştirmeyi yüklemeden önce%s sürümüne sisteminizi güncelleyin."
+
+#: tr/installer.csv:21 
+msgid "Please wait, we're installing your module"
+msgstr "Lütfen bekleyin modülünüzü yüklüyoruz"
+
+#: tr/installer.csv:22 
+msgid "Please, enter a name"
+msgstr "Lütfen bir isim girin"
+
+#: tr/installer.csv:23 
+msgid "Please, fill out all fields"
+msgstr "Lütfen tüm alanları doldurunuz"
+
+#: tr/installer.csv:24 
+msgid "Port"
+msgstr "Port"
+
+#: tr/installer.csv:25 
+msgid "Processing the installation"
+msgstr "Kurulum işliyor"
+
+#: tr/installer.csv:26 
+msgid "Retry"
+msgstr "Yenileyin"
+
+#: tr/installer.csv:27 
+msgid "Select a module to upload"
+msgstr "Yüklemek için bir modül seçin"
+
+#: tr/installer.csv:28 
+msgid "Some files and folder are not writable. You can either provide your FTP access to install this update:"
+msgstr "Bazı dosya ve klasör yazılabilir değil. Bu güncelleştirmeyi yüklemek için FTP erişimide sağlayabilirsiniz:"
+
+#: tr/installer.csv:29 
+msgid "Some files don't have the right permissions and can't be updated"
+msgstr "Bazı dosyalar doğru izinlere sahip değil ve güncellenemedi"
+
+#: tr/installer.csv:30 
+msgid "The database connection failed. Please, check the entered information."
+msgstr "Veritabanı bağlantısı başarısız oldu.Girdiğiniz bilgileri kontrol edin."
+
+#: tr/installer.csv:31 
+msgid "The entered password confirmation does not match the entered password."
+msgstr "Şifreler eşleşmiyor."
+
+#: tr/installer.csv:32 
+msgid "The file %s does not exist"
+msgstr "Alan %s mevcut değil"
+
+#: tr/installer.csv:33 
+msgid "The file %s is not writable."
+msgstr "%s dosyası yazılabilir değil."
+
+#: tr/installer.csv:34 
+msgid "The folder %s is not writable. Please fix this issue and try again."
+msgstr "Klasör%s yazılabilir değil. Bu sorunu giderin ve yeniden deneyin."
+
+#: tr/installer.csv:35 
+msgid "The following files and folders are not writable:"
+msgstr "Aşağıdaki dosyalar ve klasörler yazılabilir değildir:"
+
+#: tr/installer.csv:36 
+msgid "The following files and folders are not writable: <br /> - %s"
+msgstr "Aşağıdaki dosyalar yazılabilir değil: <br /> - %s"
+
+#: tr/installer.csv:37 
+msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+msgstr "Modül yükleme <span id="installation_failed_module_name"></span> reddedildi: <span id="installation_failed_because"></span>"
+
+#: tr/installer.csv:38 
+msgid "The package you have uploaded is invalid."
+msgstr "Yüklediğiniz paket geçersiz."
+
+#: tr/installer.csv:39 
+msgid "This process may take few minutes, please do not refresh the page"
+msgstr "Bu süreç birkaç dakika sürebilir bu süreçte sayfayı yenilemeyin."
+
+#: tr/installer.csv:40 
+msgid "This update is designed for the %s, you can't install it in your %s."
+msgstr "Bu güncelleme%s için tasarlanmış,%s nizin üstüne kuramazsınız."
+
+#: tr/installer.csv:41 
+msgid "Unable to connect to your FTP. Please check the connection information."
+msgstr "FTP bağlantı kurulamıyor. Bağlantı bilgilerini kontrol edin."
+
+#: tr/installer.csv:42 
+msgid "Unable to detect your site. Please make sure the entered path is correct."
+msgstr "Sitenizi algılayamadı. Girilen yolun doğru olduğundan emin olun."
+
+#: tr/installer.csv:43 
+msgid "Unable to extract the archive."
+msgstr "Arşiv dişa aktarılamıyor."
+
+#: tr/installer.csv:44 
+msgid "Unable to open the archive."
+msgstr "Arşiv açılamıyor."
+
+#: tr/installer.csv:45 
+msgid "Unable to open the file. Please, make sure that you sent a valid archive."
+msgstr "Dosya açılamıyor.Geçerli bir arşiv gönderildiğinden emin olun."
+
+#: tr/installer.csv:46 
+msgid "Upload a module"
+msgstr "Bir modül yükleyin"
+
+#: tr/installer.csv:47 
+msgid "Upload your modules"
+msgstr "Modüllerinizi yükleyin "
+
+#: tr/installer.csv:48 
+msgid "Username"
+msgstr "Kullanıcıadı"
+
+#: tr/installer.csv:49 
+msgid "You already have installed this update."
+msgstr "Zaten bu güncelleştirmeyi yüklediniz. "
+
+#: tr/installer.csv:50 
+msgid "You can either fix this issue by setting the correct permissions to them and try again or enter your FTP access below:"
+msgstr "Onlara doğru izinleri ayarlayarak bu sorunu giderebilirsiniz ve tekrar deneyin ya da FTP erişimini deneyiniz:"
+

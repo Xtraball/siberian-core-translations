@@ -1,0 +1,104 @@
+#: tr/event.csv:1 
+msgid "An error occurred while deleting the event"
+msgstr "Etkinlik silinirken bir hata oluştu"
+
+#: tr/event.csv:2 
+msgid "An error occurred while loading this event"
+msgstr "Etkinlik yüklenirken bir hata oluştu"
+
+#: tr/event.csv:3 
+msgid "Beginning date:"
+msgstr "Başlangıç tarihi:"
+
+#: tr/event.csv:4 
+msgid "Calendar successfully deleted"
+msgstr "Takvim başarıyla silindi"
+
+#: tr/event.csv:5 
+msgid "Calendar's URL"
+msgstr "Takvim URL"
+
+#: tr/event.csv:6 
+msgid "Calendar's title"
+msgstr "Takvim başlığı"
+
+#: tr/event.csv:7 
+msgid "Change picture"
+msgstr "Resmi değiştir"
+
+#: tr/event.csv:8 
+msgid "Create a new event"
+msgstr "Yeni bir etkinlik oluştur"
+
+#: tr/event.csv:9 
+msgid "Custom Page"
+msgstr "Müşteri Sayfası"
+
+#: tr/event.csv:10 
+msgid "Delete this calendar?"
+msgstr "Takvim silinsin mi?"
+
+#: tr/event.csv:11 
+msgid "Delete this event?"
+msgstr "Etkinlik silinsin mi?"
+
+#: tr/event.csv:12 
+msgid "Ending date:"
+msgstr "Bitiş tarihi:"
+
+#: tr/event.csv:13 
+msgid "Enter your calendar's title"
+msgstr "Takviminizin başlığını girin"
+
+#: tr/event.csv:14 
+msgid "Event"
+msgstr "Etkinlik"
+
+#: tr/event.csv:15 
+msgid "Event successfully deleted"
+msgstr "Etkinlik başarıyla silindi"
+
+#: tr/event.csv:16 
+msgid "Event successfully saved"
+msgstr "Etkinlik başarıyla kaydedildi"
+
+#: tr/event.csv:17 
+msgid "Event title:"
+msgstr "Etkinlik başlığı:"
+
+#: tr/event.csv:18 
+msgid "Illustration"
+msgstr "Örnekleme"
+
+#: tr/event.csv:19 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Max boyut: 2000x2000px – izin verilen formatlar: jpg & png"
+
+#: tr/event.csv:20 
+msgid "Modify the event"
+msgstr "Etkinliği düzenleyin"
+
+#: tr/event.csv:21 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: tr/event.csv:22 
+msgid "RSVP URL:"
+msgstr "RSVP URL:"
+
+#: tr/event.csv:23 
+msgid "Your Facebook page ID"
+msgstr "Facebook sayfa ID si"
+
+#: tr/event.csv:24 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "Facebook sayfa ID si <span class="required-entry">*</span> :"
+
+#: tr/event.csv:25 
+msgid "Your calendar is empty"
+msgstr "Takviminiz boş"
+
+#: tr/event.csv:26 
+msgid "iCal"
+msgstr "iCal"
+

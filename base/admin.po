@@ -1,0 +1,296 @@
+#: base/admin.csv:1 
+msgid "A request to reset your password has been made to log in to your administration panel."
+msgstr "A request to reset your password has been made to log in to your administration panel."
+
+#: base/admin.csv:2 
+msgid "Access"
+msgstr "Access"
+
+#: base/admin.csv:3 
+msgid "Account Role"
+msgstr "Account Role"
+
+#: base/admin.csv:4 
+msgid "Account role"
+msgstr "Account role"
+
+#: base/admin.csv:5 
+msgid "Address:"
+msgstr "Address:"
+
+#: base/admin.csv:6 
+msgid "Address 2:"
+msgstr "Address 2:"
+
+#: base/admin.csv:7 
+msgid "Administrator : full access"
+msgstr "Administrator : full access"
+
+#: base/admin.csv:8 
+msgid "Administrator: full access"
+msgstr "Administrator: full access"
+
+#: base/admin.csv:9 
+msgid "An error occurred while saving. The country is not valid."
+msgstr "An error occurred while saving. The country is not valid."
+
+#: base/admin.csv:10 
+msgid "Application"
+msgstr "Application"
+
+#: base/admin.csv:11 
+msgid "Application have been duplicated successfully."
+msgstr "Application have been duplicated successfully."
+
+#: base/admin.csv:12 
+msgid "Are you sure you want to delete this application?"
+msgstr "Are you sure you want to delete this application?"
+
+#: base/admin.csv:13 
+msgid "Are you sure you want to duplicate this application?"
+msgstr "Are you sure you want to duplicate this application?"
+
+#: base/admin.csv:14 
+msgid "Can add pages"
+msgstr "Can add pages"
+
+#: base/admin.csv:15 
+msgid "Can generate APK"
+msgstr "Can generate APK"
+
+#: base/admin.csv:16 
+msgid "Can manage guided tour"
+msgstr "Can manage guided tour"
+
+#: base/admin.csv:17 
+msgid "Change my password"
+msgstr "Change my password"
+
+#: base/admin.csv:18 
+msgid "Company:"
+msgstr "Company:"
+
+#: base/admin.csv:19 
+msgid "Confirm your password"
+msgstr "Confirm your password"
+
+#: base/admin.csv:20 
+msgid "Connect to your backoffice to validate this account."
+msgstr "Connect to your backoffice to validate this account."
+
+#: base/admin.csv:21 
+msgid "Create a new application"
+msgstr "Create a new application"
+
+#: base/admin.csv:22 
+msgid "Create a new user"
+msgstr "Create a new user"
+
+#: base/admin.csv:23 
+msgid "Created At"
+msgstr "Created At"
+
+#: base/admin.csv:24 
+msgid "Created at %s"
+msgstr "Created at %s"
+
+#: base/admin.csv:25 
+msgid "Do not hesitate to give us your feedback by sharing your needs:"
+msgstr "Do not hesitate to give us your feedback by sharing your needs:"
+
+#: base/admin.csv:26 
+msgid "Edit the account %s"
+msgstr "Edit the account %s"
+
+#: base/admin.csv:27 
+msgid "Edit the user %s"
+msgstr "Edit the user %s"
+
+#: base/admin.csv:28 
+msgid "Enjoy!"
+msgstr "Enjoy!"
+
+#: base/admin.csv:29 
+msgid "Filter your apps..."
+msgstr "Filter your apps..."
+
+#: base/admin.csv:30 
+msgid "Find some advices here:"
+msgstr "Find some advices here:"
+
+#: base/admin.csv:31 
+msgid "From"
+msgstr "From"
+
+#: base/admin.csv:32 
+msgid "Hello, a new user has registered on your platform : %s."
+msgstr "Hello, a new user has registered on your platform : %s."
+
+#: base/admin.csv:33 
+msgid "Here are your credentials, keep them preciously:"
+msgstr "Here are your credentials, keep them preciously:"
+
+#: base/admin.csv:34 
+msgid "List of admin accounts"
+msgstr "List of admin accounts"
+
+#: base/admin.csv:35 
+msgid "List of my accounts"
+msgstr "List of my accounts"
+
+#: base/admin.csv:36 
+msgid "List of your users"
+msgstr "List of your users"
+
+#: base/admin.csv:37 
+msgid "Log-in As"
+msgstr "Log-in As"
+
+#: base/admin.csv:38 
+msgid "Manage access"
+msgstr "Manage access"
+
+#: base/admin.csv:39 
+msgid "My Applications"
+msgstr "My Applications"
+
+#: base/admin.csv:40 
+msgid "My information"
+msgstr "My information"
+
+#: base/admin.csv:41 
+msgid "Need some help?"
+msgstr "Need some help?"
+
+#: base/admin.csv:42 
+msgid "New user registration on your platform"
+msgstr "New user registration on your platform"
+
+#: base/admin.csv:43 
+msgid "No account for now."
+msgstr "No account for now."
+
+#: base/admin.csv:44 
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+#: base/admin.csv:45 
+msgid "Please, enter an application name"
+msgstr "Please, enter an application name"
+
+#: base/admin.csv:46 
+msgid "Publication access type"
+msgstr "Publication access type"
+
+#: base/admin.csv:47 
+msgid "Ready to create your own apps?"
+msgstr "Ready to create your own apps?"
+
+#: base/admin.csv:48 
+msgid "Role"
+msgstr "Role"
+
+#: base/admin.csv:49 
+msgid "Show All Applications"
+msgstr "Show All Applications"
+
+#: base/admin.csv:50 
+msgid "Sign up"
+msgstr "Sign up"
+
+#: base/admin.csv:51 
+msgid "Sorry but an error occured while duplicating your application."
+msgstr "Sorry but an error occured while duplicating your application."
+
+#: base/admin.csv:52 
+msgid "State/Province"
+msgstr "State/Province"
+
+#: base/admin.csv:53 
+msgid "Thanks for choosing us!"
+msgstr "Thanks for choosing us!"
+
+#: base/admin.csv:54 
+msgid "The Support Team"
+msgstr "The Support Team"
+
+#: base/admin.csv:55 
+msgid "The account role is required"
+msgstr "The account role is required"
+
+#: base/admin.csv:56 
+msgid "The password and the confirmation does not match."
+msgstr "The password and the confirmation does not match."
+
+#: base/admin.csv:57 
+msgid "The password must be at least 6 characters."
+msgstr "The password must be at least 6 characters."
+
+#: base/admin.csv:58 
+msgid "This account is not activated yet. Please contact an administrator."
+msgstr "This account is not activated yet. Please contact an administrator."
+
+#: base/admin.csv:59 
+msgid "This admin can manage guided tour from editor"
+msgstr "This admin can manage guided tour from editor"
+
+#: base/admin.csv:60 
+msgid "This user has no applications yet."
+msgstr "This user has no applications yet."
+
+#: base/admin.csv:61 
+msgid "User successfully deleted"
+msgstr "User successfully deleted"
+
+#: base/admin.csv:62 
+msgid "View my current data"
+msgstr "View my current data"
+
+#: base/admin.csv:63 
+msgid "We are sorry but this email address is already used."
+msgstr "We are sorry but this email address is already used."
+
+#: base/admin.csv:64 
+msgid "Welcome!"
+msgstr "Welcome!"
+
+#: base/admin.csv:65 
+msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+msgstr "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+
+#: base/admin.csv:66 
+msgid "You can't delete the main account"
+msgstr "You can't delete the main account"
+
+#: base/admin.csv:67 
+msgid "You don't have any users yet"
+msgstr "You don't have any users yet"
+
+#: base/admin.csv:68 
+msgid "Your account have been created successfully. It will be activated soon."
+msgstr "Your account have been created successfully. It will be activated soon."
+
+#: base/admin.csv:69 
+msgid "Your credentials"
+msgstr "Your credentials"
+
+#: base/admin.csv:70 
+msgid "Your login:"
+msgstr "Your login:"
+
+#: base/admin.csv:71 
+msgid "Your password:"
+msgstr "Your password:"
+
+#: base/admin.csv:72 
+msgid "Zip Code"
+msgstr "Zip Code"
+
+#: base/admin.csv:73 
+msgid "%s - Your new password"
+msgstr "%s - Your new password"
+
+#: base/admin.csv:74 
+msgid "to"
+msgstr "to"
+

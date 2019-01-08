@@ -1,0 +1,64 @@
+#: base/acl.csv:1 
+msgid "Actions"
+msgstr "Actions"
+
+#: base/acl.csv:2 
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr "An error occurred while deleting your role. Please, try again later."
+
+#: base/acl.csv:3 
+msgid "Code"
+msgstr "Code"
+
+#: base/acl.csv:4 
+msgid "Create a new role"
+msgstr "Create a new role"
+
+#: base/acl.csv:5 
+msgid "Delete"
+msgstr "Delete"
+
+#: base/acl.csv:6 
+msgid "Edit"
+msgstr "Edit"
+
+#: base/acl.csv:7 
+msgid "Edit %s role"
+msgstr "Edit %s role"
+
+#: base/acl.csv:8 
+msgid "Id"
+msgstr "Id"
+
+#: base/acl.csv:9 
+msgid "Label"
+msgstr "Label"
+
+#: base/acl.csv:10 
+msgid "List of your roles"
+msgstr "List of your roles"
+
+#: base/acl.csv:11 
+msgid "Role"
+msgstr "Role"
+
+#: base/acl.csv:12 
+msgid "Search"
+msgstr "Search"
+
+#: base/acl.csv:13 
+msgid "This role will be the default one for the whole platform."
+msgstr "This role will be the default one for the whole platform."
+
+#: base/acl.csv:14 
+msgid "You don't have any role yet"
+msgstr "You don't have any role yet"
+
+#: base/acl.csv:15 
+msgid "Your role has been successfully deleted"
+msgstr "Your role has been successfully deleted"
+
+#: base/acl.csv:16 
+msgid "Your role has been successfully saved"
+msgstr "Your role has been successfully saved"
+

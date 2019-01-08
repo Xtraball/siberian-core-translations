@@ -1,0 +1,36 @@
+#: it/topic.csv:1 
+msgid "Are you sure you want to close without saving?"
+msgstr "Sei sicuro di voler chiudere senza salvare?"
+
+#: it/topic.csv:2 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Sei sicuro di voler cancellare questa categoria e tutte le sottocategorie?"
+
+#: it/topic.csv:3 
+msgid "Description"
+msgstr "Descrizione"
+
+#: it/topic.csv:4 
+msgid "Description successfully saved."
+msgstr "Descrizione salvata correttamente"
+
+#: it/topic.csv:5 
+msgid "Manage Topics"
+msgstr "Gestisci Argomenti"
+
+#: it/topic.csv:6 
+msgid "No topics for now."
+msgstr "Non ci sono Argomenti"
+
+#: it/topic.csv:7 
+msgid "Page description"
+msgstr "Descrizione pagina"
+
+#: it/topic.csv:8 
+msgid "Save"
+msgstr "Salva"
+
+#: it/topic.csv:9 
+msgid "Subscribe"
+msgstr "Aderisci"
+

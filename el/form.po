@@ -1,0 +1,124 @@
+#: el/form.csv:1 
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να έχει αριθμούς<br />"
+
+#: el/form.csv:2 
+msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία (π.χ. ηη/ΜΜ/ΕΕΕΕ)<br />"
+
+#: el/form.csv:3 
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία<br />"
+
+#: el/form.csv:4 
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι ένα έγκυρο E-mail<br />"
+
+#: el/form.csv:5 
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να συμπληρωθεί<br />"
+
+#: el/form.csv:6 
+msgid "Add a field"
+msgstr "Προσθήκη πεδίου"
+
+#: el/form.csv:7 
+msgid "Add a section"
+msgstr "Προσθήκη ενότητας"
+
+#: el/form.csv:8 
+msgid "Add an option"
+msgstr "Προσθήκη επιλογής"
+
+#: el/form.csv:9 
+msgid "An error occurred while saving. A field can't be identified."
+msgstr "Υπήρξε σφάλμα κατά την αποθήκευση. Κάθε πεδίο πρέπει να είναι προσδιορισμένο."
+
+#: el/form.csv:10 
+msgid "Are you sure you want to remove this field?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το πεδίο?"
+
+#: el/form.csv:11 
+msgid "Are you sure you want to remove this section?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ενότητα?"
+
+#: el/form.csv:12 
+msgid "Checkbox"
+msgstr "Κουτάκι επιλογής"
+
+#: el/form.csv:13 
+msgid "Choose a field type:"
+msgstr "Επιλογή τύπου πεδίου:"
+
+#: el/form.csv:14 
+msgid "Create a new field"
+msgstr "Δημιουργία νέου πεδίου"
+
+#: el/form.csv:15 
+msgid "Date/Hour"
+msgstr "Ημ/νία / ώρα"
+
+#: el/form.csv:16 
+msgid "Drop down"
+msgstr "Λίστα επιλογής"
+
+#: el/form.csv:17 
+msgid "Edit field %s"
+msgstr "Επεξεργασία πεδίου %s"
+
+#: el/form.csv:18 
+msgid "Field name"
+msgstr "Όνομα πεδίου"
+
+#: el/form.csv:19 
+msgid "Field name:"
+msgstr "Όνομα πεδίου:"
+
+#: el/form.csv:20 
+msgid "Geolocation"
+msgstr "Geolocation"
+
+#: el/form.csv:21 
+msgid "Hello,"
+msgstr "Γειά σας,"
+
+#: el/form.csv:22 
+msgid "Manage fields"
+msgstr "Διαχείριση πεδίων"
+
+#: el/form.csv:23 
+msgid "Manage options:"
+msgstr "Διαχείριση επιλογών:"
+
+#: el/form.csv:24 
+msgid "Multiline text"
+msgstr "Πεδίο κειμένου πολλαπλών γραμμών"
+
+#: el/form.csv:25 
+msgid "Option"
+msgstr "Επιλογή"
+
+#: el/form.csv:26 
+msgid "Radio"
+msgstr "Radio"
+
+#: el/form.csv:27 
+msgid "Recipient email:"
+msgstr "E-mail παραλήπτη:"
+
+#: el/form.csv:28 
+msgid "The form has been sent successfully"
+msgstr "Το μήνυμά σας εστάλει επιτυχώς"
+
+#: el/form.csv:29 
+msgid "You have to choose a field type."
+msgstr "Πρέπει να επιλέξετε έναν τύπο πεδίου."
+
+#: el/form.csv:30 
+msgid "Your app's form"
+msgstr "Φόρμα Επικοινωνίας από App"
+
+#: el/form.csv:31 
+msgid "Your form has been filled out, here are the answers:"
+msgstr "Η φόρμα σας συμπληρώθηκε επιτυχώς, δείτε τις απαντήσεις:"
+

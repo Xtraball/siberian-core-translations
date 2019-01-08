@@ -1,0 +1,1188 @@
+#: base/mcommerce.csv:1 
+msgid ": activate to sort column ascending"
+msgstr ": activate to sort column ascending"
+
+#: base/mcommerce.csv:2 
+msgid ": activate to sort column descending"
+msgstr ": activate to sort column descending"
+
+#: base/mcommerce.csv:3 
+msgid "1 points ="
+msgstr "1 points ="
+
+#: base/mcommerce.csv:4 
+msgid "20.00%"
+msgstr "20.00%"
+
+#: base/mcommerce.csv:5 
+msgid "Add Discount"
+msgstr "Add Discount"
+
+#: base/mcommerce.csv:6 
+msgid "Add a format"
+msgstr "Add a format"
+
+#: base/mcommerce.csv:7 
+msgid "Add card"
+msgstr "Add card"
+
+#: base/mcommerce.csv:8 
+msgid "Add gratuity (Optional)"
+msgstr "Add gratuity (Optional)"
+
+#: base/mcommerce.csv:9 
+msgid "Add options"
+msgstr "Add options"
+
+#: base/mcommerce.csv:10 
+msgid "Add pictures"
+msgstr "Add pictures"
+
+#: base/mcommerce.csv:11 
+msgid "Add to cart"
+msgstr "Add to cart"
+
+#: base/mcommerce.csv:12 
+msgid "All fields with a * are required."
+msgstr "All fields with a * are required."
+
+#: base/mcommerce.csv:13 
+msgid "Amount remaining:"
+msgstr "Amount remaining:"
+
+#: base/mcommerce.csv:14 
+msgid "Amount you will pay"
+msgstr "Amount you will pay"
+
+#: base/mcommerce.csv:15 
+msgid "An error occurred during the payment process."
+msgstr "An error occurred during the payment process."
+
+#: base/mcommerce.csv:16 
+msgid "An error occurred while cancelling. Please try again later."
+msgstr "An error occurred while cancelling. Please try again later."
+
+#: base/mcommerce.csv:17 
+msgid "An error occurred while proceeding the payment. Please, try again later."
+msgstr "An error occurred while proceeding the payment. Please, try again later."
+
+#: base/mcommerce.csv:18 
+msgid "An error occurred while proceeding your order:"
+msgstr "An error occurred while proceeding your order:"
+
+#: base/mcommerce.csv:19 
+msgid "An error occurred while proceeding your order. Please, check the following information:"
+msgstr "An error occurred while proceeding your order. Please, check the following information:"
+
+#: base/mcommerce.csv:20 
+msgid "Are you sure you want to close without saving"
+msgstr "Are you sure you want to close without saving"
+
+#: base/mcommerce.csv:21 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Are you sure you want to delete this category and all its subcategories?"
+
+#: base/mcommerce.csv:22 
+msgid "Are you sure you want to delete this store?"
+msgstr "Are you sure you want to delete this store?"
+
+#: base/mcommerce.csv:23 
+msgid "Are you sure you want to delete this tax?"
+msgstr "Are you sure you want to delete this tax?"
+
+#: base/mcommerce.csv:24 
+msgid "Are you sure you want to remove this product?"
+msgstr "Are you sure you want to remove this product?"
+
+#: base/mcommerce.csv:25 
+msgid "At least one option is required:"
+msgstr "At least one option is required:"
+
+#: base/mcommerce.csv:26 
+msgid "Birthday"
+msgstr "Birthday"
+
+#: base/mcommerce.csv:27 
+msgid "CVC"
+msgstr "CVC"
+
+#: base/mcommerce.csv:28 
+msgid "Calculate the change for the client"
+msgstr "Calculate the change for the client"
+
+#: base/mcommerce.csv:29 
+msgid "Cancel order"
+msgstr "Cancel order"
+
+#: base/mcommerce.csv:30 
+msgid "Cancelled"
+msgstr "Cancelled"
+
+#: base/mcommerce.csv:31 
+msgid "Card Number"
+msgstr "Card Number"
+
+#: base/mcommerce.csv:32 
+msgid "Carry Out"
+msgstr "Carry Out"
+
+#: base/mcommerce.csv:33 
+msgid "Cart"
+msgstr "Cart"
+
+#: base/mcommerce.csv:34 
+msgid "Cash"
+msgstr "Cash"
+
+#: base/mcommerce.csv:35 
+msgid "Category"
+msgstr "Category"
+
+#: base/mcommerce.csv:36 
+msgid "Category successfully saved."
+msgstr "Category successfully saved."
+
+#: base/mcommerce.csv:37 
+msgid "Check"
+msgstr "Check"
+
+#: base/mcommerce.csv:38 
+msgid "Choose a delivery method:"
+msgstr "Choose a delivery method:"
+
+#: base/mcommerce.csv:39 
+msgid "Choose a payment method:"
+msgstr "Choose a payment method:"
+
+#: base/mcommerce.csv:40 
+msgid "Choose a store"
+msgstr "Choose a store"
+
+#: base/mcommerce.csv:41 
+msgid "City"
+msgstr "City"
+
+#: base/mcommerce.csv:42 
+msgid "Client"
+msgstr "Client"
+
+#: base/mcommerce.csv:43 
+msgid "Client will pay"
+msgstr "Client will pay"
+
+#: base/mcommerce.csv:44 
+msgid "Code"
+msgstr "Code"
+
+#: base/mcommerce.csv:45 
+msgid "Code used"
+msgstr "Code used"
+
+#: base/mcommerce.csv:46 
+msgid "Completed"
+msgstr "Completed"
+
+#: base/mcommerce.csv:47 
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: base/mcommerce.csv:48 
+msgid "Connected Printers"
+msgstr "Connected Printers"
+
+#: base/mcommerce.csv:49 
+msgid "Continue shopping"
+msgstr "Continue shopping"
+
+#: base/mcommerce.csv:50 
+msgid "Create a new choice list group"
+msgstr "Create a new choice list group"
+
+#: base/mcommerce.csv:51 
+msgid "Create a new discount"
+msgstr "Create a new discount"
+
+#: base/mcommerce.csv:52 
+msgid "Create a new options group"
+msgstr "Create a new options group"
+
+#: base/mcommerce.csv:53 
+msgid "Create a new product"
+msgstr "Create a new product"
+
+#: base/mcommerce.csv:54 
+msgid "Create a new tax"
+msgstr "Create a new tax"
+
+#: base/mcommerce.csv:55 
+msgid "Create a store"
+msgstr "Create a store"
+
+#: base/mcommerce.csv:56 
+msgid "Credit Card by phone"
+msgstr "Credit Card by phone"
+
+#: base/mcommerce.csv:57 
+msgid "Credit card (online payment)"
+msgstr "Credit card (online payment)"
+
+#: base/mcommerce.csv:58 
+msgid "Credit card (pay upon pickup or delivery)"
+msgstr "Credit card (pay upon pickup or delivery)"
+
+#: base/mcommerce.csv:59 
+msgid "Credit card payment"
+msgstr "Credit card payment"
+
+#: base/mcommerce.csv:60 
+msgid "Customer"
+msgstr "Customer"
+
+#: base/mcommerce.csv:61 
+msgid "Customer Service"
+msgstr "Customer Service"
+
+#: base/mcommerce.csv:62 
+msgid "Customer can add tip to a command?"
+msgstr "Customer can add tip to a command?"
+
+#: base/mcommerce.csv:63 
+msgid "Date of birth"
+msgstr "Date of birth"
+
+#: base/mcommerce.csv:64 
+msgid "Deductable"
+msgstr "Deductable"
+
+#: base/mcommerce.csv:65 
+msgid "Deduction"
+msgstr "Deduction"
+
+#: base/mcommerce.csv:66 
+msgid "Delete"
+msgstr "Delete"
+
+#: base/mcommerce.csv:67 
+msgid "Delivery"
+msgstr "Delivery"
+
+#: base/mcommerce.csv:68 
+msgid "Delivery Fees"
+msgstr "Delivery Fees"
+
+#: base/mcommerce.csv:69 
+msgid "Delivery Method"
+msgstr "Delivery Method"
+
+#: base/mcommerce.csv:70 
+msgid "Delivery address"
+msgstr "Delivery address"
+
+#: base/mcommerce.csv:71 
+msgid "Delivery area"
+msgstr "Delivery area"
+
+#: base/mcommerce.csv:72 
+msgid "Delivery fees"
+msgstr "Delivery fees"
+
+#: base/mcommerce.csv:73 
+msgid "Delivery methods"
+msgstr "Delivery methods"
+
+#: base/mcommerce.csv:74 
+msgid "Delivery radius"
+msgstr "Delivery radius"
+
+#: base/mcommerce.csv:75 
+msgid "Delivery time"
+msgstr "Delivery time"
+
+#: base/mcommerce.csv:76 
+msgid "Details"
+msgstr "Details"
+
+#: base/mcommerce.csv:77 
+msgid "Discound code"
+msgstr "Discound code"
+
+#: base/mcommerce.csv:78 
+msgid "Discount"
+msgstr "Discount"
+
+#: base/mcommerce.csv:79 
+msgid "Discount Settings"
+msgstr "Discount Settings"
+
+#: base/mcommerce.csv:80 
+msgid "Discount amount"
+msgstr "Discount amount"
+
+#: base/mcommerce.csv:81 
+msgid "Discount amount si very high"
+msgstr "Discount amount si very high"
+
+#: base/mcommerce.csv:82 
+msgid "Discount code"
+msgstr "Discount code"
+
+#: base/mcommerce.csv:83 
+msgid "Discount code already exists"
+msgstr "Discount code already exists"
+
+#: base/mcommerce.csv:84 
+msgid "Discount code is missing"
+msgstr "Discount code is missing"
+
+#: base/mcommerce.csv:85 
+msgid "Discount label is missing"
+msgstr "Discount label is missing"
+
+#: base/mcommerce.csv:86 
+msgid "Discount minimum amount is missing"
+msgstr "Discount minimum amount is missing"
+
+#: base/mcommerce.csv:87 
+msgid "Discount no longer available"
+msgstr "Discount no longer available"
+
+#: base/mcommerce.csv:88 
+msgid "Discount only for carts with total more than: "
+msgstr "Discount only for carts with total more than: "
+
+#: base/mcommerce.csv:89 
+msgid "Discount settings"
+msgstr "Discount settings"
+
+#: base/mcommerce.csv:90 
+msgid "Discount total"
+msgstr "Discount total"
+
+#: base/mcommerce.csv:91 
+msgid "Discount type"
+msgstr "Discount type"
+
+#: base/mcommerce.csv:92 
+msgid "Discount type is missing"
+msgstr "Discount type is missing"
+
+#: base/mcommerce.csv:93 
+msgid "Discount used"
+msgstr "Discount used"
+
+#: base/mcommerce.csv:94 
+msgid "Discount validation date"
+msgstr "Discount validation date"
+
+#: base/mcommerce.csv:95 
+msgid "Discounted amount is missing"
+msgstr "Discounted amount is missing"
+
+#: base/mcommerce.csv:96 
+msgid "Discounted amount should be a positive number"
+msgstr "Discounted amount should be a positive number"
+
+#: base/mcommerce.csv:97 
+msgid "Do you confirm you want to remove your card?"
+msgstr "Do you confirm you want to remove your card?"
+
+#: base/mcommerce.csv:98 
+msgid "Done"
+msgstr "Done"
+
+#: base/mcommerce.csv:99 
+msgid "Duplicate this product"
+msgstr "Duplicate this product"
+
+#: base/mcommerce.csv:100 
+msgid "Edit a store"
+msgstr "Edit a store"
+
+#: base/mcommerce.csv:101 
+msgid "Edit the choice list group"
+msgstr "Edit the choice list group"
+
+#: base/mcommerce.csv:102 
+msgid "Edit the discount %s"
+msgstr "Edit the discount %s"
+
+#: base/mcommerce.csv:103 
+msgid "Edit the options group %s"
+msgstr "Edit the options group %s"
+
+#: base/mcommerce.csv:104 
+msgid "Edit the product %s"
+msgstr "Edit the product %s"
+
+#: base/mcommerce.csv:105 
+msgid "Edit the tax %s"
+msgstr "Edit the tax %s"
+
+#: base/mcommerce.csv:106 
+msgid "Email"
+msgstr "Email"
+
+#: base/mcommerce.csv:107 
+msgid "Enabled"
+msgstr "Enabled"
+
+#: base/mcommerce.csv:108 
+msgid "Error while using your points"
+msgstr "Error while using your points"
+
+#: base/mcommerce.csv:109 
+msgid "Estimated discount:"
+msgstr "Estimated discount:"
+
+#: base/mcommerce.csv:110 
+msgid "First"
+msgstr "First"
+
+#: base/mcommerce.csv:111 
+msgid "First Name"
+msgstr "First Name"
+
+#: base/mcommerce.csv:112 
+msgid "Firstname"
+msgstr "Firstname"
+
+#: base/mcommerce.csv:113 
+msgid "Format:"
+msgstr "Format:"
+
+#: base/mcommerce.csv:114 
+msgid "Free delivery starting from"
+msgstr "Free delivery starting from"
+
+#: base/mcommerce.csv:115 
+msgid "Free purchase"
+msgstr "Free purchase"
+
+#: base/mcommerce.csv:116 
+msgid "From"
+msgstr "From"
+
+#: base/mcommerce.csv:117 
+msgid "Gratuity"
+msgstr "Gratuity"
+
+#: base/mcommerce.csv:118 
+msgid "Guest Order"
+msgstr "Guest Order"
+
+#: base/mcommerce.csv:119 
+msgid "Here is the detail of the order"
+msgstr "Here is the detail of the order"
+
+#: base/mcommerce.csv:120 
+msgid "Here is the detail of your order"
+msgstr "Here is the detail of your order"
+
+#: base/mcommerce.csv:121 
+msgid "Hidden"
+msgstr "Hidden"
+
+#: base/mcommerce.csv:122 
+msgid "Hours of operation"
+msgstr "Hours of operation"
+
+#: base/mcommerce.csv:123 
+msgid "I will pay"
+msgstr "I will pay"
+
+#: base/mcommerce.csv:124 
+msgid "In store"
+msgstr "In store"
+
+#: base/mcommerce.csv:125 
+msgid "Incl."
+msgstr "Incl."
+
+#: base/mcommerce.csv:126 
+msgid "Invalid code"
+msgstr "Invalid code"
+
+#: base/mcommerce.csv:127 
+msgid "Invoicing address"
+msgstr "Invoicing address"
+
+#: base/mcommerce.csv:128 
+msgid "Keep card information"
+msgstr "Keep card information"
+
+#: base/mcommerce.csv:129 
+msgid "Label"
+msgstr "Label"
+
+#: base/mcommerce.csv:130 
+msgid "Last"
+msgstr "Last"
+
+#: base/mcommerce.csv:131 
+msgid "Last Name"
+msgstr "Last Name"
+
+#: base/mcommerce.csv:132 
+msgid "Lastname"
+msgstr "Lastname"
+
+#: base/mcommerce.csv:133 
+msgid "Loading..."
+msgstr "Loading..."
+
+#: base/mcommerce.csv:134 
+msgid "Login"
+msgstr "Login"
+
+#: base/mcommerce.csv:135 
+msgid "MM"
+msgstr "MM"
+
+#: base/mcommerce.csv:136 
+msgid "Manage discounts"
+msgstr "Manage discounts"
+
+#: base/mcommerce.csv:137 
+msgid "Manage user fields"
+msgstr "Manage user fields"
+
+#: base/mcommerce.csv:138 
+msgid "Mandatory"
+msgstr "Mandatory"
+
+#: base/mcommerce.csv:139 
+msgid "Meal Voucher"
+msgstr "Meal Voucher"
+
+#: base/mcommerce.csv:140 
+msgid "Merchant ID:"
+msgstr "Merchant ID:"
+
+#: base/mcommerce.csv:141 
+msgid "Minimum amount"
+msgstr "Minimum amount"
+
+#: base/mcommerce.csv:142 
+msgid "Minimum amount should be a positive number"
+msgstr "Minimum amount should be a positive number"
+
+#: base/mcommerce.csv:143 
+msgid "Minimum order"
+msgstr "Minimum order"
+
+#: base/mcommerce.csv:144 
+msgid "My Cart"
+msgstr "My Cart"
+
+#: base/mcommerce.csv:145 
+msgid "My cart is empty"
+msgstr "My cart is empty"
+
+#: base/mcommerce.csv:146 
+msgid "My categories"
+msgstr "My categories"
+
+#: base/mcommerce.csv:147 
+msgid "My information"
+msgstr "My information"
+
+#: base/mcommerce.csv:148 
+msgid "My orders"
+msgstr "My orders"
+
+#: base/mcommerce.csv:149 
+msgid "My products"
+msgstr "My products"
+
+#: base/mcommerce.csv:150 
+msgid "My product's categories"
+msgstr "My product's categories"
+
+#: base/mcommerce.csv:151 
+msgid "My product's list choice options"
+msgstr "My product's list choice options"
+
+#: base/mcommerce.csv:152 
+msgid "My product's options"
+msgstr "My product's options"
+
+#: base/mcommerce.csv:153 
+msgid "My stores"
+msgstr "My stores"
+
+#: base/mcommerce.csv:154 
+msgid "My taxes"
+msgstr "My taxes"
+
+#: base/mcommerce.csv:155 
+msgid "Name of the options group:"
+msgstr "Name of the options group:"
+
+#: base/mcommerce.csv:156 
+msgid "New order from the application"
+msgstr "New order from the application"
+
+#: base/mcommerce.csv:157 
+msgid "Next"
+msgstr "Next"
+
+#: base/mcommerce.csv:158 
+msgid "No data available in table"
+msgstr "No data available in table"
+
+#: base/mcommerce.csv:159 
+msgid "No matching records found"
+msgstr "No matching records found"
+
+#: base/mcommerce.csv:160 
+msgid "Notes"
+msgstr "Notes"
+
+#: base/mcommerce.csv:161 
+msgid "Number"
+msgstr "Number"
+
+#: base/mcommerce.csv:162 
+msgid "Option $1 is required."
+msgstr "Option $1 is required."
+
+#: base/mcommerce.csv:163 
+msgid "Option name"
+msgstr "Option name"
+
+#: base/mcommerce.csv:164 
+msgid "Optional"
+msgstr "Optional"
+
+#: base/mcommerce.csv:165 
+msgid "Options"
+msgstr "Options"
+
+#: base/mcommerce.csv:166 
+msgid "Options group successfully deleted"
+msgstr "Options group successfully deleted"
+
+#: base/mcommerce.csv:167 
+msgid "Options group successfully saved"
+msgstr "Options group successfully saved"
+
+#: base/mcommerce.csv:168 
+msgid "Order Number"
+msgstr "Order Number"
+
+#: base/mcommerce.csv:169 
+msgid "Order N°"
+msgstr "Order N°"
+
+#: base/mcommerce.csv:170 
+msgid "Order Total"
+msgstr "Order Total"
+
+#: base/mcommerce.csv:171 
+msgid "Order confirmation"
+msgstr "Order confirmation"
+
+#: base/mcommerce.csv:172 
+msgid "Order details"
+msgstr "Order details"
+
+#: base/mcommerce.csv:173 
+msgid "Order history"
+msgstr "Order history"
+
+#: base/mcommerce.csv:174 
+msgid "Order %s cancelled"
+msgstr "Order %s cancelled"
+
+#: base/mcommerce.csv:175 
+msgid "Order successfully cancelled"
+msgstr "Order successfully cancelled"
+
+#: base/mcommerce.csv:176 
+msgid "Order successfully saved"
+msgstr "Order successfully saved"
+
+#: base/mcommerce.csv:177 
+msgid "Orders"
+msgstr "Orders"
+
+#: base/mcommerce.csv:178 
+msgid "Paid"
+msgstr "Paid"
+
+#: base/mcommerce.csv:179 
+msgid "Paid by the client:"
+msgstr "Paid by the client:"
+
+#: base/mcommerce.csv:180 
+msgid "Password"
+msgstr "Password"
+
+#: base/mcommerce.csv:181 
+msgid "Pay"
+msgstr "Pay"
+
+#: base/mcommerce.csv:182 
+msgid "Payment"
+msgstr "Payment"
+
+#: base/mcommerce.csv:183 
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: base/mcommerce.csv:184 
+msgid "Payment methods:"
+msgstr "Payment methods:"
+
+#: base/mcommerce.csv:185 
+msgid "Paypal"
+msgstr "Paypal"
+
+#: base/mcommerce.csv:186 
+msgid "Paypal settings"
+msgstr "Paypal settings"
+
+#: base/mcommerce.csv:187 
+msgid "Pending payment"
+msgstr "Pending payment"
+
+#: base/mcommerce.csv:188 
+msgid "Percentage is a least 1%, at max 99%"
+msgstr "Percentage is a least 1%, at max 99%"
+
+#: base/mcommerce.csv:189 
+msgid "Percentage must be at least 1 percent, at most 99 percent"
+msgstr "Percentage must be at least 1 percent, at most 99 percent"
+
+#: base/mcommerce.csv:190 
+msgid "Permit unregistered user to make order?"
+msgstr "Permit unregistered user to make order?"
+
+#: base/mcommerce.csv:191 
+msgid "Phone"
+msgstr "Phone"
+
+#: base/mcommerce.csv:192 
+msgid "Phone number"
+msgstr "Phone number"
+
+#: base/mcommerce.csv:193 
+msgid "Picture"
+msgstr "Picture"
+
+#: base/mcommerce.csv:194 
+msgid "Please choose a delivery method"
+msgstr "Please choose a delivery method"
+
+#: base/mcommerce.csv:195 
+msgid "Please choose a payment method"
+msgstr "Please choose a payment method"
+
+#: base/mcommerce.csv:196 
+msgid "Please, enter an email address for the store %s"
+msgstr "Please, enter an email address for the store %s"
+
+#: base/mcommerce.csv:197 
+msgid "Please fill in your card information to process Credit card payment:"
+msgstr "Please fill in your card information to process Credit card payment:"
+
+#: base/mcommerce.csv:198 
+msgid "Points"
+msgstr "Points"
+
+#: base/mcommerce.csv:199 
+msgid "Points available:"
+msgstr "Points available:"
+
+#: base/mcommerce.csv:200 
+msgid "Postcode"
+msgstr "Postcode"
+
+#: base/mcommerce.csv:201 
+msgid "Previous"
+msgstr "Previous"
+
+#: base/mcommerce.csv:202 
+msgid "Price"
+msgstr "Price"
+
+#: base/mcommerce.csv:203 
+msgid "Price: %s"
+msgstr "Price: %s"
+
+#: base/mcommerce.csv:204 
+msgid "Prices"
+msgstr "Prices"
+
+#: base/mcommerce.csv:205 
+msgid "Printer successfully saved"
+msgstr "Printer successfully saved"
+
+#: base/mcommerce.csv:206 
+msgid "Proceed"
+msgstr "Proceed"
+
+#: base/mcommerce.csv:207 
+msgid "Processing..."
+msgstr "Processing..."
+
+#: base/mcommerce.csv:208 
+msgid "Product"
+msgstr "Product"
+
+#: base/mcommerce.csv:209 
+msgid "Product formats"
+msgstr "Product formats"
+
+#: base/mcommerce.csv:210 
+msgid "Product name"
+msgstr "Product name"
+
+#: base/mcommerce.csv:211 
+msgid "Product successfully duplicated"
+msgstr "Product successfully duplicated"
+
+#: base/mcommerce.csv:212 
+msgid "Product successfully saved"
+msgstr "Product successfully saved"
+
+#: base/mcommerce.csv:213 
+msgid "Publishable Key:"
+msgstr "Publishable Key:"
+
+#: base/mcommerce.csv:214 
+msgid "Qty"
+msgstr "Qty"
+
+#: base/mcommerce.csv:215 
+msgid "Qty: %s"
+msgstr "Qty: %s"
+
+#: base/mcommerce.csv:216 
+msgid "Radius in Km"
+msgstr "Radius in Km"
+
+#: base/mcommerce.csv:217 
+msgid "Remaining amount due"
+msgstr "Remaining amount due"
+
+#: base/mcommerce.csv:218 
+msgid "Remaining due"
+msgstr "Remaining due"
+
+#: base/mcommerce.csv:219 
+msgid "Remove card"
+msgstr "Remove card"
+
+#: base/mcommerce.csv:220 
+msgid "Return URL:"
+msgstr "Return URL:"
+
+#: base/mcommerce.csv:221 
+msgid "Review"
+msgstr "Review"
+
+#: base/mcommerce.csv:222 
+msgid "Search:"
+msgstr "Search:"
+
+#: base/mcommerce.csv:223 
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: base/mcommerce.csv:224 
+msgid "Settings"
+msgstr "Settings"
+
+#: base/mcommerce.csv:225 
+msgid "Settings successfully saved"
+msgstr "Settings successfully saved"
+
+#: base/mcommerce.csv:226 
+msgid "Show _MENU_ entries"
+msgstr "Show _MENU_ entries"
+
+#: base/mcommerce.csv:227 
+msgid "Show search fields on product list ?"
+msgstr "Show search fields on product list ?"
+
+#: base/mcommerce.csv:228 
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Showing 0 to 0 of 0 entries"
+
+#: base/mcommerce.csv:229 
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Showing _START_ to _END_ of _TOTAL_ entries"
+
+#: base/mcommerce.csv:230 
+msgid "Signature"
+msgstr "Signature"
+
+#: base/mcommerce.csv:231 
+msgid "Signup"
+msgstr "Signup"
+
+#: base/mcommerce.csv:232 
+msgid "Some mandatory fields are empty."
+msgstr "Some mandatory fields are empty."
+
+#: base/mcommerce.csv:233 
+msgid "Sorry we can't proceed to deliver your order. It has been canceled."
+msgstr "Sorry we can't proceed to deliver your order. It has been canceled."
+
+#: base/mcommerce.csv:234 
+msgid "Status"
+msgstr "Status"
+
+#: base/mcommerce.csv:235 
+msgid "Store choice"
+msgstr "Store choice"
+
+#: base/mcommerce.csv:236 
+msgid "Store information"
+msgstr "Store information"
+
+#: base/mcommerce.csv:237 
+msgid "Store name"
+msgstr "Store name"
+
+#: base/mcommerce.csv:238 
+msgid "Store successfully deleted"
+msgstr "Store successfully deleted"
+
+#: base/mcommerce.csv:239 
+msgid "Store successfully saved"
+msgstr "Store successfully saved"
+
+#: base/mcommerce.csv:240 
+msgid "Stored card information."
+msgstr "Stored card information."
+
+#: base/mcommerce.csv:241 
+msgid "Stores"
+msgstr "Stores"
+
+#: base/mcommerce.csv:242 
+msgid "Street"
+msgstr "Street"
+
+#: base/mcommerce.csv:243 
+msgid "Stripe settings"
+msgstr "Stripe settings"
+
+#: base/mcommerce.csv:244 
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: base/mcommerce.csv:245 
+msgid "Subtotal Excl. Tax"
+msgstr "Subtotal Excl. Tax"
+
+#: base/mcommerce.csv:246 
+msgid "Subtotal before deduction"
+msgstr "Subtotal before deduction"
+
+#: base/mcommerce.csv:247 
+msgid "Tax"
+msgstr "Tax"
+
+#: base/mcommerce.csv:248 
+msgid "Tax name"
+msgstr "Tax name"
+
+#: base/mcommerce.csv:249 
+msgid "Tax rate"
+msgstr "Tax rate"
+
+#: base/mcommerce.csv:250 
+msgid "Tax successfully deleted"
+msgstr "Tax successfully deleted"
+
+#: base/mcommerce.csv:251 
+msgid "Tax successfully saved"
+msgstr "Tax successfully saved"
+
+#: base/mcommerce.csv:252 
+msgid "Thank you!"
+msgstr "Thank you!"
+
+#: base/mcommerce.csv:253 
+msgid "The clients calculate the change:"
+msgstr "The clients calculate the change:"
+
+#: base/mcommerce.csv:254 
+msgid "The delivery method"
+msgstr "The delivery method"
+
+#: base/mcommerce.csv:255 
+msgid "The following options are required:<br />%s"
+msgstr "The following options are required:<br />%s"
+
+#: base/mcommerce.csv:256 
+msgid "The option %s is required"
+msgstr "The option %s is required"
+
+#: base/mcommerce.csv:257 
+msgid "The payment has been cancelled, something wrong happened? Feel free to contact us"
+msgstr "The payment has been cancelled, something wrong happened? Feel free to contact us"
+
+#: base/mcommerce.csv:258 
+msgid "The payment method"
+msgstr "The payment method"
+
+#: base/mcommerce.csv:259 
+msgid "Time in minutes"
+msgstr "Time in minutes"
+
+#: base/mcommerce.csv:260 
+msgid "Tip"
+msgstr "Tip"
+
+#: base/mcommerce.csv:261 
+msgid "Total"
+msgstr "Total"
+
+#: base/mcommerce.csv:262 
+msgid "Total Excl. Tax"
+msgstr "Total Excl. Tax"
+
+#: base/mcommerce.csv:263 
+msgid "Total Tax"
+msgstr "Total Tax"
+
+#: base/mcommerce.csv:264 
+msgid "Total: %s"
+msgstr "Total: %s"
+
+#: base/mcommerce.csv:265 
+msgid "Unable to proceed to checkout the minimum order amount is %s"
+msgstr "Unable to proceed to checkout the minimum order amount is %s"
+
+#: base/mcommerce.csv:266 
+msgid "Unit Price"
+msgstr "Unit Price"
+
+#: base/mcommerce.csv:267 
+msgid "Unit price"
+msgstr "Unit price"
+
+#: base/mcommerce.csv:268 
+msgid "Updating price"
+msgstr "Updating price"
+
+#: base/mcommerce.csv:269 
+msgid "Usable once"
+msgstr "Usable once"
+
+#: base/mcommerce.csv:270 
+msgid "Use:"
+msgstr "Use:"
+
+#: base/mcommerce.csv:271 
+msgid "Use my points?"
+msgstr "Use my points?"
+
+#: base/mcommerce.csv:272 
+msgid "Username"
+msgstr "Username"
+
+#: base/mcommerce.csv:273 
+msgid "Validity date"
+msgstr "Validity date"
+
+#: base/mcommerce.csv:274 
+msgid "Validity date should be a valid date"
+msgstr "Validity date should be a valid date"
+
+#: base/mcommerce.csv:275 
+msgid "Verify Key:"
+msgstr "Verify Key:"
+
+#: base/mcommerce.csv:276 
+msgid "Waiting for payment"
+msgstr "Waiting for payment"
+
+#: base/mcommerce.csv:277 
+msgid "We apologize but the payment method %s is currently not available"
+msgstr "We apologize but the payment method %s is currently not available"
+
+#: base/mcommerce.csv:278 
+msgid "We thank you for your order. A confirmation email has been sent"
+msgstr "We thank you for your order. A confirmation email has been sent"
+
+#: base/mcommerce.csv:279 
+msgid "YYYY"
+msgstr "YYYY"
+
+#: base/mcommerce.csv:280 
+msgid "You did not login."
+msgstr "You did not login."
+
+#: base/mcommerce.csv:281 
+msgid "You don't have any categories yet"
+msgstr "You don't have any categories yet"
+
+#: base/mcommerce.csv:282 
+msgid "You don't have enough points"
+msgstr "You don't have enough points"
+
+#: base/mcommerce.csv:283 
+msgid "You have a connected printer? Enter the email address"
+msgstr "You have a connected printer? Enter the email address"
+
+#: base/mcommerce.csv:284 
+msgid "You have a connected printer? Enter the email address for each store"
+msgstr "You have a connected printer? Enter the email address for each store"
+
+#: base/mcommerce.csv:285 
+msgid "You have to choose a delivery method."
+msgstr "You have to choose a delivery method."
+
+#: base/mcommerce.csv:286 
+msgid "You must be logged in to continue"
+msgstr "You must be logged in to continue"
+
+#: base/mcommerce.csv:287 
+msgid "You used the code before"
+msgstr "You used the code before"
+
+#: base/mcommerce.csv:288 
+msgid "Your address"
+msgstr "Your address"
+
+#: base/mcommerce.csv:289 
+msgid "Your email address"
+msgstr "Your email address"
+
+#: base/mcommerce.csv:290 
+msgid "Your firstname"
+msgstr "Your firstname"
+
+#: base/mcommerce.csv:291 
+msgid "Your lastname"
+msgstr "Your lastname"
+
+#: base/mcommerce.csv:292 
+msgid "Your phone number"
+msgstr "Your phone number"
+
+#: base/mcommerce.csv:293 
+msgid "e.g., Sauces"
+msgstr "e.g., Sauces"
+
+#: base/mcommerce.csv:294 
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtered from _MAX_ total entries)"
+
+#: base/mcommerce.csv:295 
+msgid "%s - Customer Service"
+msgstr "%s - Customer Service"
+
+#: base/mcommerce.csv:296 
+msgid "without taxes"
+msgstr "without taxes"
+
+#: base/mcommerce.csv:297 
+msgid "your choice"
+msgstr "your choice"
+

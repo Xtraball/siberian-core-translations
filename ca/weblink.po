@@ -1,0 +1,48 @@
+#: ca/weblink.csv:1 
+msgid "Add a link"
+msgstr "Afegir un enllaç"
+
+#: ca/weblink.csv:2 
+msgid "An error occurred while saving your picto. Please try againg later."
+msgstr "S'ha produït un error mentre es desava el teu picto. Si us plau intenti againg lluita més tard."
+
+#: ca/weblink.csv:3 
+msgid "Are you sure you want to delete this link?"
+msgstr "Esteu segur que voleu suprimir aquest enllaç?"
+
+#: ca/weblink.csv:4 
+msgid "Are you sure you want to delete this picture?"
+msgstr "Esteu segur que voleu suprimir aquesta imatge?"
+
+#: ca/weblink.csv:5 
+msgid "Link"
+msgstr "Enllaç"
+
+#: ca/weblink.csv:6 
+msgid "Link has been successfully deleted"
+msgstr "Enllaç s'ha suprimit correctament"
+
+#: ca/weblink.csv:7 
+msgid "Link has been successfully saved"
+msgstr "Enllaç s'ha desat correctament"
+
+#: ca/weblink.csv:8 
+msgid "Link:"
+msgstr "Enllaç:"
+
+#: ca/weblink.csv:9 
+msgid "Picto"
+msgstr "Picto"
+
+#: ca/weblink.csv:10 
+msgid "The image has been successfully deleted"
+msgstr "La imatge s'ha suprimit correctament"
+
+#: ca/weblink.csv:11 
+msgid "The image has been successfully saved"
+msgstr "La imatge s'ha desat correctament"
+
+#: ca/weblink.csv:12 
+msgid "Your links"
+msgstr "Seus vincles"
+

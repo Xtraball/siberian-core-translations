@@ -1,0 +1,80 @@
+#: fr/backoffice.csv:1 
+msgid "%d Unread Message"
+msgstr "%d message non lus"
+
+#: fr/backoffice.csv:2 
+msgid "%d Unread Messages"
+msgstr "%d messages non lus"
+
+#: fr/backoffice.csv:3 
+msgid "Account"
+msgstr "Compte"
+
+#: fr/backoffice.csv:4 
+msgid "Change the password"
+msgstr "Changer le mot de passe"
+
+#: fr/backoffice.csv:5 
+msgid "Click to mark as not read"
+msgstr "Cliquez pour marquer comme non lu"
+
+#: fr/backoffice.csv:6 
+msgid "Click to mark as read"
+msgstr "Cliquez pour marquer comme lu"
+
+#: fr/backoffice.csv:7 
+msgid "Create a user"
+msgstr "Créer un utilisateur"
+
+#: fr/backoffice.csv:8 
+msgid "Edit the account "%s""
+msgstr "Editer le compte "%s""
+
+#: fr/backoffice.csv:9 
+msgid "Edit the user"
+msgstr "Editer l'utilisateur"
+
+#: fr/backoffice.csv:10 
+msgid "Enter your credentials:"
+msgstr "Entrez vos informations:"
+
+#: fr/backoffice.csv:11 
+msgid "List of backoffice accounts"
+msgstr "Liste des comptes du backoffice"
+
+#: fr/backoffice.csv:12 
+msgid "List of the messages"
+msgstr "Liste des messages"
+
+#: fr/backoffice.csv:13 
+msgid "Login to your backoffice interface"
+msgstr "Connectez-vous à votre interface de backoffice"
+
+#: fr/backoffice.csv:14 
+msgid "People who are allowed to access the backoffice"
+msgstr "Les comptes qui sont autorisés à accéder au backoffice"
+
+#: fr/backoffice.csv:15 
+msgid "Siberian CMS"
+msgstr "Siberian CMS"
+
+#: fr/backoffice.csv:16 
+msgid "This account can't be deleted, it's the only one"
+msgstr "Ce compte ne peut pas être supprimé, il est le seul"
+
+#: fr/backoffice.csv:17 
+msgid "User successfully deleted"
+msgstr "Utilisateur supprimé avec succès"
+
+#: fr/backoffice.csv:18 
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: fr/backoffice.csv:19 
+msgid "Your new password"
+msgstr "Votre nouveau mot de passe"
+
+#: fr/backoffice.csv:20 
+msgid "Your password"
+msgstr "Votre mot de passe"
+

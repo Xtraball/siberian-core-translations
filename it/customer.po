@@ -1,0 +1,176 @@
+#: it/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "%s - Creazione account"
+
+#: it/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "%s - La tua nuova password"
+
+#: it/customer.csv:3 
+msgid "A request to reset your password has been made."
+msgstr "Una richiesta per reimpostare la password è stata inviata."
+
+#: it/customer.csv:4 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "Si è verificato un errore durante la connessione al proprio account Facebook. Si prega di riprovare più tardi"
+
+#: it/customer.csv:5 
+msgid "Are you sure you want to remove this user?"
+msgstr "Sei sicuro di voler rimuovere questo user?"
+
+#: it/customer.csv:6 
+msgid "Change Password"
+msgstr "Cambia password"
+
+#: it/customer.csv:7 
+msgid "Congratulations,"
+msgstr "Congratulazioni,"
+
+#: it/customer.csv:8 
+msgid "Create"
+msgstr "Crea"
+
+#: it/customer.csv:9 
+msgid "Create a new user"
+msgstr "Crea un nuovo user"
+
+#: it/customer.csv:10 
+msgid "Create an account"
+msgstr "Crea un account"
+
+#: it/customer.csv:11 
+msgid "Customer"
+msgstr "Cliente"
+
+#: it/customer.csv:12 
+msgid "Customers"
+msgstr "Clienti"
+
+#: it/customer.csv:13 
+msgid "Disconnect"
+msgstr "Disconnetti"
+
+#: it/customer.csv:14 
+msgid "Edit the user %s"
+msgstr "Modifica L'user %s"
+
+#: it/customer.csv:15 
+msgid "First name"
+msgstr "Nome"
+
+#: it/customer.csv:16 
+msgid "Forgot your password?"
+msgstr "Hai dimenticato la password?"
+
+#: it/customer.csv:17 
+msgid "Gender"
+msgstr "Genere"
+
+#: it/customer.csv:18 
+msgid "Here are your credentials:"
+msgstr "Ecco le tue credenziali"
+
+#: it/customer.csv:19 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Accetto la <u>privacy policy</u>"
+
+#: it/customer.csv:20 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Se hai problemi, non esitate a contattarci:"
+
+#: it/customer.csv:21 
+msgid "Last name"
+msgstr "Cognome"
+
+#: it/customer.csv:22 
+msgid "Login:"
+msgstr "Login:"
+
+#: it/customer.csv:23 
+msgid "Miss"
+msgstr "Sig.ina"
+
+#: it/customer.csv:24 
+msgid "Mr"
+msgstr "Sig."
+
+#: it/customer.csv:25 
+msgid "Mrs"
+msgstr "Sig.ra"
+
+#: it/customer.csv:26 
+msgid "My Account"
+msgstr "My account"
+
+#: it/customer.csv:27 
+msgid "My application's users"
+msgstr "Gli user della mia applicazione"
+
+#: it/customer.csv:28 
+msgid "Old Password"
+msgstr "Vecchia password"
+
+#: it/customer.csv:29 
+msgid "Or with your account"
+msgstr "o con il tuo account"
+
+#: it/customer.csv:30 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Inserisci il tuo indirizzo email. Ti invieremo la password."
+
+#: it/customer.csv:31 
+msgid "Please log in with your mobile phone"
+msgstr "Effettua il login con il tuo smartphone"
+
+#: it/customer.csv:32 
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: it/customer.csv:33 
+msgid "See you soon,"
+msgstr "Arrivederci,"
+
+#: it/customer.csv:34 
+msgid "Show me in ranking"
+msgstr "Mostrami in classifica"
+
+#: it/customer.csv:35 
+msgid "The old email address does not match the entered email address."
+msgstr "Il vecchio indirizzo email non corrisponde l'indirizzo e-mail inserito."
+
+#: it/customer.csv:36 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Questo utente può accedere alle pagine bloccate dalla funzionalità "Locker""
+
+#: it/customer.csv:37 
+msgid "This user is visible in ranking"
+msgstr "Questo utente è visibile in classifica"
+
+#: it/customer.csv:38 
+msgid "Title"
+msgstr "Titolo"
+
+#: it/customer.csv:39 
+msgid "User"
+msgstr "User"
+
+#: it/customer.csv:40 
+msgid "User Information"
+msgstr "Informazioni user"
+
+#: it/customer.csv:41 
+msgid "Users"
+msgstr "Users"
+
+#: it/customer.csv:42 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Ci dispiace ma l'account % s è già collegato a uno dei nostri clienti"
+
+#: it/customer.csv:43 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "Avete creato il vostro account. Con questo account, sarete in grado di godere di grandi offerte disponibili nella nostra applicazione."
+
+#: it/customer.csv:44 
+msgid "Your account has been successfully saved"
+msgstr "Il tuo account è stato salvato con successo"
+

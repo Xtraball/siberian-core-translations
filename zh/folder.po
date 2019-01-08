@@ -1,0 +1,60 @@
+#: zh/folder.csv:1 
+msgid "Add a page"
+msgstr "添加页面"
+
+#: zh/folder.csv:2 
+msgid "Click on"
+msgstr "点击"
+
+#: zh/folder.csv:3 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "点击页面上添加到文件夹 <span id="folder_name" class="folder_name">"%s"</span>"
+
+#: zh/folder.csv:4 
+msgid "Click on a page to add it to the folder"
+msgstr "点击页面上添加到文件夹"
+
+#: zh/folder.csv:5 
+msgid "Close mobile display"
+msgstr "关闭手机屏幕"
+
+#: zh/folder.csv:6 
+msgid "Delete this folder and all its subfolders?"
+msgstr "删除此文件夹及其所有子文件夹？"
+
+#: zh/folder.csv:7 
+msgid "Folder title is required"
+msgstr "所需的文件夹称号"
+
+#: zh/folder.csv:8 
+msgid "Folders"
+msgstr "文件夹"
+
+#: zh/folder.csv:9 
+msgid "Mobile display"
+msgstr "手机屏幕"
+
+#: zh/folder.csv:10 
+msgid "New folder"
+msgstr "新建文件夹"
+
+#: zh/folder.csv:11 
+msgid "Subtitle"
+msgstr "副标题"
+
+#: zh/folder.csv:12 
+msgid "You cannot add this feature"
+msgstr "你可以不加这个功能"
+
+#: zh/folder.csv:13 
+msgid "You must first complete the current category creation process"
+msgstr "你必须先完成创建类的当前进程"
+
+#: zh/folder.csv:14 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "你将失去所有未保存的更改，是否继续？"
+
+#: zh/folder.csv:15 
+msgid "to add a folder."
+msgstr "添加一个文件夹。"
+

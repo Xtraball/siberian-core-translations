@@ -1,0 +1,104 @@
+#: el/event.csv:1 
+msgid "An error occurred while deleting the event"
+msgstr "Παρουσιάστηκε σφάλμα κατά τη διαγραφή της εκδήλωσης"
+
+#: el/event.csv:2 
+msgid "An error occurred while loading this event"
+msgstr "Παρουσιάστηκε σφάλμα κατά τη φόρτωση αυτής της εκδήλωσης"
+
+#: el/event.csv:3 
+msgid "Beginning date:"
+msgstr "Ημ/νία έναρξης:"
+
+#: el/event.csv:4 
+msgid "Calendar successfully deleted"
+msgstr "Το ημερολόγια αποθηκεύτηκε επιτυχώς"
+
+#: el/event.csv:5 
+msgid "Calendar's URL"
+msgstr "Σύνδεσμος ημοερολογίου"
+
+#: el/event.csv:6 
+msgid "Calendar's title"
+msgstr "Τίτλος ημερολογίου"
+
+#: el/event.csv:7 
+msgid "Change picture"
+msgstr "Αλλαγή εικόνας"
+
+#: el/event.csv:8 
+msgid "Create a new event"
+msgstr "Δημιουργία νέου event"
+
+#: el/event.csv:9 
+msgid "Custom Page"
+msgstr "Προσαρμοσμένη σελίδα"
+
+#: el/event.csv:10 
+msgid "Delete this calendar?"
+msgstr "Διαγραφή αυτού του ημερολογίου?"
+
+#: el/event.csv:11 
+msgid "Delete this event?"
+msgstr "Διαγραφή αυτής της εκδήλωσης?"
+
+#: el/event.csv:12 
+msgid "Ending date:"
+msgstr "Ημ/νία λήξης:"
+
+#: el/event.csv:13 
+msgid "Enter your calendar's title"
+msgstr "Συμπληρώστε τον τίτλο του ημερολογίου σας"
+
+#: el/event.csv:14 
+msgid "Event"
+msgstr "Εκδήλωση"
+
+#: el/event.csv:15 
+msgid "Event successfully deleted"
+msgstr "Το event διεγράφη επιτυχώς"
+
+#: el/event.csv:16 
+msgid "Event successfully saved"
+msgstr "Το event αποθηκεύτηκε επιτυχώς"
+
+#: el/event.csv:17 
+msgid "Event title:"
+msgstr "Τίτλος Εκδήλωσης:"
+
+#: el/event.csv:18 
+msgid "Illustration"
+msgstr "Εικόνα"
+
+#: el/event.csv:19 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Μέγιστο μέγεθος: 2000x2000px - επιτρέπoνται μορφές: jpg png &"
+
+#: el/event.csv:20 
+msgid "Modify the event"
+msgstr "Τροποποιήστε την εκδήλωση"
+
+#: el/event.csv:21 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: el/event.csv:22 
+msgid "RSVP URL:"
+msgstr "Σύνδεσμος RSVP:"
+
+#: el/event.csv:23 
+msgid "Your Facebook page ID"
+msgstr "Η ταυτότητα τoυ Προσωποβιβλίου σας χαχαχαχαχαχαχαχαχαχαχα"
+
+#: el/event.csv:24 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "Η ταυτότητα της Facebook σελίδας σας <span class = "απαιτείται-είσοδος"> * </ span>:"
+
+#: el/event.csv:25 
+msgid "Your calendar is empty"
+msgstr "Το ημερολόγιο σας είναι άδειο"
+
+#: el/event.csv:26 
+msgid "iCal"
+msgstr "iCal"
+

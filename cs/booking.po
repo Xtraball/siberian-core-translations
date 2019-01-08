@@ -1,0 +1,100 @@
+#: cs/booking.csv:1 
+msgid "Booking details"
+msgstr "Rezervační údaje"
+
+#: cs/booking.csv:2 
+msgid "Booking details:"
+msgstr "Rezervační údaje:"
+
+#: cs/booking.csv:3 
+msgid "Booking subject:"
+msgstr "Předmět rezervace:"
+
+#: cs/booking.csv:4 
+msgid "Comment:"
+msgstr "Komentář:"
+
+#: cs/booking.csv:5 
+msgid "Date and time"
+msgstr "Datum a čas"
+
+#: cs/booking.csv:6 
+msgid "Date and time:"
+msgstr "Datum a čas:"
+
+#: cs/booking.csv:7 
+msgid "Email address:"
+msgstr "E-mailová adresa:"
+
+#: cs/booking.csv:8 
+msgid "Enter the location name and contact email:"
+msgstr "Zadejte název provozovny a kontaktní e-mail"
+
+#: cs/booking.csv:9 
+msgid "First name / Last name"
+msgstr "Jméno, Příjmení"
+
+#: cs/booking.csv:10 
+msgid "Here are his personal information:"
+msgstr "Osobní údaje:"
+
+#: cs/booking.csv:11 
+msgid "Name:"
+msgstr "Jméno:"
+
+#: cs/booking.csv:12 
+msgid "Nom du lieu :"
+msgstr "Název provozovny"
+
+#: cs/booking.csv:13 
+msgid "People number:"
+msgstr "Počet osob"
+
+#: cs/booking.csv:14 
+msgid "Phone number:"
+msgstr "Telefonní číslo:"
+
+#: cs/booking.csv:15 
+msgid "Please fill out the following fields: "
+msgstr "Vyplňte prosím následující položky:"
+
+#: cs/booking.csv:16 
+msgid "Please fill out the following fields:<br />"
+msgstr "Vyplňte prosím následující položky:<br/>"
+
+#: cs/booking.csv:17 
+msgid "Please, choose a store"
+msgstr "Prosím, vyberte si obchod"
+
+#: cs/booking.csv:18 
+msgid "Thank you for your request. We'll answer you as soon as possible."
+msgstr "Děkujeme za Vaši žádost. Budeme Vás kontaktovat co nejdříve."
+
+#: cs/booking.csv:19 
+msgid "The booking information"
+msgstr "Informace o rezervaci"
+
+#: cs/booking.csv:20 
+msgid "The booking informations"
+msgstr "Informace o rezervaci"
+
+#: cs/booking.csv:21 
+msgid "The date and time of the booking"
+msgstr "Datum a čas rezervace"
+
+#: cs/booking.csv:22 
+msgid "The number of people"
+msgstr "Počet osob"
+
+#: cs/booking.csv:23 
+msgid "You have received a message for the booking of"
+msgstr "Obdrželi jste zprávu pro rezervaci od "
+
+#: cs/booking.csv:24 
+msgid "Your phone number or email address"
+msgstr "Vaše telefonní číslo nebo e-mail"
+
+#: cs/booking.csv:25 
+msgid "﻿Booking details"
+msgstr "Rezervační údaje"
+

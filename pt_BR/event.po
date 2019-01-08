@@ -1,0 +1,104 @@
+#: pt_BR/event.csv:1 
+msgid "An error occurred while deleting the event"
+msgstr "Ocorreu um erro ao excluir o evento"
+
+#: pt_BR/event.csv:2 
+msgid "An error occurred while loading this event"
+msgstr "Ocorreu um erro ao carregar este evento"
+
+#: pt_BR/event.csv:3 
+msgid "Beginning date:"
+msgstr "Data de início:"
+
+#: pt_BR/event.csv:4 
+msgid "Calendar successfully deleted"
+msgstr "Calendário excluído com sucesso"
+
+#: pt_BR/event.csv:5 
+msgid "Calendar's URL"
+msgstr "Calendário's URL"
+
+#: pt_BR/event.csv:6 
+msgid "Calendar's title"
+msgstr "Título Calendário's"
+
+#: pt_BR/event.csv:7 
+msgid "Change picture"
+msgstr "Alterar imagem"
+
+#: pt_BR/event.csv:8 
+msgid "Create a new event"
+msgstr "Criar um novo evento"
+
+#: pt_BR/event.csv:9 
+msgid "Custom Page"
+msgstr "Personalizar página"
+
+#: pt_BR/event.csv:10 
+msgid "Delete this calendar?"
+msgstr "Deletar este calendário?"
+
+#: pt_BR/event.csv:11 
+msgid "Delete this event?"
+msgstr "Deletar este evento?"
+
+#: pt_BR/event.csv:12 
+msgid "Ending date:"
+msgstr "Data de conclusão:"
+
+#: pt_BR/event.csv:13 
+msgid "Enter your calendar's title"
+msgstr "Entrar com o título do calendário's"
+
+#: pt_BR/event.csv:14 
+msgid "Event"
+msgstr "Evento"
+
+#: pt_BR/event.csv:15 
+msgid "Event successfully deleted"
+msgstr "Evento deletado com sucesso"
+
+#: pt_BR/event.csv:16 
+msgid "Event successfully saved"
+msgstr "Evento salvo com sucesso"
+
+#: pt_BR/event.csv:17 
+msgid "Event title:"
+msgstr "Título evento:"
+
+#: pt_BR/event.csv:18 
+msgid "Illustration"
+msgstr "Ilustração"
+
+#: pt_BR/event.csv:19 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Tamanho Máx: 2000x2000px - formatos permitidos: jpg & png"
+
+#: pt_BR/event.csv:20 
+msgid "Modify the event"
+msgstr "Modificar o evento"
+
+#: pt_BR/event.csv:21 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: pt_BR/event.csv:22 
+msgid "RSVP URL:"
+msgstr "RSVP URL:"
+
+#: pt_BR/event.csv:23 
+msgid "Your Facebook page ID"
+msgstr "ID da sua página do Facebook"
+
+#: pt_BR/event.csv:24 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "ID de sua página no Facebook <span class="required-entry">*</span> :"
+
+#: pt_BR/event.csv:25 
+msgid "Your calendar is empty"
+msgstr "Sua calendário está vazio"
+
+#: pt_BR/event.csv:26 
+msgid "iCal"
+msgstr "iCal"
+

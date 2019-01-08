@@ -1,0 +1,172 @@
+#: zh/customer.csv:1 
+msgid "%s – Account creation"
+msgstr "％s - 创建帐户"
+
+#: zh/customer.csv:2 
+msgid "%s – Your new password"
+msgstr "％s - 您的新密码"
+
+#: zh/customer.csv:3 
+msgid "A request to reset your password has been made."
+msgstr "已经有一个请求重置您的密码。"
+
+#: zh/customer.csv:4 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "未能与Facebook帐户连接。请稍后再试。"
+
+#: zh/customer.csv:5 
+msgid "Are you sure you want to remove this user?"
+msgstr "你确定要删除这个用户？"
+
+#: zh/customer.csv:6 
+msgid "Change Password"
+msgstr "更改密码"
+
+#: zh/customer.csv:7 
+msgid "Congratulations,"
+msgstr "恭喜你，"
+
+#: zh/customer.csv:8 
+msgid "Create"
+msgstr "创建"
+
+#: zh/customer.csv:9 
+msgid "Create a new user"
+msgstr "创建一个新用户"
+
+#: zh/customer.csv:10 
+msgid "Create an account"
+msgstr "创建一个帐户"
+
+#: zh/customer.csv:11 
+msgid "Customer"
+msgstr "顾客"
+
+#: zh/customer.csv:12 
+msgid "Customers"
+msgstr "客户"
+
+#: zh/customer.csv:13 
+msgid "Disconnect"
+msgstr "登出"
+
+#: zh/customer.csv:14 
+msgid "Edit the user %s"
+msgstr "编辑％s用户"
+
+#: zh/customer.csv:15 
+msgid "First name"
+msgstr "名字"
+
+#: zh/customer.csv:16 
+msgid "Forgot your password?"
+msgstr "忘记密码了吗？"
+
+#: zh/customer.csv:17 
+msgid "Gender"
+msgstr "性别"
+
+#: zh/customer.csv:18 
+msgid "Here are your credentials:"
+msgstr "这里有您的凭据："
+
+#: zh/customer.csv:19 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "我接受<u>隐私政策</u>"
+
+#: zh/customer.csv:20 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "如果您有任何问题，请联系我们："
+
+#: zh/customer.csv:21 
+msgid "Last name"
+msgstr "姓"
+
+#: zh/customer.csv:22 
+msgid "Login:"
+msgstr "登录："
+
+#: zh/customer.csv:23 
+msgid "Miss"
+msgstr "女士."
+
+#: zh/customer.csv:24 
+msgid "Mr"
+msgstr "先生"
+
+#: zh/customer.csv:25 
+msgid "Mrs"
+msgstr "女士"
+
+#: zh/customer.csv:26 
+msgid "My Account"
+msgstr "我的账户"
+
+#: zh/customer.csv:27 
+msgid "My application's users"
+msgstr "我的应用程序的用户"
+
+#: zh/customer.csv:28 
+msgid "Old Password"
+msgstr "旧密码"
+
+#: zh/customer.csv:29 
+msgid "Or with your account"
+msgstr "或与您的账户"
+
+#: zh/customer.csv:30 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "请输入您的电子邮件地址。现在，我们将发送您的密码。"
+
+#: zh/customer.csv:31 
+msgid "Please log in with your mobile phone"
+msgstr "请与您的手机登录"
+
+#: zh/customer.csv:32 
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: zh/customer.csv:33 
+msgid "See you soon,"
+msgstr "再见，"
+
+#: zh/customer.csv:34 
+msgid "Show me in ranking"
+msgstr "显示我的排名"
+
+#: zh/customer.csv:35 
+msgid "The old email address does not match the entered email address."
+msgstr "上述的电子邮件地址不匹配的电子邮件地址输入。"
+
+#: zh/customer.csv:36 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "此用户可以访问的网站阻止特征“访问”"
+
+#: zh/customer.csv:37 
+msgid "This user is visible in ranking"
+msgstr "此用户是在排名可见"
+
+#: zh/customer.csv:38 
+msgid "User"
+msgstr "用户"
+
+#: zh/customer.csv:39 
+msgid "Users"
+msgstr "用户"
+
+#: zh/customer.csv:40 
+msgid "User Information"
+msgstr "用户信息"
+
+#: zh/customer.csv:41 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "很抱歉，但在％的账户已被链接到我们的客户之一"
+
+#: zh/customer.csv:42 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "您创建的帐户。有了这个帐户，您将能够享受伟大的交易可以在我们的应用程序。"
+
+#: zh/customer.csv:43 
+msgid "Your account has been successfully saved"
+msgstr "您的帐户已成功保存"
+

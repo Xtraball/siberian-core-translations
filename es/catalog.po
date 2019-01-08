@@ -1,0 +1,148 @@
+#: es/catalog.csv:1 
+msgid "Edit the product"
+msgstr "Editar producto"
+
+#: es/catalog.csv:2 
+msgid "Category"
+msgstr "Categoría"
+
+#: es/catalog.csv:3 
+msgid "Picture"
+msgstr "imagen"
+
+#: es/catalog.csv:4 
+msgid "Product formats"
+msgstr "Formato del producto"
+
+#: es/catalog.csv:5 
+msgid "Format"
+msgstr "Formato"
+
+#: es/catalog.csv:6 
+msgid "Add a format"
+msgstr "Añadir un formato"
+
+#: es/catalog.csv:7 
+msgid "Edit the"
+msgstr "Edite el"
+
+#: es/catalog.csv:8 
+msgid "Add a"
+msgstr "Añadir una"
+
+#: es/catalog.csv:9 
+msgid "st"
+msgstr "ero"
+
+#: es/catalog.csv:10 
+msgid "nd"
+msgstr "ndo"
+
+#: es/catalog.csv:11 
+msgid "All"
+msgstr "Todas"
+
+#: es/catalog.csv:12 
+msgid "Create a new product"
+msgstr "Crear un nuevo producto"
+
+#: es/catalog.csv:13 
+msgid "Product name"
+msgstr "Nombre del producto"
+
+#: es/catalog.csv:14 
+msgid "Price"
+msgstr "Precio"
+
+#: es/catalog.csv:15 
+msgid "sub-category"
+msgstr "Subcategoría"
+
+#: es/catalog.csv:16 
+msgid "Click on a category to display sub-categories"
+msgstr "Haga clic en una categoría para ver las subcategorías"
+
+#: es/catalog.csv:17 
+msgid "Add a category"
+msgstr "Agregar una categoría"
+
+#: es/catalog.csv:18 
+msgid "Product"
+msgstr "Producto"
+
+#: es/catalog.csv:19 
+msgid "Sub-category"
+msgstr "Subcategoría"
+
+#: es/catalog.csv:20 
+msgid "Rules"
+msgstr "Reglas"
+
+#: es/catalog.csv:21 
+msgid "en"
+msgstr "es"
+
+#: es/catalog.csv:22 
+msgid "Does this product have many formats?"
+msgstr "¿Este producto tiene varios formatos?"
+
+#: es/catalog.csv:23 
+msgid "Choose a category"
+msgstr "Elija una categoría"
+
+#: es/catalog.csv:24 
+msgid "Choose a subcategory"
+msgstr "Seleccione una subcategoría"
+
+#: es/catalog.csv:25 
+msgid "Main category"
+msgstr "Categoría principal"
+
+#: es/catalog.csv:26 
+msgid "More"
+msgstr "Más información"
+
+#: es/catalog.csv:27 
+msgid "Qty"
+msgstr "Cantidad"
+
+#: es/catalog.csv:28 
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: es/catalog.csv:29 
+msgid "<span id="price_from_%s">From:<br /></span><span id="current_price_%s">%s</span>"
+msgstr "<span id="price_from_%s"> Desde: <br /></span><span id="current_price_%s">%s</span>"
+
+#: es/catalog.csv:30 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "Se ha producido un error al guardar la categoría. Por favor inténtelo de nuevo más tarde."
+
+#: es/catalog.csv:31 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "Se ha producido un error al guardar. Una de sus categorías no pudo ser identificada."
+
+#: es/catalog.csv:32 
+msgid "Set meal successfully saved."
+msgstr "Menú guardado correctamente."
+
+#: es/catalog.csv:33 
+msgid "Set meal successfully deleted."
+msgstr "Menú eliminado correctamente."
+
+#: es/catalog.csv:34 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "Se ha producido un error al guardar el menú. Por favor inténtelo de nuevo más tarde."
+
+#: es/catalog.csv:35 
+msgid "An error occurred while loading your product."
+msgstr "Se ha producido un error al cargar el producto."
+
+#: es/catalog.csv:36 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "Se ha producido un error al guardar el producto. Por favor inténtelo de nuevo más tarde."
+
+#: es/catalog.csv:37 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "Se ha producido un error al guardar. Uno de sus productos no pudo ser identificado."
+

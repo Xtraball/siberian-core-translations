@@ -1,0 +1,124 @@
+#: de/push.csv:1 
+msgid "<a href="%s">Click here to provide the required information to send push notifications</a>"
+msgstr "<a href="%s"> Klicken Sie hier, um die erforderlichen Informationen zur Verfügung stellen, um Push-Benachrichtigungen senden </a>"
+
+#: de/push.csv:2 
+msgid "Additionnal Information"
+msgstr "Zusätzliche Informationen"
+
+#: de/push.csv:3 
+msgid "And a radius (in Km):"
+msgstr "Und ein Radius (in Km):"
+
+#: de/push.csv:4 
+msgid "Android"
+msgstr "Android"
+
+#: de/push.csv:5 
+msgid "Creation date"
+msgstr "Erstellungsdatum"
+
+#: de/push.csv:6 
+msgid "Enter a location:"
+msgstr "Geben Sie einen Ort ein:"
+
+#: de/push.csv:7 
+msgid "GCM Key"
+msgstr "GCM Key "
+
+#: de/push.csv:8 
+msgid "I want to send it"
+msgstr "Ich möchte es senden"
+
+#: de/push.csv:9 
+msgid "Keys successfully saved"
+msgstr "Schlüssel erfolgreich gespeichert"
+
+#: de/push.csv:10 
+msgid "Message"
+msgstr "Nachricht"
+
+#: de/push.csv:11 
+msgid "Message:"
+msgstr "Nachricht:"
+
+#: de/push.csv:12 
+msgid "Pending"
+msgstr "anstehend"
+
+#: de/push.csv:13 
+msgid "Push Notifications"
+msgstr "Push-Benachrichtigungen"
+
+#: de/push.csv:14 
+msgid "Push Notifications Settings"
+msgstr "Push-Benachrichtigungen Einstellungen "
+
+#: de/push.csv:15 
+msgid "Radius"
+msgstr "RADIUS"
+
+#: de/push.csv:16 
+msgid "Send to a specific location"
+msgstr "Senden Sie es an einen bestimmten Ort"
+
+#: de/push.csv:17 
+msgid "Send to all my users"
+msgstr "Senden an alle meine Benutzer"
+
+#: de/push.csv:18 
+msgid "Send you .pem certificate"
+msgstr "Senden Sie. Pem Zertifikat "
+
+#: de/push.csv:19 
+msgid "Sender ID"
+msgstr "Sender ID"
+
+#: de/push.csv:20 
+msgid "Sending date"
+msgstr "Sendedatum"
+
+#: de/push.csv:21 
+msgid "The duration limit must be higher than the sent date"
+msgstr "Die Dauer Grenze muss höher als die Sendedatum sein"
+
+#: de/push.csv:22 
+msgid "Title:"
+msgstr "Titel:"
+
+#: de/push.csv:23 
+msgid "You don't have any push notifications"
+msgstr "Sie haben noch keine Push-Benachrichtigungen erhalten."
+
+#: de/push.csv:24 
+msgid "You have already sent a certificate"
+msgstr "Sie haben bereits ein Zertifikat gesendet "
+
+#: de/push.csv:25 
+msgid "Your app must be published to send a push notification."
+msgstr "Ihre Anwendung muss veröffentlicht werden, um eine Push-Benachrichtigung zu senden."
+
+#: de/push.csv:26 
+msgid "Your message has been saved successfully and will be sent at the entered date"
+msgstr "Ihre Nachricht wurde erfolgreich gespeichert und wird am eingegebenen Datum gesendet werden"
+
+#: de/push.csv:27 
+msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgstr "Ihre Nachricht wurde erfolgreich gespeichert und wird in wenigen Minuten gesendet werden"
+
+#: de/push.csv:28 
+msgid "and users entering the area"
+msgstr "und Anwender im Bereich"
+
+#: de/push.csv:29 
+msgid "for a limited period"
+msgstr "für einen begrenzten Zeitraum"
+
+#: de/push.csv:30 
+msgid "now"
+msgstr "jetzt"
+
+#: de/push.csv:31 
+msgid "on a specific date"
+msgstr "an einem bestimmten Datum"
+

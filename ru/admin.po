@@ -1,0 +1,168 @@
+#: ru/admin.csv:1 
+msgid "%s - Your new password"
+msgstr "%s  - Ваш новый пароль"
+
+#: ru/admin.csv:2 
+msgid "A request to reset your password has been made to log in to your administration panel."
+msgstr "Запрос для сброса пароля была сделан, чтобы войти в вашу Панель Администратора."
+
+#: ru/admin.csv:3 
+msgid "Admin successfully deleted"
+msgstr "Админ успешно удален"
+
+#: ru/admin.csv:4 
+msgid "An error occurred while saving. The country is not valid."
+msgstr "Произошла ошибка при сохранении. Страна не является действительной."
+
+#: ru/admin.csv:5 
+msgid "Are you sure you want to delete this application?"
+msgstr "Вы уверены, что хотите удалить это приложение?"
+
+#: ru/admin.csv:6 
+msgid "Can add pages"
+msgstr "Можно добавить страницы"
+
+#: ru/admin.csv:7 
+msgid "Change my password"
+msgstr "Изменение пароля"
+
+#: ru/admin.csv:8 
+msgid "Confirm your password"
+msgstr "Подтвердите пароль"
+
+#: ru/admin.csv:9 
+msgid "Create a new application"
+msgstr "Создание нового приложения"
+
+#: ru/admin.csv:10 
+msgid "Create a new user"
+msgstr "Создание нового пользователя"
+
+#: ru/admin.csv:11 
+msgid "Created At"
+msgstr "Создан в "
+
+#: ru/admin.csv:12 
+msgid "Created at %s"
+msgstr "Дата создания:  %s"
+
+#: ru/admin.csv:13 
+msgid "Do not hesitate to give us your feedback by sharing your needs:"
+msgstr "Не стесняйтесь, оставьте нам свое мнение, поделитесь своими потребностями:"
+
+#: ru/admin.csv:14 
+msgid "Edit the account "%s""
+msgstr "Редактировать учетную запись "%s""
+
+#: ru/admin.csv:15 
+msgid "Edit the user %s"
+msgstr "Редактирование пользователя %s"
+
+#: ru/admin.csv:16 
+msgid "Enjoy!"
+msgstr "Наслаждайтесь!"
+
+#: ru/admin.csv:17 
+msgid "Find some advices here:"
+msgstr "Найдите здесь несколько советов:"
+
+#: ru/admin.csv:18 
+msgid "Here are your credentials, keep them preciously:"
+msgstr "Вот ваши полномочия, храните их бережно:"
+
+#: ru/admin.csv:19 
+msgid "List of admin accounts"
+msgstr "Список записи администраторов"
+
+#: ru/admin.csv:20 
+msgid "List of my accounts"
+msgstr "Список моих счетов"
+
+#: ru/admin.csv:21 
+msgid "List of your users"
+msgstr "Список пользователей"
+
+#: ru/admin.csv:22 
+msgid "Log-in As"
+msgstr "Вход в систему как"
+
+#: ru/admin.csv:23 
+msgid "Manage access"
+msgstr "Управление доступом"
+
+#: ru/admin.csv:24 
+msgid "My Applications"
+msgstr "Мои приложения"
+
+#: ru/admin.csv:25 
+msgid "My information"
+msgstr "Моя информация"
+
+#: ru/admin.csv:26 
+msgid "Need some help?"
+msgstr "Нужна помощь?"
+
+#: ru/admin.csv:27 
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите действительный адрес электронной почты."
+
+#: ru/admin.csv:28 
+msgid "Please, enter an application name"
+msgstr "Пожалуйста, введите имя приложения"
+
+#: ru/admin.csv:29 
+msgid "Ready to create your own apps?"
+msgstr "Все готово для создания собственных приложений?"
+
+#: ru/admin.csv:30 
+msgid "Sign up"
+msgstr "Создать аккаунт"
+
+#: ru/admin.csv:31 
+msgid "Thanks for choosing us!"
+msgstr "Спасибо что выбрали нас!"
+
+#: ru/admin.csv:32 
+msgid "The Support Team"
+msgstr "Команда поддержки"
+
+#: ru/admin.csv:33 
+msgid "The password and the confirmation does not match."
+msgstr "Пароль и подтверждение не совпадают."
+
+#: ru/admin.csv:34 
+msgid "The password must be at least 6 characters."
+msgstr "Пароль должен быть не менее 6 символов."
+
+#: ru/admin.csv:35 
+msgid "We are sorry but this email address is already used."
+msgstr "Мы сожалеем, но этот адрес уже используется."
+
+#: ru/admin.csv:36 
+msgid "Welcome!"
+msgstr "Добро пожаловать!"
+
+#: ru/admin.csv:37 
+msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+msgstr "Вам понравиться наша платформа! Благодаря нашим эффективным функциям, вы сможете создавать великолепные мобильные приложения с вашим именем, в течение нескольких минут."
+
+#: ru/admin.csv:38 
+msgid "You can't delete the main account"
+msgstr "Вы не можете удалить основной аккаунт"
+
+#: ru/admin.csv:39 
+msgid "You don't have any users yet"
+msgstr "Вы не создали еще ни одного пользователя"
+
+#: ru/admin.csv:40 
+msgid "Your credentials"
+msgstr "Ваши учетные данные"
+
+#: ru/admin.csv:41 
+msgid "Your login:"
+msgstr "Ваш Логин:"
+
+#: ru/admin.csv:42 
+msgid "Your password:"
+msgstr "Ваш пароль:"
+

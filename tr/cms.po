@@ -1,0 +1,104 @@
+#: tr/cms.csv:1 
+msgid ".mp4 or .3gp format"
+msgstr ".mp4 or .3gp format"
+
+#: tr/cms.csv:2 
+msgid "Add "
+msgstr "Ekle"
+
+#: tr/cms.csv:3 
+msgid "Add sections:"
+msgstr "Bölümler ekleyin:"
+
+#: tr/cms.csv:4 
+msgid "Address:"
+msgstr "Adres:"
+
+#: tr/cms.csv:5 
+msgid "Alignment:"
+msgstr "Hizalama:"
+
+#: tr/cms.csv:6 
+msgid "An error occurred while saving your page."
+msgstr "Sayfanız kaydedilirken bir hata oluştu."
+
+#: tr/cms.csv:7 
+msgid "Are you sure you want to delete this page?"
+msgstr "Bu sayfayı silmek istediğinizden eminmisiniz?"
+
+#: tr/cms.csv:8 
+msgid "Display address"
+msgstr "Adresi göster"
+
+#: tr/cms.csv:9 
+msgid "Display location button"
+msgstr "Lokasyon gösterme düğmesi"
+
+#: tr/cms.csv:10 
+msgid "Label"
+msgstr "Etiket"
+
+#: tr/cms.csv:11 
+msgid "Label:"
+msgstr "Etiket:"
+
+#: tr/cms.csv:12 
+msgid "Large"
+msgstr "Geniş"
+
+#: tr/cms.csv:13 
+msgid "Loading picture:"
+msgstr "Resim yükle:"
+
+#: tr/cms.csv:14 
+msgid "Make a search or enter the Youtube Url:"
+msgstr "Youtube Url girin:"
+
+#: tr/cms.csv:15 
+msgid "Medium"
+msgstr "Orta"
+
+#: tr/cms.csv:16 
+msgid "My Youtube video:"
+msgstr "Youtube videolarım:"
+
+#: tr/cms.csv:17 
+msgid "My video"
+msgstr "Videom"
+
+#: tr/cms.csv:18 
+msgid "No videos matching your selection"
+msgstr "Seçiminizi eşleşen video yok"
+
+#: tr/cms.csv:19 
+msgid "Page successfully deleted"
+msgstr "Sayfa başarıyla silindi"
+
+#: tr/cms.csv:20 
+msgid "Page successfully saved"
+msgstr "Sayfa başarıyla kaydedildi"
+
+#: tr/cms.csv:21 
+msgid "Podcast URL:"
+msgstr "Podcast URL:"
+
+#: tr/cms.csv:22 
+msgid "Select a button type:"
+msgstr "Bir puton türü seçin:"
+
+#: tr/cms.csv:23 
+msgid "Select a video type:"
+msgstr "Bir video çeşidi seçin:"
+
+#: tr/cms.csv:24 
+msgid "Small"
+msgstr "Küçük"
+
+#: tr/cms.csv:25 
+msgid "Video URL:"
+msgstr "Video URL:"
+
+#: tr/cms.csv:26 
+msgid "Your Podcast:"
+msgstr "Podcast ınız:"
+

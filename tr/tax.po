@@ -1,0 +1,28 @@
+#: tr/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Vergilerinizin listesi"
+
+#: tr/tax.csv:2 
+msgid "Please select a country"
+msgstr "Lütfen bir ülke seçin"
+
+#: tr/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Bir vergi oranı girin."
+
+#: tr/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Geçerli bir vergi oranı girin."
+
+#: tr/tax.csv:5 
+msgid "Rate"
+msgstr "Oran"
+
+#: tr/tax.csv:6 
+msgid "Remove"
+msgstr "Kaldır"
+
+#: tr/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "Henüz herhangi bir vergi oluşturlmadı"
+

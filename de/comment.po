@@ -1,0 +1,148 @@
+#: de/comment.csv:1 
+msgid "'Near me' radius (in km):"
+msgstr "'In meiner Nähe' Radius (in km):"
+
+#: de/comment.csv:2 
+msgid "An error occurred while deleting this answer. Please try again later."
+msgstr "Beim Löschen dieser Antwort ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+
+#: de/comment.csv:3 
+msgid "Create a news:"
+msgstr "Erstellen Sie eine Nachricht:"
+
+#: de/comment.csv:4 
+msgid "Hide this info"
+msgstr "Ausblenden dieser Info"
+
+#: de/comment.csv:5 
+msgid "Information successfully deleted"
+msgstr "Informationen erfolgreich gelöscht"
+
+#: de/comment.csv:6 
+msgid "Information successfully hidden"
+msgstr "Informationen erfolgreich ausgeblendet"
+
+#: de/comment.csv:7 
+msgid "Information successfully saved"
+msgstr "Informationen erfolgreich gespeichert"
+
+#: de/comment.csv:8 
+msgid "Information successfully showed"
+msgstr "Informationen erfolgreich angezeigt"
+
+#: de/comment.csv:9 
+msgid "Information successfully shown"
+msgstr "Erfolgreich angezeigten Informationen"
+
+#: de/comment.csv:10 
+msgid "Insert a"
+msgstr "Legen Sie ein"
+
+#: de/comment.csv:11 
+msgid "It will be visible only after validation by our team."
+msgstr "Nach der Freigabe von unserem Team wird es sichtbar sein."
+
+#: de/comment.csv:12 
+msgid "Like"
+msgstr "Like"
+
+#: de/comment.csv:13 
+msgid "Loading..."
+msgstr "Wird geladen ..."
+
+#: de/comment.csv:14 
+msgid "My customers answers"
+msgstr "Meine Kunden Antworten"
+
+#: de/comment.csv:15 
+msgid "My customers' comments"
+msgstr "Meine Kunden Kommentare"
+
+#: de/comment.csv:16 
+msgid "Near me"
+msgstr "In der Nähe von mir"
+
+#: de/comment.csv:17 
+msgid "Near me settings"
+msgstr "Benachbarte Einstellungen"
+
+#: de/comment.csv:18 
+msgid "Nothing more to display"
+msgstr "Nichts mehr zu zeigen"
+
+#: de/comment.csv:19 
+msgid "Please, enter a comment"
+msgstr "Bitte geben Sie ein Kommentar ein"
+
+#: de/comment.csv:20 
+msgid "Post"
+msgstr "Bereitstellen"
+
+#: de/comment.csv:21 
+msgid "Publishing date"
+msgstr "Veröffentlichungsdatum"
+
+#: de/comment.csv:22 
+msgid "Pull up to display more"
+msgstr "Ziehen Sie, um mehr Anzeigen"
+
+#: de/comment.csv:23 
+msgid "Radius"
+msgstr "RADIUS"
+
+#: de/comment.csv:24 
+msgid "Radius must be a valid numeric value."
+msgstr "RADIUS muss einen gültigen numerischen Wert sein."
+
+#: de/comment.csv:25 
+msgid "Radius must be provided."
+msgstr "RADIUS muss angegeben werden."
+
+#: de/comment.csv:26 
+msgid "Recent"
+msgstr "Den letzten"
+
+#: de/comment.csv:27 
+msgid "Release to refresh..."
+msgstr "aktualisieren Sie"
+
+#: de/comment.csv:28 
+msgid "Show this info"
+msgstr "Zeigen Sie diese Infos "
+
+#: de/comment.csv:29 
+msgid "There is no comment for this news"
+msgstr "Es gibt keinen Kommentar zu diesen News"
+
+#: de/comment.csv:30 
+msgid "Was flagged as inappropriate"
+msgstr "Wurde als unangemessen markiert"
+
+#: de/comment.csv:31 
+msgid "You can't like more than once the same news"
+msgstr "Sie können nicht mehr als einmal die gleichen Nachrichten senden."
+
+#: de/comment.csv:32 
+msgid "You need to be connected to create a post"
+msgstr "Sie müssen verbunden sein, um einen Beitrag zu erstellen"
+
+#: de/comment.csv:33 
+msgid "Your comment"
+msgstr "Ihr Kommentar"
+
+#: de/comment.csv:34 
+msgid "Your flag has successfully been notified"
+msgstr "Ihre Flagge worden erfolgreich notifiziert"
+
+#: de/comment.csv:35 
+msgid "Your like has been successfully added"
+msgstr "Ihr like wurde erfolgreich hinzugefügt."
+
+#: de/comment.csv:36 
+msgid "Your message has been successfully saved."
+msgstr "Ihre Nachricht wurde erfolgreich gespeichert."
+
+#: de/comment.csv:37 
+msgid "Your post was successfully added"
+msgstr "Ihre Nachricht wurde erfolgreich hinzugefügt."
+

@@ -1,0 +1,76 @@
+#: it/acl.csv:1 
+msgid "Actions"
+msgstr "Azioni"
+
+#: it/acl.csv:2 
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr "Un errore ha impedito di cancellare il ruolo. Riprova più tardi"
+
+#: it/acl.csv:3 
+msgid "An error occurred while deleting your role. please try again later."
+msgstr "Si è verificato un errore durante l'eliminazione delruolo. Riprova più tardi"
+
+#: it/acl.csv:4 
+msgid "Code"
+msgstr "Codice"
+
+#: it/acl.csv:5 
+msgid "Create a new role"
+msgstr "Crea un ruolo"
+
+#: it/acl.csv:6 
+msgid "Delete"
+msgstr "Cancella"
+
+#: it/acl.csv:7 
+msgid "Edit"
+msgstr "Modifica"
+
+#: it/acl.csv:8 
+msgid "Edit %s role"
+msgstr "Modifica %s ruolo"
+
+#: it/acl.csv:9 
+msgid "Id"
+msgstr "ID"
+
+#: it/acl.csv:10 
+msgid "Label"
+msgstr "Etichetta"
+
+#: it/acl.csv:11 
+msgid "List of your roles"
+msgstr "Lesta dei tuoi ruoli"
+
+#: it/acl.csv:12 
+msgid "Role"
+msgstr "Ruolo"
+
+#: it/acl.csv:13 
+msgid "Search"
+msgstr "Cerca"
+
+#: it/acl.csv:14 
+msgid "This role will be the default one for the whole platform."
+msgstr "Questo ruolo sarà quello di default per l'intera piattaforma"
+
+#: it/acl.csv:15 
+msgid "You don't have any role yet"
+msgstr "Non hai ancora nessun ruolo"
+
+#: it/acl.csv:16 
+msgid "Your role has been deleted successfully."
+msgstr "Il ruolo è stato cancellato con successo"
+
+#: it/acl.csv:17 
+msgid "Your role has been saved successfully."
+msgstr "Il ruolo è stato salvato con successo"
+
+#: it/acl.csv:18 
+msgid "Your role has been successfully deleted"
+msgstr "Il ruolo è stato eliminato con seuccesso"
+
+#: it/acl.csv:19 
+msgid "Your role has been successfully saved"
+msgstr "Il tuo ruolo è stato salvato con successo"
+

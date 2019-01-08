@@ -1,0 +1,64 @@
+#: el/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s πόντος%s"
+
+#: el/socialgaming.csv:2 
+msgid "A month"
+msgstr "το μήνα"
+
+#: el/socialgaming.csv:3 
+msgid "A week"
+msgstr "την εβδομάδα"
+
+#: el/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Αντίπαλοι"
+
+#: el/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Τρέχον παιχνίδι"
+
+#: el/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "Δεν υπάρχουν αντίπαλοι αυτή τη στιγμή"
+
+#: el/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Όνομα Παιχνιδιού"
+
+#: el/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Το παιχνίδι αποθηκεύτηκε επιτυχώς"
+
+#: el/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Επόμενο παιχνίδι"
+
+#: el/socialgaming.csv:10 
+msgid "On the"
+msgstr "Την"
+
+#: el/socialgaming.csv:11 
+msgid "Period"
+msgstr "Περίοδο"
+
+#: el/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Περιοδικότητα"
+
+#: el/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Ημ/νία δημοσίευσης"
+
+#: el/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Βαθμός του μήνα"
+
+#: el/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Βαθμός της εβδομάδας"
+
+#: el/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "Αρχηγός ομάδας"
+

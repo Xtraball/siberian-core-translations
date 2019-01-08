@@ -1,0 +1,96 @@
+#: fr/booking.csv:1 
+msgid "Booking details"
+msgstr "Détails de la réservation"
+
+#: fr/booking.csv:2 
+msgid "Booking details:"
+msgstr "Détails de la réservation :"
+
+#: fr/booking.csv:3 
+msgid "Booking subject:"
+msgstr "Sujet de la réservation :"
+
+#: fr/booking.csv:4 
+msgid "Comment:"
+msgstr "Commentaire :"
+
+#: fr/booking.csv:5 
+msgid "Date and time"
+msgstr "Date et heure"
+
+#: fr/booking.csv:6 
+msgid "Date and time:"
+msgstr "Date et heure :"
+
+#: fr/booking.csv:7 
+msgid "Email address:"
+msgstr "Adresse email :"
+
+#: fr/booking.csv:8 
+msgid "Enter the location name and contact email:"
+msgstr "Saisissez le nom et l'email du lieu :"
+
+#: fr/booking.csv:9 
+msgid "First name / Last name"
+msgstr "Nom / Prénom"
+
+#: fr/booking.csv:10 
+msgid "Here are his personal information:"
+msgstr "Voici ses informations personnelles :"
+
+#: fr/booking.csv:11 
+msgid "Name:"
+msgstr "Nom :"
+
+#: fr/booking.csv:12 
+msgid "Nom du lieu :"
+msgstr "Nom du lieu :"
+
+#: fr/booking.csv:13 
+msgid "People number:"
+msgstr "Nombre de personnes :"
+
+#: fr/booking.csv:14 
+msgid "Phone number:"
+msgstr "Numéro de téléphone :"
+
+#: fr/booking.csv:15 
+msgid "Please fill out the following fields: "
+msgstr "Veuillez remplir les champs suivants :<br />"
+
+#: fr/booking.csv:16 
+msgid "Please fill out the following fields:<br />"
+msgstr "Veuillez renseigner correctement les champs suivants : <br />"
+
+#: fr/booking.csv:17 
+msgid "Please, choose a store"
+msgstr "Veuillez saisir le nom du lieu"
+
+#: fr/booking.csv:18 
+msgid "Thank you for your request. We'll answer you as soon as possible."
+msgstr "Nous vous remercions pour votre message. Nous vous répondrons dans les plus brefs délais."
+
+#: fr/booking.csv:19 
+msgid "The booking information"
+msgstr "Le motif de la réservation"
+
+#: fr/booking.csv:20 
+msgid "The booking informations"
+msgstr "Informations de réservation"
+
+#: fr/booking.csv:21 
+msgid "The date and time of the booking"
+msgstr "La date et heure de réservation"
+
+#: fr/booking.csv:22 
+msgid "The number of people"
+msgstr "Le nombre de personnes"
+
+#: fr/booking.csv:23 
+msgid "You have received a message for the booking of"
+msgstr "Vous avez reçu un message de réservation de"
+
+#: fr/booking.csv:24 
+msgid "Your phone number or email address"
+msgstr "Votre téléphone ou adresse email"
+

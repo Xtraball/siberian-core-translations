@@ -1,0 +1,852 @@
+#: tr/application.csv:1 
+msgid "1. Download the app previewer:"
+msgstr "1. App ön izleyicisi indir:"
+
+#: tr/application.csv:2 
+msgid "2. Open the app and login"
+msgstr "2. App yi açın ve giriş yapın"
+
+#: tr/application.csv:3 
+msgid "<b>File type:</b> %s"
+msgstr "<b>Dosya türü:</b> %s"
+
+#: tr/application.csv:4 
+msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
+msgstr "<span>Öge eklemek için</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>tıklayın.</span>"
+
+#: tr/application.csv:5 
+msgid "Activated"
+msgstr "Aktifleştirildi"
+
+#: tr/application.csv:6 
+msgid "Add a new icon"
+msgstr "Yeni bir ikon ekleyin"
+
+#: tr/application.csv:7 
+msgid "Add pages"
+msgstr "Sayfalar ekleyin"
+
+#: tr/application.csv:8 
+msgid "Additional options"
+msgstr "Ek seçenekler"
+
+#: tr/application.csv:9 
+msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
+msgstr "App ikonu kopyalanırken bir hata oluştu. App ikonunu kontrol edin, tekrar göndermek ve yeniden deneyin."
+
+#: tr/application.csv:10 
+msgid "An error occurred during the generation of your QRCode. Please try again later."
+msgstr "QR codu üretimi sırasında hata meydana geldi. Daha sonra tekrar deneyiniz."
+
+#: tr/application.csv:11 
+msgid "An error occurred while adding the option"
+msgstr "Seçeneği eklenirken bir hata oluştu"
+
+#: tr/application.csv:12 
+msgid "An error occurred while changing your layout."
+msgstr "Ekran planını değiştirirken bir hata oluştu."
+
+#: tr/application.csv:13 
+msgid "An error occurred while deleting the option"
+msgstr "Seçeneği silinirken bir hata oluştu"
+
+#: tr/application.csv:14 
+msgid "An error occurred while deleting your picture"
+msgstr "Resmi silinirken bir hata oluştu"
+
+#: tr/application.csv:15 
+msgid "An error occurred while editing file (%s)."
+msgstr "Dosya (% s) düzenleme sırasında bir hata oluştu."
+
+#: tr/application.csv:16 
+msgid "An error occurred while loading"
+msgstr "Yükleme sırasında bir hata oluştu"
+
+#: tr/application.csv:17 
+msgid "An error occurred while saving the application. Please try again later."
+msgstr "Uygulamayı kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+
+#: tr/application.csv:18 
+msgid "An error occurred while saving your colors."
+msgstr "Renkleri kaydedilirken bir hata oluştu."
+
+#: tr/application.csv:19 
+msgid "An error occurred while saving your page name."
+msgstr "Sayfa adını kaydedilirken bir hata oluştu."
+
+#: tr/application.csv:20 
+msgid "An error occurred while saving. The selected icon is not valid."
+msgstr "Kaydedilirken bir hata oluştu. Seçilen ikon geçerli değil."
+
+#: tr/application.csv:21 
+msgid "An error occurred while sorting your pages. Please try again later."
+msgstr "Sayfalarınızı sıralama sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
+
+#: tr/application.csv:22 
+msgid "Analytics"
+msgstr "Analizler"
+
+#: tr/application.csv:23 
+msgid "Android APK Generation"
+msgstr "Android APK Generation"
+
+#: tr/application.csv:24 
+msgid "Android Version"
+msgstr "Android Version"
+
+#: tr/application.csv:25 
+msgid "App Store Icon"
+msgstr "App Mağza ikonu"
+
+#: tr/application.csv:26 
+msgid "Apple's Information"
+msgstr "Apple'ın Bilgisi"
+
+#: tr/application.csv:27 
+msgid "Application name"
+msgstr "Uygulam ismi"
+
+#: tr/application.csv:28 
+msgid "Are you sure you want to remove this application?"
+msgstr "Bu uygulamayı silmek istediğinize emin misiniz?"
+
+#: tr/application.csv:29 
+msgid "At least 200 characters in the description"
+msgstr "Açıklamasında en az 200 karakter olmalı"
+
+#: tr/application.csv:30 
+msgid "At least, 4 pages in the application"
+msgstr "Uygulamanızda en az 4 sayfa olmalı"
+
+#: tr/application.csv:31 
+msgid "Audio"
+msgstr "Audio"
+
+#: tr/application.csv:32 
+msgid "Average by customer"
+msgstr "Müşteri tarafından ortalama"
+
+#: tr/application.csv:33 
+msgid "Book"
+msgstr "Ayırmak"
+
+#: tr/application.csv:34 
+msgid "Bundle Id"
+msgstr "Paket Id"
+
+#: tr/application.csv:35 
+msgid "Business"
+msgstr "İş"
+
+#: tr/application.csv:36 
+msgid "Buy one, get one!"
+msgstr "Bir alana,bir bedava!"
+
+#: tr/application.csv:37 
+msgid "Catalogs"
+msgstr "Kataloglar"
+
+#: tr/application.csv:38 
+msgid "Certificate"
+msgstr "Sertifika"
+
+#: tr/application.csv:39 
+msgid "Change your"
+msgstr "Değiştirin"
+
+#: tr/application.csv:40 
+msgid "Change your template"
+msgstr "Temanızı değiştirin"
+
+#: tr/application.csv:41 
+msgid "Change your<br /><span>picture</span>"
+msgstr "Resminizi<br /><span>değiştirin</span>"
+
+#: tr/application.csv:42 
+msgid "Checking CNAME configuration:"
+msgstr "CNAME yapılandırmasını denetleme:"
+
+#: tr/application.csv:43 
+msgid "Choose a <br /><span class="bold">picture</span>"
+msgstr "Bir resim<br /><span class="bold">seç</span>"
+
+#: tr/application.csv:44 
+msgid "Choose a country"
+msgstr "Bir ülke seç"
+
+#: tr/application.csv:45 
+msgid "Choose a font family"
+msgstr "Yazı tipi seçin"
+
+#: tr/application.csv:46 
+msgid "Choose a template to customize"
+msgstr "Özelleştirmek için bir tema seçin"
+
+#: tr/application.csv:47 
+msgid "Choose your colors"
+msgstr "Renklerinizi seçin"
+
+#: tr/application.csv:48 
+msgid "Choose your country"
+msgstr "Ülkenizi seçin"
+
+#: tr/application.csv:49 
+msgid "Choose your design"
+msgstr "Tasarımınızı seçin"
+
+#: tr/application.csv:50 
+msgid "Choose your font style"
+msgstr "Yazı tipi stilini seçin"
+
+#: tr/application.csv:51 
+msgid "Choose your homepage image"
+msgstr "Ana sayfanız için resim seçin......<span class="bold"><a href="gsgsgsg">Yardım</a></span>"
+
+#: tr/application.csv:52 
+msgid "Choose your icons color"
+msgstr "İkonlarınızın renklerini seçin"
+
+#: tr/application.csv:53 
+msgid "Choose your layout"
+msgstr "Ekran planınızı değiştirin"
+
+#: tr/application.csv:54 
+msgid "Choose your template"
+msgstr "Temanızı seçin"
+
+#: tr/application.csv:55 
+msgid "Click here to download the source code:"
+msgstr "Kaynak kodu indirmek için buraya tıklayın:"
+
+#: tr/application.csv:56 
+msgid "Click here to send your certificate"
+msgstr "Sertifikanızı göndermek için buraya tıklayın"
+
+#: tr/application.csv:57 
+msgid "Colors"
+msgstr "Renkler"
+
+#: tr/application.csv:58 
+msgid "Dashboard icon"
+msgstr "Yönetim paneli ikonu"
+
+#: tr/application.csv:59 
+msgid "Deactivated"
+msgstr "Pasifleştirildi"
+
+#: tr/application.csv:60 
+msgid "Delete this page?"
+msgstr "Bu sayfa silinsin mi?"
+
+#: tr/application.csv:61 
+msgid "Design"
+msgstr "Dizayn"
+
+#: tr/application.csv:62 
+msgid "Developer Accounts"
+msgstr "Geliştirici Hesapları"
+
+#: tr/application.csv:63 
+msgid "Device Information"
+msgstr "Aygıt Bilgileri"
+
+#: tr/application.csv:64 
+msgid "Discount zone description. Here your clients will be able to see the details of each discount"
+msgstr "İndirim tanımı.Müşterileriniz burda indirim detaylarını görebilir."
+
+#: tr/application.csv:65 
+msgid "Domain"
+msgstr "Domain"
+
+#: tr/application.csv:66 
+msgid "Domain name"
+msgstr "Domain name"
+
+#: tr/application.csv:67 
+msgid "Download"
+msgstr "İndir"
+
+#: tr/application.csv:68 
+msgid "Download our app previewer"
+msgstr "App önizleyicimizi indir"
+
+#: tr/application.csv:69 
+msgid "Drop your certificate here"
+msgstr "Sertifikanızı buraya sürükleyin"
+
+#: tr/application.csv:70 
+msgid "Edit my"
+msgstr "Düzenle"
+
+#: tr/application.csv:71 
+msgid "Edit the application "%s""
+msgstr ""% s" uygulamasını Düzenle "
+
+#: tr/application.csv:72 
+msgid "Editor"
+msgstr "Editör"
+
+#: tr/application.csv:73 
+msgid "Education"
+msgstr "Eğitim"
+
+#: tr/application.csv:74 
+msgid "Entertainment"
+msgstr "Eğlence"
+
+#: tr/application.csv:75 
+msgid "Extension not allowed, '%s' only"
+msgstr "Uzatma mümkün değil, yanlızca '%s'"
+
+#: tr/application.csv:76 
+msgid "Features"
+msgstr "Özellikler"
+
+#: tr/application.csv:77 
+msgid "Finance"
+msgstr "Finans"
+
+#: tr/application.csv:78 
+msgid "Food & Drink"
+msgstr "Yiyecek & İçecek"
+
+#: tr/application.csv:79 
+msgid "Fred W."
+msgstr "NKT"
+
+#: tr/application.csv:80 
+msgid "Games"
+msgstr "Oyunlar"
+
+#: tr/application.csv:81 
+msgid "General Information"
+msgstr "Genel Bilgi"
+
+#: tr/application.csv:82 
+msgid "General information"
+msgstr "Genel Bilgi"
+
+#: tr/application.csv:83 
+msgid "Global visits"
+msgstr "Global ziyaretler"
+
+#: tr/application.csv:84 
+msgid "Google Play Icon"
+msgstr "Google Play Ikonu"
+
+#: tr/application.csv:85 
+msgid "Google's Information"
+msgstr "Google'ın Bilgisi"
+
+#: tr/application.csv:86 
+msgid "Health & Fitness"
+msgstr "Sağlık & Fitnes"
+
+#: tr/application.csv:87 
+msgid "Here is our latest creation. What do you think?"
+msgstr "Son kreasyonumuz,ne düşünüyorsunuz?"
+
+#: tr/application.csv:88 
+msgid "Homepage preview"
+msgstr "Anasayfa önizleme"
+
+#: tr/application.csv:89 
+msgid "I don't have a Google developer account and I want to create one"
+msgstr "Google geliştirici hesabım yok ve bir tane oluşturmak istiyorum"
+
+#: tr/application.csv:90 
+msgid "I don't have an Apple developer account and I want to create one"
+msgstr "Apple geliştirici hesabım yok ve bir tane oluşturmak istiyorum"
+
+#: tr/application.csv:91 
+msgid "I have an Apple developer account"
+msgstr "Apple geliştirici hesabım var"
+
+#: tr/application.csv:92 
+msgid "I have an Google developer account"
+msgstr "Google geliştirici hesabım var"
+
+#: tr/application.csv:93 
+msgid "I let you publish my application under your Apple developer account"
+msgstr "Uygulamamı Apple geliştiri hesabınız altında yayınlamanıza izin veriyorum"
+
+#: tr/application.csv:94 
+msgid "I let you publish my application under your Google developer account"
+msgstr "Uygulamamı Google geliştiri hesabınız altında yayınlamanıza izin veriyorum"
+
+#: tr/application.csv:95 
+msgid "Icons"
+msgstr "İkonlar"
+
+#: tr/application.csv:96 
+msgid "Id"
+msgstr "Id"
+
+#: tr/application.csv:97 
+msgid "If you validate, your app's colors and background image will be replaced"
+msgstr "Eğer doğrularsanız, uygulamanızın renkleri ve arka plan görüntüsü değişecek"
+
+#: tr/application.csv:98 
+msgid "Installed application"
+msgstr "Yüklenmiş uygulamalar"
+
+#: tr/application.csv:99 
+msgid "Key Password"
+msgstr "Anahtar şifre"
+
+#: tr/application.csv:100 
+msgid "Keywords"
+msgstr "Anahtar Kelimeler"
+
+#: tr/application.csv:101 
+msgid "Last name:"
+msgstr "Soyad:"
+
+#: tr/application.csv:102 
+msgid "Library icons"
+msgstr "Kütüphane ikonları"
+
+#: tr/application.csv:103 
+msgid "Lifestyle"
+msgstr "Yaşam Tarzı"
+
+#: tr/application.csv:104 
+msgid "List of my applications"
+msgstr "Uygulamalarımın listesi"
+
+#: tr/application.csv:105 
+msgid "List of your applications"
+msgstr "Uygulamalarının listesi"
+
+#: tr/application.csv:106 
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: tr/application.csv:107 
+msgid "Lock the entire application"
+msgstr "Uygulamayı kilitleyin"
+
+#: tr/application.csv:108 
+msgid "Love it <3"
+msgstr "Beğeni<3"
+
+#: tr/application.csv:109 
+msgid "Main"
+msgstr "Ana"
+
+#: tr/application.csv:110 
+msgid "Manage icons"
+msgstr "İkonları yönetin"
+
+#: tr/application.csv:111 
+msgid "Media"
+msgstr "Media"
+
+#: tr/application.csv:112 
+msgid "Medical"
+msgstr "Tıbbi"
+
+#: tr/application.csv:113 
+msgid "Missing Information"
+msgstr "Eksik bilgi"
+
+#: tr/application.csv:114 
+msgid "Mobile Source Codes"
+msgstr "Mobil Kaynak Kodları"
+
+#: tr/application.csv:115 
+msgid "Mobile source codes"
+msgstr "Mobil Kaynak Kodları"
+
+#: tr/application.csv:116 
+msgid "Mobile website information"
+msgstr "Mobil web sitesi bilgileri"
+
+#: tr/application.csv:117 
+msgid "My QRCode"
+msgstr "QRKodum"
+
+#: tr/application.csv:118 
+msgid "My application in figures"
+msgstr "Rakamlarla Benim uygulamam"
+
+#: tr/application.csv:119 
+msgid "Navigation"
+msgstr "Navigasyon"
+
+#: tr/application.csv:120 
+msgid "News"
+msgstr "Haberler"
+
+#: tr/application.csv:121 
+msgid "One free coffee"
+msgstr "Bir ücretsiz kahve"
+
+#: tr/application.csv:122 
+msgid "Or go on your store<br />and look for "Apps Company Previewer""
+msgstr "Ya da mağzanızda gidin <br />"Uygulamalar şirket önizleyicisi" de arayın"
+
+#: tr/application.csv:123 
+msgid "Page name:"
+msgstr "Sayfa adı"
+
+#: tr/application.csv:124 
+msgid "Percentage of returning customers"
+msgstr "Geri dönen müşterilerin yüzdesi"
+
+#: tr/application.csv:125 
+msgid "Photo & Video"
+msgstr "Poto & Video"
+
+#: tr/application.csv:126 
+msgid "Please enter a correct URL for the %s store"
+msgstr "Lütfen %s mağzası için doğru URL'yi girin"
+
+#: tr/application.csv:127 
+msgid "Please enter a subdomain."
+msgstr "Lütfen bir subdomain girin."
+
+#: tr/application.csv:128 
+msgid "Please enter a valid URL"
+msgstr "Lütfen geçerli bir URL girin"
+
+#: tr/application.csv:129 
+msgid "Please enter a valid address"
+msgstr "Lütfen geçerli bir adres girin"
+
+#: tr/application.csv:130 
+msgid "Please enter a valid mobile website address."
+msgstr "Geçerli bir mobil web sitesi adresi girin."
+
+#: tr/application.csv:131 
+msgid "Preview"
+msgstr "Önizleme"
+
+#: tr/application.csv:132 
+msgid "Productivity"
+msgstr "Üretkenlik"
+
+#: tr/application.csv:133 
+msgid "Promote"
+msgstr "Destekle"
+
+#: tr/application.csv:134 
+msgid "Publication"
+msgstr "Yayın"
+
+#: tr/application.csv:135 
+msgid "Publish the application"
+msgstr "Uygulamayı yayınla"
+
+#: tr/application.csv:136 
+msgid "Publish under our account"
+msgstr "Hesabımız altında yayınla"
+
+#: tr/application.csv:137 
+msgid "Ready ? Publish my app!"
+msgstr "Hazır?Uygulamamı yayınla!"
+
+#: tr/application.csv:138 
+msgid "Recommanded size:"
+msgstr "Gerekli boyut:"
+
+#: tr/application.csv:139 
+msgid "Reference"
+msgstr "Referans"
+
+#: tr/application.csv:140 
+msgid "Remove this page from this folder?"
+msgstr "Bu sayfa bu dosyadan kaldırsın mı?"
+
+#: tr/application.csv:141 
+msgid "Scan this QR Code"
+msgstr "QR Kodu tara"
+
+#: tr/application.csv:142 
+msgid "Scan this QR Code:"
+msgstr "QR Kodu tara:"
+
+#: tr/application.csv:143 
+msgid "Secondary category"
+msgstr "İkincil Kategori"
+
+#: tr/application.csv:144 
+msgid "Secondary category<br />(Optional)"
+msgstr "İkincil Kategori</br>(Zorunlu değil)"
+
+#: tr/application.csv:145 
+msgid "Send here your iOS certificate to enable the push notifications for this application."
+msgstr "Bu uygulama için push bildirimlerini etkinleştirmek için buradan iOS sertifikası gönder."
+
+#: tr/application.csv:146 
+msgid "Send you .pem certificate"
+msgstr ".pem sertifikayı gönder"
+
+#: tr/application.csv:147 
+msgid "Show the applications waiting for publication only."
+msgstr "Sadece yayın için bekleyen uygulamaları göster."
+
+#: tr/application.csv:148 
+msgid "Social Networking"
+msgstr "Sosyal Ağ"
+
+#: tr/application.csv:149 
+msgid "Sports"
+msgstr "Sporlar"
+
+#: tr/application.csv:150 
+msgid "Startup image"
+msgstr "Başlangıç görüntüsü"
+
+#: tr/application.csv:151 
+msgid "Status"
+msgstr "Statü"
+
+#: tr/application.csv:152 
+msgid "Store Password"
+msgstr "Mağza Şifresi"
+
+#: tr/application.csv:153 
+msgid "Store URL"
+msgstr "Mağza URL si"
+
+#: tr/application.csv:154 
+msgid "Stores Info"
+msgstr "Mağza bilgisi"
+
+#: tr/application.csv:155 
+msgid "The Bundle Id is required"
+msgstr "Paket Id gerekli"
+
+#: tr/application.csv:156 
+msgid "The QR Code is not available at this moment"
+msgstr "QR Kodu şu an için uygun değil"
+
+#: tr/application.csv:157 
+msgid "The application has been successfully saved"
+msgstr "Uygulama başarıyla kaydedildi"
+
+#: tr/application.csv:158 
+msgid "The application name"
+msgstr "Uygulama adı"
+
+#: tr/application.csv:159 
+msgid "The application's name cannot start with a number"
+msgstr "Uygulama adı numara ile başlayamaz"
+
+#: tr/application.csv:160 
+msgid "The description"
+msgstr "Açıklama"
+
+#: tr/application.csv:161 
+msgid "The description must be at least 200 characters"
+msgstr "Açıklama en az 200 karekter içermeli"
+
+#: tr/application.csv:162 
+msgid "The desktop icon"
+msgstr "Desktop ikonu"
+
+#: tr/application.csv:163 
+msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
+msgstr "Girilen paket kimliği yanlış, com.turkapp.appo gibi olmalı"
+
+#: tr/application.csv:164 
+msgid "The field is required"
+msgstr "Bu alan zorunlu"
+
+#: tr/application.csv:165 
+msgid "The file has been successfully uploaded"
+msgstr "Dosya başarıyla yüklendi"
+
+#: tr/application.csv:166 
+msgid "The following information are needed to download the source codes:<br />"
+msgstr "Aşağıdaki bilgiler kaynak kodlarını indirmek için gereklidir: <br />"
+
+#: tr/application.csv:167 
+msgid "The homepage image"
+msgstr "Ana sayfa resmi"
+
+#: tr/application.csv:168 
+msgid "The key cannot be empty."
+msgstr "Anahtar boş birakılamaz"
+
+#: tr/application.csv:169 
+msgid "The key is already used by another application."
+msgstr "Anahtar başka bir uygulama için kullanılmıştır"
+
+#: tr/application.csv:170 
+msgid "The keywords"
+msgstr "Anahtar Kelimeler"
+
+#: tr/application.csv:171 
+msgid "The main category"
+msgstr "Ana kategori"
+
+#: tr/application.csv:172 
+msgid "The startup image"
+msgstr "Başlangıç resmi"
+
+#: tr/application.csv:173 
+msgid "This application does not exist"
+msgstr "Bu uygulama mevcut değil"
+
+#: tr/application.csv:174 
+msgid "This application is visible on the front"
+msgstr "Bu uygulama görülür durumda"
+
+#: tr/application.csv:175 
+msgid "This key is already used by system features."
+msgstr "Bu anahtar zaten sistem özellikleri tarafından kullanılıyor."
+
+#: tr/application.csv:176 
+msgid "This option enables you to set the currency used in your app"
+msgstr "Bu seçenek uygulamada kullanılan para birimini ayarlamanızı sağlar"
+
+#: tr/application.csv:177 
+msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
+msgstr "Bu sayfa mobil kullanıcıların hesaplarına girmek ve yönetmek için gösterilecektir.Kullanıcı girişi gerekli özellikleri kullandığınızda otomotik olarak eklenir."
+
+#: tr/application.csv:178 
+msgid "To be able to download source codes, please provide the following information:<br />"
+msgstr "Kaynak kodları indirmenin mümkün olabilmesi için, aşağıdaki bilgileri veriniz: <br />"
+
+#: tr/application.csv:179 
+msgid "Travel"
+msgstr "Seyahat"
+
+#: tr/application.csv:180 
+msgid "URL"
+msgstr "URL"
+
+#: tr/application.csv:181 
+msgid "URL Key"
+msgstr "URL Anahtarı"
+
+#: tr/application.csv:182 
+msgid "Use into all of your application's pages"
+msgstr "Uygulamanızın tüm sayfaları içine kullanın"
+
+#: tr/application.csv:183 
+msgid "Used points"
+msgstr "Kullanımış puanlar"
+
+#: tr/application.csv:184 
+msgid "User Information"
+msgstr "Kullanıcı bilgisi"
+
+#: tr/application.csv:185 
+msgid "Utilities"
+msgstr "Hizmetler"
+
+#: tr/application.csv:186 
+msgid "Version"
+msgstr "Versiyon"
+
+#: tr/application.csv:187 
+msgid "Weather"
+msgstr "Hava"
+
+#: tr/application.csv:188 
+msgid "You already have sent a certificate."
+msgstr "Sertifikayı gönderdiniz."
+
+#: tr/application.csv:189 
+msgid "You can download your QRCode by <a class="f-bold" href="%s">clicking here</a>"
+msgstr "QR kodunuzu <a class="f-bold" href="%s">yükleyebilirsiniz.</a>"
+
+#: tr/application.csv:190 
+msgid "You can't use this domain."
+msgstr "Bu domain i kullanamazsınız."
+
+#: tr/application.csv:191 
+msgid "You don't have any applications yet"
+msgstr "Hiç uygulamanız yok"
+
+#: tr/application.csv:192 
+msgid "You have already sent a certificate"
+msgstr "Sertifikayı gönderdiniz."
+
+#: tr/application.csv:193 
+msgid "You have sent a certificate."
+msgstr "Bir sertifika yolladınız."
+
+#: tr/application.csv:194 
+msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+msgstr "Başvurunuzu yayınlamadan önce bir Google hesabı oluşturmanız gerekir. <a href="https://play.google.com/apps/publish/signup" target="_blank"> oluşturmak için burayı tıklayın. </a>"
+
+#: tr/application.csv:195 
+msgid "You have to create an Apple account before publishing your application. <a href="https://developer.apple.com/register/index.action" target="_blank">Click here to create one.</a>"
+msgstr "Başvurunuzu yayınlamadan önce bir Apple hesabı oluşturmanız gerekir. <a href="https://developer.apple.com/register/index.action" target="_blank"> oluşturmak için burayı tıklayın. </a>"
+
+#: tr/application.csv:196 
+msgid "You haven't chosen any template yet"
+msgstr "Henüz bir tema seçmediniz"
+
+#: tr/application.csv:197 
+msgid "You may not delete a library icon"
+msgstr "Kütüphane ikonu silinemez"
+
+#: tr/application.csv:198 
+msgid "You must have published your application to access this feature"
+msgstr "Bu özelliğe erişmek için başvurunuz yayınlanmış olmalı"
+
+#: tr/application.csv:199 
+msgid "Your CNAME is properly set"
+msgstr "CNAME doğru ayarlanmamış"
+
+#: tr/application.csv:200 
+msgid "Your best customers"
+msgstr "En iyi müşterileriniz"
+
+#: tr/application.csv:201 
+msgid "Your customers in figures"
+msgstr "Rakamlarla müşterileriniz"
+
+#: tr/application.csv:202 
+msgid "Your domain key "%s" is not valid."
+msgstr "Domain anahtarınız  "%s" geçerli değil."
+
+#: tr/application.csv:203 
+msgid "Your mobile address should not contain special characters"
+msgstr "Mobil adresiniz özel karakterler içermemelidir"
+
+#: tr/application.csv:204 
+msgid "Your pages"
+msgstr "Sayfalarınız"
+
+#: tr/application.csv:205 
+msgid "iOS Certificate"
+msgstr "iOS sertifikası"
+
+#: tr/application.csv:206 
+msgid "iPad Retina:"
+msgstr "iPad Retina:"
+
+#: tr/application.csv:207 
+msgid "iPhone 5 / 5S:"
+msgstr "iPhone 5 / 5S:"
+
+#: tr/application.csv:208 
+msgid "iPhone 6 Plus:"
+msgstr "iPhone 6 Plus:"
+
+#: tr/application.csv:209 
+msgid "iPhone 6:"
+msgstr "iPhone 6:"
+
+#: tr/application.csv:210 
+msgid "iPhone Version"
+msgstr "iPhone Versiyonu"
+
+#: tr/application.csv:211 
+msgid "icon"
+msgstr "ikon"
+
+#: tr/application.csv:212 
+msgid "logo"
+msgstr "logo"
+
+#: tr/application.csv:213 
+msgid "times"
+msgstr "kez"
+

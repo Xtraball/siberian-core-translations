@@ -1,0 +1,64 @@
+#: ca/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s punt de %s"
+
+#: ca/socialgaming.csv:2 
+msgid "A month"
+msgstr "Un mes"
+
+#: ca/socialgaming.csv:3 
+msgid "A week"
+msgstr "Una setmana"
+
+#: ca/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Rivals"
+
+#: ca/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Joc actual"
+
+#: ca/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "Actualment no hi ha rivals"
+
+#: ca/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Nom del joc"
+
+#: ca/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Joc salvat correctament"
+
+#: ca/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Pròxim partit"
+
+#: ca/socialgaming.csv:10 
+msgid "On the"
+msgstr "En la"
+
+#: ca/socialgaming.csv:11 
+msgid "Period"
+msgstr "Període"
+
+#: ca/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Periodicitat"
+
+#: ca/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Data de publicació"
+
+#: ca/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Rang del mes"
+
+#: ca/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Rang de la setmana"
+
+#: ca/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "Líder d'equip"
+

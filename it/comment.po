@@ -1,0 +1,128 @@
+#: it/comment.csv:1 
+msgid "'Near me' radius (in km):"
+msgstr "'Vicino a me' raggio (in km):"
+
+#: it/comment.csv:2 
+msgid "An error occurred while deleting this answer. Please try again later."
+msgstr "Si è verificato un errore durante l'eliminazione della richiesta. Si prega di riprovare più tardi."
+
+#: it/comment.csv:3 
+msgid "Create a news"
+msgstr "Crea una news"
+
+#: it/comment.csv:4 
+msgid "Create a news:"
+msgstr "Crea una news:"
+
+#: it/comment.csv:5 
+msgid "Hide this info"
+msgstr "Nascondi questa info"
+
+#: it/comment.csv:6 
+msgid "Information successfully deleted"
+msgstr "Informazione cancellata correttamente"
+
+#: it/comment.csv:7 
+msgid "Information successfully hidden"
+msgstr "Informazion nascosta correttamente"
+
+#: it/comment.csv:8 
+msgid "Information successfully saved"
+msgstr "Informazione salvata correttamente"
+
+#: it/comment.csv:9 
+msgid "Information successfully shown"
+msgstr "Informazione mostrata con successo"
+
+#: it/comment.csv:10 
+msgid "Insert a"
+msgstr "Inserisci un"
+
+#: it/comment.csv:11 
+msgid "It will be visible only after validation by our team."
+msgstr "Sarà visibile solo dopo la validazione da parte del nostro team."
+
+#: it/comment.csv:12 
+msgid "My customers answers"
+msgstr "Le domande dei miei clienti"
+
+#: it/comment.csv:13 
+msgid "My customers' comments"
+msgstr "I commenti dei miei clienti"
+
+#: it/comment.csv:14 
+msgid "Near me"
+msgstr "Vicino a me"
+
+#: it/comment.csv:15 
+msgid "Near me settings"
+msgstr "Vicino a me impostazioni"
+
+#: it/comment.csv:16 
+msgid "New post"
+msgstr "Nuovo post"
+
+#: it/comment.csv:17 
+msgid "Post"
+msgstr "Post"
+
+#: it/comment.csv:18 
+msgid "Publishing date"
+msgstr "Data di pubblicazione"
+
+#: it/comment.csv:19 
+msgid "Radius"
+msgstr "Raggio"
+
+#: it/comment.csv:20 
+msgid "Radius must be a valid numeric value."
+msgstr "Il raggio deve essere un valore numerico valido."
+
+#: it/comment.csv:21 
+msgid "Radius must be provided."
+msgstr "Il raggio deve essere indicato."
+
+#: it/comment.csv:22 
+msgid "Read More"
+msgstr "Leggi tutto"
+
+#: it/comment.csv:23 
+msgid "Recent"
+msgstr "Recente"
+
+#: it/comment.csv:24 
+msgid "Show this info"
+msgstr "Mostra questa info"
+
+#: it/comment.csv:25 
+msgid "There is no comment for this news"
+msgstr "Non c'è nessun commento per questa news"
+
+#: it/comment.csv:26 
+msgid "Was flagged as inappropriate"
+msgstr "È stato segnalato come inappropriato"
+
+#: it/comment.csv:27 
+msgid "You can't like more than once the same news"
+msgstr "Non puoi avere ulteriori informazioni sulla stessa news"
+
+#: it/comment.csv:28 
+msgid "You need to be connected to create a post"
+msgstr "È necessario essere connessi per creare un post"
+
+#: it/comment.csv:29 
+msgid "Your flag has successfully been notified"
+msgstr "Il flag è stato notificato correttamente"
+
+#: it/comment.csv:30 
+msgid "Your like has been successfully added"
+msgstr "Il like è stato aggiunto con successo"
+
+#: it/comment.csv:31 
+msgid "Your message has been successfully saved."
+msgstr "Il messaggio è stato salvato correttamente."
+
+#: it/comment.csv:32 
+msgid "Your post was successfully added"
+msgstr "Il post è stato aggiunto correttamente"
+

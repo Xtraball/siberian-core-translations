@@ -1,0 +1,28 @@
+#: el/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Lista de sus impuestos"
+
+#: el/tax.csv:2 
+msgid "Please select a country"
+msgstr "Por favor seleccionar un país"
+
+#: el/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Por favor, ingrese una tasa/impuesto"
+
+#: el/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Por favor, ingrese un/a tasa/impuesto válido."
+
+#: el/tax.csv:5 
+msgid "Rate"
+msgstr "Tasa"
+
+#: el/tax.csv:6 
+msgid "Remove"
+msgstr "Suprimir"
+
+#: el/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "No se han creado impuestos"
+

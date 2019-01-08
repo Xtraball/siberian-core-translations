@@ -1,0 +1,12 @@
+#: nl/api.csv:1 
+msgid "API Keys"
+msgstr "Uw APIs lijst"
+
+#: nl/api.csv:2 
+msgid "Api Keys"
+msgstr "API sleutels"
+
+#: nl/api.csv:3 
+msgid "Api Keys successfully saved"
+msgstr "API sleutels opgeslagen"
+

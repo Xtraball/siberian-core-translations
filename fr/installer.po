@@ -1,0 +1,204 @@
+#: fr/installer.csv:1 
+msgid "%s Update"
+msgstr "%s mise à jour"
+
+#: fr/installer.csv:2 
+msgid "All of your modules are up to date"
+msgstr "Tous vos modules sont à jour"
+
+#: fr/installer.csv:3 
+msgid "Click here to send your module"
+msgstr "Cliquez ici pour envoyer votre module"
+
+#: fr/installer.csv:4 
+msgid "Drop your module here"
+msgstr "Lachez votre module ici"
+
+#: fr/installer.csv:5 
+msgid "Host"
+msgstr "hôte"
+
+#: fr/installer.csv:6 
+msgid "Installing"
+msgstr "Installation"
+
+#: fr/installer.csv:7 
+msgid "Installing module <em><span id="label_module"></span></em>"
+msgstr "Installation du module <em><span id="label_module"></span></em>"
+
+#: fr/installer.csv:8 
+msgid "Installing your module"
+msgstr "Installation de votre module"
+
+#: fr/installer.csv:9 
+msgid "Module successfully installed"
+msgstr "Module installé avec succès !"
+
+#: fr/installer.csv:10 
+msgid "Module to upload"
+msgstr "Module à télécharger"
+
+#: fr/installer.csv:11 
+msgid "Modules Installation"
+msgstr "Installation des modules"
+
+#: fr/installer.csv:12 
+msgid "Modules successfully installed!"
+msgstr "Modules installés avec succès"
+
+#: fr/installer.csv:13 
+msgid "No directory provided"
+msgstr "Aucun répertoire fourni"
+
+#: fr/installer.csv:14 
+msgid "No module to install"
+msgstr "Aucun module à installer"
+
+#: fr/installer.csv:15 
+msgid "No modules uploaded yet"
+msgstr "Aucun module n'a encore été installé"
+
+#: fr/installer.csv:16 
+msgid "Or set the correct permissions to the following files and folders and try again:"
+msgstr "Ou définir les autorisations appropriées pour les fichiers et dossiers suivants et essayez à nouveau:"
+
+#: fr/installer.csv:17 
+msgid "Package Details"
+msgstr "Détails du Package"
+
+#: fr/installer.csv:18 
+msgid "Path to your system"
+msgstr "Chemin d'accès à votre système"
+
+#: fr/installer.csv:19 
+msgid "Please update the module to the %s version before installing this update."
+msgstr "SVP mettre à jour le module à la version %s avant d'installer cette mise à jour."
+
+#: fr/installer.csv:20 
+msgid "Please update your system to the %s version before installing this update."
+msgstr "SVP mettre à jour votre système à la version %s avant d'installer cette mise à jour."
+
+#: fr/installer.csv:21 
+msgid "Please wait, we're installing your module"
+msgstr "Veuillez patienter quelques instants, votre module est en cours d'installation"
+
+#: fr/installer.csv:22 
+msgid "Please, enter a name"
+msgstr "Veuillez saisir le nom"
+
+#: fr/installer.csv:23 
+msgid "Please, fill out all fields"
+msgstr "Veuillez renseigner tous les champs"
+
+#: fr/installer.csv:24 
+msgid "Port"
+msgstr "Port"
+
+#: fr/installer.csv:25 
+msgid "Processing the installation"
+msgstr "Installation en cours"
+
+#: fr/installer.csv:26 
+msgid "Retry"
+msgstr "Réessayer"
+
+#: fr/installer.csv:27 
+msgid "Select a module to upload"
+msgstr "Sélectionner le module à installer :"
+
+#: fr/installer.csv:28 
+msgid "Some files and folder are not writable. You can either provide your FTP access to install this update:"
+msgstr "Certains fichiers et dossiers ne sont pas accessible en écriture. Vous pouvez fournir votre accès FTP pour installer cette mise à jour:"
+
+#: fr/installer.csv:29 
+msgid "Some files don't have the right permissions and can't be updated"
+msgstr "Certains fichiers n'ont pas les bonnes autorisations et ne peuvent pas être mis à jour"
+
+#: fr/installer.csv:30 
+msgid "The database connection failed. Please, check the entered information."
+msgstr "chec de la connexion. Merci de vérifier vos informations"
+
+#: fr/installer.csv:31 
+msgid "The entered password confirmation does not match the entered password."
+msgstr "La confirmation du mot de passe n'est pas correct"
+
+#: fr/installer.csv:32 
+msgid "The file %s does not exist"
+msgstr "Le fichier %s n'existe pas"
+
+#: fr/installer.csv:33 
+msgid "The file %s is not writable."
+msgstr "Le fichier %s n'est pas modifiable."
+
+#: fr/installer.csv:34 
+msgid "The folder %s is not writable."
+msgstr "Le dossier %s n'a pas les droits en écriture."
+
+#: fr/installer.csv:35 
+msgid "The folder %s is not writable. Please fix this issue and try again."
+msgstr "Le dossier %s n'a pas les droits en écriture. Veuillez corriger ce problème et réessayer."
+
+#: fr/installer.csv:36 
+msgid "The following files and folders are not writable:"
+msgstr "Les fichiers et dossiers suivants ne sont pas accessible en écriture:"
+
+#: fr/installer.csv:37 
+msgid "The following files and folders are not writable: <br /> - %s"
+msgstr "Les fichiers et dossiers suivants ne sont pas accessible en écriture: <br /> - %s"
+
+#: fr/installer.csv:38 
+msgid "The following folders are not writable: <br /> - %s"
+msgstr "Les dossiers suivants n'ont pas les droits en écriture : <br /> - %s"
+
+#: fr/installer.csv:39 
+msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+msgstr "L'installation du module <span id="installation_failed_module_name"> </ span> a échoué: <span id="installation_failed_because"></ span>"
+
+#: fr/installer.csv:40 
+msgid "The package you have uploaded is invalid."
+msgstr "Le package que vous avez téléchargé n'est pas valide."
+
+#: fr/installer.csv:41 
+msgid "This process may take few minutes, please do not refresh the page"
+msgstr "Ce processus peut prendre quelques minutes, merci de ne pas rafraichir la page."
+
+#: fr/installer.csv:42 
+msgid "This update is designed for the %s, you can't install it in your %s."
+msgstr "Cette mise à jour est conçu pour %s, vous ne pouvez pas l'installer dans votre %s."
+
+#: fr/installer.csv:43 
+msgid "Unable to connect to your FTP. Please check the connection information."
+msgstr "Impossible de se connecter à votre FTP. S'il vous plaît vérifier les informations de connexion."
+
+#: fr/installer.csv:44 
+msgid "Unable to detect your site. Please make sure the entered path is correct."
+msgstr "Impossible de détecter votre site. Se il vous plaît faire que le chemin entré est correct."
+
+#: fr/installer.csv:45 
+msgid "Unable to extract the archive."
+msgstr "Impossible d'extraire l'archive."
+
+#: fr/installer.csv:46 
+msgid "Unable to open the archive."
+msgstr "Impossible d'ouvrir l'archive"
+
+#: fr/installer.csv:47 
+msgid "Unable to open the file. Please, make sure that you sent a valid archive."
+msgstr "Impossible d'ouvrir le fichier. S'il vous plaît, assurez-vous que vous avez envoyé une archive valide."
+
+#: fr/installer.csv:48 
+msgid "Upload a module"
+msgstr "Envoyer un module"
+
+#: fr/installer.csv:49 
+msgid "Upload your modules"
+msgstr "Envoyer vos modules"
+
+#: fr/installer.csv:50 
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: fr/installer.csv:51 
+msgid "You already have installed this update."
+msgstr "Vous avez déjà installé cette mise à jour."
+

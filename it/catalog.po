@@ -1,0 +1,136 @@
+#: it/catalog.csv:1 
+msgid "%s - All"
+msgstr "%s -Tutte"
+
+#: it/catalog.csv:2 
+msgid "Add a category"
+msgstr "Aggiungi una categoria"
+
+#: it/catalog.csv:3 
+msgid "Add a format"
+msgstr "Aggiungi un format"
+
+#: it/catalog.csv:4 
+msgid "All"
+msgstr "Tutti"
+
+#: it/catalog.csv:5 
+msgid "An error occurred while loading your product."
+msgstr "Si è verificato un errore durante il caricamento del prodotto."
+
+#: it/catalog.csv:6 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "Si è verificato un errore durante il salvataggio della categoria. Si prega di riprovare più tardi."
+
+#: it/catalog.csv:7 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "Si è verificato un errore durante il salvataggio del prodotto. Si prega di riprovare più tardi."
+
+#: it/catalog.csv:8 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "Si è verificato un errore durante il salvataggio della funzione prodotto. Si prega di riprovare più tardi."
+
+#: it/catalog.csv:9 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "Si è verificato un errore durante il salvataggio. Una delle categorie non è stato identificata."
+
+#: it/catalog.csv:10 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "Si è verificato un errore durante il salvataggio. Uno dei prodotti non è stato identificato."
+
+#: it/catalog.csv:11 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Sei sicuro di voler cancellare questa categoria e tutte le sue sottocategorie?"
+
+#: it/catalog.csv:12 
+msgid "Are you sure you want to delete this category?"
+msgstr "Sei sicuro di voler cancellare questa categoria?"
+
+#: it/catalog.csv:13 
+msgid "Are you sure you want to delete this product?"
+msgstr "Sei sicuro di voler eliminare questo prodotto?"
+
+#: it/catalog.csv:14 
+msgid "Category"
+msgstr "Categoria"
+
+#: it/catalog.csv:15 
+msgid "Choose a category"
+msgstr "Scegli una categoria"
+
+#: it/catalog.csv:16 
+msgid "Choose a subcategory"
+msgstr "Scegli una sottocategoria"
+
+#: it/catalog.csv:17 
+msgid "Click on a category to display sub-categories"
+msgstr "Clicca su categoria per visualizzare le sotto categorie"
+
+#: it/catalog.csv:18 
+msgid "Create a new product"
+msgstr "Crea un nuovo prodotto"
+
+#: it/catalog.csv:19 
+msgid "Does this product have many formats?"
+msgstr "Questo prodotto ha molti formati?"
+
+#: it/catalog.csv:20 
+msgid "Edit the"
+msgstr "Modifica"
+
+#: it/catalog.csv:21 
+msgid "Edit the product"
+msgstr "Modifica prodotto"
+
+#: it/catalog.csv:22 
+msgid "Format"
+msgstr "Formato"
+
+#: it/catalog.csv:23 
+msgid "Picture"
+msgstr "Immagine"
+
+#: it/catalog.csv:24 
+msgid "Price"
+msgstr "Prezzo"
+
+#: it/catalog.csv:25 
+msgid "Prices"
+msgstr "Prezzi"
+
+#: it/catalog.csv:26 
+msgid "Product"
+msgstr "Prodotto"
+
+#: it/catalog.csv:27 
+msgid "Product formats"
+msgstr "Formati del prodotto"
+
+#: it/catalog.csv:28 
+msgid "Product name"
+msgstr "Nome prodotto"
+
+#: it/catalog.csv:29 
+msgid "Rules"
+msgstr "Regole"
+
+#: it/catalog.csv:30 
+msgid "Set meal successfully deleted."
+msgstr "Funzione prodotto cancelata correttamente"
+
+#: it/catalog.csv:31 
+msgid "Set meal successfully saved."
+msgstr "Funzione prodotto salvata correttamente"
+
+#: it/catalog.csv:32 
+msgid "Sub-category"
+msgstr "Sotto categoria"
+
+#: it/catalog.csv:33 
+msgid "st"
+msgstr "via"
+
+#: it/catalog.csv:34 
+msgid "sub-category"
+msgstr "Sotto categoria"
+

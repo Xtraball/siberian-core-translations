@@ -1,0 +1,72 @@
+#: ca/system.csv:1 
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Tipus d'arxiu:</b> %s < br / > <b>mida recomanada:</b> %s"
+
+#: ca/system.csv:2 
+msgid "Click here to send your favicon"
+msgstr "Feu clic aquí per enviar el seu favicon"
+
+#: ca/system.csv:3 
+msgid "Click here to send your logo"
+msgstr "Feu clic aquí per enviar el seu logo"
+
+#: ca/system.csv:4 
+msgid "Communications"
+msgstr "Comunicacions"
+
+#: ca/system.csv:5 
+msgid "Current favicon"
+msgstr "Favicon actual"
+
+#: ca/system.csv:6 
+msgid "Current logo"
+msgstr "Logotip actual"
+
+#: ca/system.csv:7 
+msgid "Display a link to your clients to your support platform"
+msgstr "Mostrar un enllaç als seus clients a la seva plataforma de suport"
+
+#: ca/system.csv:8 
+msgid "Drop your favicon here"
+msgstr "Deixar caure el seu favicon aquí"
+
+#: ca/system.csv:9 
+msgid "Drop your logo here"
+msgstr "Deixar caure el seu logo aquí"
+
+#: ca/system.csv:10 
+msgid "Sales"
+msgstr "Vendes"
+
+#: ca/system.csv:11 
+msgid "Sales Email Address"
+msgstr "Adreça d'E-mail vendes"
+
+#: ca/system.csv:12 
+msgid "Sender's email address of the emails sent by the site to your clients"
+msgstr "Adreça de correu electrònic del remitent dels correus electrònics enviats pel lloc als seus clients"
+
+#: ca/system.csv:13 
+msgid "Sender's name of the emails sent by the site to your clients"
+msgstr "Nom del remitent dels correus electrònics enviats pel lloc als seus clients"
+
+#: ca/system.csv:14 
+msgid "Support Email Address"
+msgstr "Adreça de correu electrònic de suport"
+
+#: ca/system.csv:15 
+msgid "The folder /images/default is not writable."
+msgstr "No es pugui escriure a la carpeta /images/default."
+
+#: ca/system.csv:16 
+msgid "Your Location"
+msgstr "Seva localització"
+
+#: ca/system.csv:17 
+msgid "Your Platform"
+msgstr "Vostra plataforma"
+
+#: ca/system.csv:18 
+msgid "Your company"
+msgstr "Seva empresa"
+

@@ -1,0 +1,124 @@
+#: pt_BR/form.csv:1 
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "<strong>%s</strong> deve ser um valor numérico<br />"
+
+#: pt_BR/form.csv:2 
+msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgstr "<strong>%s</strong> deve ser uma data válida (e.g. dd/mm/yyyy)<br />"
+
+#: pt_BR/form.csv:3 
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "<strong>%s</strong> deve ser uma data válida<br />"
+
+#: pt_BR/form.csv:4 
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "<strong>%s</strong> deve ser um endereço de email válido<br />"
+
+#: pt_BR/form.csv:5 
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "<strong>%s</strong>deve ser preenchido<br />"
+
+#: pt_BR/form.csv:6 
+msgid "Add a field"
+msgstr "Adicionar um campo"
+
+#: pt_BR/form.csv:7 
+msgid "Add a section"
+msgstr "Adicionar uma seção"
+
+#: pt_BR/form.csv:8 
+msgid "Add an option"
+msgstr "Adicionar uma opção"
+
+#: pt_BR/form.csv:9 
+msgid "An error occurred while saving. A field can't be identified."
+msgstr "Ocorreu um erro ao salvar. Um campo não pode ser identificado."
+
+#: pt_BR/form.csv:10 
+msgid "Are you sure you want to remove this field?"
+msgstr "Tem certeza de que deseja remover este campo?"
+
+#: pt_BR/form.csv:11 
+msgid "Are you sure you want to remove this section?"
+msgstr "Tem certeza de que deseja remover esta seção?"
+
+#: pt_BR/form.csv:12 
+msgid "Hello,"
+msgstr "Olá,"
+
+#: pt_BR/form.csv:13 
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: pt_BR/form.csv:14 
+msgid "Choose a field type:"
+msgstr "Escolha um tipo de campo:"
+
+#: pt_BR/form.csv:15 
+msgid "Create a new field"
+msgstr "Criar um novo campo"
+
+#: pt_BR/form.csv:16 
+msgid "Date/Hour"
+msgstr "Data/Hora"
+
+#: pt_BR/form.csv:17 
+msgid "Drop down"
+msgstr "Drop down"
+
+#: pt_BR/form.csv:18 
+msgid "Edit field %s"
+msgstr "Editar campo %s"
+
+#: pt_BR/form.csv:19 
+msgid "Field name"
+msgstr "Nome do campo"
+
+#: pt_BR/form.csv:20 
+msgid "Field name:"
+msgstr "Nome do campo:"
+
+#: pt_BR/form.csv:21 
+msgid "Geolocation"
+msgstr "Geolocalização"
+
+#: pt_BR/form.csv:22 
+msgid "Manage fields"
+msgstr "Gerenciar campos"
+
+#: pt_BR/form.csv:23 
+msgid "Manage options:"
+msgstr "Gerenciar opções:"
+
+#: pt_BR/form.csv:24 
+msgid "Multiline text"
+msgstr "Texto de múltiplas linhas"
+
+#: pt_BR/form.csv:25 
+msgid "Option"
+msgstr "Opção"
+
+#: pt_BR/form.csv:26 
+msgid "Radio"
+msgstr "Radio"
+
+#: pt_BR/form.csv:27 
+msgid "Recipient email:"
+msgstr "Destinatário e-mail:"
+
+#: pt_BR/form.csv:28 
+msgid "The form has been sent successfully"
+msgstr "O formulário foi enviada com sucesso!"
+
+#: pt_BR/form.csv:29 
+msgid "You have to choose a field type."
+msgstr "Você tem que escolher um tipo de campo."
+
+#: pt_BR/form.csv:30 
+msgid "Your app's form"
+msgstr "Formulário de seu aplicativo"
+
+#: pt_BR/form.csv:31 
+msgid "Your form has been filled out, here are the answers:"
+msgstr "Seu formulário foi preenchido, aqui estão as respostas:"
+

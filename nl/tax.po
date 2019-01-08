@@ -1,0 +1,28 @@
+#: nl/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Lijst van belastingen"
+
+#: nl/tax.csv:2 
+msgid "Please select a country"
+msgstr "Selecteer een land"
+
+#: nl/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Vul een belastingtarief in."
+
+#: nl/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Vul een geldig belastingtarief in."
+
+#: nl/tax.csv:5 
+msgid "Rate"
+msgstr "Beoordeel"
+
+#: nl/tax.csv:6 
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: nl/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "Je hebt nog geen lijst met belasting tariven gemaakt"
+

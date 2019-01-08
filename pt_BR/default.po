@@ -1,0 +1,1008 @@
+#: pt_BR/default.csv:1 
+msgid "%d Unread Messages"
+msgstr "%d Mensagens não lidas"
+
+#: pt_BR/default.csv:2 
+msgid "404, page not found"
+msgstr "404, página não encontrada"
+
+#: pt_BR/default.csv:3 
+msgid "APIs"
+msgstr "APIs"
+
+#: pt_BR/default.csv:4 
+msgid "Accounts"
+msgstr "Contas"
+
+#: pt_BR/default.csv:5 
+msgid "Action"
+msgstr "Ação"
+
+#: pt_BR/default.csv:6 
+msgid "Actions"
+msgstr "Ações"
+
+#: pt_BR/default.csv:7 
+msgid "Add"
+msgstr "Adicionar"
+
+#: pt_BR/default.csv:8 
+msgid "Add a"
+msgstr "Adicionar um"
+
+#: pt_BR/default.csv:9 
+msgid "Add<br /><span class="bold">Pictures</span>"
+msgstr "Adicionar<br /><span class="bold">Imagens</span>"
+
+#: pt_BR/default.csv:10 
+msgid "Add an <br /><span class="bold">image</span>"
+msgstr "Adicionar uma <br /><span class="bold">imagem</span>"
+
+#: pt_BR/default.csv:11 
+msgid "Address"
+msgstr "Endereço"
+
+#: pt_BR/default.csv:12 
+msgid "All items"
+msgstr "Todos os Itens"
+
+#: pt_BR/default.csv:13 
+msgid "An error occurred during process. Please try again later."
+msgstr "Ocorreu um erro durante o processo. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:14 
+msgid "An error occurred during the process. Please try again later."
+msgstr "Ocorreu um erro durante o processo. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:15 
+msgid "An error occurred while loading. Please try again later."
+msgstr "Ocorreu um erro ao carregar. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:16 
+msgid "An error occurred while loading. Please, try again later."
+msgstr "Ocorreu um erro ao carregar. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:17 
+msgid "An error occurred while saving"
+msgstr "Ocorreu um erro ao salvar"
+
+#: pt_BR/default.csv:18 
+msgid "An error occurred while saving your account. Please try again later."
+msgstr "Ocorreu um erro ao salvar a sua conta. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:19 
+msgid "An error occurred while saving your picture. Please try againg later."
+msgstr "Ocorreu um erro ao salvar a sua imagem. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:20 
+msgid "An error occurred while saving. Please try again later."
+msgstr "Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:21 
+msgid "An error occurred while saving. Please, try again later."
+msgstr "Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:22 
+msgid "An error occurred while uploading your file. Please, try again later."
+msgstr "Ocorreu um erro durante o upload do seu arquivo. Por favor, tente novamente mais tarde."
+
+#: pt_BR/default.csv:23 
+msgid "Appearance"
+msgstr "Aparência"
+
+#: pt_BR/default.csv:24 
+msgid "Application"
+msgstr "Aplicativo"
+
+#: pt_BR/default.csv:25 
+msgid "Application Name"
+msgstr "Nome Aplicativo"
+
+#: pt_BR/default.csv:26 
+msgid "Applications"
+msgstr "Aplicativos"
+
+#: pt_BR/default.csv:27 
+msgid "Are you sure you want to delete this element?"
+msgstr "Tem certeza de que deseja excluir este elemento?"
+
+#: pt_BR/default.csv:28 
+msgid "Are you sure you want to remove this account?"
+msgstr "Are you sure you want to remove this account?"
+
+#: pt_BR/default.csv:29 
+msgid "Authentication failed. Please check your email and/or your password"
+msgstr "Falha na autenticação. Por favor, verifique seu e-mail e/ou sua senha"
+
+#: pt_BR/default.csv:30 
+msgid "Back"
+msgstr "Voltar"
+
+#: pt_BR/default.csv:31 
+msgid "Browse"
+msgstr "Procurar"
+
+#: pt_BR/default.csv:32 
+msgid "Can only be used once"
+msgstr "Pode ser usado apenas uma vez"
+
+#: pt_BR/default.csv:33 
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pt_BR/default.csv:34 
+msgid "Cart"
+msgstr "Carrinho"
+
+#: pt_BR/default.csv:35 
+msgid "Catalog"
+msgstr "Catálogo"
+
+#: pt_BR/default.csv:36 
+msgid "Category"
+msgstr "Categoria"
+
+#: pt_BR/default.csv:37 
+msgid "Change password"
+msgstr "Alterar senha"
+
+#: pt_BR/default.csv:38 
+msgid "City"
+msgstr "Cidade"
+
+#: pt_BR/default.csv:39 
+msgid "City:"
+msgstr "Cidade:"
+
+#: pt_BR/default.csv:40 
+msgid "Close"
+msgstr "Fechar"
+
+#: pt_BR/default.csv:41 
+msgid "close"
+msgstr "fechar"
+
+#: pt_BR/default.csv:42 
+msgid "Comment"
+msgstr "Comentário"
+
+#: pt_BR/default.csv:43 
+msgid "Comments"
+msgstr "Comentários"
+
+#: pt_BR/default.csv:44 
+msgid "Communication"
+msgstr "Comunicação"
+
+#: pt_BR/default.csv:45 
+msgid "Company"
+msgstr "Empresa"
+
+#: pt_BR/default.csv:46 
+msgid "Coms"
+msgstr "Coms"
+
+#: pt_BR/default.csv:47 
+msgid "Conditions"
+msgstr "Condições"
+
+#: pt_BR/default.csv:48 
+msgid "Confirm Password"
+msgstr "Confirmar senha"
+
+#: pt_BR/default.csv:49 
+msgid "Confirm new password"
+msgstr "Confirmar nova senha"
+
+#: pt_BR/default.csv:50 
+msgid "Country"
+msgstr "País"
+
+#: pt_BR/default.csv:51 
+msgid "Country:"
+msgstr "País:"
+
+#: pt_BR/default.csv:52 
+msgid "Create"
+msgstr "Criar"
+
+#: pt_BR/default.csv:53 
+msgid "Create a new account"
+msgstr "Criar uma nova conta"
+
+#: pt_BR/default.csv:54 
+msgid "Created at"
+msgstr "Criado em"
+
+#: pt_BR/default.csv:55 
+msgid "Created at:"
+msgstr "Criado em:"
+
+#: pt_BR/default.csv:56 
+msgid "Currency"
+msgstr "Moeda"
+
+#: pt_BR/default.csv:57 
+msgid "Current password"
+msgstr "Senha atual"
+
+#: pt_BR/default.csv:58 
+msgid "Dashboard"
+msgstr "Painel de Controle"
+
+#: pt_BR/default.csv:59 
+msgid "Date"
+msgstr "Data"
+
+#: pt_BR/default.csv:60 
+msgid "day"
+msgstr "dia"
+
+#: pt_BR/default.csv:61 
+msgid "days"
+msgstr "dias"
+
+#: pt_BR/default.csv:62 
+msgid "Default Languages"
+msgstr "Idiomas padrões"
+
+#: pt_BR/default.csv:63 
+msgid "Delete"
+msgstr "Deletar"
+
+#: pt_BR/default.csv:64 
+msgid "Description"
+msgstr "Descrição"
+
+#: pt_BR/default.csv:65 
+msgid "Description:"
+msgstr "Descrição:"
+
+#: pt_BR/default.csv:66 
+msgid "Details"
+msgstr "Detalhes"
+
+#: pt_BR/default.csv:67 
+msgid "Edit"
+msgstr "Editar"
+
+#: pt_BR/default.csv:68 
+msgid "Editing"
+msgstr "Edição"
+
+#: pt_BR/default.csv:69 
+msgid "Email"
+msgstr "E-mail"
+
+#: pt_BR/default.csv:70 
+msgid "Email address"
+msgstr "Endereço de e-mail"
+
+#: pt_BR/default.csv:71 
+msgid "Email:"
+msgstr "E-mail:"
+
+#: pt_BR/default.csv:72 
+msgid "End at"
+msgstr "Terminar em"
+
+#: pt_BR/default.csv:73 
+msgid "Error : <br/>"
+msgstr "Erro : <br/>"
+
+#: pt_BR/default.csv:74 
+msgid "Errors : <br/>"
+msgstr "Erros : <br/>"
+
+#: pt_BR/default.csv:75 
+msgid "Export your customers"
+msgstr "Exportar seus clientes"
+
+#: pt_BR/default.csv:76 
+msgid "Extension not allowed, '%s' only"
+msgstr "Extensão não permitida, '%s' somente"
+
+#: pt_BR/default.csv:77 
+msgid "Facebook"
+msgstr "Facebook"
+
+#: pt_BR/default.csv:78 
+msgid "Firstname"
+msgstr "Nome"
+
+#: pt_BR/default.csv:79 
+msgid "Firstname:"
+msgstr "Nome:"
+
+#: pt_BR/default.csv:80 
+msgid "Forgot your password ?"
+msgstr "Esqueceu sua senha ?"
+
+#: pt_BR/default.csv:81 
+msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+msgstr "Esqueceu sua senha? Não se preocupe! Basta digitar o seu endereço de e-mail e nós lhe enviaremos uma senha nova."
+
+#: pt_BR/default.csv:82 
+msgid "General"
+msgstr "Geral"
+
+#: pt_BR/default.csv:83 
+msgid "Hello,"
+msgstr "Olá,"
+
+#: pt_BR/default.csv:84 
+msgid "Here is your new password:"
+msgstr "Aqui está a sua nova senha:"
+
+#: pt_BR/default.csv:85 
+msgid "hour"
+msgstr "hora"
+
+#: pt_BR/default.csv:86 
+msgid "hours"
+msgstr "horas"
+
+#: pt_BR/default.csv:87 
+msgid "How do you want to access the backoffice if you remove the only user remaining?"
+msgstr "Como você deseja acessar o backoffice se você remover o único usuário restante?"
+
+#: pt_BR/default.csv:88 
+msgid "ID"
+msgstr "ID"
+
+#: pt_BR/default.csv:89 
+msgid "Image not high enough, %spx minimum allowed."
+msgstr "Imagem não é alta o suficiente, %spx mínimo permitido."
+
+#: pt_BR/default.csv:90 
+msgid "Image not large enough, %spx minimum allowed."
+msgstr "Imagem não é grande o suficiente, %spx mínimo permitido."
+
+#: pt_BR/default.csv:91 
+msgid "Image not large enough, '%s' allowed."
+msgstr "A imagem não é grande o suficiente, '%s' permitidos."
+
+#: pt_BR/default.csv:92 
+msgid "Image successfully saved"
+msgstr "Imagem salva com sucesso"
+
+#: pt_BR/default.csv:93 
+msgid "Image too high, %spx maximum allowed."
+msgstr "Imagem muito alta, %spx máximo permitido."
+
+#: pt_BR/default.csv:94 
+msgid "Image too large, %spx maximum allowed."
+msgstr "Imagem muito grande, %spx máximo permitido."
+
+#: pt_BR/default.csv:95 
+msgid "Image too large, '%s' allowed."
+msgstr "Imagem muito grande, '%s' permitidos."
+
+#: pt_BR/default.csv:96 
+msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
+msgstr "A fim de desfrutar plenamente os nossos recursos, nós encorajamos você a usar, pelo menos:.<br />"
+
+#: pt_BR/default.csv:97 
+msgid "In order to publish your application, we need:<br />- "
+msgstr "Para publicar seu aplicativo, é preciso:<br />- "
+
+#: pt_BR/default.csv:98 
+msgid "Incorrect filetype."
+msgstr "Tipo de arquivo incorreto."
+
+#: pt_BR/default.csv:99 
+msgid "Info successfully saved"
+msgstr "Informações salvas com sucesso"
+
+#: pt_BR/default.csv:100 
+msgid "Information"
+msgstr "Informações"
+
+#: pt_BR/default.csv:101 
+msgid "Infos successfully saved"
+msgstr "Informações salvas com sucesso"
+
+#: pt_BR/default.csv:102 
+msgid "Insert a <br /><span class="bold">cover image</span>"
+msgstr "Insira uma <br /><span class="bold">imagem de capa</span>"
+
+#: pt_BR/default.csv:103 
+msgid "Invoice %s"
+msgstr "Fatura %s"
+
+#: pt_BR/default.csv:104 
+msgid "Invoices"
+msgstr "Invoices"
+
+#: pt_BR/default.csv:105 
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: pt_BR/default.csv:106 
+msgid "Lastname"
+msgstr "Sobrenome"
+
+#: pt_BR/default.csv:107 
+msgid "Lastname:"
+msgstr "Sobrenome:"
+
+#: pt_BR/default.csv:108 
+msgid "Latitude"
+msgstr "Latitude"
+
+#: pt_BR/default.csv:109 
+msgid "Latitude:"
+msgstr "Latitude:"
+
+#: pt_BR/default.csv:110 
+msgid "Like"
+msgstr "Curtir"
+
+#: pt_BR/default.csv:111 
+msgid "Likes"
+msgstr "Curtidas"
+
+#: pt_BR/default.csv:112 
+msgid "Link"
+msgstr "Link"
+
+#: pt_BR/default.csv:113 
+msgid "Load more"
+msgstr "Leia mais"
+
+#: pt_BR/default.csv:114 
+msgid "loading"
+msgstr "carregamento"
+
+#: pt_BR/default.csv:115 
+msgid "Locate"
+msgstr "Localizar"
+
+#: pt_BR/default.csv:116 
+msgid "Location:"
+msgstr "Localização:"
+
+#: pt_BR/default.csv:117 
+msgid "Log in"
+msgstr "Log in"
+
+#: pt_BR/default.csv:118 
+msgid "Log-in"
+msgstr "Log-in"
+
+#: pt_BR/default.csv:119 
+msgid "Log-out"
+msgstr "Sair"
+
+#: pt_BR/default.csv:120 
+msgid "Logged in as"
+msgstr "Logado como"
+
+#: pt_BR/default.csv:121 
+msgid "Login"
+msgstr "Login"
+
+#: pt_BR/default.csv:122 
+msgid "Longitude"
+msgstr "Longitude"
+
+#: pt_BR/default.csv:123 
+msgid "Longitude:"
+msgstr "Longitude:"
+
+#: pt_BR/default.csv:124 
+msgid "minute"
+msgstr "minuto"
+
+#: pt_BR/default.csv:125 
+msgid "minutes"
+msgstr "minutos"
+
+#: pt_BR/default.csv:126 
+msgid "MM/dd/y"
+msgstr "MM/dd/y"
+
+#: pt_BR/default.csv:127 
+msgid "MM/dd/y 'at' hh:mm a"
+msgstr "MM/dd/y 'at' hh:mm a"
+
+#: pt_BR/default.csv:128 
+msgid "MM/dd/y hh:mm a"
+msgstr "MM/dd/y hh:mm a"
+
+#: pt_BR/default.csv:129 
+msgid "MM/dd/yy"
+msgstr "MM/dd/yy"
+
+#: pt_BR/default.csv:130 
+msgid "MM/dd/yyyy"
+msgstr "MM/dd/yyyy"
+
+#: pt_BR/default.csv:131 
+msgid "MM,d yy"
+msgstr "MM,d yy"
+
+#: pt_BR/default.csv:132 
+msgid "MMMM dd y"
+msgstr "MMMM dd y"
+
+#: pt_BR/default.csv:133 
+msgid "Never"
+msgstr "Nunca"
+
+#: pt_BR/default.csv:134 
+msgid "No"
+msgstr "Não"
+
+#: pt_BR/default.csv:135 
+msgid "Main category"
+msgstr "Categoria principal"
+
+#: pt_BR/default.csv:136 
+msgid "Make this image colorizable"
+msgstr "Marque esta imagem como colorizável"
+
+#: pt_BR/default.csv:137 
+msgid "Manage"
+msgstr "Gerenciar"
+
+#: pt_BR/default.csv:138 
+msgid "Maps"
+msgstr "Mapas"
+
+#: pt_BR/default.csv:139 
+msgid "Message from your app %s"
+msgstr "Mensagem do seu aplicativo %s"
+
+#: pt_BR/default.csv:140 
+msgid "Messages"
+msgstr "Mensagens"
+
+#: pt_BR/default.csv:141 
+msgid "Modules"
+msgstr "Módulos"
+
+#: pt_BR/default.csv:142 
+msgid "More"
+msgstr "Mais"
+
+#: pt_BR/default.csv:143 
+msgid "My account"
+msgstr "Minha conta"
+
+#: pt_BR/default.csv:144 
+msgid "My invoices"
+msgstr "Minhas faturas"
+
+#: pt_BR/default.csv:145 
+msgid "My Invoices"
+msgstr "Minhas faturas"
+
+#: pt_BR/default.csv:146 
+msgid "Name"
+msgstr "Nome"
+
+#: pt_BR/default.csv:147 
+msgid "New"
+msgstr "Novo"
+
+#: pt_BR/default.csv:148 
+msgid "No file found."
+msgstr "Nenhum arquivo encontrado."
+
+#: pt_BR/default.csv:149 
+msgid "Nothing to display"
+msgstr "Nada para exibir"
+
+#: pt_BR/default.csv:150 
+msgid "Number"
+msgstr "Número"
+
+#: pt_BR/default.csv:151 
+msgid "OK"
+msgstr "OK"
+
+#: pt_BR/default.csv:152 
+msgid "OR"
+msgstr "OU"
+
+#: pt_BR/default.csv:153 
+msgid "Ouch, this page doesn't exist"
+msgstr "Oops, esta página não existe."
+
+#: pt_BR/default.csv:154 
+msgid "Password"
+msgstr "Senha"
+
+#: pt_BR/default.csv:155 
+msgid "Password:"
+msgstr "Senha:"
+
+#: pt_BR/default.csv:156 
+msgid "Passwords don't match"
+msgstr "As senhas não coincidem"
+
+#: pt_BR/default.csv:157 
+msgid "Phone"
+msgstr "Telefone"
+
+#: pt_BR/default.csv:158 
+msgid "Phone:"
+msgstr "Telefone:"
+
+#: pt_BR/default.csv:159 
+msgid "Picture%s"
+msgstr "Imagem%s"
+
+#: pt_BR/default.csv:160 
+msgid "Plans"
+msgstr "Planos"
+
+#: pt_BR/default.csv:161 
+msgid "Platform Name"
+msgstr "Nome da Plataforma"
+
+#: pt_BR/default.csv:162 
+msgid "Player"
+msgstr "Player"
+
+#: pt_BR/default.csv:163 
+msgid "Please, enter a date greater than today"
+msgstr "Por favor, insira uma data maior do que hoje"
+
+#: pt_BR/default.csv:164 
+msgid "Please enter a password"
+msgstr "Por favor, insira uma senha"
+
+#: pt_BR/default.csv:165 
+msgid "Please enter a valid email address"
+msgstr "Por favor insira um endereço de e-mail válido"
+
+#: pt_BR/default.csv:166 
+msgid "Please enter a valid url"
+msgstr "Digite uma URL válida"
+
+#: pt_BR/default.csv:167 
+msgid "Please enter your email address"
+msgstr "Digite seu endereço de e-mail"
+
+#: pt_BR/default.csv:168 
+msgid "Please fill in the following fields:"
+msgstr "Por favor, preencha os seguintes campos:"
+
+#: pt_BR/default.csv:169 
+msgid "Please log in."
+msgstr "Por favor faça login."
+
+#: pt_BR/default.csv:170 
+msgid "Please, enter a correct email address."
+msgstr "Por favor, insira um endereço de e-mail correto."
+
+#: pt_BR/default.csv:171 
+msgid "Please, enter a password."
+msgstr "Por favor, insira uma senha."
+
+#: pt_BR/default.csv:172 
+msgid "Please, enter a valid date"
+msgstr "Por favor, insira uma data válida"
+
+#: pt_BR/default.csv:173 
+msgid "Podcast"
+msgstr "Podcast"
+
+#: pt_BR/default.csv:174 
+msgid "Podcast type is invalid or can't be found"
+msgstr "Tipo de Podcast é inválido ou não pode ser encontrado"
+
+#: pt_BR/default.csv:175 
+msgid "Podcast URL (iTunes format)"
+msgstr "Podcast URL (iTunes formato)"
+
+#: pt_BR/default.csv:176 
+msgid "Postcode"
+msgstr "CEP"
+
+#: pt_BR/default.csv:177 
+msgid "Postcode:"
+msgstr "CEP:"
+
+#: pt_BR/default.csv:178 
+msgid "Price:"
+msgstr "Preço:"
+
+#: pt_BR/default.csv:179 
+msgid "Push"
+msgstr "Push"
+
+#: pt_BR/default.csv:180 
+msgid "Required fields"
+msgstr "Campos obrigatórios"
+
+#: pt_BR/default.csv:181 
+msgid "Resize your picture"
+msgstr "Redimensionar a sua imagem"
+
+#: pt_BR/default.csv:182 
+msgid "Resize your picture:"
+msgstr "Redimensionar a sua imagem:"
+
+#: pt_BR/default.csv:183 
+msgid "SEND"
+msgstr "ENVIAR"
+
+#: pt_BR/default.csv:184 
+msgid "Save"
+msgstr "Salvar"
+
+#: pt_BR/default.csv:185 
+msgid "Search"
+msgstr "Pesquisa"
+
+#: pt_BR/default.csv:186 
+msgid "second"
+msgstr "segundo"
+
+#: pt_BR/default.csv:187 
+msgid "seconds"
+msgstr "segundos"
+
+#: pt_BR/default.csv:188 
+msgid "Select a country"
+msgstr "Selecionar um país"
+
+#: pt_BR/default.csv:189 
+msgid "Select all"
+msgstr "Selecionar todos"
+
+#: pt_BR/default.csv:190 
+msgid "Send"
+msgstr "Enviar"
+
+#: pt_BR/default.csv:191 
+msgid "Send your pictures"
+msgstr "Enviar suas imagens"
+
+#: pt_BR/default.csv:192 
+msgid "Settings"
+msgstr "Configurações"
+
+#: pt_BR/default.csv:193 
+msgid "Size:"
+msgstr "Tamanho:"
+
+#: pt_BR/default.csv:194 
+msgid "Street"
+msgstr "Rua"
+
+#: pt_BR/default.csv:195 
+msgid "Street:"
+msgstr "Rua:"
+
+#: pt_BR/default.csv:196 
+msgid "Subscriptions"
+msgstr "Assinaturas"
+
+#: pt_BR/default.csv:197 
+msgid "Support"
+msgstr "Suporte"
+
+#: pt_BR/default.csv:198 
+msgid "Support Link"
+msgstr "Link suporte"
+
+#: pt_BR/default.csv:199 
+msgid "Tax"
+msgstr "Imposto"
+
+#: pt_BR/default.csv:200 
+msgid "Taxes"
+msgstr "Impostos"
+
+#: pt_BR/default.csv:201 
+msgid "Text"
+msgstr "Texto"
+
+#: pt_BR/default.csv:202 
+msgid "The account has been successfully saved"
+msgstr "A conta foi salva com sucesso"
+
+#: pt_BR/default.csv:203 
+msgid "The email is required"
+msgstr "O e-mail é obrigatório"
+
+#: pt_BR/default.csv:204 
+msgid "The file '%s' does not exist"
+msgstr "O arquivo '%s' não existe"
+
+#: pt_BR/default.csv:205 
+msgid "The file %s does not exist"
+msgstr "O arquivo %s não existe"
+
+#: pt_BR/default.csv:206 
+msgid "The image '%s' does not exist"
+msgstr "A imagem '%s' não existe"
+
+#: pt_BR/default.csv:207 
+msgid "The image size '%s' could not be detected."
+msgstr "O tamanho da imagem '%s' não pôde ser detectada."
+
+#: pt_BR/default.csv:208 
+msgid "The old password does not match the entered password."
+msgstr "A senha antiga não coincide com a senha digitada."
+
+#: pt_BR/default.csv:209 
+msgid "The password is required"
+msgstr "A senha é obrigatória"
+
+#: pt_BR/default.csv:210 
+msgid "The password must be at least 6 characters"
+msgstr "A senha deve ter pelo menos 6 caracteres"
+
+#: pt_BR/default.csv:211 
+msgid "This administrator does not exist"
+msgstr "Este administrador não existe"
+
+#: pt_BR/default.csv:212 
+msgid "This email address is already used"
+msgstr "Este endereço de e-mail já está sendo usado"
+
+#: pt_BR/default.csv:213 
+msgid "This field is required"
+msgstr "O campo é obrigatório"
+
+#: pt_BR/default.csv:214 
+msgid "This user does not exist."
+msgstr "Este usuário não existe."
+
+#: pt_BR/default.csv:215 
+msgid "Timezone"
+msgstr "Fuso horário"
+
+#: pt_BR/default.csv:216 
+msgid "title"
+msgstr "título"
+
+#: pt_BR/default.csv:217 
+msgid "titles"
+msgstr "títulos"
+
+#: pt_BR/default.csv:218 
+msgid "Title"
+msgstr "Título"
+
+#: pt_BR/default.csv:219 
+msgid "Title:"
+msgstr "Título:"
+
+#: pt_BR/default.csv:220 
+msgid "Total"
+msgstr "Total"
+
+#: pt_BR/default.csv:221 
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: pt_BR/default.csv:222 
+msgid "Updated at"
+msgstr "Atualizado em"
+
+#: pt_BR/default.csv:223 
+msgid "Use this coupon"
+msgstr "Utilize este cupom"
+
+#: pt_BR/default.csv:224 
+msgid "User"
+msgstr "Usuário"
+
+#: pt_BR/default.csv:225 
+msgid "User successfully saved"
+msgstr "Usuário salvo com sucesso"
+
+#: pt_BR/default.csv:226 
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: pt_BR/default.csv:227 
+msgid "Users"
+msgstr "Usuários"
+
+#: pt_BR/default.csv:228 
+msgid "Validate"
+msgstr "Validar"
+
+#: pt_BR/default.csv:229 
+msgid "VAT Number"
+msgstr "VAT Número"
+
+#: pt_BR/default.csv:230 
+msgid "Version %s"
+msgstr "Versão %s"
+
+#: pt_BR/default.csv:231 
+msgid "View"
+msgstr "Ver"
+
+#: pt_BR/default.csv:232 
+msgid "We are sorry but this address is already used."
+msgstr "Lamentamos, mas este endereço já está sendo usado."
+
+#: pt_BR/default.csv:233 
+msgid "We are sorry but this email address already exists."
+msgstr "Lamentamos, mas este endereço de e-mail já existe."
+
+#: pt_BR/default.csv:234 
+msgid "We are sorry but this feature is not available yet"
+msgstr "Lamentamos, mas este recurso ainda não está disponível"
+
+#: pt_BR/default.csv:235 
+msgid "Yes"
+msgstr "Sim"
+
+#: pt_BR/default.csv:236 
+msgid "You can upload a pem certificate only."
+msgstr "Você pode enviar apenas um certificado pem."
+
+#: pt_BR/default.csv:237 
+msgid "You can upload a zip archive only."
+msgstr "Você pode enviar apenas um arquivo zip."
+
+#: pt_BR/default.csv:238 
+msgid "You can upload an icon only (.ico and .png)."
+msgstr "Você pode enviar apenas um ícone (.ico and .png)."
+
+#: pt_BR/default.csv:239 
+msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
+msgstr "Você pode fazer upload de uma imagem única (.jpg, .jpeg, .gif and .png)."
+
+#: pt_BR/default.csv:240 
+msgid "You can't upload more than one file at a time."
+msgstr "Você não pode carregar mais de um arquivo ao mesmo tempo."
+
+#: pt_BR/default.csv:241 
+msgid "You must be logged in to post a comment"
+msgstr "Você deve estar logado para postar um comentário"
+
+#: pt_BR/default.csv:242 
+msgid "Your browser is too old to view the content of our website.<br />"
+msgstr "Seu navegador é muito antigo para visualizar o conteúdo do nosso site.<br />"
+
+#: pt_BR/default.csv:243 
+msgid "Your comment"
+msgstr "O seu comentário"
+
+#: pt_BR/default.csv:244 
+msgid "Your email address"
+msgstr "Seu endereço de e-mail"
+
+#: pt_BR/default.csv:245 
+msgid "Your email address does not exist"
+msgstr "Seu endereço de e-mail não existe"
+
+#: pt_BR/default.csv:246 
+msgid "Your name"
+msgstr "Seu nome"
+
+#: pt_BR/default.csv:247 
+msgid "Your new password has been sent to the entered email address"
+msgstr "Sua nova senha foi enviada para o endereço de e-mail digitado"
+
+#: pt_BR/default.csv:248 
+msgid "Your password does not match the entered password."
+msgstr "Sua senha não coincide com a senha digitada."
+
+#: pt_BR/default.csv:249 
+msgid "Youtube"
+msgstr "Youtube"
+
+#: pt_BR/default.csv:250 
+msgid "en"
+msgstr "en"
+
+#: pt_BR/default.csv:251 
+msgid "picture"
+msgstr "imagem"
+
+#: pt_BR/default.csv:252 
+msgid "to add a subfolder."
+msgstr "para adicionar uma subpasta."
+

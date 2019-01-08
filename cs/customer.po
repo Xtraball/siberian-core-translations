@@ -1,0 +1,176 @@
+#: cs/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "%s - Vytvoření účtu"
+
+#: cs/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "%s - Vaše nové heslo"
+
+#: cs/customer.csv:3 
+msgid "A request to reset your password has been made."
+msgstr "Žádost o resetování hesla byla provedena."
+
+#: cs/customer.csv:4 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "Při připojování k Vašemu účtu na Facebooku došlo k chybě. Zkuste to prosím později"
+
+#: cs/customer.csv:5 
+msgid "Are you sure you want to remove this user?"
+msgstr "Jste si jisti, že chcete odstranit tohoto uživatele?"
+
+#: cs/customer.csv:6 
+msgid "Change Password"
+msgstr "Změnit heslo"
+
+#: cs/customer.csv:7 
+msgid "Congratulations,"
+msgstr "Gratulujeme,"
+
+#: cs/customer.csv:8 
+msgid "Create"
+msgstr "vytvořit"
+
+#: cs/customer.csv:9 
+msgid "Create a new user"
+msgstr "Vytvoření nového uživatele"
+
+#: cs/customer.csv:10 
+msgid "Create an account"
+msgstr "Vytvořit účet"
+
+#: cs/customer.csv:11 
+msgid "Customer"
+msgstr "Zákazník"
+
+#: cs/customer.csv:12 
+msgid "Customers"
+msgstr "Zákazníci"
+
+#: cs/customer.csv:13 
+msgid "Disconnect"
+msgstr "Odhlásit"
+
+#: cs/customer.csv:14 
+msgid "Edit the user %s"
+msgstr "Upravit uživatele %s"
+
+#: cs/customer.csv:15 
+msgid "First name"
+msgstr "Křestní jméno"
+
+#: cs/customer.csv:16 
+msgid "Forgot your password?"
+msgstr "Zapomněli jste heslo?"
+
+#: cs/customer.csv:17 
+msgid "Gender"
+msgstr "Oslovení"
+
+#: cs/customer.csv:18 
+msgid "Here are your credentials:"
+msgstr "Zde jsou Vaše přihlašovací údaje<br/>"
+
+#: cs/customer.csv:19 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Přijímám podmínky <u>Ochrany osobních údajů</u>"
+
+#: cs/customer.csv:20 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Pokud narazíte na nějaké problémy, neváhejte nás kontaktovat:"
+
+#: cs/customer.csv:21 
+msgid "Last name"
+msgstr "Příjmení"
+
+#: cs/customer.csv:22 
+msgid "Login:"
+msgstr "Přihlašovací email:"
+
+#: cs/customer.csv:23 
+msgid "Miss"
+msgstr "Slečna"
+
+#: cs/customer.csv:24 
+msgid "Mr"
+msgstr "Pan"
+
+#: cs/customer.csv:25 
+msgid "Mrs"
+msgstr "Paní"
+
+#: cs/customer.csv:26 
+msgid "My Account"
+msgstr "Můj účet"
+
+#: cs/customer.csv:27 
+msgid "My application's users"
+msgstr "Uživatelé mojí aplikace"
+
+#: cs/customer.csv:28 
+msgid "Old Password"
+msgstr "Staré heslo"
+
+#: cs/customer.csv:29 
+msgid "Or with your account"
+msgstr "Nebo pomocí Vašeho účtu"
+
+#: cs/customer.csv:30 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Prosím, zadejte svou e-mailovou adresu. Zašleme Vám nové heslo"
+
+#: cs/customer.csv:31 
+msgid "Please log in with your mobile phone"
+msgstr "Prosím, přihlaste se pomocí svého mobilního telefonu"
+
+#: cs/customer.csv:32 
+msgid "Privacy Policy"
+msgstr "Ochrana osobních údajů"
+
+#: cs/customer.csv:33 
+msgid "See you soon,"
+msgstr "S pozdravem,"
+
+#: cs/customer.csv:34 
+msgid "Show me in ranking"
+msgstr "Ukázat v žebříčku"
+
+#: cs/customer.csv:35 
+msgid "The old email address does not match the entered email address."
+msgstr "Původní e-mailová adresa neodpovídá zadané e-mailové adrese"
+
+#: cs/customer.csv:36 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Tento uživatel má přístup na stránky zamčené pomocí funkce "Zámek""
+
+#: cs/customer.csv:37 
+msgid "This user is visible in ranking"
+msgstr "Tento uživatel je viditelný v žebříčku"
+
+#: cs/customer.csv:38 
+msgid "User"
+msgstr "Uživatel"
+
+#: cs/customer.csv:39 
+msgid "User Information"
+msgstr "Informace o uživateli"
+
+#: cs/customer.csv:40 
+msgid "Users"
+msgstr "Uživatelé"
+
+#: cs/customer.csv:41 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Je nám líto, ale %s účet je již spojen s jedním z našich zákazníků"
+
+#: cs/customer.csv:42 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "Váš účet byl úspěšne vytvořen. S tímto účtem můžete začít využívat spoustu užitečných nabídek a funkcí v aplikaci"
+
+#: cs/customer.csv:43 
+msgid "Your account has been successfully saved"
+msgstr "Váš účet byl úspěšně uložen"
+
+#: cs/customer.csv:44 
+msgid "﻿%s - Account creation"
+msgstr "%s - Vytvoření účtu"
+

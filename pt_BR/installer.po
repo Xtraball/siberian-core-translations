@@ -1,0 +1,128 @@
+#: pt_BR/installer.csv:1 
+msgid "All of your modules are up to date"
+msgstr "Todos os seus módulos estão atualizados"
+
+#: pt_BR/installer.csv:2 
+msgid "Click here to send your module"
+msgstr "Clique aqui para enviar seu módulo"
+
+#: pt_BR/installer.csv:3 
+msgid "Drop your module here"
+msgstr "Envie o seu módulo aqui"
+
+#: pt_BR/installer.csv:4 
+msgid "Installing module <em><span id="label_module"></span></em>"
+msgstr "Instalando o módulo <em><span id="label_module"></span></em>"
+
+#: pt_BR/installer.csv:5 
+msgid "Installing"
+msgstr "Instalando"
+
+#: pt_BR/installer.csv:6 
+msgid "Installing your module"
+msgstr "Instalando seu módulo"
+
+#: pt_BR/installer.csv:7 
+msgid "Module successfully installed"
+msgstr "Módulo instalado com sucesso"
+
+#: pt_BR/installer.csv:8 
+msgid "Module to upload"
+msgstr "Módulo para upload"
+
+#: pt_BR/installer.csv:9 
+msgid "Modules Installation"
+msgstr "Instalação de módulos"
+
+#: pt_BR/installer.csv:10 
+msgid "Modules successfully installed!"
+msgstr "Módulos instalados com sucesso."
+
+#: pt_BR/installer.csv:11 
+msgid "No directory provided"
+msgstr "Nenhum diretório fornecido"
+
+#: pt_BR/installer.csv:12 
+msgid "No module to install"
+msgstr "Nenhum módulo para instalar"
+
+#: pt_BR/installer.csv:13 
+msgid "No modules uploaded yet"
+msgstr "Nenhum módulo carregado ainda"
+
+#: pt_BR/installer.csv:14 
+msgid "Please wait, we're installing your module"
+msgstr "Por favor aguarde, estamos instalando o módulo"
+
+#: pt_BR/installer.csv:15 
+msgid "Please, enter a name"
+msgstr "Por favor, insira um nome"
+
+#: pt_BR/installer.csv:16 
+msgid "Please, fill out all fields"
+msgstr "Por favor, preencha todos os campos"
+
+#: pt_BR/installer.csv:17 
+msgid "Processing the installation"
+msgstr "Processamento da instalação"
+
+#: pt_BR/installer.csv:18 
+msgid "Retry"
+msgstr "Tentar novamente"
+
+#: pt_BR/installer.csv:19 
+msgid "Select a module to upload"
+msgstr "Selecionar um módulo para upload"
+
+#: pt_BR/installer.csv:20 
+msgid "The database connection failed. Please, check the entered information."
+msgstr "A conexão com o banco falhou. Por favor, verifique as informações inseridas."
+
+#: pt_BR/installer.csv:21 
+msgid "The entered password confirmation does not match the entered password."
+msgstr "A confirmação da senha digitada não corresponde a senha digitada."
+
+#: pt_BR/installer.csv:22 
+msgid "The file %s does not exist"
+msgstr "O arquivo %s não existe"
+
+#: pt_BR/installer.csv:23 
+msgid "The folder %s is not writable. Please fix this issue and try again."
+msgstr "A pasta %s não é gravável. Por favor corrigir esse problema e tente novamente."
+
+#: pt_BR/installer.csv:24 
+msgid "The folder %s is not writable."
+msgstr "A pasta %s não é gravável."
+
+#: pt_BR/installer.csv:25 
+msgid "The following folders are not writable: <br /> - %s"
+msgstr "As seguintes pastas não são graváveis: <br /> - %s"
+
+#: pt_BR/installer.csv:26 
+msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+msgstr "A instalação do módulo <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+
+#: pt_BR/installer.csv:27 
+msgid "This process may take few minutes, please do not refresh the page"
+msgstr "Este processo pode demorar alguns minutos, por favor, não atualize a página"
+
+#: pt_BR/installer.csv:28 
+msgid "Unable to extract the archive."
+msgstr "Não foi possível extrair o arquivo."
+
+#: pt_BR/installer.csv:29 
+msgid "Unable to open the archive."
+msgstr "Não é possível abrir o arquivo."
+
+#: pt_BR/installer.csv:30 
+msgid "Unable to open the file. Please, make sure that you sent a valid archive."
+msgstr "Não é possível abrir o arquivo. Por favor, certifique-se de que você enviou um arquivo válido."
+
+#: pt_BR/installer.csv:31 
+msgid "Upload a module"
+msgstr "Fazer upload de um módulo"
+
+#: pt_BR/installer.csv:32 
+msgid "Upload your modules"
+msgstr "Enviar seus módulos"
+

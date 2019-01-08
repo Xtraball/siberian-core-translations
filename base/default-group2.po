@@ -1,0 +1,1520 @@
+#: base/default-group2.csv:1 
+msgid "-"
+msgstr "-"
+
+#: base/default-group2.csv:2 
+msgid " "Remove this page from this folder?""
+msgstr " "Remove this page from this folder?""
+
+#: base/default-group2.csv:3 
+msgid "#100: Unable to fetch the update. Please, try again later."
+msgstr "#100: Unable to fetch the update. Please, try again later."
+
+#: base/default-group2.csv:4 
+msgid "#101: An error occurred while saving"
+msgstr "#101: An error occurred while saving"
+
+#: base/default-group2.csv:5 
+msgid "#101: Unable to fetch the update. Please, try again later."
+msgstr "#101: Unable to fetch the update. Please, try again later."
+
+#: base/default-group2.csv:6 
+msgid "#102: An error occurred while saving"
+msgstr "#102: An error occurred while saving"
+
+#: base/default-group2.csv:7 
+msgid "#102: Unable to fetch the update. Please, try again later."
+msgstr "#102: Unable to fetch the update. Please, try again later."
+
+#: base/default-group2.csv:8 
+msgid "#103: An error occurred while saving. Please try again later."
+msgstr "#103: An error occurred while saving. Please try again later."
+
+#: base/default-group2.csv:9 
+msgid "#104: An error occurred while saving. Please try again later."
+msgstr "#104: An error occurred while saving. Please try again later."
+
+#: base/default-group2.csv:10 
+msgid "#105: An error occurred while saving"
+msgstr "#105: An error occurred while saving"
+
+#: base/default-group2.csv:11 
+msgid "#106: An error occurred while saving"
+msgstr "#106: An error occurred while saving"
+
+#: base/default-group2.csv:12 
+msgid "#107: An error occurred while saving"
+msgstr "#107: An error occurred while saving"
+
+#: base/default-group2.csv:13 
+msgid "#108: An error occurred while saving"
+msgstr "#108: An error occurred while saving"
+
+#: base/default-group2.csv:14 
+msgid "#109: An error occurred while saving"
+msgstr "#109: An error occurred while saving"
+
+#: base/default-group2.csv:15 
+msgid "#110: An error occurred while saving"
+msgstr "#110: An error occurred while saving"
+
+#: base/default-group2.csv:16 
+msgid "#111: An error occurred while saving"
+msgstr "#111: An error occurred while saving"
+
+#: base/default-group2.csv:17 
+msgid "#112: An error occurred while saving"
+msgstr "#112: An error occurred while saving"
+
+#: base/default-group2.csv:18 
+msgid "#114: An error occurred while saving"
+msgstr "#114: An error occurred while saving"
+
+#: base/default-group2.csv:19 
+msgid "#115: An error occurred while saving"
+msgstr "#115: An error occurred while saving"
+
+#: base/default-group2.csv:20 
+msgid "#116: An error occurred while saving"
+msgstr "#116: An error occurred while saving"
+
+#: base/default-group2.csv:21 
+msgid "#117: An error occurred while saving"
+msgstr "#117: An error occurred while saving"
+
+#: base/default-group2.csv:22 
+msgid "#118: An error occurred while saving"
+msgstr "#118: An error occurred while saving"
+
+#: base/default-group2.csv:23 
+msgid "#119: An error occurred while saving"
+msgstr "#119: An error occurred while saving"
+
+#: base/default-group2.csv:24 
+msgid "#120: An error occurred while saving"
+msgstr "#120: An error occurred while saving"
+
+#: base/default-group2.csv:25 
+msgid "#121: An error occurred while saving"
+msgstr "#121: An error occurred while saving"
+
+#: base/default-group2.csv:26 
+msgid "#122: An error occurred while saving"
+msgstr "#122: An error occurred while saving"
+
+#: base/default-group2.csv:27 
+msgid "#123: An error occurred while saving"
+msgstr "#123: An error occurred while saving"
+
+#: base/default-group2.csv:28 
+msgid "#156: Missing params!"
+msgstr "#156: Missing params!"
+
+#: base/default-group2.csv:29 
+msgid "#19-001 The folder %s is not writable. Please fix this issue and try again."
+msgstr "#19-001 The folder %s is not writable. Please fix this issue and try again."
+
+#: base/default-group2.csv:30 
+msgid "#19-002 Unable to extract the archive. Please make sure that the 'zip' extension is installed."
+msgstr "#19-002 Unable to extract the archive. Please make sure that the 'zip' extension is installed."
+
+#: base/default-group2.csv:31 
+msgid "#19-003: This update is designed for the %s, you can't install it in your %s."
+msgstr "#19-003: This update is designed for the %s, you can't install it in your %s."
+
+#: base/default-group2.csv:32 
+msgid "#19-004: You already have installed this update."
+msgstr "#19-004: You already have installed this update."
+
+#: base/default-group2.csv:33 
+msgid "#19-005: Please update your system to the %s version before installing this update."
+msgstr "#19-005: Please update your system to the %s version before installing this update."
+
+#: base/default-group2.csv:34 
+msgid "#19-007: Please update your system to the %s version before installing this update."
+msgstr "#19-007: Please update your system to the %s version before installing this update."
+
+#: base/default-group2.csv:35 
+msgid "#19-008: You already have installed this template."
+msgstr "#19-008: You already have installed this template."
+
+#: base/default-group2.csv:36 
+msgid "#19-009: Please update your system to the %s version before installing this update."
+msgstr "#19-009: Please update your system to the %s version before installing this update."
+
+#: base/default-group2.csv:37 
+msgid "#19-010: The package you have uploaded is invalid."
+msgstr "#19-010: The package you have uploaded is invalid."
+
+#: base/default-group2.csv:38 
+msgid "#19-011: The package you have uploaded is invalid."
+msgstr "#19-011: The package you have uploaded is invalid."
+
+#: base/default-group2.csv:39 
+msgid "#19-013: The folder %s is not writable."
+msgstr "#19-013: The folder %s is not writable."
+
+#: base/default-group2.csv:40 
+msgid "#19-014: Your system doesn't meet the requirements for this module, version >=%s is required."
+msgstr "#19-014: Your system doesn't meet the requirements for this module, version >=%s is required."
+
+#: base/default-group2.csv:41 
+msgid "#19-016: You already have installed this %s or a newer version."
+msgstr "#19-016: You already have installed this %s or a newer version."
+
+#: base/default-group2.csv:42 
+msgid "#354-01: An error occurred while saving your colors."
+msgstr "#354-01: An error occurred while saving your colors."
+
+#: base/default-group2.csv:43 
+msgid "#354-02: An error occurred while saving your colors."
+msgstr "#354-02: An error occurred while saving your colors."
+
+#: base/default-group2.csv:44 
+msgid "#354-03: SCSS Compilation error, you must input valid SCSS."
+msgstr "#354-03: SCSS Compilation error, you must input valid SCSS."
+
+#: base/default-group2.csv:45 
+msgid "#498-01: An error occured while exporting your application."
+msgstr "#498-01: An error occured while exporting your application."
+
+#: base/default-group2.csv:46 
+msgid "#500-01: This application does not exist"
+msgstr "#500-01: This application does not exist"
+
+#: base/default-group2.csv:47 
+msgid "#500-02: This application does not exist"
+msgstr "#500-02: This application does not exist"
+
+#: base/default-group2.csv:48 
+msgid "#567-03: Missing value_id or place_id."
+msgstr "#567-03: Missing value_id or place_id."
+
+#: base/default-group2.csv:49 
+msgid "#567-04: An error occured."
+msgstr "#567-04: An error occured."
+
+#: base/default-group2.csv:50 
+msgid "#567-07: Missing value_id or place_id."
+msgstr "#567-07: Missing value_id or place_id."
+
+#: base/default-group2.csv:51 
+msgid "#567-09: Missing value_id or company_id."
+msgstr "#567-09: Missing value_id or company_id."
+
+#: base/default-group2.csv:52 
+msgid "#734-01: Missing yandex API key"
+msgstr "#734-01: Missing yandex API key"
+
+#: base/default-group2.csv:53 
+msgid "#734-03: Invalid yandex API key OR Free limit request exceeded."
+msgstr "#734-03: Invalid yandex API key OR Free limit request exceeded."
+
+#: base/default-group2.csv:54 
+msgid "A e-mail has been sent to %s, please check your inbox."
+msgstr "A e-mail has been sent to %s, please check your inbox."
+
+#: base/default-group2.csv:55 
+msgid "A place can belong to multiple categories."
+msgstr "A place can belong to multiple categories."
+
+#: base/default-group2.csv:56 
+msgid "ACTIVATE"
+msgstr "ACTIVATE"
+
+#: base/default-group2.csv:57 
+msgid "Above 50 active whitelabels, Siberian's automated Let's Encrypt SSL certificate generation is not supported."
+msgstr "Above 50 active whitelabels, Siberian's automated Let's Encrypt SSL certificate generation is not supported."
+
+#: base/default-group2.csv:58 
+msgid "Accepted Terms of Service"
+msgstr "Accepted Terms of Service"
+
+#: base/default-group2.csv:59 
+msgid "Account Settings"
+msgstr "Account Settings"
+
+#: base/default-group2.csv:60 
+msgid "Action '{$action}' executed for module '{$module}'."
+msgstr "Action '{$action}' executed for module '{$module}'."
+
+#: base/default-group2.csv:61 
+msgid "Add an <br /><span class="bold">image</span>"
+msgstr "Add an <br /><span class="bold">image</span>"
+
+#: base/default-group2.csv:62 
+msgid "Add<br /><span class="bold">Attachment</span>"
+msgstr "Add<br /><span class="bold">Attachment</span>"
+
+#: base/default-group2.csv:63 
+msgid "Add<br /><span class="bold">Pictures</span>"
+msgstr "Add<br /><span class="bold">Pictures</span>"
+
+#: base/default-group2.csv:64 
+msgid "Addresses blocks can now have a website & a phone number."
+msgstr "Addresses blocks can now have a website & a phone number."
+
+#: base/default-group2.csv:65 
+msgid "Ads type"
+msgstr "Ads type"
+
+#: base/default-group2.csv:66 
+msgid "After the upgrade you will be required to upload new homepage & splashscreen, actual homepages & splashscreens can still be downloaded."
+msgstr "After the upgrade you will be required to upload new homepage & splashscreen, actual homepages & splashscreens can still be downloaded."
+
+#: base/default-group2.csv:67 
+msgid "All places"
+msgstr "All places"
+
+#: base/default-group2.csv:68 
+msgid "Allow line return?"
+msgstr "Allow line return?"
+
+#: base/default-group2.csv:69 
+msgid "Alphabetically"
+msgstr "Alphabetically"
+
+#: base/default-group2.csv:70 
+msgid "An error occurred while processing the payment."
+msgstr "An error occurred while processing the payment."
+
+#: base/default-group2.csv:71 
+msgid "Android 4.4+"
+msgstr "Android 4.4+"
+
+#: base/default-group2.csv:72 
+msgid "Android Studio 3+"
+msgstr "Android Studio 3+"
+
+#: base/default-group2.csv:73 
+msgid "Android being more restrictive with screen orientation some combination are not possible."
+msgstr "Android being more restrictive with screen orientation some combination are not possible."
+
+#: base/default-group2.csv:74 
+msgid "Android only (You must set a Firebase Key)"
+msgstr "Android only (You must set a Firebase Key)"
+
+#: base/default-group2.csv:75 
+msgid "Android orientation is invalid!"
+msgstr "Android orientation is invalid!"
+
+#: base/default-group2.csv:76 
+msgid "Android orientation settings"
+msgstr "Android orientation settings"
+
+#: base/default-group2.csv:77 
+msgid "Api User"
+msgstr "Api User"
+
+#: base/default-group2.csv:78 
+msgid "Apple"
+msgstr "Apple"
+
+#: base/default-group2.csv:79 
+msgid "Application %s"
+msgstr "Application %s"
+
+#: base/default-group2.csv:80 
+msgid "Application_Mobile_DataController::findall, class: {$model} doesn't exists."
+msgstr "Application_Mobile_DataController::findall, class: {$model} doesn't exists."
+
+#: base/default-group2.csv:81 
+msgid "Apps efficaces + Prix minime = Des clients heureux"
+msgstr "Apps efficaces + Prix minime = Des clients heureux"
+
+#: base/default-group2.csv:82 
+msgid "Are you sure you want to delete this discount?"
+msgstr "Are you sure you want to delete this discount?"
+
+#: base/default-group2.csv:83 
+msgid "Background Color - Active"
+msgstr "Background Color - Active"
+
+#: base/default-group2.csv:84 
+msgid "Background Color - Hover"
+msgstr "Background Color - Hover"
+
+#: base/default-group2.csv:85 
+msgid "Backoffice access"
+msgstr "Backoffice access"
+
+#: base/default-group2.csv:86 
+msgid "Backoffice page Title"
+msgstr "Backoffice page Title"
+
+#: base/default-group2.csv:87 
+msgid "Backoffice theme (BETA)"
+msgstr "Backoffice theme (BETA)"
+
+#: base/default-group2.csv:88 
+msgid "Banner ID"
+msgstr "Banner ID"
+
+#: base/default-group2.csv:89 
+msgid "Before you can generate your application, you must upload new homepage & splashscreen."
+msgstr "Before you can generate your application, you must upload new homepage & splashscreen."
+
+#: base/default-group2.csv:90 
+msgid "Before you can re-publish your application, you must upgrade it to the new <b>unified</b> homepage & splashscreen."
+msgstr "Before you can re-publish your application, you must upgrade it to the new <b>unified</b> homepage & splashscreen."
+
+#: base/default-group2.csv:91 
+msgid "Build failed!"
+msgstr "Build failed!"
+
+#: base/default-group2.csv:92 
+msgid "Build succeed!"
+msgstr "Build succeed!"
+
+#: base/default-group2.csv:93 
+msgid "By checking this box, you agree <a href="%s" target="_blank" class="underline">to our terms and conditions</a>"
+msgstr "By checking this box, you agree <a href="%s" target="_blank" class="underline">to our terms and conditions</a>"
+
+#: base/default-group2.csv:94 
+msgid "CANCEL"
+msgstr "CANCEL"
+
+#: base/default-group2.csv:95 
+msgid "CSS Editor is saved!"
+msgstr "CSS Editor is saved!"
+
+#: base/default-group2.csv:96 
+msgid "Cancel Subscription"
+msgstr "Cancel Subscription"
+
+#: base/default-group2.csv:97 
+msgid "Cancel current Offline subscription"
+msgstr "Cancel current Offline subscription"
+
+#: base/default-group2.csv:98 
+msgid "Cancel subscription!"
+msgstr "Cancel subscription!"
+
+#: base/default-group2.csv:99 
+msgid "Cancelled and expired"
+msgstr "Cancelled and expired"
+
+#: base/default-group2.csv:100 
+msgid "Cancelled to be expired"
+msgstr "Cancelled to be expired"
+
+#: base/default-group2.csv:101 
+msgid "Catalog is up-to-date."
+msgstr "Catalog is up-to-date."
+
+#: base/default-group2.csv:102 
+msgid "Category is up-to-date."
+msgstr "Category is up-to-date."
+
+#: base/default-group2.csv:103 
+msgid "Channel: #security, #notifications, etc..."
+msgstr "Channel: #security, #notifications, etc..."
+
+#: base/default-group2.csv:104 
+msgid "Check payments"
+msgstr "Check payments"
+
+#: base/default-group2.csv:105 
+msgid "Choose your font family"
+msgstr "Choose your font family"
+
+#: base/default-group2.csv:106 
+msgid "Clean-up sensible data"
+msgstr "Clean-up sensible data"
+
+#: base/default-group2.csv:107 
+msgid "Click here for more information about AdMob"
+msgstr "Click here for more information about AdMob"
+
+#: base/default-group2.csv:108 
+msgid "Click here to send your fullchain"
+msgstr "Click here to send your fullchain"
+
+#: base/default-group2.csv:109 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+
+#: base/default-group2.csv:110 
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: base/default-group2.csv:111 
+msgid "Create a new category"
+msgstr "Create a new category"
+
+#: base/default-group2.csv:112 
+msgid "Custom font"
+msgstr "Custom font"
+
+#: base/default-group2.csv:113 
+msgid "DEACTIVATE"
+msgstr "DEACTIVATE"
+
+#: base/default-group2.csv:114 
+msgid "Default layout"
+msgstr "Default layout"
+
+#: base/default-group2.csv:115 
+msgid "Default page"
+msgstr "Default page"
+
+#: base/default-group2.csv:116 
+msgid "Delete category!"
+msgstr "Delete category!"
+
+#: base/default-group2.csv:117 
+msgid "Delete product!"
+msgstr "Delete product!"
+
+#: base/default-group2.csv:118 
+msgid "Display"
+msgstr "Display"
+
+#: base/default-group2.csv:119 
+msgid "Display phone"
+msgstr "Display phone"
+
+#: base/default-group2.csv:120 
+msgid "Display website"
+msgstr "Display website"
+
+#: base/default-group2.csv:121 
+msgid "Download CA"
+msgstr "Download CA"
+
+#: base/default-group2.csv:122 
+msgid "Download Certificate"
+msgstr "Download Certificate"
+
+#: base/default-group2.csv:123 
+msgid "Download Private"
+msgstr "Download Private"
+
+#: base/default-group2.csv:124 
+msgid "Download icon pack example"
+msgstr "Download icon pack example"
+
+#: base/default-group2.csv:125 
+msgid "Download non-unified previous images!"
+msgstr "Download non-unified previous images!"
+
+#: base/default-group2.csv:126 
+msgid "During the <b>beta</b> stage, themes are likely to evolve slightly."
+msgstr "During the <b>beta</b> stage, themes are likely to evolve slightly."
+
+#: base/default-group2.csv:127 
+msgid "E-Mail render preview"
+msgstr "E-Mail render preview"
+
+#: base/default-group2.csv:128 
+msgid "Editing subscription:"
+msgstr "Editing subscription:"
+
+#: base/default-group2.csv:129 
+msgid "Editor access"
+msgstr "Editor access"
+
+#: base/default-group2.csv:130 
+msgid "Elegance"
+msgstr "Elegance"
+
+#: base/default-group2.csv:131 
+msgid "E-mail is required!"
+msgstr "E-mail is required!"
+
+#: base/default-group2.csv:132 
+msgid "E-mail is required in order to test SMTP"
+msgstr "E-mail is required in order to test SMTP"
+
+#: base/default-group2.csv:133 
+msgid "E-mail test"
+msgstr "E-mail test"
+
+#: base/default-group2.csv:134 
+msgid "Enable search"
+msgstr "Enable search"
+
+#: base/default-group2.csv:135 
+msgid "Enabled?"
+msgstr "Enabled?"
+
+#: base/default-group2.csv:136 
+msgid "Enter the token you received by e-mail to access your personal data."
+msgstr "Enter the token you received by e-mail to access your personal data."
+
+#: base/default-group2.csv:137 
+msgid "Environment is"
+msgstr "Environment is"
+
+#: base/default-group2.csv:138 
+msgid "Everything seems ok."
+msgstr "Everything seems ok."
+
+#: base/default-group2.csv:139 
+msgid "Example: https://hooks.slack.com/services/XDEFFE/DE45GFV/RxwdF4bnhtRDsqsqzd234, "
+msgstr "Example: https://hooks.slack.com/services/XDEFFE/DE45GFV/RxwdF4bnhtRDsqsqzd234, "
+
+#: base/default-group2.csv:140 
+msgid "FIX"
+msgstr "FIX"
+
+#: base/default-group2.csv:141 
+msgid "Feature this place?"
+msgstr "Feature this place?"
+
+#: base/default-group2.csv:142 
+msgid "Featured label"
+msgstr "Featured label"
+
+#: base/default-group2.csv:143 
+msgid "Features to export & Options"
+msgstr "Features to export & Options"
+
+#: base/default-group2.csv:144 
+msgid "Feed URL <span class="required-entry">*</span> :"
+msgstr "Feed URL <span class="required-entry">*</span> :"
+
+#: base/default-group2.csv:145 
+msgid "Field name:"
+msgstr "Field name:"
+
+#: base/default-group2.csv:146 
+msgid "Firebase Cloud Messaging"
+msgstr "Firebase Cloud Messaging"
+
+#: base/default-group2.csv:147 
+msgid "Folder is up-to-date."
+msgstr "Folder is up-to-date."
+
+#: base/default-group2.csv:148 
+msgid "Font saved!"
+msgstr "Font saved!"
+
+#: base/default-group2.csv:149 
+msgid "For instance <b>Account A</b> creates an app, all other accounts tied to this app, will have the <b>publication type settings of the Account A</b>."
+msgstr "For instance <b>Account A</b> creates an app, all other accounts tied to this app, will have the <b>publication type settings of the Account A</b>."
+
+#: base/default-group2.csv:150 
+msgid "For more information, please feel free to contact us."
+msgstr "For more information, please feel free to contact us."
+
+#: base/default-group2.csv:151 
+msgid "Forgot your password ?"
+msgstr "Forgot your password ?"
+
+#: base/default-group2.csv:152 
+msgid "Full chain"
+msgstr "Full chain"
+
+#: base/default-group2.csv:153 
+msgid "Fulltext"
+msgstr "Fulltext"
+
+#: base/default-group2.csv:154 
+msgid "Gallery Name <span class="required-entry">*</span> :"
+msgstr "Gallery Name <span class="required-entry">*</span> :"
+
+#: base/default-group2.csv:155 
+msgid "Global notifications"
+msgstr "Global notifications"
+
+#: base/default-group2.csv:156 
+msgid "Go back to homepage"
+msgstr "Go back to homepage"
+
+#: base/default-group2.csv:157 
+msgid "Google"
+msgstr "Google"
+
+#: base/default-group2.csv:158 
+msgid "Google Cloud Messaging (GCM, Deprecated)"
+msgstr "Google Cloud Messaging (GCM, Deprecated)"
+
+#: base/default-group2.csv:159 
+msgid "Grid view"
+msgstr "Grid view"
+
+#: base/default-group2.csv:160 
+msgid "Handwriting"
+msgstr "Handwriting"
+
+#: base/default-group2.csv:161 
+msgid "How to install the cron scheduler ?"
+msgstr "How to install the cron scheduler ?"
+
+#: base/default-group2.csv:162 
+msgid "I agree to receive information & commercial offers about the WhiteLabel program."
+msgstr "I agree to receive information & commercial offers about the WhiteLabel program."
+
+#: base/default-group2.csv:163 
+msgid "I have a Google developer account"
+msgstr "I have a Google developer account"
+
+#: base/default-group2.csv:164 
+msgid "I have read & agree the Terms of Service"
+msgstr "I have read & agree the Terms of Service"
+
+#: base/default-group2.csv:165 
+msgid "IMPERSONATE"
+msgstr "IMPERSONATE"
+
+#: base/default-group2.csv:166 
+msgid "If you need it to work you will need to manually generate your corresponding SSL certificate."
+msgstr "If you need it to work you will need to manually generate your corresponding SSL certificate."
+
+#: base/default-group2.csv:167 
+msgid "In case your Stripe subscription is not linked (ie: missing or wrong sub_xxxx id), you can search the right reference here and apply it to the subscription."
+msgstr "In case your Stripe subscription is not linked (ie: missing or wrong sub_xxxx id), you can search the right reference here and apply it to the subscription."
+
+#: base/default-group2.csv:168 
+msgid "In-App links"
+msgstr "In-App links"
+
+#: base/default-group2.csv:169 
+msgid "Inactive, Cancelled or Expired"
+msgstr "Inactive, Cancelled or Expired"
+
+#: base/default-group2.csv:170 
+msgid "Insert a <br /><span class="bold">cover image</span>"
+msgstr "Insert a <br /><span class="bold">cover image</span>"
+
+#: base/default-group2.csv:171 
+msgid "Insert a <span class="bold">cover image</span>"
+msgstr "Insert a <span class="bold">cover image</span>"
+
+#: base/default-group2.csv:172 
+msgid "Installing module <em><span id="label_module"></span></em>"
+msgstr "Installing module <em><span id="label_module"></span></em>"
+
+#: base/default-group2.csv:173 
+msgid "Interstitial ID"
+msgstr "Interstitial ID"
+
+#: base/default-group2.csv:174 
+msgid "Invoice N°"
+msgstr "Invoice N°"
+
+#: base/default-group2.csv:175 
+msgid "Is self assignable (a user with a self-assignable role can create users with the same role)"
+msgstr "Is self assignable (a user with a self-assignable role can create users with the same role)"
+
+#: base/default-group2.csv:176 
+msgid "Kilometers"
+msgstr "Kilometers"
+
+#: base/default-group2.csv:177 
+msgid "[Let's Encrypt] cron renewal is disabled until %s due to rate limit hit, skipping."
+msgstr "[Let's Encrypt] cron renewal is disabled until %s due to rate limit hit, skipping."
+
+#: base/default-group2.csv:178 
+msgid "[Let's Encrypt] will expire in %s days."
+msgstr "[Let's Encrypt] will expire in %s days."
+
+#: base/default-group2.csv:179 
+msgid "Licenses"
+msgstr "Licenses"
+
+#: base/default-group2.csv:180 
+msgid "List view"
+msgstr "List view"
+
+#: base/default-group2.csv:181 
+msgid "Loading ..."
+msgstr "Loading ..."
+
+#: base/default-group2.csv:182 
+msgid "Location settings"
+msgstr "Location settings"
+
+#: base/default-group2.csv:183 
+msgid "M-Commerce"
+msgstr "M-Commerce"
+
+#: base/default-group2.csv:184 
+msgid "Mail logger"
+msgstr "Mail logger"
+
+#: base/default-group2.csv:185 
+msgid "Mail logs"
+msgstr "Mail logs"
+
+#: base/default-group2.csv:186 
+msgid "Main siberian domain"
+msgstr "Main siberian domain"
+
+#: base/default-group2.csv:187 
+msgid "Mais encore ?"
+msgstr "Mais encore ?"
+
+#: base/default-group2.csv:188 
+msgid "Manage tour"
+msgstr "Manage tour"
+
+#: base/default-group2.csv:189 
+msgid "Miles"
+msgstr "Miles"
+
+#: base/default-group2.csv:190 
+msgid "Missing font family!"
+msgstr "Missing font family!"
+
+#: base/default-group2.csv:191 
+msgid "Missing name parameter."
+msgstr "Missing name parameter."
+
+#: base/default-group2.csv:192 
+msgid "Missing params."
+msgstr "Missing params."
+
+#: base/default-group2.csv:193 
+msgid "Missing value_id."
+msgstr "Missing value_id."
+
+#: base/default-group2.csv:194 
+msgid "Modern"
+msgstr "Modern"
+
+#: base/default-group2.csv:195 
+msgid "Module installed/updated"
+msgstr "Module installed/updated"
+
+#: base/default-group2.csv:196 
+msgid "Monetize my app using AdMob"
+msgstr "Monetize my app using AdMob"
+
+#: base/default-group2.csv:197 
+msgid "Monospace"
+msgstr "Monospace"
+
+#: base/default-group2.csv:198 
+msgid "My users"
+msgstr "My users"
+
+#: base/default-group2.csv:199 
+msgid "MySQL (Default)"
+msgstr "MySQL (Default)"
+
+#: base/default-group2.csv:200 
+msgid "NO"
+msgstr "NO"
+
+#: base/default-group2.csv:201 
+msgid "Nearest"
+msgstr "Nearest"
+
+#: base/default-group2.csv:202 
+msgid "New backoffice themes are available, check them out <a href="/system/backoffice_config_design">here</a>."
+msgstr "New backoffice themes are available, check them out <a href="/system/backoffice_config_design">here</a>."
+
+#: base/default-group2.csv:203 
+msgid "New publication request on your platform %s, for the Application %s."
+msgstr "New publication request on your platform %s, for the Application %s."
+
+#: base/default-group2.csv:204 
+msgid "No result found."
+msgstr "No result found."
+
+#: base/default-group2.csv:205 
+msgid "No results."
+msgstr "No results."
+
+#: base/default-group2.csv:206 
+msgid "Non-featured label"
+msgstr "Non-featured label"
+
+#: base/default-group2.csv:207 
+msgid "Note: the migration will only work if redis is configured & running!"
+msgstr "Note: the migration will only work if redis is configured & running!"
+
+#: base/default-group2.csv:208 
+msgid "Note: we recommand to install under the web user to maintain file & folders permissions, but if this is not possible at all you can install it under the root user."
+msgstr "Note: we recommand to install under the web user to maintain file & folders permissions, but if this is not possible at all you can install it under the root user."
+
+#: base/default-group2.csv:209 
+msgid "Nothing to do!"
+msgstr "Nothing to do!"
+
+#: base/default-group2.csv:210 
+msgid "(Offline)"
+msgstr "(Offline)"
+
+#: base/default-group2.csv:211 
+msgid "Offline awaiting validation"
+msgstr "Offline awaiting validation"
+
+#: base/default-group2.csv:212 
+msgid "Ok, proceed to minimal upgrade!"
+msgstr "Ok, proceed to minimal upgrade!"
+
+#: base/default-group2.csv:213 
+msgid "Ok, skip automated upgrade!"
+msgstr "Ok, skip automated upgrade!"
+
+#: base/default-group2.csv:214 
+msgid "Only active subscriptions not linked are shown below!"
+msgstr "Only active subscriptions not linked are shown below!"
+
+#: base/default-group2.csv:215 
+msgid "Only showing latest 100 e-mail logs."
+msgstr "Only showing latest 100 e-mail logs."
+
+#: base/default-group2.csv:216 
+msgid "Opt-in e-mails"
+msgstr "Opt-in e-mails"
+
+#: base/default-group2.csv:217 
+msgid "Order places by"
+msgstr "Order places by"
+
+#: base/default-group2.csv:218 
+msgid "Outstanding balance of %s %s."
+msgstr "Outstanding balance of %s %s."
+
+#: base/default-group2.csv:219 
+msgid "Owner / Application"
+msgstr "Owner / Application"
+
+#: base/default-group2.csv:220 
+msgid "PNG icons are recommended for a better display result."
+msgstr "PNG icons are recommended for a better display result."
+
+#: base/default-group2.csv:221 
+msgid "Page design"
+msgstr "Page design"
+
+#: base/default-group2.csv:222 
+msgid "Path to your Fullchain"
+msgstr "Path to your Fullchain"
+
+#: base/default-group2.csv:223 
+msgid "PayPal subscription is Active"
+msgstr "PayPal subscription is Active"
+
+#: base/default-group2.csv:224 
+msgid "PayPal subscription is now correctly synced and will correctly expire by %s!"
+msgstr "PayPal subscription is now correctly synced and will correctly expire by %s!"
+
+#: base/default-group2.csv:225 
+msgid "Places upgrade! New version with a better search engine, categories & display options."
+msgstr "Places upgrade! New version with a better search engine, categories & display options."
+
+#: base/default-group2.csv:226 
+msgid "Plan"
+msgstr "Plan"
+
+#: base/default-group2.csv:227 
+msgid "Platform contact informations"
+msgstr "Platform contact informations"
+
+#: base/default-group2.csv:228 
+msgid "[Plesk] %s"
+msgstr "[Plesk] %s"
+
+#: base/default-group2.csv:229 
+msgid "Position"
+msgstr "Position"
+
+#: base/default-group2.csv:230 
+msgid "Proceed to full ugrade!"
+msgstr "Proceed to full ugrade!"
+
+#: base/default-group2.csv:231 
+msgid "Proceed to ugrade!"
+msgstr "Proceed to ugrade!"
+
+#: base/default-group2.csv:232 
+msgid "Product is up-to-date."
+msgstr "Product is up-to-date."
+
+#: base/default-group2.csv:233 
+msgid "Publication request"
+msgstr "Publication request"
+
+#: base/default-group2.csv:234 
+msgid "Publication type"
+msgstr "Publication type"
+
+#: base/default-group2.csv:235 
+msgid "REDUCE"
+msgstr "REDUCE"
+
+#: base/default-group2.csv:236 
+msgid "RESTORE"
+msgstr "RESTORE"
+
+#: base/default-group2.csv:237 
+msgid "Re-check payments"
+msgstr "Re-check payments"
+
+#: base/default-group2.csv:238 
+msgid "Recipients"
+msgstr "Recipients"
+
+#: base/default-group2.csv:239 
+msgid "Redis AUTH KEY, only required if configured on your Redis server."
+msgstr "Redis AUTH KEY, only required if configured on your Redis server."
+
+#: base/default-group2.csv:240 
+msgid "Redis enpoint (example: tcp://127.0.0.1:6379)"
+msgstr "Redis enpoint (example: tcp://127.0.0.1:6379)"
+
+#: base/default-group2.csv:241 
+msgid "Redis (requires to install php-redis & Redis server)"
+msgstr "Redis (requires to install php-redis & Redis server)"
+
+#: base/default-group2.csv:242 
+msgid "Refresh available Teams & Providers"
+msgstr "Refresh available Teams & Providers"
+
+#: base/default-group2.csv:243 
+msgid "SELECT"
+msgstr "SELECT"
+
+#: base/default-group2.csv:244 
+msgid "SYNC"
+msgstr "SYNC"
+
+#: base/default-group2.csv:245 
+msgid "Safe in portrait & landscape"
+msgstr "Safe in portrait & landscape"
+
+#: base/default-group2.csv:246 
+msgid "Safe in portrait (locked)"
+msgstr "Safe in portrait (locked)"
+
+#: base/default-group2.csv:247 
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: base/default-group2.csv:248 
+msgid "Save settings & Publish"
+msgstr "Save settings & Publish"
+
+#: base/default-group2.csv:249 
+msgid "Search, filter ..."
+msgstr "Search, filter ..."
+
+#: base/default-group2.csv:250 
+msgid "Secondary category (optional)"
+msgstr "Secondary category (optional)"
+
+#: base/default-group2.csv:251 
+msgid "Security logs (last 50 triggers)"
+msgstr "Security logs (last 50 triggers)"
+
+#: base/default-group2.csv:252 
+msgid "Sender"
+msgstr "Sender"
+
+#: base/default-group2.csv:253 
+msgid "Serif"
+msgstr "Serif"
+
+#: base/default-group2.csv:254 
+msgid "Settings & Options"
+msgstr "Settings & Options"
+
+#: base/default-group2.csv:255 
+msgid "Show featured labels"
+msgstr "Show featured labels"
+
+#: base/default-group2.csv:256 
+msgid "Show non-featured labels"
+msgstr "Show non-featured labels"
+
+#: base/default-group2.csv:257 
+msgid "Showing"
+msgstr "Showing"
+
+#: base/default-group2.csv:258 
+msgid "Siberian main domain (without https?://) is required for services, and tools."
+msgstr "Siberian main domain (without https?://) is required for services, and tools."
+
+#: base/default-group2.csv:259 
+msgid "Slots"
+msgstr "Slots"
+
+#: base/default-group2.csv:260 
+msgid "Socket, example: /var/run/clamav/clamd.ctl"
+msgstr "Socket, example: /var/run/clamav/clamd.ctl"
+
+#: base/default-group2.csv:261 
+msgid "Something went wrong, the category do not exists!"
+msgstr "Something went wrong, the category do not exists!"
+
+#: base/default-group2.csv:262 
+msgid "Start search"
+msgstr "Start search"
+
+#: base/default-group2.csv:263 
+msgid "Status color chart"
+msgstr "Status color chart"
+
+#: base/default-group2.csv:264 
+msgid "Stores Informations"
+msgstr "Stores Informations"
+
+#: base/default-group2.csv:265 
+msgid "Stripe subscription ID"
+msgstr "Stripe subscription ID"
+
+#: base/default-group2.csv:266 
+msgid "Stripe subscription saved!"
+msgstr "Stripe subscription saved!"
+
+#: base/default-group2.csv:267 
+msgid "Stripe utility tools!"
+msgstr "Stripe utility tools!"
+
+#: base/default-group2.csv:268 
+msgid "Subject"
+msgstr "Subject"
+
+#: base/default-group2.csv:269 
+msgid "Subscription date & time"
+msgstr "Subscription date & time"
+
+#: base/default-group2.csv:270 
+msgid "Sur quelles plateformes ?"
+msgstr "Sur quelles plateformes ?"
+
+#: base/default-group2.csv:271 
+msgid "T&C's"
+msgstr "T&C's"
+
+#: base/default-group2.csv:272 
+msgid "Tags are used to improve full-text search."
+msgstr "Tags are used to improve full-text search."
+
+#: base/default-group2.csv:273 
+msgid "Tags will be de-duplicated, migrated to categories & associated to existing places."
+msgstr "Tags will be de-duplicated, migrated to categories & associated to existing places."
+
+#: base/default-group2.csv:274 
+msgid "Text Color - Active"
+msgstr "Text Color - Active"
+
+#: base/default-group2.csv:275 
+msgid "Text Color - Hover"
+msgstr "Text Color - Hover"
+
+#: base/default-group2.csv:276 
+msgid "The Platform name"
+msgstr "The Platform name"
+
+#: base/default-group2.csv:277 
+msgid "The category you are trying to edit doesn't exists.."
+msgstr "The category you are trying to edit doesn't exists.."
+
+#: base/default-group2.csv:278 
+msgid "The folder & it's sub-folders have been removed!"
+msgstr "The folder & it's sub-folders have been removed!"
+
+#: base/default-group2.csv:279 
+msgid "The following folders are not writable: <br /> - %s"
+msgstr "The following folders are not writable: <br /> - %s"
+
+#: base/default-group2.csv:280 
+msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+msgstr "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+
+#: base/default-group2.csv:281 
+msgid "The publication access type of an Application is determined by the publication type settings that are set for its Creator."
+msgstr "The publication access type of an Application is determined by the publication type settings that are set for its Creator."
+
+#: base/default-group2.csv:282 
+msgid "The setup fee is not a valid price (e.g. 12.34"
+msgstr "The setup fee is not a valid price (e.g. 12.34"
+
+#: base/default-group2.csv:283 
+msgid "The splashscreen image"
+msgstr "The splashscreen image"
+
+#: base/default-group2.csv:284 
+msgid "The store & mcommerce instances mismatch!"
+msgstr "The store & mcommerce instances mismatch!"
+
+#: base/default-group2.csv:285 
+msgid "The strip customer '%s' is missing!"
+msgstr "The strip customer '%s' is missing!"
+
+#: base/default-group2.csv:286 
+msgid "The stripe subscription '%s' is missing!"
+msgstr "The stripe subscription '%s' is missing!"
+
+#: base/default-group2.csv:287 
+msgid "The subscription '%s' doesn't exists!"
+msgstr "The subscription '%s' doesn't exists!"
+
+#: base/default-group2.csv:288 
+msgid "The subscription was already inactive or cancelled"
+msgstr "The subscription was already inactive or cancelled"
+
+#: base/default-group2.csv:289 
+msgid "The version number format is invalid, please use x.y.z where x, y & z are only digits."
+msgstr "The version number format is invalid, please use x.y.z where x, y & z are only digits."
+
+#: base/default-group2.csv:290 
+msgid "Theme"
+msgstr "Theme"
+
+#: base/default-group2.csv:291 
+msgid "There is no user with this ID."
+msgstr "There is no user with this ID."
+
+#: base/default-group2.csv:292 
+msgid "This Application has some M-Commerce invoices associated, you can not delete it!"
+msgstr "This Application has some M-Commerce invoices associated, you can not delete it!"
+
+#: base/default-group2.csv:293 
+msgid "This Google Font do not exists!"
+msgstr "This Google Font do not exists!"
+
+#: base/default-group2.csv:294 
+msgid "This action is not allowed in demo."
+msgstr "This action is not allowed in demo."
+
+#: base/default-group2.csv:295 
+msgid "This application does not exists."
+msgstr "This application does not exists."
+
+#: base/default-group2.csv:296 
+msgid "This application was not upgraded to the unified splashscreens & can't be published right now."
+msgstr "This application was not upgraded to the unified splashscreens & can't be published right now."
+
+#: base/default-group2.csv:297 
+msgid "This build do not exists."
+msgstr "This build do not exists."
+
+#: base/default-group2.csv:298 
+msgid "This combination is not valid, if you want both portrait & landscape please check all orientations."
+msgstr "This combination is not valid, if you want both portrait & landscape please check all orientations."
+
+#: base/default-group2.csv:299 
+msgid "This is not a valid e-mail address."
+msgstr "This is not a valid e-mail address."
+
+#: base/default-group2.csv:300 
+msgid "This is only a generic preview, header & footer are adjusted depending on the context!"
+msgstr "This is only a generic preview, header & footer are adjusted depending on the context!"
+
+#: base/default-group2.csv:301 
+msgid "This place do not exists!"
+msgstr "This place do not exists!"
+
+#: base/default-group2.csv:302 
+msgid "Three columns"
+msgstr "Three columns"
+
+#: base/default-group2.csv:303 
+msgid "Title for featured places"
+msgstr "Title for featured places"
+
+#: base/default-group2.csv:304 
+msgid "Title for non-featured places"
+msgstr "Title for non-featured places"
+
+#: base/default-group2.csv:305 
+msgid "Two columns"
+msgstr "Two columns"
+
+#: base/default-group2.csv:306 
+msgid "URL (.mp3)"
+msgstr "URL (.mp3)"
+
+#: base/default-group2.csv:307 
+msgid "Upgrade done!"
+msgstr "Upgrade done!"
+
+#: base/default-group2.csv:308 
+msgid "Upgrade required for Sources APK / IPA"
+msgstr "Upgrade required for Sources APK / IPA"
+
+#: base/default-group2.csv:309 
+msgid "User %s just signed-up on the platform."
+msgstr "User %s just signed-up on the platform."
+
+#: base/default-group2.csv:310 
+msgid "User-Styler Module"
+msgstr "User-Styler Module"
+
+#: base/default-group2.csv:311 
+msgid "Username: siberian-notifier, etc..."
+msgstr "Username: siberian-notifier, etc..."
+
+#: base/default-group2.csv:312 
+msgid "VIEW"
+msgstr "VIEW"
+
+#: base/default-group2.csv:313 
+msgid "We were unable to automatically cancel the subscription, please check manually on your %s dashboard."
+msgstr "We were unable to automatically cancel the subscription, please check manually on your %s dashboard."
+
+#: base/default-group2.csv:314 
+msgid "We were unable to verify you payment, please try again later!"
+msgstr "We were unable to verify you payment, please try again later!"
+
+#: base/default-group2.csv:315 
+msgid "Website must start with http:// or https://, invalid value have been removed!"
+msgstr "Website must start with http:// or https://, invalid value have been removed!"
+
+#: base/default-group2.csv:316 
+msgid "What if I choose the minimal upgrade?"
+msgstr "What if I choose the minimal upgrade?"
+
+#: base/default-group2.csv:317 
+msgid "What if I skip the upgrade?"
+msgstr "What if I skip the upgrade?"
+
+#: base/default-group2.csv:318 
+msgid "What will the full upgrade do?"
+msgstr "What will the full upgrade do?"
+
+#: base/default-group2.csv:319 
+msgid "What will the upgrade do?"
+msgstr "What will the upgrade do?"
+
+#: base/default-group2.csv:320 
+msgid "What's new?"
+msgstr "What's new?"
+
+#: base/default-group2.csv:321 
+msgid "Whitelabel Settings"
+msgstr "Whitelabel Settings"
+
+#: base/default-group2.csv:322 
+msgid "YES"
+msgstr "YES"
+
+#: base/default-group2.csv:323 
+msgid "Yes, Cancel my subscription"
+msgstr "Yes, Cancel my subscription"
+
+#: base/default-group2.csv:324 
+msgid "Yes, activate"
+msgstr "Yes, activate"
+
+#: base/default-group2.csv:325 
+msgid "Yes, cancel!"
+msgstr "Yes, cancel!"
+
+#: base/default-group2.csv:326 
+msgid "Yes, deactivate"
+msgstr "Yes, deactivate"
+
+#: base/default-group2.csv:327 
+msgid "Yes, delete!"
+msgstr "Yes, delete!"
+
+#: base/default-group2.csv:328 
+msgid "You already have a google-services.json file"
+msgstr "You already have a google-services.json file"
+
+#: base/default-group2.csv:329 
+msgid "You are about to cancel your Subscription, if this is a paid plan the subscription will be cancelled at the end of the recurring period, otherwise the subscription will be immediately cancelled and the application locked.<br /><br />Below you can leave a message for the Administrator.<br />"
+msgstr "You are about to cancel your Subscription, if this is a paid plan the subscription will be cancelled at the end of the recurring period, otherwise the subscription will be immediately cancelled and the application locked.<br /><br />Below you can leave a message for the Administrator.<br />"
+
+#: base/default-group2.csv:330 
+msgid "You are about to delete the category #CATEGORY_NAME# with all it's subcategories<br />Please note that any products inside the category and it's subcategories will be deleted!"
+msgstr "You are about to delete the category #CATEGORY_NAME# with all it's subcategories<br />Please note that any products inside the category and it's subcategories will be deleted!"
+
+#: base/default-group2.csv:331 
+msgid "You are about to delete the folder #FOLDER_NAME# with all it's subfolders, please note that any features inside the folder and it's subfolders will be re-assigned to the Homepage!"
+msgstr "You are about to delete the folder #FOLDER_NAME# with all it's subfolders, please note that any features inside the folder and it's subfolders will be re-assigned to the Homepage!"
+
+#: base/default-group2.csv:332 
+msgid "You are about to delete the product #PRODUCT_NAME#"
+msgstr "You are about to delete the product #PRODUCT_NAME#"
+
+#: base/default-group2.csv:333 
+msgid "You are not allowed to delete this account in demo!"
+msgstr "You are not allowed to delete this account in demo!"
+
+#: base/default-group2.csv:334 
+msgid "You are not allowed to edit this account in demo!"
+msgstr "You are not allowed to edit this account in demo!"
+
+#: base/default-group2.csv:335 
+msgid "You can also use another Google Font not listed up there"
+msgstr "You can also use another Google Font not listed up there"
+
+#: base/default-group2.csv:336 
+msgid "You can change the browser tab title with the translations: Edit the backoffice.csv and translate Siberian - Backoffice."
+msgstr "You can change the browser tab title with the translations: Edit the backoffice.csv and translate Siberian - Backoffice."
+
+#: base/default-group2.csv:337 
+msgid "You have no mail logs."
+msgstr "You have no mail logs."
+
+#: base/default-group2.csv:338 
+msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+msgstr "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+
+#: base/default-group2.csv:339 
+msgid "You have to create a Google account before publishing your application.<br /><a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+msgstr "You have to create a Google account before publishing your application.<br /><a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+
+#: base/default-group2.csv:340 
+msgid "You have to create an Apple account before publishing your application. <a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
+msgstr "You have to create an Apple account before publishing your application. <a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
+
+#: base/default-group2.csv:341 
+msgid "You have to create an Apple account before publishing your application.<br /><a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
+msgstr "You have to create an Apple account before publishing your application.<br /><a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
+
+#: base/default-group2.csv:342 
+msgid "You just received a publication request:"
+msgstr "You just received a publication request:"
+
+#: base/default-group2.csv:343 
+msgid "You must agree our Terms of Service"
+msgstr "You must agree our Terms of Service"
+
+#: base/default-group2.csv:344 
+msgid "You must agree to Terms of Service."
+msgstr "You must agree to Terms of Service."
+
+#: base/default-group2.csv:345 
+msgid "You must agree to our Terms of Service."
+msgstr "You must agree to our Terms of Service."
+
+#: base/default-group2.csv:346 
+msgid "You must be logged-in to request a new token."
+msgstr "You must be logged-in to request a new token."
+
+#: base/default-group2.csv:347 
+msgid "You must select at least one orientation for Android!"
+msgstr "You must select at least one orientation for Android!"
+
+#: base/default-group2.csv:348 
+msgid "You must select both a Development Team & an iTunes Connect provider!"
+msgstr "You must select both a Development Team & an iTunes Connect provider!"
+
+#: base/default-group2.csv:349 
+msgid "You offline subscription is awaiting approval from an Administrator!"
+msgstr "You offline subscription is awaiting approval from an Administrator!"
+
+#: base/default-group2.csv:350 
+msgid "Your application is set to use the homepage background for all the features!<br />You can't upload individual backgrounds for the features."
+msgstr "Your application is set to use the homepage background for all the features!<br />You can't upload individual backgrounds for the features."
+
+#: base/default-group2.csv:351 
+msgid "Your are about to replace the current application template, colors & features.\nAre you sure ?"
+msgstr "Your are about to replace the current application template, colors & features.\nAre you sure ?"
+
+#: base/default-group2.csv:352 
+msgid "Your licenses"
+msgstr "Your licenses"
+
+#: base/default-group2.csv:353 
+msgid "<a href="%s" target="_blank">Click here for more information about AdMob</a>"
+msgstr "<a href="%s" target="_blank">Click here for more information about AdMob</a>"
+
+#: base/default-group2.csv:354 
+msgid "<a href="%s">Click here</a> to go back to your applications list"
+msgstr "<a href="%s">Click here</a> to go back to your applications list"
+
+#: base/default-group2.csv:355 
+msgid "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
+
+#: base/default-group2.csv:356 
+msgid "<b>Geolocation</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
+msgstr "<b>Geolocation</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
+
+#: base/default-group2.csv:357 
+msgid "<button class="add btn color-blue" type="button"><i class="fa fa-plus-circle"></i><span> Click to add an item</span></button>"
+msgstr "<button class="add btn color-blue" type="button"><i class="fa fa-plus-circle"></i><span> Click to add an item</span></button>"
+
+#: base/default-group2.csv:358 
+msgid "category_id"
+msgstr "category_id"
+
+#: base/default-group2.csv:359 
+msgid "fa-toggle-on"
+msgstr "fa-toggle-on"
+
+#: base/default-group2.csv:360 
+msgid "filtered from #TOTAL# total records"
+msgstr "filtered from #TOTAL# total records"
+
+#: base/default-group2.csv:361 
+msgid "iOS & Android (You must set both a Firebase Key & upload a Push Certificate for the Application)"
+msgstr "iOS & Android (You must set both a Firebase Key & upload a Push Certificate for the Application)"
+
+#: base/default-group2.csv:362 
+msgid "iOS 9+"
+msgstr "iOS 9+"
+
+#: base/default-group2.csv:363 
+msgid "iOS NS*Descriptions"
+msgstr "iOS NS*Descriptions"
+
+#: base/default-group2.csv:364 
+msgid "iOS only (You must upload a Push Certificate for the Application)"
+msgstr "iOS only (You must upload a Push Certificate for the Application)"
+
+#: base/default-group2.csv:365 
+msgid "iOS-Autopublish service is unreachable."
+msgstr "iOS-Autopublish service is unreachable."
+
+#: base/default-group2.csv:366 
+msgid "iPhone & iPad & Android orientation"
+msgstr "iPhone & iPad & Android orientation"
+
+#: base/default-group2.csv:367 
+msgid "iPhone (No Ads)"
+msgstr "iPhone (No Ads)"
+
+#: base/default-group2.csv:368 
+msgid "<img src="%s" width="160" title="%s" />"
+msgstr "<img src="%s" width="160" title="%s" />"
+
+#: base/default-group2.csv:369 
+msgid "of"
+msgstr "of"
+
+#: base/default-group2.csv:370 
+msgid "or"
+msgstr "or"
+
+#: base/default-group2.csv:371 
+msgid "or unlimited?"
+msgstr "or unlimited?"
+
+#: base/default-group2.csv:372 
+msgid "php-redis module is required!"
+msgstr "php-redis module is required!"
+
+#: base/default-group2.csv:373 
+msgid "please respect the font name case!"
+msgstr "please respect the font name case!"
+
+#: base/default-group2.csv:374 
+msgid "record"
+msgstr "record"
+
+#: base/default-group2.csv:375 
+msgid "records"
+msgstr "records"
+
+#: base/default-group2.csv:376 
+msgid "%s - Access to your personal data."
+msgstr "%s - Access to your personal data."
+
+#: base/default-group2.csv:377 
+msgid "%s - v%s"
+msgstr "%s - v%s"
+
+#: base/default-group2.csv:378 
+msgid "to"
+msgstr "to"
+
+#: base/default-group2.csv:379 
+msgid "value_id"
+msgstr "value_id"
+
+#: base/default-group2.csv:380 
+msgid "Firebase is not yet configured, please contact your Administrator."
+msgstr "Firebase is not yet configured, please contact your Administrator."
+

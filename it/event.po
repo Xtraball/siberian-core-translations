@@ -1,0 +1,144 @@
+#: it/event.csv:1 
+msgid "Add a Website"
+msgstr "Aggiungi un sito web"
+
+#: it/event.csv:2 
+msgid "Address:"
+msgstr "Indirizzo"
+
+#: it/event.csv:3 
+msgid "An error occurred while deleting the event"
+msgstr "Si è verificato un errore durante l'eliminazione dell'evento"
+
+#: it/event.csv:4 
+msgid "An error occurred while loading this event"
+msgstr "Si è verificato un errore durante il caricamento dell'evento"
+
+#: it/event.csv:5 
+msgid "Beginning date:"
+msgstr "Data di inizio:"
+
+#: it/event.csv:6 
+msgid "Beginning time:"
+msgstr "Ora di inizio:"
+
+#: it/event.csv:7 
+msgid "Calendar successfully deleted"
+msgstr "Calendario eliminato correttamente"
+
+#: it/event.csv:8 
+msgid "Calendar's URL"
+msgstr "URL del calendario"
+
+#: it/event.csv:9 
+msgid "Calendar's title"
+msgstr "Titolo del calendario"
+
+#: it/event.csv:10 
+msgid "Change picture"
+msgstr "Cambia immagine"
+
+#: it/event.csv:11 
+msgid "Create a new event"
+msgstr "Crea un nuovo evento"
+
+#: it/event.csv:12 
+msgid "Custom Calendar"
+msgstr "Calendario Personalizzato"
+
+#: it/event.csv:13 
+msgid "Custom Page"
+msgstr "Pagina personalizzata"
+
+#: it/event.csv:14 
+msgid "Delete this calendar?"
+msgstr "Eliminare questo calendario?"
+
+#: it/event.csv:15 
+msgid "Delete this event?"
+msgstr "Eliminare questo evento?"
+
+#: it/event.csv:16 
+msgid "Ending date:"
+msgstr "Data fine:"
+
+#: it/event.csv:17 
+msgid "Enter your calendar's title"
+msgstr "Inserisci il titolo del calendario"
+
+#: it/event.csv:18 
+msgid "Entrance:"
+msgstr "Ingresso:"
+
+#: it/event.csv:19 
+msgid "Entrance: %s"
+msgstr "Ingresso: %s"
+
+#: it/event.csv:20 
+msgid "Event"
+msgstr "Evento"
+
+#: it/event.csv:21 
+msgid "Event successfully deleted"
+msgstr "Evento eliminato correttamente"
+
+#: it/event.csv:22 
+msgid "Event successfully saved"
+msgstr "Evento salvato correttamente"
+
+#: it/event.csv:23 
+msgid "Event title:"
+msgstr "Titolo dell'evento"
+
+#: it/event.csv:24 
+msgid "Illustration"
+msgstr "Immagini"
+
+#: it/event.csv:25 
+msgid "Illustration:"
+msgstr "Illustrazione:"
+
+#: it/event.csv:26 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Misura massima: 2000x2000px - formati consentiti: jpg & png"
+
+#: it/event.csv:27 
+msgid "Modify the event"
+msgstr "Modifica l'evento"
+
+#: it/event.csv:28 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: it/event.csv:29 
+msgid "RSVP URL:"
+msgstr "RSVP URL:"
+
+#: it/event.csv:30 
+msgid "Subtitle:"
+msgstr "Sottotitolo:"
+
+#: it/event.csv:31 
+msgid "Ticket Shop URL:"
+msgstr "Aquista biglietto qui:"
+
+#: it/event.csv:32 
+msgid "Your Facebook page ID"
+msgstr "ID pagina facebook"
+
+#: it/event.csv:33 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "ID pagina facebook  <span class="required-entry">*</span> :"
+
+#: it/event.csv:34 
+msgid "Your calendar is empty"
+msgstr "Il calendario è vuoto"
+
+#: it/event.csv:35 
+msgid "iCal"
+msgstr "iCal"
+
+#: it/event.csv:36 
+msgid "to"
+msgstr "fino a"
+

@@ -1,0 +1,72 @@
+#: ru/sales.csv:1 
+msgid "Action"
+msgstr "Действие"
+
+#: ru/sales.csv:2 
+msgid "App Name"
+msgstr "Имя App"
+
+#: ru/sales.csv:3 
+msgid "Client"
+msgstr "Клиент"
+
+#: ru/sales.csv:4 
+msgid "Date"
+msgstr "Дата"
+
+#: ru/sales.csv:5 
+msgid "Invoice"
+msgstr "Счет-фактура"
+
+#: ru/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Счет-фактура %s"
+
+#: ru/sales.csv:7 
+msgid "Invoice N°"
+msgstr "N° счета"
+
+#: ru/sales.csv:8 
+msgid "List of your invoices"
+msgstr "Список ваших счетов"
+
+#: ru/sales.csv:9 
+msgid "My Invoices"
+msgstr "Мои счета"
+
+#: ru/sales.csv:10 
+msgid "Order"
+msgstr "Заказ"
+
+#: ru/sales.csv:11 
+msgid "Orders"
+msgstr "Заказы"
+
+#: ru/sales.csv:12 
+msgid "Paid At"
+msgstr "Оплата по адресу"
+
+#: ru/sales.csv:13 
+msgid "Paid at:"
+msgstr "Оплата по адресу:"
+
+#: ru/sales.csv:14 
+msgid "Price Excl. Tax"
+msgstr "Цена без учета налога"
+
+#: ru/sales.csv:15 
+msgid "Qty"
+msgstr "Кол-во"
+
+#: ru/sales.csv:16 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Эта функция пока не готова. Пожалуйста, повторите попытку позже."
+
+#: ru/sales.csv:17 
+msgid "Total Excl. Tax"
+msgstr "Цена без налога"
+
+#: ru/sales.csv:18 
+msgid "You don't have any invoices yet"
+msgstr "Вы ещё не имеете никаких счетов. "
+

@@ -1,0 +1,44 @@
+#: ru/padlock.csv:1 
+msgid "Lock the entire application?"
+msgstr "Заблокировать всё приложение?"
+
+#: ru/padlock.csv:2 
+msgid "Choose the features to lock:"
+msgstr "Выберите функции, которые нужно заблокировать:"
+
+#: ru/padlock.csv:3 
+msgid "Restrict Access"
+msgstr "Ограничение доступа"
+
+#: ru/padlock.csv:4 
+msgid "Allow all the users by default:"
+msgstr "Разрешить всем пользователям:"
+
+#: ru/padlock.csv:5 
+msgid "the gender"
+msgstr "пол"
+
+#: ru/padlock.csv:6 
+msgid "the first name"
+msgstr "имя"
+
+#: ru/padlock.csv:7 
+msgid "the last name"
+msgstr "фамилия"
+
+#: ru/padlock.csv:8 
+msgid "the email address"
+msgstr "адрес электронной почты"
+
+#: ru/padlock.csv:9 
+msgid "the password"
+msgstr "пароль"
+
+#: ru/padlock.csv:10 
+msgid "Access restricted to authorized members only"
+msgstr "Доступ ограничен, только для авторизованных подписчиков"
+
+#: ru/padlock.csv:11 
+msgid "We are sorry but your account does not have enough permissions to access this page"
+msgstr "Мы сожалеем, но ваша учетная запись не имеет достаточных прав для доступа к этой странице"
+

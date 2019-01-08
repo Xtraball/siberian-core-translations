@@ -1,0 +1,72 @@
+#: ca/sales.csv:1 
+msgid "Action"
+msgstr "Acció"
+
+#: ca/sales.csv:2 
+msgid "App Name"
+msgstr "Nom d'app"
+
+#: ca/sales.csv:3 
+msgid "Client"
+msgstr "Client"
+
+#: ca/sales.csv:4 
+msgid "Date"
+msgstr "Data"
+
+#: ca/sales.csv:5 
+msgid "Invoice"
+msgstr "Factura"
+
+#: ca/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Factura %s"
+
+#: ca/sales.csv:7 
+msgid "Invoice N°"
+msgstr "Factura N °"
+
+#: ca/sales.csv:8 
+msgid "List of your invoices"
+msgstr "Llista de les seves factures"
+
+#: ca/sales.csv:9 
+msgid "My Invoices"
+msgstr "Els meus factures"
+
+#: ca/sales.csv:10 
+msgid "Order"
+msgstr "Comandes"
+
+#: ca/sales.csv:11 
+msgid "Orders"
+msgstr "Comandes"
+
+#: ca/sales.csv:12 
+msgid "Paid At"
+msgstr "Pagament a"
+
+#: ca/sales.csv:13 
+msgid "Paid at:"
+msgstr "Pagament a:"
+
+#: ca/sales.csv:14 
+msgid "Price Excl. Tax"
+msgstr "Preu excl. fiscal"
+
+#: ca/sales.csv:15 
+msgid "Qty"
+msgstr "Quantitat"
+
+#: ca/sales.csv:16 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Aquesta característica encara no està llest. Si us plau provar una altra vegada més tard."
+
+#: ca/sales.csv:17 
+msgid "Total Excl. Tax"
+msgstr "L'impost total excl."
+
+#: ca/sales.csv:18 
+msgid "You don't have any invoices yet"
+msgstr "Encara no tens cap factures"
+

@@ -1,0 +1,76 @@
+#: cs/system.csv:1 
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Typy souborů:</b>%s<br /><b>Doporučená velikost:</b>%s"
+
+#: cs/system.csv:2 
+msgid "Click here to send your favicon"
+msgstr "Klikněte zde pro vložení faviconu"
+
+#: cs/system.csv:3 
+msgid "Click here to send your logo"
+msgstr "Klikněte zde pro vložení loga"
+
+#: cs/system.csv:4 
+msgid "Communications"
+msgstr "Komunikace"
+
+#: cs/system.csv:5 
+msgid "Current favicon"
+msgstr "Aktuální favicon"
+
+#: cs/system.csv:6 
+msgid "Current logo"
+msgstr "Aktuální logo"
+
+#: cs/system.csv:7 
+msgid "Display a link to your clients to your support platform"
+msgstr "Zobrazit uživatelům odkaz na podporu"
+
+#: cs/system.csv:8 
+msgid "Drop your favicon here"
+msgstr "Vložte favicon"
+
+#: cs/system.csv:9 
+msgid "Drop your logo here"
+msgstr "Vložte logo"
+
+#: cs/system.csv:10 
+msgid "Sales"
+msgstr "Obchod"
+
+#: cs/system.csv:11 
+msgid "Sales Email Address"
+msgstr "Emailová adresa na Obchod"
+
+#: cs/system.csv:12 
+msgid "Sender's email address of the emails sent by the site to your clients"
+msgstr "?Sender's email address of the emails sent by the site to your clients?"
+
+#: cs/system.csv:13 
+msgid "Sender's name of the emails sent by the site to your clients"
+msgstr "?Sender's name of the emails sent by the site to your clients?"
+
+#: cs/system.csv:14 
+msgid "Support Email Address"
+msgstr "Emailová adresa na Podporu"
+
+#: cs/system.csv:15 
+msgid "The folder /images/default is not writable."
+msgstr "The folder /images/default is not writable."
+
+#: cs/system.csv:16 
+msgid "Your Location"
+msgstr "Vaše místo"
+
+#: cs/system.csv:17 
+msgid "Your Platform"
+msgstr "Vaše platforma"
+
+#: cs/system.csv:18 
+msgid "Your company"
+msgstr "Vaše společnost"
+
+#: cs/system.csv:19 
+msgid "﻿<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Typy souborů:</b>%s<br /><b>Doporučená velikost:</b>%s"
+

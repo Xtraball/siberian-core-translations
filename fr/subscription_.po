@@ -1,0 +1,228 @@
+#: fr/subscription_.csv:1 
+msgid "%s Subscription for %s"
+msgstr "%s Abonnement pour %s"
+
+#: fr/subscription_.csv:2 
+msgid "<a href="%s">Click here</a> to go back to your applications list"
+msgstr "<a href="%s">Cliquez ici</a> pour revenir à votre liste d'applications"
+
+#: fr/subscription_.csv:3 
+msgid "Active"
+msgstr "Actif"
+
+#: fr/subscription_.csv:4 
+msgid "An error occurred while processing your order. Please, try again later."
+msgstr "Une erreur s'est produite lors du traitement de votre commande. Merci de réessayez plus tard."
+
+#: fr/subscription_.csv:5 
+msgid "An error occurred while saving. Please try again later"
+msgstr "Une erreur s'est produite lors de l'enregistrement. Merci de réessayer plus tard"
+
+#: fr/subscription_.csv:6 
+msgid "An error occurred while saving. The selected subscription is not valid."
+msgstr "Une erreur s'est produite lors de l'enregistrement. L'abonnement sélectionné n'est pas valide."
+
+#: fr/subscription_.csv:7 
+msgid "Are you sure you want to delete this plan?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce plan?"
+
+#: fr/subscription_.csv:8 
+msgid "Billing Address"
+msgstr "Adresse de Facturation"
+
+#: fr/subscription_.csv:9 
+msgid "By checking this box, you agree <a id="show_tos" href="javascript:void(0);" target="_blank" class="underline">to our terms and conditions</a>"
+msgstr ""
+
+#: fr/subscription_.csv:10 
+msgid "Charged to your client every month"
+msgstr "Prélevé à votre client chaque mois"
+
+#: fr/subscription_.csv:11 
+msgid "Charged to your client every year"
+msgstr "Prélevé à votre client chaque année"
+
+#: fr/subscription_.csv:12 
+msgid "Charged to your client when placing the order"
+msgstr "Prelevé à votre client lors de la commande"
+
+#: fr/subscription_.csv:13 
+msgid "Choose the subscription that suits you best:"
+msgstr "Choisissez l'abonnement qui vous convient le mieux, puis cliquez sur « Sauvegarder »."
+
+#: fr/subscription_.csv:14 
+msgid "Create a new subscription"
+msgstr "Créer un nouvel abonnement"
+
+#: fr/subscription_.csv:15 
+msgid "Creation"
+msgstr "Création"
+
+#: fr/subscription_.csv:16 
+msgid "Describe here this plan. Will be displayed on the front end"
+msgstr "Décrivez ici ce plan. Sera affiché sur le front."
+
+#: fr/subscription_.csv:17 
+msgid "Each price must be entered excluding tax"
+msgstr "Chaque prix doit être entré HT"
+
+#: fr/subscription_.csv:18 
+msgid "Edit the subscription %s"
+msgstr "Modifier l'abonnement %s"
+
+#: fr/subscription_.csv:19 
+msgid "Expiration"
+msgstr "Expiration"
+
+#: fr/subscription_.csv:20 
+msgid "Expiration date"
+msgstr "Date d'expiration"
+
+#: fr/subscription_.csv:21 
+msgid "Give a name to this plan. Will be displayed on the front end"
+msgstr "Donnez un nom à ce plan. Sera affiché sur le front"
+
+#: fr/subscription_.csv:22 
+msgid "List of your plans"
+msgstr "Liste de vos plans."
+
+#: fr/subscription_.csv:23 
+msgid "List of your subscriptions"
+msgstr "Liste de vos abonnements"
+
+#: fr/subscription_.csv:24 
+msgid "None"
+msgstr "Aucun"
+
+#: fr/subscription_.csv:25 
+msgid "One-off"
+msgstr "Unique"
+
+#: fr/subscription_.csv:26 
+msgid "Order's details"
+msgstr "Détails de la commande"
+
+#: fr/subscription_.csv:27 
+msgid "Payment"
+msgstr "Paiement"
+
+#: fr/subscription_.csv:28 
+msgid "Payment Option"
+msgstr "Option de paiement"
+
+#: fr/subscription_.csv:29 
+msgid "Payment secured by <img src="%s" width="100" title="Paypal" />"
+msgstr "Paiement sécurisé par <img src="%s" width="100" title="Paypal" />"
+
+#: fr/subscription_.csv:30 
+msgid "Please, enter a company"
+msgstr "Merci d'entrer un nom de société (ou nom propre)"
+
+#: fr/subscription_.csv:31 
+msgid "Please, enter a country"
+msgstr "Merci d'entrer un pays"
+
+#: fr/subscription_.csv:32 
+msgid "Please, enter a description."
+msgstr "Merci d'entre une description"
+
+#: fr/subscription_.csv:33 
+msgid "Please, enter a name."
+msgstr "Merci d'indiquer un nom"
+
+#: fr/subscription_.csv:34 
+msgid "Please, enter an address"
+msgstr "Merci d'entrer une adresse"
+
+#: fr/subscription_.csv:35 
+msgid "Pricing"
+msgstr "Prix"
+
+#: fr/subscription_.csv:36 
+msgid "Proceed to payment?"
+msgstr "Procéder au paiement?"
+
+#: fr/subscription_.csv:37 
+msgid "Recurring"
+msgstr "Récurrent"
+
+#: fr/subscription_.csv:38 
+msgid "Setup Fee"
+msgstr "Frais de publication sur les stores Apple et Google."
+
+#: fr/subscription_.csv:39 
+msgid "Setup fee"
+msgstr "Frais d'installation"
+
+#: fr/subscription_.csv:40 
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: fr/subscription_.csv:41 
+msgid "Subscription successfully saved"
+msgstr "Abonnement enregistré avec succès"
+
+#: fr/subscription_.csv:42 
+msgid "Subtotal"
+msgstr "Total"
+
+#: fr/subscription_.csv:43 
+msgid "Thanks!"
+msgstr "Merci !"
+
+#: fr/subscription_.csv:44 
+msgid "The monthly price is not a valid price (e.g. 12.34)"
+msgstr "Le prix mensuel n'est pas un prix valable (par exemple 12.34)"
+
+#: fr/subscription_.csv:45 
+msgid "The setup fee is not a valid price (e.g. 12.34)"
+msgstr "Les frais d'installation n'ont pas un prix valable (par exemple 12.34)"
+
+#: fr/subscription_.csv:46 
+msgid "The yearly price is not a valid price (e.g. 12.34)"
+msgstr "Le prix annuel n'est pas un prix valable (par exemple 12.34)"
+
+#: fr/subscription_.csv:47 
+msgid "This subscription is active"
+msgstr "L'abonnement est actif"
+
+#: fr/subscription_.csv:48 
+msgid "An error occurred while processing the payment. For more information, please feel free to contact us."
+msgstr "Une erreur se est produite lors du traitement du paiement. Pour plus d'informations, contactez-nous."
+
+#: fr/subscription_.csv:49 
+msgid "VAT Number"
+msgstr "Numéro de TVA"
+
+#: fr/subscription_.csv:50 
+msgid "You already have a subscription for this application"
+msgstr "Vous avez déjà un abonnement pour cette application"
+
+#: fr/subscription_.csv:51 
+msgid "You don't have any subscriptions yet"
+msgstr "Vous n'avez pas encore d'abonnements"
+
+#: fr/subscription_.csv:52 
+msgid "You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play."
+msgstr "Vous avez presque fini! Après avoir souscrit, nous publierons votre demande à la fois sur l'AppStore et Google Play."
+
+#: fr/subscription_.csv:53 
+msgid "Your VAT Number is not valid"
+msgstr "Votre numéro de TVA n'est pas valide"
+
+#: fr/subscription_.csv:54 
+msgid "Your order has been canceled. If you need any help to place your order, please feel free to contact us."
+msgstr "Votre commande a été annulée. Si vous avez besoin d'aide pour passer votre commande, merci de nous contacter."
+
+#: fr/subscription_.csv:55 
+msgid "Your order has been successfully paid. Your application will be published very soon."
+msgstr "Votre commande a été payée avec succès. Vous allez être averti par mail des différentes étapes de la publication de votre application."
+
+#: fr/subscription_.csv:56 
+msgid "Your subscription must have at least one price"
+msgstr "Votre abonnement doit avoir au moins un prix"
+
+#: fr/subscription_.csv:57 
+msgid "price"
+msgstr "Prix"
+

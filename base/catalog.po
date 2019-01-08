@@ -1,0 +1,160 @@
+#: base/catalog.csv:1 
+msgid "Add a category"
+msgstr "Add a category"
+
+#: base/catalog.csv:2 
+msgid "Add a format"
+msgstr "Add a format"
+
+#: base/catalog.csv:3 
+msgid "Add a new product"
+msgstr "Add a new product"
+
+#: base/catalog.csv:4 
+msgid "All"
+msgstr "All"
+
+#: base/catalog.csv:5 
+msgid "An error occurred while loading your product."
+msgstr "An error occurred while loading your product."
+
+#: base/catalog.csv:6 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "An error occurred while saving. One of your categories could not be identified."
+
+#: base/catalog.csv:7 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "An error occurred while saving. One of your products could not be identified."
+
+#: base/catalog.csv:8 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "An error occurred while saving the category. Please try again later."
+
+#: base/catalog.csv:9 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "An error occurred while saving the product. Please try again later."
+
+#: base/catalog.csv:10 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "An error occurred while saving the set meal. Please try again later."
+
+#: base/catalog.csv:11 
+msgid "Are you sure you want to delete this category?"
+msgstr "Are you sure you want to delete this category?"
+
+#: base/catalog.csv:12 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Are you sure you want to delete this category and all its subcategories?"
+
+#: base/catalog.csv:13 
+msgid "Are you sure you want to delete this product?"
+msgstr "Are you sure you want to delete this product?"
+
+#: base/catalog.csv:14 
+msgid "Categories & Products"
+msgstr "Categories & Products"
+
+#: base/catalog.csv:15 
+msgid "Category"
+msgstr "Category"
+
+#: base/catalog.csv:16 
+msgid "Choose a category"
+msgstr "Choose a category"
+
+#: base/catalog.csv:17 
+msgid "Choose a subcategory"
+msgstr "Choose a subcategory"
+
+#: base/catalog.csv:18 
+msgid "Click on a category to display sub-categories"
+msgstr "Click on a category to display sub-categories"
+
+#: base/catalog.csv:19 
+msgid "Create a new product"
+msgstr "Create a new product"
+
+#: base/catalog.csv:20 
+msgid "Does this product have many formats?"
+msgstr "Does this product have many formats?"
+
+#: base/catalog.csv:21 
+msgid "Edit the"
+msgstr "Edit the"
+
+#: base/catalog.csv:22 
+msgid "Edit the product"
+msgstr "Edit the product"
+
+#: base/catalog.csv:23 
+msgid "Enable product formats?"
+msgstr "Enable product formats?"
+
+#: base/catalog.csv:24 
+msgid "Format"
+msgstr "Format"
+
+#: base/catalog.csv:25 
+msgid "Manage Catalog & Products"
+msgstr "Manage Catalog & Products"
+
+#: base/catalog.csv:26 
+msgid "New category"
+msgstr "New category"
+
+#: base/catalog.csv:27 
+msgid "New product"
+msgstr "New product"
+
+#: base/catalog.csv:28 
+msgid "Picture"
+msgstr "Picture"
+
+#: base/catalog.csv:29 
+msgid "Price"
+msgstr "Price"
+
+#: base/catalog.csv:30 
+msgid "Prices"
+msgstr "Prices"
+
+#: base/catalog.csv:31 
+msgid "Product"
+msgstr "Product"
+
+#: base/catalog.csv:32 
+msgid "Product formats"
+msgstr "Product formats"
+
+#: base/catalog.csv:33 
+msgid "Product name"
+msgstr "Product name"
+
+#: base/catalog.csv:34 
+msgid "Rules"
+msgstr "Rules"
+
+#: base/catalog.csv:35 
+msgid "Set meal successfully deleted."
+msgstr "Set meal successfully deleted."
+
+#: base/catalog.csv:36 
+msgid "Set meal successfully saved."
+msgstr "Set meal successfully saved."
+
+#: base/catalog.csv:37 
+msgid "Sub-category"
+msgstr "Sub-category"
+
+#: base/catalog.csv:38 
+msgid "%s - All"
+msgstr "%s - All"
+
+#: base/catalog.csv:39 
+msgid "st"
+msgstr "st"
+
+#: base/catalog.csv:40 
+msgid "sub-category"
+msgstr "sub-category"
+

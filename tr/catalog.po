@@ -1,0 +1,124 @@
+#: tr/catalog.csv:1 
+msgid "%s - All"
+msgstr "%s – Tümü"
+
+#: tr/catalog.csv:2 
+msgid "Add a category"
+msgstr "Bir kategori ekle"
+
+#: tr/catalog.csv:3 
+msgid "Add a format"
+msgstr "Bir format ekle"
+
+#: tr/catalog.csv:4 
+msgid "All"
+msgstr "Tümü"
+
+#: tr/catalog.csv:5 
+msgid "An error occurred while loading your product."
+msgstr "Ürün yüklenirken bir hata oluştu."
+
+#: tr/catalog.csv:6 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "Kategori yüklenirken bir hata oluştu tekrar deneyin."
+
+#: tr/catalog.csv:7 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "Ürün kaydedilirken bir hata oluştu yeniden deneyin."
+
+#: tr/catalog.csv:8 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "Yemek kaydedilirken bir hata oluştu yeniden deneyin."
+
+#: tr/catalog.csv:9 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "Kaydedilirken bir hata oluştu. Kategorilerden biri tespit edilememiştir."
+
+#: tr/catalog.csv:10 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "Kaydedilirken bir hata oluştu. Ürünlerinizin biri tespit edilememiştir."
+
+#: tr/catalog.csv:11 
+msgid "Are you sure you want to delete this product?"
+msgstr "Bu ürünü silmek istediğinize eminmisiniz?"
+
+#: tr/catalog.csv:12 
+msgid "Category"
+msgstr "Kategori"
+
+#: tr/catalog.csv:13 
+msgid "Choose a category"
+msgstr "Bir kategori seçin"
+
+#: tr/catalog.csv:14 
+msgid "Choose a subcategory"
+msgstr "Bir alt kategori seçin"
+
+#: tr/catalog.csv:15 
+msgid "Click on a category to display sub-categories"
+msgstr "Alt kategorileri görüntülemek için bir kategoriye tıklayın"
+
+#: tr/catalog.csv:16 
+msgid "Create a new product"
+msgstr "Yeni bir ürün oluşturun"
+
+#: tr/catalog.csv:17 
+msgid "Does this product have many formats?"
+msgstr "Bu ürünün diğer formatları var mı?"
+
+#: tr/catalog.csv:18 
+msgid "Edit the"
+msgstr "Düzenle"
+
+#: tr/catalog.csv:19 
+msgid "Edit the product"
+msgstr "Ürünü düzenle"
+
+#: tr/catalog.csv:20 
+msgid "Format"
+msgstr "Format"
+
+#: tr/catalog.csv:21 
+msgid "Picture"
+msgstr "Resim"
+
+#: tr/catalog.csv:22 
+msgid "Price"
+msgstr "Fiyat"
+
+#: tr/catalog.csv:23 
+msgid "Product"
+msgstr "Ürün"
+
+#: tr/catalog.csv:24 
+msgid "Product formats"
+msgstr "Ürün formatları"
+
+#: tr/catalog.csv:25 
+msgid "Product name"
+msgstr "Ürün ismi"
+
+#: tr/catalog.csv:26 
+msgid "Rules"
+msgstr "Kurallar"
+
+#: tr/catalog.csv:27 
+msgid "Set meal successfully deleted."
+msgstr "Set yemek başarıyla silindi"
+
+#: tr/catalog.csv:28 
+msgid "Set meal successfully saved."
+msgstr "Set yemek basarıyla kaydedildi"
+
+#: tr/catalog.csv:29 
+msgid "Sub-category"
+msgstr "Alt -Kategori"
+
+#: tr/catalog.csv:30 
+msgid "st"
+msgstr "st"
+
+#: tr/catalog.csv:31 
+msgid "sub-category"
+msgstr "Alt-kategori"
+

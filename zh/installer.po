@@ -1,0 +1,124 @@
+#: zh/installer.csv:1 
+msgid "All of your modules are up to date"
+msgstr "Todos los módulos están al día"
+
+#: zh/installer.csv:2 
+msgid "Click here to send your module"
+msgstr "Haga clic aquí para enviar su módulo"
+
+#: zh/installer.csv:3 
+msgid "Drop your module here"
+msgstr "Deje su módulo de aquí"
+
+#: zh/installer.csv:4 
+msgid "Installing module <em><span id="label_module"></span></em>"
+msgstr "Instalando el módulo <em><span id="label_module"></span></em>"
+
+#: zh/installer.csv:5 
+msgid "Installing"
+msgstr "Instalando"
+
+#: zh/installer.csv:6 
+msgid "Installing your module"
+msgstr "Instalando tu módulo"
+
+#: zh/installer.csv:7 
+msgid "Module successfully installed"
+msgstr "Módulo instalado con éxito"
+
+#: zh/installer.csv:8 
+msgid "Module to upload"
+msgstr "Módulo para cargar"
+
+#: zh/installer.csv:9 
+msgid "Modules Installation"
+msgstr "Módulos de instalación"
+
+#: zh/installer.csv:10 
+msgid "Modules successfully installed!"
+msgstr "Módulos instalado con éxito!"
+
+#: zh/installer.csv:11 
+msgid "No directory provided"
+msgstr "No directorio proporcionado"
+
+#: zh/installer.csv:12 
+msgid "No module to install"
+msgstr "No hay módulo para instalar"
+
+#: zh/installer.csv:13 
+msgid "No modules uploaded yet"
+msgstr "No hay módulos subidos aún"
+
+#: zh/installer.csv:14 
+msgid "Please wait, we're installing your module"
+msgstr "Por favor espere, estamos instalando su módulo"
+
+#: zh/installer.csv:15 
+msgid "Please, enter a name"
+msgstr "Por favor, introduzca un nombre"
+
+#: zh/installer.csv:16 
+msgid "Please, fill out all fields"
+msgstr "Por favor, rellene todos los campos"
+
+#: zh/installer.csv:17 
+msgid "Processing the installation"
+msgstr "Procesamiento de la instalación"
+
+#: zh/installer.csv:18 
+msgid "Retry"
+msgstr "Vuelva a intentarlo"
+
+#: zh/installer.csv:19 
+msgid "Select a module to upload"
+msgstr "Seleccione un módulo para cargar"
+
+#: zh/installer.csv:20 
+msgid "The database connection failed. Please, check the entered information."
+msgstr "La conexión de base de datos falló. Por favor, verifique la información introducida."
+
+#: zh/installer.csv:21 
+msgid "The entered password confirmation does not match the entered password."
+msgstr "La confirmación de la contraseña introducida no coincide con la contraseña introducida."
+
+#: zh/installer.csv:22 
+msgid "The file %s does not exist"
+msgstr "El archivo %s no existe"
+
+#: zh/installer.csv:23 
+msgid "The folder %s is not writable. Please fix this issue and try again."
+msgstr "La carpeta %s no se puede escribir. Por favor, corrija este problema y vuelva a intentarlo."
+
+#: zh/installer.csv:24 
+msgid "The folder %s is not writable."
+msgstr "La carpeta %s no se puede escribir."
+
+#: zh/installer.csv:25 
+msgid "The following folders are not writable: <br /> - %s"
+msgstr "Las siguientes carpetas no se pueden escribir: <br /> -%s"
+
+#: zh/installer.csv:26 
+msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+msgstr "La instalación del módulo <span id="installation_failed_module_name"></span> ha fallado: <span id="installation_failed_because"></span>"
+
+#: zh/installer.csv:27 
+msgid "This process may take few minutes, please do not refresh the page"
+msgstr "Este proceso puede tardar unos minutos, por favor no actualice la página"
+
+#: zh/installer.csv:28 
+msgid "Unable to extract the archive."
+msgstr "No se puede extraer el archivo."
+
+#: zh/installer.csv:29 
+msgid "Unable to open the archive."
+msgstr "No se puede abrir el archivo."
+
+#: zh/installer.csv:30 
+msgid "Upload a module"
+msgstr "Sube un módulo"
+
+#: zh/installer.csv:31 
+msgid "Upload your modules"
+msgstr "Sube tus módulos"
+

@@ -1,0 +1,12 @@
+#: it/social.csv:1 
+msgid "An error occurred while loading the videos. Please try again later."
+msgstr "Si è verificato un errore durante il caricamento dei video. Perfavore riprova più tardi."
+
+#: it/social.csv:2 
+msgid "Enter your Facebook Fan Page Id"
+msgstr "Inserisci l'ID della tua pagina Facebook"
+
+#: it/social.csv:3 
+msgid "Enter your Facebook Fan Page Id <span class="required-entry"> *</span>:"
+msgstr "Inserisci l'ID della tua pagina Facebook <span class="required-entry"> *</span>:"
+

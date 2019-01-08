@@ -1,0 +1,72 @@
+#: tr/system.csv:1 
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Dosya çeşidi:</b> %s<br /><b>Grekli alan:</b> %s"
+
+#: tr/system.csv:2 
+msgid "Click here to send your favicon"
+msgstr "Favicon göndermek için buraya tıklayın"
+
+#: tr/system.csv:3 
+msgid "Click here to send your logo"
+msgstr "Logonuzu göndermek için buraya tıklayın"
+
+#: tr/system.csv:4 
+msgid "Communications"
+msgstr "İletişim"
+
+#: tr/system.csv:5 
+msgid "Current favicon"
+msgstr "Güncel favicon"
+
+#: tr/system.csv:6 
+msgid "Current logo"
+msgstr "Güncel logos"
+
+#: tr/system.csv:7 
+msgid "Display a link to your clients to your support platform"
+msgstr "Destek platformu için müşterilerine bir bağlantı görüntüler"
+
+#: tr/system.csv:8 
+msgid "Drop your favicon here"
+msgstr "Buraya favicon bırakın"
+
+#: tr/system.csv:9 
+msgid "Drop your logo here"
+msgstr "Buraya logo bırakın"
+
+#: tr/system.csv:10 
+msgid "Sales"
+msgstr "Satışlar"
+
+#: tr/system.csv:11 
+msgid "Sales Email Address"
+msgstr "Satış E-posta Adresi"
+
+#: tr/system.csv:12 
+msgid "Sender's email address of the emails sent by the site to your clients"
+msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin e-posta adresi"
+
+#: tr/system.csv:13 
+msgid "Sender's name of the emails sent by the site to your clients"
+msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin ismi"
+
+#: tr/system.csv:14 
+msgid "Support Email Address"
+msgstr "Destek E-posta Adresi"
+
+#: tr/system.csv:15 
+msgid "The folder /images/default is not writable."
+msgstr "Klasör / resimler / varsayılan yazılabilir değil."
+
+#: tr/system.csv:16 
+msgid "Your Location"
+msgstr "Lokasyonunuz"
+
+#: tr/system.csv:17 
+msgid "Your Platform"
+msgstr "Platformunuz"
+
+#: tr/system.csv:18 
+msgid "Your company"
+msgstr "Şirketiniz"
+

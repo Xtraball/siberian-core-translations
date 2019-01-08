@@ -1,0 +1,32 @@
+#: zh/wordpress.csv:1 
+msgid "Enter your Wordpress URL:"
+msgstr "输入您的网址的WordPress ："
+
+#: zh/wordpress.csv:2 
+msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
+msgstr "很抱歉，但在您的网站未检测到我们的WordPress的插件。请确保它被正确安装并启用。"
+
+#: zh/wordpress.csv:3 
+msgid "We are sorry but no category has been detected on your Wordpress website."
+msgstr "很抱歉，但没有检测类别中的WordPress的网站。"
+
+#: zh/wordpress.csv:4 
+msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
+msgstr "无法访问您的网站WordPress的错误。请检查域名％S"
+
+#: zh/wordpress.csv:5 
+msgid "Click here to download our Wordpress plugin"
+msgstr "点击这里下载我们的WordPress的插件"
+
+#: zh/wordpress.csv:6 
+msgid "Click here to download our Wordpress plugin"
+msgstr "点击这里下载我们的WordPress的插件"
+
+#: zh/wordpress.csv:7 
+msgid "Categories successfully saved"
+msgstr "分类保存成功"
+
+#: zh/wordpress.csv:8 
+msgid "Loading categories"
+msgstr "负荷类型"
+

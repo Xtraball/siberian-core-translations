@@ -1,0 +1,44 @@
+#: tr/rss.csv:1 
+msgid "%s ago"
+msgstr "%s önce"
+
+#: tr/rss.csv:2 
+msgid "An error occurred while saving your RSS feed"
+msgstr "RSS beslemesi kaydedilirken bir hata oluştu"
+
+#: tr/rss.csv:3 
+msgid "Display feed pictures whenever possible"
+msgstr "Ekran geribesleme resimleri herzaman mümkün"
+
+#: tr/rss.csv:4 
+msgid "Enter the URL of this RSS feed"
+msgstr "Bu RSS beslemesine URL'sini girin"
+
+#: tr/rss.csv:5 
+msgid "Found feeds"
+msgstr "Bulunan beslemeler"
+
+#: tr/rss.csv:6 
+msgid "No RSS feed could be found"
+msgstr "RSS besleme bulunamadı"
+
+#: tr/rss.csv:7 
+msgid "RSS feed successfully saved"
+msgstr "RSS beslemesi başarıyla kaydedildi"
+
+#: tr/rss.csv:8 
+msgid "Show article"
+msgstr "Makale göster"
+
+#: tr/rss.csv:9 
+msgid "day"
+msgstr "gün"
+
+#: tr/rss.csv:10 
+msgid "hour"
+msgstr "saat"
+
+#: tr/rss.csv:11 
+msgid "minute"
+msgstr "dakika"
+

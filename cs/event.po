@@ -1,0 +1,108 @@
+#: cs/event.csv:1 
+msgid "An error occurred while deleting the event"
+msgstr "Při mazání události došlo k chybě"
+
+#: cs/event.csv:2 
+msgid "An error occurred while loading this event"
+msgstr "Při nahrávání události došlo k chybě"
+
+#: cs/event.csv:3 
+msgid "Beginning date:"
+msgstr "Počáteční datum:"
+
+#: cs/event.csv:4 
+msgid "Calendar successfully deleted"
+msgstr "Kalendář byl úspěšně smazán"
+
+#: cs/event.csv:5 
+msgid "Calendar's URL"
+msgstr "URL kalendáře"
+
+#: cs/event.csv:6 
+msgid "Calendar's title"
+msgstr "Název kalendáře"
+
+#: cs/event.csv:7 
+msgid "Change picture"
+msgstr "Změnit obrázek"
+
+#: cs/event.csv:8 
+msgid "Create a new event"
+msgstr "Vytvořit novou událost"
+
+#: cs/event.csv:9 
+msgid "Custom Page"
+msgstr "Vlastní stránka"
+
+#: cs/event.csv:10 
+msgid "Delete this calendar?"
+msgstr "Smazat tento kalendář?"
+
+#: cs/event.csv:11 
+msgid "Delete this event?"
+msgstr "Odstranit tuto událost?"
+
+#: cs/event.csv:12 
+msgid "Ending date:"
+msgstr "Datum ukončení:"
+
+#: cs/event.csv:13 
+msgid "Enter your calendar's title"
+msgstr "Zadejte název kalendáře"
+
+#: cs/event.csv:14 
+msgid "Event"
+msgstr "Událost"
+
+#: cs/event.csv:15 
+msgid "Event successfully deleted"
+msgstr "Událost byla smazána"
+
+#: cs/event.csv:16 
+msgid "Event successfully saved"
+msgstr "Událost byla uložena"
+
+#: cs/event.csv:17 
+msgid "Event title:"
+msgstr "Název události:"
+
+#: cs/event.csv:18 
+msgid "Illustration"
+msgstr "Obrázek"
+
+#: cs/event.csv:19 
+msgid "Max size: 2000x2000px - allowed formats: jpg & png"
+msgstr "Maximální velikost: 2000x2000px - povolené formáty: jpg a png"
+
+#: cs/event.csv:20 
+msgid "Modify the event"
+msgstr "Upravit událost"
+
+#: cs/event.csv:21 
+msgid "RSVP"
+msgstr "RSVP"
+
+#: cs/event.csv:22 
+msgid "RSVP URL:"
+msgstr "RSVP URL:"
+
+#: cs/event.csv:23 
+msgid "Your Facebook page ID"
+msgstr "Vaše Facebook page ID"
+
+#: cs/event.csv:24 
+msgid "Your Facebook page ID <span class="required-entry">*</span> :"
+msgstr "Vaše Facebook page ID <span class = "required-entry">*</ span>:"
+
+#: cs/event.csv:25 
+msgid "Your calendar is empty"
+msgstr "Váš kalendář je prázdný"
+
+#: cs/event.csv:26 
+msgid "iCal"
+msgstr "iCal"
+
+#: cs/event.csv:27 
+msgid "﻿An error occurred while deleting the event"
+msgstr "Při mazání události došlo k chybě"
+

@@ -1,0 +1,24 @@
+#: base/tip.csv:1 
+msgid "Amount of bill"
+msgstr "Amount of bill"
+
+#: base/tip.csv:2 
+msgid "Calculate"
+msgstr "Calculate"
+
+#: base/tip.csv:3 
+msgid "Number of people"
+msgstr "Number of people"
+
+#: base/tip.csv:4 
+msgid "Percentage of tip"
+msgstr "Percentage of tip"
+
+#: base/tip.csv:5 
+msgid "This feature allows your users to calculate tips with their app."
+msgstr "This feature allows your users to calculate tips with their app."
+
+#: base/tip.csv:6 
+msgid "Tip for each:"
+msgstr "Tip for each:"
+

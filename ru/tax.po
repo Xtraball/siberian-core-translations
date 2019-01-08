@@ -1,0 +1,28 @@
+#: ru/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Список ваших налогов"
+
+#: ru/tax.csv:2 
+msgid "Please select a country"
+msgstr "Пожалуйста, выберите страну"
+
+#: ru/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Пожалуйста, введите налоговую ставку."
+
+#: ru/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Пожалуйста, введите действительный налоговую ставку."
+
+#: ru/tax.csv:5 
+msgid "Rate"
+msgstr "Ставка"
+
+#: ru/tax.csv:6 
+msgid "Remove"
+msgstr "Удалить"
+
+#: ru/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "Вы не создали ещё никаких налогов "
+

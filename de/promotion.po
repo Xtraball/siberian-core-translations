@@ -1,0 +1,84 @@
+#: de/promotion.csv:1 
+msgid "An error occurred while saving your discount. Please fill in all fields"
+msgstr "Beim Speichern des Rabatts ist ein Fehler aufgetreten. Bitte verfollständigen Sie alle Felder."
+
+#: de/promotion.csv:2 
+msgid "Are you sure you want to use this discount?"
+msgstr "Sind Sie sicher, dass dieser Rabatt verwenden möchten?"
+
+#: de/promotion.csv:3 
+msgid "Can only be used once"
+msgstr "kann nur einmal verwendet werden,"
+
+#: de/promotion.csv:4 
+msgid "Closed discounts"
+msgstr "geschlossen Rabatte"
+
+#: de/promotion.csv:5 
+msgid "Create a new discount"
+msgstr "Erstellen Sie einen neuen Rabatt"
+
+#: de/promotion.csv:6 
+msgid "Delete this discount?"
+msgstr "Löschen Sie diesen Rabatt?"
+
+#: de/promotion.csv:7 
+msgid "Details"
+msgstr "Beschreibung"
+
+#: de/promotion.csv:8 
+msgid "Discount successfully deleted"
+msgstr "Discount erfolgreich gelöscht"
+
+#: de/promotion.csv:9 
+msgid "Discount successfully saved"
+msgstr "Discount erfolgreich gespeichert"
+
+#: de/promotion.csv:10 
+msgid "End at"
+msgstr "Endet am"
+
+#: de/promotion.csv:11 
+msgid "On"
+msgstr "Ein"
+
+#: de/promotion.csv:12 
+msgid "Please log in."
+msgstr "Bitte melden Sie sich an"
+
+#: de/promotion.csv:13 
+msgid "Please select an end date greater than the current date."
+msgstr "Bitte wählen Sie ein Enddatum."
+
+#: de/promotion.csv:14 
+msgid "This discount is now used"
+msgstr "Dieser Rabatt wird nun verwendet."
+
+#: de/promotion.csv:15 
+msgid "Use this coupon"
+msgstr "Verwenden Sie diesen Coupon"
+
+#: de/promotion.csv:16 
+msgid "Valid until"
+msgstr "Gültig bis"
+
+#: de/promotion.csv:17 
+msgid "You have already use this discount"
+msgstr "Sie haben diesen Gutschein bereits eingelöst."
+
+#: de/promotion.csv:18 
+msgid "You must be logged in to use a discount"
+msgstr "Sie müssen angemeldet sein, um einen Gutschein zu verwenden"
+
+#: de/promotion.csv:19 
+msgid "or illimited"
+msgstr "oder ADSL"
+
+#: de/promotion.csv:20 
+msgid "use only once"
+msgstr "Verwenden Sie nur einmal"
+
+#: de/promotion.csv:21 
+msgid "you'll be able to remove this promotion later"
+msgstr "Sie werden dieses Angebot später entfernen"
+

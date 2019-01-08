@@ -1,0 +1,8 @@
+#: fr/sourcecode.csv:1 
+msgid "Insert your HTML code:"
+msgstr "Insérer votre code HTML :"
+
+#: fr/sourcecode.csv:2 
+msgid "Source Code"
+msgstr "Code source"
+

@@ -1,0 +1,60 @@
+#: pt_BR/promotion.csv:1 
+msgid "An error occurred while saving your discount. Please fill in all fields"
+msgstr "Ocorreu um erro ao salvar o seu desconto. Por favor, preencha todos os campos"
+
+#: pt_BR/promotion.csv:2 
+msgid "Are you sure you want to use this discount?"
+msgstr "Tem certeza de que deseja usar esse desconto?"
+
+#: pt_BR/promotion.csv:3 
+msgid "Closed discounts"
+msgstr "Descontos fechados"
+
+#: pt_BR/promotion.csv:4 
+msgid "Create a new discount"
+msgstr "Criar um novo desconto"
+
+#: pt_BR/promotion.csv:5 
+msgid "Delete this discount?"
+msgstr "Deletar este desconto?"
+
+#: pt_BR/promotion.csv:6 
+msgid "Discount successfully deleted"
+msgstr "Desconto deletado com sucesso"
+
+#: pt_BR/promotion.csv:7 
+msgid "Discount successfully saved"
+msgstr "Desconto salvo com sucesso"
+
+#: pt_BR/promotion.csv:8 
+msgid "Please select an end date greater than the current date."
+msgstr "Por favor, selecione uma data de término maior do que a data atual."
+
+#: pt_BR/promotion.csv:9 
+msgid "This discount is now used"
+msgstr "Este desconto foi usado agora"
+
+#: pt_BR/promotion.csv:10 
+msgid "Valid until"
+msgstr "Válido até"
+
+#: pt_BR/promotion.csv:11 
+msgid "You have already use this discount"
+msgstr "Você já usou este desconto"
+
+#: pt_BR/promotion.csv:12 
+msgid "You must be logged in to use a discount"
+msgstr "Você precisa estar logado para usar um desconto"
+
+#: pt_BR/promotion.csv:13 
+msgid "or illimited"
+msgstr "ou ilimitado"
+
+#: pt_BR/promotion.csv:14 
+msgid "use only once"
+msgstr "usar apenas uma vez"
+
+#: pt_BR/promotion.csv:15 
+msgid "you'll be able to remove this promotion later"
+msgstr "você vai ser capaz de remover esta promoção depois"
+

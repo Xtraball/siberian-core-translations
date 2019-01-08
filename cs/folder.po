@@ -1,0 +1,64 @@
+#: cs/folder.csv:1 
+msgid "Add a page"
+msgstr "Přidat stránku"
+
+#: cs/folder.csv:2 
+msgid "Click on"
+msgstr "Klikněte na"
+
+#: cs/folder.csv:3 
+msgid "Click on a page to add it to the folder"
+msgstr "Vyberte stránku/modul, kterou chcete přidat do složky"
+
+#: cs/folder.csv:4 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Vyberte stránku/modul, kterou chcete přidat do složky <span id = "folder_name" class = "folder_name"> "%s" </ span>"
+
+#: cs/folder.csv:5 
+msgid "Close mobile display"
+msgstr "Zavřít zobrazení v mobilu"
+
+#: cs/folder.csv:6 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Odstranit tuto složku a všechny její podsložky?"
+
+#: cs/folder.csv:7 
+msgid "Folder title is required"
+msgstr "Název složky je nutné vyplnit"
+
+#: cs/folder.csv:8 
+msgid "Folders"
+msgstr "Složky"
+
+#: cs/folder.csv:9 
+msgid "Mobile display"
+msgstr "Zobrazení v mobilu"
+
+#: cs/folder.csv:10 
+msgid "New folder"
+msgstr "Nová složka"
+
+#: cs/folder.csv:11 
+msgid "Subtitle"
+msgstr "Popis"
+
+#: cs/folder.csv:12 
+msgid "You cannot add this feature"
+msgstr "Tato funkce nelze přidat"
+
+#: cs/folder.csv:13 
+msgid "You must first complete the current category creation process"
+msgstr "Nejdříve musíte dokončit právě vytvářenou složku"
+
+#: cs/folder.csv:14 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Chcete pokračovat? Ztratíte všechny neuložené změny"
+
+#: cs/folder.csv:15 
+msgid "to add a folder."
+msgstr "k přidání další složky"
+
+#: cs/folder.csv:16 
+msgid "﻿Add a page"
+msgstr "Přidat stránku"
+

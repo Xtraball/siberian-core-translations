@@ -1,0 +1,72 @@
+#: nl/sales.csv:1 
+msgid "Action"
+msgstr "Actie"
+
+#: nl/sales.csv:2 
+msgid "App Name"
+msgstr "App Naam"
+
+#: nl/sales.csv:3 
+msgid "Client"
+msgstr "Klant"
+
+#: nl/sales.csv:4 
+msgid "Date"
+msgstr "Datum"
+
+#: nl/sales.csv:5 
+msgid "Invoice"
+msgstr "Factuur"
+
+#: nl/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Factuur %s"
+
+#: nl/sales.csv:7 
+msgid "Invoice N°"
+msgstr "Factuur N°"
+
+#: nl/sales.csv:8 
+msgid "List of your invoices"
+msgstr "Lijst van uw facturen"
+
+#: nl/sales.csv:9 
+msgid "My Invoices"
+msgstr "Mijn Facturen"
+
+#: nl/sales.csv:10 
+msgid "Order"
+msgstr "Opdracht"
+
+#: nl/sales.csv:11 
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: nl/sales.csv:12 
+msgid "Paid At"
+msgstr "Betaald op"
+
+#: nl/sales.csv:13 
+msgid "Paid at:"
+msgstr "Betaald op:"
+
+#: nl/sales.csv:14 
+msgid "Price Excl. Tax"
+msgstr "Prijs excl. BTW"
+
+#: nl/sales.csv:15 
+msgid "Qty"
+msgstr "Aantal"
+
+#: nl/sales.csv:16 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Deze functie is nog niet beschikbaar. Probeer het later opnieuw."
+
+#: nl/sales.csv:17 
+msgid "Total Excl. Tax"
+msgstr "Totaal Excl. BTW"
+
+#: nl/sales.csv:18 
+msgid "You don't have any invoices yet"
+msgstr "U heeft nog geen facturen"
+

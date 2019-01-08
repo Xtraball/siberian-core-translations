@@ -1,0 +1,612 @@
+#: cs/mcommerce.csv:1 
+msgid "%s - Customer Service"
+msgstr "%s - Zákaznický servis"
+
+#: cs/mcommerce.csv:2 
+msgid "20.00%"
+msgstr "20.00%"
+
+#: cs/mcommerce.csv:3 
+msgid "Add a picture"
+msgstr "Přidat obrázek"
+
+#: cs/mcommerce.csv:4 
+msgid "Add options"
+msgstr "Přidat formát"
+
+#: cs/mcommerce.csv:5 
+msgid "Add to cart"
+msgstr "Přidat do košíku"
+
+#: cs/mcommerce.csv:6 
+msgid "An error occurred while proceeding the payment. Please, try again later."
+msgstr "Při platbě došlo k chybě. Zkuste to prosím později"
+
+#: cs/mcommerce.csv:7 
+msgid "An error occurred while proceeding your order. Please, check the following information:"
+msgstr "Při objednávce došlo k chybě. Zkuste to prosím později"
+
+#: cs/mcommerce.csv:8 
+msgid "Are you sure you want to close without saving"
+msgstr "Opravdu chcete zavřít bez uložení?"
+
+#: cs/mcommerce.csv:9 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Opravdu chcete smazat tuto kategorii a všechny její podkategorie?"
+
+#: cs/mcommerce.csv:10 
+msgid "Are you sure you want to delete this store?"
+msgstr "Opravdu chcete smazat tento obchod/sklad?"
+
+#: cs/mcommerce.csv:11 
+msgid "Are you sure you want to delete this tax?"
+msgstr "Opravdu chcete smazat tuto daň?"
+
+#: cs/mcommerce.csv:12 
+msgid "Are you sure you want to remove this product?"
+msgstr "Opravdu chcete smazat tento produkt?"
+
+#: cs/mcommerce.csv:13 
+msgid "At least one option is required:"
+msgstr "Je vyžadován alespoň jeden formát"
+
+#: cs/mcommerce.csv:14 
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+#: cs/mcommerce.csv:15 
+msgid "Carry Out"
+msgstr "?Rozvoz?"
+
+#: cs/mcommerce.csv:16 
+msgid "Cart"
+msgstr "Košík"
+
+#: cs/mcommerce.csv:17 
+msgid "Cash"
+msgstr "Hotovost"
+
+#: cs/mcommerce.csv:18 
+msgid "Category"
+msgstr "Kategorie"
+
+#: cs/mcommerce.csv:19 
+msgid "Category successfully saved."
+msgstr "Kategorie byla úspěšně uložena."
+
+#: cs/mcommerce.csv:20 
+msgid "Check"
+msgstr "Check"
+
+#: cs/mcommerce.csv:21 
+msgid "Choose a delivery method:"
+msgstr "Vyberte si způsob doručení:"
+
+#: cs/mcommerce.csv:22 
+msgid "Choose a payment method:"
+msgstr "Vyberte si způsob platby:"
+
+#: cs/mcommerce.csv:23 
+msgid "Choose a store:"
+msgstr "Vyberte si obchod/sklad:"
+
+#: cs/mcommerce.csv:24 
+msgid "Completed"
+msgstr "Dokončeno"
+
+#: cs/mcommerce.csv:25 
+msgid "Connected Printers"
+msgstr "Připojené tiskárny"
+
+#: cs/mcommerce.csv:26 
+msgid "Continue shopping"
+msgstr "Pokračovat v nákupu"
+
+#: cs/mcommerce.csv:27 
+msgid "Create a new options group"
+msgstr "Vytvořit novou skupinu formátů"
+
+#: cs/mcommerce.csv:28 
+msgid "Create a new product"
+msgstr "Vytvořit nový produkt"
+
+#: cs/mcommerce.csv:29 
+msgid "Create a new tax"
+msgstr "Vytvořit novou daň"
+
+#: cs/mcommerce.csv:30 
+msgid "Create a store"
+msgstr "Vytvořit obchod/sklad"
+
+#: cs/mcommerce.csv:31 
+msgid "Credit Card by phone"
+msgstr "?Credit Card by phone?"
+
+#: cs/mcommerce.csv:32 
+msgid "Credit card (pay upon pickup or delivery)"
+msgstr "Kreditní karta (platba při vyzvednutí nebo dodání)"
+
+#: cs/mcommerce.csv:33 
+msgid "Customer"
+msgstr "Zákazník"
+
+#: cs/mcommerce.csv:34 
+msgid "Customer Service"
+msgstr "Zákaznický servis"
+
+#: cs/mcommerce.csv:35 
+msgid "Delivery"
+msgstr "Doručení"
+
+#: cs/mcommerce.csv:36 
+msgid "Delivery Fees"
+msgstr "Poplatky za doručení"
+
+#: cs/mcommerce.csv:37 
+msgid "Delivery Method"
+msgstr "Způsob doručení"
+
+#: cs/mcommerce.csv:38 
+msgid "Delivery area"
+msgstr "Oblast pro doručení"
+
+#: cs/mcommerce.csv:39 
+msgid "Delivery fees"
+msgstr "Poplatky za doručení"
+
+#: cs/mcommerce.csv:40 
+msgid "Delivery fees:"
+msgstr "Poplatky za doručení:"
+
+#: cs/mcommerce.csv:41 
+msgid "Delivery methods"
+msgstr "Způsob doručení"
+
+#: cs/mcommerce.csv:42 
+msgid "Delivery methods:"
+msgstr "Způsob doručení:"
+
+#: cs/mcommerce.csv:43 
+msgid "Delivery radius"
+msgstr "Okruh doručení"
+
+#: cs/mcommerce.csv:44 
+msgid "Delivery radius:"
+msgstr "Okruh doručení:"
+
+#: cs/mcommerce.csv:45 
+msgid "Delivery time"
+msgstr "Dodací lhůta"
+
+#: cs/mcommerce.csv:46 
+msgid "Delivery time:"
+msgstr "Dodací lhůta:"
+
+#: cs/mcommerce.csv:47 
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: cs/mcommerce.csv:48 
+msgid "Edit a store"
+msgstr "Upravit obchod/sklad"
+
+#: cs/mcommerce.csv:49 
+msgid "Edit the options group %s"
+msgstr "Upravit skupinu formátů %s"
+
+#: cs/mcommerce.csv:50 
+msgid "Edit the product %s"
+msgstr "Upravit produkt %s"
+
+#: cs/mcommerce.csv:51 
+msgid "Edit the tax %s"
+msgstr "Upravit daň %s"
+
+#: cs/mcommerce.csv:52 
+msgid "Free delivery starting from"
+msgstr "Doprava zdarma od"
+
+#: cs/mcommerce.csv:53 
+msgid "Free delivery starting from:"
+msgstr "Doprava zdarma od:"
+
+#: cs/mcommerce.csv:54 
+msgid "Here is the detail of the order"
+msgstr "Zde je detail objednávky"
+
+#: cs/mcommerce.csv:55 
+msgid "Here is the detail of your order"
+msgstr "Zde je detail Vaší objednávky"
+
+#: cs/mcommerce.csv:56 
+msgid "Hours of operation"
+msgstr "Provozní doba"
+
+#: cs/mcommerce.csv:57 
+msgid "Hours of operation:"
+msgstr "Provozní doba:"
+
+#: cs/mcommerce.csv:58 
+msgid "In store"
+msgstr "V obchodě/skladu"
+
+#: cs/mcommerce.csv:59 
+msgid "Meal Voucher"
+msgstr "Stravenky"
+
+#: cs/mcommerce.csv:60 
+msgid "Minimum order"
+msgstr "Minimální objednávka"
+
+#: cs/mcommerce.csv:61 
+msgid "Minimum order:"
+msgstr "Minimální objednávka:"
+
+#: cs/mcommerce.csv:62 
+msgid "My Cart"
+msgstr "Můj košík"
+
+#: cs/mcommerce.csv:63 
+msgid "My cart is empty"
+msgstr "Košík je prázdný"
+
+#: cs/mcommerce.csv:64 
+msgid "My categories"
+msgstr "Kategorie"
+
+#: cs/mcommerce.csv:65 
+msgid "My information"
+msgstr "Informace"
+
+#: cs/mcommerce.csv:66 
+msgid "My orders"
+msgstr "Objednávky"
+
+#: cs/mcommerce.csv:67 
+msgid "My product's categories"
+msgstr "Produktové kategorie"
+
+#: cs/mcommerce.csv:68 
+msgid "My product's options"
+msgstr "Produkty - možnosti"
+
+#: cs/mcommerce.csv:69 
+msgid "My products"
+msgstr "Produkty"
+
+#: cs/mcommerce.csv:70 
+msgid "My stores"
+msgstr "Obchody/sklady"
+
+#: cs/mcommerce.csv:71 
+msgid "My taxes"
+msgstr "Daně"
+
+#: cs/mcommerce.csv:72 
+msgid "Name of the options group:"
+msgstr "Název skupiny formátů"
+
+#: cs/mcommerce.csv:73 
+msgid "New order from the application"
+msgstr "Nová objednávka z mobilní aplikace"
+
+#: cs/mcommerce.csv:74 
+msgid "Number"
+msgstr "Číslo"
+
+#: cs/mcommerce.csv:75 
+msgid "Option name"
+msgstr "Název formátu"
+
+#: cs/mcommerce.csv:76 
+msgid "Option name:"
+msgstr "Název formátu:"
+
+#: cs/mcommerce.csv:77 
+msgid "Options group successfully deleted"
+msgstr "Skupina formátů byla smazána"
+
+#: cs/mcommerce.csv:78 
+msgid "Options group successfully saved"
+msgstr "Skupina formátů byla uložena"
+
+#: cs/mcommerce.csv:79 
+msgid "Order Number"
+msgstr "Číslo objednávky"
+
+#: cs/mcommerce.csv:80 
+msgid "Order confirmation"
+msgstr "Potvrzení objednávky"
+
+#: cs/mcommerce.csv:81 
+msgid "Order details"
+msgstr "Detail objednávky"
+
+#: cs/mcommerce.csv:82 
+msgid "Order successfully saved"
+msgstr "Objednávka byla úspěšně uložena"
+
+#: cs/mcommerce.csv:83 
+msgid "Orders"
+msgstr "Objednávky"
+
+#: cs/mcommerce.csv:84 
+msgid "Paid"
+msgstr "Zaplaceno"
+
+#: cs/mcommerce.csv:85 
+msgid "Password"
+msgstr "Heslo"
+
+#: cs/mcommerce.csv:86 
+msgid "Password:"
+msgstr "Heslo:"
+
+#: cs/mcommerce.csv:87 
+msgid "Payment"
+msgstr "Platba"
+
+#: cs/mcommerce.csv:88 
+msgid "Payment Method"
+msgstr "Způsob platby"
+
+#: cs/mcommerce.csv:89 
+msgid "Payment methods:"
+msgstr "Způsob platby:"
+
+#: cs/mcommerce.csv:90 
+msgid "Paypal"
+msgstr "Paypal"
+
+#: cs/mcommerce.csv:91 
+msgid "Pending payment"
+msgstr "Nevyřízená platba"
+
+#: cs/mcommerce.csv:92 
+msgid "Picture"
+msgstr "Obrázek"
+
+#: cs/mcommerce.csv:93 
+msgid "Please choose a delivery method"
+msgstr "Prosím, vyberte způsob doručení"
+
+#: cs/mcommerce.csv:94 
+msgid "Please choose a payment method"
+msgstr "Prosím, vyberte způsob platby"
+
+#: cs/mcommerce.csv:95 
+msgid "Please, enter an email address for the store %s"
+msgstr "Prosím, zadejte e-mailovou adresu pro obchod/sklad %s"
+
+#: cs/mcommerce.csv:96 
+msgid "Price"
+msgstr "Cena"
+
+#: cs/mcommerce.csv:97 
+msgid "Price: %s"
+msgstr "Cena: %s"
+
+#: cs/mcommerce.csv:98 
+msgid "Printer successfully saved"
+msgstr "Tiskárna byla úspěšně uložena"
+
+#: cs/mcommerce.csv:99 
+msgid "Proceed"
+msgstr "Pokračovat"
+
+#: cs/mcommerce.csv:100 
+msgid "Product"
+msgstr "Produkt"
+
+#: cs/mcommerce.csv:101 
+msgid "Product name"
+msgstr "Název produktu"
+
+#: cs/mcommerce.csv:102 
+msgid "Product name:"
+msgstr "Název produktu:"
+
+#: cs/mcommerce.csv:103 
+msgid "Product successfully saved"
+msgstr "Produkt úspěšně uložen"
+
+#: cs/mcommerce.csv:104 
+msgid "Qty"
+msgstr "Množství"
+
+#: cs/mcommerce.csv:105 
+msgid "Qty: %s"
+msgstr "Množství: %s"
+
+#: cs/mcommerce.csv:106 
+msgid "Radius in Km"
+msgstr "Okruh v km"
+
+#: cs/mcommerce.csv:107 
+msgid "Review"
+msgstr "?Shrnutí?"
+
+#: cs/mcommerce.csv:108 
+msgid "Settings"
+msgstr "Nastavení"
+
+#: cs/mcommerce.csv:109 
+msgid "Signature"
+msgstr "Podpis"
+
+#: cs/mcommerce.csv:110 
+msgid "Signature:"
+msgstr "Podpis:"
+
+#: cs/mcommerce.csv:111 
+msgid "Status"
+msgstr "Status"
+
+#: cs/mcommerce.csv:112 
+msgid "Store information"
+msgstr "Informace o obchodu/skladu"
+
+#: cs/mcommerce.csv:113 
+msgid "Store name"
+msgstr "Název obchodu/skladu"
+
+#: cs/mcommerce.csv:114 
+msgid "Store name:"
+msgstr "Název obchodu/skladu:"
+
+#: cs/mcommerce.csv:115 
+msgid "Store successfully deleted"
+msgstr "Obchod/sklad úspěšně smazán"
+
+#: cs/mcommerce.csv:116 
+msgid "Store successfully saved"
+msgstr "Obchod/sklad úspěšně uložen"
+
+#: cs/mcommerce.csv:117 
+msgid "Stores"
+msgstr "Obchody/sklady"
+
+#: cs/mcommerce.csv:118 
+msgid "Subtotal"
+msgstr "Mezisoučet"
+
+#: cs/mcommerce.csv:119 
+msgid "Tax"
+msgstr "Daň"
+
+#: cs/mcommerce.csv:120 
+msgid "Tax name"
+msgstr "Název daně"
+
+#: cs/mcommerce.csv:121 
+msgid "Tax name:"
+msgstr "Název daně:"
+
+#: cs/mcommerce.csv:122 
+msgid "Tax rate"
+msgstr "Sazba daně"
+
+#: cs/mcommerce.csv:123 
+msgid "Tax rate:"
+msgstr "Sazba daně:"
+
+#: cs/mcommerce.csv:124 
+msgid "Tax successfully deleted"
+msgstr "Daň úspěšně smazána"
+
+#: cs/mcommerce.csv:125 
+msgid "Tax successfully saved"
+msgstr "Daň úspěšně uložena"
+
+#: cs/mcommerce.csv:126 
+msgid "Tax:"
+msgstr "Daň:"
+
+#: cs/mcommerce.csv:127 
+msgid "Thank you!"
+msgstr "Děkujeme!"
+
+#: cs/mcommerce.csv:128 
+msgid "The delivery method"
+msgstr "Způsob doručení"
+
+#: cs/mcommerce.csv:129 
+msgid "The following options are required:<br />%s"
+msgstr "Následující formáty jsou vyžadovány: <br />%s"
+
+#: cs/mcommerce.csv:130 
+msgid "The option %s is required"
+msgstr "Formát %s je vyžadován"
+
+#: cs/mcommerce.csv:131 
+msgid "The payment has been cancelled, something wrong happened? Feel free to contact us"
+msgstr "Platba byla zrušena, stalo se něco? Neváhejte nás kontaktovat"
+
+#: cs/mcommerce.csv:132 
+msgid "The payment method"
+msgstr "Způsob platby"
+
+#: cs/mcommerce.csv:133 
+msgid "Time in minutes"
+msgstr "Čas v minutách"
+
+#: cs/mcommerce.csv:134 
+msgid "Total"
+msgstr "Celkem"
+
+#: cs/mcommerce.csv:135 
+msgid "Total Excl. Tax"
+msgstr "Celkem bez DPH"
+
+#: cs/mcommerce.csv:136 
+msgid "Total Tax"
+msgstr "Celkové DPH"
+
+#: cs/mcommerce.csv:137 
+msgid "Total: %s"
+msgstr "Celkem: %s"
+
+#: cs/mcommerce.csv:138 
+msgid "Unit Price"
+msgstr "Jednotková cena"
+
+#: cs/mcommerce.csv:139 
+msgid "Unit price"
+msgstr "Jednotková cena"
+
+#: cs/mcommerce.csv:140 
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: cs/mcommerce.csv:141 
+msgid "Username:"
+msgstr "Uživatelské jméno:"
+
+#: cs/mcommerce.csv:142 
+msgid "We apologize but the payment method %s is currently not available"
+msgstr "Omlouváme se, ale způsob platby %s není v současné době k dispozici"
+
+#: cs/mcommerce.csv:143 
+msgid "We thank you for your order. A confirmation email has been sent"
+msgstr "Děkujeme Vám za Vaši objednávku. Potvrzovací e-mail byl odeslán"
+
+#: cs/mcommerce.csv:144 
+msgid "You don't have any categories yet"
+msgstr "Zatím nemáte žádné kategorie"
+
+#: cs/mcommerce.csv:145 
+msgid "You have a connected printer? Enter the email address"
+msgstr "Máte připojenou tiskárnu? Zadejte e-mailovou adresu"
+
+#: cs/mcommerce.csv:146 
+msgid "You have a connected printer? Enter the email address for each store"
+msgstr "Máte připojenou tiskárnu? Zadejte e-mailovou adresu pro každý obchod/sklad"
+
+#: cs/mcommerce.csv:147 
+msgid "Your address"
+msgstr "Vaše adresa"
+
+#: cs/mcommerce.csv:148 
+msgid "Your email address"
+msgstr "Vaše e-mailová adresa"
+
+#: cs/mcommerce.csv:149 
+msgid "Your firstname"
+msgstr "Vaše křestní jméno"
+
+#: cs/mcommerce.csv:150 
+msgid "Your lastname"
+msgstr "Vaše příjmení"
+
+#: cs/mcommerce.csv:151 
+msgid "Your phone number"
+msgstr "Vaše telefonní číslo"
+
+#: cs/mcommerce.csv:152 
+msgid "e.g., Sauces"
+msgstr "např. Velikosti"
+
+#: cs/mcommerce.csv:153 
+msgid "﻿Cancelled"
+msgstr "Zrušeno"
+

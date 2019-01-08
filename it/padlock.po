@@ -1,0 +1,44 @@
+#: it/padlock.csv:1 
+msgid "Access restricted to authorized members only"
+msgstr "Accesso riservato solo agli utenti autorizzati"
+
+#: it/padlock.csv:2 
+msgid "Allow all the users by default:"
+msgstr "Lasciare tutti gli utenti per impostazione predefinita:"
+
+#: it/padlock.csv:3 
+msgid "Choose the features to lock:"
+msgstr "Scegli le funzioni da bloccare:"
+
+#: it/padlock.csv:4 
+msgid "Lock the entire application?"
+msgstr "Bloccare l'intera applicazione?"
+
+#: it/padlock.csv:5 
+msgid "Restrict Access"
+msgstr "Accesso riservato"
+
+#: it/padlock.csv:6 
+msgid "We are sorry but your account does not have enough permissions to access this page"
+msgstr "Ci dispiace ma il tuo account non dispone di autorizzazioni sufficienti per accedere a questa pagina"
+
+#: it/padlock.csv:7 
+msgid "the email address"
+msgstr "l'email"
+
+#: it/padlock.csv:8 
+msgid "the first name"
+msgstr "il nome"
+
+#: it/padlock.csv:9 
+msgid "the gender"
+msgstr "il genere"
+
+#: it/padlock.csv:10 
+msgid "the last name"
+msgstr "il cognome"
+
+#: it/padlock.csv:11 
+msgid "the password"
+msgstr "la password"
+

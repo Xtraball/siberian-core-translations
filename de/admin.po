@@ -1,0 +1,252 @@
+#: de/admin.csv:1 
+msgid "%s - Your new password"
+msgstr "%s - Ihr neues Passwort"
+
+#: de/admin.csv:2 
+msgid "A request to reset your password has been made to log in to your administration panel."
+msgstr "Eine Anforderung zum Zurücksetzen Ihres Passworts erzielt worden, sich in Ihre Administrations-Bereich einloggen."
+
+#: de/admin.csv:3 
+msgid "Admin successfully deleted"
+msgstr "Admin gelöscht"
+
+#: de/admin.csv:4 
+msgid "An error occurred while saving your account. Please try again later."
+msgstr "Beim Speichern Ihres Kontos ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal."
+
+#: de/admin.csv:5 
+msgid "An error occurred while saving. The country is not valid."
+msgstr "Fehler beim Speichern. Das Land ist nicht gültig."
+
+#: de/admin.csv:6 
+msgid "Are you sure you want to delete this application?"
+msgstr "Bist du sicher, dass Sie diese Anwendung löschen möchten?"
+
+#: de/admin.csv:7 
+msgid "Can add pages"
+msgstr "Können Seiten hinzufügen"
+
+#: de/admin.csv:8 
+msgid "Change my password"
+msgstr "Mein Passwort ändern"
+
+#: de/admin.csv:9 
+msgid "Confirm new password"
+msgstr "Neues Passwort bestätigen"
+
+#: de/admin.csv:10 
+msgid "Confirm your password"
+msgstr "Passwort bestätigen"
+
+#: de/admin.csv:11 
+msgid "Create a new application"
+msgstr "Erstellen einer neuen Anwendung"
+
+#: de/admin.csv:12 
+msgid "Create a new user"
+msgstr "Einen neuen Benutzer erstellen"
+
+#: de/admin.csv:13 
+msgid "Created At"
+msgstr "Erstellt am"
+
+#: de/admin.csv:14 
+msgid "Created at %s"
+msgstr "Erstellt am %s"
+
+#: de/admin.csv:15 
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+#: de/admin.csv:16 
+msgid "Details"
+msgstr "Details "
+
+#: de/admin.csv:17 
+msgid "Do not hesitate to give us your feedback by sharing your needs:"
+msgstr "Zögern Sie nicht, uns Ihr Feedback zu geben, durch den Austausch von Ihren Bedürfnissen:"
+
+#: de/admin.csv:18 
+msgid "Edit the account "%s""
+msgstr "Bearbeiten Sie das Konto "%s""
+
+#: de/admin.csv:19 
+msgid "Edit the user %s"
+msgstr "Bearbeiten des Benutzers %s"
+
+#: de/admin.csv:20 
+msgid "Enjoy!"
+msgstr "Genießen Sie!"
+
+#: de/admin.csv:21 
+msgid "Enter your credentials:"
+msgstr "Geben Sie Ihre Zugangsdaten ein:"
+
+#: de/admin.csv:22 
+msgid "Find some advices here:"
+msgstr "Finden Sie hier einige Ratschläge:"
+
+#: de/admin.csv:23 
+msgid "Forgot your password ?"
+msgstr "Passwort vergessen?"
+
+#: de/admin.csv:24 
+msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+msgstr "Passwort vergessen? Machen Sie sich keine Sorgen! Geben Sie hier einfach Ihre E-Mail-Adresse ein und Sie erhalten ein neues passwort."
+
+#: de/admin.csv:25 
+msgid "Here are your credentials, keep them preciously:"
+msgstr "Hier sind Ihre Anmeldedaten, halten sie kostbar:"
+
+#: de/admin.csv:26 
+msgid "List of admin accounts"
+msgstr "Liste der Administratorkonten"
+
+#: de/admin.csv:27 
+msgid "List of my accounts"
+msgstr "Liste meiner Konten"
+
+#: de/admin.csv:28 
+msgid "List of your users"
+msgstr "Liste der Benutzer"
+
+#: de/admin.csv:29 
+msgid "Log in"
+msgstr "einloggen"
+
+#: de/admin.csv:30 
+msgid "Log-in As"
+msgstr "Einloggen als"
+
+#: de/admin.csv:31 
+msgid "Login to your admin interface"
+msgstr "Anmeldung zu Ihrem Admin-Interface"
+
+#: de/admin.csv:32 
+msgid "Manage access"
+msgstr "Verwalten des Zugriffs"
+
+#: de/admin.csv:33 
+msgid "Mark as read"
+msgstr "Als gelesen markieren"
+
+#: de/admin.csv:34 
+msgid "Mark as unread"
+msgstr "Als ungelesen markieren "
+
+#: de/admin.csv:35 
+msgid "My Applications"
+msgstr "Meine Anwendungen"
+
+#: de/admin.csv:36 
+msgid "My account"
+msgstr "Mein Konto"
+
+#: de/admin.csv:37 
+msgid "My information"
+msgstr "Meine Informationen"
+
+#: de/admin.csv:38 
+msgid "My informations"
+msgstr "Meine Informationen"
+
+#: de/admin.csv:39 
+msgid "My notifications"
+msgstr "Meine Benachrichtigungen"
+
+#: de/admin.csv:40 
+msgid "My notifications list"
+msgstr "Meine Benachrichtigungen Liste "
+
+#: de/admin.csv:41 
+msgid "Need some help?"
+msgstr "Brauchen Sie Hilfe?"
+
+#: de/admin.csv:42 
+msgid "Notifications"
+msgstr "Benachrichtigungen "
+
+#: de/admin.csv:43 
+msgid "Please enter a valid email address."
+msgstr "Bitte geben Sie eine gültige e-Mail-Adresse."
+
+#: de/admin.csv:44 
+msgid "Please, enter an application name"
+msgstr "Bitte geben Sie den Namen einer Anwendung"
+
+#: de/admin.csv:45 
+msgid "Ready to create your own apps?"
+msgstr "Bereit, Ihre eigenen apps zu erstellen?"
+
+#: de/admin.csv:46 
+msgid "Required fields"
+msgstr "Erforderliche Felder"
+
+#: de/admin.csv:47 
+msgid "Send"
+msgstr "senden"
+
+#: de/admin.csv:48 
+msgid "Sign up"
+msgstr "Anmelden"
+
+#: de/admin.csv:49 
+msgid "Thanks for choosing us!"
+msgstr "Danke, dass du uns die Wahl!"
+
+#: de/admin.csv:50 
+msgid "The Support Team"
+msgstr "Das Support-Team"
+
+#: de/admin.csv:51 
+msgid "The password and the confirmation does not match."
+msgstr "Das Kennwort und die Bestätigung stimmt nicht überein."
+
+#: de/admin.csv:52 
+msgid "The password must be at least 6 characters."
+msgstr "Das Passwort muss mindestens 6 Zeichen lang sein."
+
+#: de/admin.csv:53 
+msgid "We are sorry but this email address is already used."
+msgstr "Es tut uns leid, aber diese e-Mail-Adresse wird bereits verwendet."
+
+#: de/admin.csv:54 
+msgid "Welcome!"
+msgstr "Herzlich Willkommen!"
+
+#: de/admin.csv:55 
+msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+msgstr "Du wirst es lieben! Dank unserer effektiven Funktionen werden Sie in der Lage, große mobile Anwendungen in Ihrem Namen innerhalb von Minuten zu erstellen."
+
+#: de/admin.csv:56 
+msgid "You can't delete the main account"
+msgstr "Die Haupt-Account kann nicht gelöscht werden."
+
+#: de/admin.csv:57 
+msgid "You don't have any users yet"
+msgstr "Sie haben alle Benutzer noch nicht"
+
+#: de/admin.csv:58 
+msgid "Your account has been successfully saved"
+msgstr "Ihr Konto wurde erfolgreich gespeichert"
+
+#: de/admin.csv:59 
+msgid "Your credentials"
+msgstr "Ihre Anmeldeinformationen"
+
+#: de/admin.csv:60 
+msgid "Your email address"
+msgstr "Ihre E-Mail-Adresse"
+
+#: de/admin.csv:61 
+msgid "Your login:"
+msgstr "Ihr Login:"
+
+#: de/admin.csv:62 
+msgid "Your password"
+msgstr "Ihr Passwort"
+
+#: de/admin.csv:63 
+msgid "Your password:"
+msgstr "Ihr Passwort:"
+

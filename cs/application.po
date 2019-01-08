@@ -1,0 +1,856 @@
+#: cs/application.csv:1 
+msgid "1. Download the app previewer:"
+msgstr "1. Stáhněte si testovací prohlížeč:"
+
+#: cs/application.csv:2 
+msgid "2. Open the app and login"
+msgstr "2. Otevřete aplikaci a přihlašte se:"
+
+#: cs/application.csv:3 
+msgid "<b>File type:</b> %s"
+msgstr "<b>Typ souboru:</b>%s"
+
+#: cs/application.csv:4 
+msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
+msgstr "<span>Klikněte ZDE</span><button class="add" type="button"><i class="icon-plus"></i></button> <span> k přidání položky.</span>"
+
+#: cs/application.csv:5 
+msgid "Activated"
+msgstr "Aktivováno"
+
+#: cs/application.csv:6 
+msgid "Add a new icon"
+msgstr "Přidat novou ikonu"
+
+#: cs/application.csv:7 
+msgid "Add pages"
+msgstr "Přidat stránku (modul)"
+
+#: cs/application.csv:8 
+msgid "Additional options"
+msgstr "Další možnosti"
+
+#: cs/application.csv:9 
+msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
+msgstr "Při kopírování ikony došlo k chybě. Prosím zkontrolujte ikonu a zkuste to znovu."
+
+#: cs/application.csv:10 
+msgid "An error occurred during the generation of your QRCode. Please try again later."
+msgstr "Při vytváření QR kódu došlo k chybě. Zkuste to prosím později."
+
+#: cs/application.csv:11 
+msgid "An error occurred while adding the option"
+msgstr "Při přidávání došlo k chybě"
+
+#: cs/application.csv:12 
+msgid "An error occurred while changing your layout."
+msgstr "Při změně rozvržení došlo k chybě"
+
+#: cs/application.csv:13 
+msgid "An error occurred while deleting the option"
+msgstr "Při mazání došlo k chybě"
+
+#: cs/application.csv:14 
+msgid "An error occurred while deleting your picture"
+msgstr "Při mazání obrázku došlo k chybě"
+
+#: cs/application.csv:15 
+msgid "An error occurred while editing file (%s)."
+msgstr "Při editaci soubor (%s) došlo k chybě"
+
+#: cs/application.csv:16 
+msgid "An error occurred while loading"
+msgstr "Při načítání došlo k chybě"
+
+#: cs/application.csv:17 
+msgid "An error occurred while saving the application. Please try again later."
+msgstr "Při ukládání aplikace došlo k chybě. Zkuste to prosím později"
+
+#: cs/application.csv:18 
+msgid "An error occurred while saving your colors."
+msgstr "Při ukládání barev došlo k chybě"
+
+#: cs/application.csv:19 
+msgid "An error occurred while saving your page name."
+msgstr "Při ukládání názevu stránky došlo k chybě"
+
+#: cs/application.csv:20 
+msgid "An error occurred while saving. The selected icon is not valid."
+msgstr "Při ukládání došlo k chybě. Zvolená ikona není platná"
+
+#: cs/application.csv:21 
+msgid "An error occurred while sorting your pages. Please try again later."
+msgstr "Při řazení Vašich stránek došlo k chybě. Zkuste to prosím později"
+
+#: cs/application.csv:22 
+msgid "Analytics"
+msgstr "Statistiky"
+
+#: cs/application.csv:23 
+msgid "Android APK Generation"
+msgstr "Android APK generátor"
+
+#: cs/application.csv:24 
+msgid "Android Version"
+msgstr "Verze pro Android"
+
+#: cs/application.csv:25 
+msgid "App Store Icon"
+msgstr "Ikona na App Store"
+
+#: cs/application.csv:26 
+msgid "Apple's Information"
+msgstr "Informace o společnosti Apple"
+
+#: cs/application.csv:27 
+msgid "Application name"
+msgstr "Název aplikace"
+
+#: cs/application.csv:28 
+msgid "Are you sure you want to remove this application?"
+msgstr "Jste si jisti, že chcete odstranit tuto aplikaci?"
+
+#: cs/application.csv:29 
+msgid "At least 200 characters in the description"
+msgstr "V popisu je třeba zadat nejméně 200 znaků!"
+
+#: cs/application.csv:30 
+msgid "At least, 4 pages in the application"
+msgstr "Je třeba vytvořit alespoň 4 záložky (stránky)"
+
+#: cs/application.csv:31 
+msgid "Audio"
+msgstr "Hudba"
+
+#: cs/application.csv:32 
+msgid "Average by customer"
+msgstr "Průměr"
+
+#: cs/application.csv:33 
+msgid "Book"
+msgstr "Rezervovat"
+
+#: cs/application.csv:34 
+msgid "Bundle Id"
+msgstr "Bundle Id"
+
+#: cs/application.csv:35 
+msgid "Business"
+msgstr "Business"
+
+#: cs/application.csv:36 
+msgid "Buy one, get one!"
+msgstr "1+1 zdrama"
+
+#: cs/application.csv:37 
+msgid "Catalogs"
+msgstr "Katalog"
+
+#: cs/application.csv:38 
+msgid "Certificate"
+msgstr "Certifikát"
+
+#: cs/application.csv:39 
+msgid "Change your"
+msgstr "Změňit"
+
+#: cs/application.csv:40 
+msgid "Change your template"
+msgstr "Změnit šablonu"
+
+#: cs/application.csv:41 
+msgid "Change your<br /><span>picture</span>"
+msgstr "Změňit<br/><span>obrázek</span>"
+
+#: cs/application.csv:42 
+msgid "Checking CNAME configuration:"
+msgstr "Kontrola CNAME konfigurace:"
+
+#: cs/application.csv:43 
+msgid "Choose a <br /><span class="bold">picture</span>"
+msgstr "Vyberte <br/> <span class = "bold">obrázek</span>"
+
+#: cs/application.csv:44 
+msgid "Choose a country"
+msgstr "Zvolte zemi"
+
+#: cs/application.csv:45 
+msgid "Choose a font family"
+msgstr "Vyberte si rodinu písma"
+
+#: cs/application.csv:46 
+msgid "Choose a template to customize"
+msgstr "Vyberte šablonu k úpravě"
+
+#: cs/application.csv:47 
+msgid "Choose your colors"
+msgstr "Zvolte si barvy aplikace"
+
+#: cs/application.csv:48 
+msgid "Choose your country"
+msgstr "Vyberte svou zemi"
+
+#: cs/application.csv:49 
+msgid "Choose your design"
+msgstr "Vyberte si design"
+
+#: cs/application.csv:50 
+msgid "Choose your font style"
+msgstr "Vyberte si styl písma"
+
+#: cs/application.csv:51 
+msgid "Choose your homepage image"
+msgstr "Vyberte obrázek na pozadí Hlavní stránky"
+
+#: cs/application.csv:52 
+msgid "Choose your icons color"
+msgstr "Vyberte si barvu ikony"
+
+#: cs/application.csv:53 
+msgid "Choose your layout"
+msgstr "Vyberte si styl uspořádání záložek"
+
+#: cs/application.csv:54 
+msgid "Choose your template"
+msgstr "Vyberte si šablonu (pozadí jde poté změnit)"
+
+#: cs/application.csv:55 
+msgid "Click here to download the source code:"
+msgstr "Klikněte zde pro stažení zdrojového kódu:"
+
+#: cs/application.csv:56 
+msgid "Click here to send your certificate"
+msgstr "Klikněte zde pro zaslání certifikátu"
+
+#: cs/application.csv:57 
+msgid "Colors"
+msgstr "Barvy"
+
+#: cs/application.csv:58 
+msgid "Dashboard icon"
+msgstr "Dashboard ikona"
+
+#: cs/application.csv:59 
+msgid "Deactivated"
+msgstr "Neaktivní"
+
+#: cs/application.csv:60 
+msgid "Delete this page?"
+msgstr "Smazat tuto stránku?"
+
+#: cs/application.csv:61 
+msgid "Design"
+msgstr "Design"
+
+#: cs/application.csv:62 
+msgid "Developer Accounts"
+msgstr "Účet vývojáře"
+
+#: cs/application.csv:63 
+msgid "Device Information"
+msgstr "Informace o zařízení"
+
+#: cs/application.csv:64 
+msgid "Discount zone description. Here your clients will be able to see the details of each discount"
+msgstr "Popis slevy. Zde Vaši klienti mohu vidět podrobnosti o každé slevě."
+
+#: cs/application.csv:65 
+msgid "Domain"
+msgstr "Doména"
+
+#: cs/application.csv:66 
+msgid "Domain name"
+msgstr "Název domény"
+
+#: cs/application.csv:67 
+msgid "Download"
+msgstr "Stáhnout"
+
+#: cs/application.csv:68 
+msgid "Download our app previewer"
+msgstr "Stáhněte si testovací prohlížeč aplikace"
+
+#: cs/application.csv:69 
+msgid "Drop your certificate here"
+msgstr "Vložte certifikát"
+
+#: cs/application.csv:70 
+msgid "Edit my"
+msgstr "Upravit "
+
+#: cs/application.csv:71 
+msgid "Edit the application "%s""
+msgstr "Upravit aplikaci "%s""
+
+#: cs/application.csv:72 
+msgid "Editor"
+msgstr "Editor"
+
+#: cs/application.csv:73 
+msgid "Education"
+msgstr "Vzdělání"
+
+#: cs/application.csv:74 
+msgid "Entertainment"
+msgstr "Zábava"
+
+#: cs/application.csv:75 
+msgid "Extension not allowed, '%s' only"
+msgstr "Rozšíření není povoleno, pouze '%s'"
+
+#: cs/application.csv:76 
+msgid "Features"
+msgstr "Funkce"
+
+#: cs/application.csv:77 
+msgid "Finance"
+msgstr "Finance"
+
+#: cs/application.csv:78 
+msgid "Food & Drink"
+msgstr "Jídlo a pití"
+
+#: cs/application.csv:79 
+msgid "Fred W."
+msgstr "Marek S."
+
+#: cs/application.csv:80 
+msgid "Games"
+msgstr "Hry"
+
+#: cs/application.csv:81 
+msgid "General Information"
+msgstr "Všeobecné informace"
+
+#: cs/application.csv:82 
+msgid "General information"
+msgstr "Všeobecné informace"
+
+#: cs/application.csv:83 
+msgid "Global visits"
+msgstr "Počet návštěv"
+
+#: cs/application.csv:84 
+msgid "Google Play Icon"
+msgstr "Ikona pro Google Play"
+
+#: cs/application.csv:85 
+msgid "Google's Information"
+msgstr "Informace o společnosti Google"
+
+#: cs/application.csv:86 
+msgid "Health & Fitness"
+msgstr "Zdraví a fitness"
+
+#: cs/application.csv:87 
+msgid "Here is our latest creation. What do you think?"
+msgstr "Tady je náš poslední výtvor… Co si myslíte?"
+
+#: cs/application.csv:88 
+msgid "Homepage preview"
+msgstr "Náhled na Hlavní stránku"
+
+#: cs/application.csv:89 
+msgid "I don't have a Google developer account and I want to create one"
+msgstr "Nemám vývojářský účet Google, ale chci si ho vytvořit. Pod odkazem níže si můžete účet založit (cena - 25 EUR)"
+
+#: cs/application.csv:90 
+msgid "I don't have an Apple developer account and I want to create one"
+msgstr "Nemám vývojářský účet Apple, ale chci si ho vytvořit. Pod odkazem níže si můžete účet založit (cena - 99 dolarů za rok!)"
+
+#: cs/application.csv:91 
+msgid "I have an Apple developer account"
+msgstr "Mám vývojářský účet Apple. Vypublikujte mi aplikaci pod tímto účtem"
+
+#: cs/application.csv:92 
+msgid "I have an Google developer account"
+msgstr "Mám vývojářský účet Google. Vypublikujte mi aplikaci pod tímto účtem"
+
+#: cs/application.csv:93 
+msgid "I let you publish my application under your Apple developer account"
+msgstr "VYPUBLIKUJTE MI PROSÍM MOJI APLIKACI POD VAŠÍM VÝVOJÁŘSKÝM ÚČTEM"
+
+#: cs/application.csv:94 
+msgid "I let you publish my application under your Google developer account"
+msgstr "VYPUBLIKUJTE MI PROSÍM MOJI APLIKACI POD VAŠÍM VÝVOJÁŘSKÝM ÚČTEM"
+
+#: cs/application.csv:95 
+msgid "Icons"
+msgstr "Ikony"
+
+#: cs/application.csv:96 
+msgid "Id"
+msgstr "ID"
+
+#: cs/application.csv:97 
+msgid "If you validate, your app's colors and background image will be replaced"
+msgstr "POZOR!!! Pokud změnu vzoru schválíte, budou Vaše DŘÍVE VYBRANÉ BARVY A STYL MENU ZMĚNĚNY!!!"
+
+#: cs/application.csv:98 
+msgid "Installed application"
+msgstr "Nainstalovaná aplikace"
+
+#: cs/application.csv:99 
+msgid "Key Password"
+msgstr "Key Password"
+
+#: cs/application.csv:100 
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+#: cs/application.csv:101 
+msgid "Last name:"
+msgstr "Příjmení:"
+
+#: cs/application.csv:102 
+msgid "Library icons"
+msgstr "Ikony knihovny"
+
+#: cs/application.csv:103 
+msgid "Lifestyle"
+msgstr "Životní styl"
+
+#: cs/application.csv:104 
+msgid "List of my applications"
+msgstr "Seznam aplikací"
+
+#: cs/application.csv:105 
+msgid "List of your applications"
+msgstr "Seznam aplikací"
+
+#: cs/application.csv:106 
+msgid "Loading"
+msgstr "Nahrávám"
+
+#: cs/application.csv:107 
+msgid "Lock the entire application"
+msgstr "Zamknout celou aplikaci"
+
+#: cs/application.csv:108 
+msgid "Love it <3"
+msgstr "Nádhera!!! :-)"
+
+#: cs/application.csv:109 
+msgid "Main"
+msgstr "Hlavní"
+
+#: cs/application.csv:110 
+msgid "Manage icons"
+msgstr "Správce ikon"
+
+#: cs/application.csv:111 
+msgid "Media"
+msgstr "Media"
+
+#: cs/application.csv:112 
+msgid "Medical"
+msgstr "Zdravotnictví"
+
+#: cs/application.csv:113 
+msgid "Missing Information"
+msgstr "Chybějící informace"
+
+#: cs/application.csv:114 
+msgid "Mobile Source Codes"
+msgstr "Mobilní Zdrojové kódy"
+
+#: cs/application.csv:115 
+msgid "Mobile source codes"
+msgstr "Mobilní Zdrojové kódy"
+
+#: cs/application.csv:116 
+msgid "Mobile website information"
+msgstr "Informace o mobilním webu"
+
+#: cs/application.csv:117 
+msgid "My QRCode"
+msgstr "Můj QR kód"
+
+#: cs/application.csv:118 
+msgid "My application in figures"
+msgstr "Vaše aplikace v číslech"
+
+#: cs/application.csv:119 
+msgid "Navigation"
+msgstr "Navigace"
+
+#: cs/application.csv:120 
+msgid "News"
+msgstr "Zprávy"
+
+#: cs/application.csv:121 
+msgid "One free coffee"
+msgstr "Jedna káva zdarma"
+
+#: cs/application.csv:122 
+msgid "Or go on your store<br />and look for "Apps Company Previewer""
+msgstr "Nebo otevřete Váš obchod s aplikacemi (iTunes store, Google Play)<br />a vyhledejte "Apps Company Previewer""
+
+#: cs/application.csv:123 
+msgid "Page name:"
+msgstr "Název stránky:"
+
+#: cs/application.csv:124 
+msgid "Percentage of returning customers"
+msgstr "Procento vracejících se zákazníků"
+
+#: cs/application.csv:125 
+msgid "Photo & Video"
+msgstr "Foto a Video"
+
+#: cs/application.csv:126 
+msgid "Please enter a correct URL for the %s store"
+msgstr "Prosím, zadejte správné URL pro %s obchod"
+
+#: cs/application.csv:127 
+msgid "Please enter a subdomain."
+msgstr "Prosím, zadejte subdoménu."
+
+#: cs/application.csv:128 
+msgid "Please enter a valid URL"
+msgstr "Zadejte prosím platnou URL"
+
+#: cs/application.csv:129 
+msgid "Please enter a valid address"
+msgstr "Zadejte prosím platnou adresu"
+
+#: cs/application.csv:130 
+msgid "Please enter a valid mobile website address."
+msgstr "Zadejte prosím platnou adresu."
+
+#: cs/application.csv:131 
+msgid "Preview"
+msgstr "Náhled"
+
+#: cs/application.csv:132 
+msgid "Productivity"
+msgstr "Produktivita"
+
+#: cs/application.csv:133 
+msgid "Promote"
+msgstr "Marketing"
+
+#: cs/application.csv:134 
+msgid "Publication"
+msgstr "Vypublikovat"
+
+#: cs/application.csv:135 
+msgid "Publish the application"
+msgstr "Vypublikovat aplikaci"
+
+#: cs/application.csv:136 
+msgid "Publish under our account"
+msgstr "Vypublikovat pod naším účtem"
+
+#: cs/application.csv:137 
+msgid "Ready ? Publish my app!"
+msgstr "HOTOVO - VYPUBLIKOVAT!"
+
+#: cs/application.csv:138 
+msgid "Recommanded size:"
+msgstr "Doporučená velikost:"
+
+#: cs/application.csv:139 
+msgid "Reference"
+msgstr "Reference"
+
+#: cs/application.csv:140 
+msgid "Remove this page from this folder?"
+msgstr "Odstranit tuto stránku z této složky?"
+
+#: cs/application.csv:141 
+msgid "Scan this QR Code"
+msgstr "Naskenujte QR kód"
+
+#: cs/application.csv:142 
+msgid "Scan this QR Code:"
+msgstr "Naskenujte QR kód"
+
+#: cs/application.csv:143 
+msgid "Secondary category"
+msgstr "Sekundární kategorie"
+
+#: cs/application.csv:144 
+msgid "Secondary category<br />(Optional)"
+msgstr "Sekundární kategorie<br/>(volitelné)"
+
+#: cs/application.csv:145 
+msgid "Send here your iOS certificate to enable the push notifications for this application."
+msgstr "Zde vložte certifikát iOS k povolení Push oznámení pro tuto aplikaci."
+
+#: cs/application.csv:146 
+msgid "Send you .pem certificate"
+msgstr "Zaslat .pem certifikát"
+
+#: cs/application.csv:147 
+msgid "Show the applications waiting for publication only."
+msgstr "Zobrazit pouze aplikace čekající na schválení"
+
+#: cs/application.csv:148 
+msgid "Social Networking"
+msgstr "Sociální sítě"
+
+#: cs/application.csv:149 
+msgid "Sports"
+msgstr "Sport"
+
+#: cs/application.csv:150 
+msgid "Startup image"
+msgstr "Úvodní obrázek (Splashscreen)"
+
+#: cs/application.csv:151 
+msgid "Status"
+msgstr "Status"
+
+#: cs/application.csv:152 
+msgid "Store Password"
+msgstr "Store Password"
+
+#: cs/application.csv:153 
+msgid "Store URL"
+msgstr "Store URL"
+
+#: cs/application.csv:154 
+msgid "Stores Info"
+msgstr "Stores Info"
+
+#: cs/application.csv:155 
+msgid "The Bundle Id is required"
+msgstr "Je požadován Bundle Id"
+
+#: cs/application.csv:156 
+msgid "The QR Code is not available at this moment"
+msgstr "QR kód není v tuto chvíli k dispozici"
+
+#: cs/application.csv:157 
+msgid "The application has been successfully saved"
+msgstr "Aplikace byla úspěšně uložena"
+
+#: cs/application.csv:158 
+msgid "The application name"
+msgstr "Název aplikace"
+
+#: cs/application.csv:159 
+msgid "The application's name cannot start with a number"
+msgstr "Název aplikace se nesmí začínat číslem"
+
+#: cs/application.csv:160 
+msgid "The description"
+msgstr "Popis aplikace"
+
+#: cs/application.csv:161 
+msgid "The description must be at least 200 characters"
+msgstr "Popis musí být alespoň 200 znaků"
+
+#: cs/application.csv:162 
+msgid "The desktop icon"
+msgstr "Ikona aplikace"
+
+#: cs/application.csv:163 
+msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
+msgstr "Zadaný bundle_ID není správný, měl by mít formát podobný tomuto: cz.apptime.app"
+
+#: cs/application.csv:164 
+msgid "The field is required"
+msgstr "Povinné pole"
+
+#: cs/application.csv:165 
+msgid "The file has been successfully uploaded"
+msgstr "Soubor byl úspěšně nahrán"
+
+#: cs/application.csv:166 
+msgid "The following information are needed to download the source codes:<br />"
+msgstr "Následující informace jsou potřebné ke stažení zdrojových kódů: <br/>"
+
+#: cs/application.csv:167 
+msgid "The homepage image"
+msgstr "Obrázek na Hlavní stránku"
+
+#: cs/application.csv:168 
+msgid "The key cannot be empty."
+msgstr "Klíč nemůže zůstat prázdný."
+
+#: cs/application.csv:169 
+msgid "The key is already used by another application."
+msgstr "Klíč je již používán jinou aplikací."
+
+#: cs/application.csv:170 
+msgid "The keywords"
+msgstr "Klíčová slova"
+
+#: cs/application.csv:171 
+msgid "The main category"
+msgstr "Hlavní kategorie"
+
+#: cs/application.csv:172 
+msgid "The startup image"
+msgstr "Úvodní obrázek (Splashscreen)"
+
+#: cs/application.csv:173 
+msgid "This application does not exist"
+msgstr "Tato aplikace neexistuje"
+
+#: cs/application.csv:174 
+msgid "This application is visible on the front"
+msgstr "Tato aplikace je vidět v administraci"
+
+#: cs/application.csv:175 
+msgid "This key is already used by system features."
+msgstr "Tento klíč je jíž používán systémovými funkcemi"
+
+#: cs/application.csv:176 
+msgid "This option enables you to set the currency used in your app"
+msgstr "Tato volba umožňuje nastavit měnu používanou ve Vaší aplikaci"
+
+#: cs/application.csv:177 
+msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
+msgstr "Tato stránka se zobrazí uživatelům, aby se mohli přihlásit a spravovat svůj účet. Tato stránka je automaticky přidaná při použití určitých funkcí, které vyžadují přihlášení uživatele."
+
+#: cs/application.csv:178 
+msgid "To be able to download source codes, please provide the following information:<br />"
+msgstr "Aby bylo možné stáhnout zdrojové kódy, uveďte prosím následující údaje: <br/>"
+
+#: cs/application.csv:179 
+msgid "Travel"
+msgstr "Cestování"
+
+#: cs/application.csv:180 
+msgid "URL"
+msgstr "URL"
+
+#: cs/application.csv:181 
+msgid "URL Key"
+msgstr "URL Key"
+
+#: cs/application.csv:182 
+msgid "Use into all of your application's pages"
+msgstr "Použít pro všechny stránky aplikace - (pozor aby byl poté čitelný text!)"
+
+#: cs/application.csv:183 
+msgid "Used points"
+msgstr "Použité body"
+
+#: cs/application.csv:184 
+msgid "User Information"
+msgstr "Informace o uživateli"
+
+#: cs/application.csv:185 
+msgid "Utilities"
+msgstr "Doplňky"
+
+#: cs/application.csv:186 
+msgid "Version"
+msgstr "Verze"
+
+#: cs/application.csv:187 
+msgid "Weather"
+msgstr "Počasí"
+
+#: cs/application.csv:188 
+msgid "You already have sent a certificate."
+msgstr "Certifikát jste již odeslali"
+
+#: cs/application.csv:189 
+msgid "You can download your QRCode by <a class="f-bold" href="%s">clicking here</a>"
+msgstr "Svůj QR kód si můžete stáhnout<a class="f-bold" href="%s"> kliknutím ZDE</a>"
+
+#: cs/application.csv:190 
+msgid "You can't use this domain."
+msgstr "Tato doména nelze použít"
+
+#: cs/application.csv:191 
+msgid "You don't have any applications yet"
+msgstr "Zatím nemáte žádné aplikace"
+
+#: cs/application.csv:192 
+msgid "You have already sent a certificate"
+msgstr "Certifikát jste již odeslali"
+
+#: cs/application.csv:193 
+msgid "You have sent a certificate."
+msgstr "Odeslali jste certifikát"
+
+#: cs/application.csv:194 
+msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+msgstr "Před publikováním aplikace si musíte vytvořit Google developerský účet. <a href="https://play.google.com/apps/publish/signup" target="_blank">Pro vytvoření klikněte zde</a>"
+
+#: cs/application.csv:195 
+msgid "You have to create an Apple account before publishing your application. <a href="https://developer.apple.com/register/index.action" target="_blank">Click here to create one.</a>"
+msgstr "Před publikováním aplikace si musíte vytvořit Apple developerský účet. <a href="https://developer.apple.com/register/index.action" target="_blank">Pro vytvoření klikněte zde</a>"
+
+#: cs/application.csv:196 
+msgid "You haven't chosen any template yet"
+msgstr "Nevybrali jste žádný vzor"
+
+#: cs/application.csv:197 
+msgid "You may not delete a library icon"
+msgstr "Neměli byste mazat ikonu knihovny"
+
+#: cs/application.csv:198 
+msgid "You must have published your application to access this feature"
+msgstr "Pro přístup k této funkci musí být Vaše aplikace zverějněná v obchodu a aplikacemi (Google Play, iTunes store)"
+
+#: cs/application.csv:199 
+msgid "Your CNAME is properly set"
+msgstr "Váš CNAME je správně nastaven"
+
+#: cs/application.csv:200 
+msgid "Your best customers"
+msgstr "Vaši nejlepší zákazníci"
+
+#: cs/application.csv:201 
+msgid "Your customers in figures"
+msgstr "Vaši uživatelé v číslech"
+
+#: cs/application.csv:202 
+msgid "Your domain key "%s" is not valid."
+msgstr "Váš domain key "%s" není platný"
+
+#: cs/application.csv:203 
+msgid "Your mobile address should not contain special characters"
+msgstr "Vaše mobilní adresa nesmí obsahovat speciální znaky"
+
+#: cs/application.csv:204 
+msgid "Your pages"
+msgstr "Vaše vybrané stránky (moduly)"
+
+#: cs/application.csv:205 
+msgid "iOS Certificate"
+msgstr "iOS Certifikát"
+
+#: cs/application.csv:206 
+msgid "iPad Retina:"
+msgstr "iPad Retina:"
+
+#: cs/application.csv:207 
+msgid "iPhone 5 / 5S:"
+msgstr "iPhone 5 / 5S:"
+
+#: cs/application.csv:208 
+msgid "iPhone 6 Plus:"
+msgstr "iPhone 6 Plus:"
+
+#: cs/application.csv:209 
+msgid "iPhone 6:"
+msgstr "iPhone 6:"
+
+#: cs/application.csv:210 
+msgid "iPhone Version"
+msgstr "iPhone verze"
+
+#: cs/application.csv:211 
+msgid "icon"
+msgstr "ikona"
+
+#: cs/application.csv:212 
+msgid "logo"
+msgstr "logo"
+
+#: cs/application.csv:213 
+msgid "times"
+msgstr "krát"
+
+#: cs/application.csv:214 
+msgid "﻿1. Download the app previewer:"
+msgstr "1. Stáhněte si testovací prohlížeč:"
+

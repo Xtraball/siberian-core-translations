@@ -1,0 +1,32 @@
+#: tr/wordpress.csv:1 
+msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
+msgstr "Wordpress web sitesine erişim sırasında bir hata oluştu. Alan adı% s kontrol edin"
+
+#: tr/wordpress.csv:2 
+msgid "Categories successfully saved"
+msgstr "Kategori başarıyla kaydedildi"
+
+#: tr/wordpress.csv:3 
+msgid "Click here to download our Wordpress plugin"
+msgstr "Wordpress eklentimizi indirmek için tıklayınız"
+
+#: tr/wordpress.csv:4 
+msgid "Enter your Wordpress URL:"
+msgstr "Wordpress URL'sini girin:"
+
+#: tr/wordpress.csv:5 
+msgid "Loading categories"
+msgstr "Yükleme kategorileri"
+
+#: tr/wordpress.csv:6 
+msgid "We are sorry but no category has been detected on your Wordpress website."
+msgstr "Üzgünüz ama hiçbir kategori Wordpress web sitesinde tespit edilemedi."
+
+#: tr/wordpress.csv:7 
+msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
+msgstr "Üzgünüz ama bizim Wordpress eklentisi web sitenizde tespit edilmemiştir. Doğru yüklenmiş ve etkinleştirilmiş olduğundan emin olun."
+
+#: tr/wordpress.csv:8 
+msgid "Wordpress"
+msgstr "Wordpress"
+

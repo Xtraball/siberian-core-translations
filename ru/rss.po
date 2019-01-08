@@ -1,0 +1,44 @@
+#: ru/rss.csv:1 
+msgid "%s ago"
+msgstr "%s назад"
+
+#: ru/rss.csv:2 
+msgid "An error occurred while saving your RSS feed"
+msgstr "Произошла ошибка при сохранении вашего потока"
+
+#: ru/rss.csv:3 
+msgid "Display feed pictures whenever possible"
+msgstr "Экран поддерживает фотографии где это возможно"
+
+#: ru/rss.csv:4 
+msgid "Enter the URL of this RSS feed"
+msgstr "Введите адрес этого RSS потока"
+
+#: ru/rss.csv:5 
+msgid "Found feeds"
+msgstr "Найдены потоки"
+
+#: ru/rss.csv:6 
+msgid "No RSS feed could be found"
+msgstr "RSS поток не может быть найден"
+
+#: ru/rss.csv:7 
+msgid "RSS feed successfully saved"
+msgstr "RSS поток успешно сохранены"
+
+#: ru/rss.csv:8 
+msgid "Show article"
+msgstr "Показать статью"
+
+#: ru/rss.csv:9 
+msgid "day"
+msgstr "день"
+
+#: ru/rss.csv:10 
+msgid "hour"
+msgstr "час"
+
+#: ru/rss.csv:11 
+msgid "minute"
+msgstr "минута"
+

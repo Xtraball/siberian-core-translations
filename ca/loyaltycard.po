@@ -1,0 +1,160 @@
+#: ca/loyaltycard.csv:1 
+msgid " is now yours!"
+msgstr "ara és teva!"
+
+#: ca/loyaltycard.csv:2 
+msgid "%d validated points = "
+msgstr "validat %d punts ="
+
+#: ca/loyaltycard.csv:3 
+msgid "1 loyalty point ="
+msgstr "punt 1 lleialtat ="
+
+#: ca/loyaltycard.csv:4 
+msgid "1 point"
+msgstr "1 punt validat"
+
+#: ca/loyaltycard.csv:5 
+msgid "1 validated point = "
+msgstr "1 punt ="
+
+#: ca/loyaltycard.csv:6 
+msgid "An error occurred while saving the password. Please try again later"
+msgstr "S'ha produït un error mentre es desava la contrasenya. Si us plau provar una altra vegada més tard"
+
+#: ca/loyaltycard.csv:7 
+msgid "An error occurred while saving the password. Please try again later."
+msgstr "S'ha produït un error mentre es desava la contrasenya. Si us plau provar una altra vegada més tard."
+
+#: ca/loyaltycard.csv:8 
+msgid "An error occurred while saving your loyalty card."
+msgstr "S'ha produït un error mentre es desava la targeta de fidelització."
+
+#: ca/loyaltycard.csv:9 
+msgid "An error occurred while saving your loyalty card. Please fill all fields in."
+msgstr "S'ha produït un error mentre es desava la targeta de fidelització. Empleneu tots els camps."
+
+#: ca/loyaltycard.csv:10 
+msgid "An error occurred while validating point. Please try again later."
+msgstr "S'ha produït un error en validar el punt. Si us plau provar una altra vegada més tard."
+
+#: ca/loyaltycard.csv:11 
+msgid "Card name"
+msgstr "Nom de la targeta"
+
+#: ca/loyaltycard.csv:12 
+msgid "Congratulations"
+msgstr "Felicitacions"
+
+#: ca/loyaltycard.csv:13 
+msgid "Current card"
+msgstr "Targeta actual"
+
+#: ca/loyaltycard.csv:14 
+msgid "Delete this password?"
+msgstr "Voleu suprimir aquesta contrasenya?"
+
+#: ca/loyaltycard.csv:15 
+msgid "Employee's name"
+msgstr "Nom de l'empleat"
+
+#: ca/loyaltycard.csv:16 
+msgid "Employee's name:"
+msgstr "Nom del treballador:"
+
+#: ca/loyaltycard.csv:17 
+msgid "Employee's password"
+msgstr "Contrasenya de l'empleat"
+
+#: ca/loyaltycard.csv:18 
+msgid "Employee's password:"
+msgstr "Contrasenya del treballador:"
+
+#: ca/loyaltycard.csv:19 
+msgid "Enter the password"
+msgstr "Introduïu la contrasenya"
+
+#: ca/loyaltycard.csv:20 
+msgid "My new loyalty card"
+msgstr "La meva nova targeta de fidelització"
+
+#: ca/loyaltycard.csv:21 
+msgid "My passwords"
+msgstr "Meves contrasenyes"
+
+#: ca/loyaltycard.csv:22 
+msgid "Number of points"
+msgstr "Nombre de punts"
+
+#: ca/loyaltycard.csv:23 
+msgid "Please enter a name"
+msgstr "Introduïu un nom"
+
+#: ca/loyaltycard.csv:24 
+msgid "Please enter the password"
+msgstr "Si us plau, introdueixi la contrasenya"
+
+#: ca/loyaltycard.csv:25 
+msgid "Please show your phone to the store person so that he enters his password"
+msgstr "Si us plau mostri el seu telèfon a la botiga de persona que entra a la contrasenya"
+
+#: ca/loyaltycard.csv:26 
+msgid "Point%s successfully validated"
+msgstr "Punt validat correctament %s"
+
+#: ca/loyaltycard.csv:27 
+msgid "Previous cards"
+msgstr "Cartes anteriors"
+
+#: ca/loyaltycard.csv:28 
+msgid "Reward"
+msgstr "Recompensa"
+
+#: ca/loyaltycard.csv:29 
+msgid "We are sorry but this card is temporarily blocked"
+msgstr "Ho sentim però aquesta targeta està temporalment bloquejat"
+
+#: ca/loyaltycard.csv:30 
+msgid "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
+msgstr "Contrasenya equivocada. Sigui carefull! %d restants intent %s abans de tancar la seva targeta. Pregunti a la persona de botiga per a validar el seu punt"
+
+#: ca/loyaltycard.csv:31 
+msgid "Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point"
+msgstr "Malament contrasenya. < br / > Vés! %d restants intent %s abans de tancar el seu adaptadora < br / > Pregunti a la persona de botiga per a validar el seu punt"
+
+#: ca/loyaltycard.csv:32 
+msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
+msgstr "Heu superat el nombre d'intents per validar punts. La targeta està blocada per a 24h"
+
+#: ca/loyaltycard.csv:33 
+msgid "You just finished your card"
+msgstr "Que acaba de finalitzar la targeta"
+
+#: ca/loyaltycard.csv:34 
+msgid "You must be logged in to validate points"
+msgstr "Vostè estar enregistat per validar punts"
+
+#: ca/loyaltycard.csv:35 
+msgid "Your loyalty card has been saved successfully"
+msgstr "Targeta fidelitat s'ha desat correctament"
+
+#: ca/loyaltycard.csv:36 
+msgid "Your password must be 4 digits"
+msgstr "La contrasenya ha de ser 4 dígits"
+
+#: ca/loyaltycard.csv:37 
+msgid "point"
+msgstr "punt"
+
+#: ca/loyaltycard.csv:38 
+msgid "point to validate"
+msgstr "punt per validar"
+
+#: ca/loyaltycard.csv:39 
+msgid "points to validate"
+msgstr "punts per validar"
+
+#: ca/loyaltycard.csv:40 
+msgid "validated points = "
+msgstr "validat punts ="
+

@@ -1,0 +1,8 @@
+#: el/sourcecode.csv:1 
+msgid "Insert your HTML code:"
+msgstr "Προσθέστε τον HTML κώδικά σας:"
+
+#: el/sourcecode.csv:2 
+msgid "Source Code"
+msgstr "Source κώδικας"
+

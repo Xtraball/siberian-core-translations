@@ -1,0 +1,172 @@
+#: tr/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "%s – Hesap oluşturma"
+
+#: tr/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "%s – Yeni şifreniz"
+
+#: tr/customer.csv:3 
+msgid "A request to reset your password has been made."
+msgstr "Şifrenizi sıfırlamak için bir istek yapılmıştır."
+
+#: tr/customer.csv:4 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "Facebook hesabınıza bağlanırken bir hata oluştu. Daha sonra tekrar deneyiniz"
+
+#: tr/customer.csv:5 
+msgid "Are you sure you want to remove this user?"
+msgstr "Bu kullanıcıyı kaldırmak istediğinizden emin misiniz?"
+
+#: tr/customer.csv:6 
+msgid "Change Password"
+msgstr "Şifreyi değiştir"
+
+#: tr/customer.csv:7 
+msgid "Congratulations,"
+msgstr "Tebrikler,"
+
+#: tr/customer.csv:8 
+msgid "Create"
+msgstr "Oluştur"
+
+#: tr/customer.csv:9 
+msgid "Create a new user"
+msgstr "Yeni kullanıcı oluştur"
+
+#: tr/customer.csv:10 
+msgid "Create an account"
+msgstr "Hesap oluştur"
+
+#: tr/customer.csv:11 
+msgid "Customer"
+msgstr "Müşteri"
+
+#: tr/customer.csv:12 
+msgid "Customers"
+msgstr "Müşteriler"
+
+#: tr/customer.csv:13 
+msgid "Disconnect"
+msgstr "Bağlantı yok"
+
+#: tr/customer.csv:14 
+msgid "Edit the user %s"
+msgstr "%s kullanıcıyı düzenle"
+
+#: tr/customer.csv:15 
+msgid "First name"
+msgstr "Adı"
+
+#: tr/customer.csv:16 
+msgid "Forgot your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: tr/customer.csv:17 
+msgid "Gender"
+msgstr "Cinsiyet"
+
+#: tr/customer.csv:18 
+msgid "Here are your credentials:"
+msgstr "Kimlik bilgileriniz:"
+
+#: tr/customer.csv:19 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Gizlilik politikasını <u>kabul ediyorum</u>"
+
+#: tr/customer.csv:20 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Eğer herhangi bir sorunla karşılaşırsanız, lütfen bizimle irtibata geçmekten çekinmeyin:"
+
+#: tr/customer.csv:21 
+msgid "Last name"
+msgstr "Soyad"
+
+#: tr/customer.csv:22 
+msgid "Login:"
+msgstr "Giriş:"
+
+#: tr/customer.csv:23 
+msgid "Miss"
+msgstr "Bayan"
+
+#: tr/customer.csv:24 
+msgid "Mr"
+msgstr "Bayan"
+
+#: tr/customer.csv:25 
+msgid "Mrs"
+msgstr "Bay"
+
+#: tr/customer.csv:26 
+msgid "My Account"
+msgstr "Hesabım"
+
+#: tr/customer.csv:27 
+msgid "My application's users"
+msgstr "Uygulama kullanıcıları"
+
+#: tr/customer.csv:28 
+msgid "Old Password"
+msgstr "Önceki şifre"
+
+#: tr/customer.csv:29 
+msgid "Or with your account"
+msgstr "ya da senin hesabınla"
+
+#: tr/customer.csv:30 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "E-posta adresinizi girin. Size şifrenizi göndereceğiz."
+
+#: tr/customer.csv:31 
+msgid "Please log in with your mobile phone"
+msgstr "Cep telefonu ile Giriş Yapın"
+
+#: tr/customer.csv:32 
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: tr/customer.csv:33 
+msgid "See you soon,"
+msgstr "Yakında görüşürüz,"
+
+#: tr/customer.csv:34 
+msgid "Show me in ranking"
+msgstr "Sıralamamı göster"
+
+#: tr/customer.csv:35 
+msgid "The old email address does not match the entered email address."
+msgstr "Eski e-posta adresi girdiğiniz e-posta adresi ile eşleşmiyor."
+
+#: tr/customer.csv:36 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Bu kullanıcı "Locker" özelliği ile kilitli sayfaları erişebilir"
+
+#: tr/customer.csv:37 
+msgid "This user is visible in ranking"
+msgstr "Bu kullanıcı sıralamasında görünür"
+
+#: tr/customer.csv:38 
+msgid "User"
+msgstr "Kullanıcı"
+
+#: tr/customer.csv:39 
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: tr/customer.csv:40 
+msgid "User Information"
+msgstr "Kullanıcı bilgisi"
+
+#: tr/customer.csv:41 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Üzgünüz ancak% s hesap müşterilerimizin birine bağlıdır"
+
+#: tr/customer.csv:42 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "Hesabınızı oluşturduk.Bu hesapla mevcut tüm fonksiyonları kullanabilirsiniz."
+
+#: tr/customer.csv:43 
+msgid "Your account has been successfully saved"
+msgstr "Hesabınız başarıyla kaydedildi"
+

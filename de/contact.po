@@ -1,0 +1,96 @@
+#: de/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "Während dem speichern Ihrer Kontaktinformationen ist ein Fehler aufgetreten."
+
+#: de/contact.csv:2 
+msgid "An error occurred while sending your message. We apologize and ask you to try later."
+msgstr "Während der Übermittlung Ihrer Nachricht ist ein Fehler aufgetreten. Wir entschuldigen uns und bitten Sie, es später nochmals zu versuchen"
+
+#: de/contact.csv:3 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "Beim Senden Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+
+#: de/contact.csv:4 
+msgid "And his phone number:"
+msgstr "Und seine Telefonnummer:"
+
+#: de/contact.csv:5 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Sind Sie sicher, dass Sie das Bild entfernen möchten?"
+
+#: de/contact.csv:6 
+msgid "City"
+msgstr "Stadt"
+
+#: de/contact.csv:7 
+msgid "Contact information"
+msgstr "Kontaktinformationen"
+
+#: de/contact.csv:8 
+msgid "Contact informations"
+msgstr "Kontaktinformationen"
+
+#: de/contact.csv:9 
+msgid "Here is his email:"
+msgstr "Hier ist seine e-Mail:"
+
+#: de/contact.csv:10 
+msgid "Here is his message:"
+msgstr "Hier ist seine Botschaft:"
+
+#: de/contact.csv:11 
+msgid "Informations successfully saved"
+msgstr "Informationen erfolgreich gespeichert"
+
+#: de/contact.csv:12 
+msgid "Insert a <br /><span class="bold">cover image</span>"
+msgstr "Legen Sie eine <br /> <span class="bold"> Cover-Bild </span>"
+
+#: de/contact.csv:13 
+msgid "Message from your app %s"
+msgstr "Nachricht von Ihrer App %s"
+
+#: de/contact.csv:14 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Bitte vervollständigen Sie die folgenden Felder: <br />"
+
+#: de/contact.csv:15 
+msgid "SEND"
+msgstr "senden"
+
+#: de/contact.csv:16 
+msgid "Thank you for your request. We'll answer you as soon as possible."
+msgstr "Vielen Dank für Ihre Anfrage. Wir werden Sie so bald wie möglich beantworten."
+
+#: de/contact.csv:17 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: de/contact.csv:18 
+msgid "Website"
+msgstr "Website"
+
+#: de/contact.csv:19 
+msgid "You have received a message from a contact:"
+msgstr "Sie haben eine Nachricht von einem Kontakt erhalten:"
+
+#: de/contact.csv:20 
+msgid "Your email"
+msgstr "Ihre E-Mail"
+
+#: de/contact.csv:21 
+msgid "Your message has been sent"
+msgstr "Ihre Nachricht wurde gesendet"
+
+#: de/contact.csv:22 
+msgid "Your name"
+msgstr "Ihr Name"
+
+#: de/contact.csv:23 
+msgid "Your request"
+msgstr "Inhalt"
+
+#: de/contact.csv:24 
+msgid "Zip code"
+msgstr "PLZ"
+

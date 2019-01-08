@@ -1,0 +1,44 @@
+#: tr/padlock.csv:1 
+msgid "Lock the entire application?"
+msgstr "Tüm uygulamayı kilitleyin?"
+
+#: tr/padlock.csv:2 
+msgid "Choose the features to lock:"
+msgstr "Kilitlemek için özellikleri seçin:"
+
+#: tr/padlock.csv:3 
+msgid "Restrict Access"
+msgstr "Erişim sınırla"
+
+#: tr/padlock.csv:4 
+msgid "Allow all the users by default:"
+msgstr "Varsayılan olarak tüm kullanıcılara izin ver:"
+
+#: tr/padlock.csv:5 
+msgid "the gender"
+msgstr "cinsiyet"
+
+#: tr/padlock.csv:6 
+msgid "the first name"
+msgstr "ad"
+
+#: tr/padlock.csv:7 
+msgid "the last name"
+msgstr "soyad"
+
+#: tr/padlock.csv:8 
+msgid "the email address"
+msgstr "email "
+
+#: tr/padlock.csv:9 
+msgid "the password"
+msgstr "şifre"
+
+#: tr/padlock.csv:10 
+msgid "Access restricted to authorized members only"
+msgstr "Erişim yetkili üyelere sınırlı"
+
+#: tr/padlock.csv:11 
+msgid "We are sorry but your account does not have enough permissions to access this page"
+msgstr "Üzgünüz ama hesabınız bu sayfaya erişmek için yeterli izinlere sahip değil"
+

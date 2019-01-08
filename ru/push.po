@@ -1,0 +1,104 @@
+#: ru/push.csv:1 
+msgid "Additionnal Information"
+msgstr "Добавить информацию"
+
+#: ru/push.csv:2 
+msgid "And a radius (in Km):"
+msgstr "Задать радиус в км"
+
+#: ru/push.csv:3 
+msgid "Android"
+msgstr "Android"
+
+#: ru/push.csv:4 
+msgid "Creation date"
+msgstr "Дата отправки"
+
+#: ru/push.csv:5 
+msgid "Enter a location:"
+msgstr "Введите местоположение:"
+
+#: ru/push.csv:6 
+msgid "GCM Key"
+msgstr "GCM ключ"
+
+#: ru/push.csv:7 
+msgid "I want to send it"
+msgstr "Я хочу отправить Push-сообщение"
+
+#: ru/push.csv:8 
+msgid "Keys successfully saved"
+msgstr "Ключи успешно сохранены"
+
+#: ru/push.csv:9 
+msgid "Message"
+msgstr "Сообщение"
+
+#: ru/push.csv:10 
+msgid "Message:"
+msgstr "Сообщение:"
+
+#: ru/push.csv:11 
+msgid "Pending"
+msgstr "В ожидании"
+
+#: ru/push.csv:12 
+msgid "Push Notifications"
+msgstr "Push-сообщения"
+
+#: ru/push.csv:13 
+msgid "Push Notifications Settings"
+msgstr "Настройки Push-сообщения"
+
+#: ru/push.csv:14 
+msgid "Radius"
+msgstr "Радиус"
+
+#: ru/push.csv:15 
+msgid "Send to a specific location"
+msgstr "Отправить в определенное место"
+
+#: ru/push.csv:16 
+msgid "Send to all my users"
+msgstr "Послать всем своим пользователям"
+
+#: ru/push.csv:17 
+msgid "Sender ID"
+msgstr "ID отправителя"
+
+#: ru/push.csv:18 
+msgid "Sending date"
+msgstr "Дата отправки"
+
+#: ru/push.csv:19 
+msgid "The duration limit must be higher than the sent date"
+msgstr "Время действия должно быть больше, чем указанная дата"
+
+#: ru/push.csv:20 
+msgid "Your app must be published to send a push notification."
+msgstr "Ваше приложение должно быть опубликовано, чтобы отправлять  Push-уведомления."
+
+#: ru/push.csv:21 
+msgid "Your message has been saved successfully and will be sent at the entered date"
+msgstr "Ваше сообщение было успешно сохранено и будет отправлено в указанную дату."
+
+#: ru/push.csv:22 
+msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgstr "Ваше сообщение было успешно сохранено и будет отправлено в течение нескольких минут."
+
+#: ru/push.csv:23 
+msgid "and users entering the area"
+msgstr "и пользователям при входе в зону"
+
+#: ru/push.csv:24 
+msgid "for a limited period"
+msgstr "в течение ограниченного периода"
+
+#: ru/push.csv:25 
+msgid "now"
+msgstr "сейчас"
+
+#: ru/push.csv:26 
+msgid "on a specific date"
+msgstr "на определенную дату"
+

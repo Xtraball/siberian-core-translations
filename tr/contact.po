@@ -1,0 +1,64 @@
+#: tr/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "Iletişim bilgileri kaydedilirken bir hata oluştu."
+
+#: tr/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "İsteğiniz gönderilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
+
+#: tr/contact.csv:3 
+msgid "And his phone number:"
+msgstr "Telefonunu ekleyin:"
+
+#: tr/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Bu resmi kaldırmak istediğinizden eminmisiniz?"
+
+#: tr/contact.csv:5 
+msgid "City"
+msgstr "Şehir"
+
+#: tr/contact.csv:6 
+msgid "Contact information"
+msgstr "İletişim bilgisi"
+
+#: tr/contact.csv:7 
+msgid "Here is his email:"
+msgstr "Email adresi:"
+
+#: tr/contact.csv:8 
+msgid "Here is his message:"
+msgstr "Mesajı:"
+
+#: tr/contact.csv:9 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Aşağıdaki alanları doldurun: <br />"
+
+#: tr/contact.csv:10 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: tr/contact.csv:11 
+msgid "Website"
+msgstr "Website"
+
+#: tr/contact.csv:12 
+msgid "You have received a message from a contact:"
+msgstr "Bir kişiden bir mesaj aldınız:"
+
+#: tr/contact.csv:13 
+msgid "Your email"
+msgstr "Email adresiniz:"
+
+#: tr/contact.csv:14 
+msgid "Your message has been sent"
+msgstr "Mesajınız gönderildi"
+
+#: tr/contact.csv:15 
+msgid "Your request"
+msgstr "Ricanız"
+
+#: tr/contact.csv:16 
+msgid "Zip code"
+msgstr "Posta kodu"
+

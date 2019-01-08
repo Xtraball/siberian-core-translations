@@ -1,0 +1,72 @@
+#: pt_BR/sales.csv:1 
+msgid "Action"
+msgstr "Ação"
+
+#: pt_BR/sales.csv:2 
+msgid "App Name"
+msgstr "Nome Aplicativo"
+
+#: pt_BR/sales.csv:3 
+msgid "Client"
+msgstr "Cliente"
+
+#: pt_BR/sales.csv:4 
+msgid "Date"
+msgstr "Data"
+
+#: pt_BR/sales.csv:5 
+msgid "Invoice"
+msgstr "Fatura"
+
+#: pt_BR/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Fatura %s"
+
+#: pt_BR/sales.csv:7 
+msgid "Invoice N°"
+msgstr "Fatura NÂ°"
+
+#: pt_BR/sales.csv:8 
+msgid "List of your invoices"
+msgstr "Lista de suas faturas"
+
+#: pt_BR/sales.csv:9 
+msgid "My Invoices"
+msgstr "Minhas faturas"
+
+#: pt_BR/sales.csv:10 
+msgid "Order"
+msgstr "Pedido"
+
+#: pt_BR/sales.csv:11 
+msgid "Orders"
+msgstr "Pedidos"
+
+#: pt_BR/sales.csv:12 
+msgid "Paid At"
+msgstr "Pago em"
+
+#: pt_BR/sales.csv:13 
+msgid "Paid at:"
+msgstr "Pago em:"
+
+#: pt_BR/sales.csv:14 
+msgid "Price Excl. Tax"
+msgstr "Preço Excl. Imposto"
+
+#: pt_BR/sales.csv:15 
+msgid "Qty"
+msgstr "Qtde"
+
+#: pt_BR/sales.csv:16 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Este recurso ainda não está pronto. Por favor, tente novamente mais tarde."
+
+#: pt_BR/sales.csv:17 
+msgid "Total Excl. Tax"
+msgstr "Total Excl. Imposto"
+
+#: pt_BR/sales.csv:18 
+msgid "You don't have any invoices yet"
+msgstr "Você não tem nenhuma fatura ainda"
+

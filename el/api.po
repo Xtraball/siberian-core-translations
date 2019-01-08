@@ -1,0 +1,12 @@
+#: el/api.csv:1 
+msgid "API Keys"
+msgstr "Κλειδιά API"
+
+#: el/api.csv:2 
+msgid "Api Keys"
+msgstr "Κλειδιά API"
+
+#: el/api.csv:3 
+msgid "Api Keys successfully saved"
+msgstr "Τα κλειδιά API αποθηκεύτηκαν επιτυχώς"
+

@@ -1,0 +1,144 @@
+#: es/form.csv:1 
+msgid "Create a new field"
+msgstr "Crear un nuevo campo"
+
+#: es/form.csv:2 
+msgid "Edit field %s"
+msgstr "Editar el campo %s"
+
+#: es/form.csv:3 
+msgid "Field name:"
+msgstr "Nombre del campo:"
+
+#: es/form.csv:4 
+msgid "Field name"
+msgstr "Nombre del campo"
+
+#: es/form.csv:5 
+msgid "Choose a field type:"
+msgstr "Seleccione un tipo de campo:"
+
+#: es/form.csv:6 
+msgid "You have to choose a field type."
+msgstr "Tiene que elegir un tipo de campo."
+
+#: es/form.csv:7 
+msgid "This field is required"
+msgstr "Este campo es obligatorio"
+
+#: es/form.csv:8 
+msgid "Manage options:"
+msgstr "Administrar opciones:"
+
+#: es/form.csv:9 
+msgid "Option"
+msgstr "Opción"
+
+#: es/form.csv:10 
+msgid "Add an option"
+msgstr "Añadir una opción"
+
+#: es/form.csv:11 
+msgid "Add a field"
+msgstr "Agregar un campo"
+
+#: es/form.csv:12 
+msgid "Are you sure you want to remove this section?"
+msgstr "¿Está seguro que desea eliminar esta sección?"
+
+#: es/form.csv:13 
+msgid "Are you sure you want to remove this field?"
+msgstr "¿Está seguro que desea eliminar este campo?"
+
+#: es/form.csv:14 
+msgid "Recipient email:"
+msgstr "Email del destinatario:"
+
+#: es/form.csv:15 
+msgid "Add a section"
+msgstr "Añadir una sección"
+
+#: es/form.csv:16 
+msgid "Manage fields"
+msgstr "Gestionar los campos"
+
+#: es/form.csv:17 
+msgid "We thank you for having filled out our form."
+msgstr "Gracias por haber rellenado nuestro formulario."
+
+#: es/form.csv:18 
+msgid "An error occurred while sending the form. Please, try again later."
+msgstr "Se ha producido un error al enviar el formulario. Por favor inténtelo de nuevo más tarde."
+
+#: es/form.csv:19 
+msgid "An error occurred while retrieving the user location"
+msgstr "Se ha producido un error al recuperar la posición del usuario"
+
+#: es/form.csv:20 
+msgid "An error occurred while retrieving your location"
+msgstr "Se ha producido un error al recuperar su posición"
+
+#: es/form.csv:21 
+msgid "You have refused to share your location"
+msgstr "No compartir Ubicación"
+
+#: es/form.csv:22 
+msgid "An error occurred while saving. A field can't be identified."
+msgstr "Se ha producido un error al guardar. Un campo no puede ser identificado."
+
+#: es/form.csv:23 
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "<strong>%s</strong> debe ser rellenado <br />"
+
+#: es/form.csv:24 
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "<strong>%s</strong> debe ser un email válido <br />"
+
+#: es/form.csv:25 
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "<strong>%s</strong> debe ser un valor numérico <br />"
+
+#: es/form.csv:26 
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "<strong>%s</strong> debe ser una fecha válida <br />"
+
+#: es/form.csv:27 
+msgid "Your app's form"
+msgstr "Formulario de su aplicación"
+
+#: es/form.csv:28 
+msgid "Number"
+msgstr "Número"
+
+#: es/form.csv:29 
+msgid "Geolocation"
+msgstr "Geolocalización"
+
+#: es/form.csv:30 
+msgid "Date/Hour"
+msgstr "Fecha / hora"
+
+#: es/form.csv:31 
+msgid "Multiline text"
+msgstr "Texto Multilíneas"
+
+#: es/form.csv:32 
+msgid "Checkbox"
+msgstr "Casilla de Verificación"
+
+#: es/form.csv:33 
+msgid "Radio"
+msgstr "Radio"
+
+#: es/form.csv:34 
+msgid "Drop down"
+msgstr "Lista desplegable"
+
+#: es/form.csv:35 
+msgid ""
+msgstr ""
+
+#: es/form.csv:36 
+msgid "Your form has been filled out, here are the answers:"
+msgstr "Su formulario ha sido completado, esto es las respuestas:"
+

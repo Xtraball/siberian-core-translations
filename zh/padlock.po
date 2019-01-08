@@ -1,0 +1,44 @@
+#: zh/padlock.csv:1 
+msgid "Lock the entire application?"
+msgstr "锁定整个应用程序？"
+
+#: zh/padlock.csv:2 
+msgid "Choose the features to lock:"
+msgstr "选择的阻断功能："
+
+#: zh/padlock.csv:3 
+msgid "Restrict Access"
+msgstr "限制访问"
+
+#: zh/padlock.csv:4 
+msgid "Allow all the users by default:"
+msgstr "默认允许所有用户："
+
+#: zh/padlock.csv:5 
+msgid "the gender"
+msgstr "性别"
+
+#: zh/padlock.csv:6 
+msgid "the first name"
+msgstr "名字"
+
+#: zh/padlock.csv:7 
+msgid "the last name"
+msgstr "姓"
+
+#: zh/padlock.csv:8 
+msgid "the email address"
+msgstr "电子邮件"
+
+#: zh/padlock.csv:9 
+msgid "the password"
+msgstr "密码"
+
+#: zh/padlock.csv:10 
+msgid "Access restricted to authorized members only"
+msgstr "只允许授权用户访问"
+
+#: zh/padlock.csv:11 
+msgid "We are sorry but your account does not have enough permissions to access this page"
+msgstr "很抱歉，您的帐户中有足够的权限访问该页面"
+

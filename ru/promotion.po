@@ -1,0 +1,60 @@
+#: ru/promotion.csv:1 
+msgid "An error occurred while saving your discount. Please fill in all fields"
+msgstr "Произошла ошибка при сохранении скидки. Пожалуйста, заполните все поля."
+
+#: ru/promotion.csv:2 
+msgid "Are you sure you want to use this discount?"
+msgstr "Вы уверены в использовании этой скидки?"
+
+#: ru/promotion.csv:3 
+msgid "Closed discounts"
+msgstr "Использованные скидки"
+
+#: ru/promotion.csv:4 
+msgid "Create a new discount"
+msgstr "Создайте новую скидку"
+
+#: ru/promotion.csv:5 
+msgid "Delete this discount?"
+msgstr "Удалить эту скидку?"
+
+#: ru/promotion.csv:6 
+msgid "Discount successfully deleted"
+msgstr "Скидка успешно удалена"
+
+#: ru/promotion.csv:7 
+msgid "Discount successfully saved"
+msgstr "Скидка успешно сохранена"
+
+#: ru/promotion.csv:8 
+msgid "Please select an end date greater than the current date."
+msgstr "Пожалуйста, выберите дату окончания по сравнению с текущей датой."
+
+#: ru/promotion.csv:9 
+msgid "This discount is now used"
+msgstr "Эта скидка в настоящее время используется"
+
+#: ru/promotion.csv:10 
+msgid "Valid until"
+msgstr "Действует до"
+
+#: ru/promotion.csv:11 
+msgid "You have already use this discount"
+msgstr "Вы уже используете эту скидку"
+
+#: ru/promotion.csv:12 
+msgid "You must be logged in to use a discount"
+msgstr "Вы должны войти в систему, чтобы воспользоваться скидкой"
+
+#: ru/promotion.csv:13 
+msgid "or illimited"
+msgstr "или отмена ограничения"
+
+#: ru/promotion.csv:14 
+msgid "use only once"
+msgstr "использовать только один раз"
+
+#: ru/promotion.csv:15 
+msgid "you'll be able to remove this promotion later"
+msgstr "Вы сможете удалить эту акцию позже"
+

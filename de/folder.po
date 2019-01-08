@@ -1,0 +1,68 @@
+#: de/folder.csv:1 
+msgid "Add a"
+msgstr "hinzufügen"
+
+#: de/folder.csv:2 
+msgid "Add a page"
+msgstr "Hinzufügen einer Seite"
+
+#: de/folder.csv:3 
+msgid "Click on"
+msgstr "Klicken Sie auf"
+
+#: de/folder.csv:4 
+msgid "Click on a page to add it to the folder"
+msgstr "Klicken Sie auf eine Seite, um sie dem Ordner hinzufügen"
+
+#: de/folder.csv:5 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Klicken Sie auf eine Seite, um sie in den Ordner <span id="folder_name" class="folder_name"> "%s" hinzufügen </span>"
+
+#: de/folder.csv:6 
+msgid "Close mobile display"
+msgstr "Schließen des mobile Display"
+
+#: de/folder.csv:7 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Löschen Sie diesen Ordner und alle seine Unterordner?"
+
+#: de/folder.csv:8 
+msgid "Folder title is required"
+msgstr "Titel Ordner ist erforderlich"
+
+#: de/folder.csv:9 
+msgid "Folders"
+msgstr "Ordner"
+
+#: de/folder.csv:10 
+msgid "Mobile display"
+msgstr "Handy-Display"
+
+#: de/folder.csv:11 
+msgid "New folder"
+msgstr "Neuer Ordner"
+
+#: de/folder.csv:12 
+msgid "Subtitle"
+msgstr "Untertitel"
+
+#: de/folder.csv:13 
+msgid "You cannot add this feature"
+msgstr "Sie können diese Funktion nicht hinzufügen"
+
+#: de/folder.csv:14 
+msgid "You must first complete the current category creation process"
+msgstr "Sie müssen zuerst die aktuellen Kategorie Entstehungsprozesse abschließen"
+
+#: de/folder.csv:15 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Sie werden alle nicht gespeicherten Änderungen verlieren, fortfahren?"
+
+#: de/folder.csv:16 
+msgid "to add a folder."
+msgstr "einen Ordner hinzufügen."
+
+#: de/folder.csv:17 
+msgid "to add a subfolder."
+msgstr "einen Unterordner hinzuzufügen."
+

@@ -1,0 +1,64 @@
+#: nl/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "Er is een fout opgetreden bij het opslaan van uw contact informatie."
+
+#: nl/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "Er is een fout opgetreden tijdens het versturen van uw aanvraag. Probeer het later opnieuw."
+
+#: nl/contact.csv:3 
+msgid "And his phone number:"
+msgstr "En zijn telefoonnummer:"
+
+#: nl/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Weet u zeker dat u wilt de afbeelding verwijderen?"
+
+#: nl/contact.csv:5 
+msgid "City"
+msgstr "Woonplaats"
+
+#: nl/contact.csv:6 
+msgid "Contact information"
+msgstr "Contact informatie"
+
+#: nl/contact.csv:7 
+msgid "Here is his email:"
+msgstr "Hier is zijn e-mail:"
+
+#: nl/contact.csv:8 
+msgid "Here is his message:"
+msgstr "Hier is zijn boodschap:"
+
+#: nl/contact.csv:9 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Vul a.u.b. de volgende velden in: <br />"
+
+#: nl/contact.csv:10 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: nl/contact.csv:11 
+msgid "Website"
+msgstr "Website"
+
+#: nl/contact.csv:12 
+msgid "You have received a message from a contact:"
+msgstr "Je hebt een bericht van een contact ontvangen:"
+
+#: nl/contact.csv:13 
+msgid "Your email"
+msgstr "Uw email"
+
+#: nl/contact.csv:14 
+msgid "Your message has been sent"
+msgstr "Uw bericht is verstuurd"
+
+#: nl/contact.csv:15 
+msgid "Your request"
+msgstr "Uw vraag"
+
+#: nl/contact.csv:16 
+msgid "Zip code"
+msgstr "Postcode"
+

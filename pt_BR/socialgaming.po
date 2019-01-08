@@ -1,0 +1,64 @@
+#: pt_BR/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s ponto%s"
+
+#: pt_BR/socialgaming.csv:2 
+msgid "A month"
+msgstr "Um mês"
+
+#: pt_BR/socialgaming.csv:3 
+msgid "A week"
+msgstr "Uma semana"
+
+#: pt_BR/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Competidores"
+
+#: pt_BR/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Jogo Atual"
+
+#: pt_BR/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "Atualmente não há competidores"
+
+#: pt_BR/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Nome do Jogo"
+
+#: pt_BR/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Jogo salvo com sucesso"
+
+#: pt_BR/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Próximo Jogo"
+
+#: pt_BR/socialgaming.csv:10 
+msgid "On the"
+msgstr "No"
+
+#: pt_BR/socialgaming.csv:11 
+msgid "Period"
+msgstr "Período"
+
+#: pt_BR/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Periodicidade"
+
+#: pt_BR/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Data Publicação"
+
+#: pt_BR/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Ranking do mês"
+
+#: pt_BR/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Ranking da semana"
+
+#: pt_BR/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "Líder do Jogo"
+

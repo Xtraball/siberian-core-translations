@@ -1,0 +1,52 @@
+#: tr/translation.csv:1 
+msgid "Create a new language"
+msgstr "Yeni bir dil oluştur"
+
+#: tr/translation.csv:2 
+msgid "Default text"
+msgstr "Varsayılan metin"
+
+#: tr/translation.csv:3 
+msgid "Edit the language: %s"
+msgstr "Dil düzenleyin:%s"
+
+#: tr/translation.csv:4 
+msgid "Language"
+msgstr "Dil"
+
+#: tr/translation.csv:5 
+msgid "Language successfully saved"
+msgstr "Dil başarıyla kaydedildi"
+
+#: tr/translation.csv:6 
+msgid "List of your languages"
+msgstr "Dillerinizin listesi"
+
+#: tr/translation.csv:7 
+msgid "Please, choose a file."
+msgstr "Lütfen bir dosya seçin."
+
+#: tr/translation.csv:8 
+msgid "Please, choose a language."
+msgstr "Lütfen bir dil seçin"
+
+#: tr/translation.csv:9 
+msgid "Select a file"
+msgstr "Bir dosya seçin."
+
+#: tr/translation.csv:10 
+msgid "Select a language"
+msgstr "Bir dil seçin"
+
+#: tr/translation.csv:11 
+msgid "Text translation"
+msgstr "Metin çevirisi"
+
+#: tr/translation.csv:12 
+msgid "Translations"
+msgstr "Çeviriler"
+
+#: tr/translation.csv:13 
+msgid "Your translation"
+msgstr "Çeviriniz"
+

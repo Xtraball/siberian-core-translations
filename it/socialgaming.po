@@ -1,0 +1,64 @@
+#: it/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s punti%s"
+
+#: it/socialgaming.csv:2 
+msgid "A month"
+msgstr "Un mese"
+
+#: it/socialgaming.csv:3 
+msgid "A week"
+msgstr "Una settimana"
+
+#: it/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Sfidanti"
+
+#: it/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Gioco in corso"
+
+#: it/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "Al momento non ci sfidanti"
+
+#: it/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Nome del Gioco"
+
+#: it/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Gioco salvato correttamente"
+
+#: it/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Prossimo gioco"
+
+#: it/socialgaming.csv:10 
+msgid "On the"
+msgstr "Nel"
+
+#: it/socialgaming.csv:11 
+msgid "Period"
+msgstr "Periodo"
+
+#: it/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Periodicità"
+
+#: it/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Data di pubblicazione"
+
+#: it/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Classifica del mese"
+
+#: it/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Classifica della settimana"
+
+#: it/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "Team leader"
+

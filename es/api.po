@@ -1,0 +1,8 @@
+#: es/api.csv:1 
+msgid "API Keys"
+msgstr "Claves API"
+
+#: es/api.csv:2 
+msgid "Your APIs list"
+msgstr "Su lista de APIs"
+

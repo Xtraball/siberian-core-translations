@@ -1,0 +1,12 @@
+#: el/social.csv:1 
+msgid "An error occurred while loading the videos. Please try again later."
+msgstr "Υπήρξε σφάλμα κατά την φόρτωση των videos. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/social.csv:2 
+msgid "Enter your Facebook Fan Page Id"
+msgstr "Συμπληρώστε το Facebook Fan Page ID σας"
+
+#: el/social.csv:3 
+msgid "Enter your Facebook Fan Page Id <span class="required-entry"> *</span>:"
+msgstr "Συμπληρώστε το Facebook Fan Page ID σας <span class="required-entry"> *</span> :"
+

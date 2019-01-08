@@ -1,0 +1,172 @@
+#: nl/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "%s - Account gemaakt"
+
+#: nl/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "%s - Uw nieuwe wachtwoord"
+
+#: nl/customer.csv:3 
+msgid "A request to reset your password has been made."
+msgstr "Een verzoek om uw wachtwoord te resetten is gemaakt."
+
+#: nl/customer.csv:4 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "Er is een fout opgetreden tijdens het verbinden met je Facebook-account. Probeer het later opnieuw"
+
+#: nl/customer.csv:5 
+msgid "Are you sure you want to remove this user?"
+msgstr "Weet u zeker dat u deze gebruiker wilt verwijderen?"
+
+#: nl/customer.csv:6 
+msgid "Change Password"
+msgstr "Wachtwoord wijzigen"
+
+#: nl/customer.csv:7 
+msgid "Congratulations,"
+msgstr "Gefeliciteerd,"
+
+#: nl/customer.csv:8 
+msgid "Create"
+msgstr "Maak"
+
+#: nl/customer.csv:9 
+msgid "Create a new user"
+msgstr "Maak een nieuwe gebruiker"
+
+#: nl/customer.csv:10 
+msgid "Create an account"
+msgstr "Maak een account"
+
+#: nl/customer.csv:11 
+msgid "Customer"
+msgstr "Klant"
+
+#: nl/customer.csv:12 
+msgid "Customers"
+msgstr "Klanten"
+
+#: nl/customer.csv:13 
+msgid "Disconnect"
+msgstr "Loskoppelen"
+
+#: nl/customer.csv:14 
+msgid "Edit the user %s"
+msgstr "Bewerk de gebruiker %s"
+
+#: nl/customer.csv:15 
+msgid "First name"
+msgstr "Voornaam"
+
+#: nl/customer.csv:16 
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: nl/customer.csv:17 
+msgid "Gender"
+msgstr "Man / vrouw"
+
+#: nl/customer.csv:18 
+msgid "Here are your credentials:"
+msgstr "Hier zijn uw gegevens:"
+
+#: nl/customer.csv:19 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Ik accepteer het <u>privacybeleid</ u>"
+
+#: nl/customer.csv:20 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Als u problemen ondervindt, aarzel dan niet om contact opte nemen:"
+
+#: nl/customer.csv:21 
+msgid "Last name"
+msgstr "Achternaam"
+
+#: nl/customer.csv:22 
+msgid "Login:"
+msgstr "Login :"
+
+#: nl/customer.csv:23 
+msgid "Miss"
+msgstr "Mejv."
+
+#: nl/customer.csv:24 
+msgid "Mr"
+msgstr "Dhr."
+
+#: nl/customer.csv:25 
+msgid "Mrs"
+msgstr "Mevr."
+
+#: nl/customer.csv:26 
+msgid "My Account"
+msgstr "Mijn account"
+
+#: nl/customer.csv:27 
+msgid "My application's users"
+msgstr "Mijn App gebruikers"
+
+#: nl/customer.csv:28 
+msgid "Old Password"
+msgstr "Oude wachtwoord"
+
+#: nl/customer.csv:29 
+msgid "Or with your account"
+msgstr "Of met uw account"
+
+#: nl/customer.csv:30 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Vul uw e-mailadres in . We zullen u nu uw wachtwoord sturen."
+
+#: nl/customer.csv:31 
+msgid "Please log in with your mobile phone"
+msgstr "Log-in met uw mobiele telefoon"
+
+#: nl/customer.csv:32 
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: nl/customer.csv:33 
+msgid "See you soon,"
+msgstr "Tot ziens,"
+
+#: nl/customer.csv:34 
+msgid "Show me in ranking"
+msgstr "Toon mij in het klassement"
+
+#: nl/customer.csv:35 
+msgid "The old email address does not match the entered email address."
+msgstr "Het oude e-mailadres komt niet overeen met het opgegeven e-mailadres."
+
+#: nl/customer.csv:36 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Deze gebruiker kan toegang krijgen tot de pagina's die vergrendeld zijn door de functie "Locker""
+
+#: nl/customer.csv:37 
+msgid "This user is visible in ranking"
+msgstr "De gebruiker is zichtbaar in de ranking"
+
+#: nl/customer.csv:38 
+msgid "User"
+msgstr "Gebruiker"
+
+#: nl/customer.csv:39 
+msgid "Users"
+msgstr "Gebruikers"
+
+#: nl/customer.csv:40 
+msgid "User Information"
+msgstr "Gebruiker informatie"
+
+#: nl/customer.csv:41 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Het spijt ons maar het %s-account is al gekoppeld aan een van onze klanten"
+
+#: nl/customer.csv:42 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "Je hebt je account aangemaakt. Met dit account, kunt u genieten van de geweldige aanbiedingen die beschikbaar zijn in onze applicatie."
+
+#: nl/customer.csv:43 
+msgid "Your account has been successfully saved"
+msgstr "Uw account is met succes opgeslagen"
+

@@ -1,0 +1,320 @@
+#: el/media.csv:1 
+msgid "%s by %s"
+msgstr "%s από %s"
+
+#: el/media.csv:2 
+msgid "+ Add a track"
+msgstr "+ Προσθήκη τραγουδιού"
+
+#: el/media.csv:3 
+msgid "Add albums and tracks to the playlist:"
+msgstr "Προσθήκη album και τραγουδιών στην playlist:"
+
+#: el/media.csv:4 
+msgid "Album"
+msgstr "Album"
+
+#: el/media.csv:5 
+msgid "Albums"
+msgstr "Albums"
+
+#: el/media.csv:6 
+msgid "Albums:"
+msgstr "Albums:"
+
+#: el/media.csv:7 
+msgid "An error occurred while deleting you images gallery. Please try again later."
+msgstr "Υπήρξε σφάλμα κατά την διαγραφή της gallery φωτογραφιών σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:8 
+msgid "An error occurred while deleting your album. Thanks for trying later."
+msgstr "Υπήρξε σφάλμα κατά την διαγραφή των albums σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:9 
+msgid "An error occurred while deleting your playlist. Thanks for trying later."
+msgstr "Υπήρξε σφάλμα κατά την διαγραφή της playlist σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:10 
+msgid "An error occurred while deleting your track. Thanks for trying later."
+msgstr "Υπήρξε σφάλμα κατά την διαγραφή του τραγουδιού σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:11 
+msgid "An error occurred while loading pictures. Please try later."
+msgstr "Υπήρξε σφάλμα κατά το ανέβασμα των εικόνων σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:12 
+msgid "An error occurred while loading videos. Please try later."
+msgstr "Υπήρξε σφάλμα κατά το ανέβασμα των videos σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:13 
+msgid "An error occurred while saving your images gallery. Please try again later."
+msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της gallery φωτογραφιών σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:14 
+msgid "An error occurred while saving your playlist. Thanks for trying later."
+msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της playlist σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:15 
+msgid "An error occurred while saving your videos gallery. Please try again later."
+msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της video gallery σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+
+#: el/media.csv:16 
+msgid "Are you sure you don't want to create an album for these tracks?"
+msgstr "Είστε σίγουροι ότι θέλετε να δημιουργήσετε ένα album για αυτά τα τραγούδια?"
+
+#: el/media.csv:17 
+msgid "Are you sure you don't want to create an album for this track?"
+msgstr "Είστε σίγουροι ότι θέλετε να δημιουργήσετε ένα album για αυτό το τραγούδι?"
+
+#: el/media.csv:18 
+msgid "Are you sure you want to delete this album (this won't delete tracks)?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το album? (Δεν θα διαγραφούν τα τραγουδία που περιλαμβάνονται σε αυτό)"
+
+#: el/media.csv:19 
+msgid "Are you sure you want to delete this album?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το album?"
+
+#: el/media.csv:20 
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το playlist?"
+
+#: el/media.csv:21 
+msgid "Are you sure you want to delete this track?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το τραγούδι?"
+
+#: el/media.csv:22 
+msgid "Artist"
+msgstr "Καλλιτέχνης"
+
+#: el/media.csv:23 
+msgid "Artist:"
+msgstr "Καλλιτέχνης:"
+
+#: el/media.csv:24 
+msgid "Audio"
+msgstr "Ήχος"
+
+#: el/media.csv:25 
+msgid "Channel"
+msgstr "Κανάλι"
+
+#: el/media.csv:26 
+msgid "Choose an album"
+msgstr "Επιλογή album"
+
+#: el/media.csv:27 
+msgid "Custom"
+msgstr "Προσωποποιημένο"
+
+#: el/media.csv:28 
+msgid "Delete this gallery?"
+msgstr "Διαγραφή της gallery?"
+
+#: el/media.csv:29 
+msgid "Feed URL"
+msgstr "RSS URL"
+
+#: el/media.csv:30 
+msgid "Feed URL <span class="required-entry">*</span> :"
+msgstr "RSS URL <span class="required-entry">*</span> :"
+
+#: el/media.csv:31 
+msgid "Gallery Name"
+msgstr "Όνομα gallery"
+
+#: el/media.csv:32 
+msgid "Gallery Name <span class="required-entry">*</span> :"
+msgstr "Όνομα gallery <span class="required-entry">*</span> :"
+
+#: el/media.csv:33 
+msgid "Group"
+msgstr "Ομάδα"
+
+#: el/media.csv:34 
+msgid "I'm listening to"
+msgstr "Ακούω"
+
+#: el/media.csv:35 
+msgid "Images gallery has been saved successfully"
+msgstr "Η gallery φωτογραφιών αποθηκεύτηκε επιτυχώς"
+
+#: el/media.csv:36 
+msgid "Instagram"
+msgstr "Instagram"
+
+#: el/media.csv:37 
+msgid "Last update:"
+msgstr "Τελευταία ενημέρωση:"
+
+#: el/media.csv:38 
+msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
+msgstr "Μέγιστο μέγεθος: 2000x2000 px - Επιτρεπόμενοι τύποι αρχείων: .jpg και .png"
+
+#: el/media.csv:39 
+msgid "My pictures"
+msgstr "Οι εικόνες μου"
+
+#: el/media.csv:40 
+msgid "No album found"
+msgstr "Δεν βρέθηκε album"
+
+#: el/media.csv:41 
+msgid "No artist found"
+msgstr "Δεν βρέθηκε καλλιτέχνης"
+
+#: el/media.csv:42 
+msgid "No track found"
+msgstr "Δεν βρέθηκε τραγούδι"
+
+#: el/media.csv:43 
+msgid "PLAYER"
+msgstr "Player"
+
+#: el/media.csv:44 
+msgid "Parameter"
+msgstr "Παράμετρος"
+
+#: el/media.csv:45 
+msgid "Parameter/Feed Url"
+msgstr "Παράμετρος/RSS URL"
+
+#: el/media.csv:46 
+msgid "Picasa"
+msgstr "Picasa"
+
+#: el/media.csv:47 
+msgid "Picture%s"
+msgstr "eikona%s"
+
+#: el/media.csv:48 
+msgid "Playlist"
+msgstr "Playlist"
+
+#: el/media.csv:49 
+msgid "Playlist successfully saved."
+msgstr "Η playlist αποθηκεύτηκε επιτυχώς."
+
+#: el/media.csv:50 
+msgid "Playlist title:"
+msgstr "Τίτλος playlist:"
+
+#: el/media.csv:51 
+msgid "Playlists"
+msgstr "Playlists"
+
+#: el/media.csv:52 
+msgid "Podcast"
+msgstr "Podcast"
+
+#: el/media.csv:53 
+msgid "Podcast URL (iTunes format)"
+msgstr "Podcast URL (iTunes)"
+
+#: el/media.csv:54 
+msgid "Read all"
+msgstr "Διάβασμα όλων"
+
+#: el/media.csv:55 
+msgid "Required field"
+msgstr "Υποχρεωτικό πεδίο"
+
+#: el/media.csv:56 
+msgid "Search/Url"
+msgstr "Αναζήτηση/URL"
+
+#: el/media.csv:57 
+msgid "The entered name is not a valid Instagram user."
+msgstr "Το όνομα που συμπληρώσατε, δεν είναι ενός έγκυρου χρήστη του Instagram."
+
+#: el/media.csv:58 
+msgid "This element is not an album."
+msgstr "Αυτό το στοιχείο δεν είναι album."
+
+#: el/media.csv:59 
+msgid "Track"
+msgstr "Τραγούδι"
+
+#: el/media.csv:60 
+msgid "Tracks"
+msgstr "Τραγούδια"
+
+#: el/media.csv:61 
+msgid "Type"
+msgstr "Τύπος"
+
+#: el/media.csv:62 
+msgid "URL (.mp3):"
+msgstr "URL (.mp3):"
+
+#: el/media.csv:63 
+msgid "Videos gallery has been saved successfully"
+msgstr "Η video gallery αποθηκεύτηκε επιτυχώς"
+
+#: el/media.csv:64 
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: el/media.csv:65 
+msgid "buy"
+msgstr "αγορά"
+
+#: el/media.csv:66 
+msgid "close"
+msgstr "κλείσιμο"
+
+#: el/media.csv:67 
+msgid "empty"
+msgstr "άδειο"
+
+#: el/media.csv:68 
+msgid "from"
+msgstr "από"
+
+#: el/media.csv:69 
+msgid "hide"
+msgstr "απόκρυψη"
+
+#: el/media.csv:70 
+msgid "loop"
+msgstr "επανάληψη"
+
+#: el/media.csv:71 
+msgid "music"
+msgstr "μουσική"
+
+#: el/media.csv:72 
+msgid "next"
+msgstr "επόμενο"
+
+#: el/media.csv:73 
+msgid "on"
+msgstr "την"
+
+#: el/media.csv:74 
+msgid "pause"
+msgstr "παύση"
+
+#: el/media.csv:75 
+msgid "play"
+msgstr "αναπαραγωγή"
+
+#: el/media.csv:76 
+msgid "previous"
+msgstr "προηγούμενο"
+
+#: el/media.csv:77 
+msgid "share"
+msgstr "μοιραστείτε"
+
+#: el/media.csv:78 
+msgid "shuffle"
+msgstr "τυχαία"
+
+#: el/media.csv:79 
+msgid "track"
+msgstr "τραγούδι"
+
+#: el/media.csv:80 
+msgid "tracks"
+msgstr "τραγούδια"
+

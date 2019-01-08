@@ -1,0 +1,164 @@
+#: base/whitelabel.csv:1 
+msgid "App Name"
+msgstr "App Name"
+
+#: base/whitelabel.csv:2 
+msgid "Area"
+msgstr "Area"
+
+#: base/whitelabel.csv:3 
+msgid "Border Blue"
+msgstr "Border Blue"
+
+#: base/whitelabel.csv:4 
+msgid "Border Green"
+msgstr "Border Green"
+
+#: base/whitelabel.csv:5 
+msgid "Border Grey"
+msgstr "Border Grey"
+
+#: base/whitelabel.csv:6 
+msgid "Border Purple"
+msgstr "Border Purple"
+
+#: base/whitelabel.csv:7 
+msgid "Border Red"
+msgstr "Border Red"
+
+#: base/whitelabel.csv:8 
+msgid "Border Yellow"
+msgstr "Border Yellow"
+
+#: base/whitelabel.csv:9 
+msgid "Buttons"
+msgstr "Buttons"
+
+#: base/whitelabel.csv:10 
+msgid "Color blue"
+msgstr "Color blue"
+
+#: base/whitelabel.csv:11 
+msgid "Color green"
+msgstr "Color green"
+
+#: base/whitelabel.csv:12 
+msgid "Color purple"
+msgstr "Color purple"
+
+#: base/whitelabel.csv:13 
+msgid "Color red"
+msgstr "Color red"
+
+#: base/whitelabel.csv:14 
+msgid "Color yellow"
+msgstr "Color yellow"
+
+#: base/whitelabel.csv:15 
+msgid "Company or Fullname"
+msgstr "Company or Fullname"
+
+#: base/whitelabel.csv:16 
+msgid "Contact e-mail"
+msgstr "Contact e-mail"
+
+#: base/whitelabel.csv:17 
+msgid "Content background"
+msgstr "Content background"
+
+#: base/whitelabel.csv:18 
+msgid "Content color"
+msgstr "Content color"
+
+#: base/whitelabel.csv:19 
+msgid "Country"
+msgstr "Country"
+
+#: base/whitelabel.csv:20 
+msgid "Customize My Editor"
+msgstr "Customize My Editor"
+
+#: base/whitelabel.csv:21 
+msgid "Delete/Cancel buttons"
+msgstr "Delete/Cancel buttons"
+
+#: base/whitelabel.csv:22 
+msgid "Drop Down"
+msgstr "Drop Down"
+
+#: base/whitelabel.csv:23 
+msgid "E-mail"
+msgstr "E-mail"
+
+#: base/whitelabel.csv:24 
+msgid "Enable GDPR features & rules"
+msgstr "Enable GDPR features & rules"
+
+#: base/whitelabel.csv:25 
+msgid "Enable White-Label"
+msgstr "Enable White-Label"
+
+#: base/whitelabel.csv:26 
+msgid "Favicon"
+msgstr "Favicon"
+
+#: base/whitelabel.csv:27 
+msgid "Font Color blue"
+msgstr "Font Color blue"
+
+#: base/whitelabel.csv:28 
+msgid "Full address"
+msgstr "Full address"
+
+#: base/whitelabel.csv:29 
+msgid "General"
+msgstr "General"
+
+#: base/whitelabel.csv:30 
+msgid "Grey buttons"
+msgstr "Grey buttons"
+
+#: base/whitelabel.csv:31 
+msgid "Header"
+msgstr "Header"
+
+#: base/whitelabel.csv:32 
+msgid "In application of the GDPR regulation text, you must fullfill legal contact informations, whether you are a Company or an Individual."
+msgstr "In application of the GDPR regulation text, you must fullfill legal contact informations, whether you are a Company or an Individual."
+
+#: base/whitelabel.csv:33 
+msgid "Input flat"
+msgstr "Input flat"
+
+#: base/whitelabel.csv:34 
+msgid "Logo"
+msgstr "Logo"
+
+#: base/whitelabel.csv:35 
+msgid "Menu"
+msgstr "Menu"
+
+#: base/whitelabel.csv:36 
+msgid "Page"
+msgstr "Page"
+
+#: base/whitelabel.csv:37 
+msgid "Phone"
+msgstr "Phone"
+
+#: base/whitelabel.csv:38 
+msgid "Sidebar background"
+msgstr "Sidebar background"
+
+#: base/whitelabel.csv:39 
+msgid "Step menu background"
+msgstr "Step menu background"
+
+#: base/whitelabel.csv:40 
+msgid "Titles"
+msgstr "Titles"
+
+#: base/whitelabel.csv:41 
+msgid "White-Label name"
+msgstr "White-Label name"
+

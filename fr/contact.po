@@ -1,0 +1,68 @@
+#: fr/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "Une erreur est survenue lors de la sauvegarde de vos données de contact."
+
+#: fr/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "Une erreur est survenue lors de l'envoi de votre demande. Merci de réessayer ultérieurement."
+
+#: fr/contact.csv:3 
+msgid "And his phone number:"
+msgstr "Et son numéro de téléphone :"
+
+#: fr/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "tes-vous sûr de vouloir supprimer l'image ?"
+
+#: fr/contact.csv:5 
+msgid "City"
+msgstr "Ville"
+
+#: fr/contact.csv:6 
+msgid "Contact information"
+msgstr "Coordonnées"
+
+#: fr/contact.csv:7 
+msgid "Contact informations"
+msgstr "Informations de contact"
+
+#: fr/contact.csv:8 
+msgid "Here is his email:"
+msgstr "Voici son email :"
+
+#: fr/contact.csv:9 
+msgid "Here is his message:"
+msgstr "Voici son message :"
+
+#: fr/contact.csv:10 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Veuillez renseigner correctement les champs suivants : <br />"
+
+#: fr/contact.csv:11 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: fr/contact.csv:12 
+msgid "Website"
+msgstr "Site web"
+
+#: fr/contact.csv:13 
+msgid "You have received a message from a contact:"
+msgstr "Vous avez reçu un message d'un contact :"
+
+#: fr/contact.csv:14 
+msgid "Your email"
+msgstr "Votre email"
+
+#: fr/contact.csv:15 
+msgid "Your message has been sent"
+msgstr "Votre message a été envoyé"
+
+#: fr/contact.csv:16 
+msgid "Your request"
+msgstr "Votre demande"
+
+#: fr/contact.csv:17 
+msgid "Zip code"
+msgstr "Code postal"
+

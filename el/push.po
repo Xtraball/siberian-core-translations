@@ -1,0 +1,104 @@
+#: el/push.csv:1 
+msgid "Additionnal Information"
+msgstr "Συμπληρωματικές πληροφορίες"
+
+#: el/push.csv:2 
+msgid "And a radius (in Km):"
+msgstr "Και μια ακτίνα (σε χλμ):"
+
+#: el/push.csv:3 
+msgid "Android"
+msgstr "Android"
+
+#: el/push.csv:4 
+msgid "Creation date"
+msgstr "Ημ/νία δημιουργίας"
+
+#: el/push.csv:5 
+msgid "Enter a location:"
+msgstr "Συμπληρώστε τοποθεσία:"
+
+#: el/push.csv:6 
+msgid "GCM Key"
+msgstr "Κλειδί GCM"
+
+#: el/push.csv:7 
+msgid "I want to send it"
+msgstr "Θέλω να το στείλω"
+
+#: el/push.csv:8 
+msgid "Keys successfully saved"
+msgstr "Το Κλειδί αποθηκεύτηκε επιτυχώς"
+
+#: el/push.csv:9 
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: el/push.csv:10 
+msgid "Message:"
+msgstr "Μήνυμα:"
+
+#: el/push.csv:11 
+msgid "Pending"
+msgstr "Εκκρεμεί"
+
+#: el/push.csv:12 
+msgid "Push Notifications"
+msgstr "Μηνύματα Push"
+
+#: el/push.csv:13 
+msgid "Push Notifications Settings"
+msgstr "Ρυθμίσεις Μηνυμάτων Push"
+
+#: el/push.csv:14 
+msgid "Radius"
+msgstr "Ακτίνα"
+
+#: el/push.csv:15 
+msgid "Send to a specific location"
+msgstr "Στείλτε σε συγκεκριμένη τοποθεσία"
+
+#: el/push.csv:16 
+msgid "Send to all my users"
+msgstr "Αποστολή σε όλους τους χρήστες"
+
+#: el/push.csv:17 
+msgid "Sender ID"
+msgstr "ID αποστολέα"
+
+#: el/push.csv:18 
+msgid "Sending date"
+msgstr "Ημ/νία αποστολής"
+
+#: el/push.csv:19 
+msgid "The duration limit must be higher than the sent date"
+msgstr "Το όριο διαρκείας, πρέπει να είναι μεταγενέστερο της ημ/νίας αποστολής"
+
+#: el/push.csv:20 
+msgid "Your app must be published to send a push notification."
+msgstr "Η εφαρμογή σας θα πρέπει να έχει δημοσιευθεί για να στείλετε μήνυμα Push."
+
+#: el/push.csv:21 
+msgid "Your message has been saved successfully and will be sent at the entered date"
+msgstr "Το μήνυμά σας αποθηκεύτηκε επιτυχώς και θα αποσταλεί την ορισμένη ημ/νία"
+
+#: el/push.csv:22 
+msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgstr "Το μήνυμά σας αποθηκεύτηκε επιτυχώς και θα αποσταλεί σε λίγα λεπτά"
+
+#: el/push.csv:23 
+msgid "and users entering the area"
+msgstr "και χρήστες που εισέρχονται στην περιοχή"
+
+#: el/push.csv:24 
+msgid "for a limited period"
+msgstr "για περιορισμένη περίοδο"
+
+#: el/push.csv:25 
+msgid "now"
+msgstr "τώρα"
+
+#: el/push.csv:26 
+msgid "on a specific date"
+msgstr "σε συγκεκριμένη ημ/νία"
+

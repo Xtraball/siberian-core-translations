@@ -1,0 +1,64 @@
+#: ru/socialgaming.csv:1 
+msgid "%s point%s"
+msgstr "%s пункт%s"
+
+#: ru/socialgaming.csv:2 
+msgid "A month"
+msgstr "Месяцы"
+
+#: ru/socialgaming.csv:3 
+msgid "A week"
+msgstr "Недели"
+
+#: ru/socialgaming.csv:4 
+msgid "Challengers"
+msgstr "Претенденты"
+
+#: ru/socialgaming.csv:5 
+msgid "Current game"
+msgstr "Текущая игра"
+
+#: ru/socialgaming.csv:6 
+msgid "Currently no challengers"
+msgstr "В настоящее время отсутствуют претенденты"
+
+#: ru/socialgaming.csv:7 
+msgid "Game Name"
+msgstr "Название игры"
+
+#: ru/socialgaming.csv:8 
+msgid "Game successfully saved"
+msgstr "Игра успешно сохранена"
+
+#: ru/socialgaming.csv:9 
+msgid "Next game"
+msgstr "Следующая игра"
+
+#: ru/socialgaming.csv:10 
+msgid "On the"
+msgstr "На"
+
+#: ru/socialgaming.csv:11 
+msgid "Period"
+msgstr "Период"
+
+#: ru/socialgaming.csv:12 
+msgid "Periodicity"
+msgstr "Периодичность"
+
+#: ru/socialgaming.csv:13 
+msgid "Publication date"
+msgstr "Дата публикации"
+
+#: ru/socialgaming.csv:14 
+msgid "Rank of the month"
+msgstr "Звание месяца"
+
+#: ru/socialgaming.csv:15 
+msgid "Rank of the week"
+msgstr "Звание недели"
+
+#: ru/socialgaming.csv:16 
+msgid "Team Leader"
+msgstr "Лидер группы"
+

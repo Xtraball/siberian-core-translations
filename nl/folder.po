@@ -1,0 +1,60 @@
+#: nl/folder.csv:1 
+msgid "Add a page"
+msgstr "Voeg pagina in"
+
+#: nl/folder.csv:2 
+msgid "Click on"
+msgstr "Klik op"
+
+#: nl/folder.csv:3 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Klik op een pagina om deze aan een map toe te voegen <span id="folder_name" class="folder_name">"%s"</span>"
+
+#: nl/folder.csv:4 
+msgid "Click on a page to add it to the folder"
+msgstr "Klik op een pagina om deze aan een map toe te voegen"
+
+#: nl/folder.csv:5 
+msgid "Close mobile display"
+msgstr "Sluit mobiele weergave"
+
+#: nl/folder.csv:6 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Deze map en alle submappen verwijderen?"
+
+#: nl/folder.csv:7 
+msgid "Folder title is required"
+msgstr "Maptitel is vereist"
+
+#: nl/folder.csv:8 
+msgid "Folders"
+msgstr "Mappen"
+
+#: nl/folder.csv:9 
+msgid "Mobile display"
+msgstr "Mobiele weergave"
+
+#: nl/folder.csv:10 
+msgid "New folder"
+msgstr "Nieuwe map"
+
+#: nl/folder.csv:11 
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+#: nl/folder.csv:12 
+msgid "You cannot add this feature"
+msgstr "U kunt dit kenmerk niet toevoegen "
+
+#: nl/folder.csv:13 
+msgid "You must first complete the current category creation process"
+msgstr "U moet eerst het huidige categorieën creatieproces voltooien"
+
+#: nl/folder.csv:14 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "U verliest alle niet-opgeslagen wijzigingen, doorgaan?"
+
+#: nl/folder.csv:15 
+msgid "to add a folder."
+msgstr "een map toevoegen"
+

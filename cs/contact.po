@@ -1,0 +1,68 @@
+#: cs/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "Při ukládání kontaktních informací došlo k chybě."
+
+#: cs/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "Při odesílání Vaší zprávy došlo k chybě. Zkuste to prosím později."
+
+#: cs/contact.csv:3 
+msgid "And his phone number:"
+msgstr "Telefonní číslo:"
+
+#: cs/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Opravdu chcete odstranit obrázek?"
+
+#: cs/contact.csv:5 
+msgid "City"
+msgstr "Město"
+
+#: cs/contact.csv:6 
+msgid "Contact information"
+msgstr "Kontaktní informace"
+
+#: cs/contact.csv:7 
+msgid "Here is his email:"
+msgstr "Kontaktní email:"
+
+#: cs/contact.csv:8 
+msgid "Here is his message:"
+msgstr "Zde je zpráva/dotaz:"
+
+#: cs/contact.csv:9 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Vyplňte prosím následující údaje: <br />"
+
+#: cs/contact.csv:10 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: cs/contact.csv:11 
+msgid "Website"
+msgstr "Webová stránka"
+
+#: cs/contact.csv:12 
+msgid "You have received a message from a contact:"
+msgstr "Obdželi jste zprávu od:"
+
+#: cs/contact.csv:13 
+msgid "Your email"
+msgstr "Váš e-mail"
+
+#: cs/contact.csv:14 
+msgid "Your message has been sent"
+msgstr "Vaše zpráva byla odeslána"
+
+#: cs/contact.csv:15 
+msgid "Your request"
+msgstr "Zpráva"
+
+#: cs/contact.csv:16 
+msgid "Zip code"
+msgstr "PSČ"
+
+#: cs/contact.csv:17 
+msgid "﻿An error occurred while saving your contact informations."
+msgstr "Při ukládání kontaktních informací došlo k chybě."
+

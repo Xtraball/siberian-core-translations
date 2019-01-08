@@ -1,0 +1,80 @@
+#: cs/sales.csv:1 
+msgid "Action"
+msgstr "Akce"
+
+#: cs/sales.csv:2 
+msgid "App Name"
+msgstr "Název aplikace"
+
+#: cs/sales.csv:3 
+msgid "Client"
+msgstr "Zákazník"
+
+#: cs/sales.csv:4 
+msgid "Date"
+msgstr "Datum"
+
+#: cs/sales.csv:5 
+msgid "Invoice"
+msgstr "Faktura"
+
+#: cs/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Faktura %s"
+
+#: cs/sales.csv:7 
+msgid "Invoice N°"
+msgstr "Faktura č."
+
+#: cs/sales.csv:8 
+msgid "Invoice NÂ°"
+msgstr "Faktura č."
+
+#: cs/sales.csv:9 
+msgid "List of your invoices"
+msgstr "Seznam faktur"
+
+#: cs/sales.csv:10 
+msgid "My Invoices"
+msgstr "Moje faktury"
+
+#: cs/sales.csv:11 
+msgid "Order"
+msgstr "Objednávka"
+
+#: cs/sales.csv:12 
+msgid "Orders"
+msgstr "Objednávky"
+
+#: cs/sales.csv:13 
+msgid "Paid At"
+msgstr "Zaplaceno"
+
+#: cs/sales.csv:14 
+msgid "Paid at:"
+msgstr "Zaplaceno:"
+
+#: cs/sales.csv:15 
+msgid "Price Excl. Tax"
+msgstr "Cena bez DPH"
+
+#: cs/sales.csv:16 
+msgid "Qty"
+msgstr "Množství"
+
+#: cs/sales.csv:17 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Tato funkce zatím není připravena. Zkuste to prosím později."
+
+#: cs/sales.csv:18 
+msgid "Total Excl. Tax"
+msgstr "Celkem bez DPH"
+
+#: cs/sales.csv:19 
+msgid "You don't have any invoices yet"
+msgstr "Zatím nemáte žádné faktury"
+
+#: cs/sales.csv:20 
+msgid "﻿Action"
+msgstr "Akce"
+

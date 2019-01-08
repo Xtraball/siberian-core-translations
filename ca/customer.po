@@ -1,0 +1,172 @@
+#: ca/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "% S - La creació de comptes"
+
+#: ca/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "% S - La seva nova contrasenya"
+
+#: ca/customer.csv:3 
+msgid "A request to reset your password has been made."
+msgstr "Una sol·licitud per restablir la contrasenya s'ha fet."
+
+#: ca/customer.csv:4 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "S'ha produït un error en connectar amb el teu compte de Facebook. Torneu-ho de nou més tard"
+
+#: ca/customer.csv:5 
+msgid "Are you sure you want to remove this user?"
+msgstr "Segur que vols eliminar aquest usuari?"
+
+#: ca/customer.csv:6 
+msgid "Change Password"
+msgstr "Canviar La Contrasenya"
+
+#: ca/customer.csv:7 
+msgid "Congratulations,"
+msgstr "Felicitats,"
+
+#: ca/customer.csv:8 
+msgid "Create"
+msgstr "Crear"
+
+#: ca/customer.csv:9 
+msgid "Create a new user"
+msgstr "Crea un nou usuari"
+
+#: ca/customer.csv:10 
+msgid "Create an account"
+msgstr "Crea un compte"
+
+#: ca/customer.csv:11 
+msgid "Customer"
+msgstr "Client"
+
+#: ca/customer.csv:12 
+msgid "Customers"
+msgstr "Clients"
+
+#: ca/customer.csv:13 
+msgid "Disconnect"
+msgstr "Desconnectar"
+
+#: ca/customer.csv:14 
+msgid "Edit the user %s"
+msgstr "Editeu l'usuari% s"
+
+#: ca/customer.csv:15 
+msgid "First name"
+msgstr "Nom de pila"
+
+#: ca/customer.csv:16 
+msgid "Forgot your password?"
+msgstr "Perdut la contrasenya?"
+
+#: ca/customer.csv:17 
+msgid "Gender"
+msgstr "Gènere"
+
+#: ca/customer.csv:18 
+msgid "Here are your credentials:"
+msgstr "Aquí estan els seus credencials:"
+
+#: ca/customer.csv:19 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Accepto <u> la política de privacitat </ u>"
+
+#: ca/customer.csv:20 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Si té algun problema, no dubti en contactar amb nosaltres:"
+
+#: ca/customer.csv:21 
+msgid "Last name"
+msgstr "Cognom"
+
+#: ca/customer.csv:22 
+msgid "Login:"
+msgstr "Iniciar Sessió:"
+
+#: ca/customer.csv:23 
+msgid "Miss"
+msgstr "Senyoreta"
+
+#: ca/customer.csv:24 
+msgid "Mr"
+msgstr "Sr"
+
+#: ca/customer.csv:25 
+msgid "Mrs"
+msgstr "Sra"
+
+#: ca/customer.csv:26 
+msgid "My Account"
+msgstr "El meu compte"
+
+#: ca/customer.csv:27 
+msgid "My application's users"
+msgstr "Els usuaris de la meva sol·licitud"
+
+#: ca/customer.csv:28 
+msgid "Old Password"
+msgstr "Contrasenya Anterior"
+
+#: ca/customer.csv:29 
+msgid "Or with your account"
+msgstr "O amb el vostre compte"
+
+#: ca/customer.csv:30 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Introduïu la vostra adreça de correu electrònic. T'enviarem la contrasenya ara."
+
+#: ca/customer.csv:31 
+msgid "Please log in with your mobile phone"
+msgstr "Si us plau, accedeixi amb el seu telèfon mòbil"
+
+#: ca/customer.csv:32 
+msgid "Privacy Policy"
+msgstr "Política De Privadesa"
+
+#: ca/customer.csv:33 
+msgid "See you soon,"
+msgstr "Fins aviat,"
+
+#: ca/customer.csv:34 
+msgid "Show me in ranking"
+msgstr "Mostreu-me en el rànquing"
+
+#: ca/customer.csv:35 
+msgid "The old email address does not match the entered email address."
+msgstr "Mostreu-me en el rànquing"
+
+#: ca/customer.csv:36 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Aquest usuari pot accedir a les pàgines bloquejades per la característica "Locker""
+
+#: ca/customer.csv:37 
+msgid "This user is visible in ranking"
+msgstr "Aquest usuari és visible en el rànquing"
+
+#: ca/customer.csv:38 
+msgid "User"
+msgstr "Usuari"
+
+#: ca/customer.csv:39 
+msgid "User Information"
+msgstr "Informació de l'usuari"
+
+#: ca/customer.csv:40 
+msgid "Users"
+msgstr "Usuaris"
+
+#: ca/customer.csv:41 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Ho sentim però el compte% s ja està vinculada a un dels nostres clients"
+
+#: ca/customer.csv:42 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "S'ha creat el seu compte. Amb aquest compte, vostè serà capaç de gaudir de grans ofertes disponibles a la nostra aplicació."
+
+#: ca/customer.csv:43 
+msgid "Your account has been successfully saved"
+msgstr "El seu compte ha estat guardat amb èxit"
+

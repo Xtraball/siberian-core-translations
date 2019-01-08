@@ -1,0 +1,188 @@
+#: base/customer.csv:1 
+msgid "A request to reset your password has been made."
+msgstr "A request to reset your password has been made."
+
+#: base/customer.csv:2 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "An error occurred while connecting to your Facebook account. Please try again later"
+
+#: base/customer.csv:3 
+msgid "Are you sure you want to remove this user?"
+msgstr "Are you sure you want to remove this user?"
+
+#: base/customer.csv:4 
+msgid "Change Password"
+msgstr "Change Password"
+
+#: base/customer.csv:5 
+msgid "Civility"
+msgstr "Civility"
+
+#: base/customer.csv:6 
+msgid "Congratulations,"
+msgstr "Congratulations,"
+
+#: base/customer.csv:7 
+msgid "Create"
+msgstr "Create"
+
+#: base/customer.csv:8 
+msgid "Create a new user"
+msgstr "Create a new user"
+
+#: base/customer.csv:9 
+msgid "Customer"
+msgstr "Customer"
+
+#: base/customer.csv:10 
+msgid "Customers"
+msgstr "Customers"
+
+#: base/customer.csv:11 
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: base/customer.csv:12 
+msgid "Edit the user %s"
+msgstr "Edit the user %s"
+
+#: base/customer.csv:13 
+msgid "First name"
+msgstr "First name"
+
+#: base/customer.csv:14 
+msgid "Here are your credentials:"
+msgstr "Here are your credentials:"
+
+#: base/customer.csv:15 
+msgid "I accept the privacy policy"
+msgstr "I accept the privacy policy"
+
+#: base/customer.csv:16 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "If you encounter any problems, do not hesitate to contact us:"
+
+#: base/customer.csv:17 
+msgid "Last name"
+msgstr "Last name"
+
+#: base/customer.csv:18 
+msgid "Login:"
+msgstr "Login:"
+
+#: base/customer.csv:19 
+msgid "Log-in with Facebook"
+msgstr "Log-in with Facebook"
+
+#: base/customer.csv:20 
+msgid "Miss"
+msgstr "Miss"
+
+#: base/customer.csv:21 
+msgid "Mr"
+msgstr "Mr"
+
+#: base/customer.csv:22 
+msgid "Mrs"
+msgstr "Mrs"
+
+#: base/customer.csv:23 
+msgid "My Account"
+msgstr "My Account"
+
+#: base/customer.csv:24 
+msgid "My application's users"
+msgstr "My application's users"
+
+#: base/customer.csv:25 
+msgid "No user for now."
+msgstr "No user for now."
+
+#: base/customer.csv:26 
+msgid "No user match your request."
+msgstr "No user match your request."
+
+#: base/customer.csv:27 
+msgid "Or with your account"
+msgstr "Or with your account"
+
+#: base/customer.csv:28 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Please enter your email address. We'll send you your password right now."
+
+#: base/customer.csv:29 
+msgid "Please log in with your mobile phone"
+msgstr "Please log in with your mobile phone"
+
+#: base/customer.csv:30 
+msgid "See you soon,"
+msgstr "See you soon,"
+
+#: base/customer.csv:31 
+msgid "Show me in ranking"
+msgstr "Show me in ranking"
+
+#: base/customer.csv:32 
+msgid "The old email address does not match the entered email address."
+msgstr "The old email address does not match the entered email address."
+
+#: base/customer.csv:33 
+msgid "This user is visible in ranking"
+msgstr "This user is visible in ranking"
+
+#: base/customer.csv:34 
+msgid "Title"
+msgstr "Title"
+
+#: base/customer.csv:35 
+msgid "User"
+msgstr "User"
+
+#: base/customer.csv:36 
+msgid "User Information"
+msgstr "User Information"
+
+#: base/customer.csv:37 
+msgid "Users"
+msgstr "Users"
+
+#: base/customer.csv:38 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "We are sorry but the %s account is already linked to one of our customers"
+
+#: base/customer.csv:39 
+msgid "We are sorry but this nickname is already used"
+msgstr "We are sorry but this nickname is already used"
+
+#: base/customer.csv:40 
+msgid "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum"
+msgstr "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum"
+
+#: base/customer.csv:41 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+
+#: base/customer.csv:42 
+msgid "You must agree to our privacy policy to create an account."
+msgstr "You must agree to our privacy policy to create an account."
+
+#: base/customer.csv:43 
+msgid "You must fill firstname and lastname fields."
+msgstr "You must fill firstname and lastname fields."
+
+#: base/customer.csv:44 
+msgid "Your account has been successfully saved"
+msgstr "Your account has been successfully saved"
+
+#: base/customer.csv:45 
+msgid "Your points"
+msgstr "Your points"
+
+#: base/customer.csv:46 
+msgid "%s - Account creation"
+msgstr "%s - Account creation"
+
+#: base/customer.csv:47 
+msgid "%s - Your new password"
+msgstr "%s - Your new password"
+

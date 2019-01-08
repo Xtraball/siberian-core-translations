@@ -1,0 +1,192 @@
+#: de/customer.csv:1 
+msgid "%s - Account creation"
+msgstr "%s - Kontoerstellung"
+
+#: de/customer.csv:2 
+msgid "%s - Your new password"
+msgstr "%s - Ihr neues Passwort"
+
+#: de/customer.csv:3 
+msgid "%s – Account creation"
+msgstr "%s - Konto-Erstellung"
+
+#: de/customer.csv:4 
+msgid "A request to reset your password has been made."
+msgstr "Eine Anforderung zum Zurücksetzen Ihres Passworts erzielt worden."
+
+#: de/customer.csv:5 
+msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgstr "Während die Verbindung zu Ihrem Facebook-Account hergestellt wurde ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+
+#: de/customer.csv:6 
+msgid "Are you sure you want to remove this user?"
+msgstr "Bist du sicher, dass Sie diesen Benutzer entfernen möchten?"
+
+#: de/customer.csv:7 
+msgid "Change Password"
+msgstr "Passwort ändern"
+
+#: de/customer.csv:8 
+msgid "Congratulations,"
+msgstr "Herzlichen Glückwunsch,"
+
+#: de/customer.csv:9 
+msgid "Create"
+msgstr "Erstellen"
+
+#: de/customer.csv:10 
+msgid "Create a new user"
+msgstr "Einen neuen Benutzer erstellen"
+
+#: de/customer.csv:11 
+msgid "Create an account"
+msgstr "Erstellen Sie ein Konto"
+
+#: de/customer.csv:12 
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+#: de/customer.csv:13 
+msgid "Customer"
+msgstr "Kunde"
+
+#: de/customer.csv:14 
+msgid "Customers"
+msgstr "Kunden"
+
+#: de/customer.csv:15 
+msgid "Disconnect"
+msgstr "Trennen Sie"
+
+#: de/customer.csv:16 
+msgid "Edit the user %s"
+msgstr "Bearbeiten des Benutzers %s"
+
+#: de/customer.csv:17 
+msgid "First name"
+msgstr "Vorname"
+
+#: de/customer.csv:18 
+msgid "Forgot your password?"
+msgstr "Passwort vergessen ?"
+
+#: de/customer.csv:19 
+msgid "Gender"
+msgstr "Geschlecht"
+
+#: de/customer.csv:20 
+msgid "Here are your credentials:"
+msgstr "Hier sind Ihre Anmeldeinformationen:"
+
+#: de/customer.csv:21 
+msgid "I accept the <u>privacy policy</u>"
+msgstr "Ich akzeptiere die <u>Datenschutzbestimmungen</u>"
+
+#: de/customer.csv:22 
+msgid "If you encounter any problems, do not hesitate to contact us:"
+msgstr "Wenn Sie Probleme haben, zögern Sie nicht uns zu kontaktieren:"
+
+#: de/customer.csv:23 
+msgid "Last name"
+msgstr "Nachname"
+
+#: de/customer.csv:24 
+msgid "Log-in"
+msgstr "Log-in"
+
+#: de/customer.csv:25 
+msgid "Login:"
+msgstr "Login:"
+
+#: de/customer.csv:26 
+msgid "Miss"
+msgstr "Miss"
+
+#: de/customer.csv:27 
+msgid "Mr"
+msgstr "Herr"
+
+#: de/customer.csv:28 
+msgid "Mrs"
+msgstr "Frau"
+
+#: de/customer.csv:29 
+msgid "My Account"
+msgstr "Ihr Konto"
+
+#: de/customer.csv:30 
+msgid "My application's users"
+msgstr "Meine Anwendung Benutzer"
+
+#: de/customer.csv:31 
+msgid "New password"
+msgstr "Neues Passwort"
+
+#: de/customer.csv:32 
+msgid "Old"
+msgstr "alt"
+
+#: de/customer.csv:33 
+msgid "Old Password"
+msgstr "Altes Passwort"
+
+#: de/customer.csv:34 
+msgid "Or with your account"
+msgstr "Oder mit Ihrem Konto"
+
+#: de/customer.csv:35 
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein. Ihr Passwort wird Ihnen per E-Mail zugestellt."
+
+#: de/customer.csv:36 
+msgid "Please log in with your mobile phone"
+msgstr "Bitte melden Sie sich mit Ihrem Mobiltelefon an."
+
+#: de/customer.csv:37 
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: de/customer.csv:38 
+msgid "See you soon,"
+msgstr "Bis bald"
+
+#: de/customer.csv:39 
+msgid "Show me in ranking"
+msgstr "Zeigen Sie mir die Rangfolge"
+
+#: de/customer.csv:40 
+msgid "The old email address does not match the entered email address."
+msgstr "Die alte e-Mail-Adresse stimmt nicht überein, die eingegebene Email-Adresse."
+
+#: de/customer.csv:41 
+msgid "This user can access the pages locked by the "Locker" feature"
+msgstr "Benutzer kann die Funktion des "Locker" gesperrten Seiten zugreifen."
+
+#: de/customer.csv:42 
+msgid "This user is visible in ranking"
+msgstr "Dieser Benutzer ist sichtbar im ranking"
+
+#: de/customer.csv:43 
+msgid "User"
+msgstr "Benutzer"
+
+#: de/customer.csv:44 
+msgid "User Information"
+msgstr "Benutzerinformationen"
+
+#: de/customer.csv:45 
+msgid "Users"
+msgstr "Benutzer"
+
+#: de/customer.csv:46 
+msgid "We are sorry but the %s account is already linked to one of our customers"
+msgstr "Es tut uns leid, aber die %s-Konto ist bereits mit einem unserer Kunden verbunden"
+
+#: de/customer.csv:47 
+msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgstr "Sie haben Ihr Konto erstellt. Mit diesem Konto werden Sie in den Genuss von tollen Angeboten in unserer Anwendung verfügbar."
+
+#: de/customer.csv:48 
+msgid "Your account has been successfully saved"
+msgstr "Ihr Konto wurde erfolgreich gespeichert"
+

@@ -1,0 +1,72 @@
+#: nl/system.csv:1 
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Bestandstypen:</b> %s<br /><b>Aanbevolen grootte:</b> %s"
+
+#: nl/system.csv:2 
+msgid "Click here to send your favicon"
+msgstr "Klik hier om je favicon te uploaden"
+
+#: nl/system.csv:3 
+msgid "Click here to send your logo"
+msgstr "Klik hier om uw logo te uploaden"
+
+#: nl/system.csv:4 
+msgid "Communications"
+msgstr "Communicatie"
+
+#: nl/system.csv:5 
+msgid "Current favicon"
+msgstr "Huidige favicon"
+
+#: nl/system.csv:6 
+msgid "Current logo"
+msgstr "Huidig logo"
+
+#: nl/system.csv:7 
+msgid "Display a link to your clients to your support platform"
+msgstr "Toont een link aan uw klanten naar uw helpdesk"
+
+#: nl/system.csv:8 
+msgid "Drop your favicon here"
+msgstr "Laat hier uw favicon vallen"
+
+#: nl/system.csv:9 
+msgid "Drop your logo here"
+msgstr "Laat hier uw logo vallen"
+
+#: nl/system.csv:10 
+msgid "Sales"
+msgstr "Verkoop"
+
+#: nl/system.csv:11 
+msgid "Sales Email Address"
+msgstr "Verkoop – e-mailadres"
+
+#: nl/system.csv:12 
+msgid "Sender's email address of the emails sent by the site to your clients"
+msgstr "E-mail adres van de  e-mails die door de site word verzonden naar uw klanten"
+
+#: nl/system.csv:13 
+msgid "Sender's name of the emails sent by the site to your clients"
+msgstr "Naam van de afzender die door de site naar uw klanten word verzonden"
+
+#: nl/system.csv:14 
+msgid "Support Email Address"
+msgstr "Helpdesk email adres"
+
+#: nl/system.csv:15 
+msgid "The folder /images/default is not writable."
+msgstr "De map / images / default is niet beschrijfbaar."
+
+#: nl/system.csv:16 
+msgid "Your Location"
+msgstr "Uw Locatie"
+
+#: nl/system.csv:17 
+msgid "Your Platform"
+msgstr "Uw Platform"
+
+#: nl/system.csv:18 
+msgid "Your company"
+msgstr "Uw bedrijf"
+

@@ -1,0 +1,8 @@
+#: pt_BR/sourcecode.csv:1 
+msgid "Source Code"
+msgstr "Página Personalizada"
+
+#: pt_BR/sourcecode.csv:2 
+msgid "Insert your HTML code:"
+msgstr "Inserir seu código HTML:"
+

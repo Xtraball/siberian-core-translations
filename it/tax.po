@@ -1,0 +1,28 @@
+#: it/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Lista delle Tue tasse"
+
+#: it/tax.csv:2 
+msgid "Please select a country"
+msgstr "Seleziona un paese"
+
+#: it/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Perfavore,inserisci un'aliquota fiscale"
+
+#: it/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Perfavore,inserisci una'aliquota fiscale valida"
+
+#: it/tax.csv:5 
+msgid "Rate"
+msgstr "Aliquota"
+
+#: it/tax.csv:6 
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: it/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "Non hai ancora creato nessuna aliquota fiscale"
+

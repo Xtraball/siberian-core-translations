@@ -1,0 +1,12 @@
+#: it/api.csv:1 
+msgid "API Keys"
+msgstr "API Keys"
+
+#: it/api.csv:2 
+msgid "Api Keys"
+msgstr "API Keys"
+
+#: it/api.csv:3 
+msgid "Api Keys successfully saved"
+msgstr "Api Keys salvata correttamente"
+

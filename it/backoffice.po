@@ -1,0 +1,92 @@
+#: it/backoffice.csv:1 
+msgid "%d Unread Message"
+msgstr "%d messaggio non letto"
+
+#: it/backoffice.csv:2 
+msgid "%d Unread Messages"
+msgstr "%d messaggi non letti"
+
+#: it/backoffice.csv:3 
+msgid "Account"
+msgstr "Account"
+
+#: it/backoffice.csv:4 
+msgid "Change the password"
+msgstr "Cambia la password"
+
+#: it/backoffice.csv:5 
+msgid "Click to mark as not read"
+msgstr "Clicca per contrassegnare come non letto"
+
+#: it/backoffice.csv:6 
+msgid "Click to mark as read"
+msgstr "Clicca per contrassegnare come letto"
+
+#: it/backoffice.csv:7 
+msgid "Create a user"
+msgstr "Crau un user"
+
+#: it/backoffice.csv:8 
+msgid "Edit the account "%s""
+msgstr "Modifica account "%s""
+
+#: it/backoffice.csv:9 
+msgid "Edit the user"
+msgstr "Modifica user"
+
+#: it/backoffice.csv:10 
+msgid "Enter your credentials:"
+msgstr "Digita le tue credenziali:"
+
+#: it/backoffice.csv:11 
+msgid "Info"
+msgstr "Info"
+
+#: it/backoffice.csv:12 
+msgid "List of backoffice accounts"
+msgstr "Lista dei bacoffices accounts"
+
+#: it/backoffice.csv:13 
+msgid "List of the messages"
+msgstr "Lista dei messaggi"
+
+#: it/backoffice.csv:14 
+msgid "Login to your backoffice interface"
+msgstr "Accedi al backoffice"
+
+#: it/backoffice.csv:15 
+msgid "People who are allowed to access the backoffice"
+msgstr "Persone che hanno il permesso di accedere al backoffice"
+
+#: it/backoffice.csv:16 
+msgid "Publication access type"
+msgstr "Tipo di accesso alla pubblicazione"
+
+#: it/backoffice.csv:17 
+msgid "Siberian CMS"
+msgstr "Tiger App Creator"
+
+#: it/backoffice.csv:18 
+msgid "Sources code"
+msgstr "Sources code"
+
+#: it/backoffice.csv:19 
+msgid "This account can't be deleted, it's the only one"
+msgstr "Questo account non può essere eliminato, è l'unico account"
+
+#: it/backoffice.csv:20 
+msgid "User successfully deleted"
+msgstr "User cancellato correttamente"
+
+#: it/backoffice.csv:21 
+msgid "View Details"
+msgstr "Vedi dettagli"
+
+#: it/backoffice.csv:22 
+msgid "Your new password"
+msgstr "La tua nuova password"
+
+#: it/backoffice.csv:23 
+msgid "Your password"
+msgstr "La tua password"
+

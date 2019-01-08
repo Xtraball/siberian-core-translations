@@ -1,0 +1,164 @@
+#: nl/loyaltycard.csv:1 
+msgid " is now yours!"
+msgstr "Is nu van u"
+
+#: nl/loyaltycard.csv:2 
+msgid "%d validated points = "
+msgstr "%d goedgekeurde punten ="
+
+#: nl/loyaltycard.csv:3 
+msgid "1 loyalty point ="
+msgstr "1 Loyaliteit punt ="
+
+#: nl/loyaltycard.csv:4 
+msgid "1 point"
+msgstr "1 punt"
+
+#: nl/loyaltycard.csv:5 
+msgid "1 validated point = "
+msgstr "1 goedgekeurd punt ="
+
+#: nl/loyaltycard.csv:6 
+msgid "An error occurred while saving the password. Please try again later"
+msgstr "Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer het later opnieuw."
+
+#: nl/loyaltycard.csv:7 
+msgid "An error occurred while saving the password. Please try again later."
+msgstr "Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer het later opnieuw."
+
+#: nl/loyaltycard.csv:8 
+msgid "An error occurred while saving your loyalty card."
+msgstr "Er is een fout opgetreden tijdens het opslaan van uw klantenkaart."
+
+#: nl/loyaltycard.csv:9 
+msgid "An error occurred while saving your loyalty card. Please fill all fields in."
+msgstr "Er is een fout opgetreden tijdens het opslaan van uw klantenkaart. Vul alle velden in."
+
+#: nl/loyaltycard.csv:10 
+msgid "An error occurred while validating point. Please try again later."
+msgstr "Er is een fout opgetreden bij het keuren van de punten. Probeer het later opnieuw."
+
+#: nl/loyaltycard.csv:11 
+msgid "Card name"
+msgstr "Kaart naam"
+
+#: nl/loyaltycard.csv:12 
+msgid "Congratulations"
+msgstr "Gefeliciteerd"
+
+#: nl/loyaltycard.csv:13 
+msgid "Current card"
+msgstr "Huidige kaart"
+
+#: nl/loyaltycard.csv:14 
+msgid "Delete this password?"
+msgstr "Verwijder dit wachtwoord"
+
+#: nl/loyaltycard.csv:15 
+msgid "Employee's name:"
+msgstr "Naam van werknemer:"
+
+#: nl/loyaltycard.csv:16 
+msgid "Employee's name"
+msgstr "Naam van werknemer:"
+
+#: nl/loyaltycard.csv:17 
+msgid "Employee's password:"
+msgstr "Wachtwoord werknemer:"
+
+#: nl/loyaltycard.csv:18 
+msgid "Employee's password"
+msgstr "Wachtwoord werknemer"
+
+#: nl/loyaltycard.csv:19 
+msgid "Enter the password"
+msgstr "Vul het wachtwoord in"
+
+#: nl/loyaltycard.csv:20 
+msgid "My new loyalty card"
+msgstr "Mijn nieuwe klantenkaart "
+
+#: nl/loyaltycard.csv:21 
+msgid "My passwords"
+msgstr "Mijn wachtwoorden"
+
+#: nl/loyaltycard.csv:22 
+msgid "Number of points"
+msgstr "Aantal punten "
+
+#: nl/loyaltycard.csv:23 
+msgid "point to validate"
+msgstr "punten valideren"
+
+#: nl/loyaltycard.csv:24 
+msgid "points to validate"
+msgstr "punten valideren"
+
+#: nl/loyaltycard.csv:25 
+msgid "Please enter a name"
+msgstr "Vul een naam in"
+
+#: nl/loyaltycard.csv:26 
+msgid "Please enter the password"
+msgstr "Vul het wachtwoord in"
+
+#: nl/loyaltycard.csv:27 
+msgid "Please show your phone to the store person so that he enters his password"
+msgstr "laat je telefoon aan de winkel medewerker zien zodat hij zijn wachtwoord kan invullen"
+
+#: nl/loyaltycard.csv:28 
+msgid "Point%s successfully validated"
+msgstr "Punten%s met succes gekeurd"
+
+#: nl/loyaltycard.csv:29 
+msgid "Previous cards"
+msgstr "Vorige kaarten"
+
+#: nl/loyaltycard.csv:30 
+msgid "Reward"
+msgstr "Beloning"
+
+#: nl/loyaltycard.csv:31 
+msgid "We are sorry but this card is temporarily blocked"
+msgstr "Sorry uw kaart is tijdelijk geblokkeerd"
+
+#: nl/loyaltycard.csv:32 
+msgid "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
+msgstr "Verkeerd wachtwoord. Wees voorzichtig!  %d nog %s resterende pogingen vóór vergrendeling van uw kaart. Vraag aan het winkelpersoneel voor uw punt te valideren"
+
+#: nl/loyaltycard.csv:33 
+msgid "Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point"
+msgstr "Verkeerd wachtwoord. <br/> Wees voorzichtig!  %d nog %s resterende pogingen vóór vergrendeling van uw kaart. <br /> Vraag aan het winkelpersoneel voor uw punt te valideren"
+
+#: nl/loyaltycard.csv:34 
+msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
+msgstr "U hebt het aantal pogingen om punten te valideren overschreden. Uw kaart is geblokkeerd voor 24 uur"
+
+#: nl/loyaltycard.csv:35 
+msgid "You just finished your card"
+msgstr "U heeft uw kaart vol"
+
+#: nl/loyaltycard.csv:36 
+msgid "You must be logged in to validate points"
+msgstr "Je moet ingelogd zijn om punten te valideren"
+
+#: nl/loyaltycard.csv:37 
+msgid "Your loyalty card has been saved successfully"
+msgstr "Uw klantenkaart is succesvol opgeslagen"
+
+#: nl/loyaltycard.csv:38 
+msgid "Your password must be 4 digits"
+msgstr "Uw wachtwoord moet uit 4 cijfers bestaan"
+
+#: nl/loyaltycard.csv:39 
+msgid "point"
+msgstr "punt"
+
+#: nl/loyaltycard.csv:40 
+msgid "point to validate"
+msgstr "Punt te valideren"
+
+#: nl/loyaltycard.csv:41 
+msgid "points to validate"
+msgstr "Punten te valideren"
+

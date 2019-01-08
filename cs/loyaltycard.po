@@ -1,0 +1,156 @@
+#: cs/loyaltycard.csv:1 
+msgid " is now yours!"
+msgstr "je nyní Váš!"
+
+#: cs/loyaltycard.csv:2 
+msgid "%d validated points = "
+msgstr "%d ověřených bodů "
+
+#: cs/loyaltycard.csv:3 
+msgid "1 loyalty point ="
+msgstr "1 věrnostní bod =  "
+
+#: cs/loyaltycard.csv:4 
+msgid "1 point"
+msgstr "1 bod =  "
+
+#: cs/loyaltycard.csv:5 
+msgid "1 validated point = "
+msgstr "1 ověřený bod =  "
+
+#: cs/loyaltycard.csv:6 
+msgid "An error occurred while saving the password. Please try again later"
+msgstr "Při ukládání hesla došlo k chybě. Zkuste to prosím později"
+
+#: cs/loyaltycard.csv:7 
+msgid "An error occurred while saving the password. Please try again later."
+msgstr "Při ukládání hesla došlo k chybě. Zkuste to prosím později"
+
+#: cs/loyaltycard.csv:8 
+msgid "An error occurred while saving your loyalty card."
+msgstr "Při ukládání věrnostní karty došlo k chybě"
+
+#: cs/loyaltycard.csv:9 
+msgid "An error occurred while saving your loyalty card. Please fill all fields in."
+msgstr "Při ukládání věrnostní karty došlo k chybě. Vyplňte prosím všechna pole"
+
+#: cs/loyaltycard.csv:10 
+msgid "An error occurred while validating point. Please try again later."
+msgstr "Při ověřování bodu došlo k chybě. Zkuste to prosím později"
+
+#: cs/loyaltycard.csv:11 
+msgid "Card name"
+msgstr "Název karty (pro vás)"
+
+#: cs/loyaltycard.csv:12 
+msgid "Congratulations"
+msgstr "Gratulujeme"
+
+#: cs/loyaltycard.csv:13 
+msgid "Current card"
+msgstr "Součastný věrnostní program"
+
+#: cs/loyaltycard.csv:14 
+msgid "Delete this password?"
+msgstr "Smazat toto heslo?"
+
+#: cs/loyaltycard.csv:15 
+msgid "Employee's name"
+msgstr "Jméno zaměstnance"
+
+#: cs/loyaltycard.csv:16 
+msgid "Employee's name:"
+msgstr "Jméno zaměstnance:"
+
+#: cs/loyaltycard.csv:17 
+msgid "Employee's password"
+msgstr "Heslo zaměstnance"
+
+#: cs/loyaltycard.csv:18 
+msgid "Employee's password:"
+msgstr "Heslo zaměstnance:"
+
+#: cs/loyaltycard.csv:19 
+msgid "Enter the password"
+msgstr "Zadejte heslo"
+
+#: cs/loyaltycard.csv:20 
+msgid "My new loyalty card"
+msgstr "Nový věrnostní program"
+
+#: cs/loyaltycard.csv:21 
+msgid "My passwords"
+msgstr "Moje hesla"
+
+#: cs/loyaltycard.csv:22 
+msgid "Number of points"
+msgstr "Počet bodů (k odměně)"
+
+#: cs/loyaltycard.csv:23 
+msgid "Please enter a name"
+msgstr "Prosím, zadejte název"
+
+#: cs/loyaltycard.csv:24 
+msgid "Please enter the password"
+msgstr "Prosím, zadejte heslo"
+
+#: cs/loyaltycard.csv:25 
+msgid "Please show your phone to the store person so that he enters his password"
+msgstr "Požádejte prosím personál o vložení hesla k zapsání věrnostního bodu"
+
+#: cs/loyaltycard.csv:26 
+msgid "Point%s successfully validated"
+msgstr "Bod%s úspěšně ověřen"
+
+#: cs/loyaltycard.csv:27 
+msgid "Previous cards"
+msgstr "Předchozí věrnostní programy"
+
+#: cs/loyaltycard.csv:28 
+msgid "Reward"
+msgstr "Odměna"
+
+#: cs/loyaltycard.csv:29 
+msgid "We are sorry but this card is temporarily blocked"
+msgstr "Je nám líto, ale tato karta je dočasně blokována"
+
+#: cs/loyaltycard.csv:30 
+msgid "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
+msgstr "Chybné heslo. Buďte opatrní! %d zbývající pokusy%s před zablokováním karty. Požádejte personál o zadání hesla k ověření bodu"
+
+#: cs/loyaltycard.csv:31 
+msgid "Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point"
+msgstr "Chybné heslo.<br />Buďte opatrní! %d zbývající pokusy%s před zablokováním karty.<br /> Požádejte personál o zadání hesla k ověření bodu"
+
+#: cs/loyaltycard.csv:32 
+msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
+msgstr "Upps, překročili jste počet pokusů pro zadání hesla! Vaše karta je zablokována po dobu 24 hodin"
+
+#: cs/loyaltycard.csv:33 
+msgid "You just finished your card"
+msgstr "Právě jste nasbírali všechy body na Vaší kartě!"
+
+#: cs/loyaltycard.csv:34 
+msgid "You must be logged in to validate points"
+msgstr "K potvrzení věrnostních bodů musíte být přihlášeni"
+
+#: cs/loyaltycard.csv:35 
+msgid "Your loyalty card has been saved successfully"
+msgstr "Vaše věrnostní karta byla úspěšně uložena"
+
+#: cs/loyaltycard.csv:36 
+msgid "Your password must be 4 digits"
+msgstr "Heslo musí být 4 číslice"
+
+#: cs/loyaltycard.csv:37 
+msgid "point"
+msgstr "bod"
+
+#: cs/loyaltycard.csv:38 
+msgid "point to validate"
+msgstr "bod k ověření"
+
+#: cs/loyaltycard.csv:39 
+msgid "points to validate"
+msgstr "body k ověření"
+

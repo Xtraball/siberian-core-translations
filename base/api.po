@@ -1,0 +1,76 @@
+#: base/api.csv:1 
+msgid "API Keys"
+msgstr "API Keys"
+
+#: base/api.csv:2 
+msgid "Api Keys"
+msgstr "Api Keys"
+
+#: base/api.csv:3 
+msgid "Api Keys successfully saved"
+msgstr "Api Keys successfully saved"
+
+#: base/api.csv:4 
+msgid "Api Users"
+msgstr "Api Users"
+
+#: base/api.csv:5 
+msgid "Authenticate"
+msgstr "Authenticate"
+
+#: base/api.csv:6 
+msgid "Backoffice options"
+msgstr "Backoffice options"
+
+#: base/api.csv:7 
+msgid "Clear cache"
+msgstr "Clear cache"
+
+#: base/api.csv:8 
+msgid "Clear logs"
+msgstr "Clear logs"
+
+#: base/api.csv:9 
+msgid "Create a new user"
+msgstr "Create a new user"
+
+#: base/api.csv:10 
+msgid "Created At"
+msgstr "Created At"
+
+#: base/api.csv:11 
+msgid "Exists"
+msgstr "Exists"
+
+#: base/api.csv:12 
+msgid "Forgot password"
+msgstr "Forgot password"
+
+#: base/api.csv:13 
+msgid "Grant user"
+msgstr "Grant user"
+
+#: base/api.csv:14 
+msgid "List of your users"
+msgstr "List of your users"
+
+#: base/api.csv:15 
+msgid "Rebuild manifest"
+msgstr "Rebuild manifest"
+
+#: base/api.csv:16 
+msgid "Revoke user"
+msgstr "Revoke user"
+
+#: base/api.csv:17 
+msgid "Select API access"
+msgstr "Select API access"
+
+#: base/api.csv:18 
+msgid "Update"
+msgstr "Update"
+
+#: base/api.csv:19 
+msgid "You don't have any users yet"
+msgstr "You don't have any users yet"
+

@@ -1,0 +1,120 @@
+#: base/folder.csv:1 
+msgid "Add a page"
+msgstr "Add a page"
+
+#: base/folder.csv:2 
+msgid "Add feature"
+msgstr "Add feature"
+
+#: base/folder.csv:3 
+msgid "Allow line return in Title & Subtitles"
+msgstr "Allow line return in Title & Subtitles"
+
+#: base/folder.csv:4 
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr "By checking this, a search field will appear in your folder feature"
+
+#: base/folder.csv:5 
+msgid "Cancel"
+msgstr "Cancel"
+
+#: base/folder.csv:6 
+msgid "Click on"
+msgstr "Click on"
+
+#: base/folder.csv:7 
+msgid "Click on a feature to add it to the folder"
+msgstr "Click on a feature to add it to the folder"
+
+#: base/folder.csv:8 
+msgid "Click on a page to add it to the folder"
+msgstr "Click on a page to add it to the folder"
+
+#: base/folder.csv:9 
+msgid "Click on a page to add it to the folder <span id='folder_name' class='folder_name'>%s</span>"
+msgstr "Click on a page to add it to the folder <span id='folder_name' class='folder_name'>%s</span>"
+
+#: base/folder.csv:10 
+msgid "Close mobile display"
+msgstr "Close mobile display"
+
+#: base/folder.csv:11 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Delete this folder and all its subfolders?"
+
+#: base/folder.csv:12 
+msgid "Edit folder"
+msgstr "Edit folder"
+
+#: base/folder.csv:13 
+msgid "Enable search in folders"
+msgstr "Enable search in folders"
+
+#: base/folder.csv:14 
+msgid "Folder title is required"
+msgstr "Folder title is required"
+
+#: base/folder.csv:15 
+msgid "Folders"
+msgstr "Folders"
+
+#: base/folder.csv:16 
+msgid "Inherit global layout"
+msgstr "Inherit global layout"
+
+#: base/folder.csv:17 
+msgid "Mobile display"
+msgstr "Mobile display"
+
+#: base/folder.csv:18 
+msgid "New folder"
+msgstr "New folder"
+
+#: base/folder.csv:19 
+msgid "No results for your request."
+msgstr "No results for your request."
+
+#: base/folder.csv:20 
+msgid "Override layout"
+msgstr "Override layout"
+
+#: base/folder.csv:21 
+msgid "Search results"
+msgstr "Search results"
+
+#: base/folder.csv:22 
+msgid "Show cover"
+msgstr "Show cover"
+
+#: base/folder.csv:23 
+msgid "Show search field"
+msgstr "Show search field"
+
+#: base/folder.csv:24 
+msgid "Show title"
+msgstr "Show title"
+
+#: base/folder.csv:25 
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: base/folder.csv:26 
+msgid "Use card design"
+msgstr "Use card design"
+
+#: base/folder.csv:27 
+msgid "You cannot add this feature"
+msgstr "You cannot add this feature"
+
+#: base/folder.csv:28 
+msgid "You must first complete the current category creation process"
+msgstr "You must first complete the current category creation process"
+
+#: base/folder.csv:29 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "You will lose all unsaved changes, continue?"
+
+#: base/folder.csv:30 
+msgid "to add a folder."
+msgstr "to add a folder."
+

@@ -1,0 +1,36 @@
+#: es/rss.csv:1 
+msgid "Display feed pictures whenever possible"
+msgstr "RSS Mostrar imágenes siempre que sea posible"
+
+#: es/rss.csv:2 
+msgid "Enter a name and an URL address for this RSS feed"
+msgstr "Escriba un nombre y la dirección URL del Feed RSS"
+
+#: es/rss.csv:3 
+msgid "URL"
+msgstr "URL"
+
+#: es/rss.csv:4 
+msgid "Found feeds"
+msgstr "Lista de los Feeds encontrados"
+
+#: es/rss.csv:5 
+msgid "%s ago"
+msgstr "Hay %s"
+
+#: es/rss.csv:6 
+msgid "No RSS feed could be found"
+msgstr "No se encontró ningún Feed RSS "
+
+#: es/rss.csv:7 
+msgid "Please enter a title"
+msgstr "Por favor introduzca un título"
+
+#: es/rss.csv:8 
+msgid "An error occurred while saving your RSS feed"
+msgstr "Se ha producido un error al guardar su Feed RSS"
+
+#: es/rss.csv:9 
+msgid "RSS feed successfully saved"
+msgstr "Feed RSS guardado correctamente"
+

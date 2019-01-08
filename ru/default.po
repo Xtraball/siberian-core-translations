@@ -1,0 +1,1096 @@
+#: ru/default.csv:1 
+msgid "%s ago"
+msgstr "%s назад"
+
+#: ru/default.csv:2 
+msgid "404, page not found"
+msgstr "404, страница не найдена"
+
+#: ru/default.csv:3 
+msgid "APIs"
+msgstr "APIs"
+
+#: ru/default.csv:4 
+msgid "Accounts"
+msgstr "Аккаунт"
+
+#: ru/default.csv:5 
+msgid "Actions"
+msgstr "Действие"
+
+#: ru/default.csv:6 
+msgid "Add"
+msgstr "Добавлять"
+
+#: ru/default.csv:7 
+msgid "Add a"
+msgstr "Добавить"
+
+#: ru/default.csv:8 
+msgid "Add image"
+msgstr "Добавить фото"
+
+#: ru/default.csv:9 
+msgid "Address"
+msgstr "Адрес"
+
+#: ru/default.csv:10 
+msgid "All items"
+msgstr "Все детали"
+
+#: ru/default.csv:11 
+msgid "An error occurred during process. Please try again later."
+msgstr "Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:12 
+msgid "An error occurred during the process. Please try again later."
+msgstr "Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:13 
+msgid "An error occurred while loading places."
+msgstr "Произошла ошибка при загрузке места."
+
+#: ru/default.csv:14 
+msgid "An error occurred while loading. Please try again later."
+msgstr "Произошла ошибка при загрузке. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:15 
+msgid "An error occurred while loading. Please, try again later."
+msgstr "Произошла ошибка при загрузке. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:16 
+msgid "An error occurred while saving"
+msgstr "Произошла ошибка при сохранении"
+
+#: ru/default.csv:17 
+msgid "An error occurred while saving your account. Please try again later."
+msgstr "Произошла ошибка при сохранении вашего аккаунта. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:18 
+msgid "An error occurred while saving your picture. Please try againg later."
+msgstr "Произошла ошибка при сохранении вашего аккаунта. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:19 
+msgid "An error occurred while saving. Please try again later."
+msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:20 
+msgid "An error occurred while saving. Please, try again later."
+msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:21 
+msgid "An error occurred while uploading your file. Please, try again later."
+msgstr "Произошла ошибка при загрузке файла. Пожалуйста, повторите попытку позже."
+
+#: ru/default.csv:22 
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Произошла непредвиденная ошибка при расчете маршрута."
+
+#: ru/default.csv:23 
+msgid "Appearance"
+msgstr "Логотип"
+
+#: ru/default.csv:24 
+msgid "Application"
+msgstr "Приложение"
+
+#: ru/default.csv:25 
+msgid "Application Name"
+msgstr "Имя приложения"
+
+#: ru/default.csv:26 
+msgid "Applications"
+msgstr "Приложения"
+
+#: ru/default.csv:27 
+msgid "Are you sure you want to delete this element?"
+msgstr "Вы уверены, что хотите удалить этот элемент?"
+
+#: ru/default.csv:28 
+msgid "Are you sure you want to remove this account?"
+msgstr "Вы уверены, что хотите удалить этот аккаунт?"
+
+#: ru/default.csv:29 
+msgid "Authentication failed. Please check your email and/or your password"
+msgstr "Ошибка аутентификации. Пожалуйста, проверьте свою электронную почту или пароль"
+
+#: ru/default.csv:30 
+msgid "Back"
+msgstr "Назад"
+
+#: ru/default.csv:31 
+msgid "Background"
+msgstr "Фон"
+
+#: ru/default.csv:32 
+msgid "Browse"
+msgstr "Смотреть"
+
+#: ru/default.csv:33 
+msgid "Can only be used once"
+msgstr "Это предложение может быть использовано только один раз."
+
+#: ru/default.csv:34 
+msgid "Cancel"
+msgstr "Отменить"
+
+#: ru/default.csv:35 
+msgid "Cart"
+msgstr "Корзина"
+
+#: ru/default.csv:36 
+msgid "Change password"
+msgstr "Сменить пароль"
+
+#: ru/default.csv:37 
+msgid "City"
+msgstr "Город"
+
+#: ru/default.csv:38 
+msgid "City:"
+msgstr "Город:"
+
+#: ru/default.csv:39 
+msgid "Close"
+msgstr "Закрыть"
+
+#: ru/default.csv:40 
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ru/default.csv:41 
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ru/default.csv:42 
+msgid "Communication"
+msgstr "Связи"
+
+#: ru/default.csv:43 
+msgid "Company"
+msgstr "Компания"
+
+#: ru/default.csv:44 
+msgid "Coms"
+msgstr "Coms"
+
+#: ru/default.csv:45 
+msgid "Conditions"
+msgstr "Условия"
+
+#: ru/default.csv:46 
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: ru/default.csv:47 
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: ru/default.csv:48 
+msgid "Contact successfully added to your address book"
+msgstr "Обратный адрес успешно добавлен в вашу адресную книгу"
+
+#: ru/default.csv:49 
+msgid "Country"
+msgstr "Страна"
+
+#: ru/default.csv:50 
+msgid "Create"
+msgstr "Создать"
+
+#: ru/default.csv:51 
+msgid "Create a new account"
+msgstr "Создать новую учетную запись"
+
+#: ru/default.csv:52 
+msgid "Created at"
+msgstr "Создано "
+
+#: ru/default.csv:53 
+msgid "Currency"
+msgstr "Валюта"
+
+#: ru/default.csv:54 
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: ru/default.csv:55 
+msgid "Dashboard"
+msgstr "Панель упр."
+
+#: ru/default.csv:56 
+msgid "Date of birth"
+msgstr "Дата рождения"
+
+#: ru/default.csv:57 
+msgid "Date of birth:"
+msgstr "Дата рождения:"
+
+#: ru/default.csv:58 
+msgid "Default Languages"
+msgstr "Язык по умолчанию"
+
+#: ru/default.csv:59 
+msgid "Delete"
+msgstr "Удалить"
+
+#: ru/default.csv:60 
+msgid "Description"
+msgstr "Описание"
+
+#: ru/default.csv:61 
+msgid "Description:"
+msgstr "Описание:"
+
+#: ru/default.csv:62 
+msgid "Details"
+msgstr "Подробности"
+
+#: ru/default.csv:63 
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ru/default.csv:64 
+msgid "Editing"
+msgstr "Редактирование"
+
+#: ru/default.csv:65 
+msgid "Email"
+msgstr "Email"
+
+#: ru/default.csv:66 
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: ru/default.csv:67 
+msgid "Email:"
+msgstr "Email:"
+
+#: ru/default.csv:68 
+msgid "End at"
+msgstr "Окончание действия"
+
+#: ru/default.csv:69 
+msgid "Error : <br/>"
+msgstr "Ошибка: <br/>"
+
+#: ru/default.csv:70 
+msgid "Errors : <br/>"
+msgstr "Ошибки: <br/>"
+
+#: ru/default.csv:71 
+msgid "Export your customers"
+msgstr "Экспорт клиентов"
+
+#: ru/default.csv:72 
+msgid "Extension not allowed, '%s' only"
+msgstr "Расширение не допускается, '%s' только"
+
+#: ru/default.csv:73 
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ru/default.csv:74 
+msgid "Firstname"
+msgstr "Имя"
+
+#: ru/default.csv:75 
+msgid "Firstname:"
+msgstr "Имя:"
+
+#: ru/default.csv:76 
+msgid "Forgot your password ?"
+msgstr "Забыли пароль?"
+
+#: ru/default.csv:77 
+msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+msgstr "Забыли пароль? Не волнуйтесь! Просто введите свой адрес электронной почты, и мы вышлем вам новый прямо сейчас."
+
+#: ru/default.csv:78 
+msgid "General"
+msgstr "Главная"
+
+#: ru/default.csv:79 
+msgid "Hello,"
+msgstr "Привет,"
+
+#: ru/default.csv:80 
+msgid "Here is your new password:"
+msgstr "Вот ваш новый пароль:"
+
+#: ru/default.csv:81 
+msgid "How do you want to access the backoffice if you remove the only user remaining?"
+msgstr "Как вы хотите получить доступ к бэк-офис, нужно чтобы остался хотя бы один пользователь?"
+
+#: ru/default.csv:82 
+msgid "ID"
+msgstr "ID"
+
+#: ru/default.csv:83 
+msgid "Image not high enough, %spx minimum allowed."
+msgstr "Изображение не достаточно высокое, %spx минимально допустимое."
+
+#: ru/default.csv:84 
+msgid "Image not large enough, %spx minimum allowed."
+msgstr "Изображение не достаточно большое %spx минимально допустимое."
+
+#: ru/default.csv:85 
+msgid "Image not large enough, '%s' allowed."
+msgstr "Изображение не достаточно большое, '%s' допускается."
+
+#: ru/default.csv:86 
+msgid "Image too high, %spx maximum allowed."
+msgstr "Изображение слишком высокое, %spx максимально допустимое."
+
+#: ru/default.csv:87 
+msgid "Image too large, %spx maximum allowed."
+msgstr "Снимок слишком большой, %spx  максимально допустимое значение."
+
+#: ru/default.csv:88 
+msgid "Image too large, '%s' allowed."
+msgstr "Снимок слишком большой, '%s' допускается."
+
+#: ru/default.csv:89 
+msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
+msgstr "Для того, чтобы в полной мере насладиться нашими возможностями, мы рекомендуем вам использовать по крайней мере :. <br />"
+
+#: ru/default.csv:90 
+msgid "In order to publish your application, we need:<br />- "
+msgstr "Для того, чтобы опубликовать свое приложение, нам понадобится: <br /> -"
+
+#: ru/default.csv:91 
+msgid "Incorrect filetype."
+msgstr "Неправильный тип файла."
+
+#: ru/default.csv:92 
+msgid "Info successfully saved"
+msgstr "Информация успешно сохранена"
+
+#: ru/default.csv:93 
+msgid "Information"
+msgstr "Информация"
+
+#: ru/default.csv:94 
+msgid "Infos successfully saved"
+msgstr "Информация успешно сохранена"
+
+#: ru/default.csv:95 
+msgid "Insert a <br /><span class="bold">cover image</span>"
+msgstr "Вставьте <br /><span class="bold">баннер обложки</span>"
+
+#: ru/default.csv:96 
+msgid "Invalid place"
+msgstr "Неверное место"
+
+#: ru/default.csv:97 
+msgid "Invoices"
+msgstr "Счета"
+
+#: ru/default.csv:98 
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ru/default.csv:99 
+msgid "Lastname"
+msgstr "Фамилия"
+
+#: ru/default.csv:100 
+msgid "Lastname:"
+msgstr "Фамилия:"
+
+#: ru/default.csv:101 
+msgid "Like"
+msgstr "Нравится"
+
+#: ru/default.csv:102 
+msgid "Likes"
+msgstr "Нравятся"
+
+#: ru/default.csv:103 
+msgid "Link"
+msgstr "Ссылка"
+
+#: ru/default.csv:104 
+msgid "Load More"
+msgstr "Загрузить еще"
+
+#: ru/default.csv:105 
+msgid "Locate"
+msgstr "Навигация по карте"
+
+#: ru/default.csv:106 
+msgid "Location:"
+msgstr "Места"
+
+#: ru/default.csv:107 
+msgid "Log in"
+msgstr "Войти"
+
+#: ru/default.csv:108 
+msgid "Log-in"
+msgstr "Авторизоваться"
+
+#: ru/default.csv:109 
+msgid "Log-out"
+msgstr "Выход"
+
+#: ru/default.csv:110 
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: ru/default.csv:111 
+msgid "MM,d yy"
+msgstr "MM,d yy"
+
+#: ru/default.csv:112 
+msgid "MM/dd/y"
+msgstr "MM/dd/y"
+
+#: ru/default.csv:113 
+msgid "MM/dd/y 'at' hh:mm a"
+msgstr "MM/dd/y 'at' hh:mm a"
+
+#: ru/default.csv:114 
+msgid "MM/dd/y hh:mm a"
+msgstr "MM/dd/y hh:mm a"
+
+#: ru/default.csv:115 
+msgid "MM/dd/yy"
+msgstr "MM/dd/yy"
+
+#: ru/default.csv:116 
+msgid "MM/dd/yyyy"
+msgstr "MM/dd/yyyy"
+
+#: ru/default.csv:117 
+msgid "MMMM dd y"
+msgstr "MMMM dd y"
+
+#: ru/default.csv:118 
+msgid "Main category"
+msgstr "Главная категория"
+
+#: ru/default.csv:119 
+msgid "Make this image colorizable"
+msgstr "Сделать изображение с нормальными цветами"
+
+#: ru/default.csv:120 
+msgid "Manage"
+msgstr "Управлять"
+
+#: ru/default.csv:121 
+msgid "Map"
+msgstr "Карта"
+
+#: ru/default.csv:122 
+msgid "Maps"
+msgstr "Карты"
+
+#: ru/default.csv:123 
+msgid "Message from your app %s"
+msgstr "Сообщение из вашего приложения %s"
+
+#: ru/default.csv:124 
+msgid "Messages"
+msgstr "Сообщения"
+
+#: ru/default.csv:125 
+msgid "Modules"
+msgstr "Модули"
+
+#: ru/default.csv:126 
+msgid "More"
+msgstr "Ещё"
+
+#: ru/default.csv:127 
+msgid "My account"
+msgstr "Мой аккаунт"
+
+#: ru/default.csv:128 
+msgid "My invoices"
+msgstr "Мои счета"
+
+#: ru/default.csv:129 
+msgid "Name"
+msgstr "Имя"
+
+#: ru/default.csv:130 
+msgid "Never"
+msgstr "Никогда "
+
+#: ru/default.csv:131 
+msgid "New"
+msgstr "Новый"
+
+#: ru/default.csv:132 
+msgid "Next"
+msgstr "Далее"
+
+#: ru/default.csv:133 
+msgid "No"
+msgstr "Нет"
+
+#: ru/default.csv:134 
+msgid "No address to display on map."
+msgstr "Адрес не будет отображаться на карте."
+
+#: ru/default.csv:135 
+msgid "No place to display on map."
+msgstr "Нет этого места для отображения на карте."
+
+#: ru/default.csv:136 
+msgid "No results"
+msgstr "Нет результатов"
+
+#: ru/default.csv:137 
+msgid "No uploaded image"
+msgstr "Нет загруженного изображения"
+
+#: ru/default.csv:138 
+msgid "Nothing to display"
+msgstr "Ничего не отображать"
+
+#: ru/default.csv:139 
+msgid "Number"
+msgstr "Количество"
+
+#: ru/default.csv:140 
+msgid "OK"
+msgstr "ДА"
+
+#: ru/default.csv:141 
+msgid "OR"
+msgstr "ИЛИ"
+
+#: ru/default.csv:142 
+msgid "Ouch, this page doesn't exist"
+msgstr "Ой, этой страницы не существует"
+
+#: ru/default.csv:143 
+msgid "Password"
+msgstr "Пароль"
+
+#: ru/default.csv:144 
+msgid "Password:"
+msgstr "Пароль:"
+
+#: ru/default.csv:145 
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+#: ru/default.csv:146 
+msgid "Payment"
+msgstr "Оплата"
+
+#: ru/default.csv:147 
+msgid "Phone"
+msgstr "Телефон"
+
+#: ru/default.csv:148 
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: ru/default.csv:149 
+msgid "Photos"
+msgstr "Фото"
+
+#: ru/default.csv:150 
+msgid "Plans"
+msgstr "Тариф"
+
+#: ru/default.csv:151 
+msgid "Platform Name"
+msgstr "Имя платформы"
+
+#: ru/default.csv:152 
+msgid "Player"
+msgstr "Воспроизвести"
+
+#: ru/default.csv:153 
+msgid "Please enter a password"
+msgstr "Пожалуйста, введите пароль"
+
+#: ru/default.csv:154 
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите URL-адрес."
+
+#: ru/default.csv:155 
+msgid "Please enter a valid credit card number."
+msgstr "Пожалуйста, введите действительный номер кредитной карты."
+
+#: ru/default.csv:156 
+msgid "Please enter a valid date (ISO)."
+msgstr "Пожалуйста, введите дату (ISO)."
+
+#: ru/default.csv:157 
+msgid "Please enter a valid date."
+msgstr "Пожалуйста, введите дату."
+
+#: ru/default.csv:158 
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста, введите верный адрес"
+
+#: ru/default.csv:159 
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите действительный адрес электронной почты."
+
+#: ru/default.csv:160 
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите правильный номер."
+
+#: ru/default.csv:161 
+msgid "Please enter a valid url"
+msgstr "Пожалуйста, введите правильный URL"
+
+#: ru/default.csv:162 
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Пожалуйста, введите значение между {0} и {1} символов."
+
+#: ru/default.csv:163 
+msgid "Please enter a value between {0} and {1}."
+msgstr "Пожалуйста, введите значение между {0} и {1}."
+
+#: ru/default.csv:164 
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Пожалуйста, введите значение, большее или равное {0}."
+
+#: ru/default.csv:165 
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Пожалуйста, введите значение, которое меньше или равно {0}."
+
+#: ru/default.csv:166 
+msgid "Please enter at least {0} characters."
+msgstr "Пожалуйста, введите по крайней мере {0} символов."
+
+#: ru/default.csv:167 
+msgid "Please enter no more than {0} characters."
+msgstr "Пожалуйста, введите не более {0} символов."
+
+#: ru/default.csv:168 
+msgid "Please enter only digits."
+msgstr "Пожалуйста, введите только цифры."
+
+#: ru/default.csv:169 
+msgid "Please enter the same value again."
+msgstr "Пожалуйста, введите то же значение снова."
+
+#: ru/default.csv:170 
+msgid "Please enter your email address"
+msgstr "Пожалуйста, введите ваш адрес электронной почты"
+
+#: ru/default.csv:171 
+msgid "Please fill in the following fields:"
+msgstr "Пожалуйста, заполните следующие поля:"
+
+#: ru/default.csv:172 
+msgid "Please fix this field."
+msgstr "Пожалуйста, исправьте это поле."
+
+#: ru/default.csv:173 
+msgid "Please log in."
+msgstr "Пожалуйста, войдите."
+
+#: ru/default.csv:174 
+msgid "Please, enter a correct email address."
+msgstr "Пожалуйста, введите правильный адрес электронной почты."
+
+#: ru/default.csv:175 
+msgid "Please, enter a password."
+msgstr "Пожалуйста, введите пароль."
+
+#: ru/default.csv:176 
+msgid "Please, enter a valid date"
+msgstr "Пожалуйста, введите правильную дату"
+
+#: ru/default.csv:177 
+msgid "Podcast"
+msgstr "Подкаст"
+
+#: ru/default.csv:178 
+msgid "Podcast URL (iTunes format)"
+msgstr "Подкаст URL (формат Itunes)"
+
+#: ru/default.csv:179 
+msgid "Podcast type is invalid or can't be found"
+msgstr "Этот тип подкаста является недействительным или не может быть найден"
+
+#: ru/default.csv:180 
+msgid "Postcode"
+msgstr "Почтовый индекс"
+
+#: ru/default.csv:181 
+msgid "Postcode:"
+msgstr "Почтовый индекс:"
+
+#: ru/default.csv:182 
+msgid "Push"
+msgstr "Push"
+
+#: ru/default.csv:183 
+msgid "Required fields"
+msgstr "Обязательные для заполнения поля"
+
+#: ru/default.csv:184 
+msgid "Resize your picture"
+msgstr "Изменение размера изображения"
+
+#: ru/default.csv:185 
+msgid "Resize your picture:"
+msgstr "Изменение размера изображения:"
+
+#: ru/default.csv:186 
+msgid "SEND"
+msgstr "ОТПРАВИТЬ"
+
+#: ru/default.csv:187 
+msgid "Save"
+msgstr "Сохранить"
+
+#: ru/default.csv:188 
+msgid "Search"
+msgstr "Поиск"
+
+#: ru/default.csv:189 
+msgid "Select a country"
+msgstr "Выберите страну"
+
+#: ru/default.csv:190 
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: ru/default.csv:191 
+msgid "Send"
+msgstr "ОТПРАВИТЬ"
+
+#: ru/default.csv:192 
+msgid "Send your pictures"
+msgstr "Вставьте свои фотографии"
+
+#: ru/default.csv:193 
+msgid "Settings"
+msgstr "Настройки"
+
+#: ru/default.csv:194 
+msgid "Size:"
+msgstr "Размер:"
+
+#: ru/default.csv:195 
+msgid "Street"
+msgstr "Улица"
+
+#: ru/default.csv:196 
+msgid "Street:"
+msgstr "Улица:"
+
+#: ru/default.csv:197 
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: ru/default.csv:198 
+msgid "Support"
+msgstr "Поддержка"
+
+#: ru/default.csv:199 
+msgid "Support Link"
+msgstr "Ссылка поддержки"
+
+#: ru/default.csv:200 
+msgid "Tax"
+msgstr "Налог"
+
+#: ru/default.csv:201 
+msgid "Taxes"
+msgstr "Налоги"
+
+#: ru/default.csv:202 
+msgid "Text"
+msgstr "Текст"
+
+#: ru/default.csv:203 
+msgid "The account has been successfully saved"
+msgstr "Учетная запись была успешно сохранена"
+
+#: ru/default.csv:204 
+msgid "The address you're looking for does not exists."
+msgstr "Адрес, который вы ищете не существует."
+
+#: ru/default.csv:205 
+msgid "The email is required"
+msgstr "Требуется Email "
+
+#: ru/default.csv:206 
+msgid "The file '%s' does not exist"
+msgstr "Файл '%s' не существует"
+
+#: ru/default.csv:207 
+msgid "The image '%s' does not exist"
+msgstr "Изображение %s не существует"
+
+#: ru/default.csv:208 
+msgid "The image size '%s' could not be detected."
+msgstr "Размер изображения '%s' не соответствует"
+
+#: ru/default.csv:209 
+msgid "The old password does not match the entered password."
+msgstr "Старый пароль не соответствует введенному паролю."
+
+#: ru/default.csv:210 
+msgid "The password is required"
+msgstr "Требуется пароль"
+
+#: ru/default.csv:211 
+msgid "The password must be at least 6 characters"
+msgstr "Пароль должен быть не менее 6 символов"
+
+#: ru/default.csv:212 
+msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
+msgstr "Оплата была отменена, что то не так произошло? Не стесняйтесь обращаться к нам."
+
+#: ru/default.csv:213 
+msgid "This administrator does not exist"
+msgstr "Этот администратор не существует"
+
+#: ru/default.csv:214 
+msgid "This email address is already used"
+msgstr "Этот адрес электронной почты уже используется"
+
+#: ru/default.csv:215 
+msgid "This field is required"
+msgstr "Заполнение данного поля обязательно"
+
+#: ru/default.csv:216 
+msgid "This field is required."
+msgstr "Это поле обязательно к заполнению."
+
+#: ru/default.csv:217 
+msgid "This section is unlocked for mobile users only"
+msgstr "Этот раздел разблокирован для мобильных пользователей"
+
+#: ru/default.csv:218 
+msgid "Timezone"
+msgstr "Временная зона"
+
+#: ru/default.csv:219 
+msgid "Title"
+msgstr "название"
+
+#: ru/default.csv:220 
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ru/default.csv:221 
+msgid "Total"
+msgstr "Общий"
+
+#: ru/default.csv:222 
+msgid "Translations"
+msgstr "Переводы"
+
+#: ru/default.csv:223 
+msgid "Unable to add the contact to your address book"
+msgstr "Невозможно добавить контакт в адресную книгу"
+
+#: ru/default.csv:224 
+msgid "Unable to calculate the route."
+msgstr "Невозможно рассчитать маршрут."
+
+#: ru/default.csv:225 
+msgid "Unable to save image"
+msgstr "Невозможно сохранить изображение"
+
+#: ru/default.csv:226 
+msgid "Unrecognized image format"
+msgstr "Неизвестный формат изображения"
+
+#: ru/default.csv:227 
+msgid "Updated at"
+msgstr "Обновлено"
+
+#: ru/default.csv:228 
+msgid "Use this coupon"
+msgstr "Используйте этот купон"
+
+#: ru/default.csv:229 
+msgid "User"
+msgstr "Пользователь"
+
+#: ru/default.csv:230 
+msgid "User successfully saved"
+msgstr "Пользователь успешно сохранен"
+
+#: ru/default.csv:231 
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ru/default.csv:232 
+msgid "Users"
+msgstr "Пользователи"
+
+#: ru/default.csv:233 
+msgid "VAT Number"
+msgstr "ИНН"
+
+#: ru/default.csv:234 
+msgid "Validate"
+msgstr "Утвердить"
+
+#: ru/default.csv:235 
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: ru/default.csv:236 
+msgid "View"
+msgstr "Вид"
+
+#: ru/default.csv:237 
+msgid "We are sorry but this address is already used."
+msgstr "Мы сожалеем, но этот адрес уже используется."
+
+#: ru/default.csv:238 
+msgid "We are sorry but this email address already exists."
+msgstr "Мы сожалеем, но этот адрес уже существует."
+
+#: ru/default.csv:239 
+msgid "We are sorry but this feature is not available yet"
+msgstr "Мы сожалеем, но эта функция пока не доступна"
+
+#: ru/default.csv:240 
+msgid "Website"
+msgstr "Сайт"
+
+#: ru/default.csv:241 
+msgid "Yes"
+msgstr "ДА"
+
+#: ru/default.csv:242 
+msgid "You already have this user in your contact"
+msgstr "У вас уже есть этот пользователь с таким контактом"
+
+#: ru/default.csv:243 
+msgid "You are gone offline"
+msgstr "Вы вышли из интернета"
+
+#: ru/default.csv:244 
+msgid "You can upload a pem certificate only."
+msgstr "Вы можете загрузить только сертификат pem"
+
+#: ru/default.csv:245 
+msgid "You can upload a zip archive only."
+msgstr "Вы можете загрузить только ZIP архив."
+
+#: ru/default.csv:246 
+msgid "You can upload an icon only (.ico and .png)."
+msgstr "Вы можете загрузить иконку только в формате (.ico и .png)."
+
+#: ru/default.csv:247 
+msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
+msgstr "Вы можете загрузить изображение только в формате (.jpg, .jpeg, .gif и .png)."
+
+#: ru/default.csv:248 
+msgid "You can't upload more than one file at a time."
+msgstr "Вы не можете загрузить более одного файла одновременно."
+
+#: ru/default.csv:249 
+msgid "You must be logged in to post a comment"
+msgstr "Вы должны быть зарегистрированы, чтобы оставить комментарий."
+
+#: ru/default.csv:250 
+msgid "You must give the permission to the app to add a contact to your address book"
+msgstr "Вы должны дать разрешение приложению, чтобы добавить контакт в адресную книгу"
+
+#: ru/default.csv:251 
+msgid "You must share your location to access this page."
+msgstr "Вы должны сообщить свое местоположение для доступа к этой странице."
+
+#: ru/default.csv:252 
+msgid "Your browser is too old to view the content of our website.<br />"
+msgstr "Ваш браузер слишком стар, чтобы просмотреть содержимое нашего сайта. <br />"
+
+#: ru/default.csv:253 
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: ru/default.csv:254 
+msgid "Your email address"
+msgstr "Ваш адрес электронной почты "
+
+#: ru/default.csv:255 
+msgid "Your email address does not exist"
+msgstr "Ваш адрес электронной почты не существует"
+
+#: ru/default.csv:256 
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: ru/default.csv:257 
+msgid "Your new password has been sent to the entered email address"
+msgstr "Ваш новый пароль был отправлен к введенному адресу электронной почты"
+
+#: ru/default.csv:258 
+msgid "Your password does not match the entered password."
+msgstr "Ваш пароль не соответствует введенному паролю."
+
+#: ru/default.csv:259 
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ru/default.csv:260 
+msgid "close"
+msgstr "закрытие"
+
+#: ru/default.csv:261 
+msgid "day"
+msgstr "день"
+
+#: ru/default.csv:262 
+msgid "days"
+msgstr "дней"
+
+#: ru/default.csv:263 
+msgid "en"
+msgstr "en"
+
+#: ru/default.csv:264 
+msgid "hour"
+msgstr "час"
+
+#: ru/default.csv:265 
+msgid "hours"
+msgstr "часов"
+
+#: ru/default.csv:266 
+msgid "loading"
+msgstr "Загрузка"
+
+#: ru/default.csv:267 
+msgid "minute"
+msgstr "минут"
+
+#: ru/default.csv:268 
+msgid "minutes"
+msgstr "минут"
+
+#: ru/default.csv:269 
+msgid "picture"
+msgstr "картинку"
+
+#: ru/default.csv:270 
+msgid "second"
+msgstr "секунда"
+
+#: ru/default.csv:271 
+msgid "seconds"
+msgstr "секунд"
+
+#: ru/default.csv:272 
+msgid "title"
+msgstr "название"
+
+#: ru/default.csv:273 
+msgid "titles"
+msgstr "названия"
+
+#: ru/default.csv:274 
+msgid "to add a subfolder."
+msgstr "добавить во вложенную папку."
+

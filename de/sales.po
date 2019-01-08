@@ -1,0 +1,72 @@
+#: de/sales.csv:1 
+msgid "Action"
+msgstr "Aktion"
+
+#: de/sales.csv:2 
+msgid "App Name"
+msgstr "App-Name"
+
+#: de/sales.csv:3 
+msgid "Client"
+msgstr "Client"
+
+#: de/sales.csv:4 
+msgid "Date"
+msgstr "Datum"
+
+#: de/sales.csv:5 
+msgid "Invoice"
+msgstr "Rechnung"
+
+#: de/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Rechnung %s"
+
+#: de/sales.csv:7 
+msgid "Invoice N°"
+msgstr "Rechnung N °"
+
+#: de/sales.csv:8 
+msgid "List of your invoices"
+msgstr "Liste der Rechnungen"
+
+#: de/sales.csv:9 
+msgid "My Invoices"
+msgstr "Meine Rechnungen"
+
+#: de/sales.csv:10 
+msgid "Order"
+msgstr "Bestellung"
+
+#: de/sales.csv:11 
+msgid "Orders"
+msgstr "Bestellungen"
+
+#: de/sales.csv:12 
+msgid "Paid At"
+msgstr "Gezahlt"
+
+#: de/sales.csv:13 
+msgid "Paid at:"
+msgstr "Gezahlt"
+
+#: de/sales.csv:14 
+msgid "Price Excl. Tax"
+msgstr "Preis ohne MwSt."
+
+#: de/sales.csv:15 
+msgid "Qty"
+msgstr "Qty"
+
+#: de/sales.csv:16 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Diese Funktion ist noch nicht bereit. Bitte versuchen Sie es später erneut."
+
+#: de/sales.csv:17 
+msgid "Total Excl. Tax"
+msgstr "Total exkl. USt."
+
+#: de/sales.csv:18 
+msgid "You don't have any invoices yet"
+msgstr "Sie noch alle Rechnungen nicht"
+

@@ -1,0 +1,28 @@
+#: es/social.csv:1 
+msgid "Enter your Facebook Fan Page Id <span class="required-entry"> *</span>:"
+msgstr "Id de su Fanpage de Facebook <span class="required-entry"> *</span> :"
+
+#: es/social.csv:2 
+msgid "Enter your Facebook Fan Page Id"
+msgstr "Id de su Fanpage de Facebook"
+
+#: es/social.csv:3 
+msgid "Your comment"
+msgstr "Tu comentario"
+
+#: es/social.csv:4 
+msgid "Published on %s"
+msgstr "Publicado el %s"
+
+#: es/social.csv:5 
+msgid "talk about it"
+msgstr "Hablar acerca de esto"
+
+#: es/social.csv:6 
+msgid "like it"
+msgstr "Like it"
+
+#: es/social.csv:7 
+msgid "More Posts"
+msgstr "Más posts"
+

@@ -1,0 +1,8 @@
+#: zh/sourcecode.csv:1 
+msgid "Source Code"
+msgstr "源代码"
+
+#: zh/sourcecode.csv:2 
+msgid "Insert your HTML code:"
+msgstr "列出你的HTML代码"
+

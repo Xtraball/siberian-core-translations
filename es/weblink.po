@@ -1,0 +1,28 @@
+#: es/weblink.csv:1 
+msgid "Informations"
+msgstr "Información"
+
+#: es/weblink.csv:2 
+msgid "Link:"
+msgstr "Link"
+
+#: es/weblink.csv:3 
+msgid "Your links"
+msgstr "Sus links"
+
+#: es/weblink.csv:4 
+msgid "Are you sure you want to delete this link?"
+msgstr "¿Esta seguro de eliminar este link?"
+
+#: es/weblink.csv:5 
+msgid "Add a link"
+msgstr "Añadir un link"
+
+#: es/weblink.csv:6 
+msgid "Link has been successfully saved"
+msgstr "El link ha sido guardado correctamente"
+
+#: es/weblink.csv:7 
+msgid "Link has been successfully deleted"
+msgstr "El link ha sido eliminado correctamente"
+

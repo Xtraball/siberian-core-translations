@@ -1,0 +1,48 @@
+#: nl/weblink.csv:1 
+msgid "Add a link"
+msgstr "Voeg een link toe"
+
+#: nl/weblink.csv:2 
+msgid "An error occurred while saving your picto. Please try againg later."
+msgstr "Er is een fout opgetreden bij het opslaan van uw pictogram. Probeert u het later nog een keer."
+
+#: nl/weblink.csv:3 
+msgid "Are you sure you want to delete this link?"
+msgstr "Weet u zeker dat u deze link wilt verwijderen?"
+
+#: nl/weblink.csv:4 
+msgid "Are you sure you want to delete this picture?"
+msgstr "Weet u zeker dat u deze afbeelding wilt verwijderen?"
+
+#: nl/weblink.csv:5 
+msgid "Link"
+msgstr "Link"
+
+#: nl/weblink.csv:6 
+msgid "Link has been successfully deleted"
+msgstr "Link is succesvol verwijderd"
+
+#: nl/weblink.csv:7 
+msgid "Link has been successfully saved"
+msgstr "Link is succesvol opgeslagen"
+
+#: nl/weblink.csv:8 
+msgid "Link:"
+msgstr "Link:"
+
+#: nl/weblink.csv:9 
+msgid "Picto"
+msgstr "Picto"
+
+#: nl/weblink.csv:10 
+msgid "The image has been successfully deleted"
+msgstr "De afbeelding is met succes verwijderd"
+
+#: nl/weblink.csv:11 
+msgid "The image has been successfully saved"
+msgstr "De afbeelding is met succes bewaard"
+
+#: nl/weblink.csv:12 
+msgid "Your links"
+msgstr "Uw links"
+

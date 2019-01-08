@@ -1,0 +1,96 @@
+#: tr/booking.csv:1 
+msgid "Booking details"
+msgstr "Rezervasyon detayları"
+
+#: tr/booking.csv:2 
+msgid "Booking details:"
+msgstr "Rezervasyon detayları:"
+
+#: tr/booking.csv:3 
+msgid "Booking subject:"
+msgstr "Rezervasyon konusu:"
+
+#: tr/booking.csv:4 
+msgid "Comment:"
+msgstr "Yorum:"
+
+#: tr/booking.csv:5 
+msgid "Date and time"
+msgstr "Tarih ve zaman"
+
+#: tr/booking.csv:6 
+msgid "Date and time:"
+msgstr "Tarih ve zaman:"
+
+#: tr/booking.csv:7 
+msgid "Email address:"
+msgstr "Email adres:"
+
+#: tr/booking.csv:8 
+msgid "Enter the location name and contact email:"
+msgstr "Konumu adını ve iletişim e-posta girin:"
+
+#: tr/booking.csv:9 
+msgid "First name / Last name"
+msgstr "İsim / Soyisim"
+
+#: tr/booking.csv:10 
+msgid "Here are his personal information:"
+msgstr "Kişisel bilgileri:"
+
+#: tr/booking.csv:11 
+msgid "Name:"
+msgstr "İsim:"
+
+#: tr/booking.csv:12 
+msgid "Nom du lieu :"
+msgstr "Yer Adı:"
+
+#: tr/booking.csv:13 
+msgid "People number:"
+msgstr "Kişi No:"
+
+#: tr/booking.csv:14 
+msgid "Phone number:"
+msgstr "Tel No:"
+
+#: tr/booking.csv:15 
+msgid "Please fill out the following fields: "
+msgstr "Aşağıdaki alanları eksiksiz doldurunuz:"
+
+#: tr/booking.csv:16 
+msgid "Please fill out the following fields:<br />"
+msgstr "Aşağıdaki alanları eksiksiz doldurunuz:<br />"
+
+#: tr/booking.csv:17 
+msgid "Please, choose a store"
+msgstr "Lütfen bir mağza seçin"
+
+#: tr/booking.csv:18 
+msgid "Thank you for your request. We'll answer you as soon as possible."
+msgstr "İsteğiniz için teşekkür ederiz. En kısa sürede size cevap vereceğiz."
+
+#: tr/booking.csv:19 
+msgid "The booking information"
+msgstr "Rezervasyon bilgisi"
+
+#: tr/booking.csv:20 
+msgid "The booking informations"
+msgstr "Rezervasyon bilgileri"
+
+#: tr/booking.csv:21 
+msgid "The date and time of the booking"
+msgstr "Rezervasyon tarih ve saati"
+
+#: tr/booking.csv:22 
+msgid "The number of people"
+msgstr "Insan sayısı"
+
+#: tr/booking.csv:23 
+msgid "You have received a message for the booking of"
+msgstr "Rezervasyon için bir mesaj aldınız"
+
+#: tr/booking.csv:24 
+msgid "Your phone number or email address"
+msgstr "Telefon numarası veya e-posta adresi"
+

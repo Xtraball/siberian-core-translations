@@ -1,0 +1,32 @@
+#: cs/tax.csv:1 
+msgid "List of your taxes"
+msgstr "Přehled daňových sazeb"
+
+#: cs/tax.csv:2 
+msgid "Please select a country"
+msgstr "Vyberte zemi"
+
+#: cs/tax.csv:3 
+msgid "Please, enter a tax rate."
+msgstr "Zadejte daňovou sazbu"
+
+#: cs/tax.csv:4 
+msgid "Please, enter a valid tax rate."
+msgstr "Prosím zadejte platnou daňovou sazbu"
+
+#: cs/tax.csv:5 
+msgid "Rate"
+msgstr "Daňová sazba"
+
+#: cs/tax.csv:6 
+msgid "Remove"
+msgstr "Odstranit"
+
+#: cs/tax.csv:7 
+msgid "You don't have created any taxes yet"
+msgstr "Zatím nemáte vytvořeny žádné daňové sazby"
+
+#: cs/tax.csv:8 
+msgid "﻿List of your taxes"
+msgstr "Přehled daňových sazeb"
+

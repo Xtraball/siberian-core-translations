@@ -1,0 +1,84 @@
+#: cs/backoffice.csv:1 
+msgid "%d Unread Message"
+msgstr "%d Nepřečtená zpráva"
+
+#: cs/backoffice.csv:2 
+msgid "%d Unread Messages"
+msgstr "%d Nepřečtené zprávy"
+
+#: cs/backoffice.csv:3 
+msgid "Account"
+msgstr "Účet"
+
+#: cs/backoffice.csv:4 
+msgid "Change the password"
+msgstr "Změnit heslo"
+
+#: cs/backoffice.csv:5 
+msgid "Click to mark as not read"
+msgstr "Kliknutím označte jako nepřečtené"
+
+#: cs/backoffice.csv:6 
+msgid "Click to mark as read"
+msgstr "Kliknutím označte jako přečtené"
+
+#: cs/backoffice.csv:7 
+msgid "Create a user"
+msgstr "Vytvořit uživatele"
+
+#: cs/backoffice.csv:8 
+msgid "Edit the account "%s""
+msgstr "Upravit účet "%s""
+
+#: cs/backoffice.csv:9 
+msgid "Edit the user"
+msgstr "Upravit uživatele"
+
+#: cs/backoffice.csv:10 
+msgid "Enter your credentials:"
+msgstr "Zadejte své přihlašovací údaje:"
+
+#: cs/backoffice.csv:11 
+msgid "List of backoffice accounts"
+msgstr "Seznam účtů pro backoffice"
+
+#: cs/backoffice.csv:12 
+msgid "List of the messages"
+msgstr "Seznam zpráv"
+
+#: cs/backoffice.csv:13 
+msgid "Login to your backoffice interface"
+msgstr "Přihlaste se do svého backoffice rozhraní"
+
+#: cs/backoffice.csv:14 
+msgid "People who are allowed to access the backoffice"
+msgstr "Lidé, kteří mají povolen přístup do backoffice"
+
+#: cs/backoffice.csv:15 
+msgid "Siberian CMS"
+msgstr "Siberian CMS"
+
+#: cs/backoffice.csv:16 
+msgid "This account can't be deleted, it's the only one"
+msgstr "Tento účet nemůže být smazán"
+
+#: cs/backoffice.csv:17 
+msgid "User successfully deleted"
+msgstr "Uživatel úspěšně smazán"
+
+#: cs/backoffice.csv:18 
+msgid "View Details"
+msgstr "Zobrazit podrobnosti"
+
+#: cs/backoffice.csv:19 
+msgid "Your new password"
+msgstr "Vaše nové heslo"
+
+#: cs/backoffice.csv:20 
+msgid "Your password"
+msgstr "Vaše heslo"
+
+#: cs/backoffice.csv:21 
+msgid "﻿%d Unread Message"
+msgstr "%d Nepřečtená zpráva"
+

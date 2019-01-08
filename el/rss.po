@@ -1,0 +1,44 @@
+#: el/rss.csv:1 
+msgid "%s ago"
+msgstr "%s πριν"
+
+#: el/rss.csv:2 
+msgid "An error occurred while saving your RSS feed"
+msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της RSS πηγής σας"
+
+#: el/rss.csv:3 
+msgid "Display feed pictures whenever possible"
+msgstr "Προβολή εικόνων όποτε είναι εφικτό"
+
+#: el/rss.csv:4 
+msgid "Enter the URL of this RSS feed"
+msgstr "Συμπληρώστε το URL της RSS πηγής"
+
+#: el/rss.csv:5 
+msgid "Found feeds"
+msgstr "Ροές που βρέθηκαν"
+
+#: el/rss.csv:6 
+msgid "No RSS feed could be found"
+msgstr "Δεν βρέθηκε RSS πηγή"
+
+#: el/rss.csv:7 
+msgid "RSS feed successfully saved"
+msgstr "Η RSS πηγή αποθηκεύτηκε επιτυχώς"
+
+#: el/rss.csv:8 
+msgid "Show article"
+msgstr "Προβολή άρθρου"
+
+#: el/rss.csv:9 
+msgid "day"
+msgstr "ημέρα"
+
+#: el/rss.csv:10 
+msgid "hour"
+msgstr "ώρα"
+
+#: el/rss.csv:11 
+msgid "minute"
+msgstr "λεπτό"
+

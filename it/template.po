@@ -1,0 +1,60 @@
+#: it/template.csv:1 
+msgid "All"
+msgstr "Tutti"
+
+#: it/template.csv:2 
+msgid "Choose a template to customize"
+msgstr "Scegli il template da personalizzare"
+
+#: it/template.csv:3 
+msgid "City"
+msgstr "Città"
+
+#: it/template.csv:4 
+msgid "Education"
+msgstr "Educazione"
+
+#: it/template.csv:5 
+msgid "Entertainment"
+msgstr "Intrattenimento"
+
+#: it/template.csv:6 
+msgid "Fashion"
+msgstr "Fashion"
+
+#: it/template.csv:7 
+msgid "Health & Beauty"
+msgstr "Salute & Bellezza"
+
+#: it/template.csv:8 
+msgid "Hotels"
+msgstr "Hotel"
+
+#: it/template.csv:9 
+msgid "List of your categories"
+msgstr "Lista delle tue categorie"
+
+#: it/template.csv:10 
+msgid "Local Business"
+msgstr "Local business"
+
+#: it/template.csv:11 
+msgid "Music"
+msgstr "Musica"
+
+#: it/template.csv:12 
+msgid "Organizations"
+msgstr "Organizzazioni"
+
+#: it/template.csv:13 
+msgid "Real Estate"
+msgstr "Immobiliare"
+
+#: it/template.csv:14 
+msgid "Sports"
+msgstr "Sport"
+
+#: it/template.csv:15 
+msgid "TEMPLATES"
+msgstr "Templates"
+

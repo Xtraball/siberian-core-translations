@@ -1,0 +1,168 @@
+#: pt_BR/admin.csv:1 
+msgid "%s - Your new password"
+msgstr "%s - Sua nova senha"
+
+#: pt_BR/admin.csv:2 
+msgid "A request to reset your password has been made to log in to your administration panel."
+msgstr "A solicitação para redefinir sua senha e fazer login no seu painel de administração foi realizada."
+
+#: pt_BR/admin.csv:3 
+msgid "Admin successfully deleted"
+msgstr "Administrador excluído com sucesso"
+
+#: pt_BR/admin.csv:4 
+msgid "An error occurred while saving. The country is not valid."
+msgstr "Ocorreu um erro ao salvar. O país não é válido."
+
+#: pt_BR/admin.csv:5 
+msgid "Are you sure you want to delete this application?"
+msgstr "Tem certeza de que deseja excluir este aplicativo?"
+
+#: pt_BR/admin.csv:6 
+msgid "Can add pages"
+msgstr "Pode adicionar páginas"
+
+#: pt_BR/admin.csv:7 
+msgid "Change my password"
+msgstr "Alterar minha senha"
+
+#: pt_BR/admin.csv:8 
+msgid "Confirm your password"
+msgstr "Confirme sua senha"
+
+#: pt_BR/admin.csv:9 
+msgid "Create a new application"
+msgstr "Criar um novo aplicativo"
+
+#: pt_BR/admin.csv:10 
+msgid "Create a new user"
+msgstr "Criar um novo usuário"
+
+#: pt_BR/admin.csv:11 
+msgid "Created At"
+msgstr "Criado em"
+
+#: pt_BR/admin.csv:12 
+msgid "Created at %s"
+msgstr "Criado em %s"
+
+#: pt_BR/admin.csv:13 
+msgid "Do not hesitate to give us your feedback by sharing your needs:"
+msgstr "Não hesite em nos dar o seu feedback compartilhando suas necessidades:"
+
+#: pt_BR/admin.csv:14 
+msgid "Edit the account "%s""
+msgstr "Edite a conta "%s""
+
+#: pt_BR/admin.csv:15 
+msgid "Edit the user %s"
+msgstr "Edite o usuário %s"
+
+#: pt_BR/admin.csv:16 
+msgid "Enjoy!"
+msgstr "Divirta-se!"
+
+#: pt_BR/admin.csv:17 
+msgid "Find some advices here:"
+msgstr "Encontre algumas dicas aqui:"
+
+#: pt_BR/admin.csv:18 
+msgid "Here are your credentials, keep them preciously:"
+msgstr "Aqui estão as suas credenciais, guarde-as com cuidado:"
+
+#: pt_BR/admin.csv:19 
+msgid "List of admin accounts"
+msgstr "Lista de contas de administrador"
+
+#: pt_BR/admin.csv:20 
+msgid "List of my accounts"
+msgstr "Lista de minhas contas"
+
+#: pt_BR/admin.csv:21 
+msgid "List of your users"
+msgstr "Lista de seus usuários"
+
+#: pt_BR/admin.csv:22 
+msgid "Log-in As"
+msgstr "Logar como"
+
+#: pt_BR/admin.csv:23 
+msgid "Manage access"
+msgstr "Gerenciar o acesso"
+
+#: pt_BR/admin.csv:24 
+msgid "My Applications"
+msgstr "Meus aplicativos"
+
+#: pt_BR/admin.csv:25 
+msgid "My information"
+msgstr "Minhas informações"
+
+#: pt_BR/admin.csv:26 
+msgid "Need some help?"
+msgstr "Precisa de Ajuda?"
+
+#: pt_BR/admin.csv:27 
+msgid "Please enter a valid email address."
+msgstr "Por favor insira um endereço de e-mail válido."
+
+#: pt_BR/admin.csv:28 
+msgid "Please, enter an application name"
+msgstr "Por favor, insira um nome de aplicativo"
+
+#: pt_BR/admin.csv:29 
+msgid "Ready to create your own apps?"
+msgstr "Pronto para criar seus próprios aplicativos?"
+
+#: pt_BR/admin.csv:30 
+msgid "Sign up"
+msgstr "Criar conta"
+
+#: pt_BR/admin.csv:31 
+msgid "Thanks for choosing us!"
+msgstr "Obrigado por nos escolher!"
+
+#: pt_BR/admin.csv:32 
+msgid "The Support Team"
+msgstr "A Equipe de Suporte"
+
+#: pt_BR/admin.csv:33 
+msgid "The password and the confirmation does not match."
+msgstr "A senha de confirmação não corresponde com a senha."
+
+#: pt_BR/admin.csv:34 
+msgid "The password must be at least 6 characters."
+msgstr "A senha de possuir pelo menos 6 caracteres."
+
+#: pt_BR/admin.csv:35 
+msgid "We are sorry but this email address is already used."
+msgstr "Lamentamos, mas este endereço de e-mail já está sendo usado."
+
+#: pt_BR/admin.csv:36 
+msgid "Welcome!"
+msgstr "Seja Bem Vindo!"
+
+#: pt_BR/admin.csv:37 
+msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+msgstr "Você vai adorar! Graças aos nossos recursos, você será capaz de criar excelentes aplicativos com personalização de marca, em poucos minutos."
+
+#: pt_BR/admin.csv:38 
+msgid "You can't delete the main account"
+msgstr "Você não pode excluir a conta principal"
+
+#: pt_BR/admin.csv:39 
+msgid "You don't have any users yet"
+msgstr "Você não tem nenhum usuário ainda"
+
+#: pt_BR/admin.csv:40 
+msgid "Your credentials"
+msgstr "Suas credenciais"
+
+#: pt_BR/admin.csv:41 
+msgid "Your login:"
+msgstr "Seu login:"
+
+#: pt_BR/admin.csv:42 
+msgid "Your password:"
+msgstr "Sua senha"
+

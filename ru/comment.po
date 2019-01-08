@@ -1,0 +1,116 @@
+#: ru/comment.csv:1 
+msgid "An error occurred while deleting this answer. Please try again later."
+msgstr "Произошла ошибка во время удаления этого ответа. Пожалуйста, повторите попытку позже."
+
+#: ru/comment.csv:2 
+msgid "Create a news:"
+msgstr "Создать новость"
+
+#: ru/comment.csv:3 
+msgid "Hide this info"
+msgstr "Скрыть эту информацию"
+
+#: ru/comment.csv:4 
+msgid "Information successfully deleted"
+msgstr "Информация успешно удалена"
+
+#: ru/comment.csv:5 
+msgid "Information successfully hidden"
+msgstr "Информация успешно скрыта"
+
+#: ru/comment.csv:6 
+msgid "Information successfully saved"
+msgstr "Информация успешно сохранена"
+
+#: ru/comment.csv:7 
+msgid "Information successfully shown"
+msgstr "Информация успешно показана"
+
+#: ru/comment.csv:8 
+msgid "Insert a"
+msgstr "Вставьте"
+
+#: ru/comment.csv:9 
+msgid "It will be visible only after validation by our team."
+msgstr "Это будет видно только после проверки нашей командой"
+
+#: ru/comment.csv:10 
+msgid "My customers' comments"
+msgstr "Комментарии моих клиентов"
+
+#: ru/comment.csv:11 
+msgid "My customers answers"
+msgstr "Мои ответы клиентам"
+
+#: ru/comment.csv:12 
+msgid "Near me"
+msgstr "Рядом"
+
+#: ru/comment.csv:13 
+msgid "'Near me' radius (in km):"
+msgstr ""Рядом со мной" в  радиусе  (км):"
+
+#: ru/comment.csv:14 
+msgid "Near me settings"
+msgstr "Настройки - Рядом со мной "
+
+#: ru/comment.csv:15 
+msgid "Post"
+msgstr "Пост"
+
+#: ru/comment.csv:16 
+msgid "Publishing date"
+msgstr "Дата публикации"
+
+#: ru/comment.csv:17 
+msgid "Radius"
+msgstr "Радиус"
+
+#: ru/comment.csv:18 
+msgid "Radius must be provided."
+msgstr "Радиус должен быть обеспечен."
+
+#: ru/comment.csv:19 
+msgid "Radius must be a valid numeric value."
+msgstr "Радиус должен иметь допустимое числовое значение."
+
+#: ru/comment.csv:20 
+msgid "Recent"
+msgstr "Новые"
+
+#: ru/comment.csv:21 
+msgid "Show this info"
+msgstr "Показать эту информацию"
+
+#: ru/comment.csv:22 
+msgid "There is no comment for this news"
+msgstr "Там нет комментариев к новости"
+
+#: ru/comment.csv:23 
+msgid "You can't like more than once the same news"
+msgstr "Новость может нравиться не более одного раза"
+
+#: ru/comment.csv:24 
+msgid "Your flag has successfully been notified"
+msgstr "Ваш флаг был успешно добавлен"
+
+#: ru/comment.csv:25 
+msgid "You need to be connected to create a post"
+msgstr "Вы должны быть соединены, чтобы создать запись"
+
+#: ru/comment.csv:26 
+msgid "Your like has been successfully added"
+msgstr "Ваш лайк был успешно добавлен"
+
+#: ru/comment.csv:27 
+msgid "Your message has been successfully saved."
+msgstr "Ваше сообщение было успешно сохранено"
+
+#: ru/comment.csv:28 
+msgid "Your post was successfully added"
+msgstr "Ваше сообщение было успешно добавлено"
+
+#: ru/comment.csv:29 
+msgid "Was flagged as inappropriate"
+msgstr "Был помечен как нарушение"
+

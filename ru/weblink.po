@@ -1,0 +1,48 @@
+#: ru/weblink.csv:1 
+msgid "Add a link"
+msgstr "Добавить ссылку"
+
+#: ru/weblink.csv:2 
+msgid "An error occurred while saving your picto. Please try againg later."
+msgstr "Произошла ошибка в процессе сохранения пиктограммы. Пожалуйста, попробуйте чуть позже."
+
+#: ru/weblink.csv:3 
+msgid "Are you sure you want to delete this link?"
+msgstr "Вы уверены, что хотите удалить эту ссылку?"
+
+#: ru/weblink.csv:4 
+msgid "Are you sure you want to delete this picture?"
+msgstr "Вы уверены, что хотите удалить эту фотографию?"
+
+#: ru/weblink.csv:5 
+msgid "Link"
+msgstr "Ссылка"
+
+#: ru/weblink.csv:6 
+msgid "Link has been successfully deleted"
+msgstr "Ссылка была успешно удалена"
+
+#: ru/weblink.csv:7 
+msgid "Link has been successfully saved"
+msgstr "Ссылка была успешно сохранена"
+
+#: ru/weblink.csv:8 
+msgid "Link:"
+msgstr "Ссылка:"
+
+#: ru/weblink.csv:9 
+msgid "Picto"
+msgstr "Пиктограмма"
+
+#: ru/weblink.csv:10 
+msgid "The image has been successfully deleted"
+msgstr "Изображение было успешно удалено"
+
+#: ru/weblink.csv:11 
+msgid "The image has been successfully saved"
+msgstr "Изображение было успешно сохранены"
+
+#: ru/weblink.csv:12 
+msgid "Your links"
+msgstr "Ваши ссылки"
+

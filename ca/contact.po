@@ -1,0 +1,64 @@
+#: ca/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "S'ha produït un error en guardar les seves informacions de contacte."
+
+#: ca/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "S'ha produït un error en enviar la seva sol·licitud. Intenta-ho de nou més tard."
+
+#: ca/contact.csv:3 
+msgid "And his phone number:"
+msgstr "I el seu número de telèfon:"
+
+#: ca/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Esteu segur que voleu eliminar la imatge?"
+
+#: ca/contact.csv:5 
+msgid "City"
+msgstr "Ciutat"
+
+#: ca/contact.csv:6 
+msgid "Contact information"
+msgstr "informació del contacte"
+
+#: ca/contact.csv:7 
+msgid "Here is his email:"
+msgstr "Heus aquí el seu correu electrònic:"
+
+#: ca/contact.csv:8 
+msgid "Here is his message:"
+msgstr "Heus aquí el missatge:"
+
+#: ca/contact.csv:9 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Si us plau introduïu correctament els següents camps: <br />"
+
+#: ca/contact.csv:10 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ca/contact.csv:11 
+msgid "Website"
+msgstr "lloc web"
+
+#: ca/contact.csv:12 
+msgid "You have received a message from a contact:"
+msgstr "Ha rebut un missatge d'un contacte:"
+
+#: ca/contact.csv:13 
+msgid "Your email"
+msgstr "El seu correu electrònic"
+
+#: ca/contact.csv:14 
+msgid "Your message has been sent"
+msgstr "El seu missatge ha estat enviat"
+
+#: ca/contact.csv:15 
+msgid "Your request"
+msgstr "la seva petició"
+
+#: ca/contact.csv:16 
+msgid "Zip code"
+msgstr "codi postal"
+

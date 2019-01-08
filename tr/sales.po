@@ -1,0 +1,72 @@
+#: tr/sales.csv:1 
+msgid "Action"
+msgstr "Eylem"
+
+#: tr/sales.csv:2 
+msgid "App Name"
+msgstr "App Adı"
+
+#: tr/sales.csv:3 
+msgid "Client"
+msgstr "Müşteri"
+
+#: tr/sales.csv:4 
+msgid "Date"
+msgstr "Tarih"
+
+#: tr/sales.csv:5 
+msgid "Invoice"
+msgstr "Fatura"
+
+#: tr/sales.csv:6 
+msgid "Invoice %s"
+msgstr "Fatura %s"
+
+#: tr/sales.csv:7 
+msgid "Invoice N°"
+msgstr "Fatura N°"
+
+#: tr/sales.csv:8 
+msgid "List of your invoices"
+msgstr "Faturalarınızın listesi"
+
+#: tr/sales.csv:9 
+msgid "My Invoices"
+msgstr "Faturalarım"
+
+#: tr/sales.csv:10 
+msgid "Order"
+msgstr "Sipariş"
+
+#: tr/sales.csv:11 
+msgid "Orders"
+msgstr "Siparişler"
+
+#: tr/sales.csv:12 
+msgid "Paid At"
+msgstr "te ödendi"
+
+#: tr/sales.csv:13 
+msgid "Paid at:"
+msgstr "te ödendi:"
+
+#: tr/sales.csv:14 
+msgid "Price Excl. Tax"
+msgstr "Vergi hariç fiyat"
+
+#: tr/sales.csv:15 
+msgid "Qty"
+msgstr "miktar"
+
+#: tr/sales.csv:16 
+msgid "This feature is not ready yet. Please try again later."
+msgstr "Bu özellik henüz hazır değil. Daha sonra tekrar deneyiniz."
+
+#: tr/sales.csv:17 
+msgid "Total Excl. Tax"
+msgstr "Vergiler haric toplam tutar"
+
+#: tr/sales.csv:18 
+msgid "You don't have any invoices yet"
+msgstr "Henüz faturanız yok"
+

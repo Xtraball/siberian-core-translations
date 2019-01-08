@@ -1,0 +1,736 @@
+#: it/mcommerce.csv:1 
+msgid "%s - Customer Service"
+msgstr "%s - Servizio Clienti"
+
+#: it/mcommerce.csv:2 
+msgid "20.00%"
+msgstr "20.00%"
+
+#: it/mcommerce.csv:3 
+msgid "Add a format"
+msgstr "Aggiungi un formato"
+
+#: it/mcommerce.csv:4 
+msgid "Add a picture"
+msgstr "Aggiungi un immagine"
+
+#: it/mcommerce.csv:5 
+msgid "Add options"
+msgstr "Aggiungi un opzione"
+
+#: it/mcommerce.csv:6 
+msgid "Add pictures"
+msgstr "Aggiungi immagine"
+
+#: it/mcommerce.csv:7 
+msgid "Add to cart"
+msgstr "Aggiungi al carrello"
+
+#: it/mcommerce.csv:8 
+msgid "Amount remaining:"
+msgstr "Resto dovuto al cliente:"
+
+#: it/mcommerce.csv:9 
+msgid "Amount you will pay"
+msgstr "Importo pagato dal cliente alla consegna"
+
+#: it/mcommerce.csv:10 
+msgid "An error occurred while cancelling. Please try again later."
+msgstr "Si è verificato un errore durante la cancellazione. Per favore riprova più tardi."
+
+#: it/mcommerce.csv:11 
+msgid "An error occurred while proceeding the payment. Please, try again later."
+msgstr "Si è verificato un errore durante la procedura di pagamento. Per favore, riprovare più tardi."
+
+#: it/mcommerce.csv:12 
+msgid "An error occurred while proceeding your order. Please, check the following information:"
+msgstr "Si è verificato un errore durante il processo d'ordine. Per favore, riprovare più tardi."
+
+#: it/mcommerce.csv:13 
+msgid "Are you sure you want to close without saving"
+msgstr "Sei sicuro di voler chiudere senza salvare?"
+
+#: it/mcommerce.csv:14 
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr "Sei sicuro di voler eliminare questa categoria e tutte le sue sottocategorie?"
+
+#: it/mcommerce.csv:15 
+msgid "Are you sure you want to delete this store?"
+msgstr "Sei sicuro di voler eliminare questo store?"
+
+#: it/mcommerce.csv:16 
+msgid "Are you sure you want to delete this tax?"
+msgstr "Sei sicuro di voler eliminare l'IVA?"
+
+#: it/mcommerce.csv:17 
+msgid "Are you sure you want to remove this product?"
+msgstr "Sei sicuro di voler rimuovere il prodotto?"
+
+#: it/mcommerce.csv:18 
+msgid "At least one option is required:"
+msgstr "Almeno un'opzione è necessaria"
+
+#: it/mcommerce.csv:19 
+msgid "Calculate the change for the client"
+msgstr "Calcolare il cambo per il cliente"
+
+#: it/mcommerce.csv:20 
+msgid "Cancel order"
+msgstr "Cancella ordine"
+
+#: it/mcommerce.csv:21 
+msgid "Cancelled"
+msgstr "Annullato"
+
+#: it/mcommerce.csv:22 
+msgid "Carry Out"
+msgstr "Spedizione"
+
+#: it/mcommerce.csv:23 
+msgid "Cart"
+msgstr "Carrello"
+
+#: it/mcommerce.csv:24 
+msgid "Cash"
+msgstr "Contanti"
+
+#: it/mcommerce.csv:25 
+msgid "Category"
+msgstr "Categoria"
+
+#: it/mcommerce.csv:26 
+msgid "Category successfully saved."
+msgstr "Categoria salvata correttamente"
+
+#: it/mcommerce.csv:27 
+msgid "Check"
+msgstr "Contrassegno"
+
+#: it/mcommerce.csv:28 
+msgid "Choose a delivery method:"
+msgstr "Scegliere un metodo di consegna:"
+
+#: it/mcommerce.csv:29 
+msgid "Choose a payment method:"
+msgstr "Scegliere un metodo di pagamento:"
+
+#: it/mcommerce.csv:30 
+msgid "Choose a store:"
+msgstr "Scegliere uno store"
+
+#: it/mcommerce.csv:31 
+msgid "Client"
+msgstr "Cliente"
+
+#: it/mcommerce.csv:32 
+msgid "Client will pay"
+msgstr "Importo da pagare"
+
+#: it/mcommerce.csv:33 
+msgid "Completed"
+msgstr "Completato"
+
+#: it/mcommerce.csv:34 
+msgid "Connected Printers"
+msgstr "Stampanti collegate"
+
+#: it/mcommerce.csv:35 
+msgid "Continue shopping"
+msgstr "Continua gli acquisti"
+
+#: it/mcommerce.csv:36 
+msgid "Create a new options group"
+msgstr "Crea nuovo gruppo di opzioni"
+
+#: it/mcommerce.csv:37 
+msgid "Create a new product"
+msgstr "Crea un nuovo prodotto"
+
+#: it/mcommerce.csv:38 
+msgid "Create a new tax"
+msgstr "Crea ua nuova tassa"
+
+#: it/mcommerce.csv:39 
+msgid "Create a store"
+msgstr "Crea uno store"
+
+#: it/mcommerce.csv:40 
+msgid "Credit Card by phone"
+msgstr "Carta di credito smartphone"
+
+#: it/mcommerce.csv:41 
+msgid "Credit card (pay upon pickup or delivery)"
+msgstr "Carta di credito (pagamento sul ritiro o la consegna)"
+
+#: it/mcommerce.csv:42 
+msgid "Customer"
+msgstr "Cliente"
+
+#: it/mcommerce.csv:43 
+msgid "Customer Service"
+msgstr "Servizio cliente"
+
+#: it/mcommerce.csv:44 
+msgid "Delete"
+msgstr "Cancella"
+
+#: it/mcommerce.csv:45 
+msgid "Delivery"
+msgstr "Consegna"
+
+#: it/mcommerce.csv:46 
+msgid "Delivery Fees"
+msgstr "Spese di consegna"
+
+#: it/mcommerce.csv:47 
+msgid "Delivery Method"
+msgstr "Metodo di Spedizione"
+
+#: it/mcommerce.csv:48 
+msgid "Delivery area"
+msgstr "Area di consegna"
+
+#: it/mcommerce.csv:49 
+msgid "Delivery fees"
+msgstr "Spese di consegna"
+
+#: it/mcommerce.csv:50 
+msgid "Delivery fees:"
+msgstr "Spese di consegna:"
+
+#: it/mcommerce.csv:51 
+msgid "Delivery methods"
+msgstr "Metodi di consegna"
+
+#: it/mcommerce.csv:52 
+msgid "Delivery methods:"
+msgstr "Metodi di consegna:"
+
+#: it/mcommerce.csv:53 
+msgid "Delivery radius"
+msgstr "Raggio di consegna"
+
+#: it/mcommerce.csv:54 
+msgid "Delivery radius:"
+msgstr "Raggio di consegna:"
+
+#: it/mcommerce.csv:55 
+msgid "Delivery time"
+msgstr "Tempo per la consegna"
+
+#: it/mcommerce.csv:56 
+msgid "Delivery time:"
+msgstr "Tempo per la consegna:"
+
+#: it/mcommerce.csv:57 
+msgid "Details"
+msgstr "Dettagli"
+
+#: it/mcommerce.csv:58 
+msgid "Done"
+msgstr "Fatto"
+
+#: it/mcommerce.csv:59 
+msgid "Duplicate this product"
+msgstr "Duplica questo prodotto"
+
+#: it/mcommerce.csv:60 
+msgid "Edit a store"
+msgstr "Modifica un negozio"
+
+#: it/mcommerce.csv:61 
+msgid "Edit the options group %s"
+msgstr "Modifica il gruppo di opzioni %s"
+
+#: it/mcommerce.csv:62 
+msgid "Edit the product %s"
+msgstr "Modifica il prodotto %s"
+
+#: it/mcommerce.csv:63 
+msgid "Edit the tax %s"
+msgstr "Modifica l'IVA %s"
+
+#: it/mcommerce.csv:64 
+msgid "Format"
+msgstr "Formato"
+
+#: it/mcommerce.csv:65 
+msgid "Format:"
+msgstr "Formato:"
+
+#: it/mcommerce.csv:66 
+msgid "Free delivery starting from"
+msgstr "Consegna gratuita a partire da"
+
+#: it/mcommerce.csv:67 
+msgid "Free delivery starting from:"
+msgstr "Consegna gratuita a partire da:"
+
+#: it/mcommerce.csv:68 
+msgid "From"
+msgstr "Da"
+
+#: it/mcommerce.csv:69 
+msgid "Here is the detail of the order"
+msgstr "Ecco i dettagli dell'ordine"
+
+#: it/mcommerce.csv:70 
+msgid "Here is the detail of your order"
+msgstr "Ecco i dettagli dell'ordine"
+
+#: it/mcommerce.csv:71 
+msgid "Hours of operation"
+msgstr "Orari di apertura"
+
+#: it/mcommerce.csv:72 
+msgid "Hours of operation:"
+msgstr "Orari di apertura:"
+
+#: it/mcommerce.csv:73 
+msgid "I will pay"
+msgstr "Da pagare"
+
+#: it/mcommerce.csv:74 
+msgid "In store"
+msgstr "In negozio"
+
+#: it/mcommerce.csv:75 
+msgid "Meal Voucher"
+msgstr "Buono pasto"
+
+#: it/mcommerce.csv:76 
+msgid "Minimum order"
+msgstr "Ordine minimo"
+
+#: it/mcommerce.csv:77 
+msgid "Minimum order:"
+msgstr "Ordine minimo:"
+
+#: it/mcommerce.csv:78 
+msgid "My Cart"
+msgstr "Il mio carrello"
+
+#: it/mcommerce.csv:79 
+msgid "My cart is empty"
+msgstr "Il mio carrello è vuoto"
+
+#: it/mcommerce.csv:80 
+msgid "My categories"
+msgstr "Le mie categorie"
+
+#: it/mcommerce.csv:81 
+msgid "My information"
+msgstr "Le mie informazioni"
+
+#: it/mcommerce.csv:82 
+msgid "My orders"
+msgstr "I miei ordini"
+
+#: it/mcommerce.csv:83 
+msgid "My product's categories"
+msgstr "Le mie categorie di prodotti"
+
+#: it/mcommerce.csv:84 
+msgid "My product's options"
+msgstr "Le mie opzioni di prodotti"
+
+#: it/mcommerce.csv:85 
+msgid "My products"
+msgstr "I miei prodotti"
+
+#: it/mcommerce.csv:86 
+msgid "My stores"
+msgstr "Il mio negozio"
+
+#: it/mcommerce.csv:87 
+msgid "My taxes"
+msgstr "Le mie tasse"
+
+#: it/mcommerce.csv:88 
+msgid "Name of the options group:"
+msgstr "Il nome delle gruppo di opzioni:"
+
+#: it/mcommerce.csv:89 
+msgid "New order from the application"
+msgstr "Un nuovo ordine dall'applicazione"
+
+#: it/mcommerce.csv:90 
+msgid "Number"
+msgstr "Numero"
+
+#: it/mcommerce.csv:91 
+msgid "Option name"
+msgstr "Nome opzione"
+
+#: it/mcommerce.csv:92 
+msgid "Option name:"
+msgstr "Nome opzione:"
+
+#: it/mcommerce.csv:93 
+msgid "Options"
+msgstr "Opzioni"
+
+#: it/mcommerce.csv:94 
+msgid "Options group successfully deleted"
+msgstr "Gruppo di opzioni eliminato correttamente"
+
+#: it/mcommerce.csv:95 
+msgid "Options group successfully saved"
+msgstr "Gruppo di opzioni salvato correttamente"
+
+#: it/mcommerce.csv:96 
+msgid "Order %s cancelled"
+msgstr "Ordine %s cancellato"
+
+#: it/mcommerce.csv:97 
+msgid "Order Number"
+msgstr "Numero ordine"
+
+#: it/mcommerce.csv:98 
+msgid "Order confirmation"
+msgstr "Conferma ordine"
+
+#: it/mcommerce.csv:99 
+msgid "Order details"
+msgstr "Dettagli ordine"
+
+#: it/mcommerce.csv:100 
+msgid "Order successfully cancelled"
+msgstr "Ordine cancellato con successo"
+
+#: it/mcommerce.csv:101 
+msgid "Order successfully saved"
+msgstr "Ordine salvato correttamente"
+
+#: it/mcommerce.csv:102 
+msgid "Orders"
+msgstr "Ordini"
+
+#: it/mcommerce.csv:103 
+msgid "Paid"
+msgstr "Pagato"
+
+#: it/mcommerce.csv:104 
+msgid "Paid by the client:"
+msgstr "A carico del cliente :"
+
+#: it/mcommerce.csv:105 
+msgid "Password"
+msgstr "Password"
+
+#: it/mcommerce.csv:106 
+msgid "Password:"
+msgstr "Password:"
+
+#: it/mcommerce.csv:107 
+msgid "Payment"
+msgstr "Pagamento"
+
+#: it/mcommerce.csv:108 
+msgid "Payment Method"
+msgstr "Metodo di Pagamento"
+
+#: it/mcommerce.csv:109 
+msgid "Payment methods:"
+msgstr "Metodi di pagamento:"
+
+#: it/mcommerce.csv:110 
+msgid "Paypal"
+msgstr "Paypal"
+
+#: it/mcommerce.csv:111 
+msgid "Pending payment"
+msgstr "Pagamento in attesa"
+
+#: it/mcommerce.csv:112 
+msgid "Picture"
+msgstr "Immagine"
+
+#: it/mcommerce.csv:113 
+msgid "Please choose a delivery method"
+msgstr "Scegli un metodo di spedizione"
+
+#: it/mcommerce.csv:114 
+msgid "Please choose a payment method"
+msgstr "Scegli un metodo di pagamento"
+
+#: it/mcommerce.csv:115 
+msgid "Please, enter an email address for the store %s"
+msgstr "Inserisci un indirizzo email per lo store %s"
+
+#: it/mcommerce.csv:116 
+msgid "Price"
+msgstr "Prezzo"
+
+#: it/mcommerce.csv:117 
+msgid "Price: %s"
+msgstr "Prezzo: %s"
+
+#: it/mcommerce.csv:118 
+msgid "Printer successfully saved"
+msgstr "Stampante salvata con successo"
+
+#: it/mcommerce.csv:119 
+msgid "Proceed"
+msgstr "Procedi"
+
+#: it/mcommerce.csv:120 
+msgid "Product"
+msgstr "Prodotto"
+
+#: it/mcommerce.csv:121 
+msgid "Product formats"
+msgstr "Formati del prodotto"
+
+#: it/mcommerce.csv:122 
+msgid "Product name"
+msgstr "Nome prodotto"
+
+#: it/mcommerce.csv:123 
+msgid "Product name:"
+msgstr "Nome prodotto:"
+
+#: it/mcommerce.csv:124 
+msgid "Product successfully duplicated"
+msgstr "Prodotto duplicato correttamente"
+
+#: it/mcommerce.csv:125 
+msgid "Product successfully saved"
+msgstr "Prodotto salvato correttamente"
+
+#: it/mcommerce.csv:126 
+msgid "Qty"
+msgstr "Qt"
+
+#: it/mcommerce.csv:127 
+msgid "Qty: %s"
+msgstr "Qt: %s"
+
+#: it/mcommerce.csv:128 
+msgid "Radius in Km"
+msgstr "Raggio in km"
+
+#: it/mcommerce.csv:129 
+msgid "Remaining amount due"
+msgstr "Restante importo dovuto"
+
+#: it/mcommerce.csv:130 
+msgid "Remaining due"
+msgstr "Resto dovuto"
+
+#: it/mcommerce.csv:131 
+msgid "Review"
+msgstr "Recensione"
+
+#: it/mcommerce.csv:132 
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: it/mcommerce.csv:133 
+msgid "Settings successfully saved"
+msgstr "Configurazione salvata con successo"
+
+#: it/mcommerce.csv:134 
+msgid "Show search fields on product list ?"
+msgstr "Vuoi mostrare la barra di ricerca nel catalogo prodotti?"
+
+#: it/mcommerce.csv:135 
+msgid "Signature"
+msgstr "Signature"
+
+#: it/mcommerce.csv:136 
+msgid "Signature:"
+msgstr "Signature:"
+
+#: it/mcommerce.csv:137 
+msgid "Some mandatory fields are empty."
+msgstr "Alcuni campi obbligatori sono vuoti ."
+
+#: it/mcommerce.csv:138 
+msgid "Sorry we can't proceed to deliver your order. It has been canceled."
+msgstr "Siamo spiacenti ma non possiamo procedere con il tuo ordine . Esso è stato annullato ."
+
+#: it/mcommerce.csv:139 
+msgid "Status"
+msgstr "Stato"
+
+#: it/mcommerce.csv:140 
+msgid "Store information"
+msgstr "Informazioni store"
+
+#: it/mcommerce.csv:141 
+msgid "Store name"
+msgstr "Nome negozio"
+
+#: it/mcommerce.csv:142 
+msgid "Store name:"
+msgstr "Nome negozio:"
+
+#: it/mcommerce.csv:143 
+msgid "Store successfully deleted"
+msgstr "Store eliminato correttamente"
+
+#: it/mcommerce.csv:144 
+msgid "Store successfully saved"
+msgstr "Store salvato correttamente"
+
+#: it/mcommerce.csv:145 
+msgid "Stores"
+msgstr "Negozi"
+
+#: it/mcommerce.csv:146 
+msgid "Subtotal"
+msgstr "Totale parziale"
+
+#: it/mcommerce.csv:147 
+msgid "Tax"
+msgstr "Tassa"
+
+#: it/mcommerce.csv:148 
+msgid "Tax name"
+msgstr "Nome tassa"
+
+#: it/mcommerce.csv:149 
+msgid "Tax name:"
+msgstr "Nome tassa:"
+
+#: it/mcommerce.csv:150 
+msgid "Tax rate"
+msgstr "Valore tassa"
+
+#: it/mcommerce.csv:151 
+msgid "Tax rate:"
+msgstr "Valore tassa:"
+
+#: it/mcommerce.csv:152 
+msgid "Tax successfully deleted"
+msgstr "Tassa eliminata correttamente"
+
+#: it/mcommerce.csv:153 
+msgid "Tax successfully saved"
+msgstr "Tassa salvata correttamente"
+
+#: it/mcommerce.csv:154 
+msgid "Tax:"
+msgstr "Tassa:"
+
+#: it/mcommerce.csv:155 
+msgid "Thank you!"
+msgstr "Grazie"
+
+#: it/mcommerce.csv:156 
+msgid "The clients calculate the change:"
+msgstr "Permetti al cliente di inserire il taglio di banconote con cui paga:"
+
+#: it/mcommerce.csv:157 
+msgid "The delivery method"
+msgstr "Metodo di Spedizione"
+
+#: it/mcommerce.csv:158 
+msgid "The following options are required:<br />%s"
+msgstr "Sono richieste le seguenti opzioni:<br />%s"
+
+#: it/mcommerce.csv:159 
+msgid "The option %s is required"
+msgstr "L'opzione %s è richiesta"
+
+#: it/mcommerce.csv:160 
+msgid "The payment has been cancelled, something wrong happened? Feel free to contact us"
+msgstr "Il pagamento è stato annullato, qualcosa non è andato a buon fine? Non esitate a contattarci"
+
+#: it/mcommerce.csv:161 
+msgid "The payment method"
+msgstr "Metodo di Pagamento"
+
+#: it/mcommerce.csv:162 
+msgid "Time in minutes"
+msgstr "Tempo in minuti"
+
+#: it/mcommerce.csv:163 
+msgid "Total"
+msgstr "Totale"
+
+#: it/mcommerce.csv:164 
+msgid "Total Excl. Tax"
+msgstr "Totale escluso IVA"
+
+#: it/mcommerce.csv:165 
+msgid "Total Tax"
+msgstr "Totale IVA"
+
+#: it/mcommerce.csv:166 
+msgid "Total: %s"
+msgstr "Totale: %s"
+
+#: it/mcommerce.csv:167 
+msgid "Unable to proceed to checkout the minimum order amount is %s"
+msgstr "Impossibile procedere alla cassa, l'importo di ordine minimo è di %s"
+
+#: it/mcommerce.csv:168 
+msgid "Unit Price"
+msgstr "Prezzo unitario"
+
+#: it/mcommerce.csv:169 
+msgid "Unit price"
+msgstr "Prezzo unitario"
+
+#: it/mcommerce.csv:170 
+msgid "Username"
+msgstr "Username"
+
+#: it/mcommerce.csv:171 
+msgid "Username:"
+msgstr "Username"
+
+#: it/mcommerce.csv:172 
+msgid "Waiting for payment"
+msgstr "In attesa di pagamento"
+
+#: it/mcommerce.csv:173 
+msgid "We apologize but the payment method %s is currently not available"
+msgstr "Ci scusiamo ma il metodo di pagamento %s al momento non è disponibile"
+
+#: it/mcommerce.csv:174 
+msgid "We thank you for your order. A confirmation email has been sent"
+msgstr "Vi ringraziamo per il vostro ordine. Una email di conferma è stata inviata"
+
+#: it/mcommerce.csv:175 
+msgid "You don't have any categories yet"
+msgstr "Non hai ancora categorie"
+
+#: it/mcommerce.csv:176 
+msgid "You have a connected printer? Enter the email address"
+msgstr "Si dispone di una stampante collegata? Inserisci l'indirizzo e-mail"
+
+#: it/mcommerce.csv:177 
+msgid "You have a connected printer? Enter the email address for each store"
+msgstr "Si dispone di una stampante collegata? Inserisci l'indirizzo e-mail per ogni store"
+
+#: it/mcommerce.csv:178 
+msgid "Your address"
+msgstr "Indirizzo"
+
+#: it/mcommerce.csv:179 
+msgid "Your email address"
+msgstr "Indirizzo email"
+
+#: it/mcommerce.csv:180 
+msgid "Your firstname"
+msgstr "Nome"
+
+#: it/mcommerce.csv:181 
+msgid "Your lastname"
+msgstr "Cognome"
+
+#: it/mcommerce.csv:182 
+msgid "Your phone number"
+msgstr "Telefono"
+
+#: it/mcommerce.csv:183 
+msgid "e.g., Sauces"
+msgstr "es. salse o taglie"
+
+#: it/mcommerce.csv:184 
+msgid "without taxes"
+msgstr "Senza tasse"
+

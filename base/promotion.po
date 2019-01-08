@@ -1,0 +1,156 @@
+#: base/promotion.csv:1 
+msgid "An error occurred while saving your discount. Please fill in all fields"
+msgstr "An error occurred while saving your discount. Please fill in all fields"
+
+#: base/promotion.csv:2 
+msgid "Are you sure you want to use this discount?"
+msgstr "Are you sure you want to use this discount?"
+
+#: base/promotion.csv:3 
+msgid "Closed discounts"
+msgstr "Closed discounts"
+
+#: base/promotion.csv:4 
+msgid "Conditions"
+msgstr "Conditions"
+
+#: base/promotion.csv:5 
+msgid "Create a new Discount"
+msgstr "Create a new Discount"
+
+#: base/promotion.csv:6 
+msgid "Create a new discount"
+msgstr "Create a new discount"
+
+#: base/promotion.csv:7 
+msgid "Delete this discount?"
+msgstr "Delete this discount?"
+
+#: base/promotion.csv:8 
+msgid "Description"
+msgstr "Description"
+
+#: base/promotion.csv:9 
+msgid "Design"
+msgstr "Design"
+
+#: base/promotion.csv:10 
+msgid "Details"
+msgstr "Details"
+
+#: base/promotion.csv:11 
+msgid "Discount"
+msgstr "Discount"
+
+#: base/promotion.csv:12 
+msgid "Discount successfully deleted"
+msgstr "Discount successfully deleted"
+
+#: base/promotion.csv:13 
+msgid "Discount successfully saved"
+msgstr "Discount successfully saved"
+
+#: base/promotion.csv:14 
+msgid "Do you want to use this coupon?"
+msgstr "Do you want to use this coupon?"
+
+#: base/promotion.csv:15 
+msgid "End at"
+msgstr "End at"
+
+#: base/promotion.csv:16 
+msgid "Generate QRCode"
+msgstr "Generate QRCode"
+
+#: base/promotion.csv:17 
+msgid "Is unique?"
+msgstr "Is unique?"
+
+#: base/promotion.csv:18 
+msgid "Manage content"
+msgstr "Manage content"
+
+#: base/promotion.csv:19 
+msgid "No"
+msgstr "No"
+
+#: base/promotion.csv:20 
+msgid "On"
+msgstr "On"
+
+#: base/promotion.csv:21 
+msgid "Picture"
+msgstr "Picture"
+
+#: base/promotion.csv:22 
+msgid "Please select an end date greater than the current date."
+msgstr "Please select an end date greater than the current date."
+
+#: base/promotion.csv:23 
+msgid "QR Coupon"
+msgstr "QR Coupon"
+
+#: base/promotion.csv:24 
+msgid "Search ..."
+msgstr "Search ..."
+
+#: base/promotion.csv:25 
+msgid "This discount is now used"
+msgstr "This discount is now used"
+
+#: base/promotion.csv:26 
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: base/promotion.csv:27 
+msgid "Title"
+msgstr "Title"
+
+#: base/promotion.csv:28 
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: base/promotion.csv:29 
+msgid "Use only once?"
+msgstr "Use only once?"
+
+#: base/promotion.csv:30 
+msgid "Valid Until"
+msgstr "Valid Until"
+
+#: base/promotion.csv:31 
+msgid "Yes"
+msgstr "Yes"
+
+#: base/promotion.csv:32 
+msgid "You have already use this code"
+msgstr "You have already use this code"
+
+#: base/promotion.csv:33 
+msgid "You have already use this discount"
+msgstr "You have already use this discount"
+
+#: base/promotion.csv:34 
+msgid "You must be logged in to use a discount"
+msgstr "You must be logged in to use a discount"
+
+#: base/promotion.csv:35 
+msgid "(You'll be able to remove this promotion later)"
+msgstr "(You'll be able to remove this promotion later)"
+
+#: base/promotion.csv:36 
+msgid "Your QRCode"
+msgstr "Your QRCode"
+
+#: base/promotion.csv:37 
+msgid "or unlimited"
+msgstr "or unlimited"
+
+#: base/promotion.csv:38 
+msgid "use only once"
+msgstr "use only once"
+
+#: base/promotion.csv:39 
+msgid "you'll be able to remove this promotion later"
+msgstr "you'll be able to remove this promotion later"
+

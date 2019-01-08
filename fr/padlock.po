@@ -1,0 +1,48 @@
+#: fr/padlock.csv:1 
+msgid "Lock the entire application?"
+msgstr "Verrouiller l'application entière?"
+
+#: fr/padlock.csv:2 
+msgid "Choose the features to lock:"
+msgstr "Choisissez les caractéristiques pour verrouiller:"
+
+#: fr/padlock.csv:3 
+msgid "Restrict Access"
+msgstr "Restreindre l'accès"
+
+#: fr/padlock.csv:4 
+msgid "Allow all the users by default:"
+msgstr "Autoriser tous les utilisateurs par défaut:"
+
+#: fr/padlock.csv:5 
+msgid "the gender"
+msgstr "Sexe"
+
+#: fr/padlock.csv:6 
+msgid "the first name"
+msgstr "Prénom"
+
+#: fr/padlock.csv:7 
+msgid "the last name"
+msgstr "Nom"
+
+#: fr/padlock.csv:8 
+msgid "the email address"
+msgstr "Email"
+
+#: fr/padlock.csv:9 
+msgid "the password"
+msgstr "Mot de passe"
+
+#: fr/padlock.csv:10 
+msgid "Access restricted to authorized members only"
+msgstr "Accès réservé seulement aux membres"
+
+#: fr/padlock.csv:11 
+msgid "We are sorry but your account does not have enough permissions to access this page"
+msgstr "Nous sommes désolés mais vous ne disposez pas des droits pour accéder à cette page"
+
+#: fr/padlock.csv:12 
+msgid "Padlock"
+msgstr "Cadenas"
+

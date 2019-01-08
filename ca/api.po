@@ -1,0 +1,12 @@
+#: ca/api.csv:1 
+msgid "API Keys"
+msgstr "claus API"
+
+#: ca/api.csv:2 
+msgid "Api Keys"
+msgstr "claus de l'API"
+
+#: ca/api.csv:3 
+msgid "Api Keys successfully saved"
+msgstr "Claus Api guardat correctament"
+

@@ -1,0 +1,192 @@
+#: base/cms.csv:1 
+msgid "Add "
+msgstr "Add "
+
+#: base/cms.csv:2 
+msgid "Add attachement"
+msgstr "Add attachement"
+
+#: base/cms.csv:3 
+msgid "Add cover"
+msgstr "Add cover"
+
+#: base/cms.csv:4 
+msgid "Add sections:"
+msgstr "Add sections:"
+
+#: base/cms.csv:5 
+msgid "Add to address book"
+msgstr "Add to address book"
+
+#: base/cms.csv:6 
+msgid "Address:"
+msgstr "Address:"
+
+#: base/cms.csv:7 
+msgid "Alignment:"
+msgstr "Alignment:"
+
+#: base/cms.csv:8 
+msgid "An error occured."
+msgstr "An error occured."
+
+#: base/cms.csv:9 
+msgid "An error occurred while saving your page."
+msgstr "An error occurred while saving your page."
+
+#: base/cms.csv:10 
+msgid "Are you sure you want to delete this page?"
+msgstr "Are you sure you want to delete this page?"
+
+#: base/cms.csv:11 
+msgid "At least one section is required to save."
+msgstr "At least one section is required to save."
+
+#: base/cms.csv:12 
+msgid "Attachement"
+msgstr "Attachement"
+
+#: base/cms.csv:13 
+msgid "Attachment:"
+msgstr "Attachment:"
+
+#: base/cms.csv:14 
+msgid "Custom icon"
+msgstr "Custom icon"
+
+#: base/cms.csv:15 
+msgid "Custom page"
+msgstr "Custom page"
+
+#: base/cms.csv:16 
+msgid "Description"
+msgstr "Description"
+
+#: base/cms.csv:17 
+msgid "Display address"
+msgstr "Display address"
+
+#: base/cms.csv:18 
+msgid "Display image in page"
+msgstr "Display image in page"
+
+#: base/cms.csv:19 
+msgid "Display location button"
+msgstr "Display location button"
+
+#: base/cms.csv:20 
+msgid "Display title and subtitle in page"
+msgstr "Display title and subtitle in page"
+
+#: base/cms.csv:21 
+msgid "Email:"
+msgstr "Email:"
+
+#: base/cms.csv:22 
+msgid "Hide navbar"
+msgstr "Hide navbar"
+
+#: base/cms.csv:23 
+msgid "Label"
+msgstr "Label"
+
+#: base/cms.csv:24 
+msgid "Large"
+msgstr "Large"
+
+#: base/cms.csv:25 
+msgid "Latitude:"
+msgstr "Latitude:"
+
+#: base/cms.csv:26 
+msgid "Link:"
+msgstr "Link:"
+
+#: base/cms.csv:27 
+msgid "Loading picture:"
+msgstr "Loading picture:"
+
+#: base/cms.csv:28 
+msgid "Longitude:"
+msgstr "Longitude:"
+
+#: base/cms.csv:29 
+msgid "Make a search or enter the Youtube Url:"
+msgstr "Make a search or enter the Youtube Url:"
+
+#: base/cms.csv:30 
+msgid "Medium"
+msgstr "Medium"
+
+#: base/cms.csv:31 
+msgid "My Youtube video:"
+msgstr "My Youtube video:"
+
+#: base/cms.csv:32 
+msgid "My video"
+msgstr "My video"
+
+#: base/cms.csv:33 
+msgid "No videos matching your selection"
+msgstr "No videos matching your selection"
+
+#: base/cms.csv:34 
+msgid "Page successfully deleted"
+msgstr "Page successfully deleted"
+
+#: base/cms.csv:35 
+msgid "Page successfully saved"
+msgstr "Page successfully saved"
+
+#: base/cms.csv:36 
+msgid "Phone:"
+msgstr "Phone:"
+
+#: base/cms.csv:37 
+msgid "Podcast URL:"
+msgstr "Podcast URL:"
+
+#: base/cms.csv:38 
+msgid "Select a button type:"
+msgstr "Select a button type:"
+
+#: base/cms.csv:39 
+msgid "Select a video type:"
+msgstr "Select a video type:"
+
+#: base/cms.csv:40 
+msgid "Size"
+msgstr "Size"
+
+#: base/cms.csv:41 
+msgid "Slider"
+msgstr "Slider"
+
+#: base/cms.csv:42 
+msgid "Small"
+msgstr "Small"
+
+#: base/cms.csv:43 
+msgid "Text"
+msgstr "Text"
+
+#: base/cms.csv:44 
+msgid "The block N°%s, %s was not saved, the block was either empty or invalid."
+msgstr "The block N°%s, %s was not saved, the block was either empty or invalid."
+
+#: base/cms.csv:45 
+msgid "Use external app"
+msgstr "Use external app"
+
+#: base/cms.csv:46 
+msgid "Video URL:"
+msgstr "Video URL:"
+
+#: base/cms.csv:47 
+msgid "Your Podcast:"
+msgstr "Your Podcast:"
+
+#: base/cms.csv:48 
+msgid ".mp4 or .3gp format"
+msgstr ".mp4 or .3gp format"
+

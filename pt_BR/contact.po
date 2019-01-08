@@ -1,0 +1,64 @@
+#: pt_BR/contact.csv:1 
+msgid "An error occurred while saving your contact informations."
+msgstr "Ocorreu um erro ao salvar suas informações de contato."
+
+#: pt_BR/contact.csv:2 
+msgid "An error occurred while sending your request. Please try again later."
+msgstr "Ocorreu um erro ao enviar o seu pedido. Por favor, tente novamente mais tarde."
+
+#: pt_BR/contact.csv:3 
+msgid "And his phone number:"
+msgstr "E o seu número de telefone:"
+
+#: pt_BR/contact.csv:4 
+msgid "Are you sure you want to remove the picture?"
+msgstr "Tem certeza de que deseja remover a imagem?"
+
+#: pt_BR/contact.csv:5 
+msgid "City"
+msgstr "Cidade"
+
+#: pt_BR/contact.csv:6 
+msgid "Contact information"
+msgstr "Informação de Contato"
+
+#: pt_BR/contact.csv:7 
+msgid "Here is his email:"
+msgstr "Aqui é o seu email:"
+
+#: pt_BR/contact.csv:8 
+msgid "Here is his message:"
+msgstr "Aqui é a sua mensagem:"
+
+#: pt_BR/contact.csv:9 
+msgid "Please enter properly the following fields: <br />"
+msgstr "Digite corretamente os seguintes campos: <br />"
+
+#: pt_BR/contact.csv:10 
+msgid "Twitter"
+msgstr "Twitter"
+
+#: pt_BR/contact.csv:11 
+msgid "Website"
+msgstr "Site"
+
+#: pt_BR/contact.csv:12 
+msgid "You have received a message from a contact:"
+msgstr "Você recebeu uma mensagem de um contato:"
+
+#: pt_BR/contact.csv:13 
+msgid "Your email"
+msgstr "Seu e-mail"
+
+#: pt_BR/contact.csv:14 
+msgid "Your message has been sent"
+msgstr "Sua mensagem foi enviada com sucesso"
+
+#: pt_BR/contact.csv:15 
+msgid "Your request"
+msgstr "O seu pedido"
+
+#: pt_BR/contact.csv:16 
+msgid "Zip code"
+msgstr "CEP"
+

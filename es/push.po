@@ -1,0 +1,104 @@
+#: es/push.csv:1 
+msgid "Message"
+msgstr "Mensaje"
+
+#: es/push.csv:2 
+msgid "Creation date"
+msgstr "Fecha de creación"
+
+#: es/push.csv:3 
+msgid "Sending date"
+msgstr "Fecha del envío"
+
+#: es/push.csv:4 
+msgid "Pending"
+msgstr "No enviado"
+
+#: es/push.csv:5 
+msgid "Title:"
+msgstr "Título:"
+
+#: es/push.csv:6 
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: es/push.csv:7 
+msgid "I want to send it"
+msgstr "Quiero enviarle"
+
+#: es/push.csv:8 
+msgid "<a href="%s">Click here to provide the required information to send push notifications</a>"
+msgstr "<a href="%s">Haga clic aquí para proporcionar la información necesaria para enviar notificaciones push</a>"
+
+#: es/push.csv:9 
+msgid "Additionnal Information"
+msgstr "Información adicional"
+
+#: es/push.csv:10 
+msgid "now"
+msgstr "ahora"
+
+#: es/push.csv:11 
+msgid "on a specific date"
+msgstr "en una fecha específica"
+
+#: es/push.csv:12 
+msgid "and users entering the area"
+msgstr "y a los usuarios entrando en la zona"
+
+#: es/push.csv:13 
+msgid "for a limited period"
+msgstr "por un período limitado"
+
+#: es/push.csv:14 
+msgid "Send to all my users"
+msgstr "Enviar a todos mis usuarios"
+
+#: es/push.csv:15 
+msgid "Send to a specific location"
+msgstr "Enviar a un lugar específico"
+
+#: es/push.csv:16 
+msgid "Enter a location:"
+msgstr "Inserta una ubicación:"
+
+#: es/push.csv:17 
+msgid "And a radius (in Km):"
+msgstr "Y un radio (en km):"
+
+#: es/push.csv:18 
+msgid "Push Notifications Settings"
+msgstr "Ajustes de Notificaciones Push"
+
+#: es/push.csv:19 
+msgid "Send you .pem certificate"
+msgstr "Enviar su certificado .pem "
+
+#: es/push.csv:20 
+msgid "You have already sent a certificate"
+msgstr "Usted ya ha enviado su certificado"
+
+#: es/push.csv:21 
+msgid "GCM Key"
+msgstr "Clave GCM"
+
+#: es/push.csv:22 
+msgid "Sender ID"
+msgstr "ID del remitente"
+
+#: es/push.csv:23 
+msgid "You don't have any push notifications"
+msgstr "No tiene ninguna Notificación Push"
+
+#: es/push.csv:24 
+msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgstr "Su mensaje ha sido guardado correctamente y será enviado en unos minutos"
+
+#: es/push.csv:25 
+msgid "Your message has been saved successfully and will be sent at the entered date"
+msgstr "Su mensaje ha sido guardado correctamente y será enviado en la fecha introducida"
+
+#: es/push.csv:26 
+msgid "The duration limit must be higher than the sent date"
+msgstr "El límite de duración debe ser después la fecha de envío"
+

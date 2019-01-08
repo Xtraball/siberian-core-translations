@@ -1,0 +1,60 @@
+#: el/folder.csv:1 
+msgid "Add a page"
+msgstr "Προσθέστε μια σελίδα"
+
+#: el/folder.csv:2 
+msgid "Click on"
+msgstr "Πατήστε κλίκ"
+
+#: el/folder.csv:3 
+msgid "Click on a page to add it to the folder"
+msgstr "Κάντε σε μία σελίδα για να την προσθέσετε στον φάκελο"
+
+#: el/folder.csv:4 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Κάντε σε μία σελίδα για να την προσθέσετε στον φάκελο <span id="folder_name" class="folder_name">"%s"</span>"
+
+#: el/folder.csv:5 
+msgid "Close mobile display"
+msgstr "Κλείσιμο mobile προβολής"
+
+#: el/folder.csv:6 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Διαγραφή αυτού του φακέλου και των περιεχομένων του?"
+
+#: el/folder.csv:7 
+msgid "Folder title is required"
+msgstr "Είναι υποχρεωτικός ένας τίτλος φακέλου"
+
+#: el/folder.csv:8 
+msgid "Folders"
+msgstr "Φάκελοι"
+
+#: el/folder.csv:9 
+msgid "Mobile display"
+msgstr "Mobile προβολή"
+
+#: el/folder.csv:10 
+msgid "New folder"
+msgstr "Νέος Φάκελος"
+
+#: el/folder.csv:11 
+msgid "Subtitle"
+msgstr "Υπότιτλος"
+
+#: el/folder.csv:12 
+msgid "You cannot add this feature"
+msgstr "Δεν μπορείτε να προσθέσετε αυτό το χαρακτηριστικό"
+
+#: el/folder.csv:13 
+msgid "You must first complete the current category creation process"
+msgstr "Πρέπει πρώτα να ολοκληρώσετε την διαδικασία δημιουργίας της τρέχουσας κατηγορίας"
+
+#: el/folder.csv:14 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Θα χάσετε όλες τις μη-αποθηκευμένες αλλαγές. Συνέχεια?"
+
+#: el/folder.csv:15 
+msgid "to add a folder."
+msgstr "για να προσθέσετε έναν φάκελο."
+

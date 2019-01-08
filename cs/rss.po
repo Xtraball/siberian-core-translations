@@ -1,0 +1,48 @@
+#: cs/rss.csv:1 
+msgid "%s ago"
+msgstr "%s před"
+
+#: cs/rss.csv:2 
+msgid "An error occurred while saving your RSS feed"
+msgstr "Při ukládání RSS zdroje došlo k chybě"
+
+#: cs/rss.csv:3 
+msgid "Display feed pictures whenever possible"
+msgstr "Zobrazit obrázky, když jsou k dispozici"
+
+#: cs/rss.csv:4 
+msgid "Enter the URL of this RSS feed"
+msgstr "Zadejte URL adresu tohoto RSS kanálu"
+
+#: cs/rss.csv:5 
+msgid "Found feeds"
+msgstr "Nalezené zdroje"
+
+#: cs/rss.csv:6 
+msgid "No RSS feed could be found"
+msgstr "Žádný RSS zdroj nenalezen"
+
+#: cs/rss.csv:7 
+msgid "RSS feed successfully saved"
+msgstr "RSS zdroj úspěšně uložen"
+
+#: cs/rss.csv:8 
+msgid "Show article"
+msgstr "Zobrazit článek"
+
+#: cs/rss.csv:9 
+msgid "day"
+msgstr "den"
+
+#: cs/rss.csv:10 
+msgid "hour"
+msgstr "hodina"
+
+#: cs/rss.csv:11 
+msgid "minute"
+msgstr "minuta"
+
+#: cs/rss.csv:12 
+msgid "﻿%s ago"
+msgstr "%s před"
+

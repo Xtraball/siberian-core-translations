@@ -1,0 +1,6656 @@
+#: base/mobile.po.list:1 
+msgid "#: base/mobile.csv.list:1 "
+msgstr "#: base/mobile.csv.list:1 "
+
+#: base/mobile.po.list:2 
+msgid "msgid "1 loyalty point =""
+msgstr "msgid "1 loyalty point =""
+
+#: base/mobile.po.list:3 
+msgid "msgstr "1 loyalty point =""
+msgstr "msgstr "1 loyalty point =""
+
+#: base/mobile.po.list:4 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:5 
+msgid "#: base/mobile.csv.list:2 "
+msgstr "#: base/mobile.csv.list:2 "
+
+#: base/mobile.po.list:6 
+msgid "msgid "1 points =""
+msgstr "msgid "1 points =""
+
+#: base/mobile.po.list:7 
+msgid "msgstr "1 points =""
+msgstr "msgstr "1 points =""
+
+#: base/mobile.po.list:8 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:9 
+msgid "#: base/mobile.csv.list:3 "
+msgstr "#: base/mobile.csv.list:3 "
+
+#: base/mobile.po.list:10 
+msgid "msgid "1 validated point =""
+msgstr "msgid "1 validated point =""
+
+#: base/mobile.po.list:11 
+msgid "msgstr "1 validated point =""
+msgstr "msgstr "1 validated point =""
+
+#: base/mobile.po.list:12 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:13 
+msgid "#: base/mobile.csv.list:4 "
+msgstr "#: base/mobile.csv.list:4 "
+
+#: base/mobile.po.list:14 
+msgid "msgid "A new contact form has been sent for the following offer:""
+msgstr "msgid "A new contact form has been sent for the following offer:""
+
+#: base/mobile.po.list:15 
+msgid "msgstr "A new contact form has been sent for the following offer:""
+msgstr "msgstr "A new contact form has been sent for the following offer:""
+
+#: base/mobile.po.list:16 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:17 
+msgid "#: base/mobile.csv.list:5 "
+msgstr "#: base/mobile.csv.list:5 "
+
+#: base/mobile.po.list:18 
+msgid "msgid "About""
+msgstr "msgid "About""
+
+#: base/mobile.po.list:19 
+msgid "msgstr "About""
+msgstr "msgstr "About""
+
+#: base/mobile.po.list:20 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:21 
+msgid "#: base/mobile.csv.list:6 "
+msgstr "#: base/mobile.csv.list:6 "
+
+#: base/mobile.po.list:22 
+msgid "msgid "Accept as friend""
+msgstr "msgid "Accept as friend""
+
+#: base/mobile.po.list:23 
+msgid "msgstr "Accept as friend""
+msgstr "msgstr "Accept as friend""
+
+#: base/mobile.po.list:24 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:25 
+msgid "#: base/mobile.csv.list:7 "
+msgstr "#: base/mobile.csv.list:7 "
+
+#: base/mobile.po.list:26 
+msgid "msgid "Access my personal data""
+msgstr "msgid "Access my personal data""
+
+#: base/mobile.po.list:27 
+msgid "msgstr "Access my personal data""
+msgstr "msgstr "Access my personal data""
+
+#: base/mobile.po.list:28 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:29 
+msgid "#: base/mobile.csv.list:8 "
+msgstr "#: base/mobile.csv.list:8 "
+
+#: base/mobile.po.list:30 
+msgid "msgid "Access restricted to authorized members only""
+msgstr "msgid "Access restricted to authorized members only""
+
+#: base/mobile.po.list:31 
+msgid "msgstr "Access restricted to authorized members only""
+msgstr "msgstr "Access restricted to authorized members only""
+
+#: base/mobile.po.list:32 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:33 
+msgid "#: base/mobile.csv.list:9 "
+msgstr "#: base/mobile.csv.list:9 "
+
+#: base/mobile.po.list:34 
+msgid "msgid "Add""
+msgstr "msgid "Add""
+
+#: base/mobile.po.list:35 
+msgid "msgstr "Add""
+msgstr "msgstr "Add""
+
+#: base/mobile.po.list:36 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:37 
+msgid "#: base/mobile.csv.list:10 "
+msgstr "#: base/mobile.csv.list:10 "
+
+#: base/mobile.po.list:38 
+msgid "msgid "Add Image""
+msgstr "msgid "Add Image""
+
+#: base/mobile.po.list:39 
+msgid "msgstr "Add Image""
+msgstr "msgstr "Add Image""
+
+#: base/mobile.po.list:40 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:41 
+msgid "#: base/mobile.csv.list:11 "
+msgstr "#: base/mobile.csv.list:11 "
+
+#: base/mobile.po.list:42 
+msgid "msgid "Add a comment""
+msgstr "msgid "Add a comment""
+
+#: base/mobile.po.list:43 
+msgid "msgstr "Add a comment""
+msgstr "msgstr "Add a comment""
+
+#: base/mobile.po.list:44 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:45 
+msgid "#: base/mobile.csv.list:12 "
+msgstr "#: base/mobile.csv.list:12 "
+
+#: base/mobile.po.list:46 
+msgid "msgid "Add card""
+msgstr "msgid "Add card""
+
+#: base/mobile.po.list:47 
+msgid "msgstr "Add card""
+msgstr "msgstr "Add card""
+
+#: base/mobile.po.list:48 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:49 
+msgid "#: base/mobile.csv.list:13 "
+msgstr "#: base/mobile.csv.list:13 "
+
+#: base/mobile.po.list:50 
+msgid "msgid "Add friend""
+msgstr "msgid "Add friend""
+
+#: base/mobile.po.list:51 
+msgid "msgstr "Add friend""
+msgstr "msgstr "Add friend""
+
+#: base/mobile.po.list:52 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:53 
+msgid "#: base/mobile.csv.list:14 "
+msgstr "#: base/mobile.csv.list:14 "
+
+#: base/mobile.po.list:54 
+msgid "msgid "Add friends by tapping on the Add button on the top left of this panel!""
+msgstr "msgid "Add friends by tapping on the Add button on the top left of this panel!""
+
+#: base/mobile.po.list:55 
+msgid "msgstr "Add friends by tapping on the Add button on the top left of this panel!""
+msgstr "msgstr "Add friends by tapping on the Add button on the top left of this panel!""
+
+#: base/mobile.po.list:56 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:57 
+msgid "#: base/mobile.csv.list:15 "
+msgstr "#: base/mobile.csv.list:15 "
+
+#: base/mobile.po.list:58 
+msgid "msgid "Add gratuity (Optional)""
+msgstr "msgid "Add gratuity (Optional)""
+
+#: base/mobile.po.list:59 
+msgid "msgstr "Add gratuity (Optional)""
+msgstr "msgstr "Add gratuity (Optional)""
+
+#: base/mobile.po.list:60 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:61 
+msgid "#: base/mobile.csv.list:16 "
+msgstr "#: base/mobile.csv.list:16 "
+
+#: base/mobile.po.list:62 
+msgid "msgid "Add to address book""
+msgstr "msgid "Add to address book""
+
+#: base/mobile.po.list:63 
+msgid "msgstr "Add to address book""
+msgstr "msgstr "Add to address book""
+
+#: base/mobile.po.list:64 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:65 
+msgid "#: base/mobile.csv.list:17 "
+msgstr "#: base/mobile.csv.list:17 "
+
+#: base/mobile.po.list:66 
+msgid "msgid "Add to cart""
+msgstr "msgid "Add to cart""
+
+#: base/mobile.po.list:67 
+msgid "msgstr "Add to cart""
+msgstr "msgstr "Add to cart""
+
+#: base/mobile.po.list:68 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:69 
+msgid "#: base/mobile.csv.list:18 "
+msgstr "#: base/mobile.csv.list:18 "
+
+#: base/mobile.po.list:70 
+msgid "msgid "Address""
+msgstr "msgid "Address""
+
+#: base/mobile.po.list:71 
+msgid "msgstr "Address""
+msgstr "msgstr "Address""
+
+#: base/mobile.po.list:72 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:73 
+msgid "#: base/mobile.csv.list:19 "
+msgstr "#: base/mobile.csv.list:19 "
+
+#: base/mobile.po.list:74 
+msgid "msgid "Administrators""
+msgstr "msgid "Administrators""
+
+#: base/mobile.po.list:75 
+msgid "msgstr "Administrators""
+msgstr "msgstr "Administrators""
+
+#: base/mobile.po.list:76 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:77 
+msgid "#: base/mobile.csv.list:20 "
+msgstr "#: base/mobile.csv.list:20 "
+
+#: base/mobile.po.list:78 
+msgid "msgid "Albums""
+msgstr "msgid "Albums""
+
+#: base/mobile.po.list:79 
+msgid "msgstr "Albums""
+msgstr "msgstr "Albums""
+
+#: base/mobile.po.list:80 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:81 
+msgid "#: base/mobile.csv.list:21 "
+msgstr "#: base/mobile.csv.list:21 "
+
+#: base/mobile.po.list:82 
+msgid "msgid "All fields are required !""
+msgstr "msgid "All fields are required !""
+
+#: base/mobile.po.list:83 
+msgid "msgstr "All fields are required !""
+msgstr "msgstr "All fields are required !""
+
+#: base/mobile.po.list:84 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:85 
+msgid "#: base/mobile.csv.list:22 "
+msgstr "#: base/mobile.csv.list:22 "
+
+#: base/mobile.po.list:86 
+msgid "msgid "All fields with a * are required.""
+msgstr "msgid "All fields with a * are required.""
+
+#: base/mobile.po.list:87 
+msgid "msgstr "All fields with a * are required.""
+msgstr "msgstr "All fields with a * are required.""
+
+#: base/mobile.po.list:88 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:89 
+msgid "#: base/mobile.csv.list:23 "
+msgstr "#: base/mobile.csv.list:23 "
+
+#: base/mobile.po.list:90 
+msgid "msgid "All items""
+msgstr "msgid "All items""
+
+#: base/mobile.po.list:91 
+msgid "msgstr "All items""
+msgstr "msgstr "All items""
+
+#: base/mobile.po.list:92 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:93 
+msgid "#: base/mobile.csv.list:24 "
+msgstr "#: base/mobile.csv.list:24 "
+
+#: base/mobile.po.list:94 
+msgid "msgid "Alternate name for 'Company'""
+msgstr "msgid "Alternate name for 'Company'""
+
+#: base/mobile.po.list:95 
+msgid "msgstr "Alternate name for 'Company'""
+msgstr "msgstr "Alternate name for 'Company'""
+
+#: base/mobile.po.list:96 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:97 
+msgid "#: base/mobile.csv.list:25 "
+msgstr "#: base/mobile.csv.list:25 "
+
+#: base/mobile.po.list:98 
+msgid "msgid "Alternate name for 'Place'""
+msgstr "msgid "Alternate name for 'Place'""
+
+#: base/mobile.po.list:99 
+msgid "msgstr "Alternate name for 'Place'""
+msgstr "msgstr "Alternate name for 'Place'""
+
+#: base/mobile.po.list:100 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:101 
+msgid "#: base/mobile.csv.list:26 "
+msgstr "#: base/mobile.csv.list:26 "
+
+#: base/mobile.po.list:102 
+msgid "msgid "Amount of bill""
+msgstr "msgid "Amount of bill""
+
+#: base/mobile.po.list:103 
+msgid "msgstr "Amount of bill""
+msgstr "msgstr "Amount of bill""
+
+#: base/mobile.po.list:104 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:105 
+msgid "#: base/mobile.csv.list:27 "
+msgstr "#: base/mobile.csv.list:27 "
+
+#: base/mobile.po.list:106 
+msgid "msgid "Amount you will pay""
+msgstr "msgid "Amount you will pay""
+
+#: base/mobile.po.list:107 
+msgid "msgstr "Amount you will pay""
+msgstr "msgstr "Amount you will pay""
+
+#: base/mobile.po.list:108 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:109 
+msgid "#: base/mobile.csv.list:28 "
+msgstr "#: base/mobile.csv.list:28 "
+
+#: base/mobile.po.list:110 
+msgid "msgid "An error occurred during the payment process.""
+msgstr "msgid "An error occurred during the payment process.""
+
+#: base/mobile.po.list:111 
+msgid "msgstr "An error occurred during the payment process.""
+msgstr "msgstr "An error occurred during the payment process.""
+
+#: base/mobile.po.list:112 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:113 
+msgid "#: base/mobile.csv.list:29 "
+msgstr "#: base/mobile.csv.list:29 "
+
+#: base/mobile.po.list:114 
+msgid "msgid "An error occurred while loading the media.""
+msgstr "msgid "An error occurred while loading the media.""
+
+#: base/mobile.po.list:115 
+msgid "msgstr "An error occurred while loading the media.""
+msgstr "msgstr "An error occurred while loading the media.""
+
+#: base/mobile.po.list:116 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:117 
+msgid "#: base/mobile.csv.list:30 "
+msgstr "#: base/mobile.csv.list:30 "
+
+#: base/mobile.po.list:118 
+msgid "msgid "An error occurred while loading the radio.""
+msgstr "msgid "An error occurred while loading the radio.""
+
+#: base/mobile.po.list:119 
+msgid "msgstr "An error occurred while loading the radio.""
+msgstr "msgstr "An error occurred while loading the radio.""
+
+#: base/mobile.po.list:120 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:121 
+msgid "#: base/mobile.csv.list:31 "
+msgstr "#: base/mobile.csv.list:31 "
+
+#: base/mobile.po.list:122 
+msgid "msgid "An error occurred while reading the code.""
+msgstr "msgid "An error occurred while reading the code.""
+
+#: base/mobile.po.list:123 
+msgid "msgstr "An error occurred while reading the code.""
+msgstr "msgstr "An error occurred while reading the code.""
+
+#: base/mobile.po.list:124 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:125 
+msgid "#: base/mobile.csv.list:32 "
+msgstr "#: base/mobile.csv.list:32 "
+
+#: base/mobile.po.list:126 
+msgid "msgid "An unexpected error occurred while calculating the route.""
+msgstr "msgid "An unexpected error occurred while calculating the route.""
+
+#: base/mobile.po.list:127 
+msgid "msgstr "An unexpected error occurred while calculating the route.""
+msgstr "msgstr "An unexpected error occurred while calculating the route.""
+
+#: base/mobile.po.list:128 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:129 
+msgid "#: base/mobile.csv.list:33 "
+msgstr "#: base/mobile.csv.list:33 "
+
+#: base/mobile.po.list:130 
+msgid "msgid "An unknown error occurred.""
+msgstr "msgid "An unknown error occurred.""
+
+#: base/mobile.po.list:131 
+msgid "msgstr "An unknown error occurred.""
+msgstr "msgstr "An unknown error occurred.""
+
+#: base/mobile.po.list:132 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:133 
+msgid "#: base/mobile.csv.list:34 "
+msgstr "#: base/mobile.csv.list:34 "
+
+#: base/mobile.po.list:134 
+msgid "msgid "Answer is required""
+msgstr "msgid "Answer is required""
+
+#: base/mobile.po.list:135 
+msgid "msgstr "Answer is required""
+msgstr "msgstr "Answer is required""
+
+#: base/mobile.po.list:136 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:137 
+msgid "#: base/mobile.csv.list:35 "
+msgstr "#: base/mobile.csv.list:35 "
+
+#: base/mobile.po.list:138 
+msgid "msgid "Answer must be a numerical value""
+msgstr "msgid "Answer must be a numerical value""
+
+#: base/mobile.po.list:139 
+msgid "msgstr "Answer must be a numerical value""
+msgstr "msgstr "Answer must be a numerical value""
+
+#: base/mobile.po.list:140 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:141 
+msgid "#: base/mobile.csv.list:36 "
+msgstr "#: base/mobile.csv.list:36 "
+
+#: base/mobile.po.list:142 
+msgid "msgid "Answer must be a valid date""
+msgstr "msgid "Answer must be a valid date""
+
+#: base/mobile.po.list:143 
+msgid "msgstr "Answer must be a valid date""
+msgstr "msgstr "Answer must be a valid date""
+
+#: base/mobile.po.list:144 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:145 
+msgid "#: base/mobile.csv.list:37 "
+msgstr "#: base/mobile.csv.list:37 "
+
+#: base/mobile.po.list:146 
+msgid "msgid "Answer must be a valid email""
+msgstr "msgid "Answer must be a valid email""
+
+#: base/mobile.po.list:147 
+msgid "msgstr "Answer must be a valid email""
+msgstr "msgstr "Answer must be a valid email""
+
+#: base/mobile.po.list:148 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:149 
+msgid "#: base/mobile.csv.list:38 "
+msgstr "#: base/mobile.csv.list:38 "
+
+#: base/mobile.po.list:150 
+msgid "msgid "Application is Locked""
+msgstr "msgid "Application is Locked""
+
+#: base/mobile.po.list:151 
+msgid "msgstr "Application is Locked""
+msgstr "msgstr "Application is Locked""
+
+#: base/mobile.po.list:152 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:153 
+msgid "#: base/mobile.csv.list:39 "
+msgstr "#: base/mobile.csv.list:39 "
+
+#: base/mobile.po.list:154 
+msgid "msgid "Astronomy""
+msgstr "msgid "Astronomy""
+
+#: base/mobile.po.list:155 
+msgid "msgstr "Astronomy""
+msgstr "msgstr "Astronomy""
+
+#: base/mobile.po.list:156 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:157 
+msgid "#: base/mobile.csv.list:40 "
+msgstr "#: base/mobile.csv.list:40 "
+
+#: base/mobile.po.list:158 
+msgid "msgid "Atmosphere""
+msgstr "msgid "Atmosphere""
+
+#: base/mobile.po.list:159 
+msgid "msgstr "Atmosphere""
+msgstr "msgstr "Atmosphere""
+
+#: base/mobile.po.list:160 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:161 
+msgid "#: base/mobile.csv.list:41 "
+msgstr "#: base/mobile.csv.list:41 "
+
+#: base/mobile.po.list:162 
+msgid "msgid "Back""
+msgstr "msgid "Back""
+
+#: base/mobile.po.list:163 
+msgid "msgstr "Back""
+msgstr "msgstr "Back""
+
+#: base/mobile.po.list:164 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:165 
+msgid "#: base/mobile.csv.list:42 "
+msgstr "#: base/mobile.csv.list:42 "
+
+#: base/mobile.po.list:166 
+msgid "msgid "Bio""
+msgstr "msgid "Bio""
+
+#: base/mobile.po.list:167 
+msgid "msgstr "Bio""
+msgstr "msgstr "Bio""
+
+#: base/mobile.po.list:168 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:169 
+msgid "#: base/mobile.csv.list:43 "
+msgstr "#: base/mobile.csv.list:43 "
+
+#: base/mobile.po.list:170 
+msgid "msgid "Block""
+msgstr "msgid "Block""
+
+#: base/mobile.po.list:171 
+msgid "msgstr "Block""
+msgstr "msgstr "Block""
+
+#: base/mobile.po.list:172 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:173 
+msgid "#: base/mobile.csv.list:44 "
+msgstr "#: base/mobile.csv.list:44 "
+
+#: base/mobile.po.list:174 
+msgid "msgid "Blocked users""
+msgstr "msgid "Blocked users""
+
+#: base/mobile.po.list:175 
+msgid "msgstr "Blocked users""
+msgstr "msgstr "Blocked users""
+
+#: base/mobile.po.list:176 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:177 
+msgid "#: base/mobile.csv.list:45 "
+msgstr "#: base/mobile.csv.list:45 "
+
+#: base/mobile.po.list:178 
+msgid "msgid "Booking details""
+msgstr "msgid "Booking details""
+
+#: base/mobile.po.list:179 
+msgid "msgstr "Booking details""
+msgstr "msgstr "Booking details""
+
+#: base/mobile.po.list:180 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:181 
+msgid "#: base/mobile.csv.list:46 "
+msgstr "#: base/mobile.csv.list:46 "
+
+#: base/mobile.po.list:182 
+msgid "msgid "Buffering""
+msgstr "msgid "Buffering""
+
+#: base/mobile.po.list:183 
+msgid "msgstr "Buffering""
+msgstr "msgstr "Buffering""
+
+#: base/mobile.po.list:184 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:185 
+msgid "#: base/mobile.csv.list:47 "
+msgstr "#: base/mobile.csv.list:47 "
+
+#: base/mobile.po.list:186 
+msgid "msgid "Buy Tickets""
+msgstr "msgid "Buy Tickets""
+
+#: base/mobile.po.list:187 
+msgid "msgstr "Buy Tickets""
+msgstr "msgstr "Buy Tickets""
+
+#: base/mobile.po.list:188 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:189 
+msgid "#: base/mobile.csv.list:48 "
+msgstr "#: base/mobile.csv.list:48 "
+
+#: base/mobile.po.list:190 
+msgid "msgid "Buy tickets""
+msgstr "msgid "Buy tickets""
+
+#: base/mobile.po.list:191 
+msgid "msgstr "Buy tickets""
+msgstr "msgstr "Buy tickets""
+
+#: base/mobile.po.list:192 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:193 
+msgid "#: base/mobile.csv.list:49 "
+msgstr "#: base/mobile.csv.list:49 "
+
+#: base/mobile.po.list:194 
+msgid "msgid "By""
+msgstr "msgid "By""
+
+#: base/mobile.po.list:195 
+msgid "msgstr "By""
+msgstr "msgstr "By""
+
+#: base/mobile.po.list:196 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:197 
+msgid "#: base/mobile.csv.list:50 "
+msgstr "#: base/mobile.csv.list:50 "
+
+#: base/mobile.po.list:198 
+msgid "msgid "COMMENTS""
+msgstr "msgid "COMMENTS""
+
+#: base/mobile.po.list:199 
+msgid "msgstr "COMMENTS""
+msgstr "msgstr "COMMENTS""
+
+#: base/mobile.po.list:200 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:201 
+msgid "#: base/mobile.csv.list:51 "
+msgstr "#: base/mobile.csv.list:51 "
+
+#: base/mobile.po.list:202 
+msgid "msgid "CVC""
+msgstr "msgid "CVC""
+
+#: base/mobile.po.list:203 
+msgid "msgstr "CVC""
+msgstr "msgstr "CVC""
+
+#: base/mobile.po.list:204 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:205 
+msgid "#: base/mobile.csv.list:52 "
+msgstr "#: base/mobile.csv.list:52 "
+
+#: base/mobile.po.list:206 
+msgid "msgid "CVC ***""
+msgstr "msgid "CVC ***""
+
+#: base/mobile.po.list:207 
+msgid "msgstr "CVC ***""
+msgstr "msgstr "CVC ***""
+
+#: base/mobile.po.list:208 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:209 
+msgid "#: base/mobile.csv.list:53 "
+msgstr "#: base/mobile.csv.list:53 "
+
+#: base/mobile.po.list:210 
+msgid "msgid "Calculate""
+msgstr "msgid "Calculate""
+
+#: base/mobile.po.list:211 
+msgid "msgstr "Calculate""
+msgstr "msgstr "Calculate""
+
+#: base/mobile.po.list:212 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:213 
+msgid "#: base/mobile.csv.list:54 "
+msgstr "#: base/mobile.csv.list:54 "
+
+#: base/mobile.po.list:214 
+msgid "msgid "Cancel""
+msgstr "msgid "Cancel""
+
+#: base/mobile.po.list:215 
+msgid "msgstr "Cancel""
+msgstr "msgstr "Cancel""
+
+#: base/mobile.po.list:216 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:217 
+msgid "#: base/mobile.csv.list:55 "
+msgstr "#: base/mobile.csv.list:55 "
+
+#: base/mobile.po.list:218 
+msgid "msgid "Cancel delete""
+msgstr "msgid "Cancel delete""
+
+#: base/mobile.po.list:219 
+msgid "msgstr "Cancel delete""
+msgstr "msgstr "Cancel delete""
+
+#: base/mobile.po.list:220 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:221 
+msgid "#: base/mobile.csv.list:56 "
+msgstr "#: base/mobile.csv.list:56 "
+
+#: base/mobile.po.list:222 
+msgid "msgid "Cancel edit""
+msgstr "msgid "Cancel edit""
+
+#: base/mobile.po.list:223 
+msgid "msgstr "Cancel edit""
+msgstr "msgstr "Cancel edit""
+
+#: base/mobile.po.list:224 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:225 
+msgid "#: base/mobile.csv.list:57 "
+msgstr "#: base/mobile.csv.list:57 "
+
+#: base/mobile.po.list:226 
+msgid "msgid "Cancel friend request""
+msgstr "msgid "Cancel friend request""
+
+#: base/mobile.po.list:227 
+msgid "msgstr "Cancel friend request""
+msgstr "msgstr "Cancel friend request""
+
+#: base/mobile.po.list:228 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:229 
+msgid "#: base/mobile.csv.list:58 "
+msgstr "#: base/mobile.csv.list:58 "
+
+#: base/mobile.po.list:230 
+msgid "msgid "Card Number""
+msgstr "msgid "Card Number""
+
+#: base/mobile.po.list:231 
+msgid "msgstr "Card Number""
+msgstr "msgstr "Card Number""
+
+#: base/mobile.po.list:232 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:233 
+msgid "#: base/mobile.csv.list:59 "
+msgstr "#: base/mobile.csv.list:59 "
+
+#: base/mobile.po.list:234 
+msgid "msgid "Cart""
+msgstr "msgid "Cart""
+
+#: base/mobile.po.list:235 
+msgid "msgstr "Cart""
+msgstr "msgstr "Cart""
+
+#: base/mobile.po.list:236 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:237 
+msgid "#: base/mobile.csv.list:60 "
+msgstr "#: base/mobile.csv.list:60 "
+
+#: base/mobile.po.list:238 
+msgid "msgid "Categories""
+msgstr "msgid "Categories""
+
+#: base/mobile.po.list:239 
+msgid "msgstr "Categories""
+msgstr "msgstr "Categories""
+
+#: base/mobile.po.list:240 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:241 
+msgid "#: base/mobile.csv.list:61 "
+msgstr "#: base/mobile.csv.list:61 "
+
+#: base/mobile.po.list:242 
+msgid "msgid "Category""
+msgstr "msgid "Category""
+
+#: base/mobile.po.list:243 
+msgid "msgstr "Category""
+msgstr "msgstr "Category""
+
+#: base/mobile.po.list:244 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:245 
+msgid "#: base/mobile.csv.list:62 "
+msgstr "#: base/mobile.csv.list:62 "
+
+#: base/mobile.po.list:246 
+msgid "msgid "Category enabled""
+msgstr "msgid "Category enabled""
+
+#: base/mobile.po.list:247 
+msgid "msgstr "Category enabled""
+msgstr "msgstr "Category enabled""
+
+#: base/mobile.po.list:248 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:249 
+msgid "#: base/mobile.csv.list:63 "
+msgstr "#: base/mobile.csv.list:63 "
+
+#: base/mobile.po.list:250 
+msgid "msgid "Challengers""
+msgstr "msgid "Challengers""
+
+#: base/mobile.po.list:251 
+msgid "msgstr "Challengers""
+msgstr "msgstr "Challengers""
+
+#: base/mobile.po.list:252 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:253 
+msgid "#: base/mobile.csv.list:64 "
+msgstr "#: base/mobile.csv.list:64 "
+
+#: base/mobile.po.list:254 
+msgid "msgid "Change Password""
+msgstr "msgid "Change Password""
+
+#: base/mobile.po.list:255 
+msgid "msgstr "Change Password""
+msgstr "msgstr "Change Password""
+
+#: base/mobile.po.list:256 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:257 
+msgid "#: base/mobile.csv.list:65 "
+msgstr "#: base/mobile.csv.list:65 "
+
+#: base/mobile.po.list:258 
+msgid "msgid "Change location""
+msgstr "msgid "Change location""
+
+#: base/mobile.po.list:259 
+msgid "msgstr "Change location""
+msgstr "msgstr "Change location""
+
+#: base/mobile.po.list:260 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:261 
+msgid "#: base/mobile.csv.list:66 "
+msgstr "#: base/mobile.csv.list:66 "
+
+#: base/mobile.po.list:262 
+msgid "msgid "Change nickname""
+msgstr "msgid "Change nickname""
+
+#: base/mobile.po.list:263 
+msgid "msgstr "Change nickname""
+msgstr "msgstr "Change nickname""
+
+#: base/mobile.po.list:264 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:265 
+msgid "#: base/mobile.csv.list:67 "
+msgstr "#: base/mobile.csv.list:67 "
+
+#: base/mobile.po.list:266 
+msgid "msgid "Chatrooms""
+msgstr "msgid "Chatrooms""
+
+#: base/mobile.po.list:267 
+msgid "msgstr "Chatrooms""
+msgstr "msgstr "Chatrooms""
+
+#: base/mobile.po.list:268 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:269 
+msgid "#: base/mobile.csv.list:68 "
+msgstr "#: base/mobile.csv.list:68 "
+
+#: base/mobile.po.list:270 
+msgid "msgid "Chill:""
+msgstr "msgid "Chill:""
+
+#: base/mobile.po.list:271 
+msgid "msgstr "Chill:""
+msgstr "msgstr "Chill:""
+
+#: base/mobile.po.list:272 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:273 
+msgid "#: base/mobile.csv.list:69 "
+msgstr "#: base/mobile.csv.list:69 "
+
+#: base/mobile.po.list:274 
+msgid "msgid "Choose a delivery method:""
+msgstr "msgid "Choose a delivery method:""
+
+#: base/mobile.po.list:275 
+msgid "msgstr "Choose a delivery method:""
+msgstr "msgstr "Choose a delivery method:""
+
+#: base/mobile.po.list:276 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:277 
+msgid "#: base/mobile.csv.list:70 "
+msgstr "#: base/mobile.csv.list:70 "
+
+#: base/mobile.po.list:278 
+msgid "msgid "Choose a payment method:""
+msgstr "msgid "Choose a payment method:""
+
+#: base/mobile.po.list:279 
+msgid "msgstr "Choose a payment method:""
+msgstr "msgstr "Choose a payment method:""
+
+#: base/mobile.po.list:280 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:281 
+msgid "#: base/mobile.csv.list:71 "
+msgstr "#: base/mobile.csv.list:71 "
+
+#: base/mobile.po.list:282 
+msgid "msgid "Choose a store""
+msgstr "msgid "Choose a store""
+
+#: base/mobile.po.list:283 
+msgid "msgstr "Choose a store""
+msgstr "msgstr "Choose a store""
+
+#: base/mobile.po.list:284 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:285 
+msgid "#: base/mobile.csv.list:72 "
+msgstr "#: base/mobile.csv.list:72 "
+
+#: base/mobile.po.list:286 
+msgid "msgid "City""
+msgstr "msgid "City""
+
+#: base/mobile.po.list:287 
+msgid "msgstr "City""
+msgstr "msgstr "City""
+
+#: base/mobile.po.list:288 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:289 
+msgid "#: base/mobile.csv.list:73 "
+msgstr "#: base/mobile.csv.list:73 "
+
+#: base/mobile.po.list:290 
+msgid "msgid "Civility""
+msgstr "msgid "Civility""
+
+#: base/mobile.po.list:291 
+msgid "msgstr "Civility""
+msgstr "msgstr "Civility""
+
+#: base/mobile.po.list:292 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:293 
+msgid "#: base/mobile.csv.list:74 "
+msgstr "#: base/mobile.csv.list:74 "
+
+#: base/mobile.po.list:294 
+msgid "msgid "Clear""
+msgstr "msgid "Clear""
+
+#: base/mobile.po.list:295 
+msgid "msgstr "Clear""
+msgstr "msgstr "Clear""
+
+#: base/mobile.po.list:296 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:297 
+msgid "#: base/mobile.csv.list:75 "
+msgstr "#: base/mobile.csv.list:75 "
+
+#: base/mobile.po.list:298 
+msgid "msgid "Click here to log-in""
+msgstr "msgid "Click here to log-in""
+
+#: base/mobile.po.list:299 
+msgid "msgstr "Click here to log-in""
+msgstr "msgstr "Click here to log-in""
+
+#: base/mobile.po.list:300 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:301 
+msgid "#: base/mobile.csv.list:76 "
+msgstr "#: base/mobile.csv.list:76 "
+
+#: base/mobile.po.list:302 
+msgid "msgid "Click here to view more details on current weather.""
+msgstr "msgid "Click here to view more details on current weather.""
+
+#: base/mobile.po.list:303 
+msgid "msgstr "Click here to view more details on current weather.""
+msgstr "msgstr "Click here to view more details on current weather.""
+
+#: base/mobile.po.list:304 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:305 
+msgid "#: base/mobile.csv.list:77 "
+msgstr "#: base/mobile.csv.list:77 "
+
+#: base/mobile.po.list:306 
+msgid "msgid "Close""
+msgstr "msgid "Close""
+
+#: base/mobile.po.list:307 
+msgid "msgstr "Close""
+msgstr "msgstr "Close""
+
+#: base/mobile.po.list:308 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:309 
+msgid "#: base/mobile.csv.list:78 "
+msgstr "#: base/mobile.csv.list:78 "
+
+#: base/mobile.po.list:310 
+msgid "msgid "Closed by Admin""
+msgstr "msgid "Closed by Admin""
+
+#: base/mobile.po.list:311 
+msgid "msgstr "Closed by Admin""
+msgstr "msgstr "Closed by Admin""
+
+#: base/mobile.po.list:312 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:313 
+msgid "#: base/mobile.csv.list:79 "
+msgstr "#: base/mobile.csv.list:79 "
+
+#: base/mobile.po.list:314 
+msgid "msgid "Comment""
+msgstr "msgid "Comment""
+
+#: base/mobile.po.list:315 
+msgid "msgstr "Comment""
+msgstr "msgstr "Comment""
+
+#: base/mobile.po.list:316 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:317 
+msgid "#: base/mobile.csv.list:80 "
+msgstr "#: base/mobile.csv.list:80 "
+
+#: base/mobile.po.list:318 
+msgid "msgid "Comments""
+msgstr "msgid "Comments""
+
+#: base/mobile.po.list:319 
+msgid "msgstr "Comments""
+msgstr "msgstr "Comments""
+
+#: base/mobile.po.list:320 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:321 
+msgid "#: base/mobile.csv.list:81 "
+msgstr "#: base/mobile.csv.list:81 "
+
+#: base/mobile.po.list:322 
+msgid "msgid "Companies""
+msgstr "msgid "Companies""
+
+#: base/mobile.po.list:323 
+msgid "msgstr "Companies""
+msgstr "msgstr "Companies""
+
+#: base/mobile.po.list:324 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:325 
+msgid "#: base/mobile.csv.list:82 "
+msgstr "#: base/mobile.csv.list:82 "
+
+#: base/mobile.po.list:326 
+msgid "msgid "Company""
+msgstr "msgid "Company""
+
+#: base/mobile.po.list:327 
+msgid "msgstr "Company""
+msgstr "msgstr "Company""
+
+#: base/mobile.po.list:328 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:329 
+msgid "#: base/mobile.csv.list:83 "
+msgstr "#: base/mobile.csv.list:83 "
+
+#: base/mobile.po.list:330 
+msgid "msgid "Company enabled""
+msgstr "msgid "Company enabled""
+
+#: base/mobile.po.list:331 
+msgid "msgstr "Company enabled""
+msgstr "msgstr "Company enabled""
+
+#: base/mobile.po.list:332 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:333 
+msgid "#: base/mobile.csv.list:84 "
+msgstr "#: base/mobile.csv.list:84 "
+
+#: base/mobile.po.list:334 
+msgid "msgid "Coms""
+msgstr "msgid "Coms""
+
+#: base/mobile.po.list:335 
+msgid "msgstr "Coms""
+msgstr "msgstr "Coms""
+
+#: base/mobile.po.list:336 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:337 
+msgid "#: base/mobile.csv.list:85 "
+msgstr "#: base/mobile.csv.list:85 "
+
+#: base/mobile.po.list:338 
+msgid "msgid "Confirmation""
+msgstr "msgid "Confirmation""
+
+#: base/mobile.po.list:339 
+msgid "msgstr "Confirmation""
+msgstr "msgstr "Confirmation""
+
+#: base/mobile.po.list:340 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:341 
+msgid "#: base/mobile.csv.list:86 "
+msgstr "#: base/mobile.csv.list:86 "
+
+#: base/mobile.po.list:342 
+msgid "msgid "Connect me!""
+msgstr "msgid "Connect me!""
+
+#: base/mobile.po.list:343 
+msgid "msgstr "Connect me!""
+msgstr "msgstr "Connect me!""
+
+#: base/mobile.po.list:344 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:345 
+msgid "#: base/mobile.csv.list:87 "
+msgstr "#: base/mobile.csv.list:87 "
+
+#: base/mobile.po.list:346 
+msgid "msgid "Contact form""
+msgstr "msgid "Contact form""
+
+#: base/mobile.po.list:347 
+msgid "msgstr "Contact form""
+msgstr "msgstr "Contact form""
+
+#: base/mobile.po.list:348 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:349 
+msgid "#: base/mobile.csv.list:88 "
+msgstr "#: base/mobile.csv.list:88 "
+
+#: base/mobile.po.list:350 
+msgid "msgid "Continue shopping""
+msgstr "msgid "Continue shopping""
+
+#: base/mobile.po.list:351 
+msgid "msgstr "Continue shopping""
+msgstr "msgstr "Continue shopping""
+
+#: base/mobile.po.list:352 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:353 
+msgid "#: base/mobile.csv.list:89 "
+msgstr "#: base/mobile.csv.list:89 "
+
+#: base/mobile.po.list:354 
+msgid "msgid "Contract type""
+msgstr "msgid "Contract type""
+
+#: base/mobile.po.list:355 
+msgid "msgstr "Contract type""
+msgstr "msgstr "Contract type""
+
+#: base/mobile.po.list:356 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:357 
+msgid "#: base/mobile.csv.list:90 "
+msgstr "#: base/mobile.csv.list:90 "
+
+#: base/mobile.po.list:358 
+msgid "msgid "Copy""
+msgstr "msgid "Copy""
+
+#: base/mobile.po.list:359 
+msgid "msgstr "Copy""
+msgstr "msgstr "Copy""
+
+#: base/mobile.po.list:360 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:361 
+msgid "#: base/mobile.csv.list:91 "
+msgstr "#: base/mobile.csv.list:91 "
+
+#: base/mobile.po.list:362 
+msgid "msgid "Country""
+msgstr "msgid "Country""
+
+#: base/mobile.po.list:363 
+msgid "msgstr "Country""
+msgstr "msgstr "Country""
+
+#: base/mobile.po.list:364 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:365 
+msgid "#: base/mobile.csv.list:92 "
+msgstr "#: base/mobile.csv.list:92 "
+
+#: base/mobile.po.list:366 
+msgid "msgid "Create a new discount""
+msgstr "msgid "Create a new discount""
+
+#: base/mobile.po.list:367 
+msgid "msgstr "Create a new discount""
+msgstr "msgstr "Create a new discount""
+
+#: base/mobile.po.list:368 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:369 
+msgid "#: base/mobile.csv.list:93 "
+msgstr "#: base/mobile.csv.list:93 "
+
+#: base/mobile.po.list:370 
+msgid "msgid "Create an account""
+msgstr "msgid "Create an account""
+
+#: base/mobile.po.list:371 
+msgid "msgstr "Create an account""
+msgstr "msgstr "Create an account""
+
+#: base/mobile.po.list:372 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:373 
+msgid "#: base/mobile.csv.list:94 "
+msgstr "#: base/mobile.csv.list:94 "
+
+#: base/mobile.po.list:374 
+msgid "msgid "Currently no challengers""
+msgstr "msgid "Currently no challengers""
+
+#: base/mobile.po.list:375 
+msgid "msgstr "Currently no challengers""
+msgstr "msgstr "Currently no challengers""
+
+#: base/mobile.po.list:376 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:377 
+msgid "#: base/mobile.csv.list:95 "
+msgstr "#: base/mobile.csv.list:95 "
+
+#: base/mobile.po.list:378 
+msgid "msgid "Date and time""
+msgstr "msgid "Date and time""
+
+#: base/mobile.po.list:379 
+msgid "msgstr "Date and time""
+msgstr "msgstr "Date and time""
+
+#: base/mobile.po.list:380 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:381 
+msgid "#: base/mobile.csv.list:96 "
+msgstr "#: base/mobile.csv.list:96 "
+
+#: base/mobile.po.list:382 
+msgid "msgid "Date of birth""
+msgstr "msgid "Date of birth""
+
+#: base/mobile.po.list:383 
+msgid "msgstr "Date of birth""
+msgstr "msgstr "Date of birth""
+
+#: base/mobile.po.list:384 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:385 
+msgid "#: base/mobile.csv.list:97 "
+msgstr "#: base/mobile.csv.list:97 "
+
+#: base/mobile.po.list:386 
+msgid "msgid "Delete""
+msgstr "msgid "Delete""
+
+#: base/mobile.po.list:387 
+msgid "msgstr "Delete""
+msgstr "msgstr "Delete""
+
+#: base/mobile.po.list:388 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:389 
+msgid "#: base/mobile.csv.list:98 "
+msgstr "#: base/mobile.csv.list:98 "
+
+#: base/mobile.po.list:390 
+msgid "msgid "Delivery""
+msgstr "msgid "Delivery""
+
+#: base/mobile.po.list:391 
+msgid "msgstr "Delivery""
+msgstr "msgstr "Delivery""
+
+#: base/mobile.po.list:392 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:393 
+msgid "#: base/mobile.csv.list:99 "
+msgstr "#: base/mobile.csv.list:99 "
+
+#: base/mobile.po.list:394 
+msgid "msgid "Delivery Method""
+msgstr "msgid "Delivery Method""
+
+#: base/mobile.po.list:395 
+msgid "msgstr "Delivery Method""
+msgstr "msgstr "Delivery Method""
+
+#: base/mobile.po.list:396 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:397 
+msgid "#: base/mobile.csv.list:100 "
+msgstr "#: base/mobile.csv.list:100 "
+
+#: base/mobile.po.list:398 
+msgid "msgid "Delivery address""
+msgstr "msgid "Delivery address""
+
+#: base/mobile.po.list:399 
+msgid "msgstr "Delivery address""
+msgstr "msgstr "Delivery address""
+
+#: base/mobile.po.list:400 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:401 
+msgid "#: base/mobile.csv.list:101 "
+msgstr "#: base/mobile.csv.list:101 "
+
+#: base/mobile.po.list:402 
+msgid "msgid "Delivery fees""
+msgstr "msgid "Delivery fees""
+
+#: base/mobile.po.list:403 
+msgid "msgstr "Delivery fees""
+msgstr "msgstr "Delivery fees""
+
+#: base/mobile.po.list:404 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:405 
+msgid "#: base/mobile.csv.list:102 "
+msgstr "#: base/mobile.csv.list:102 "
+
+#: base/mobile.po.list:406 
+msgid "msgid "Description""
+msgstr "msgid "Description""
+
+#: base/mobile.po.list:407 
+msgid "msgstr "Description""
+msgstr "msgstr "Description""
+
+#: base/mobile.po.list:408 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:409 
+msgid "#: base/mobile.csv.list:103 "
+msgstr "#: base/mobile.csv.list:103 "
+
+#: base/mobile.po.list:410 
+msgid "msgid "Direction:""
+msgstr "msgid "Direction:""
+
+#: base/mobile.po.list:411 
+msgid "msgstr "Direction:""
+msgstr "msgstr "Direction:""
+
+#: base/mobile.po.list:412 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:413 
+msgid "#: base/mobile.csv.list:104 "
+msgstr "#: base/mobile.csv.list:104 "
+
+#: base/mobile.po.list:414 
+msgid "msgid "Discound code""
+msgstr "msgid "Discound code""
+
+#: base/mobile.po.list:415 
+msgid "msgstr "Discound code""
+msgstr "msgstr "Discound code""
+
+#: base/mobile.po.list:416 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:417 
+msgid "#: base/mobile.csv.list:105 "
+msgstr "#: base/mobile.csv.list:105 "
+
+#: base/mobile.po.list:418 
+msgid "msgid "Discount""
+msgstr "msgid "Discount""
+
+#: base/mobile.po.list:419 
+msgid "msgstr "Discount""
+msgstr "msgstr "Discount""
+
+#: base/mobile.po.list:420 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:421 
+msgid "#: base/mobile.csv.list:106 "
+msgstr "#: base/mobile.csv.list:106 "
+
+#: base/mobile.po.list:422 
+msgid "msgid "Discount amount""
+msgstr "msgid "Discount amount""
+
+#: base/mobile.po.list:423 
+msgid "msgstr "Discount amount""
+msgstr "msgstr "Discount amount""
+
+#: base/mobile.po.list:424 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:425 
+msgid "#: base/mobile.csv.list:107 "
+msgstr "#: base/mobile.csv.list:107 "
+
+#: base/mobile.po.list:426 
+msgid "msgid "Discount code""
+msgstr "msgid "Discount code""
+
+#: base/mobile.po.list:427 
+msgid "msgstr "Discount code""
+msgstr "msgstr "Discount code""
+
+#: base/mobile.po.list:428 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:429 
+msgid "#: base/mobile.csv.list:108 "
+msgstr "#: base/mobile.csv.list:108 "
+
+#: base/mobile.po.list:430 
+msgid "msgid "Discount total""
+msgstr "msgid "Discount total""
+
+#: base/mobile.po.list:431 
+msgid "msgstr "Discount total""
+msgstr "msgstr "Discount total""
+
+#: base/mobile.po.list:432 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:433 
+msgid "#: base/mobile.csv.list:109 "
+msgstr "#: base/mobile.csv.list:109 "
+
+#: base/mobile.po.list:434 
+msgid "msgid "Discount used""
+msgstr "msgid "Discount used""
+
+#: base/mobile.po.list:435 
+msgid "msgstr "Discount used""
+msgstr "msgstr "Discount used""
+
+#: base/mobile.po.list:436 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:437 
+msgid "#: base/mobile.csv.list:110 "
+msgstr "#: base/mobile.csv.list:110 "
+
+#: base/mobile.po.list:438 
+msgid "msgid "Dismiss""
+msgstr "msgid "Dismiss""
+
+#: base/mobile.po.list:439 
+msgid "msgstr "Dismiss""
+msgstr "msgstr "Dismiss""
+
+#: base/mobile.po.list:440 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:441 
+msgid "#: base/mobile.csv.list:111 "
+msgstr "#: base/mobile.csv.list:111 "
+
+#: base/mobile.po.list:442 
+msgid "msgid "Display Search""
+msgstr "msgid "Display Search""
+
+#: base/mobile.po.list:443 
+msgid "msgstr "Display Search""
+msgstr "msgstr "Display Search""
+
+#: base/mobile.po.list:444 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:445 
+msgid "#: base/mobile.csv.list:112 "
+msgstr "#: base/mobile.csv.list:112 "
+
+#: base/mobile.po.list:446 
+msgid "msgid "Display contact""
+msgstr "msgid "Display contact""
+
+#: base/mobile.po.list:447 
+msgid "msgstr "Display contact""
+msgstr "msgstr "Display contact""
+
+#: base/mobile.po.list:448 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:449 
+msgid "#: base/mobile.csv.list:113 "
+msgstr "#: base/mobile.csv.list:113 "
+
+#: base/mobile.po.list:450 
+msgid "msgid "Display income""
+msgstr "msgid "Display income""
+
+#: base/mobile.po.list:451 
+msgid "msgstr "Display income""
+msgstr "msgstr "Display income""
+
+#: base/mobile.po.list:452 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:453 
+msgid "#: base/mobile.csv.list:114 "
+msgstr "#: base/mobile.csv.list:114 "
+
+#: base/mobile.po.list:454 
+msgid "msgid "Display place icon""
+msgstr "msgid "Display place icon""
+
+#: base/mobile.po.list:455 
+msgid "msgstr "Display place icon""
+msgstr "msgstr "Display place icon""
+
+#: base/mobile.po.list:456 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:457 
+msgid "#: base/mobile.csv.list:115 "
+msgstr "#: base/mobile.csv.list:115 "
+
+#: base/mobile.po.list:458 
+msgid "msgid "Do you confirm you want to remove your card?""
+msgstr "msgid "Do you confirm you want to remove your card?""
+
+#: base/mobile.po.list:459 
+msgid "msgstr "Do you confirm you want to remove your card?""
+msgstr "msgstr "Do you confirm you want to remove your card?""
+
+#: base/mobile.po.list:460 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:461 
+msgid "#: base/mobile.csv.list:116 "
+msgstr "#: base/mobile.csv.list:116 "
+
+#: base/mobile.po.list:462 
+msgid "msgid "Do you want to download all the contents now to access it when offline? If you do, we recommend you to use a WiFi connection.""
+msgstr "msgid "Do you want to download all the contents now to access it when offline? If you do, we recommend you to use a WiFi connection.""
+
+#: base/mobile.po.list:463 
+msgid "msgstr "Do you want to download all the contents now to access it when offline? If you do, we recommend you to use a WiFi connection.""
+msgstr "msgstr "Do you want to download all the contents now to access it when offline? If you do, we recommend you to use a WiFi connection.""
+
+#: base/mobile.po.list:464 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:465 
+msgid "#: base/mobile.csv.list:117 "
+msgstr "#: base/mobile.csv.list:117 "
+
+#: base/mobile.po.list:466 
+msgid "msgid "Done""
+msgstr "msgid "Done""
+
+#: base/mobile.po.list:467 
+msgid "msgstr "Done""
+msgstr "msgstr "Done""
+
+#: base/mobile.po.list:468 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:469 
+msgid "#: base/mobile.csv.list:118 "
+msgstr "#: base/mobile.csv.list:118 "
+
+#: base/mobile.po.list:470 
+msgid "msgid "Downloading...""
+msgstr "msgid "Downloading...""
+
+#: base/mobile.po.list:471 
+msgid "msgstr "Downloading...""
+msgstr "msgstr "Downloading...""
+
+#: base/mobile.po.list:472 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:473 
+msgid "#: base/mobile.csv.list:119 "
+msgstr "#: base/mobile.csv.list:119 "
+
+#: base/mobile.po.list:474 
+msgid "msgid "E-Mail""
+msgstr "msgid "E-Mail""
+
+#: base/mobile.po.list:475 
+msgid "msgstr "E-Mail""
+msgstr "msgstr "E-Mail""
+
+#: base/mobile.po.list:476 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:477 
+msgid "#: base/mobile.csv.list:120 "
+msgstr "#: base/mobile.csv.list:120 "
+
+#: base/mobile.po.list:478 
+msgid "msgid "EXP""
+msgstr "msgid "EXP""
+
+#: base/mobile.po.list:479 
+msgid "msgstr "EXP""
+msgstr "msgstr "EXP""
+
+#: base/mobile.po.list:480 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:481 
+msgid "#: base/mobile.csv.list:121 "
+msgstr "#: base/mobile.csv.list:121 "
+
+#: base/mobile.po.list:482 
+msgid "msgid "Email""
+msgstr "msgid "Email""
+
+#: base/mobile.po.list:483 
+msgid "msgstr "Email""
+msgstr "msgstr "Email""
+
+#: base/mobile.po.list:484 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:485 
+msgid "#: base/mobile.csv.list:122 "
+msgstr "#: base/mobile.csv.list:122 "
+
+#: base/mobile.po.list:486 
+msgid "msgid "Email & Contact form""
+msgstr "msgid "Email & Contact form""
+
+#: base/mobile.po.list:487 
+msgid "msgstr "Email & Contact form""
+msgstr "msgstr "Email & Contact form""
+
+#: base/mobile.po.list:488 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:489 
+msgid "#: base/mobile.csv.list:123 "
+msgstr "#: base/mobile.csv.list:123 "
+
+#: base/mobile.po.list:490 
+msgid "msgid "Email successfully sent.""
+msgstr "msgid "Email successfully sent.""
+
+#: base/mobile.po.list:491 
+msgid "msgstr "Email successfully sent.""
+msgstr "msgstr "Email successfully sent.""
+
+#: base/mobile.po.list:492 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:493 
+msgid "#: base/mobile.csv.list:124 "
+msgstr "#: base/mobile.csv.list:124 "
+
+#: base/mobile.po.list:494 
+msgid "msgid "Employee count""
+msgstr "msgid "Employee count""
+
+#: base/mobile.po.list:495 
+msgid "msgstr "Employee count""
+msgstr "msgstr "Employee count""
+
+#: base/mobile.po.list:496 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:497 
+msgid "#: base/mobile.csv.list:125 "
+msgstr "#: base/mobile.csv.list:125 "
+
+#: base/mobile.po.list:498 
+msgid "msgid "Enter password""
+msgstr "msgid "Enter password""
+
+#: base/mobile.po.list:499 
+msgid "msgstr "Enter password""
+msgstr "msgstr "Enter password""
+
+#: base/mobile.po.list:500 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:501 
+msgid "#: base/mobile.csv.list:126 "
+msgstr "#: base/mobile.csv.list:126 "
+
+#: base/mobile.po.list:502 
+msgid "msgid "Enter the exact name of the private chatroom:""
+msgstr "msgid "Enter the exact name of the private chatroom:""
+
+#: base/mobile.po.list:503 
+msgid "msgstr "Enter the exact name of the private chatroom:""
+msgstr "msgstr "Enter the exact name of the private chatroom:""
+
+#: base/mobile.po.list:504 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:505 
+msgid "#: base/mobile.csv.list:127 "
+msgstr "#: base/mobile.csv.list:127 "
+
+#: base/mobile.po.list:506 
+msgid "msgid "Enter your friend's nickname or email address""
+msgstr "msgid "Enter your friend's nickname or email address""
+
+#: base/mobile.po.list:507 
+msgid "msgstr "Enter your friend's nickname or email address""
+msgstr "msgstr "Enter your friend's nickname or email address""
+
+#: base/mobile.po.list:508 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:509 
+msgid "#: base/mobile.csv.list:128 "
+msgstr "#: base/mobile.csv.list:128 "
+
+#: base/mobile.po.list:510 
+msgid "msgid "Entrance:""
+msgstr "msgid "Entrance:""
+
+#: base/mobile.po.list:511 
+msgid "msgstr "Entrance:""
+msgstr "msgstr "Entrance:""
+
+#: base/mobile.po.list:512 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:513 
+msgid "#: base/mobile.csv.list:129 "
+msgstr "#: base/mobile.csv.list:129 "
+
+#: base/mobile.po.list:514 
+msgid "msgid "Error""
+msgstr "msgid "Error""
+
+#: base/mobile.po.list:515 
+msgid "msgstr "Error""
+msgstr "msgstr "Error""
+
+#: base/mobile.po.list:516 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:517 
+msgid "#: base/mobile.csv.list:130 "
+msgstr "#: base/mobile.csv.list:130 "
+
+#: base/mobile.po.list:518 
+msgid "msgid "Estimated discount:""
+msgstr "msgid "Estimated discount:""
+
+#: base/mobile.po.list:519 
+msgid "msgstr "Estimated discount:""
+msgstr "msgstr "Estimated discount:""
+
+#: base/mobile.po.list:520 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:521 
+msgid "#: base/mobile.csv.list:131 "
+msgstr "#: base/mobile.csv.list:131 "
+
+#: base/mobile.po.list:522 
+msgid "msgid "Facebook""
+msgstr "msgid "Facebook""
+
+#: base/mobile.po.list:523 
+msgid "msgstr "Facebook""
+msgstr "msgstr "Facebook""
+
+#: base/mobile.po.list:524 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:525 
+msgid "#: base/mobile.csv.list:132 "
+msgstr "#: base/mobile.csv.list:132 "
+
+#: base/mobile.po.list:526 
+msgid "msgid "First Name""
+msgstr "msgid "First Name""
+
+#: base/mobile.po.list:527 
+msgid "msgstr "First Name""
+msgstr "msgstr "First Name""
+
+#: base/mobile.po.list:528 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:529 
+msgid "#: base/mobile.csv.list:133 "
+msgstr "#: base/mobile.csv.list:133 "
+
+#: base/mobile.po.list:530 
+msgid "msgid "First name / Last name""
+msgstr "msgid "First name / Last name""
+
+#: base/mobile.po.list:531 
+msgid "msgstr "First name / Last name""
+msgstr "msgstr "First name / Last name""
+
+#: base/mobile.po.list:532 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:533 
+msgid "#: base/mobile.csv.list:134 "
+msgstr "#: base/mobile.csv.list:134 "
+
+#: base/mobile.po.list:534 
+msgid "msgid "Firstname""
+msgstr "msgid "Firstname""
+
+#: base/mobile.po.list:535 
+msgid "msgstr "Firstname""
+msgstr "msgstr "Firstname""
+
+#: base/mobile.po.list:536 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:537 
+msgid "#: base/mobile.csv.list:135 "
+msgstr "#: base/mobile.csv.list:135 "
+
+#: base/mobile.po.list:538 
+msgid "msgid "Flag""
+msgstr "msgid "Flag""
+
+#: base/mobile.po.list:539 
+msgid "msgstr "Flag""
+msgstr "msgstr "Flag""
+
+#: base/mobile.po.list:540 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:541 
+msgid "#: base/mobile.csv.list:136 "
+msgstr "#: base/mobile.csv.list:136 "
+
+#: base/mobile.po.list:542 
+msgid "msgid "Flag as inappropriate""
+msgstr "msgid "Flag as inappropriate""
+
+#: base/mobile.po.list:543 
+msgid "msgstr "Flag as inappropriate""
+msgstr "msgstr "Flag as inappropriate""
+
+#: base/mobile.po.list:544 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:545 
+msgid "#: base/mobile.csv.list:137 "
+msgstr "#: base/mobile.csv.list:137 "
+
+#: base/mobile.po.list:546 
+msgid "msgid "Forgot your password?""
+msgstr "msgid "Forgot your password?""
+
+#: base/mobile.po.list:547 
+msgid "msgstr "Forgot your password?""
+msgstr "msgstr "Forgot your password?""
+
+#: base/mobile.po.list:548 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:549 
+msgid "#: base/mobile.csv.list:138 "
+msgstr "#: base/mobile.csv.list:138 "
+
+#: base/mobile.po.list:550 
+msgid "msgid "Form error""
+msgstr "msgid "Form error""
+
+#: base/mobile.po.list:551 
+msgid "msgstr "Form error""
+msgstr "msgstr "Form error""
+
+#: base/mobile.po.list:552 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:553 
+msgid "#: base/mobile.csv.list:139 "
+msgstr "#: base/mobile.csv.list:139 "
+
+#: base/mobile.po.list:554 
+msgid "msgid "Format:""
+msgstr "msgid "Format:""
+
+#: base/mobile.po.list:555 
+msgid "msgstr "Format:""
+msgstr "msgstr "Format:""
+
+#: base/mobile.po.list:556 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:557 
+msgid "#: base/mobile.csv.list:140 "
+msgstr "#: base/mobile.csv.list:140 "
+
+#: base/mobile.po.list:558 
+msgid "msgid "Free purchase""
+msgstr "msgid "Free purchase""
+
+#: base/mobile.po.list:559 
+msgid "msgstr "Free purchase""
+msgstr "msgstr "Free purchase""
+
+#: base/mobile.po.list:560 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:561 
+msgid "#: base/mobile.csv.list:141 "
+msgstr "#: base/mobile.csv.list:141 "
+
+#: base/mobile.po.list:562 
+msgid "msgid "Fri""
+msgstr "msgid "Fri""
+
+#: base/mobile.po.list:563 
+msgid "msgstr "Fri""
+msgstr "msgstr "Fri""
+
+#: base/mobile.po.list:564 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:565 
+msgid "#: base/mobile.csv.list:142 "
+msgstr "#: base/mobile.csv.list:142 "
+
+#: base/mobile.po.list:566 
+msgid "msgid "Friend requests""
+msgstr "msgid "Friend requests""
+
+#: base/mobile.po.list:567 
+msgid "msgstr "Friend requests""
+msgstr "msgstr "Friend requests""
+
+#: base/mobile.po.list:568 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:569 
+msgid "#: base/mobile.csv.list:143 "
+msgstr "#: base/mobile.csv.list:143 "
+
+#: base/mobile.po.list:570 
+msgid "msgid "Friends""
+msgstr "msgid "Friends""
+
+#: base/mobile.po.list:571 
+msgid "msgstr "Friends""
+msgstr "msgstr "Friends""
+
+#: base/mobile.po.list:572 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:573 
+msgid "#: base/mobile.csv.list:144 "
+msgstr "#: base/mobile.csv.list:144 "
+
+#: base/mobile.po.list:574 
+msgid "msgid "From:""
+msgstr "msgid "From:""
+
+#: base/mobile.po.list:575 
+msgid "msgstr "From:""
+msgstr "msgstr "From:""
+
+#: base/mobile.po.list:576 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:577 
+msgid "#: base/mobile.csv.list:145 "
+msgstr "#: base/mobile.csv.list:145 "
+
+#: base/mobile.po.list:578 
+msgid "msgid "General""
+msgstr "msgid "General""
+
+#: base/mobile.po.list:579 
+msgid "msgstr "General""
+msgstr "msgstr "General""
+
+#: base/mobile.po.list:580 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:581 
+msgid "#: base/mobile.csv.list:146 "
+msgstr "#: base/mobile.csv.list:146 "
+
+#: base/mobile.po.list:582 
+msgid "msgid "Gratuity""
+msgstr "msgid "Gratuity""
+
+#: base/mobile.po.list:583 
+msgid "msgstr "Gratuity""
+msgstr "msgstr "Gratuity""
+
+#: base/mobile.po.list:584 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:585 
+msgid "#: base/mobile.csv.list:147 "
+msgstr "#: base/mobile.csv.list:147 "
+
+#: base/mobile.po.list:586 
+msgid "msgid "Guest Order""
+msgstr "msgid "Guest Order""
+
+#: base/mobile.po.list:587 
+msgid "msgstr "Guest Order""
+msgstr "msgstr "Guest Order""
+
+#: base/mobile.po.list:588 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:589 
+msgid "#: base/mobile.csv.list:148 "
+msgstr "#: base/mobile.csv.list:148 "
+
+#: base/mobile.po.list:590 
+msgid "msgid "Header""
+msgstr "msgid "Header""
+
+#: base/mobile.po.list:591 
+msgid "msgstr "Header""
+msgstr "msgstr "Header""
+
+#: base/mobile.po.list:592 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:593 
+msgid "#: base/mobile.csv.list:149 "
+msgstr "#: base/mobile.csv.list:149 "
+
+#: base/mobile.po.list:594 
+msgid "msgid "Hey""
+msgstr "msgid "Hey""
+
+#: base/mobile.po.list:595 
+msgid "msgstr "Hey""
+msgstr "msgstr "Hey""
+
+#: base/mobile.po.list:596 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:597 
+msgid "#: base/mobile.csv.list:150 "
+msgstr "#: base/mobile.csv.list:150 "
+
+#: base/mobile.po.list:598 
+msgid "msgid "Hi. I just found: $1 in the $2 app.""
+msgstr "msgid "Hi. I just found: $1 in the $2 app.""
+
+#: base/mobile.po.list:599 
+msgid "msgstr "Hi. I just found: $1 in the $2 app.""
+msgstr "msgstr "Hi. I just found: $1 in the $2 app.""
+
+#: base/mobile.po.list:600 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:601 
+msgid "#: base/mobile.csv.list:151 "
+msgstr "#: base/mobile.csv.list:151 "
+
+#: base/mobile.po.list:602 
+msgid "msgid "Hidden""
+msgstr "msgid "Hidden""
+
+#: base/mobile.po.list:603 
+msgid "msgstr "Hidden""
+msgstr "msgstr "Hidden""
+
+#: base/mobile.po.list:604 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:605 
+msgid "#: base/mobile.csv.list:152 "
+msgstr "#: base/mobile.csv.list:152 "
+
+#: base/mobile.po.list:606 
+msgid "msgid "Home""
+msgstr "msgid "Home""
+
+#: base/mobile.po.list:607 
+msgid "msgstr "Home""
+msgstr "msgstr "Home""
+
+#: base/mobile.po.list:608 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:609 
+msgid "#: base/mobile.csv.list:153 "
+msgstr "#: base/mobile.csv.list:153 "
+
+#: base/mobile.po.list:610 
+msgid "msgid "Humidity:""
+msgstr "msgid "Humidity:""
+
+#: base/mobile.po.list:611 
+msgid "msgstr "Humidity:""
+msgstr "msgstr "Humidity:""
+
+#: base/mobile.po.list:612 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:613 
+msgid "#: base/mobile.csv.list:154 "
+msgstr "#: base/mobile.csv.list:154 "
+
+#: base/mobile.po.list:614 
+msgid "msgid "I accept the privacy policy""
+msgstr "msgid "I accept the privacy policy""
+
+#: base/mobile.po.list:615 
+msgid "msgstr "I accept the privacy policy""
+msgstr "msgstr "I accept the privacy policy""
+
+#: base/mobile.po.list:616 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:617 
+msgid "#: base/mobile.csv.list:155 "
+msgstr "#: base/mobile.csv.list:155 "
+
+#: base/mobile.po.list:618 
+msgid "msgid "I just found this discount $1 in $2 app.""
+msgstr "msgid "I just found this discount $1 in $2 app.""
+
+#: base/mobile.po.list:619 
+msgid "msgstr "I just found this discount $1 in $2 app.""
+msgstr "msgstr "I just found this discount $1 in $2 app.""
+
+#: base/mobile.po.list:620 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:621 
+msgid "#: base/mobile.csv.list:156 "
+msgstr "#: base/mobile.csv.list:156 "
+
+#: base/mobile.po.list:622 
+msgid "msgid "I will pay""
+msgstr "msgid "I will pay""
+
+#: base/mobile.po.list:623 
+msgid "msgstr "I will pay""
+msgstr "msgstr "I will pay""
+
+#: base/mobile.po.list:624 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:625 
+msgid "#: base/mobile.csv.list:157 "
+msgstr "#: base/mobile.csv.list:157 "
+
+#: base/mobile.po.list:626 
+msgid "msgid "Icon""
+msgstr "msgid "Icon""
+
+#: base/mobile.po.list:627 
+msgid "msgstr "Icon""
+msgstr "msgstr "Icon""
+
+#: base/mobile.po.list:628 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:629 
+msgid "#: base/mobile.csv.list:158 "
+msgstr "#: base/mobile.csv.list:158 "
+
+#: base/mobile.po.list:630 
+msgid "msgid "Identity""
+msgstr "msgid "Identity""
+
+#: base/mobile.po.list:631 
+msgid "msgstr "Identity""
+msgstr "msgstr "Identity""
+
+#: base/mobile.po.list:632 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:633 
+msgid "#: base/mobile.csv.list:159 "
+msgstr "#: base/mobile.csv.list:159 "
+
+#: base/mobile.po.list:634 
+msgid "msgid "I'm listening to $1 from $2 on $3 app.""
+msgstr "msgid "I'm listening to $1 from $2 on $3 app.""
+
+#: base/mobile.po.list:635 
+msgid "msgstr "I'm listening to $1 from $2 on $3 app.""
+msgstr "msgstr "I'm listening to $1 from $2 on $3 app.""
+
+#: base/mobile.po.list:636 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:637 
+msgid "#: base/mobile.csv.list:160 "
+msgstr "#: base/mobile.csv.list:160 "
+
+#: base/mobile.po.list:638 
+msgid "msgid "I'm listening to $1 on $2 app.""
+msgstr "msgid "I'm listening to $1 on $2 app.""
+
+#: base/mobile.po.list:639 
+msgid "msgstr "I'm listening to $1 on $2 app.""
+msgstr "msgstr "I'm listening to $1 on $2 app.""
+
+#: base/mobile.po.list:640 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:641 
+msgid "#: base/mobile.csv.list:161 "
+msgstr "#: base/mobile.csv.list:161 "
+
+#: base/mobile.po.list:642 
+msgid "msgid "Import a header""
+msgstr "msgid "Import a header""
+
+#: base/mobile.po.list:643 
+msgid "msgstr "Import a header""
+msgstr "msgstr "Import a header""
+
+#: base/mobile.po.list:644 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:645 
+msgid "#: base/mobile.csv.list:162 "
+msgstr "#: base/mobile.csv.list:162 "
+
+#: base/mobile.po.list:646 
+msgid "msgid "Import a header image""
+msgstr "msgid "Import a header image""
+
+#: base/mobile.po.list:647 
+msgid "msgstr "Import a header image""
+msgstr "msgstr "Import a header image""
+
+#: base/mobile.po.list:648 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:649 
+msgid "#: base/mobile.csv.list:163 "
+msgstr "#: base/mobile.csv.list:163 "
+
+#: base/mobile.po.list:650 
+msgid "msgid "Import a logo""
+msgstr "msgid "Import a logo""
+
+#: base/mobile.po.list:651 
+msgid "msgstr "Import a logo""
+msgstr "msgstr "Import a logo""
+
+#: base/mobile.po.list:652 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:653 
+msgid "#: base/mobile.csv.list:164 "
+msgstr "#: base/mobile.csv.list:164 "
+
+#: base/mobile.po.list:654 
+msgid "msgid "Import a picture""
+msgstr "msgid "Import a picture""
+
+#: base/mobile.po.list:655 
+msgid "msgstr "Import a picture""
+msgstr "msgstr "Import a picture""
+
+#: base/mobile.po.list:656 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:657 
+msgid "#: base/mobile.csv.list:165 "
+msgstr "#: base/mobile.csv.list:165 "
+
+#: base/mobile.po.list:658 
+msgid "msgid "Import an icon""
+msgstr "msgid "Import an icon""
+
+#: base/mobile.po.list:659 
+msgid "msgstr "Import an icon""
+msgstr "msgstr "Import an icon""
+
+#: base/mobile.po.list:660 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:661 
+msgid "#: base/mobile.csv.list:166 "
+msgstr "#: base/mobile.csv.list:166 "
+
+#: base/mobile.po.list:662 
+msgid "msgid "Import an icon image""
+msgstr "msgid "Import an icon image""
+
+#: base/mobile.po.list:663 
+msgid "msgstr "Import an icon image""
+msgstr "msgstr "Import an icon image""
+
+#: base/mobile.po.list:664 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:665 
+msgid "#: base/mobile.csv.list:167 "
+msgstr "#: base/mobile.csv.list:167 "
+
+#: base/mobile.po.list:666 
+msgid "msgid "Import from Library""
+msgstr "msgid "Import from Library""
+
+#: base/mobile.po.list:667 
+msgid "msgstr "Import from Library""
+msgstr "msgstr "Import from Library""
+
+#: base/mobile.po.list:668 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:669 
+msgid "#: base/mobile.csv.list:168 "
+msgstr "#: base/mobile.csv.list:168 "
+
+#: base/mobile.po.list:670 
+msgid "msgid "Inbox replies""
+msgstr "msgid "Inbox replies""
+
+#: base/mobile.po.list:671 
+msgid "msgstr "Inbox replies""
+msgstr "msgstr "Inbox replies""
+
+#: base/mobile.po.list:672 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:673 
+msgid "#: base/mobile.csv.list:169 "
+msgstr "#: base/mobile.csv.list:169 "
+
+#: base/mobile.po.list:674 
+msgid "msgid "Incl.""
+msgstr "msgid "Incl.""
+
+#: base/mobile.po.list:675 
+msgid "msgstr "Incl.""
+msgstr "msgstr "Incl.""
+
+#: base/mobile.po.list:676 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:677 
+msgid "#: base/mobile.csv.list:170 "
+msgstr "#: base/mobile.csv.list:170 "
+
+#: base/mobile.po.list:678 
+msgid "msgid "Income from:""
+msgstr "msgid "Income from:""
+
+#: base/mobile.po.list:679 
+msgid "msgstr "Income from:""
+msgstr "msgstr "Income from:""
+
+#: base/mobile.po.list:680 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:681 
+msgid "#: base/mobile.csv.list:171 "
+msgstr "#: base/mobile.csv.list:171 "
+
+#: base/mobile.po.list:682 
+msgid "msgid "Info""
+msgstr "msgid "Info""
+
+#: base/mobile.po.list:683 
+msgid "msgstr "Info""
+msgstr "msgstr "Info""
+
+#: base/mobile.po.list:684 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:685 
+msgid "#: base/mobile.csv.list:172 "
+msgstr "#: base/mobile.csv.list:172 "
+
+#: base/mobile.po.list:686 
+msgid "msgid "Information""
+msgstr "msgid "Information""
+
+#: base/mobile.po.list:687 
+msgid "msgstr "Information""
+msgstr "msgstr "Information""
+
+#: base/mobile.po.list:688 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:689 
+msgid "#: base/mobile.csv.list:173 "
+msgstr "#: base/mobile.csv.list:173 "
+
+#: base/mobile.po.list:690 
+msgid "msgid "Informations""
+msgstr "msgid "Informations""
+
+#: base/mobile.po.list:691 
+msgid "msgstr "Informations""
+msgstr "msgstr "Informations""
+
+#: base/mobile.po.list:692 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:693 
+msgid "#: base/mobile.csv.list:174 "
+msgstr "#: base/mobile.csv.list:174 "
+
+#: base/mobile.po.list:694 
+msgid "msgid "Invoicing address""
+msgstr "msgid "Invoicing address""
+
+#: base/mobile.po.list:695 
+msgid "msgstr "Invoicing address""
+msgstr "msgstr "Invoicing address""
+
+#: base/mobile.po.list:696 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:697 
+msgid "#: base/mobile.csv.list:175 "
+msgstr "#: base/mobile.csv.list:175 "
+
+#: base/mobile.po.list:698 
+msgid "msgid "It's you!""
+msgstr "msgid "It's you!""
+
+#: base/mobile.po.list:699 
+msgid "msgstr "It's you!""
+msgstr "msgstr "It's you!""
+
+#: base/mobile.po.list:700 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:701 
+msgid "#: base/mobile.csv.list:176 "
+msgstr "#: base/mobile.csv.list:176 "
+
+#: base/mobile.po.list:702 
+msgid "msgid "Job""
+msgstr "msgid "Job""
+
+#: base/mobile.po.list:703 
+msgid "msgstr "Job""
+msgstr "msgstr "Job""
+
+#: base/mobile.po.list:704 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:705 
+msgid "#: base/mobile.csv.list:177 "
+msgstr "#: base/mobile.csv.list:177 "
+
+#: base/mobile.po.list:706 
+msgid "msgid "Join private chatroom""
+msgstr "msgid "Join private chatroom""
+
+#: base/mobile.po.list:707 
+msgid "msgstr "Join private chatroom""
+msgstr "msgstr "Join private chatroom""
+
+#: base/mobile.po.list:708 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:709 
+msgid "#: base/mobile.csv.list:178 "
+msgstr "#: base/mobile.csv.list:178 "
+
+#: base/mobile.po.list:710 
+msgid "msgid "Keep card information""
+msgstr "msgid "Keep card information""
+
+#: base/mobile.po.list:711 
+msgid "msgstr "Keep card information""
+msgstr "msgstr "Keep card information""
+
+#: base/mobile.po.list:712 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:713 
+msgid "#: base/mobile.csv.list:179 "
+msgstr "#: base/mobile.csv.list:179 "
+
+#: base/mobile.po.list:714 
+msgid "msgid "Keywords""
+msgstr "msgid "Keywords""
+
+#: base/mobile.po.list:715 
+msgid "msgstr "Keywords""
+msgstr "msgstr "Keywords""
+
+#: base/mobile.po.list:716 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:717 
+msgid "#: base/mobile.csv.list:180 "
+msgstr "#: base/mobile.csv.list:180 "
+
+#: base/mobile.po.list:718 
+msgid "msgid "Last Name""
+msgstr "msgid "Last Name""
+
+#: base/mobile.po.list:719 
+msgid "msgstr "Last Name""
+msgstr "msgstr "Last Name""
+
+#: base/mobile.po.list:720 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:721 
+msgid "#: base/mobile.csv.list:181 "
+msgstr "#: base/mobile.csv.list:181 "
+
+#: base/mobile.po.list:722 
+msgid "msgid "Lastname""
+msgstr "msgid "Lastname""
+
+#: base/mobile.po.list:723 
+msgid "msgstr "Lastname""
+msgstr "msgstr "Lastname""
+
+#: base/mobile.po.list:724 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:725 
+msgid "#: base/mobile.csv.list:182 "
+msgstr "#: base/mobile.csv.list:182 "
+
+#: base/mobile.po.list:726 
+msgid "msgid "Leave a reply""
+msgstr "msgid "Leave a reply""
+
+#: base/mobile.po.list:727 
+msgid "msgstr "Leave a reply""
+msgstr "msgstr "Leave a reply""
+
+#: base/mobile.po.list:728 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:729 
+msgid "#: base/mobile.csv.list:183 "
+msgstr "#: base/mobile.csv.list:183 "
+
+#: base/mobile.po.list:730 
+msgid "msgid "Leave room""
+msgstr "msgid "Leave room""
+
+#: base/mobile.po.list:731 
+msgid "msgstr "Leave room""
+msgstr "msgstr "Leave room""
+
+#: base/mobile.po.list:732 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:733 
+msgid "#: base/mobile.csv.list:184 "
+msgstr "#: base/mobile.csv.list:184 "
+
+#: base/mobile.po.list:734 
+msgid "msgid "Like""
+msgstr "msgid "Like""
+
+#: base/mobile.po.list:735 
+msgid "msgstr "Like""
+msgstr "msgstr "Like""
+
+#: base/mobile.po.list:736 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:737 
+msgid "#: base/mobile.csv.list:185 "
+msgstr "#: base/mobile.csv.list:185 "
+
+#: base/mobile.po.list:738 
+msgid "msgid "Likes""
+msgstr "msgid "Likes""
+
+#: base/mobile.po.list:739 
+msgid "msgstr "Likes""
+msgstr "msgstr "Likes""
+
+#: base/mobile.po.list:740 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:741 
+msgid "#: base/mobile.csv.list:186 "
+msgstr "#: base/mobile.csv.list:186 "
+
+#: base/mobile.po.list:742 
+msgid "msgid "Loading""
+msgstr "msgid "Loading""
+
+#: base/mobile.po.list:743 
+msgid "msgstr "Loading""
+msgstr "msgstr "Loading""
+
+#: base/mobile.po.list:744 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:745 
+msgid "#: base/mobile.csv.list:187 "
+msgstr "#: base/mobile.csv.list:187 "
+
+#: base/mobile.po.list:746 
+msgid "msgid "Locate""
+msgstr "msgid "Locate""
+
+#: base/mobile.po.list:747 
+msgid "msgstr "Locate""
+msgstr "msgstr "Locate""
+
+#: base/mobile.po.list:748 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:749 
+msgid "#: base/mobile.csv.list:188 "
+msgstr "#: base/mobile.csv.list:188 "
+
+#: base/mobile.po.list:750 
+msgid "msgid "Location""
+msgstr "msgid "Location""
+
+#: base/mobile.po.list:751 
+msgid "msgstr "Location""
+msgstr "msgstr "Location""
+
+#: base/mobile.po.list:752 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:753 
+msgid "#: base/mobile.csv.list:189 "
+msgstr "#: base/mobile.csv.list:189 "
+
+#: base/mobile.po.list:754 
+msgid "msgid "Log-in""
+msgstr "msgid "Log-in""
+
+#: base/mobile.po.list:755 
+msgid "msgstr "Log-in""
+msgstr "msgstr "Log-in""
+
+#: base/mobile.po.list:756 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:757 
+msgid "#: base/mobile.csv.list:190 "
+msgstr "#: base/mobile.csv.list:190 "
+
+#: base/mobile.po.list:758 
+msgid "msgid "Login error""
+msgstr "msgid "Login error""
+
+#: base/mobile.po.list:759 
+msgid "msgstr "Login error""
+msgstr "msgstr "Login error""
+
+#: base/mobile.po.list:760 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:761 
+msgid "#: base/mobile.csv.list:191 "
+msgstr "#: base/mobile.csv.list:191 "
+
+#: base/mobile.po.list:762 
+msgid "msgid "Log-in with Facebook""
+msgstr "msgid "Log-in with Facebook""
+
+#: base/mobile.po.list:763 
+msgid "msgstr "Log-in with Facebook""
+msgstr "msgstr "Log-in with Facebook""
+
+#: base/mobile.po.list:764 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:765 
+msgid "#: base/mobile.csv.list:192 "
+msgstr "#: base/mobile.csv.list:192 "
+
+#: base/mobile.po.list:766 
+msgid "msgid "Logo""
+msgstr "msgid "Logo""
+
+#: base/mobile.po.list:767 
+msgid "msgstr "Logo""
+msgstr "msgstr "Logo""
+
+#: base/mobile.po.list:768 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:769 
+msgid "#: base/mobile.csv.list:193 "
+msgstr "#: base/mobile.csv.list:193 "
+
+#: base/mobile.po.list:770 
+msgid "msgid "Log-out""
+msgstr "msgid "Log-out""
+
+#: base/mobile.po.list:771 
+msgid "msgstr "Log-out""
+msgstr "msgstr "Log-out""
+
+#: base/mobile.po.list:772 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:773 
+msgid "#: base/mobile.csv.list:194 "
+msgstr "#: base/mobile.csv.list:194 "
+
+#: base/mobile.po.list:774 
+msgid "msgid "Manage friends""
+msgstr "msgid "Manage friends""
+
+#: base/mobile.po.list:775 
+msgid "msgstr "Manage friends""
+msgstr "msgstr "Manage friends""
+
+#: base/mobile.po.list:776 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:777 
+msgid "#: base/mobile.csv.list:195 "
+msgstr "#: base/mobile.csv.list:195 "
+
+#: base/mobile.po.list:778 
+msgid "msgid "Map""
+msgstr "msgid "Map""
+
+#: base/mobile.po.list:779 
+msgid "msgstr "Map""
+msgstr "msgstr "Map""
+
+#: base/mobile.po.list:780 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:781 
+msgid "#: base/mobile.csv.list:196 "
+msgstr "#: base/mobile.csv.list:196 "
+
+#: base/mobile.po.list:782 
+msgid "msgid "Message""
+msgstr "msgid "Message""
+
+#: base/mobile.po.list:783 
+msgid "msgstr "Message""
+msgstr "msgstr "Message""
+
+#: base/mobile.po.list:784 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:785 
+msgid "#: base/mobile.csv.list:197 "
+msgstr "#: base/mobile.csv.list:197 "
+
+#: base/mobile.po.list:786 
+msgid "msgid "Min. amount:""
+msgstr "msgid "Min. amount:""
+
+#: base/mobile.po.list:787 
+msgid "msgstr "Min. amount:""
+msgstr "msgstr "Min. amount:""
+
+#: base/mobile.po.list:788 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:789 
+msgid "#: base/mobile.csv.list:198 "
+msgstr "#: base/mobile.csv.list:198 "
+
+#: base/mobile.po.list:790 
+msgid "msgid "Miss""
+msgstr "msgid "Miss""
+
+#: base/mobile.po.list:791 
+msgid "msgstr "Miss""
+msgstr "msgstr "Miss""
+
+#: base/mobile.po.list:792 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:793 
+msgid "#: base/mobile.csv.list:199 "
+msgstr "#: base/mobile.csv.list:199 "
+
+#: base/mobile.po.list:794 
+msgid "msgid "Missing category_id""
+msgstr "msgid "Missing category_id""
+
+#: base/mobile.po.list:795 
+msgid "msgstr "Missing category_id""
+msgstr "msgstr "Missing category_id""
+
+#: base/mobile.po.list:796 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:797 
+msgid "#: base/mobile.csv.list:200 "
+msgstr "#: base/mobile.csv.list:200 "
+
+#: base/mobile.po.list:798 
+msgid "msgid "Mon""
+msgstr "msgid "Mon""
+
+#: base/mobile.po.list:799 
+msgid "msgstr "Mon""
+msgstr "msgstr "Mon""
+
+#: base/mobile.po.list:800 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:801 
+msgid "#: base/mobile.csv.list:201 "
+msgstr "#: base/mobile.csv.list:201 "
+
+#: base/mobile.po.list:802 
+msgid "msgid "More""
+msgstr "msgid "More""
+
+#: base/mobile.po.list:803 
+msgid "msgstr "More""
+msgstr "msgstr "More""
+
+#: base/mobile.po.list:804 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:805 
+msgid "#: base/mobile.csv.list:202 "
+msgstr "#: base/mobile.csv.list:202 "
+
+#: base/mobile.po.list:806 
+msgid "msgid "More Information""
+msgstr "msgid "More Information""
+
+#: base/mobile.po.list:807 
+msgid "msgstr "More Information""
+msgstr "msgstr "More Information""
+
+#: base/mobile.po.list:808 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:809 
+msgid "#: base/mobile.csv.list:203 "
+msgstr "#: base/mobile.csv.list:203 "
+
+#: base/mobile.po.list:810 
+msgid "msgid "Mr""
+msgstr "msgid "Mr""
+
+#: base/mobile.po.list:811 
+msgid "msgstr "Mr""
+msgstr "msgstr "Mr""
+
+#: base/mobile.po.list:812 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:813 
+msgid "#: base/mobile.csv.list:204 "
+msgstr "#: base/mobile.csv.list:204 "
+
+#: base/mobile.po.list:814 
+msgid "msgid "Mrs""
+msgstr "msgid "Mrs""
+
+#: base/mobile.po.list:815 
+msgid "msgstr "Mrs""
+msgstr "msgstr "Mrs""
+
+#: base/mobile.po.list:816 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:817 
+msgid "#: base/mobile.csv.list:205 "
+msgstr "#: base/mobile.csv.list:205 "
+
+#: base/mobile.po.list:818 
+msgid "msgid "My Cart""
+msgstr "msgid "My Cart""
+
+#: base/mobile.po.list:819 
+msgid "msgstr "My Cart""
+msgstr "msgstr "My Cart""
+
+#: base/mobile.po.list:820 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:821 
+msgid "#: base/mobile.csv.list:206 "
+msgstr "#: base/mobile.csv.list:206 "
+
+#: base/mobile.po.list:822 
+msgid "msgid "My account""
+msgstr "msgid "My account""
+
+#: base/mobile.po.list:823 
+msgid "msgstr "My account""
+msgstr "msgstr "My account""
+
+#: base/mobile.po.list:824 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:825 
+msgid "#: base/mobile.csv.list:207 "
+msgstr "#: base/mobile.csv.list:207 "
+
+#: base/mobile.po.list:826 
+msgid "msgid "My cart is empty""
+msgstr "msgid "My cart is empty""
+
+#: base/mobile.po.list:827 
+msgid "msgstr "My cart is empty""
+msgstr "msgstr "My cart is empty""
+
+#: base/mobile.po.list:828 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:829 
+msgid "#: base/mobile.csv.list:208 "
+msgstr "#: base/mobile.csv.list:208 "
+
+#: base/mobile.po.list:830 
+msgid "msgid "My information""
+msgstr "msgid "My information""
+
+#: base/mobile.po.list:831 
+msgid "msgstr "My information""
+msgstr "msgstr "My information""
+
+#: base/mobile.po.list:832 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:833 
+msgid "#: base/mobile.csv.list:209 "
+msgstr "#: base/mobile.csv.list:209 "
+
+#: base/mobile.po.list:834 
+msgid "msgid "My product's list choice options""
+msgstr "msgid "My product's list choice options""
+
+#: base/mobile.po.list:835 
+msgid "msgstr "My product's list choice options""
+msgstr "msgstr "My product's list choice options""
+
+#: base/mobile.po.list:836 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:837 
+msgid "#: base/mobile.csv.list:210 "
+msgstr "#: base/mobile.csv.list:210 "
+
+#: base/mobile.po.list:838 
+msgid "msgid "Name""
+msgstr "msgid "Name""
+
+#: base/mobile.po.list:839 
+msgid "msgstr "Name""
+msgstr "msgstr "Name""
+
+#: base/mobile.po.list:840 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:841 
+msgid "#: base/mobile.csv.list:211 "
+msgstr "#: base/mobile.csv.list:211 "
+
+#: base/mobile.po.list:842 
+msgid "msgid "Near me""
+msgstr "msgid "Near me""
+
+#: base/mobile.po.list:843 
+msgid "msgstr "Near me""
+msgstr "msgstr "Near me""
+
+#: base/mobile.po.list:844 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:845 
+msgid "#: base/mobile.csv.list:212 "
+msgstr "#: base/mobile.csv.list:212 "
+
+#: base/mobile.po.list:846 
+msgid "msgid "New contact for:""
+msgstr "msgid "New contact for:""
+
+#: base/mobile.po.list:847 
+msgid "msgstr "New contact for:""
+msgstr "msgstr "New contact for:""
+
+#: base/mobile.po.list:848 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:849 
+msgid "#: base/mobile.csv.list:213 "
+msgstr "#: base/mobile.csv.list:213 "
+
+#: base/mobile.po.list:850 
+msgid "msgid "New contact for: %s""
+msgstr "msgid "New contact for: %s""
+
+#: base/mobile.po.list:851 
+msgid "msgstr "New contact for: %s""
+msgstr "msgstr "New contact for: %s""
+
+#: base/mobile.po.list:852 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:853 
+msgid "#: base/mobile.csv.list:214 "
+msgstr "#: base/mobile.csv.list:214 "
+
+#: base/mobile.po.list:854 
+msgid "msgid "New post""
+msgstr "msgid "New post""
+
+#: base/mobile.po.list:855 
+msgid "msgstr "New post""
+msgstr "msgstr "New post""
+
+#: base/mobile.po.list:856 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:857 
+msgid "#: base/mobile.csv.list:215 "
+msgstr "#: base/mobile.csv.list:215 "
+
+#: base/mobile.po.list:858 
+msgid "msgid "Next""
+msgstr "msgid "Next""
+
+#: base/mobile.po.list:859 
+msgid "msgstr "Next""
+msgstr "msgstr "Next""
+
+#: base/mobile.po.list:860 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:861 
+msgid "#: base/mobile.csv.list:216 "
+msgstr "#: base/mobile.csv.list:216 "
+
+#: base/mobile.po.list:862 
+msgid "msgid "Nickname""
+msgstr "msgid "Nickname""
+
+#: base/mobile.po.list:863 
+msgid "msgstr "Nickname""
+msgstr "msgstr "Nickname""
+
+#: base/mobile.po.list:864 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:865 
+msgid "#: base/mobile.csv.list:217 "
+msgstr "#: base/mobile.csv.list:217 "
+
+#: base/mobile.po.list:866 
+msgid "msgid "No""
+msgstr "msgid "No""
+
+#: base/mobile.po.list:867 
+msgid "msgstr "No""
+msgstr "msgstr "No""
+
+#: base/mobile.po.list:868 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:869 
+msgid "#: base/mobile.csv.list:218 "
+msgstr "#: base/mobile.csv.list:218 "
+
+#: base/mobile.po.list:870 
+msgid "msgid "No Results""
+msgstr "msgid "No Results""
+
+#: base/mobile.po.list:871 
+msgid "msgstr "No Results""
+msgstr "msgstr "No Results""
+
+#: base/mobile.po.list:872 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:873 
+msgid "#: base/mobile.csv.list:219 "
+msgstr "#: base/mobile.csv.list:219 "
+
+#: base/mobile.po.list:874 
+msgid "msgid "No cards available""
+msgstr "msgid "No cards available""
+
+#: base/mobile.po.list:875 
+msgid "msgstr "No cards available""
+msgstr "msgstr "No cards available""
+
+#: base/mobile.po.list:876 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:877 
+msgid "#: base/mobile.csv.list:220 "
+msgstr "#: base/mobile.csv.list:220 "
+
+#: base/mobile.po.list:878 
+msgid "msgid "No comments for now.""
+msgstr "msgid "No comments for now.""
+
+#: base/mobile.po.list:879 
+msgid "msgstr "No comments for now.""
+msgstr "msgstr "No comments for now.""
+
+#: base/mobile.po.list:880 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:881 
+msgid "#: base/mobile.csv.list:221 "
+msgstr "#: base/mobile.csv.list:221 "
+
+#: base/mobile.po.list:882 
+msgid "msgid "No current stream to load.""
+msgstr "msgid "No current stream to load.""
+
+#: base/mobile.po.list:883 
+msgid "msgstr "No current stream to load.""
+msgstr "msgstr "No current stream to load.""
+
+#: base/mobile.po.list:884 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:885 
+msgid "#: base/mobile.csv.list:222 "
+msgstr "#: base/mobile.csv.list:222 "
+
+#: base/mobile.po.list:886 
+msgid "msgid "No form available""
+msgstr "msgid "No form available""
+
+#: base/mobile.po.list:887 
+msgid "msgstr "No form available""
+msgstr "msgstr "No form available""
+
+#: base/mobile.po.list:888 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:889 
+msgid "#: base/mobile.csv.list:223 "
+msgstr "#: base/mobile.csv.list:223 "
+
+#: base/mobile.po.list:890 
+msgid "msgid "No images found""
+msgstr "msgid "No images found""
+
+#: base/mobile.po.list:891 
+msgid "msgstr "No images found""
+msgstr "msgstr "No images found""
+
+#: base/mobile.po.list:892 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:893 
+msgid "#: base/mobile.csv.list:224 "
+msgstr "#: base/mobile.csv.list:224 "
+
+#: base/mobile.po.list:894 
+msgid "msgid "No items found""
+msgstr "msgid "No items found""
+
+#: base/mobile.po.list:895 
+msgid "msgstr "No items found""
+msgstr "msgstr "No items found""
+
+#: base/mobile.po.list:896 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:897 
+msgid "#: base/mobile.csv.list:225 "
+msgstr "#: base/mobile.csv.list:225 "
+
+#: base/mobile.po.list:898 
+msgid "msgid "No results for your request.""
+msgstr "msgid "No results for your request.""
+
+#: base/mobile.po.list:899 
+msgid "msgstr "No results for your request.""
+msgstr "msgstr "No results for your request.""
+
+#: base/mobile.po.list:900 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:901 
+msgid "#: base/mobile.csv.list:226 "
+msgstr "#: base/mobile.csv.list:226 "
+
+#: base/mobile.po.list:902 
+msgid "msgid "No survey at the moment!""
+msgstr "msgid "No survey at the moment!""
+
+#: base/mobile.po.list:903 
+msgid "msgstr "No survey at the moment!""
+msgstr "msgstr "No survey at the moment!""
+
+#: base/mobile.po.list:904 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:905 
+msgid "#: base/mobile.csv.list:227 "
+msgstr "#: base/mobile.csv.list:227 "
+
+#: base/mobile.po.list:906 
+msgid "msgid "No topics for now.""
+msgstr "msgid "No topics for now.""
+
+#: base/mobile.po.list:907 
+msgid "msgstr "No topics for now.""
+msgstr "msgstr "No topics for now.""
+
+#: base/mobile.po.list:908 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:909 
+msgid "#: base/mobile.csv.list:228 "
+msgstr "#: base/mobile.csv.list:228 "
+
+#: base/mobile.po.list:910 
+msgid "msgid "None""
+msgstr "msgid "None""
+
+#: base/mobile.po.list:911 
+msgid "msgstr "None""
+msgstr "msgstr "None""
+
+#: base/mobile.po.list:912 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:913 
+msgid "#: base/mobile.csv.list:229 "
+msgstr "#: base/mobile.csv.list:229 "
+
+#: base/mobile.po.list:914 
+msgid "msgid "Notes""
+msgstr "msgid "Notes""
+
+#: base/mobile.po.list:915 
+msgid "msgstr "Notes""
+msgstr "msgstr "Notes""
+
+#: base/mobile.po.list:916 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:917 
+msgid "#: base/mobile.csv.list:230 "
+msgstr "#: base/mobile.csv.list:230 "
+
+#: base/mobile.po.list:918 
+msgid "msgid "Nothing to display.""
+msgstr "msgid "Nothing to display.""
+
+#: base/mobile.po.list:919 
+msgid "msgstr "Nothing to display.""
+msgstr "msgstr "Nothing to display.""
+
+#: base/mobile.po.list:920 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:921 
+msgid "#: base/mobile.csv.list:231 "
+msgstr "#: base/mobile.csv.list:231 "
+
+#: base/mobile.po.list:922 
+msgid "msgid "Notification""
+msgstr "msgid "Notification""
+
+#: base/mobile.po.list:923 
+msgid "msgstr "Notification""
+msgstr "msgstr "Notification""
+
+#: base/mobile.po.list:924 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:925 
+msgid "#: base/mobile.csv.list:232 "
+msgstr "#: base/mobile.csv.list:232 "
+
+#: base/mobile.po.list:926 
+msgid "msgid "Number of people""
+msgstr "msgid "Number of people""
+
+#: base/mobile.po.list:927 
+msgid "msgstr "Number of people""
+msgstr "msgstr "Number of people""
+
+#: base/mobile.po.list:928 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:929 
+msgid "#: base/mobile.csv.list:233 "
+msgstr "#: base/mobile.csv.list:233 "
+
+#: base/mobile.po.list:930 
+msgid "msgid "OK""
+msgstr "msgid "OK""
+
+#: base/mobile.po.list:931 
+msgid "msgstr "OK""
+msgstr "msgstr "OK""
+
+#: base/mobile.po.list:932 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:933 
+msgid "#: base/mobile.csv.list:234 "
+msgstr "#: base/mobile.csv.list:234 "
+
+#: base/mobile.po.list:934 
+msgid "msgid "Offline content""
+msgstr "msgid "Offline content""
+
+#: base/mobile.po.list:935 
+msgid "msgstr "Offline content""
+msgstr "msgstr "Offline content""
+
+#: base/mobile.po.list:936 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:937 
+msgid "#: base/mobile.csv.list:235 "
+msgstr "#: base/mobile.csv.list:235 "
+
+#: base/mobile.po.list:938 
+msgid "msgid "Offline mode""
+msgstr "msgid "Offline mode""
+
+#: base/mobile.po.list:939 
+msgid "msgstr "Offline mode""
+msgstr "msgstr "Offline mode""
+
+#: base/mobile.po.list:940 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:941 
+msgid "#: base/mobile.csv.list:236 "
+msgstr "#: base/mobile.csv.list:236 "
+
+#: base/mobile.po.list:942 
+msgid "msgid "Ok""
+msgstr "msgid "Ok""
+
+#: base/mobile.po.list:943 
+msgid "msgstr "Ok""
+msgstr "msgstr "Ok""
+
+#: base/mobile.po.list:944 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:945 
+msgid "#: base/mobile.csv.list:237 "
+msgstr "#: base/mobile.csv.list:237 "
+
+#: base/mobile.po.list:946 
+msgid "msgid "Old Password""
+msgstr "msgid "Old Password""
+
+#: base/mobile.po.list:947 
+msgid "msgstr "Old Password""
+msgstr "msgstr "Old Password""
+
+#: base/mobile.po.list:948 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:949 
+msgid "#: base/mobile.csv.list:238 "
+msgstr "#: base/mobile.csv.list:238 "
+
+#: base/mobile.po.list:950 
+msgid "msgid "Open link""
+msgstr "msgid "Open link""
+
+#: base/mobile.po.list:951 
+msgid "msgstr "Open link""
+msgstr "msgstr "Open link""
+
+#: base/mobile.po.list:952 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:953 
+msgid "#: base/mobile.csv.list:239 "
+msgstr "#: base/mobile.csv.list:239 "
+
+#: base/mobile.po.list:954 
+msgid "msgid "Option $1 is required.""
+msgstr "msgid "Option $1 is required.""
+
+#: base/mobile.po.list:955 
+msgid "msgstr "Option $1 is required.""
+msgstr "msgstr "Option $1 is required.""
+
+#: base/mobile.po.list:956 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:957 
+msgid "#: base/mobile.csv.list:240 "
+msgstr "#: base/mobile.csv.list:240 "
+
+#: base/mobile.po.list:958 
+msgid "msgid "Options""
+msgstr "msgid "Options""
+
+#: base/mobile.po.list:959 
+msgid "msgstr "Options""
+msgstr "msgstr "Options""
+
+#: base/mobile.po.list:960 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:961 
+msgid "#: base/mobile.csv.list:241 "
+msgstr "#: base/mobile.csv.list:241 "
+
+#: base/mobile.po.list:962 
+msgid "msgid "Or with your account""
+msgstr "msgid "Or with your account""
+
+#: base/mobile.po.list:963 
+msgid "msgstr "Or with your account""
+msgstr "msgstr "Or with your account""
+
+#: base/mobile.po.list:964 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:965 
+msgid "#: base/mobile.csv.list:242 "
+msgstr "#: base/mobile.csv.list:242 "
+
+#: base/mobile.po.list:966 
+msgid "msgid "Order Details""
+msgstr "msgid "Order Details""
+
+#: base/mobile.po.list:967 
+msgid "msgstr "Order Details""
+msgstr "msgstr "Order Details""
+
+#: base/mobile.po.list:968 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:969 
+msgid "#: base/mobile.csv.list:243 "
+msgstr "#: base/mobile.csv.list:243 "
+
+#: base/mobile.po.list:970 
+msgid "msgid "Order N°""
+msgstr "msgid "Order N°""
+
+#: base/mobile.po.list:971 
+msgid "msgstr "Order N°""
+msgstr "msgstr "Order N°""
+
+#: base/mobile.po.list:972 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:973 
+msgid "#: base/mobile.csv.list:244 "
+msgstr "#: base/mobile.csv.list:244 "
+
+#: base/mobile.po.list:974 
+msgid "msgid "Order Total""
+msgstr "msgid "Order Total""
+
+#: base/mobile.po.list:975 
+msgid "msgstr "Order Total""
+msgstr "msgstr "Order Total""
+
+#: base/mobile.po.list:976 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:977 
+msgid "#: base/mobile.csv.list:245 "
+msgstr "#: base/mobile.csv.list:245 "
+
+#: base/mobile.po.list:978 
+msgid "msgid "Order details""
+msgstr "msgid "Order details""
+
+#: base/mobile.po.list:979 
+msgid "msgstr "Order details""
+msgstr "msgstr "Order details""
+
+#: base/mobile.po.list:980 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:981 
+msgid "#: base/mobile.csv.list:246 "
+msgstr "#: base/mobile.csv.list:246 "
+
+#: base/mobile.po.list:982 
+msgid "msgid "Order history""
+msgstr "msgid "Order history""
+
+#: base/mobile.po.list:983 
+msgid "msgstr "Order history""
+msgstr "msgstr "Order history""
+
+#: base/mobile.po.list:984 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:985 
+msgid "#: base/mobile.csv.list:247 "
+msgstr "#: base/mobile.csv.list:247 "
+
+#: base/mobile.po.list:986 
+msgid "msgid "Overview""
+msgstr "msgid "Overview""
+
+#: base/mobile.po.list:987 
+msgid "msgstr "Overview""
+msgstr "msgstr "Overview""
+
+#: base/mobile.po.list:988 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:989 
+msgid "#: base/mobile.csv.list:248 "
+msgstr "#: base/mobile.csv.list:248 "
+
+#: base/mobile.po.list:990 
+msgid "msgid "Password""
+msgstr "msgid "Password""
+
+#: base/mobile.po.list:991 
+msgid "msgstr "Password""
+msgstr "msgstr "Password""
+
+#: base/mobile.po.list:992 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:993 
+msgid "#: base/mobile.csv.list:249 "
+msgstr "#: base/mobile.csv.list:249 "
+
+#: base/mobile.po.list:994 
+msgid "msgid "Pay""
+msgstr "msgid "Pay""
+
+#: base/mobile.po.list:995 
+msgid "msgstr "Pay""
+msgstr "msgstr "Pay""
+
+#: base/mobile.po.list:996 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:997 
+msgid "#: base/mobile.csv.list:250 "
+msgstr "#: base/mobile.csv.list:250 "
+
+#: base/mobile.po.list:998 
+msgid "msgid "Payment""
+msgstr "msgid "Payment""
+
+#: base/mobile.po.list:999 
+msgid "msgstr "Payment""
+msgstr "msgstr "Payment""
+
+#: base/mobile.po.list:1000 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1001 
+msgid "#: base/mobile.csv.list:251 "
+msgstr "#: base/mobile.csv.list:251 "
+
+#: base/mobile.po.list:1002 
+msgid "msgid "Payment Method""
+msgstr "msgid "Payment Method""
+
+#: base/mobile.po.list:1003 
+msgid "msgstr "Payment Method""
+msgstr "msgstr "Payment Method""
+
+#: base/mobile.po.list:1004 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1005 
+msgid "#: base/mobile.csv.list:252 "
+msgstr "#: base/mobile.csv.list:252 "
+
+#: base/mobile.po.list:1006 
+msgid "msgid "Percentage of tip""
+msgstr "msgid "Percentage of tip""
+
+#: base/mobile.po.list:1007 
+msgid "msgstr "Percentage of tip""
+msgstr "msgstr "Percentage of tip""
+
+#: base/mobile.po.list:1008 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1009 
+msgid "#: base/mobile.csv.list:253 "
+msgstr "#: base/mobile.csv.list:253 "
+
+#: base/mobile.po.list:1010 
+msgid "msgid "Phone""
+msgstr "msgid "Phone""
+
+#: base/mobile.po.list:1011 
+msgid "msgstr "Phone""
+msgstr "msgstr "Phone""
+
+#: base/mobile.po.list:1012 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1013 
+msgid "#: base/mobile.csv.list:254 "
+msgstr "#: base/mobile.csv.list:254 "
+
+#: base/mobile.po.list:1014 
+msgid "msgid "Photos""
+msgstr "msgid "Photos""
+
+#: base/mobile.po.list:1015 
+msgid "msgstr "Photos""
+msgstr "msgstr "Photos""
+
+#: base/mobile.po.list:1016 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1017 
+msgid "#: base/mobile.csv.list:255 "
+msgstr "#: base/mobile.csv.list:255 "
+
+#: base/mobile.po.list:1018 
+msgid "msgid "Place""
+msgstr "msgid "Place""
+
+#: base/mobile.po.list:1019 
+msgid "msgstr "Place""
+msgstr "msgstr "Place""
+
+#: base/mobile.po.list:1020 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1021 
+msgid "#: base/mobile.csv.list:256 "
+msgstr "#: base/mobile.csv.list:256 "
+
+#: base/mobile.po.list:1022 
+msgid "msgid "Place enabled""
+msgstr "msgid "Place enabled""
+
+#: base/mobile.po.list:1023 
+msgid "msgstr "Place enabled""
+msgstr "msgstr "Place enabled""
+
+#: base/mobile.po.list:1024 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1025 
+msgid "#: base/mobile.csv.list:257 "
+msgstr "#: base/mobile.csv.list:257 "
+
+#: base/mobile.po.list:1026 
+msgid "msgid "Place successfully deleted.""
+msgstr "msgid "Place successfully deleted.""
+
+#: base/mobile.po.list:1027 
+msgid "msgstr "Place successfully deleted.""
+msgstr "msgstr "Place successfully deleted.""
+
+#: base/mobile.po.list:1028 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1029 
+msgid "#: base/mobile.csv.list:258 "
+msgstr "#: base/mobile.csv.list:258 "
+
+#: base/mobile.po.list:1030 
+msgid "msgid "Places""
+msgstr "msgid "Places""
+
+#: base/mobile.po.list:1031 
+msgid "msgstr "Places""
+msgstr "msgstr "Places""
+
+#: base/mobile.po.list:1032 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1033 
+msgid "#: base/mobile.csv.list:259 "
+msgstr "#: base/mobile.csv.list:259 "
+
+#: base/mobile.po.list:1034 
+msgid "msgid "Playlists""
+msgstr "msgid "Playlists""
+
+#: base/mobile.po.list:1035 
+msgid "msgstr "Playlists""
+msgstr "msgstr "Playlists""
+
+#: base/mobile.po.list:1036 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1037 
+msgid "#: base/mobile.csv.list:260 "
+msgstr "#: base/mobile.csv.list:260 "
+
+#: base/mobile.po.list:1038 
+msgid "msgid "Please choose a nickname""
+msgstr "msgid "Please choose a nickname""
+
+#: base/mobile.po.list:1039 
+msgid "msgstr "Please choose a nickname""
+msgstr "msgstr "Please choose a nickname""
+
+#: base/mobile.po.list:1040 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1041 
+msgid "#: base/mobile.csv.list:261 "
+msgstr "#: base/mobile.csv.list:261 "
+
+#: base/mobile.po.list:1042 
+msgid "msgid "Please choose a payment method.""
+msgstr "msgid "Please choose a payment method.""
+
+#: base/mobile.po.list:1043 
+msgid "msgstr "Please choose a payment method.""
+msgstr "msgstr "Please choose a payment method.""
+
+#: base/mobile.po.list:1044 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1045 
+msgid "#: base/mobile.csv.list:262 "
+msgstr "#: base/mobile.csv.list:262 "
+
+#: base/mobile.po.list:1046 
+msgid "msgid "Please enter a valid email address""
+msgstr "msgid "Please enter a valid email address""
+
+#: base/mobile.po.list:1047 
+msgid "msgstr "Please enter a valid email address""
+msgstr "msgstr "Please enter a valid email address""
+
+#: base/mobile.po.list:1048 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1049 
+msgid "#: base/mobile.csv.list:263 "
+msgstr "#: base/mobile.csv.list:263 "
+
+#: base/mobile.po.list:1050 
+msgid "msgid "Please enter the password""
+msgstr "msgid "Please enter the password""
+
+#: base/mobile.po.list:1051 
+msgid "msgstr "Please enter the password""
+msgstr "msgstr "Please enter the password""
+
+#: base/mobile.po.list:1052 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1053 
+msgid "#: base/mobile.csv.list:264 "
+msgstr "#: base/mobile.csv.list:264 "
+
+#: base/mobile.po.list:1054 
+msgid "msgid "Please enter your email address.""
+msgstr "msgid "Please enter your email address.""
+
+#: base/mobile.po.list:1055 
+msgid "msgstr "Please enter your email address.""
+msgstr "msgstr "Please enter your email address.""
+
+#: base/mobile.po.list:1056 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1057 
+msgid "#: base/mobile.csv.list:265 "
+msgstr "#: base/mobile.csv.list:265 "
+
+#: base/mobile.po.list:1058 
+msgid "msgid "Please enter your email address. We'll send you your password right now.""
+msgstr "msgid "Please enter your email address. We'll send you your password right now.""
+
+#: base/mobile.po.list:1059 
+msgid "msgstr "Please enter your email address. We'll send you your password right now.""
+msgstr "msgstr "Please enter your email address. We'll send you your password right now.""
+
+#: base/mobile.po.list:1060 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1061 
+msgid "#: base/mobile.csv.list:266 "
+msgstr "#: base/mobile.csv.list:266 "
+
+#: base/mobile.po.list:1062 
+msgid "msgid "Please fill in your card information to process Credit card payment:""
+msgstr "msgid "Please fill in your card information to process Credit card payment:""
+
+#: base/mobile.po.list:1063 
+msgid "msgstr "Please fill in your card information to process Credit card payment:""
+msgstr "msgstr "Please fill in your card information to process Credit card payment:""
+
+#: base/mobile.po.list:1064 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1065 
+msgid "#: base/mobile.csv.list:267 "
+msgstr "#: base/mobile.csv.list:267 "
+
+#: base/mobile.po.list:1066 
+msgid "msgid "Please select a value""
+msgstr "msgid "Please select a value""
+
+#: base/mobile.po.list:1067 
+msgid "msgstr "Please select a value""
+msgstr "msgstr "Please select a value""
+
+#: base/mobile.po.list:1068 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1069 
+msgid "#: base/mobile.csv.list:268 "
+msgstr "#: base/mobile.csv.list:268 "
+
+#: base/mobile.po.list:1070 
+msgid "msgid "Please wait...""
+msgstr "msgid "Please wait...""
+
+#: base/mobile.po.list:1071 
+msgid "msgstr "Please wait...""
+msgstr "msgstr "Please wait...""
+
+#: base/mobile.po.list:1072 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1073 
+msgid "#: base/mobile.csv.list:269 "
+msgstr "#: base/mobile.csv.list:269 "
+
+#: base/mobile.po.list:1074 
+msgid "msgid "Podcast""
+msgstr "msgid "Podcast""
+
+#: base/mobile.po.list:1075 
+msgid "msgstr "Podcast""
+msgstr "msgstr "Podcast""
+
+#: base/mobile.po.list:1076 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1077 
+msgid "#: base/mobile.csv.list:270 "
+msgstr "#: base/mobile.csv.list:270 "
+
+#: base/mobile.po.list:1078 
+msgid "msgid "Points available:""
+msgstr "msgid "Points available:""
+
+#: base/mobile.po.list:1079 
+msgid "msgstr "Points available:""
+msgstr "msgstr "Points available:""
+
+#: base/mobile.po.list:1080 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1081 
+msgid "#: base/mobile.csv.list:271 "
+msgstr "#: base/mobile.csv.list:271 "
+
+#: base/mobile.po.list:1082 
+msgid "msgid "Postal code or city""
+msgstr "msgid "Postal code or city""
+
+#: base/mobile.po.list:1083 
+msgid "msgstr "Postal code or city""
+msgstr "msgstr "Postal code or city""
+
+#: base/mobile.po.list:1084 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1085 
+msgid "#: base/mobile.csv.list:272 "
+msgstr "#: base/mobile.csv.list:272 "
+
+#: base/mobile.po.list:1086 
+msgid "msgid "Postcode""
+msgstr "msgid "Postcode""
+
+#: base/mobile.po.list:1087 
+msgid "msgstr "Postcode""
+msgstr "msgstr "Postcode""
+
+#: base/mobile.po.list:1088 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1089 
+msgid "#: base/mobile.csv.list:273 "
+msgstr "#: base/mobile.csv.list:273 "
+
+#: base/mobile.po.list:1090 
+msgid "msgid "Pressure:""
+msgstr "msgid "Pressure:""
+
+#: base/mobile.po.list:1091 
+msgid "msgstr "Pressure:""
+msgstr "msgstr "Pressure:""
+
+#: base/mobile.po.list:1092 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1093 
+msgid "#: base/mobile.csv.list:274 "
+msgstr "#: base/mobile.csv.list:274 "
+
+#: base/mobile.po.list:1094 
+msgid "msgid "Previous""
+msgstr "msgid "Previous""
+
+#: base/mobile.po.list:1095 
+msgid "msgstr "Previous""
+msgstr "msgstr "Previous""
+
+#: base/mobile.po.list:1096 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1097 
+msgid "#: base/mobile.csv.list:275 "
+msgstr "#: base/mobile.csv.list:275 "
+
+#: base/mobile.po.list:1098 
+msgid "msgid "Prices""
+msgstr "msgid "Prices""
+
+#: base/mobile.po.list:1099 
+msgid "msgstr "Prices""
+msgstr "msgstr "Prices""
+
+#: base/mobile.po.list:1100 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1101 
+msgid "#: base/mobile.csv.list:276 "
+msgstr "#: base/mobile.csv.list:276 "
+
+#: base/mobile.po.list:1102 
+msgid "msgid "Privacy""
+msgstr "msgid "Privacy""
+
+#: base/mobile.po.list:1103 
+msgid "msgstr "Privacy""
+msgstr "msgstr "Privacy""
+
+#: base/mobile.po.list:1104 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1105 
+msgid "#: base/mobile.csv.list:277 "
+msgstr "#: base/mobile.csv.list:277 "
+
+#: base/mobile.po.list:1106 
+msgid "msgid "Privacy Policy""
+msgstr "msgid "Privacy Policy""
+
+#: base/mobile.po.list:1107 
+msgid "msgstr "Privacy Policy""
+msgstr "msgstr "Privacy Policy""
+
+#: base/mobile.po.list:1108 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1109 
+msgid "#: base/mobile.csv.list:278 "
+msgstr "#: base/mobile.csv.list:278 "
+
+#: base/mobile.po.list:1110 
+msgid "msgid "Private chatroom names must only use alphanumerical characters, spaces, '-', '_' and '.', and must include at least 1 letter.""
+msgstr "msgid "Private chatroom names must only use alphanumerical characters, spaces, '-', '_' and '.', and must include at least 1 letter.""
+
+#: base/mobile.po.list:1111 
+msgid "msgstr "Private chatroom names must only use alphanumerical characters, spaces, '-', '_' and '.', and must include at least 1 letter.""
+msgstr "msgstr "Private chatroom names must only use alphanumerical characters, spaces, '-', '_' and '.', and must include at least 1 letter.""
+
+#: base/mobile.po.list:1112 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1113 
+msgid "#: base/mobile.csv.list:279 "
+msgstr "#: base/mobile.csv.list:279 "
+
+#: base/mobile.po.list:1114 
+msgid "msgid "Proceed""
+msgstr "msgid "Proceed""
+
+#: base/mobile.po.list:1115 
+msgid "msgstr "Proceed""
+msgstr "msgstr "Proceed""
+
+#: base/mobile.po.list:1116 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1117 
+msgid "#: base/mobile.csv.list:280 "
+msgstr "#: base/mobile.csv.list:280 "
+
+#: base/mobile.po.list:1118 
+msgid "msgid "Profile""
+msgstr "msgid "Profile""
+
+#: base/mobile.po.list:1119 
+msgid "msgstr "Profile""
+msgstr "msgstr "Profile""
+
+#: base/mobile.po.list:1120 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1121 
+msgid "#: base/mobile.csv.list:281 "
+msgstr "#: base/mobile.csv.list:281 "
+
+#: base/mobile.po.list:1122 
+msgid "msgid "Pull to refresh...""
+msgstr "msgid "Pull to refresh...""
+
+#: base/mobile.po.list:1123 
+msgid "msgstr "Pull to refresh...""
+msgstr "msgstr "Pull to refresh...""
+
+#: base/mobile.po.list:1124 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1125 
+msgid "#: base/mobile.csv.list:282 "
+msgstr "#: base/mobile.csv.list:282 "
+
+#: base/mobile.po.list:1126 
+msgid "msgid "Qty""
+msgstr "msgid "Qty""
+
+#: base/mobile.po.list:1127 
+msgid "msgstr "Qty""
+msgstr "msgstr "Qty""
+
+#: base/mobile.po.list:1128 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1129 
+msgid "#: base/mobile.csv.list:283 "
+msgstr "#: base/mobile.csv.list:283 "
+
+#: base/mobile.po.list:1130 
+msgid "msgid "Quantity for option $1 is required.""
+msgstr "msgid "Quantity for option $1 is required.""
+
+#: base/mobile.po.list:1131 
+msgid "msgstr "Quantity for option $1 is required.""
+msgstr "msgstr "Quantity for option $1 is required.""
+
+#: base/mobile.po.list:1132 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1133 
+msgid "#: base/mobile.csv.list:284 "
+msgstr "#: base/mobile.csv.list:284 "
+
+#: base/mobile.po.list:1134 
+msgid "msgid "RSVP""
+msgstr "msgid "RSVP""
+
+#: base/mobile.po.list:1135 
+msgid "msgstr "RSVP""
+msgstr "msgstr "RSVP""
+
+#: base/mobile.po.list:1136 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1137 
+msgid "#: base/mobile.csv.list:285 "
+msgstr "#: base/mobile.csv.list:285 "
+
+#: base/mobile.po.list:1138 
+msgid "msgid "Read all""
+msgstr "msgid "Read all""
+
+#: base/mobile.po.list:1139 
+msgid "msgstr "Read all""
+msgstr "msgstr "Read all""
+
+#: base/mobile.po.list:1140 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1141 
+msgid "#: base/mobile.csv.list:286 "
+msgstr "#: base/mobile.csv.list:286 "
+
+#: base/mobile.po.list:1142 
+msgid "msgid "Recent""
+msgstr "msgid "Recent""
+
+#: base/mobile.po.list:1143 
+msgid "msgstr "Recent""
+msgstr "msgstr "Recent""
+
+#: base/mobile.po.list:1144 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1145 
+msgid "#: base/mobile.csv.list:287 "
+msgstr "#: base/mobile.csv.list:287 "
+
+#: base/mobile.po.list:1146 
+msgid "msgid "Remaining due""
+msgstr "msgid "Remaining due""
+
+#: base/mobile.po.list:1147 
+msgid "msgstr "Remaining due""
+msgstr "msgstr "Remaining due""
+
+#: base/mobile.po.list:1148 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1149 
+msgid "#: base/mobile.csv.list:288 "
+msgstr "#: base/mobile.csv.list:288 "
+
+#: base/mobile.po.list:1150 
+msgid "msgid "Remaining due is incorrect.""
+msgstr "msgid "Remaining due is incorrect.""
+
+#: base/mobile.po.list:1151 
+msgid "msgstr "Remaining due is incorrect.""
+msgstr "msgstr "Remaining due is incorrect.""
+
+#: base/mobile.po.list:1152 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1153 
+msgid "#: base/mobile.csv.list:289 "
+msgstr "#: base/mobile.csv.list:289 "
+
+#: base/mobile.po.list:1154 
+msgid "msgid "Remove""
+msgstr "msgid "Remove""
+
+#: base/mobile.po.list:1155 
+msgid "msgstr "Remove""
+msgstr "msgstr "Remove""
+
+#: base/mobile.po.list:1156 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1157 
+msgid "#: base/mobile.csv.list:290 "
+msgstr "#: base/mobile.csv.list:290 "
+
+#: base/mobile.po.list:1158 
+msgid "msgid "Remove card""
+msgstr "msgid "Remove card""
+
+#: base/mobile.po.list:1159 
+msgid "msgstr "Remove card""
+msgstr "msgstr "Remove card""
+
+#: base/mobile.po.list:1160 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1161 
+msgid "#: base/mobile.csv.list:291 "
+msgstr "#: base/mobile.csv.list:291 "
+
+#: base/mobile.po.list:1162 
+msgid "msgid "Remove from friends""
+msgstr "msgid "Remove from friends""
+
+#: base/mobile.po.list:1163 
+msgid "msgstr "Remove from friends""
+msgstr "msgstr "Remove from friends""
+
+#: base/mobile.po.list:1164 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1165 
+msgid "#: base/mobile.csv.list:292 "
+msgstr "#: base/mobile.csv.list:292 "
+
+#: base/mobile.po.list:1166 
+msgid "msgid "Reply""
+msgstr "msgid "Reply""
+
+#: base/mobile.po.list:1167 
+msgid "msgstr "Reply""
+msgstr "msgstr "Reply""
+
+#: base/mobile.po.list:1168 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1169 
+msgid "#: base/mobile.csv.list:293 "
+msgstr "#: base/mobile.csv.list:293 "
+
+#: base/mobile.po.list:1170 
+msgid "msgid "Request as friend""
+msgstr "msgid "Request as friend""
+
+#: base/mobile.po.list:1171 
+msgid "msgstr "Request as friend""
+msgstr "msgstr "Request as friend""
+
+#: base/mobile.po.list:1172 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1173 
+msgid "#: base/mobile.csv.list:294 "
+msgstr "#: base/mobile.csv.list:294 "
+
+#: base/mobile.po.list:1174 
+msgid "msgid "Review""
+msgstr "msgid "Review""
+
+#: base/mobile.po.list:1175 
+msgid "msgstr "Review""
+msgstr "msgstr "Review""
+
+#: base/mobile.po.list:1176 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1177 
+msgid "#: base/mobile.csv.list:295 "
+msgstr "#: base/mobile.csv.list:295 "
+
+#: base/mobile.po.list:1178 
+msgid "msgid "Rewards""
+msgstr "msgid "Rewards""
+
+#: base/mobile.po.list:1179 
+msgid "msgstr "Rewards""
+msgstr "msgstr "Rewards""
+
+#: base/mobile.po.list:1180 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1181 
+msgid "#: base/mobile.csv.list:296 "
+msgstr "#: base/mobile.csv.list:296 "
+
+#: base/mobile.po.list:1182 
+msgid "msgid "Rising:""
+msgstr "msgid "Rising:""
+
+#: base/mobile.po.list:1183 
+msgid "msgstr "Rising:""
+msgstr "msgstr "Rising:""
+
+#: base/mobile.po.list:1184 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1185 
+msgid "#: base/mobile.csv.list:297 "
+msgstr "#: base/mobile.csv.list:297 "
+
+#: base/mobile.po.list:1186 
+msgid "msgid "Room description:""
+msgstr "msgid "Room description:""
+
+#: base/mobile.po.list:1187 
+msgid "msgstr "Room description:""
+msgstr "msgstr "Room description:""
+
+#: base/mobile.po.list:1188 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1189 
+msgid "#: base/mobile.csv.list:298 "
+msgstr "#: base/mobile.csv.list:298 "
+
+#: base/mobile.po.list:1190 
+msgid "msgid "Sat""
+msgstr "msgid "Sat""
+
+#: base/mobile.po.list:1191 
+msgid "msgstr "Sat""
+msgstr "msgstr "Sat""
+
+#: base/mobile.po.list:1192 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1193 
+msgid "#: base/mobile.csv.list:299 "
+msgstr "#: base/mobile.csv.list:299 "
+
+#: base/mobile.po.list:1194 
+msgid "msgid "Save""
+msgstr "msgid "Save""
+
+#: base/mobile.po.list:1195 
+msgid "msgstr "Save""
+msgstr "msgstr "Save""
+
+#: base/mobile.po.list:1196 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1197 
+msgid "#: base/mobile.csv.list:300 "
+msgstr "#: base/mobile.csv.list:300 "
+
+#: base/mobile.po.list:1198 
+msgid "msgid "Scan QRCode""
+msgstr "msgid "Scan QRCode""
+
+#: base/mobile.po.list:1199 
+msgid "msgstr "Scan QRCode""
+msgstr "msgstr "Scan QRCode""
+
+#: base/mobile.po.list:1200 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1201 
+msgid "#: base/mobile.csv.list:301 "
+msgstr "#: base/mobile.csv.list:301 "
+
+#: base/mobile.po.list:1202 
+msgid "msgid "Scan now to unlock""
+msgstr "msgid "Scan now to unlock""
+
+#: base/mobile.po.list:1203 
+msgid "msgstr "Scan now to unlock""
+msgstr "msgstr "Scan now to unlock""
+
+#: base/mobile.po.list:1204 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1205 
+msgid "#: base/mobile.csv.list:302 "
+msgstr "#: base/mobile.csv.list:302 "
+
+#: base/mobile.po.list:1206 
+msgid "msgid "Scan result""
+msgstr "msgid "Scan result""
+
+#: base/mobile.po.list:1207 
+msgid "msgstr "Scan result""
+msgstr "msgstr "Scan result""
+
+#: base/mobile.po.list:1208 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1209 
+msgid "#: base/mobile.csv.list:303 "
+msgstr "#: base/mobile.csv.list:303 "
+
+#: base/mobile.po.list:1210 
+msgid "msgid "Search""
+msgstr "msgid "Search""
+
+#: base/mobile.po.list:1211 
+msgid "msgstr "Search""
+msgstr "msgstr "Search""
+
+#: base/mobile.po.list:1212 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1213 
+msgid "#: base/mobile.csv.list:304 "
+msgstr "#: base/mobile.csv.list:304 "
+
+#: base/mobile.po.list:1214 
+msgid "msgid "See details""
+msgstr "msgid "See details""
+
+#: base/mobile.po.list:1215 
+msgid "msgstr "See details""
+msgstr "msgstr "See details""
+
+#: base/mobile.po.list:1216 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1217 
+msgid "#: base/mobile.csv.list:305 "
+msgstr "#: base/mobile.csv.list:305 "
+
+#: base/mobile.po.list:1218 
+msgid "msgid "Send""
+msgstr "msgid "Send""
+
+#: base/mobile.po.list:1219 
+msgid "msgstr "Send""
+msgstr "msgstr "Send""
+
+#: base/mobile.po.list:1220 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1221 
+msgid "#: base/mobile.csv.list:306 "
+msgstr "#: base/mobile.csv.list:306 "
+
+#: base/mobile.po.list:1222 
+msgid "msgid "Send contact request""
+msgstr "msgid "Send contact request""
+
+#: base/mobile.po.list:1223 
+msgid "msgstr "Send contact request""
+msgstr "msgstr "Send contact request""
+
+#: base/mobile.po.list:1224 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1225 
+msgid "#: base/mobile.csv.list:307 "
+msgstr "#: base/mobile.csv.list:307 "
+
+#: base/mobile.po.list:1226 
+msgid "msgid "Show me in ranking""
+msgstr "msgid "Show me in ranking""
+
+#: base/mobile.po.list:1227 
+msgid "msgstr "Show me in ranking""
+msgstr "msgstr "Show me in ranking""
+
+#: base/mobile.po.list:1228 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1229 
+msgid "#: base/mobile.csv.list:308 "
+msgstr "#: base/mobile.csv.list:308 "
+
+#: base/mobile.po.list:1230 
+msgid "msgid "Signup""
+msgstr "msgid "Signup""
+
+#: base/mobile.po.list:1231 
+msgid "msgstr "Signup""
+msgstr "msgstr "Signup""
+
+#: base/mobile.po.list:1232 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1233 
+msgid "#: base/mobile.csv.list:309 "
+msgstr "#: base/mobile.csv.list:309 "
+
+#: base/mobile.po.list:1234 
+msgid "msgid "Some mandatory fields are empty.""
+msgstr "msgid "Some mandatory fields are empty.""
+
+#: base/mobile.po.list:1235 
+msgid "msgstr "Some mandatory fields are empty.""
+msgstr "msgstr "Some mandatory fields are empty.""
+
+#: base/mobile.po.list:1236 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1237 
+msgid "#: base/mobile.csv.list:310 "
+msgstr "#: base/mobile.csv.list:310 "
+
+#: base/mobile.po.list:1238 
+msgid "msgid "Sorry""
+msgstr "msgid "Sorry""
+
+#: base/mobile.po.list:1239 
+msgid "msgstr "Sorry""
+msgstr "msgstr "Sorry""
+
+#: base/mobile.po.list:1240 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1241 
+msgid "#: base/mobile.csv.list:311 "
+msgstr "#: base/mobile.csv.list:311 "
+
+#: base/mobile.po.list:1242 
+msgid "msgid "Sorry, but the weather service is not available for the moment. Please try again later.""
+msgstr "msgid "Sorry, but the weather service is not available for the moment. Please try again later.""
+
+#: base/mobile.po.list:1243 
+msgid "msgstr "Sorry, but the weather service is not available for the moment. Please try again later.""
+msgstr "msgstr "Sorry, but the weather service is not available for the moment. Please try again later.""
+
+#: base/mobile.po.list:1244 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1245 
+msgid "#: base/mobile.csv.list:312 "
+msgstr "#: base/mobile.csv.list:312 "
+
+#: base/mobile.po.list:1246 
+msgid "msgid "Sorry, the route cannot be calculated.""
+msgstr "msgid "Sorry, the route cannot be calculated.""
+
+#: base/mobile.po.list:1247 
+msgid "msgstr "Sorry, the route cannot be calculated.""
+msgstr "msgstr "Sorry, the route cannot be calculated.""
+
+#: base/mobile.po.list:1248 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1249 
+msgid "#: base/mobile.csv.list:313 "
+msgstr "#: base/mobile.csv.list:313 "
+
+#: base/mobile.po.list:1250 
+msgid "msgid "Speed:""
+msgstr "msgid "Speed:""
+
+#: base/mobile.po.list:1251 
+msgid "msgstr "Speed:""
+msgstr "msgstr "Speed:""
+
+#: base/mobile.po.list:1252 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1253 
+msgid "#: base/mobile.csv.list:314 "
+msgstr "#: base/mobile.csv.list:314 "
+
+#: base/mobile.po.list:1254 
+msgid "msgid "Status""
+msgstr "msgid "Status""
+
+#: base/mobile.po.list:1255 
+msgid "msgstr "Status""
+msgstr "msgstr "Status""
+
+#: base/mobile.po.list:1256 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1257 
+msgid "#: base/mobile.csv.list:315 "
+msgstr "#: base/mobile.csv.list:315 "
+
+#: base/mobile.po.list:1258 
+msgid "msgid "Stored card information.""
+msgstr "msgid "Stored card information.""
+
+#: base/mobile.po.list:1259 
+msgid "msgstr "Stored card information.""
+msgstr "msgstr "Stored card information.""
+
+#: base/mobile.po.list:1260 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1261 
+msgid "#: base/mobile.csv.list:316 "
+msgstr "#: base/mobile.csv.list:316 "
+
+#: base/mobile.po.list:1262 
+msgid "msgid "Street""
+msgstr "msgid "Street""
+
+#: base/mobile.po.list:1263 
+msgid "msgstr "Street""
+msgstr "msgstr "Street""
+
+#: base/mobile.po.list:1264 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1265 
+msgid "#: base/mobile.csv.list:317 "
+msgstr "#: base/mobile.csv.list:317 "
+
+#: base/mobile.po.list:1266 
+msgid "msgid "Subtotal""
+msgstr "msgid "Subtotal""
+
+#: base/mobile.po.list:1267 
+msgid "msgstr "Subtotal""
+msgstr "msgstr "Subtotal""
+
+#: base/mobile.po.list:1268 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1269 
+msgid "#: base/mobile.csv.list:318 "
+msgstr "#: base/mobile.csv.list:318 "
+
+#: base/mobile.po.list:1270 
+msgid "msgid "Subtotal Excl. Tax""
+msgstr "msgid "Subtotal Excl. Tax""
+
+#: base/mobile.po.list:1271 
+msgid "msgstr "Subtotal Excl. Tax""
+msgstr "msgstr "Subtotal Excl. Tax""
+
+#: base/mobile.po.list:1272 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1273 
+msgid "#: base/mobile.csv.list:319 "
+msgstr "#: base/mobile.csv.list:319 "
+
+#: base/mobile.po.list:1274 
+msgid "msgid "Success.""
+msgstr "msgid "Success.""
+
+#: base/mobile.po.list:1275 
+msgid "msgstr "Success.""
+msgstr "msgstr "Success.""
+
+#: base/mobile.po.list:1276 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1277 
+msgid "#: base/mobile.csv.list:320 "
+msgstr "#: base/mobile.csv.list:320 "
+
+#: base/mobile.po.list:1278 
+msgid "msgid "Sun""
+msgstr "msgid "Sun""
+
+#: base/mobile.po.list:1279 
+msgid "msgstr "Sun""
+msgstr "msgstr "Sun""
+
+#: base/mobile.po.list:1280 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1281 
+msgid "#: base/mobile.csv.list:321 "
+msgstr "#: base/mobile.csv.list:321 "
+
+#: base/mobile.po.list:1282 
+msgid "msgid "Sunrise:""
+msgstr "msgid "Sunrise:""
+
+#: base/mobile.po.list:1283 
+msgid "msgstr "Sunrise:""
+msgstr "msgstr "Sunrise:""
+
+#: base/mobile.po.list:1284 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1285 
+msgid "#: base/mobile.csv.list:322 "
+msgstr "#: base/mobile.csv.list:322 "
+
+#: base/mobile.po.list:1286 
+msgid "msgid "Sunset:""
+msgstr "msgid "Sunset:""
+
+#: base/mobile.po.list:1287 
+msgid "msgstr "Sunset:""
+msgstr "msgstr "Sunset:""
+
+#: base/mobile.po.list:1288 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1289 
+msgid "#: base/mobile.csv.list:323 "
+msgstr "#: base/mobile.csv.list:323 "
+
+#: base/mobile.po.list:1290 
+msgid "msgid "Take a picture""
+msgstr "msgid "Take a picture""
+
+#: base/mobile.po.list:1291 
+msgid "msgstr "Take a picture""
+msgstr "msgstr "Take a picture""
+
+#: base/mobile.po.list:1292 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1293 
+msgid "#: base/mobile.csv.list:324 "
+msgstr "#: base/mobile.csv.list:324 "
+
+#: base/mobile.po.list:1294 
+msgid "msgid "Tap to download in background""
+msgstr "msgid "Tap to download in background""
+
+#: base/mobile.po.list:1295 
+msgid "msgstr "Tap to download in background""
+msgstr "msgstr "Tap to download in background""
+
+#: base/mobile.po.list:1296 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1297 
+msgid "#: base/mobile.csv.list:325 "
+msgstr "#: base/mobile.csv.list:325 "
+
+#: base/mobile.po.list:1298 
+msgid "msgid "Tax""
+msgstr "msgid "Tax""
+
+#: base/mobile.po.list:1299 
+msgid "msgstr "Tax""
+msgstr "msgstr "Tax""
+
+#: base/mobile.po.list:1300 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1301 
+msgid "#: base/mobile.csv.list:326 "
+msgstr "#: base/mobile.csv.list:326 "
+
+#: base/mobile.po.list:1302 
+msgid "msgid "Team Leader""
+msgstr "msgid "Team Leader""
+
+#: base/mobile.po.list:1303 
+msgid "msgstr "Team Leader""
+msgstr "msgstr "Team Leader""
+
+#: base/mobile.po.list:1304 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1305 
+msgid "#: base/mobile.csv.list:327 "
+msgstr "#: base/mobile.csv.list:327 "
+
+#: base/mobile.po.list:1306 
+msgid "msgid "Terms & Conditions""
+msgstr "msgid "Terms & Conditions""
+
+#: base/mobile.po.list:1307 
+msgid "msgstr "Terms & Conditions""
+msgstr "msgstr "Terms & Conditions""
+
+#: base/mobile.po.list:1308 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1309 
+msgid "#: base/mobile.csv.list:328 "
+msgstr "#: base/mobile.csv.list:328 "
+
+#: base/mobile.po.list:1310 
+msgid "msgid "Thank you""
+msgstr "msgid "Thank you""
+
+#: base/mobile.po.list:1311 
+msgid "msgstr "Thank you""
+msgstr "msgstr "Thank you""
+
+#: base/mobile.po.list:1312 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1313 
+msgid "#: base/mobile.csv.list:329 "
+msgstr "#: base/mobile.csv.list:329 "
+
+#: base/mobile.po.list:1314 
+msgid "msgid "The address you're looking for does not exists.""
+msgstr "msgid "The address you're looking for does not exists.""
+
+#: base/mobile.po.list:1315 
+msgid "msgstr "The address you're looking for does not exists.""
+msgstr "msgstr "The address you're looking for does not exists.""
+
+#: base/mobile.po.list:1316 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1317 
+msgid "#: base/mobile.csv.list:330 "
+msgstr "#: base/mobile.csv.list:330 "
+
+#: base/mobile.po.list:1318 
+msgid "msgid "The category you are trying to edit doesn't exists.""
+msgstr "msgid "The category you are trying to edit doesn't exists.""
+
+#: base/mobile.po.list:1319 
+msgid "msgstr "The category you are trying to edit doesn't exists.""
+msgstr "msgstr "The category you are trying to edit doesn't exists.""
+
+#: base/mobile.po.list:1320 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1321 
+msgid "#: base/mobile.csv.list:331 "
+msgstr "#: base/mobile.csv.list:331 "
+
+#: base/mobile.po.list:1322 
+msgid "msgid "The company you are trying to edit doesn't exists.""
+msgstr "msgid "The company you are trying to edit doesn't exists.""
+
+#: base/mobile.po.list:1323 
+msgid "msgstr "The company you are trying to edit doesn't exists.""
+msgstr "msgstr "The company you are trying to edit doesn't exists.""
+
+#: base/mobile.po.list:1324 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1325 
+msgid "#: base/mobile.csv.list:332 "
+msgstr "#: base/mobile.csv.list:332 "
+
+#: base/mobile.po.list:1326 
+msgid "msgid "The payment has been cancelled, something wrong happened? Feel free to contact us.""
+msgstr "msgid "The payment has been cancelled, something wrong happened? Feel free to contact us.""
+
+#: base/mobile.po.list:1327 
+msgid "msgstr "The payment has been cancelled, something wrong happened? Feel free to contact us.""
+msgstr "msgstr "The payment has been cancelled, something wrong happened? Feel free to contact us.""
+
+#: base/mobile.po.list:1328 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1329 
+msgid "#: base/mobile.csv.list:333 "
+msgstr "#: base/mobile.csv.list:333 "
+
+#: base/mobile.po.list:1330 
+msgid "msgid "The place you are trying to edit doesn't exists.""
+msgstr "msgid "The place you are trying to edit doesn't exists.""
+
+#: base/mobile.po.list:1331 
+msgid "msgstr "The place you are trying to edit doesn't exists.""
+msgstr "msgstr "The place you are trying to edit doesn't exists.""
+
+#: base/mobile.po.list:1332 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1333 
+msgid "#: base/mobile.csv.list:334 "
+msgstr "#: base/mobile.csv.list:334 "
+
+#: base/mobile.po.list:1334 
+msgid "msgid "The sign in flow was canceled""
+msgstr "msgid "The sign in flow was canceled""
+
+#: base/mobile.po.list:1335 
+msgid "msgstr "The sign in flow was canceled""
+msgstr "msgstr "The sign in flow was canceled""
+
+#: base/mobile.po.list:1336 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1337 
+msgid "#: base/mobile.csv.list:335 "
+msgstr "#: base/mobile.csv.list:335 "
+
+#: base/mobile.po.list:1338 
+msgid "msgid "There is no route available with these informations.""
+msgstr "msgid "There is no route available with these informations.""
+
+#: base/mobile.po.list:1339 
+msgid "msgstr "There is no route available with these informations.""
+msgstr "msgstr "There is no route available with these informations.""
+
+#: base/mobile.po.list:1340 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1341 
+msgid "#: base/mobile.csv.list:336 "
+msgstr "#: base/mobile.csv.list:336 "
+
+#: base/mobile.po.list:1342 
+msgid "msgid "This application is no longer available""
+msgstr "msgid "This application is no longer available""
+
+#: base/mobile.po.list:1343 
+msgid "msgstr "This application is no longer available""
+msgstr "msgstr "This application is no longer available""
+
+#: base/mobile.po.list:1344 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1345 
+msgid "#: base/mobile.csv.list:337 "
+msgstr "#: base/mobile.csv.list:337 "
+
+#: base/mobile.po.list:1346 
+msgid "msgid "This feature is available from the application only""
+msgstr "msgid "This feature is available from the application only""
+
+#: base/mobile.po.list:1347 
+msgid "msgstr "This feature is available from the application only""
+msgstr "msgstr "This feature is available from the application only""
+
+#: base/mobile.po.list:1348 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1349 
+msgid "#: base/mobile.csv.list:338 "
+msgstr "#: base/mobile.csv.list:338 "
+
+#: base/mobile.po.list:1350 
+msgid "msgid "This feature is disabled in this preview""
+msgstr "msgid "This feature is disabled in this preview""
+
+#: base/mobile.po.list:1351 
+msgid "msgstr "This feature is disabled in this preview""
+msgstr "msgstr "This feature is disabled in this preview""
+
+#: base/mobile.po.list:1352 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1353 
+msgid "#: base/mobile.csv.list:339 "
+msgstr "#: base/mobile.csv.list:339 "
+
+#: base/mobile.po.list:1354 
+msgid "msgid "This feature is not available in offline mode!""
+msgstr "msgid "This feature is not available in offline mode!""
+
+#: base/mobile.po.list:1355 
+msgid "msgstr "This feature is not available in offline mode!""
+msgstr "msgstr "This feature is not available in offline mode!""
+
+#: base/mobile.po.list:1356 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1357 
+msgid "#: base/mobile.csv.list:340 "
+msgstr "#: base/mobile.csv.list:340 "
+
+#: base/mobile.po.list:1358 
+msgid "msgid "This field is required""
+msgstr "msgid "This field is required""
+
+#: base/mobile.po.list:1359 
+msgid "msgstr "This field is required""
+msgstr "msgstr "This field is required""
+
+#: base/mobile.po.list:1360 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1361 
+msgid "#: base/mobile.csv.list:341 "
+msgstr "#: base/mobile.csv.list:341 "
+
+#: base/mobile.po.list:1362 
+msgid "msgid "This is a preview of your survey, it shows current sections and questions set in the editor.""
+msgstr "msgid "This is a preview of your survey, it shows current sections and questions set in the editor.""
+
+#: base/mobile.po.list:1363 
+msgid "msgstr "This is a preview of your survey, it shows current sections and questions set in the editor.""
+msgstr "msgstr "This is a preview of your survey, it shows current sections and questions set in the editor.""
+
+#: base/mobile.po.list:1364 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1365 
+msgid "#: base/mobile.csv.list:342 "
+msgstr "#: base/mobile.csv.list:342 "
+
+#: base/mobile.po.list:1366 
+msgid "msgid "This nickname is already taken""
+msgstr "msgid "This nickname is already taken""
+
+#: base/mobile.po.list:1367 
+msgid "msgstr "This nickname is already taken""
+msgstr "msgstr "This nickname is already taken""
+
+#: base/mobile.po.list:1368 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1369 
+msgid "#: base/mobile.csv.list:343 "
+msgstr "#: base/mobile.csv.list:343 "
+
+#: base/mobile.po.list:1370 
+msgid "msgid "This nickname is too long""
+msgstr "msgid "This nickname is too long""
+
+#: base/mobile.po.list:1371 
+msgid "msgstr "This nickname is too long""
+msgstr "msgstr "This nickname is too long""
+
+#: base/mobile.po.list:1372 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1373 
+msgid "#: base/mobile.csv.list:344 "
+msgstr "#: base/mobile.csv.list:344 "
+
+#: base/mobile.po.list:1374 
+msgid "msgid "This will open the code scan camera on your device.""
+msgstr "msgid "This will open the code scan camera on your device.""
+
+#: base/mobile.po.list:1375 
+msgid "msgstr "This will open the code scan camera on your device.""
+msgstr "msgstr "This will open the code scan camera on your device.""
+
+#: base/mobile.po.list:1376 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1377 
+msgid "#: base/mobile.csv.list:345 "
+msgstr "#: base/mobile.csv.list:345 "
+
+#: base/mobile.po.list:1378 
+msgid "msgid "Thu""
+msgstr "msgid "Thu""
+
+#: base/mobile.po.list:1379 
+msgid "msgstr "Thu""
+msgstr "msgstr "Thu""
+
+#: base/mobile.po.list:1380 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1381 
+msgid "#: base/mobile.csv.list:346 "
+msgstr "#: base/mobile.csv.list:346 "
+
+#: base/mobile.po.list:1382 
+msgid "msgid "Tip""
+msgstr "msgid "Tip""
+
+#: base/mobile.po.list:1383 
+msgid "msgstr "Tip""
+msgstr "msgstr "Tip""
+
+#: base/mobile.po.list:1384 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1385 
+msgid "#: base/mobile.csv.list:347 "
+msgstr "#: base/mobile.csv.list:347 "
+
+#: base/mobile.po.list:1386 
+msgid "msgid "Tip for each:""
+msgstr "msgid "Tip for each:""
+
+#: base/mobile.po.list:1387 
+msgid "msgstr "Tip for each:""
+msgstr "msgstr "Tip for each:""
+
+#: base/mobile.po.list:1388 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1389 
+msgid "#: base/mobile.csv.list:348 "
+msgstr "#: base/mobile.csv.list:348 "
+
+#: base/mobile.po.list:1390 
+msgid "msgid "Title""
+msgstr "msgid "Title""
+
+#: base/mobile.po.list:1391 
+msgid "msgstr "Title""
+msgstr "msgstr "Title""
+
+#: base/mobile.po.list:1392 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1393 
+msgid "#: base/mobile.csv.list:349 "
+msgstr "#: base/mobile.csv.list:349 "
+
+#: base/mobile.po.list:1394 
+msgid "msgid "To:""
+msgstr "msgid "To:""
+
+#: base/mobile.po.list:1395 
+msgid "msgstr "To:""
+msgstr "msgstr "To:""
+
+#: base/mobile.po.list:1396 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1397 
+msgid "#: base/mobile.csv.list:350 "
+msgstr "#: base/mobile.csv.list:350 "
+
+#: base/mobile.po.list:1398 
+msgid "msgid "Toggle""
+msgstr "msgid "Toggle""
+
+#: base/mobile.po.list:1399 
+msgid "msgstr "Toggle""
+msgstr "msgstr "Toggle""
+
+#: base/mobile.po.list:1400 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1401 
+msgid "#: base/mobile.csv.list:351 "
+msgstr "#: base/mobile.csv.list:351 "
+
+#: base/mobile.po.list:1402 
+msgid "msgid "Total""
+msgstr "msgid "Total""
+
+#: base/mobile.po.list:1403 
+msgid "msgstr "Total""
+msgstr "msgstr "Total""
+
+#: base/mobile.po.list:1404 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1405 
+msgid "#: base/mobile.csv.list:352 "
+msgstr "#: base/mobile.csv.list:352 "
+
+#: base/mobile.po.list:1406 
+msgid "msgid "Total Excl. Tax""
+msgstr "msgid "Total Excl. Tax""
+
+#: base/mobile.po.list:1407 
+msgid "msgstr "Total Excl. Tax""
+msgstr "msgstr "Total Excl. Tax""
+
+#: base/mobile.po.list:1408 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1409 
+msgid "#: base/mobile.csv.list:353 "
+msgstr "#: base/mobile.csv.list:353 "
+
+#: base/mobile.po.list:1410 
+msgid "msgid "Total tax""
+msgstr "msgid "Total tax""
+
+#: base/mobile.po.list:1411 
+msgid "msgstr "Total tax""
+msgstr "msgstr "Total tax""
+
+#: base/mobile.po.list:1412 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1413 
+msgid "#: base/mobile.csv.list:354 "
+msgstr "#: base/mobile.csv.list:354 "
+
+#: base/mobile.po.list:1414 
+msgid "msgid "Tracks""
+msgstr "msgid "Tracks""
+
+#: base/mobile.po.list:1415 
+msgid "msgstr "Tracks""
+msgstr "msgstr "Tracks""
+
+#: base/mobile.po.list:1416 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1417 
+msgid "#: base/mobile.csv.list:355 "
+msgstr "#: base/mobile.csv.list:355 "
+
+#: base/mobile.po.list:1418 
+msgid "msgid "Triple tap to close the preview""
+msgstr "msgid "Triple tap to close the preview""
+
+#: base/mobile.po.list:1419 
+msgid "msgstr "Triple tap to close the preview""
+msgstr "msgstr "Triple tap to close the preview""
+
+#: base/mobile.po.list:1420 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1421 
+msgid "#: base/mobile.csv.list:356 "
+msgstr "#: base/mobile.csv.list:356 "
+
+#: base/mobile.po.list:1422 
+msgid "msgid "Tue""
+msgstr "msgid "Tue""
+
+#: base/mobile.po.list:1423 
+msgid "msgstr "Tue""
+msgstr "msgstr "Tue""
+
+#: base/mobile.po.list:1424 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1425 
+msgid "#: base/mobile.csv.list:357 "
+msgstr "#: base/mobile.csv.list:357 "
+
+#: base/mobile.po.list:1426 
+msgid "msgid "Twitter""
+msgstr "msgid "Twitter""
+
+#: base/mobile.po.list:1427 
+msgid "msgstr "Twitter""
+msgstr "msgstr "Twitter""
+
+#: base/mobile.po.list:1428 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1429 
+msgid "#: base/mobile.csv.list:358 "
+msgstr "#: base/mobile.csv.list:358 "
+
+#: base/mobile.po.list:1430 
+msgid "msgid "Unblock""
+msgstr "msgid "Unblock""
+
+#: base/mobile.po.list:1431 
+msgid "msgstr "Unblock""
+msgstr "msgstr "Unblock""
+
+#: base/mobile.po.list:1432 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1433 
+msgid "#: base/mobile.csv.list:359 "
+msgstr "#: base/mobile.csv.list:359 "
+
+#: base/mobile.po.list:1434 
+msgid "msgid "Unlock by QRCode""
+msgstr "msgid "Unlock by QRCode""
+
+#: base/mobile.po.list:1435 
+msgid "msgstr "Unlock by QRCode""
+msgstr "msgstr "Unlock by QRCode""
+
+#: base/mobile.po.list:1436 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1437 
+msgid "#: base/mobile.csv.list:360 "
+msgstr "#: base/mobile.csv.list:360 "
+
+#: base/mobile.po.list:1438 
+msgid "msgid "Until:""
+msgstr "msgid "Until:""
+
+#: base/mobile.po.list:1439 
+msgid "msgstr "Until:""
+msgstr "msgstr "Until:""
+
+#: base/mobile.po.list:1440 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1441 
+msgid "#: base/mobile.csv.list:361 "
+msgstr "#: base/mobile.csv.list:361 "
+
+#: base/mobile.po.list:1442 
+msgid "msgid "Updating price""
+msgstr "msgid "Updating price""
+
+#: base/mobile.po.list:1443 
+msgid "msgstr "Updating price""
+msgstr "msgstr "Updating price""
+
+#: base/mobile.po.list:1444 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1445 
+msgid "#: base/mobile.csv.list:362 "
+msgstr "#: base/mobile.csv.list:362 "
+
+#: base/mobile.po.list:1446 
+msgid "msgid "Use:""
+msgstr "msgid "Use:""
+
+#: base/mobile.po.list:1447 
+msgid "msgstr "Use:""
+msgstr "msgstr "Use:""
+
+#: base/mobile.po.list:1448 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1449 
+msgid "#: base/mobile.csv.list:363 "
+msgstr "#: base/mobile.csv.list:363 "
+
+#: base/mobile.po.list:1450 
+msgid "msgid "Use global configuration""
+msgstr "msgid "Use global configuration""
+
+#: base/mobile.po.list:1451 
+msgid "msgstr "Use global configuration""
+msgstr "msgstr "Use global configuration""
+
+#: base/mobile.po.list:1452 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1453 
+msgid "#: base/mobile.csv.list:364 "
+msgstr "#: base/mobile.csv.list:364 "
+
+#: base/mobile.po.list:1454 
+msgid "msgid "Use my location""
+msgstr "msgid "Use my location""
+
+#: base/mobile.po.list:1455 
+msgid "msgstr "Use my location""
+msgstr "msgstr "Use my location""
+
+#: base/mobile.po.list:1456 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1457 
+msgid "#: base/mobile.csv.list:365 "
+msgstr "#: base/mobile.csv.list:365 "
+
+#: base/mobile.po.list:1458 
+msgid "msgid "Use my points?""
+msgstr "msgid "Use my points?""
+
+#: base/mobile.po.list:1459 
+msgid "msgstr "Use my points?""
+msgstr "msgstr "Use my points?""
+
+#: base/mobile.po.list:1460 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1461 
+msgid "#: base/mobile.csv.list:366 "
+msgstr "#: base/mobile.csv.list:366 "
+
+#: base/mobile.po.list:1462 
+msgid "msgid "Use this coupon""
+msgstr "msgid "Use this coupon""
+
+#: base/mobile.po.list:1463 
+msgid "msgstr "Use this coupon""
+msgstr "msgstr "Use this coupon""
+
+#: base/mobile.po.list:1464 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1465 
+msgid "#: base/mobile.csv.list:367 "
+msgstr "#: base/mobile.csv.list:367 "
+
+#: base/mobile.po.list:1466 
+msgid "msgid "Valid Until""
+msgstr "msgid "Valid Until""
+
+#: base/mobile.po.list:1467 
+msgid "msgstr "Valid Until""
+msgstr "msgstr "Valid Until""
+
+#: base/mobile.po.list:1468 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1469 
+msgid "#: base/mobile.csv.list:368 "
+msgstr "#: base/mobile.csv.list:368 "
+
+#: base/mobile.po.list:1470 
+msgid "msgid "Validate""
+msgstr "msgid "Validate""
+
+#: base/mobile.po.list:1471 
+msgid "msgstr "Validate""
+msgstr "msgstr "Validate""
+
+#: base/mobile.po.list:1472 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1473 
+msgid "#: base/mobile.csv.list:369 "
+msgstr "#: base/mobile.csv.list:369 "
+
+#: base/mobile.po.list:1474 
+msgid "msgid "View""
+msgstr "msgid "View""
+
+#: base/mobile.po.list:1475 
+msgid "msgstr "View""
+msgstr "msgstr "View""
+
+#: base/mobile.po.list:1476 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1477 
+msgid "#: base/mobile.csv.list:370 "
+msgstr "#: base/mobile.csv.list:370 "
+
+#: base/mobile.po.list:1478 
+msgid "msgid "View full article""
+msgstr "msgid "View full article""
+
+#: base/mobile.po.list:1479 
+msgid "msgstr "View full article""
+msgstr "msgstr "View full article""
+
+#: base/mobile.po.list:1480 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1481 
+msgid "#: base/mobile.csv.list:371 "
+msgstr "#: base/mobile.csv.list:371 "
+
+#: base/mobile.po.list:1482 
+msgid "msgid "Visibility:""
+msgstr "msgid "Visibility:""
+
+#: base/mobile.po.list:1483 
+msgid "msgstr "Visibility:""
+msgstr "msgstr "Visibility:""
+
+#: base/mobile.po.list:1484 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1485 
+msgid "#: base/mobile.csv.list:372 "
+msgstr "#: base/mobile.csv.list:372 "
+
+#: base/mobile.po.list:1486 
+msgid "msgid "We are sorry but this application has been deactivated and may not be re-activated.""
+msgstr "msgid "We are sorry but this application has been deactivated and may not be re-activated.""
+
+#: base/mobile.po.list:1487 
+msgid "msgstr "We are sorry but this application has been deactivated and may not be re-activated.""
+msgstr "msgstr "We are sorry but this application has been deactivated and may not be re-activated.""
+
+#: base/mobile.po.list:1488 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1489 
+msgid "#: base/mobile.csv.list:373 "
+msgstr "#: base/mobile.csv.list:373 "
+
+#: base/mobile.po.list:1490 
+msgid "msgid "We are sorry but this card is temporarily blocked""
+msgstr "msgid "We are sorry but this card is temporarily blocked""
+
+#: base/mobile.po.list:1491 
+msgid "msgstr "We are sorry but this card is temporarily blocked""
+msgstr "msgstr "We are sorry but this card is temporarily blocked""
+
+#: base/mobile.po.list:1492 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1493 
+msgid "#: base/mobile.csv.list:374 "
+msgstr "#: base/mobile.csv.list:374 "
+
+#: base/mobile.po.list:1494 
+msgid "msgid "We are sorry but this nickname is already used""
+msgstr "msgid "We are sorry but this nickname is already used""
+
+#: base/mobile.po.list:1495 
+msgid "msgstr "We are sorry but this nickname is already used""
+msgstr "msgstr "We are sorry but this nickname is already used""
+
+#: base/mobile.po.list:1496 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1497 
+msgid "#: base/mobile.csv.list:375 "
+msgstr "#: base/mobile.csv.list:375 "
+
+#: base/mobile.po.list:1498 
+msgid "msgid "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum""
+msgstr "msgid "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum""
+
+#: base/mobile.po.list:1499 
+msgid "msgstr "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum""
+msgstr "msgstr "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum""
+
+#: base/mobile.po.list:1500 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1501 
+msgid "#: base/mobile.csv.list:376 "
+msgstr "#: base/mobile.csv.list:376 "
+
+#: base/mobile.po.list:1502 
+msgid "msgid "We are sorry but your account does not have enough permissions to access this page""
+msgstr "msgid "We are sorry but your account does not have enough permissions to access this page""
+
+#: base/mobile.po.list:1503 
+msgid "msgstr "We are sorry but your account does not have enough permissions to access this page""
+msgstr "msgstr "We are sorry but your account does not have enough permissions to access this page""
+
+#: base/mobile.po.list:1504 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1505 
+msgid "#: base/mobile.csv.list:377 "
+msgstr "#: base/mobile.csv.list:377 "
+
+#: base/mobile.po.list:1506 
+msgid "msgid "We have trouble connecting you to the chat server. Please try again later.""
+msgstr "msgid "We have trouble connecting you to the chat server. Please try again later.""
+
+#: base/mobile.po.list:1507 
+msgid "msgstr "We have trouble connecting you to the chat server. Please try again later.""
+msgstr "msgstr "We have trouble connecting you to the chat server. Please try again later.""
+
+#: base/mobile.po.list:1508 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1509 
+msgid "#: base/mobile.csv.list:378 "
+msgstr "#: base/mobile.csv.list:378 "
+
+#: base/mobile.po.list:1510 
+msgid "msgid "We haven't found this person!""
+msgstr "msgid "We haven't found this person!""
+
+#: base/mobile.po.list:1511 
+msgid "msgstr "We haven't found this person!""
+msgstr "msgstr "We haven't found this person!""
+
+#: base/mobile.po.list:1512 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1513 
+msgid "#: base/mobile.csv.list:379 "
+msgstr "#: base/mobile.csv.list:379 "
+
+#: base/mobile.po.list:1514 
+msgid "msgid "We thank you for your order. A confirmation email has been sent""
+msgstr "msgid "We thank you for your order. A confirmation email has been sent""
+
+#: base/mobile.po.list:1515 
+msgid "msgstr "We thank you for your order. A confirmation email has been sent""
+msgstr "msgstr "We thank you for your order. A confirmation email has been sent""
+
+#: base/mobile.po.list:1516 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1517 
+msgid "#: base/mobile.csv.list:380 "
+msgstr "#: base/mobile.csv.list:380 "
+
+#: base/mobile.po.list:1518 
+msgid "msgid "Weather information""
+msgstr "msgid "Weather information""
+
+#: base/mobile.po.list:1519 
+msgid "msgstr "Weather information""
+msgstr "msgstr "Weather information""
+
+#: base/mobile.po.list:1520 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1521 
+msgid "#: base/mobile.csv.list:381 "
+msgstr "#: base/mobile.csv.list:381 "
+
+#: base/mobile.po.list:1522 
+msgid "msgid "Website""
+msgstr "msgid "Website""
+
+#: base/mobile.po.list:1523 
+msgid "msgstr "Website""
+msgstr "msgstr "Website""
+
+#: base/mobile.po.list:1524 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1525 
+msgid "#: base/mobile.csv.list:382 "
+msgstr "#: base/mobile.csv.list:382 "
+
+#: base/mobile.po.list:1526 
+msgid "msgid "Wed""
+msgstr "msgid "Wed""
+
+#: base/mobile.po.list:1527 
+msgid "msgstr "Wed""
+msgstr "msgstr "Wed""
+
+#: base/mobile.po.list:1528 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1529 
+msgid "#: base/mobile.csv.list:383 "
+msgstr "#: base/mobile.csv.list:383 "
+
+#: base/mobile.po.list:1530 
+msgid "msgid "We'll send you your password right now.""
+msgstr "msgid "We'll send you your password right now.""
+
+#: base/mobile.po.list:1531 
+msgid "msgstr "We'll send you your password right now.""
+msgstr "msgstr "We'll send you your password right now.""
+
+#: base/mobile.po.list:1532 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1533 
+msgid "#: base/mobile.csv.list:384 "
+msgstr "#: base/mobile.csv.list:384 "
+
+#: base/mobile.po.list:1534 
+msgid "msgid "Wind""
+msgstr "msgid "Wind""
+
+#: base/mobile.po.list:1535 
+msgid "msgstr "Wind""
+msgstr "msgstr "Wind""
+
+#: base/mobile.po.list:1536 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1537 
+msgid "#: base/mobile.csv.list:385 "
+msgstr "#: base/mobile.csv.list:385 "
+
+#: base/mobile.po.list:1538 
+msgid "msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point""
+msgstr "msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point""
+
+#: base/mobile.po.list:1539 
+msgid "msgstr "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point""
+msgstr "msgstr "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point""
+
+#: base/mobile.po.list:1540 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1541 
+msgid "#: base/mobile.csv.list:386 "
+msgstr "#: base/mobile.csv.list:386 "
+
+#: base/mobile.po.list:1542 
+msgid "msgid "XXXX XXXX XXXX""
+msgstr "msgid "XXXX XXXX XXXX""
+
+#: base/mobile.po.list:1543 
+msgid "msgstr "XXXX XXXX XXXX""
+msgstr "msgstr "XXXX XXXX XXXX""
+
+#: base/mobile.po.list:1544 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1545 
+msgid "#: base/mobile.csv.list:387 "
+msgstr "#: base/mobile.csv.list:387 "
+
+#: base/mobile.po.list:1546 
+msgid "msgid "Yes""
+msgstr "msgid "Yes""
+
+#: base/mobile.po.list:1547 
+msgid "msgstr "Yes""
+msgstr "msgstr "Yes""
+
+#: base/mobile.po.list:1548 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1549 
+msgid "#: base/mobile.csv.list:388 "
+msgstr "#: base/mobile.csv.list:388 "
+
+#: base/mobile.po.list:1550 
+msgid "msgid "You are about to remove this Category !\n Are you sure ?""
+msgstr "msgid "You are about to remove this Category !\n Are you sure ?""
+
+#: base/mobile.po.list:1551 
+msgid "msgstr "You are about to remove this Category !\n Are you sure ?""
+msgstr "msgstr "You are about to remove this Category !\n Are you sure ?""
+
+#: base/mobile.po.list:1552 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1553 
+msgid "#: base/mobile.csv.list:389 "
+msgstr "#: base/mobile.csv.list:389 "
+
+#: base/mobile.po.list:1554 
+msgid "msgid "You are about to remove this Company and all the associated Places !\n Are you sure ?""
+msgstr "msgid "You are about to remove this Company and all the associated Places !\n Are you sure ?""
+
+#: base/mobile.po.list:1555 
+msgid "msgstr "You are about to remove this Company and all the associated Places !\n Are you sure ?""
+msgstr "msgstr "You are about to remove this Company and all the associated Places !\n Are you sure ?""
+
+#: base/mobile.po.list:1556 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1557 
+msgid "#: base/mobile.csv.list:390 "
+msgstr "#: base/mobile.csv.list:390 "
+
+#: base/mobile.po.list:1558 
+msgid "msgid "You are about to remove this Place !\n Are you sure ?""
+msgstr "msgid "You are about to remove this Place !\n Are you sure ?""
+
+#: base/mobile.po.list:1559 
+msgid "msgstr "You are about to remove this Place !\n Are you sure ?""
+msgstr "msgstr "You are about to remove this Place !\n Are you sure ?""
+
+#: base/mobile.po.list:1560 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1561 
+msgid "#: base/mobile.csv.list:391 "
+msgstr "#: base/mobile.csv.list:391 "
+
+#: base/mobile.po.list:1562 
+msgid "msgid "You don't have enough points""
+msgstr "msgid "You don't have enough points""
+
+#: base/mobile.po.list:1563 
+msgid "msgstr "You don't have enough points""
+msgstr "msgstr "You don't have enough points""
+
+#: base/mobile.po.list:1564 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1565 
+msgid "#: base/mobile.csv.list:392 "
+msgstr "#: base/mobile.csv.list:392 "
+
+#: base/mobile.po.list:1566 
+msgid "msgid "You have gone offline""
+msgstr "msgid "You have gone offline""
+
+#: base/mobile.po.list:1567 
+msgid "msgstr "You have gone offline""
+msgstr "msgstr "You have gone offline""
+
+#: base/mobile.po.list:1568 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1569 
+msgid "#: base/mobile.csv.list:393 "
+msgstr "#: base/mobile.csv.list:393 "
+
+#: base/mobile.po.list:1570 
+msgid "msgid "You have to be connected to use the Inbox. Please connect to your account by clicking on the button below.""
+msgstr "msgid "You have to be connected to use the Inbox. Please connect to your account by clicking on the button below.""
+
+#: base/mobile.po.list:1571 
+msgid "msgstr "You have to be connected to use the Inbox. Please connect to your account by clicking on the button below.""
+msgstr "msgstr "You have to be connected to use the Inbox. Please connect to your account by clicking on the button below.""
+
+#: base/mobile.po.list:1572 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1573 
+msgid "#: base/mobile.csv.list:394 "
+msgstr "#: base/mobile.csv.list:394 "
+
+#: base/mobile.po.list:1574 
+msgid "msgid "You have to choose a delivery method.""
+msgstr "msgid "You have to choose a delivery method.""
+
+#: base/mobile.po.list:1575 
+msgid "msgstr "You have to choose a delivery method.""
+msgstr "msgstr "You have to choose a delivery method.""
+
+#: base/mobile.po.list:1576 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1577 
+msgid "#: base/mobile.csv.list:395 "
+msgstr "#: base/mobile.csv.list:395 "
+
+#: base/mobile.po.list:1578 
+msgid "msgid "You have to enter a text message.""
+msgstr "msgid "You have to enter a text message.""
+
+#: base/mobile.po.list:1579 
+msgid "msgstr "You have to enter a text message.""
+msgstr "msgstr "You have to enter a text message.""
+
+#: base/mobile.po.list:1580 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1581 
+msgid "#: base/mobile.csv.list:396 "
+msgstr "#: base/mobile.csv.list:396 "
+
+#: base/mobile.po.list:1582 
+msgid "msgid "You must be logged in to continue""
+msgstr "msgid "You must be logged in to continue""
+
+#: base/mobile.po.list:1583 
+msgid "msgstr "You must be logged in to continue""
+msgstr "msgstr "You must be logged in to continue""
+
+#: base/mobile.po.list:1584 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1585 
+msgid "#: base/mobile.csv.list:397 "
+msgstr "#: base/mobile.csv.list:397 "
+
+#: base/mobile.po.list:1586 
+msgid "msgid "You must fill at least one field!""
+msgstr "msgid "You must fill at least one field!""
+
+#: base/mobile.po.list:1587 
+msgid "msgstr "You must fill at least one field!""
+msgstr "msgstr "You must fill at least one field!""
+
+#: base/mobile.po.list:1588 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1589 
+msgid "#: base/mobile.csv.list:398 "
+msgstr "#: base/mobile.csv.list:398 "
+
+#: base/mobile.po.list:1590 
+msgid "msgid "You must fill firstname and lastname fields.""
+msgstr "msgid "You must fill firstname and lastname fields.""
+
+#: base/mobile.po.list:1591 
+msgid "msgstr "You must fill firstname and lastname fields.""
+msgstr "msgstr "You must fill firstname and lastname fields.""
+
+#: base/mobile.po.list:1592 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1593 
+msgid "#: base/mobile.csv.list:399 "
+msgstr "#: base/mobile.csv.list:399 "
+
+#: base/mobile.po.list:1594 
+msgid "msgid "Your comment""
+msgstr "msgid "Your comment""
+
+#: base/mobile.po.list:1595 
+msgid "msgstr "Your comment""
+msgstr "msgstr "Your comment""
+
+#: base/mobile.po.list:1596 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1597 
+msgid "#: base/mobile.csv.list:400 "
+msgstr "#: base/mobile.csv.list:400 "
+
+#: base/mobile.po.list:1598 
+msgid "msgid "Your email address""
+msgstr "msgid "Your email address""
+
+#: base/mobile.po.list:1599 
+msgid "msgstr "Your email address""
+msgstr "msgstr "Your email address""
+
+#: base/mobile.po.list:1600 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1601 
+msgid "#: base/mobile.csv.list:401 "
+msgstr "#: base/mobile.csv.list:401 "
+
+#: base/mobile.po.list:1602 
+msgid "msgid "Your location could not be found because your application doesn't use SSL.""
+msgstr "msgid "Your location could not be found because your application doesn't use SSL.""
+
+#: base/mobile.po.list:1603 
+msgid "msgstr "Your location could not be found because your application doesn't use SSL.""
+msgstr "msgstr "Your location could not be found because your application doesn't use SSL.""
+
+#: base/mobile.po.list:1604 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1605 
+msgid "#: base/mobile.csv.list:402 "
+msgstr "#: base/mobile.csv.list:402 "
+
+#: base/mobile.po.list:1606 
+msgid "msgid "Your name""
+msgstr "msgid "Your name""
+
+#: base/mobile.po.list:1607 
+msgid "msgstr "Your name""
+msgstr "msgstr "Your name""
+
+#: base/mobile.po.list:1608 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1609 
+msgid "#: base/mobile.csv.list:403 "
+msgstr "#: base/mobile.csv.list:403 "
+
+#: base/mobile.po.list:1610 
+msgid "msgid "Your nickname can only use letters, numbers, and underscore. No spaces.""
+msgstr "msgid "Your nickname can only use letters, numbers, and underscore. No spaces.""
+
+#: base/mobile.po.list:1611 
+msgid "msgstr "Your nickname can only use letters, numbers, and underscore. No spaces.""
+msgstr "msgstr "Your nickname can only use letters, numbers, and underscore. No spaces.""
+
+#: base/mobile.po.list:1612 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1613 
+msgid "#: base/mobile.csv.list:404 "
+msgstr "#: base/mobile.csv.list:404 "
+
+#: base/mobile.po.list:1614 
+msgid "msgid "Your pending requests""
+msgstr "msgid "Your pending requests""
+
+#: base/mobile.po.list:1615 
+msgid "msgstr "Your pending requests""
+msgstr "msgstr "Your pending requests""
+
+#: base/mobile.po.list:1616 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1617 
+msgid "#: base/mobile.csv.list:405 "
+msgstr "#: base/mobile.csv.list:405 "
+
+#: base/mobile.po.list:1618 
+msgid "msgid "Your points""
+msgstr "msgid "Your points""
+
+#: base/mobile.po.list:1619 
+msgid "msgstr "Your points""
+msgstr "msgstr "Your points""
+
+#: base/mobile.po.list:1620 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1621 
+msgid "#: base/mobile.csv.list:406 "
+msgstr "#: base/mobile.csv.list:406 "
+
+#: base/mobile.po.list:1622 
+msgid "msgid "Your request""
+msgstr "msgid "Your request""
+
+#: base/mobile.po.list:1623 
+msgid "msgstr "Your request""
+msgstr "msgstr "Your request""
+
+#: base/mobile.po.list:1624 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1625 
+msgid "#: base/mobile.csv.list:407 "
+msgstr "#: base/mobile.csv.list:407 "
+
+#: base/mobile.po.list:1626 
+msgid "msgid "error_message""
+msgstr "msgid "error_message""
+
+#: base/mobile.po.list:1627 
+msgid "msgstr "error_message""
+msgstr "msgstr "error_message""
+
+#: base/mobile.po.list:1628 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1629 
+msgid "#: base/mobile.csv.list:408 "
+msgstr "#: base/mobile.csv.list:408 "
+
+#: base/mobile.po.list:1630 
+msgid "msgid "followers""
+msgstr "msgid "followers""
+
+#: base/mobile.po.list:1631 
+msgid "msgstr "followers""
+msgstr "msgstr "followers""
+
+#: base/mobile.po.list:1632 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1633 
+msgid "#: base/mobile.csv.list:409 "
+msgstr "#: base/mobile.csv.list:409 "
+
+#: base/mobile.po.list:1634 
+msgid "msgid "following""
+msgstr "msgid "following""
+
+#: base/mobile.po.list:1635 
+msgid "msgstr "following""
+msgstr "msgstr "following""
+
+#: base/mobile.po.list:1636 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1637 
+msgid "#: base/mobile.csv.list:410 "
+msgstr "#: base/mobile.csv.list:410 "
+
+#: base/mobile.po.list:1638 
+msgid "msgid "is now yours!""
+msgstr "msgid "is now yours!""
+
+#: base/mobile.po.list:1639 
+msgid "msgstr "is now yours!""
+msgstr "msgstr "is now yours!""
+
+#: base/mobile.po.list:1640 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1641 
+msgid "#: base/mobile.csv.list:411 "
+msgstr "#: base/mobile.csv.list:411 "
+
+#: base/mobile.po.list:1642 
+msgid "msgid "point to validate""
+msgstr "msgid "point to validate""
+
+#: base/mobile.po.list:1643 
+msgid "msgstr "point to validate""
+msgstr "msgstr "point to validate""
+
+#: base/mobile.po.list:1644 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1645 
+msgid "#: base/mobile.csv.list:412 "
+msgstr "#: base/mobile.csv.list:412 "
+
+#: base/mobile.po.list:1646 
+msgid "msgid "points to validate""
+msgstr "msgid "points to validate""
+
+#: base/mobile.po.list:1647 
+msgid "msgstr "points to validate""
+msgstr "msgstr "points to validate""
+
+#: base/mobile.po.list:1648 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1649 
+msgid "#: base/mobile.csv.list:413 "
+msgstr "#: base/mobile.csv.list:413 "
+
+#: base/mobile.po.list:1650 
+msgid "msgid "to:""
+msgstr "msgid "to:""
+
+#: base/mobile.po.list:1651 
+msgid "msgstr "to:""
+msgstr "msgstr "to:""
+
+#: base/mobile.po.list:1652 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1653 
+msgid "#: base/mobile.csv.list:414 "
+msgstr "#: base/mobile.csv.list:414 "
+
+#: base/mobile.po.list:1654 
+msgid "msgid "track""
+msgstr "msgid "track""
+
+#: base/mobile.po.list:1655 
+msgid "msgstr "track""
+msgstr "msgstr "track""
+
+#: base/mobile.po.list:1656 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1657 
+msgid "#: base/mobile.csv.list:415 "
+msgstr "#: base/mobile.csv.list:415 "
+
+#: base/mobile.po.list:1658 
+msgid "msgid "tracks""
+msgstr "msgid "tracks""
+
+#: base/mobile.po.list:1659 
+msgid "msgstr "tracks""
+msgstr "msgstr "tracks""
+
+#: base/mobile.po.list:1660 
+msgid ""
+msgstr ""
+
+#: base/mobile.po.list:1661 
+msgid "#: base/mobile.csv.list:416 "
+msgstr "#: base/mobile.csv.list:416 "
+
+#: base/mobile.po.list:1662 
+msgid "msgid "validated points =""
+msgstr "msgid "validated points =""
+
+#: base/mobile.po.list:1663 
+msgid "msgstr "validated points =""
+msgstr "msgstr "validated points =""
+
+#: base/mobile.po.list:1664 
+msgid ""
+msgstr ""
+

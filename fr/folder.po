@@ -1,0 +1,60 @@
+#: fr/folder.csv:1 
+msgid "Add a page"
+msgstr "Ajouter une page"
+
+#: fr/folder.csv:2 
+msgid "Click on"
+msgstr "Cliquez sur"
+
+#: fr/folder.csv:3 
+msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgstr "Cliquez sur une page pour l'ajouter au dossier <span id="folder_name" class="folder_name">"%s"</span>"
+
+#: fr/folder.csv:4 
+msgid "Click on a page to add it to the folder"
+msgstr "Cliquez sur une page pour l'ajouter au dossier"
+
+#: fr/folder.csv:5 
+msgid "Close mobile display"
+msgstr "Fermer l'affichage mobile"
+
+#: fr/folder.csv:6 
+msgid "Delete this folder and all its subfolders?"
+msgstr "Etes-vous sûr de vouloir supprimer ce dossier et tous ses sous-dossiers ?"
+
+#: fr/folder.csv:7 
+msgid "Folder title is required"
+msgstr "Le titre du dossier est obligatoire."
+
+#: fr/folder.csv:8 
+msgid "Folders"
+msgstr "Dossiers"
+
+#: fr/folder.csv:9 
+msgid "Mobile display"
+msgstr "Affichage mobile"
+
+#: fr/folder.csv:10 
+msgid "New folder"
+msgstr "Nouveau dossier"
+
+#: fr/folder.csv:11 
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: fr/folder.csv:12 
+msgid "You cannot add this feature"
+msgstr "Vous ne pouvez pas ajouter cette fonctionnalité."
+
+#: fr/folder.csv:13 
+msgid "You must first complete the current category creation process"
+msgstr "Vous devez d'abord terminer la création de cette catégorie"
+
+#: fr/folder.csv:14 
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Vous allez perdre les modifications en cours, voulez-vous continuer ?"
+
+#: fr/folder.csv:15 
+msgid "to add a folder."
+msgstr "pour ajouter un dossier."
+

@@ -1,0 +1,64 @@
+#: cs/promotion.csv:1 
+msgid "An error occurred while saving your discount. Please fill in all fields"
+msgstr "Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"
+
+#: cs/promotion.csv:2 
+msgid "Are you sure you want to use this discount?"
+msgstr "Opravdu chcete využít tuto slevu?"
+
+#: cs/promotion.csv:3 
+msgid "Closed discounts"
+msgstr "Ukončené slevy"
+
+#: cs/promotion.csv:4 
+msgid "Create a new discount"
+msgstr "Vytvořit novou slevu"
+
+#: cs/promotion.csv:5 
+msgid "Delete this discount?"
+msgstr "Odstranit tuto slevu?"
+
+#: cs/promotion.csv:6 
+msgid "Discount successfully deleted"
+msgstr "Sleva úspěšně smazána"
+
+#: cs/promotion.csv:7 
+msgid "Discount successfully saved"
+msgstr "Sleva byla úspěšně uložena"
+
+#: cs/promotion.csv:8 
+msgid "Please select an end date greater than the current date."
+msgstr "Datum ukončení musí být větší než aktuální datum"
+
+#: cs/promotion.csv:9 
+msgid "This discount is now used"
+msgstr "Tato sleva je právě používána"
+
+#: cs/promotion.csv:10 
+msgid "Valid until"
+msgstr "Platí do:"
+
+#: cs/promotion.csv:11 
+msgid "You have already use this discount"
+msgstr "Tuto slevu jste již použili"
+
+#: cs/promotion.csv:12 
+msgid "You must be logged in to use a discount"
+msgstr "Pro využití slevy musíte být přihlášeni"
+
+#: cs/promotion.csv:13 
+msgid "or illimited"
+msgstr "nebo stálá sleva"
+
+#: cs/promotion.csv:14 
+msgid "use only once"
+msgstr "použít jen jednou"
+
+#: cs/promotion.csv:15 
+msgid "you'll be able to remove this promotion later"
+msgstr "můžete ji však kdykoliv smazat"
+
+#: cs/promotion.csv:16 
+msgid "﻿An error occurred while saving your discount. Please fill in all fields"
+msgstr "Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"
+

@@ -1,0 +1,40 @@
+#: it/rss.csv:1 
+msgid "An error occurred while saving your RSS feed"
+msgstr "Si è verificato un errore durante il salvataggio del feed RSS"
+
+#: it/rss.csv:2 
+msgid "Display feed pictures whenever possible"
+msgstr "Visualizza l'immagine del feed quando è possibile"
+
+#: it/rss.csv:3 
+msgid "Enter the URL of this RSS feed"
+msgstr "Inserisci l'URL di questo feed RSS"
+
+#: it/rss.csv:4 
+msgid "Found feeds"
+msgstr "Cerca feeds"
+
+#: it/rss.csv:5 
+msgid "No RSS feed could be found"
+msgstr "Nessun RSS feed trovato"
+
+#: it/rss.csv:6 
+msgid "RSS feed successfully saved"
+msgstr "RSS feed salvato correttamente"
+
+#: it/rss.csv:7 
+msgid "Show article"
+msgstr "Mostra articolo"
+
+#: it/rss.csv:8 
+msgid "day"
+msgstr "giorno"
+
+#: it/rss.csv:9 
+msgid "hour"
+msgstr "ora"
+
+#: it/rss.csv:10 
+msgid "minute"
+msgstr "minuti"
+

@@ -1,0 +1,124 @@
+#: ca/catalog.csv:1 
+msgid "%s - All"
+msgstr "% S - Tots"
+
+#: ca/catalog.csv:2 
+msgid "Add a category"
+msgstr "Afegir una categoria"
+
+#: ca/catalog.csv:3 
+msgid "Add a format"
+msgstr "Afegir un format"
+
+#: ca/catalog.csv:4 
+msgid "All"
+msgstr "tots"
+
+#: ca/catalog.csv:5 
+msgid "An error occurred while loading your product."
+msgstr "S'ha produït un error en carregar el producte."
+
+#: ca/catalog.csv:6 
+msgid "An error occurred while saving the category. Please try again later."
+msgstr "S'ha produït un error en desar la categoria. Intenta-ho de nou més tard."
+
+#: ca/catalog.csv:7 
+msgid "An error occurred while saving the product. Please try again later."
+msgstr "S'ha produït un error en desar el producte. Intenta-ho de nou més tard."
+
+#: ca/catalog.csv:8 
+msgid "An error occurred while saving the set meal. Please try again later."
+msgstr "S'ha produït un error en guardar el joc menjar. Intenta-ho de nou més tard."
+
+#: ca/catalog.csv:9 
+msgid "An error occurred while saving. One of your categories could not be identified."
+msgstr "S'ha produït un error en desar. Un dels seus categories no van poder ser identificats."
+
+#: ca/catalog.csv:10 
+msgid "An error occurred while saving. One of your products could not be identified."
+msgstr "S'ha produït un error en desar. Un dels seus productes no van poder ser identificats."
+
+#: ca/catalog.csv:11 
+msgid "Are you sure you want to delete this product?"
+msgstr "Segur que vols eliminar aquest producte?"
+
+#: ca/catalog.csv:12 
+msgid "Category"
+msgstr "categoria"
+
+#: ca/catalog.csv:13 
+msgid "Choose a category"
+msgstr "Tria una categoria"
+
+#: ca/catalog.csv:14 
+msgid "Choose a subcategory"
+msgstr "Seleccioneu una subcategoria"
+
+#: ca/catalog.csv:15 
+msgid "Click on a category to display sub-categories"
+msgstr "Feu clic en una categoria per mostrar les subcategories"
+
+#: ca/catalog.csv:16 
+msgid "Create a new product"
+msgstr "Crear un nou producte"
+
+#: ca/catalog.csv:17 
+msgid "Does this product have many formats?"
+msgstr "Aquest producte té molts formats?"
+
+#: ca/catalog.csv:18 
+msgid "Edit the"
+msgstr "Edita el"
+
+#: ca/catalog.csv:19 
+msgid "Edit the product"
+msgstr "Editeu el producte"
+
+#: ca/catalog.csv:20 
+msgid "Format"
+msgstr "format"
+
+#: ca/catalog.csv:21 
+msgid "Picture"
+msgstr "imatge"
+
+#: ca/catalog.csv:22 
+msgid "Price"
+msgstr "preu"
+
+#: ca/catalog.csv:23 
+msgid "Product"
+msgstr "producte"
+
+#: ca/catalog.csv:24 
+msgid "Product formats"
+msgstr "execució dels productes"
+
+#: ca/catalog.csv:25 
+msgid "Product name"
+msgstr "nom del producte"
+
+#: ca/catalog.csv:26 
+msgid "Rules"
+msgstr "regles"
+
+#: ca/catalog.csv:27 
+msgid "Set meal successfully deleted."
+msgstr "Dinar del set eliminat correctament."
+
+#: ca/catalog.csv:28 
+msgid "Set meal successfully saved."
+msgstr "Dinar del set guardat correctament."
+
+#: ca/catalog.csv:29 
+msgid "Sub-category"
+msgstr "Sub-categoria"
+
+#: ca/catalog.csv:30 
+msgid "st"
+msgstr "st"
+
+#: ca/catalog.csv:31 
+msgid "sub-category"
+msgstr "subcategoria"
+

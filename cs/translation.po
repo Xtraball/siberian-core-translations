@@ -1,0 +1,56 @@
+#: cs/translation.csv:1 
+msgid "Create a new language"
+msgstr "Přidejte nový jazyk"
+
+#: cs/translation.csv:2 
+msgid "Default text"
+msgstr "Výchozí text"
+
+#: cs/translation.csv:3 
+msgid "Edit the language: %s"
+msgstr "Upravte jazyk: %s"
+
+#: cs/translation.csv:4 
+msgid "Language"
+msgstr "Jazyk"
+
+#: cs/translation.csv:5 
+msgid "Language successfully saved"
+msgstr "Jazyk úspěšně uložen"
+
+#: cs/translation.csv:6 
+msgid "List of your languages"
+msgstr "Seznam jazyků"
+
+#: cs/translation.csv:7 
+msgid "Please, choose a file."
+msgstr "Prosím, vyberte soubor"
+
+#: cs/translation.csv:8 
+msgid "Please, choose a language."
+msgstr "Prosím, vyberte jazyk"
+
+#: cs/translation.csv:9 
+msgid "Select a file"
+msgstr "Vyberte soubor"
+
+#: cs/translation.csv:10 
+msgid "Select a language"
+msgstr "Vyberte si jazyk"
+
+#: cs/translation.csv:11 
+msgid "Text translation"
+msgstr "Překlad textu"
+
+#: cs/translation.csv:12 
+msgid "Translations"
+msgstr "Překlady"
+
+#: cs/translation.csv:13 
+msgid "Your translation"
+msgstr "Váš překlad"
+
+#: cs/translation.csv:14 
+msgid "﻿Create a new language"
+msgstr "Přidejte nový jazyk"
+

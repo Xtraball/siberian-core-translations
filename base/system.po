@@ -1,0 +1,272 @@
+#: base/system.csv:1 
+msgid "60000 maximum allowed."
+msgstr "60000 maximum allowed."
+
+#: base/system.csv:2 
+msgid "Admob ID"
+msgstr "Admob ID"
+
+#: base/system.csv:3 
+msgid "Admob type"
+msgstr "Admob type"
+
+#: base/system.csv:4 
+msgid "Android"
+msgstr "Android"
+
+#: base/system.csv:5 
+msgid "App limit for displaying real data"
+msgstr "App limit for displaying real data"
+
+#: base/system.csv:6 
+msgid "Banner"
+msgstr "Banner"
+
+#: base/system.csv:7 
+msgid "Below are variables you can use to be replaced in the extent."
+msgstr "Below are variables you can use to be replaced in the extent."
+
+#: base/system.csv:8 
+msgid "Click here to force analytics computing"
+msgstr "Click here to force analytics computing"
+
+#: base/system.csv:9 
+msgid "Click here to send your favicon"
+msgstr "Click here to send your favicon"
+
+#: base/system.csv:10 
+msgid "Click here to send your logo"
+msgstr "Click here to send your logo"
+
+#: base/system.csv:11 
+msgid "Communications"
+msgstr "Communications"
+
+#: base/system.csv:12 
+msgid "Current favicon"
+msgstr "Current favicon"
+
+#: base/system.csv:13 
+msgid "Current logo"
+msgstr "Current logo"
+
+#: base/system.csv:14 
+msgid "Default privacy policy"
+msgstr "Default privacy policy"
+
+#: base/system.csv:15 
+msgid "Default privacy policy section for GDPR"
+msgstr "Default privacy policy section for GDPR"
+
+#: base/system.csv:16 
+msgid "Display a link to your clients to your support platform"
+msgstr "Display a link to your clients to your support platform"
+
+#: base/system.csv:17 
+msgid "Drop your favicon here"
+msgstr "Drop your favicon here"
+
+#: base/system.csv:18 
+msgid "Drop your logo here"
+msgstr "Drop your logo here"
+
+#: base/system.csv:19 
+msgid "Duration of the free trial period of your platform (in days, 0 for no free trial)."
+msgstr "Duration of the free trial period of your platform (in days, 0 for no free trial)."
+
+#: base/system.csv:20 
+msgid "Editor's Design"
+msgstr "Editor's Design"
+
+#: base/system.csv:21 
+msgid "Enter here your terms & conditions"
+msgstr "Enter here your terms & conditions"
+
+#: base/system.csv:22 
+msgid "Enter the javascript code provided by your Chat provider in order to display a Chat from the editor."
+msgstr "Enter the javascript code provided by your Chat provider in order to display a Chat from the editor."
+
+#: base/system.csv:23 
+msgid "European <b>General Data Protection Regulation (GDPR)</b>."
+msgstr "European <b>General Data Protection Regulation (GDPR)</b>."
+
+#: base/system.csv:24 
+msgid "Favicon"
+msgstr "Favicon"
+
+#: base/system.csv:25 
+msgid "Flat"
+msgstr "Flat"
+
+#: base/system.csv:26 
+msgid "Force all app to use Owner AdMob"
+msgstr "Force all app to use Owner AdMob"
+
+#: base/system.csv:27 
+msgid "Free trial period"
+msgstr "Free trial period"
+
+#: base/system.csv:28 
+msgid "Full platform owner contact"
+msgstr "Full platform owner contact"
+
+#: base/system.csv:29 
+msgid "Interstitial"
+msgstr "Interstitial"
+
+#: base/system.csv:30 
+msgid "Invalid license key"
+msgstr "Invalid license key"
+
+#: base/system.csv:31 
+msgid "Ios"
+msgstr "Ios"
+
+#: base/system.csv:32 
+msgid "License has no more activation left"
+msgstr "License has no more activation left"
+
+#: base/system.csv:33 
+msgid "License is valid"
+msgstr "License is valid"
+
+#: base/system.csv:34 
+msgid "Logo"
+msgstr "Logo"
+
+#: base/system.csv:35 
+msgid "None = no sign-up form, validation = admin must validate created account, full = free sign-up"
+msgstr "None = no sign-up form, validation = admin must validate created account, full = free sign-up"
+
+#: base/system.csv:36 
+msgid "Number of typed characters:"
+msgstr "Number of typed characters:"
+
+#: base/system.csv:37 
+msgid "Online Chat"
+msgstr "Online Chat"
+
+#: base/system.csv:38 
+msgid "Platform or Whitelabel Company name"
+msgstr "Platform or Whitelabel Company name"
+
+#: base/system.csv:39 
+msgid "Platform or Whitelabel name"
+msgstr "Platform or Whitelabel name"
+
+#: base/system.csv:40 
+msgid "Privacy Settings"
+msgstr "Privacy Settings"
+
+#: base/system.csv:41 
+msgid "Publication access type"
+msgstr "Publication access type"
+
+#: base/system.csv:42 
+msgid "Sales"
+msgstr "Sales"
+
+#: base/system.csv:43 
+msgid "Sales Email Address"
+msgstr "Sales Email Address"
+
+#: base/system.csv:44 
+msgid "Sender's email address of the emails sent by the site to your clients"
+msgstr "Sender's email address of the emails sent by the site to your clients"
+
+#: base/system.csv:45 
+msgid "Sender's name of the emails sent by the site to your clients"
+msgstr "Sender's name of the emails sent by the site to your clients"
+
+#: base/system.csv:46 
+msgid "Siberian"
+msgstr "Siberian"
+
+#: base/system.csv:47 
+msgid "Sign-up mode"
+msgstr "Sign-up mode"
+
+#: base/system.csv:48 
+msgid "Sign-up mode for your platform."
+msgstr "Sign-up mode for your platform."
+
+#: base/system.csv:49 
+msgid "Support Email Address"
+msgstr "Support Email Address"
+
+#: base/system.csv:50 
+msgid "The Application name"
+msgstr "The Application name"
+
+#: base/system.csv:51 
+msgid "The european <b>General Data Protection Regulation (GDPR)</b> is applicable to your country, you must enable it in the privacy settings below."
+msgstr "The european <b>General Data Protection Regulation (GDPR)</b> is applicable to your country, you must enable it in the privacy settings below."
+
+#: base/system.csv:52 
+msgid "The folder /images/default is not writable."
+msgstr "The folder /images/default is not writable."
+
+#: base/system.csv:53 
+msgid "This number will be used to switch between demo mode and real time mode for your analytics on your dashboard"
+msgstr "This number will be used to switch between demo mode and real time mode for your analytics on your dashboard"
+
+#: base/system.csv:54 
+msgid "This privacy policy will be used for every new Application created as a template."
+msgstr "This privacy policy will be used for every new Application created as a template."
+
+#: base/system.csv:55 
+msgid "This section of the privacy policy is added when the GDPR settings are active."
+msgstr "This section of the privacy policy is added when the GDPR settings are active."
+
+#: base/system.csv:56 
+msgid "This text will appear in the checkout page. 65,000 characters max."
+msgstr "This text will appear in the checkout page. 65,000 characters max."
+
+#: base/system.csv:57 
+msgid "Users can download application sources code."
+msgstr "Users can download application sources code."
+
+#: base/system.csv:58 
+msgid "Users can generate APK"
+msgstr "Users can generate APK"
+
+#: base/system.csv:59 
+msgid "Users can not generate APK."
+msgstr "Users can not generate APK."
+
+#: base/system.csv:60 
+msgid "Users give you the required information to publish applications."
+msgstr "Users give you the required information to publish applications."
+
+#: base/system.csv:61 
+msgid "We cannot get your license information"
+msgstr "We cannot get your license information"
+
+#: base/system.csv:62 
+msgid "You can use <b>%s</b> as a dynamic variable for your application name."
+msgstr "You can use <b>%s</b> as a dynamic variable for your application name."
+
+#: base/system.csv:63 
+msgid "Your Applications"
+msgstr "Your Applications"
+
+#: base/system.csv:64 
+msgid "Your CMS License Key"
+msgstr "Your CMS License Key"
+
+#: base/system.csv:65 
+msgid "Your Location"
+msgstr "Your Location"
+
+#: base/system.csv:66 
+msgid "Your Platform"
+msgstr "Your Platform"
+
+#: base/system.csv:67 
+msgid "Your company"
+msgstr "Your company"
+
+#: base/system.csv:68 
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+
