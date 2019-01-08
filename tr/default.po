@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/default/"
+"tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: tr/default.csv:1 
 msgid "%s ago"
 msgstr "%s önce"
@@ -748,7 +764,7 @@ msgstr "Sakla"
 
 #: tr/default.csv:188 
 msgid "Search"
-msgstr "Ara"
+msgstr "Arama"
 
 #: tr/default.csv:189 
 msgid "Select a country"
@@ -1093,4 +1109,3 @@ msgstr "başlıklar"
 #: tr/default.csv:274 
 msgid "to add a subfolder."
 msgstr "Bir alt klasör eklemek için."
-
