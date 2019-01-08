@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 10:06+0000\n"
-"PO-Revision-Date: 2019-01-08 15:46+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/admin/fr/>"
 "\n"
@@ -60,11 +60,11 @@ msgstr "Créez une nouvelle application"
 
 #: fr/admin.csv:12 
 msgid "Create a new user"
-msgstr "Créez un nouvel utilisateur"
+msgstr "Créer un nouvel utilisateur"
 
 #: fr/admin.csv:13 
 msgid "Created At"
-msgstr "Créé à"
+msgstr "Créé le"
 
 #: fr/admin.csv:14 
 msgid "Created at "
