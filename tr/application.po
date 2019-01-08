@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
+"application/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: tr/application.csv:1 
 msgid "1. Download the app previewer:"
 msgstr "1. App ön izleyicisi indir:"
@@ -850,3 +866,8 @@ msgstr "logo"
 msgid "times"
 msgstr "kez"
 
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Label"
+msgstr "Etiket"
