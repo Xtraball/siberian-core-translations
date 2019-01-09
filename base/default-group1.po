@@ -391,8 +391,8 @@ msgstr "Download the source archive !"
 msgid "Downloading your package."
 msgstr "Downloading your package."
 
-msgid "Edit the account "%s""
-msgstr "Edit the account "%s""
+msgid "Edit the account \"%s\""
+msgstr "Edit the account \"%s\""
 
 msgid "Edit the plan"
 msgstr "Edit the plan"
@@ -415,8 +415,8 @@ msgstr "Essayez gratuitement !"
 msgid "Expired on"
 msgstr "Expired on"
 
-msgid "Extension not allowed, \'%s\' only"
-msgstr "Extension not allowed, \'%s\' only"
+msgid "Extension not allowed, '%s' only"
+msgstr "Extension not allowed, '%s' only"
 
 msgid "Feature is now %s"
 msgstr "Feature is now %s"
@@ -976,11 +976,11 @@ msgstr "The APK generation is done !"
 msgid "The APK has been generated!"
 msgstr "The APK has been generated!"
 
-msgid "The CNAME for the URL "%s" is not properly set"
-msgstr "The CNAME for the URL "%s" is not properly set"
+msgid "The CNAME for the URL \"%s\" is not properly set"
+msgstr "The CNAME for the URL \"%s\" is not properly set"
 
-msgid "The CNAME for the domain "%s" is not properly set"
-msgstr "The CNAME for the domain "%s" is not properly set"
+msgid "The CNAME for the domain \"%s\" is not properly set"
+msgstr "The CNAME for the domain \"%s\" is not properly set"
 
 msgid "The Source code for the application %s has been generated !"
 msgstr "The Source code for the application %s has been generated !"
@@ -1213,8 +1213,8 @@ msgstr "Username:"
 msgid "View the Application"
 msgstr "View the Application"
 
-msgid "We are sorry but our Wordpress plugin hasn\'t been detected on your website. Please be sure it is correctly installed and activated."
-msgstr "We are sorry but our Wordpress plugin hasn\'t been detected on your website. Please be sure it is correctly installed and activated."
+msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
+msgstr "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
 
 msgid "We are sorry but this nickname is already used."
 msgstr "We are sorry but this nickname is already used."

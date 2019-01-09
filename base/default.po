@@ -2602,8 +2602,8 @@ msgstr "Website"
 msgid "We've sent you an e-mail with your access token."
 msgstr "We've sent you an e-mail with your access token."
 
-msgid "When selecting \'Enable test API\' in a payment method, be sure to create test credentials, check the documentation of your payment method."
-msgstr "When selecting \'Enable test API\' in a payment method, be sure to create test credentials, check the documentation of your payment method."
+msgid "When selecting 'Enable test API' in a payment method, be sure to create test credentials, check the documentation of your payment method."
+msgstr "When selecting 'Enable test API' in a payment method, be sure to create test credentials, check the documentation of your payment method."
 
 msgid "White Label Editor"
 msgstr "White Label Editor"

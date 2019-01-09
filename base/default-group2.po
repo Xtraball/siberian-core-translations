@@ -1,8 +1,8 @@
 msgid "-"
 msgstr "-"
 
-msgid " "Remove this page from this folder?""
-msgstr " "Remove this page from this folder?""
+msgid " \"Remove this page from this folder?\""
+msgstr " \"Remove this page from this folder?\""
 
 msgid "#100: Unable to fetch the update. Please, try again later."
 msgstr "#100: Unable to fetch the update. Please, try again later."
@@ -178,14 +178,14 @@ msgstr "Account Settings"
 msgid "Action '{$action}' executed for module '{$module}'."
 msgstr "Action '{$action}' executed for module '{$module}'."
 
-msgid "Add an <br /><span class="bold">image</span>"
-msgstr "Add an <br /><span class="bold">image</span>"
+msgid "Add an <br /><span class=\"bold\">image</span>"
+msgstr "Add an <br /><span class=\"bold\">image</span>"
 
-msgid "Add<br /><span class="bold">Attachment</span>"
-msgstr "Add<br /><span class="bold">Attachment</span>"
+msgid "Add<br /><span class=\"bold\">Attachment</span>"
+msgstr "Add<br /><span class=\"bold\">Attachment</span>"
 
-msgid "Add<br /><span class="bold">Pictures</span>"
-msgstr "Add<br /><span class="bold">Pictures</span>"
+msgid "Add<br /><span class=\"bold\">Pictures</span>"
+msgstr "Add<br /><span class=\"bold\">Pictures</span>"
 
 msgid "Addresses blocks can now have a website & a phone number."
 msgstr "Addresses blocks can now have a website & a phone number."
@@ -274,8 +274,8 @@ msgstr "Build failed!"
 msgid "Build succeed!"
 msgstr "Build succeed!"
 
-msgid "By checking this box, you agree <a href="%s" target="_blank" class="underline">to our terms and conditions</a>"
-msgstr "By checking this box, you agree <a href="%s" target="_blank" class="underline">to our terms and conditions</a>"
+msgid "By checking this box, you agree <a href=\"%s\" target=\"_blank\" class=\"underline\">to our terms and conditions</a>"
+msgstr "By checking this box, you agree <a href=\"%s\" target=\"_blank\" class=\"underline\">to our terms and conditions</a>"
 
 msgid "CANCEL"
 msgstr "CANCEL"
@@ -322,8 +322,8 @@ msgstr "Click here for more information about AdMob"
 msgid "Click here to send your fullchain"
 msgstr "Click here to send your fullchain"
 
-msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
-msgstr "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
+msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgstr "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
 
 msgid "Cram-MD5"
 msgstr "Cram-MD5"
@@ -427,8 +427,8 @@ msgstr "Featured label"
 msgid "Features to export & Options"
 msgstr "Features to export & Options"
 
-msgid "Feed URL <span class="required-entry">*</span> :"
-msgstr "Feed URL <span class="required-entry">*</span> :"
+msgid "Feed URL <span class=\"required-entry\">*</span> :"
+msgstr "Feed URL <span class=\"required-entry\">*</span> :"
 
 msgid "Field name:"
 msgstr "Field name:"
@@ -457,8 +457,8 @@ msgstr "Full chain"
 msgid "Fulltext"
 msgstr "Fulltext"
 
-msgid "Gallery Name <span class="required-entry">*</span> :"
-msgstr "Gallery Name <span class="required-entry">*</span> :"
+msgid "Gallery Name <span class=\"required-entry\">*</span> :"
+msgstr "Gallery Name <span class=\"required-entry\">*</span> :"
 
 msgid "Global notifications"
 msgstr "Global notifications"
@@ -505,14 +505,14 @@ msgstr "In-App links"
 msgid "Inactive, Cancelled or Expired"
 msgstr "Inactive, Cancelled or Expired"
 
-msgid "Insert a <br /><span class="bold">cover image</span>"
-msgstr "Insert a <br /><span class="bold">cover image</span>"
+msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgstr "Insert a <br /><span class=\"bold\">cover image</span>"
 
-msgid "Insert a <span class="bold">cover image</span>"
-msgstr "Insert a <span class="bold">cover image</span>"
+msgid "Insert a <span class=\"bold\">cover image</span>"
+msgstr "Insert a <span class=\"bold\">cover image</span>"
 
-msgid "Installing module <em><span id="label_module"></span></em>"
-msgstr "Installing module <em><span id="label_module"></span></em>"
+msgid "Installing module <em><span id=\"label_module\"></span></em>"
+msgstr "Installing module <em><span id=\"label_module\"></span></em>"
 
 msgid "Interstitial ID"
 msgstr "Interstitial ID"
@@ -601,8 +601,8 @@ msgstr "NO"
 msgid "Nearest"
 msgstr "Nearest"
 
-msgid "New backoffice themes are available, check them out <a href="/system/backoffice_config_design">here</a>."
-msgstr "New backoffice themes are available, check them out <a href="/system/backoffice_config_design">here</a>."
+msgid "New backoffice themes are available, check them out <a href=\"/system/backoffice_config_design\">here</a>."
+msgstr "New backoffice themes are available, check them out <a href=\"/system/backoffice_config_design\">here</a>."
 
 msgid "New publication request on your platform %s, for the Application %s."
 msgstr "New publication request on your platform %s, for the Application %s."
@@ -835,8 +835,8 @@ msgstr "The folder & it's sub-folders have been removed!"
 msgid "The following folders are not writable: <br /> - %s"
 msgstr "The following folders are not writable: <br /> - %s"
 
-msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
-msgstr "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
+msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
+msgstr "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
 
 msgid "The publication access type of an Application is determined by the publication type settings that are set for its Creator."
 msgstr "The publication access type of an Application is determined by the publication type settings that are set for its Creator."
@@ -1009,17 +1009,17 @@ msgstr "You can change the browser tab title with the translations: Edit the bac
 msgid "You have no mail logs."
 msgstr "You have no mail logs."
 
-msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
-msgstr "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+msgid "You have to create a Google account before publishing your application. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
+msgstr "You have to create a Google account before publishing your application. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
 
-msgid "You have to create a Google account before publishing your application.<br /><a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
-msgstr "You have to create a Google account before publishing your application.<br /><a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
+msgid "You have to create a Google account before publishing your application.<br /><a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
+msgstr "You have to create a Google account before publishing your application.<br /><a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
 
-msgid "You have to create an Apple account before publishing your application. <a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
-msgstr "You have to create an Apple account before publishing your application. <a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
+msgid "You have to create an Apple account before publishing your application. <a href=\"https://appleid.apple.com/account#!&page=create\" target=\"_blank\">Click here to create one.</a>"
+msgstr "You have to create an Apple account before publishing your application. <a href=\"https://appleid.apple.com/account#!&page=create\" target=\"_blank\">Click here to create one.</a>"
 
-msgid "You have to create an Apple account before publishing your application.<br /><a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
-msgstr "You have to create an Apple account before publishing your application.<br /><a href="https://appleid.apple.com/account#!&page=create" target="_blank">Click here to create one.</a>"
+msgid "You have to create an Apple account before publishing your application.<br /><a href=\"https://appleid.apple.com/account#!&page=create\" target=\"_blank\">Click here to create one.</a>"
+msgstr "You have to create an Apple account before publishing your application.<br /><a href=\"https://appleid.apple.com/account#!&page=create\" target=\"_blank\">Click here to create one.</a>"
 
 msgid "You just received a publication request:"
 msgstr "You just received a publication request:"
@@ -1054,11 +1054,11 @@ msgstr "Your are about to replace the current application template, colors & fea
 msgid "Your licenses"
 msgstr "Your licenses"
 
-msgid "<a href="%s" target="_blank">Click here for more information about AdMob</a>"
-msgstr "<a href="%s" target="_blank">Click here for more information about AdMob</a>"
+msgid "<a href=\"%s\" target=\"_blank\">Click here for more information about AdMob</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Click here for more information about AdMob</a>"
 
-msgid "<a href="%s">Click here</a> to go back to your applications list"
-msgstr "<a href="%s">Click here</a> to go back to your applications list"
+msgid "<a href=\"%s\">Click here</a> to go back to your applications list"
+msgstr "<a href=\"%s\">Click here</a> to go back to your applications list"
 
 msgid "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
 msgstr "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
@@ -1066,8 +1066,8 @@ msgstr "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
 msgid "<b>Geolocation</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgstr "<b>Geolocation</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 
-msgid "<button class="add btn color-blue" type="button"><i class="fa fa-plus-circle"></i><span> Click to add an item</span></button>"
-msgstr "<button class="add btn color-blue" type="button"><i class="fa fa-plus-circle"></i><span> Click to add an item</span></button>"
+msgid "<button class=\"add btn color-blue\" type=\"button\"><i class=\"fa fa-plus-circle\"></i><span> Click to add an item</span></button>"
+msgstr "<button class=\"add btn color-blue\" type=\"button\"><i class=\"fa fa-plus-circle\"></i><span> Click to add an item</span></button>"
 
 msgid "category_id"
 msgstr "category_id"
@@ -1099,8 +1099,8 @@ msgstr "iPhone & iPad & Android orientation"
 msgid "iPhone (No Ads)"
 msgstr "iPhone (No Ads)"
 
-msgid "<img src="%s" width="160" title="%s" />"
-msgstr "<img src="%s" width="160" title="%s" />"
+msgid "<img src=\"%s\" width=\"160\" title=\"%s\" />"
+msgstr "<img src=\"%s\" width=\"160\" title=\"%s\" />"
 
 msgid "of"
 msgstr "of"

@@ -1030,8 +1030,8 @@ msgstr "You have no new messages."
 msgid "You must select an Admin panel type before requesting a Certificate."
 msgstr "You must select an Admin panel type before requesting a Certificate."
 
-msgid "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't forget to renew it on the following page <a href="%s">configuration</a>."
-msgstr "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't forget to renew it on the following page <a href="%s">configuration</a>."
+msgid "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't forget to renew it on the following page <a href=\"%s\">configuration</a>."
+msgstr "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't forget to renew it on the following page <a href=\"%s\">configuration</a>."
 
 msgid "Your certificate is invalid"
 msgstr "Your certificate is invalid"
