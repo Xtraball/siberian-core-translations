@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-09 09:49+0000\n"
+"PO-Revision-Date: 2019-01-09 09:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/customer/"
+"es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: es/customer.csv:1 
 msgid "Show me in ranking"
 msgstr "Aparecer en el ranking"
@@ -98,3 +114,11 @@ msgstr "Una demanda de reinicialización de su contraseña ha sido hecha para co
 msgid "Here is your new password:"
 msgstr "Esto es su nuevo contraseña :"
 
+msgid "Create a new user"
+msgstr "Crear un nuevo usuario"
+
+msgid "Edit the user %s"
+msgstr "Editar el usuario %s"
+
+msgid "%s - Your new password"
+msgstr "%s - Tu nueva password"
