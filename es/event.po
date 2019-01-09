@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-09 09:49+0000\n"
+"PO-Revision-Date: 2019-01-09 09:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/event/es/"
+">\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: es/event.csv:1 
 msgid "Description:"
 msgstr "Descripción:"
@@ -106,3 +122,8 @@ msgstr "Se ha producido un error al eliminar el evento"
 msgid "Calendar successfully deleted"
 msgstr "Calendario eliminado correctamente"
 
+msgid "Address:"
+msgstr "Dirección:"
+
+msgid "to"
+msgstr "a"
