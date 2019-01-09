@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-09 09:38+0000\n"
+"PO-Revision-Date: 2019-01-09 09:38+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/mcommerce/zh_Hans/>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: zh/mcommerce.csv:1 
 msgid "Cancelled"
 msgstr "取消"
@@ -650,3 +666,11 @@ msgstr "合计不含税"
 msgid "Total Tax"
 msgstr "总税收"
 
+msgid "Code"
+msgstr "代码"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Label"
+msgstr "标签"
