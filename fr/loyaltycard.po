@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"loyaltycard/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -176,3 +177,50 @@ msgstr "point à valider"
 #: fr/loyaltycard.csv:41
 msgid "points to validate"
 msgstr "points à valider"
+
+msgid "1 validated point ="
+msgstr "1 point validé ="
+
+msgid "An error occurred while retrieving QRCode. Please try again later"
+msgstr ""
+"Une erreur est survenue lors de la récupération QRCode . Veuillez réessayer "
+"plus tard"
+
+msgid "An error occurred with your QRCode."
+msgstr "Une erreur est survenue avec votre QR Code."
+
+msgid "Enter password"
+msgstr "Entrez le mot de passe"
+
+msgid "No cards available"
+msgstr "Aucune carte disponible"
+
+msgid "Point active"
+msgstr "Point actif"
+
+msgid "Point inactive"
+msgstr "Point inactif"
+
+msgid "Rewards"
+msgstr "Votre Récompense"
+
+msgid "Scan QRCode"
+msgstr "Scan De QRCode"
+
+msgid "This card is uniq:"
+msgstr "Cette carte est unique :"
+
+msgid "Unlock by QRCode"
+msgstr "Débloquez par QRCode"
+
+msgid "Unreadable QRCode, sorry."
+msgstr "QRCode illisible , désolé ."
+
+msgid "Use only once?"
+msgstr "Utilisez une seule fois ?"
+
+msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Mot de passe erroné. <br /> Faites attention! <br />% d tentative restante% "
+"s avant de verrouiller votre carte. <br /> Demandez à la personne du magasin "
+"de valider votre point"
