@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 10:06+0000\n"
+"PO-Revision-Date: 2019-01-11 10:48+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: \n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/admin/fr/>"
+"\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 10:06+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -320,3 +321,83 @@ msgstr "Application"
 #: base/admin.csv:48
 msgid "Role"
 msgstr "Rôle"
+
+msgid "Application have been duplicated successfully."
+msgstr "Application dupliquée avec succès!"
+
+msgid "Are you sure you want to duplicate this application?"
+msgstr "Etes-vous sûr de vouloir dupliquer cette application ?"
+
+msgid "Can generate APK"
+msgstr "Peut générer APK"
+
+msgid "Can manage guided tour"
+msgstr "Peut gérer une visite guidée"
+
+msgid "Company:"
+msgstr "Société:"
+
+msgid "Connect to your backoffice to validate this account."
+msgstr "Connectez-vous à votre backoffice pour valider ce compte."
+
+msgid "Edit the account %s"
+msgstr "Modifier le compte %s"
+
+msgid "Filter your apps..."
+msgstr "Tapez ici le nom de l'application recherchée"
+
+msgid "From"
+msgstr "De"
+
+msgid "Hello, a new user has registered on your platform : %s."
+msgstr ""
+"Bonjour, un nouvel utilisateur est enregistré sur votre plate-forme: %s."
+
+msgid "Log-in As"
+msgstr "S'identifier comme"
+
+msgid "New user registration on your platform"
+msgstr "Enregistrement d'un nouvel utilisateur sur votre plateforme"
+
+msgid "No account for now."
+msgstr "Pas de compte pour l'instant"
+
+msgid "Publication access type"
+msgstr "Type d'accès de publication"
+
+msgid "Show All Applications"
+msgstr "Afficher toutes les applications"
+
+msgid "Sorry but an error occured while duplicating your application."
+msgstr ""
+"Désolé mais une erreur est survenue lors de la duplication de votre "
+"application"
+
+msgid "State/Province"
+msgstr "Région/Département"
+
+msgid "The account role is required"
+msgstr "Le rôle de compte est nécessaire"
+
+msgid "This account is not activated yet. Please contact an administrator."
+msgstr ""
+"Ce compte n'a pas encore été activé . S'il vous plaît contacter "
+"l'administrateur."
+
+msgid "This admin can manage guided tour from editor"
+msgstr "Cet administrateur peut gérer une visite guidée à partir de l'éditeur"
+
+msgid "This user has no applications yet."
+msgstr "Cet utilisateur n'a pas encore d'applications."
+
+msgid "View my current data"
+msgstr "Afficher mes données actuelles"
+
+msgid "Your account have been created successfully. It will be activated soon."
+msgstr "Votre compte a été créé avec succès . Il sera activé bientôt."
+
+msgid "Zip Code"
+msgstr "Code postal"
+
+msgid "to"
+msgstr "à"
