@@ -1,0 +1,12 @@
+{
+    "name": "xtraball/siberian-core-translations",
+    "require": {
+        "gettext/gettext": "^4.6"
+    },
+    "authors": [
+        {
+            "name": "Alex-Yves CREPIN",
+            "email": "a.crepin@xtraball.com"
+        }
+    ]
+}
