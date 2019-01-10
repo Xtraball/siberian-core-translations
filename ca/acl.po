@@ -1,2 +1,27 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-11 10:48+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/acl/ca/>"
+"\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "Create a new role"
+msgstr "Crear un nou camp"
+
+msgid "Edit %s role"
+msgstr "Edita la funció %s"
+
+msgid "List of your roles"
+msgstr "Llista dels vostres papers"
+
+msgid "Role"
+msgstr "Funció"
+
+msgid "This role will be the default one for the whole platform."
+msgstr "Aquesta funció serà la predeterminada per a tota la plataforma."
