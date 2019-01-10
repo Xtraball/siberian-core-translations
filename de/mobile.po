@@ -1,2 +1,68 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: German <http://yvain.xtraball.com/projects/siberian/mobile/de/"
+">\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "Access my personal data"
+msgstr "Meine persönlichen Daten anzeigen"
+
+msgid "Add a comment"
+msgstr "Kommentar hinzufügen"
+
+msgid "Application is Locked"
+msgstr "Die Anwendung ist gesperrt"
+
+msgid "Buffering"
+msgstr "Pufferung"
+
+msgid "Buy Tickets"
+msgstr "Tickets kaufen"
+
+msgid "Buy tickets"
+msgstr "Tickets kaufen"
+
+msgid "Civility"
+msgstr "Anrede"
+
+msgid "Discount code"
+msgstr "Rabattzone"
+
+msgid "Flag"
+msgstr "Melden"
+
+msgid "Invoicing address"
+msgstr "Rechnungsadresse"
+
+msgid "Log-in with Facebook"
+msgstr "Mit Facebook anmelden"
+
+msgid "Notes"
+msgstr "Notizen"
+
+msgid "Notification"
+msgstr "Benachrichtigungen "
+
+msgid "Scan result"
+msgstr "Scan-Ergebnis"
+
+msgid "Success"
+msgstr "Erfolg."
+
+msgid "We are sorry but this application has been deactivated and may not be re-activated."
+msgstr ""
+"Es tut uns leid, aber diese Anwendung wurde deaktiviert und kann nicht "
+"erneut aktiviert werden."
+
+msgid "followers"
+msgstr "Follower"
+
+msgid "following"
+msgstr "folgend"
