@@ -1,82 +1,86 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: it\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: it\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/sales.csv:1 
+#: it/sales.csv:1
 msgid "Action"
 msgstr "Azione"
 
-#: it/sales.csv:2 
+#: it/sales.csv:2
 msgid "App Name"
 msgstr "Nome App"
 
-#: it/sales.csv:3 
+#: it/sales.csv:3
 msgid "Client"
 msgstr "Cliente"
 
-#: it/sales.csv:4 
+#: it/sales.csv:4
 msgid "Date"
 msgstr "Data"
 
-#: it/sales.csv:5 
+#: it/sales.csv:5
 msgid "Invoice"
 msgstr "Fattura"
 
-#: it/sales.csv:6 
+#: it/sales.csv:6
 msgid "Invoice %s"
 msgstr "Fattura %s"
 
-#: it/sales.csv:7 
+#: it/sales.csv:7
 msgid "Invoice N°"
 msgstr "Fattura N°"
 
-#: it/sales.csv:8 
+#: it/sales.csv:8
 msgid "List of your invoices"
 msgstr "Lista delle tue fatture"
 
-#: it/sales.csv:9 
+#: it/sales.csv:9
 msgid "My Invoices"
 msgstr "Le mie fatture"
 
-#: it/sales.csv:10 
+#: it/sales.csv:10
 msgid "Order"
 msgstr "Ordine"
 
-#: it/sales.csv:11 
+#: it/sales.csv:11
 msgid "Orders"
 msgstr "Ordini"
 
-#: it/sales.csv:12 
+#: it/sales.csv:12
 msgid "Paid At"
 msgstr "Paga"
 
-#: it/sales.csv:13 
+#: it/sales.csv:13
 msgid "Paid at:"
 msgstr "Paga:"
 
-#: it/sales.csv:14 
+#: it/sales.csv:14
 msgid "Price Excl. Tax"
 msgstr "Prezzo IVA esclusa"
 
-#: it/sales.csv:15 
+#: it/sales.csv:15
 msgid "Qty"
 msgstr "Quantità"
 
-#: it/sales.csv:16 
+#: it/sales.csv:16
 msgid "This feature is not ready yet. Please try again later."
 msgstr "Questa funzione non è ancora disponibile. Riprova più tardi"
 
-#: it/sales.csv:17 
+#: it/sales.csv:17
 msgid "Total Excl. Tax"
 msgstr "Totale IVA esclusa"
 
-#: it/sales.csv:18 
+#: it/sales.csv:18
 msgid "You don't have any invoices yet"
 msgstr "Non hai ancora nessuna fattura."
-

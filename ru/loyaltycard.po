@@ -1,170 +1,174 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/loyaltycard.csv:1 
+#: ru/loyaltycard.csv:1
 msgid " is now yours!"
 msgstr "Теперь за вами!"
 
-#: ru/loyaltycard.csv:2 
+#: ru/loyaltycard.csv:2
 msgid "1 loyalty point ="
 msgstr "1 метка лояльности ="
 
-#: ru/loyaltycard.csv:3 
+#: ru/loyaltycard.csv:3
 msgid "1 point"
 msgstr "1 метка ="
 
-#: ru/loyaltycard.csv:4 
+#: ru/loyaltycard.csv:4
 msgid "1 validated point = "
 msgstr "1 подтверждённая метка ="
 
-#: ru/loyaltycard.csv:5 
+#: ru/loyaltycard.csv:5
 msgid "An error occurred while saving the password. Please try again later"
 msgstr "Произошла ошибка при сохранении пароля. Пожалуйста, повторите попытку позже"
 
-#: ru/loyaltycard.csv:6 
+#: ru/loyaltycard.csv:6
 msgid "An error occurred while saving the password. Please try again later."
 msgstr "Произошла ошибка при сохранении пароля. Пожалуйста, повторите попытку позже."
 
-#: ru/loyaltycard.csv:7 
+#: ru/loyaltycard.csv:7
 msgid "An error occurred while saving your loyalty card."
 msgstr "Произошла ошибка при сохранении вашей карты лояльности."
 
-#: ru/loyaltycard.csv:8 
+#: ru/loyaltycard.csv:8
 msgid "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr "Произошла ошибка при сохранении вашей карты лояльности. Пожалуйста, заполните все поля."
 
-#: ru/loyaltycard.csv:9 
+#: ru/loyaltycard.csv:9
 msgid "An error occurred while validating point. Please try again later."
 msgstr "Произошла ошибка при проверке точку. Пожалуйста, повторите попытку позже."
 
-#: ru/loyaltycard.csv:10 
+#: ru/loyaltycard.csv:10
 msgid "Card name"
 msgstr "Имя карточки"
 
-#: ru/loyaltycard.csv:11 
+#: ru/loyaltycard.csv:11
 msgid "Congratulations"
 msgstr "Поздравляю"
 
-#: ru/loyaltycard.csv:12 
+#: ru/loyaltycard.csv:12
 msgid "Current card"
 msgstr "Текущая метка"
 
-#: ru/loyaltycard.csv:13 
+#: ru/loyaltycard.csv:13
 msgid "Delete this password?"
 msgstr "Удалить этот пароль?"
 
-#: ru/loyaltycard.csv:14 
+#: ru/loyaltycard.csv:14
 msgid "Employee's name"
 msgstr "Имя работника"
 
-#: ru/loyaltycard.csv:15 
+#: ru/loyaltycard.csv:15
 msgid "Employee's name:"
 msgstr "Имя работника:"
 
-#: ru/loyaltycard.csv:16 
+#: ru/loyaltycard.csv:16
 msgid "Employee's password"
 msgstr "Пароль работника"
 
-#: ru/loyaltycard.csv:17 
+#: ru/loyaltycard.csv:17
 msgid "Employee's password:"
 msgstr "Пароль работника:"
 
-#: ru/loyaltycard.csv:18 
+#: ru/loyaltycard.csv:18
 msgid "Enter the password"
 msgstr "Ввести пароль"
 
-#: ru/loyaltycard.csv:19 
+#: ru/loyaltycard.csv:19
 msgid "My new loyalty card"
 msgstr "Моя новая карта лояльности"
 
-#: ru/loyaltycard.csv:20 
+#: ru/loyaltycard.csv:20
 msgid "My passwords"
 msgstr "Мои пароли"
 
-#: ru/loyaltycard.csv:21 
+#: ru/loyaltycard.csv:21
 msgid "Number of points"
 msgstr "Количество меток"
 
-#: ru/loyaltycard.csv:22 
+#: ru/loyaltycard.csv:22
 msgid "Please enter a name"
 msgstr "Пожалуйста, введите имя"
 
-#: ru/loyaltycard.csv:23 
+#: ru/loyaltycard.csv:23
 msgid "Please enter the password"
 msgstr "Пожалуйста, введите пароль"
 
-#: ru/loyaltycard.csv:24 
+#: ru/loyaltycard.csv:24
 msgid "Please show your phone to the store person so that he enters his password"
 msgstr "Пожалуйста, покажите ваш телефон в магазине  продавцу, для ввода пароля"
 
-#: ru/loyaltycard.csv:25 
+#: ru/loyaltycard.csv:25
 msgid "Point%s successfully validated"
 msgstr "Метка %s успешно проверена"
 
-#: ru/loyaltycard.csv:26 
+#: ru/loyaltycard.csv:26
 msgid "Previous cards"
 msgstr "Предыдущие карты"
 
-#: ru/loyaltycard.csv:27 
+#: ru/loyaltycard.csv:27
 msgid "Reward"
 msgstr "Вознаграждение"
 
-#: ru/loyaltycard.csv:28 
+#: ru/loyaltycard.csv:28
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Мы сожалеем, но эта карта временно заблокирована"
 
-#: ru/loyaltycard.csv:29 
+#: ru/loyaltycard.csv:29
 msgid "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
 msgstr "Неверный пароль. Будьте осторожны! %d остальные попытки%s могут блокировать карту. Попросите в магазине продавца проверить ваши пункты"
 
-#: ru/loyaltycard.csv:30 
+#: ru/loyaltycard.csv:30
 msgid "Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point"
 msgstr "Неверный пароль. <br /> Будьте осторожны! %d остальные попытки%s могут блокировать карту. <br />Попросите в магазине продавца проверить ваши точки"
 
-#: ru/loyaltycard.csv:31 
+#: ru/loyaltycard.csv:31
 msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
 msgstr "Вы превысили количество попыток для проверки точек. Ваша карта будет заблокирована на 24 часа"
 
-#: ru/loyaltycard.csv:32 
+#: ru/loyaltycard.csv:32
 msgid "You just finished your card"
 msgstr "Вы только что закончили свою карту"
 
-#: ru/loyaltycard.csv:33 
+#: ru/loyaltycard.csv:33
 msgid "You must be logged in to validate points"
 msgstr "Вы должны войти в систему для проверки меток"
 
-#: ru/loyaltycard.csv:34 
+#: ru/loyaltycard.csv:34
 msgid "Your loyalty card has been saved successfully"
 msgstr "Ваша карта лояльности была успешно сохранена"
 
-#: ru/loyaltycard.csv:35 
+#: ru/loyaltycard.csv:35
 msgid "Your password must be 4 digits"
 msgstr "Ваш пароль должен состоять из 4 цифр"
 
-#: ru/loyaltycard.csv:36 
+#: ru/loyaltycard.csv:36
 msgid "point"
 msgstr "метка"
 
-#: ru/loyaltycard.csv:37 
+#: ru/loyaltycard.csv:37
 msgid "point to validate"
 msgstr "указывают для проверки"
 
-#: ru/loyaltycard.csv:38 
+#: ru/loyaltycard.csv:38
 msgid "points to validate"
 msgstr "Метки для проверки"
 
-#: ru/loyaltycard.csv:39 
+#: ru/loyaltycard.csv:39
 msgid "validated points ="
 msgstr "погашенные метки ="
 
-#: ru/loyaltycard.csv:40 
+#: ru/loyaltycard.csv:40
 msgid "validated points = "
 msgstr "проверенные метки ="
-

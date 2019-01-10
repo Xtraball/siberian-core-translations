@@ -2,751 +2,747 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 09:38+0000\n"
-"PO-Revision-Date: 2019-01-09 09:38+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
-"siberian/application/zh_Hans/>\n"
-"Language: zh\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/siberian/application/zh_Hans/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-09 09:38+0000\n"
+"PO-Revision-Date: 2019-01-09 09:38+0000\n"
+"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/application.csv:1 
+#: zh/application.csv:1
 msgid "1. Download the app previewer:"
 msgstr "1.下载应用程序的预览："
 
-#: zh/application.csv:2 
+#: zh/application.csv:2
 msgid "2. Open the app and login"
 msgstr "2.打开应用程序，并输入"
 
-#: zh/application.csv:3 
+#: zh/application.csv:3
 msgid "<b>File type:</b> %s"
 msgstr "<b>文件类型：</b>的％s"
 
-#: zh/application.csv:4 
-msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
-msgstr "<span>点击 <button class="add" type="button"><i class="icon-plus"></i></button> <span>添加项目</span>"
+#: zh/application.csv:4
+msgid "<span>Click on</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>to add an item.</span>"
+msgstr "<span>点击 <button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>添加项目</span>"
 
-#: zh/application.csv:5 
+#: zh/application.csv:5
 msgid "Activated"
 msgstr "活性"
 
-#: zh/application.csv:6 
+#: zh/application.csv:6
 msgid "Add a new icon"
 msgstr "添加一个新的图标"
 
-#: zh/application.csv:7 
+#: zh/application.csv:7
 msgid "Add pages"
 msgstr "添加页面"
 
-#: zh/application.csv:8 
+#: zh/application.csv:8
 msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
 msgstr "在复制的应用程序图标时发生错误。请检查该图标，重新尝试发送，然后再试一次。"
 
-#: zh/application.csv:9 
+#: zh/application.csv:9
 msgid "An error occurred during the generation of your QRCode. Please try again later."
 msgstr "同时生成QR码时发生错误。请稍后再试。"
 
-#: zh/application.csv:10 
+#: zh/application.csv:10
 msgid "An error occurred while adding the option"
 msgstr "出现错误添加选项"
 
-#: zh/application.csv:11 
+#: zh/application.csv:11
 msgid "An error occurred while changing your layout."
 msgstr "未能改变它的设计。"
 
-#: zh/application.csv:12 
+#: zh/application.csv:12
 msgid "An error occurred while deleting the option"
 msgstr "有一个错误删除的选项"
 
-#: zh/application.csv:13 
+#: zh/application.csv:13
 msgid "An error occurred while deleting your picture"
 msgstr "而删除你的形象发生了错误"
 
-#: zh/application.csv:14 
+#: zh/application.csv:14
 msgid "An error occurred while editing file (%s)."
 msgstr "编辑文件（ ％ S）时发生错误。"
 
-#: zh/application.csv:15 
+#: zh/application.csv:15
 msgid "An error occurred while loading"
 msgstr "有同时加载错误"
 
-#: zh/application.csv:16 
+#: zh/application.csv:16
 msgid "An error occurred while saving the application. Please try again later."
 msgstr "有一个错误保存应用程序。请稍后再试。"
 
-#: zh/application.csv:17 
+#: zh/application.csv:17
 msgid "An error occurred while saving your colors."
 msgstr "有一个错误节省你的颜色。"
 
-#: zh/application.csv:18 
+#: zh/application.csv:18
 msgid "An error occurred while saving your page name."
 msgstr "有一个错误保存您的页面名称。"
 
-#: zh/application.csv:19 
+#: zh/application.csv:19
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "有一个错误的节省。所选择的图标是无效的。"
 
-#: zh/application.csv:20 
+#: zh/application.csv:20
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "目前在订购页面错误。请稍后再试。"
 
-#: zh/application.csv:21 
+#: zh/application.csv:21
 msgid "Analytics"
 msgstr "Analytics（分析）"
 
-#: zh/application.csv:22 
+#: zh/application.csv:22
 msgid "Android APK Generation"
 msgstr "新一代的Android APK"
 
-#: zh/application.csv:23 
+#: zh/application.csv:23
 msgid "Android Version"
 msgstr "Android版"
 
-#: zh/application.csv:24 
+#: zh/application.csv:24
 msgid "App Store Icon"
 msgstr "图标苹果商店"
 
-#: zh/application.csv:25 
+#: zh/application.csv:25
 msgid "Apple's Information"
 msgstr "Apple资讯"
 
-#: zh/application.csv:26 
+#: zh/application.csv:26
 msgid "Application name"
 msgstr "应用程序名称"
 
-#: zh/application.csv:27 
+#: zh/application.csv:27
 msgid "Are you sure you want to remove this application?"
 msgstr "你确定你要删除这个应用程序？"
 
-#: zh/application.csv:28 
+#: zh/application.csv:28
 msgid "At least 200 characters in the description"
 msgstr "在描述中至少有200个字符"
 
-#: zh/application.csv:29 
+#: zh/application.csv:29
 msgid "At least, 4 pages in the application"
 msgstr "在应用程序中至少有4个功能"
 
-#: zh/application.csv:30 
+#: zh/application.csv:30
 msgid "Average by customer"
 msgstr "平均每个客户"
 
-#: zh/application.csv:31 
+#: zh/application.csv:31
 msgid "Bundle Id"
 msgstr "包ID"
 
-#: zh/application.csv:32 
+#: zh/application.csv:32
 msgid "Buy one, get one!"
 msgstr "买一赠一！"
 
-#: zh/application.csv:33 
+#: zh/application.csv:33
 msgid "Certificate"
 msgstr "证书"
 
-#: zh/application.csv:34 
+#: zh/application.csv:34
 msgid "Change your"
 msgstr "变化"
 
-#: zh/application.csv:35 
+#: zh/application.csv:35
 msgid "Change your template"
 msgstr "改变你的模板"
 
-#: zh/application.csv:36 
+#: zh/application.csv:36
 msgid "Change your<br /><span>picture</span>"
 msgstr "变化<br /><span>图片</span>"
 
-#: zh/application.csv:37 
+#: zh/application.csv:37
 msgid "Checking CNAME configuration:"
 msgstr "检查CNAME配置："
 
-#: zh/application.csv:38 
+#: zh/application.csv:38
 msgid "Choose your design"
 msgstr "选择您的设计"
 
-#: zh/application.csv:39 
-msgid "Choose a <br /><span class="bold">picture</span>"
+#: zh/application.csv:39
+msgid "Choose a <br /><span class=\"bold\">picture</span>"
 msgstr "选择一个 <br 7><span class=”bold”>图片</span>"
 
-#: zh/application.csv:40 
+#: zh/application.csv:40
 msgid "Choose a country"
 msgstr "选择一个国家"
 
-#: zh/application.csv:41 
+#: zh/application.csv:41
 msgid "Choose a font family"
 msgstr "选择字体系列"
 
-#: zh/application.csv:42 
+#: zh/application.csv:42
 msgid "Choose your colors"
 msgstr "选择颜色"
 
-#: zh/application.csv:43 
+#: zh/application.csv:43
 msgid "Choose your country"
 msgstr "选择您的国家"
 
-#: zh/application.csv:44 
+#: zh/application.csv:44
 msgid "Choose your font style"
 msgstr "选择你的字体样式"
 
-#: zh/application.csv:45 
+#: zh/application.csv:45
 msgid "Choose your homepage image"
 msgstr "选择你的形象主页"
 
-#: zh/application.csv:46 
+#: zh/application.csv:46
 msgid "Choose your icons color"
 msgstr "选择你的彩色图标"
 
-#: zh/application.csv:47 
+#: zh/application.csv:47
 msgid "Choose your layout"
 msgstr "选择演示文稿"
 
-#: zh/application.csv:48 
+#: zh/application.csv:48
 msgid "Choose your template"
 msgstr "选择您的模板"
 
-#: zh/application.csv:49 
+#: zh/application.csv:49
 msgid "Click here to download the source code:"
 msgstr "点击此处下载源代码："
 
-#: zh/application.csv:50 
+#: zh/application.csv:50
 msgid "Click here to send your certificate"
 msgstr "点击这里给我您的证书"
 
-#: zh/application.csv:51 
+#: zh/application.csv:51
 msgid "Colors"
 msgstr "颜色"
 
-#: zh/application.csv:52 
+#: zh/application.csv:52
 msgid "Dashboard icon"
 msgstr "应用程序图标"
 
-#: zh/application.csv:53 
+#: zh/application.csv:53
 msgid "Deactivated"
 msgstr "离"
 
-#: zh/application.csv:54 
+#: zh/application.csv:54
 msgid "Delete this page?"
 msgstr "删除此页？"
 
-#: zh/application.csv:55 
+#: zh/application.csv:55
 msgid "Design"
 msgstr "设计"
 
-#: zh/application.csv:56 
+#: zh/application.csv:56
 msgid "Developer Accounts"
 msgstr "开发者帐户"
 
-#: zh/application.csv:57 
+#: zh/application.csv:57
 msgid "Device Information"
 msgstr "设备信息"
 
-#: zh/application.csv:58 
+#: zh/application.csv:58
 msgid "Discount zone description. Here your clients will be able to see the details of each discount"
 msgstr "折扣描述区域。在这里，客人可以查看每个优惠详情"
 
-#: zh/application.csv:59 
+#: zh/application.csv:59
 msgid "Domain"
 msgstr "域"
 
-#: zh/application.csv:60 
+#: zh/application.csv:60
 msgid "Domain name"
 msgstr "域名"
 
-#: zh/application.csv:61 
+#: zh/application.csv:61
 msgid "Download"
 msgstr "下载"
 
-#: zh/application.csv:62 
+#: zh/application.csv:62
 msgid "Download our app previewer"
 msgstr "下载我们的应用程序的预览"
 
-#: zh/application.csv:63 
+#: zh/application.csv:63
 msgid "Drop your certificate here"
 msgstr "在这里放下你的证书"
 
-#: zh/application.csv:64 
+#: zh/application.csv:64
 msgid "Edit my"
 msgstr "编辑我"
 
-#: zh/application.csv:65 
-msgid "Edit the application "%s”"
+#: zh/application.csv:65
+msgid "Edit the application \"%s”"
 msgstr "编辑应用程序“％s”"
 
-#: zh/application.csv:66 
+#: zh/application.csv:66
 msgid "Editor"
 msgstr "编辑"
 
-#: zh/application.csv:67 
+#: zh/application.csv:67
 msgid "Extension not allowed, '%s' only"
 msgstr "不允许扩展'％s'的"
 
-#: zh/application.csv:68 
+#: zh/application.csv:68
 msgid "Features"
 msgstr "功能"
 
-#: zh/application.csv:69 
+#: zh/application.csv:69
 msgid "Fred W."
 msgstr "弗雷德W."
 
-#: zh/application.csv:70 
+#: zh/application.csv:70
 msgid "General Information"
 msgstr "一般信息"
 
-#: zh/application.csv:71 
+#: zh/application.csv:71
 msgid "General information"
 msgstr "一般信息"
 
-#: zh/application.csv:72 
+#: zh/application.csv:72
 msgid "Global visits"
 msgstr "全球意见"
 
-#: zh/application.csv:73 
+#: zh/application.csv:73
 msgid "Google Play Icon"
 msgstr "图标谷歌播放"
 
-#: zh/application.csv:74 
+#: zh/application.csv:74
 msgid "Google's Information"
 msgstr "谷歌信息"
 
-#: zh/application.csv:75 
+#: zh/application.csv:75
 msgid "Here is our latest creation. What do you think?"
 msgstr "这是我们的最新创作。你有什么感想？"
 
-#: zh/application.csv:76 
+#: zh/application.csv:76
 msgid "Homepage preview"
 msgstr "预览页面"
 
-#: zh/application.csv:77 
+#: zh/application.csv:77
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "不要有一个帐户谷歌开发者和想创建一个"
 
-#: zh/application.csv:78 
+#: zh/application.csv:78
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "我没有苹果的开发者账户，并希望创建一个"
 
-#: zh/application.csv:79 
+#: zh/application.csv:79
 msgid "I have an Apple developer account"
 msgstr "我有一个苹果开发者账户"
 
-#: zh/application.csv:80 
+#: zh/application.csv:80
 msgid "I have an Google developer account"
 msgstr "我有一个开发者账户谷歌"
 
-#: zh/application.csv:81 
+#: zh/application.csv:81
 msgid "I let you publish my application under your Apple developer account"
 msgstr "我让我的应用程序被发布在苹果开发者账户"
 
-#: zh/application.csv:82 
+#: zh/application.csv:82
 msgid "I let you publish my application under your Google developer account"
 msgstr "我让我的应用程序在你的开发者帐户谷歌公布"
 
-#: zh/application.csv:83 
+#: zh/application.csv:83
 msgid "Icons"
 msgstr "图标"
 
-#: zh/application.csv:84 
+#: zh/application.csv:84
 msgid "Id"
 msgstr "ID"
 
-#: zh/application.csv:85 
+#: zh/application.csv:85
 msgid "If you validate, your app's colors and background image will be replaced"
 msgstr "您的应用程序，如果确认，将被替换壁纸的颜色和"
 
-#: zh/application.csv:86 
+#: zh/application.csv:86
 msgid "Installed application"
 msgstr "安装的应用程序"
 
-#: zh/application.csv:87 
+#: zh/application.csv:87
 msgid "Key Password"
 msgstr "密钥密码"
 
-#: zh/application.csv:88 
+#: zh/application.csv:88
 msgid "Keywords"
 msgstr "关键词"
 
-#: zh/application.csv:89 
+#: zh/application.csv:89
 msgid "Last name:"
 msgstr "姓："
 
-#: zh/application.csv:90 
+#: zh/application.csv:90
 msgid "Library icons"
 msgstr "图标库"
 
-#: zh/application.csv:91 
+#: zh/application.csv:91
 msgid "List of my applications"
 msgstr "我的应用程序列表"
 
-#: zh/application.csv:92 
+#: zh/application.csv:92
 msgid "List of your applications"
 msgstr "勾"
 
-#: zh/application.csv:93 
+#: zh/application.csv:93
 msgid "Loading"
 msgstr "载入中"
 
-#: zh/application.csv:94 
+#: zh/application.csv:94
 msgid "Lock the entire application"
 msgstr "阻止整个应用程序"
 
-#: zh/application.csv:95 
+#: zh/application.csv:95
 msgid "Love it <3"
 msgstr "我喜欢 <3"
 
-#: zh/application.csv:96 
+#: zh/application.csv:96
 msgid "Main"
 msgstr "主"
 
-#: zh/application.csv:97 
+#: zh/application.csv:97
 msgid "Manage icons"
 msgstr "管理图标"
 
-#: zh/application.csv:98 
+#: zh/application.csv:98
 msgid "Media"
 msgstr "媒体"
 
-#: zh/application.csv:99 
+#: zh/application.csv:99
 msgid "Missing Information"
 msgstr "缺少信息"
 
-#: zh/application.csv:100 
+#: zh/application.csv:100
 msgid "Mobile Source Codes"
 msgstr "移动源代码"
 
-#: zh/application.csv:101 
+#: zh/application.csv:101
 msgid "Mobile source codes"
 msgstr "移动源代码"
 
-#: zh/application.csv:102 
+#: zh/application.csv:102
 msgid "Mobile website information"
 msgstr "信息的手机网站"
 
-#: zh/application.csv:103 
+#: zh/application.csv:103
 msgid "My QRCode"
 msgstr "我的QRCode的"
 
-#: zh/application.csv:104 
+#: zh/application.csv:104
 msgid "My application in figures"
 msgstr "我的数字应用程序"
 
-#: zh/application.csv:105 
+#: zh/application.csv:105
 msgid "One free coffee"
 msgstr "免费咖啡"
 
-#: zh/application.csv:106 
-msgid "Or go on your store<br />and look for "Apps Company Previewer""
-msgstr "或者去他们的店里看看\u003cbr /\u003e “应用程序公司预览”"
+#: zh/application.csv:106
+msgid "Or go on your store<br />and look for \"Apps Company Previewer\""
+msgstr "或者去他们的店里看看\\u003cbr /\\u003e “应用程序公司预览”"
 
-#: zh/application.csv:107 
+#: zh/application.csv:107
 msgid "Page name:"
 msgstr "页面名称："
 
-#: zh/application.csv:108 
+#: zh/application.csv:108
 msgid "Percentage of returning customers"
 msgstr "谁返回客户的百分比"
 
-#: zh/application.csv:109 
+#: zh/application.csv:109
 msgid "Please enter a correct URL for the %s store"
 msgstr "请输入正确的网址仓库％S"
 
-#: zh/application.csv:110 
+#: zh/application.csv:110
 msgid "Please enter a subdomain."
 msgstr "请输入一个子域。"
 
-#: zh/application.csv:111 
+#: zh/application.csv:111
 msgid "Please enter a valid URL"
 msgstr "请输入有效的URL"
 
-#: zh/application.csv:112 
+#: zh/application.csv:112
 msgid "Please enter a valid address"
 msgstr "请输入一个有效的地址"
 
-#: zh/application.csv:113 
+#: zh/application.csv:113
 msgid "Please enter a valid mobile website address."
 msgstr "请输入有效的移动网站。"
 
-#: zh/application.csv:114 
+#: zh/application.csv:114
 msgid "Preview"
 msgstr "预览"
 
-#: zh/application.csv:115 
+#: zh/application.csv:115
 msgid "Promote"
 msgstr "促进"
 
-#: zh/application.csv:116 
+#: zh/application.csv:116
 msgid "Publication"
 msgstr "发布"
 
-#: zh/application.csv:117 
+#: zh/application.csv:117
 msgid "Publish the application"
 msgstr "发布应用程序"
 
-#: zh/application.csv:118 
+#: zh/application.csv:118
 msgid "Publish under our account"
 msgstr "张贴在我们自己"
 
-#: zh/application.csv:119 
+#: zh/application.csv:119
 msgid "Ready ? Publish my app!"
 msgstr "准备好了吗？发表我的应用程序！"
 
-#: zh/application.csv:120 
+#: zh/application.csv:120
 msgid "Recommanded size:"
 msgstr "推荐大小："
 
-#: zh/application.csv:121 
+#: zh/application.csv:121
 msgid "Remove this page from this folder?"
 msgstr "从这个文件夹中删除此页面？"
 
-#: zh/application.csv:122 
+#: zh/application.csv:122
+#: zh/application.csv:123
 msgid "Scan this QR Code:"
 msgstr "扫描这个QR代码："
 
-#: zh/application.csv:123 
-msgid "Scan this QR Code:"
-msgstr "扫描这个QR代码："
-
-#: zh/application.csv:124 
+#: zh/application.csv:124
 msgid "Secondary category"
 msgstr "子类别"
 
-#: zh/application.csv:125 
+#: zh/application.csv:125
 msgid "Secondary category<br />(Optional)"
 msgstr "二级类别<br />（可选）"
 
-#: zh/application.csv:126 
+#: zh/application.csv:126
 msgid "Send here your iOS certificate to enable the push notifications for this application."
 msgstr "发送您的证书的iOS在这里，使这个应用程序推送通知。"
 
-#: zh/application.csv:127 
+#: zh/application.csv:127
 msgid "Send you .pem certificate"
 msgstr "送你的.pem证书"
 
-#: zh/application.csv:128 
+#: zh/application.csv:128
 msgid "Show the applications waiting for publication only."
 msgstr "显示应用程序，只希望出版。"
 
-#: zh/application.csv:129 
+#: zh/application.csv:129
 msgid "Startup image"
 msgstr "开机画面"
 
-#: zh/application.csv:130 
+#: zh/application.csv:130
 msgid "Status"
 msgstr "状态"
 
-#: zh/application.csv:131 
+#: zh/application.csv:131
 msgid "Store Password"
 msgstr "存储密码"
 
-#: zh/application.csv:132 
+#: zh/application.csv:132
 msgid "Store URL"
 msgstr "商店网址"
 
-#: zh/application.csv:133 
+#: zh/application.csv:133
 msgid "Stores Info"
 msgstr "购物信息"
 
-#: zh/application.csv:134 
+#: zh/application.csv:134
 msgid "To be able to download source codes, please provide the following information:<br />"
 msgstr "下载源代码，请按照下列指示：<br />"
 
-#: zh/application.csv:135 
+#: zh/application.csv:135
 msgid "The application's name cannot start with a number"
 msgstr "该应用程序的名称不能以数字开头"
 
-#: zh/application.csv:136 
+#: zh/application.csv:136
 msgid "The Bundle Id is required"
 msgstr "包ID所需"
 
-#: zh/application.csv:137 
+#: zh/application.csv:137
 msgid "The QR Code is not available at this moment"
 msgstr "QR码是在这个时候不可用"
 
-#: zh/application.csv:138 
+#: zh/application.csv:138
 msgid "The application has been successfully saved"
 msgstr "该应用程序已成功保存"
 
-#: zh/application.csv:139 
+#: zh/application.csv:139
 msgid "The application name"
 msgstr "该应用程序的名称"
 
-#: zh/application.csv:140 
+#: zh/application.csv:140
 msgid "The description"
 msgstr "说明"
 
-#: zh/application.csv:141 
+#: zh/application.csv:141
 msgid "The description must be at least 200 characters"
 msgstr "说明必须至少有200个字符"
 
-#: zh/application.csv:142 
+#: zh/application.csv:142
 msgid "The desktop icon"
 msgstr "桌面图标"
 
-#: zh/application.csv:143 
+#: zh/application.csv:143
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "进入包ID是不正确，应该是这样的： com.tuappmaker.app"
 
-#: zh/application.csv:144 
+#: zh/application.csv:144
 msgid "The field is required"
 msgstr "它要求该字段"
 
-#: zh/application.csv:145 
+#: zh/application.csv:145
 msgid "The file has been successfully uploaded"
 msgstr "该文件已成功上传"
 
-#: zh/application.csv:146 
+#: zh/application.csv:146
 msgid "The following information are needed to download the source codes:<br />"
 msgstr "以下信息需要下载的源代码：<br />"
 
-#: zh/application.csv:147 
+#: zh/application.csv:147
 msgid "The homepage image"
 msgstr "主页的图像"
 
-#: zh/application.csv:148 
+#: zh/application.csv:148
 msgid "The key cannot be empty."
 msgstr "关键不能为空。"
 
-#: zh/application.csv:149 
+#: zh/application.csv:149
 msgid "The key is already used by another application."
 msgstr "功能键已经由另一个应用程序。"
 
-#: zh/application.csv:150 
+#: zh/application.csv:150
 msgid "The keywords"
 msgstr "关键字"
 
-#: zh/application.csv:151 
+#: zh/application.csv:151
 msgid "The main category"
 msgstr "主要类别"
 
-#: zh/application.csv:152 
+#: zh/application.csv:152
 msgid "The startup image"
 msgstr "开机画面"
 
-#: zh/application.csv:153 
+#: zh/application.csv:153
 msgid "This application does not exist"
 msgstr "本申请中不存在"
 
-#: zh/application.csv:154 
+#: zh/application.csv:154
 msgid "This application is visible on the front"
 msgstr "本申请是在前面可见"
 
-#: zh/application.csv:155 
+#: zh/application.csv:155
 msgid "This option enables you to set the currency used in your app"
 msgstr "此选项允许您设置应用程序中使用的货币"
 
-#: zh/application.csv:156 
+#: zh/application.csv:156
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr "该页面显示移动用户，使他们能够访问和管理自己的帐户。当你使用需要用户登录功能，它会自动添加。"
 
-#: zh/application.csv:157 
+#: zh/application.csv:157
 msgid "URL"
 msgstr "URL"
 
-#: zh/application.csv:158 
+#: zh/application.csv:158
 msgid "URL Key"
 msgstr "关键的URL"
 
-#: zh/application.csv:159 
+#: zh/application.csv:159
 msgid "Use into all of your application's pages"
 msgstr "使用应用程序的所有网页上"
 
-#: zh/application.csv:160 
+#: zh/application.csv:160
 msgid "Used points"
 msgstr "二手点"
 
-#: zh/application.csv:161 
+#: zh/application.csv:161
 msgid "User Information"
 msgstr "用户信息"
 
-#: zh/application.csv:162 
+#: zh/application.csv:162
 msgid "Version"
 msgstr "版本"
 
-#: zh/application.csv:163 
+#: zh/application.csv:163
 msgid "You already have sent a certificate."
 msgstr "您已发送的证书。"
 
-#: zh/application.csv:164 
+#: zh/application.csv:164
 msgid "You can download your QRCode by"
 msgstr "您也可以下载QRCode的："
 
-#: zh/application.csv:165 
+#: zh/application.csv:165
 msgid "You don't have any applications yet"
 msgstr "你有没有应用程序还"
 
-#: zh/application.csv:166 
+#: zh/application.csv:166
 msgid "You have already sent a certificate"
 msgstr "您已发送证书"
 
-#: zh/application.csv:167 
+#: zh/application.csv:167
 msgid "You have sent a certificate."
 msgstr "您发送了证书。"
 
-#: zh/application.csv:168 
+#: zh/application.csv:168
 msgid "You haven't chosen any template yet"
 msgstr "它尚未选择一个模板"
 
-#: zh/application.csv:169 
+#: zh/application.csv:169
 msgid "You may not delete a library icon"
 msgstr "你无法删除的图标库"
 
-#: zh/application.csv:170 
+#: zh/application.csv:170
 msgid "You must have published your application to access this feature"
 msgstr "你应该已经张贴你的要求来访问此功能"
 
-#: zh/application.csv:171 
+#: zh/application.csv:171
 msgid "Your CNAME is properly set"
 msgstr "您的CNAME配置是否正确"
 
-#: zh/application.csv:172 
+#: zh/application.csv:172
 msgid "Your best customers"
 msgstr "你最好的客户"
 
-#: zh/application.csv:173 
+#: zh/application.csv:173
 msgid "Your customers in figures"
 msgstr "其客户数据"
 
-#: zh/application.csv:174 
+#: zh/application.csv:174
 msgid "Your mobile address should not contain special characters"
 msgstr "您的手机不应该包含特殊字符"
 
-#: zh/application.csv:175 
+#: zh/application.csv:175
 msgid "Your pages"
 msgstr "其网页"
 
-#: zh/application.csv:176 
+#: zh/application.csv:176
 msgid "iOS Certificate"
 msgstr "证书的iOS"
 
-#: zh/application.csv:177 
+#: zh/application.csv:177
 msgid "iPad Retina:"
 msgstr "iPad的视网膜："
 
-#: zh/application.csv:178 
+#: zh/application.csv:178
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S ："
 
-#: zh/application.csv:179 
+#: zh/application.csv:179
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6加："
 
-#: zh/application.csv:180 
+#: zh/application.csv:180
 msgid "iPhone 6:"
 msgstr "iPhone 6 ："
 
-#: zh/application.csv:181 
+#: zh/application.csv:181
 msgid "iPhone Version"
 msgstr "IPhone版本"
 
-#: zh/application.csv:182 
+#: zh/application.csv:182
 msgid "icon"
 msgstr "图标"
 
-#: zh/application.csv:183 
+#: zh/application.csv:183
 msgid "logo"
 msgstr "徽标"
 
-#: zh/application.csv:184 
+#: zh/application.csv:184
 msgid "times"
 msgstr "时"
 

@@ -1,106 +1,110 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/booking.csv:1 
+#: ru/booking.csv:1
 msgid "Booking details"
 msgstr "Детали бронирования"
 
-#: ru/booking.csv:2 
+#: ru/booking.csv:2
 msgid "Booking details:"
 msgstr "Детали бронирования:"
 
-#: ru/booking.csv:3 
+#: ru/booking.csv:3
 msgid "Booking subject:"
 msgstr "Объект бронирования:"
 
-#: ru/booking.csv:4 
+#: ru/booking.csv:4
 msgid "Comment:"
 msgstr "Комментарий:"
 
-#: ru/booking.csv:5 
+#: ru/booking.csv:5
 msgid "Date and time"
 msgstr "Дата и время"
 
-#: ru/booking.csv:6 
+#: ru/booking.csv:6
 msgid "Date and time:"
 msgstr "Дата и время:"
 
-#: ru/booking.csv:7 
+#: ru/booking.csv:7
 msgid "Email address:"
 msgstr "Адрес электронной почты:"
 
-#: ru/booking.csv:8 
+#: ru/booking.csv:8
 msgid "Enter the location name and contact email:"
 msgstr "Введите название месторасположения и контактный адрес электронной почты:"
 
-#: ru/booking.csv:9 
+#: ru/booking.csv:9
 msgid "First name / Last name"
 msgstr "Имя / Фамилия"
 
-#: ru/booking.csv:10 
+#: ru/booking.csv:10
 msgid "Here are his personal information:"
 msgstr "Вот его личные данные:"
 
-#: ru/booking.csv:11 
+#: ru/booking.csv:11
 msgid "Name:"
 msgstr "Имя:"
 
-#: ru/booking.csv:12 
+#: ru/booking.csv:12
 msgid "Nom du lieu :"
 msgstr "Наименование расположения"
 
-#: ru/booking.csv:13 
+#: ru/booking.csv:13
 msgid "People number:"
 msgstr "Количество людей:"
 
-#: ru/booking.csv:14 
+#: ru/booking.csv:14
 msgid "Phone number:"
 msgstr "Номер телефона:"
 
-#: ru/booking.csv:15 
+#: ru/booking.csv:15
 msgid "Please fill out the following fields: "
 msgstr "Пожалуйста, заполните следующие поля:"
 
-#: ru/booking.csv:16 
+#: ru/booking.csv:16
 msgid "Please fill out the following fields:<br />"
 msgstr "Пожалуйста, заполните следующие поля: <br />"
 
-#: ru/booking.csv:17 
+#: ru/booking.csv:17
 msgid "Please, choose a store"
 msgstr "Пожалуйста, выберите магазин"
 
-#: ru/booking.csv:18 
+#: ru/booking.csv:18
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Спасибо за ваш запрос. Мы ответим вам как можно скорее."
 
-#: ru/booking.csv:19 
+#: ru/booking.csv:19
 msgid "The booking information"
 msgstr "Информация о бронировании"
 
-#: ru/booking.csv:20 
+#: ru/booking.csv:20
 msgid "The booking informations"
 msgstr "Информация по бронированию"
 
-#: ru/booking.csv:21 
+#: ru/booking.csv:21
 msgid "The date and time of the booking"
 msgstr "Дата и время заказа"
 
-#: ru/booking.csv:22 
+#: ru/booking.csv:22
 msgid "The number of people"
 msgstr "Количество людей"
 
-#: ru/booking.csv:23 
+#: ru/booking.csv:23
 msgid "You have received a message for the booking of"
 msgstr "Вы получили сообщение для бронирования"
 
-#: ru/booking.csv:24 
+#: ru/booking.csv:24
 msgid "Your phone number or email address"
 msgstr "Ваш номер телефона или адрес электронной почты"
-

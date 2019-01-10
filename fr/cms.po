@@ -2,117 +2,117 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 15:46+0000\n"
-"PO-Revision-Date: 2019-01-08 15:46+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/cms/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-08 15:46+0000\n"
+"PO-Revision-Date: 2019-01-08 15:46+0000\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/cms.csv:1 
+#: fr/cms.csv:1
 msgid ".mp4 or .3gp format"
 msgstr "format .mp4 ou .3gp"
 
-#: fr/cms.csv:2 
+#: fr/cms.csv:2
 msgid "Add "
 msgstr "Ajoutez des"
 
-#: fr/cms.csv:3 
+#: fr/cms.csv:3
 msgid "Add sections:"
 msgstr "Ajouter des éléments :"
 
-#: fr/cms.csv:4 
+#: fr/cms.csv:4
 msgid "Address:"
 msgstr "Adresse :"
 
-#: fr/cms.csv:5 
+#: fr/cms.csv:5
 msgid "Alignment:"
 msgstr "Alignement :"
 
-#: fr/cms.csv:6 
+#: fr/cms.csv:6
 msgid "An error occurred while saving your page."
 msgstr "Une erreur est survenue lors de la sauvegarde de votre page."
 
-#: fr/cms.csv:7 
+#: fr/cms.csv:7
 msgid "Are you sure you want to delete this page?"
 msgstr "Êtes-vous sûr de vouloir supprimer cette page ?"
 
-#: fr/cms.csv:8 
+#: fr/cms.csv:8
 msgid "Display address"
 msgstr "Afficher l'adresse"
 
-#: fr/cms.csv:9 
+#: fr/cms.csv:9
 msgid "Display location button"
 msgstr "Afficher le bouton de localisation"
 
-#: fr/cms.csv:10 
+#: fr/cms.csv:10
 msgid "Label"
 msgstr "Nom"
 
-#: fr/cms.csv:11 
+#: fr/cms.csv:11
 msgid "Label:"
 msgstr "Libellé :"
 
-#: fr/cms.csv:12 
+#: fr/cms.csv:12
 msgid "Large"
 msgstr "Grand"
 
-#: fr/cms.csv:13 
+#: fr/cms.csv:13
 msgid "Loading picture:"
 msgstr "Image de chargement :"
 
-#: fr/cms.csv:14 
+#: fr/cms.csv:14
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Saisissez votre recherche ou l'url Youtube :"
 
-#: fr/cms.csv:15 
+#: fr/cms.csv:15
 msgid "Medium"
 msgstr "Moyen"
 
-#: fr/cms.csv:16 
+#: fr/cms.csv:16
 msgid "My Youtube video:"
 msgstr "Votre vidéo Youtube :"
 
-#: fr/cms.csv:17 
+#: fr/cms.csv:17
 msgid "My video"
 msgstr "Ma vidéo"
 
-#: fr/cms.csv:18 
+#: fr/cms.csv:18
 msgid "No videos matching your selection"
 msgstr "Aucune vidéo ne correspond à votre sélectionNo videos matching your selection"
 
-#: fr/cms.csv:19 
+#: fr/cms.csv:19
 msgid "Page successfully deleted"
 msgstr "Page supprimée avec succès"
 
-#: fr/cms.csv:20 
+#: fr/cms.csv:20
 msgid "Page successfully saved"
 msgstr "Page sauvegardée avec succès"
 
-#: fr/cms.csv:21 
+#: fr/cms.csv:21
 msgid "Podcast URL:"
 msgstr "Adresse du podcast :"
 
-#: fr/cms.csv:22 
+#: fr/cms.csv:22
 msgid "Select a button type:"
 msgstr "Sélectionnez un type de bouton :"
 
-#: fr/cms.csv:23 
+#: fr/cms.csv:23
 msgid "Select a video type:"
 msgstr "Sélectionnez un type de vidéo :"
 
-#: fr/cms.csv:24 
+#: fr/cms.csv:24
 msgid "Small"
 msgstr "Petit"
 
-#: fr/cms.csv:25 
+#: fr/cms.csv:25
 msgid "Video URL:"
 msgstr "Adresse de la vidéo :"
 
-#: fr/cms.csv:26 
+#: fr/cms.csv:26
 msgid "Your Podcast:"
 msgstr "Votre Podcast :"

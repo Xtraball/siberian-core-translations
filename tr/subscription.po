@@ -1,238 +1,242 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: tr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/subscription.csv:1 
+#: tr/subscription.csv:1
 msgid "%s Subscription for %s"
 msgstr "%s için üyelik %s"
 
-#: tr/subscription.csv:2 
-msgid "<a href="%s">Click here</a> to go back to your applications list"
-msgstr "<a href="%s">Aplikasyonlar listenize dönmek için</a> tıklayınız"
+#: tr/subscription.csv:2
+msgid "<a href=\"%s\">Click here</a> to go back to your applications list"
+msgstr "<a href=\"%s\">Aplikasyonlar listenize dönmek için</a> tıklayınız"
 
-#: tr/subscription.csv:3 
+#: tr/subscription.csv:3
 msgid "Active"
 msgstr "Aktif"
 
-#: tr/subscription.csv:4 
+#: tr/subscription.csv:4
 msgid "An error occurred while processing your order. Please, try again later."
 msgstr "Sipariş işlenirken bir hata oluştu. Daha sonra tekrar deneyin."
 
-#: tr/subscription.csv:5 
+#: tr/subscription.csv:5
 msgid "An error occurred while saving. Please try again later"
 msgstr "Kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz"
 
-#: tr/subscription.csv:6 
+#: tr/subscription.csv:6
 msgid "An error occurred while saving. The selected subscription is not valid."
 msgstr "Kaydedilirken bir hata oluştu. Seçilen abonelik geçerli değil."
 
-#: tr/subscription.csv:7 
+#: tr/subscription.csv:7
 msgid "Are you sure you want to delete this plan?"
 msgstr "Bu planı silmek istediğinizden emin misiniz?"
 
-#: tr/subscription.csv:8 
+#: tr/subscription.csv:8
 msgid "Billing Address"
 msgstr "Fatura adresi"
 
-#: tr/subscription.csv:9 
-msgid "By checking this box, you agree <a id="show_tos" href="javascript:void(0);" target="_blank" class="underline">to our terms and conditions</a>"
-msgstr "Kutuyu işaretleyerek <a id="show_tos" href="javascript:void(0);" target="_blank" class="underline">koşul ve kurallarımızı kabul etmiş olursunuz</a>"
+#: tr/subscription.csv:9
+msgid "By checking this box, you agree <a id=\"show_tos\" href=\"javascript:void(0);\" target=\"_blank\" class=\"underline\">to our terms and conditions</a>"
+msgstr "Kutuyu işaretleyerek <a id=\"show_tos\" href=\"javascript:void(0);\" target=\"_blank\" class=\"underline\">koşul ve kurallarımızı kabul etmiş olursunuz</a>"
 
-#: tr/subscription.csv:10 
+#: tr/subscription.csv:10
 msgid "Charged to your client every month"
 msgstr "Aylık ücretlendirin"
 
-#: tr/subscription.csv:11 
+#: tr/subscription.csv:11
 msgid "Charged to your client every year"
 msgstr "Yıllık ücretlendirin"
 
-#: tr/subscription.csv:12 
+#: tr/subscription.csv:12
 msgid "Charged to your client when placing the order"
 msgstr "Sipariş verildiğinde ücretlendir."
 
-#: tr/subscription.csv:13 
+#: tr/subscription.csv:13
 msgid "Choose the subscription that suits you best:"
 msgstr "Size en uygun aboneliği seçin:"
 
-#: tr/subscription.csv:14 
+#: tr/subscription.csv:14
 msgid "Create a new subscription"
 msgstr "Yeni bir abonelik oluştur"
 
-#: tr/subscription.csv:15 
+#: tr/subscription.csv:15
 msgid "Creation"
 msgstr "Oluşturuluş"
 
-#: tr/subscription.csv:16 
+#: tr/subscription.csv:16
 msgid "Describe here this plan. Will be displayed on the front end"
 msgstr "Burada bu planı açıklayın. Ön uçta görüntülenir"
 
-#: tr/subscription.csv:17 
+#: tr/subscription.csv:17
 msgid "Each price must be entered excluding tax"
 msgstr "Her fiyat vergisi hariç girilmelidir"
 
-#: tr/subscription.csv:18 
+#: tr/subscription.csv:18
 msgid "Edit the subscription %s"
 msgstr "Aboneliği düzenleyin %s"
 
-#: tr/subscription.csv:19 
+#: tr/subscription.csv:19
 msgid "Expiration"
 msgstr "Bitiş"
 
-#: tr/subscription.csv:20 
+#: tr/subscription.csv:20
 msgid "Expiration date"
 msgstr "Bitiş tarihi"
 
-#: tr/subscription.csv:21 
+#: tr/subscription.csv:21
 msgid "Give a name to this plan. Will be displayed on the front end"
 msgstr "Bu plana bir isim verin. Ön uçta görüntülenir"
 
-#: tr/subscription.csv:22 
+#: tr/subscription.csv:22
 msgid "List of your plans"
 msgstr "Planlarınızın listesi"
 
-#: tr/subscription.csv:23 
+#: tr/subscription.csv:23
 msgid "List of your subscriptions"
 msgstr "Aboneleriinizin listesi"
 
-#: tr/subscription.csv:24 
+#: tr/subscription.csv:24
 msgid "None"
 msgstr "Hiçbiri"
 
-#: tr/subscription.csv:25 
+#: tr/subscription.csv:25
 msgid "One-off"
 msgstr "Kapalı"
 
-#: tr/subscription.csv:26 
+#: tr/subscription.csv:26
 msgid "Order's details"
 msgstr "Sipariş detayları"
 
-#: tr/subscription.csv:27 
+#: tr/subscription.csv:27
 msgid "Payment"
 msgstr "Ödeme"
 
-#: tr/subscription.csv:28 
+#: tr/subscription.csv:28
 msgid "Payment Option"
 msgstr "Ödeme seçenekleri"
 
-#: tr/subscription.csv:29 
-msgid "Payment secured by <img src="%s" width="100" title="Paypal" />"
-msgstr "Güvenli ödeme <img src="%s" width="100" title="Paypal" />"
+#: tr/subscription.csv:29
+msgid "Payment secured by <img src=\"%s\" width=\"100\" title=\"Paypal\" />"
+msgstr "Güvenli ödeme <img src=\"%s\" width=\"100\" title=\"Paypal\" />"
 
-#: tr/subscription.csv:30 
+#: tr/subscription.csv:30
 msgid "Please, enter a company"
 msgstr "Bir şirket girin"
 
-#: tr/subscription.csv:31 
+#: tr/subscription.csv:31
 msgid "Please, enter a country"
 msgstr "Bir ülke girin"
 
-#: tr/subscription.csv:32 
+#: tr/subscription.csv:32
 msgid "Please, enter a description."
 msgstr "Bir açıklama girin."
 
-#: tr/subscription.csv:33 
+#: tr/subscription.csv:33
 msgid "Please, enter a name."
 msgstr "İsim girin"
 
-#: tr/subscription.csv:34 
+#: tr/subscription.csv:34
 msgid "Please, enter an address"
 msgstr "Adres girin"
 
-#: tr/subscription.csv:35 
+#: tr/subscription.csv:35
 msgid "Pricing"
 msgstr "Ücretlendirme"
 
-#: tr/subscription.csv:36 
+#: tr/subscription.csv:36
 msgid "Proceed to payment?"
 msgstr "Ödeme yapılsın mı?"
 
-#: tr/subscription.csv:37 
+#: tr/subscription.csv:37
 msgid "Recurring"
 msgstr "Yenileme"
 
-#: tr/subscription.csv:38 
+#: tr/subscription.csv:38
 msgid "Setup Fee"
 msgstr "Kurulum Ücreti"
 
-#: tr/subscription.csv:39 
+#: tr/subscription.csv:39
 msgid "Setup fee"
 msgstr "Kurulum Ücreti"
 
-#: tr/subscription.csv:40 
+#: tr/subscription.csv:40
 msgid "Subscription"
 msgstr "Abonelik"
 
-#: tr/subscription.csv:41 
+#: tr/subscription.csv:41
 msgid "Subscription successfully saved"
 msgstr "Abonelik başarıyla kaydedildi"
 
-#: tr/subscription.csv:42 
+#: tr/subscription.csv:42
 msgid "Subtotal"
 msgstr "Alt toplam"
 
-#: tr/subscription.csv:43 
+#: tr/subscription.csv:43
 msgid "Thanks!"
 msgstr "Teşekkürler!"
 
-#: tr/subscription.csv:44 
+#: tr/subscription.csv:44
 msgid "The monthly price is not a valid price (e.g. 12.34)"
 msgstr "Aylık fiyat geçerli bir fiyat değil (örneğin 12,34)"
 
-#: tr/subscription.csv:45 
+#: tr/subscription.csv:45
 msgid "The setup fee is not a valid price (e.g. 12.34)"
 msgstr "Kurulum ücreti geçerli bir fiyat değil (örneğin 12,34)"
 
-#: tr/subscription.csv:46 
+#: tr/subscription.csv:46
 msgid "The yearly price is not a valid price (e.g. 12.34)"
 msgstr "Yıllık fiyat geçerli bir fiyat değil (örneğin 12,34)"
 
-#: tr/subscription.csv:47 
+#: tr/subscription.csv:47
 msgid "This subscription is active"
 msgstr "Bu abonelik aktif"
 
-#: tr/subscription.csv:48 
+#: tr/subscription.csv:48
 msgid "An error occurred while processing the payment. For more information, please feel free to contact us."
 msgstr "Ödeme işlenirken bir hata oluştu. Daha fazla bilgi için, bizimle temas kurmaktan çekinmeyin."
 
-#: tr/subscription.csv:49 
+#: tr/subscription.csv:49
 msgid "VAT Number"
 msgstr "KDV Numarası"
 
-#: tr/subscription.csv:50 
+#: tr/subscription.csv:50
 msgid "You already have a subscription for this application"
 msgstr "Zaten bu uygulama için bir aboneliğiniz var"
 
-#: tr/subscription.csv:51 
+#: tr/subscription.csv:51
 msgid "You don't have any subscriptions yet"
 msgstr "Henüz hiç abonelikleri yok"
 
-#: tr/subscription.csv:52 
+#: tr/subscription.csv:52
 msgid "You're almost done! After subscribing, we will publish your application on both the AppStore and the Google Play."
 msgstr "Neredeyse bitirdiniz! Abone olduktan sonra, App Store ve Google Play de hem yayınlayacağız."
 
-#: tr/subscription.csv:53 
+#: tr/subscription.csv:53
 msgid "Your VAT Number is not valid"
 msgstr "KDV Numaranız geçerli değil"
 
-#: tr/subscription.csv:54 
+#: tr/subscription.csv:54
 msgid "Your order has been canceled. If you need any help to place your order, please feel free to contact us."
 msgstr "Siparişiniz iptal edildi. Eğer sipariş için herhangi bir yardıma ihtiyacınız varsa, bizimle temas kurmaktan çekinmeyin lütfen."
 
-#: tr/subscription.csv:55 
+#: tr/subscription.csv:55
 msgid "Your order has been successfully paid. Your application will be published very soon."
 msgstr "Siparişiniz başarıyla ödenmiştir. Başvurunuz çok yakında yayınlanacaktır."
 
-#: tr/subscription.csv:56 
+#: tr/subscription.csv:56
 msgid "Your subscription must have at least one price"
 msgstr "Aboneliğiniz en az bir fiyata sahip olmalıdır"
 
-#: tr/subscription.csv:57 
+#: tr/subscription.csv:57
 msgid "price"
 msgstr "fiyat"
-

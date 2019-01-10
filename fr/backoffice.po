@@ -2,159 +2,158 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 15:36+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language: fr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-08 15:36+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/backoffice.csv:1 
+#: fr/backoffice.csv:1
 msgid "%d Unread Message"
 msgstr "%d message non lus"
 
-#: fr/backoffice.csv:2 
+#: fr/backoffice.csv:2
 msgid "%d Unread Messages"
 msgstr "%d messages non lus"
 
-#: fr/backoffice.csv:3 
+#: fr/backoffice.csv:3
 msgid "Account"
 msgstr "Compte"
 
-#: fr/backoffice.csv:4 
+#: fr/backoffice.csv:4
 msgid "Change the password"
 msgstr "Changer le mot de passe"
 
-#: fr/backoffice.csv:5 
+#: fr/backoffice.csv:5
 msgid "Click to mark as not read"
 msgstr "Cliquez pour marquer comme non lu"
 
-#: fr/backoffice.csv:6 
+#: fr/backoffice.csv:6
 msgid "Click to mark as read"
 msgstr "Cliquez pour marquer comme lu"
 
-#: fr/backoffice.csv:7 
+#: fr/backoffice.csv:7
 msgid "Create a user"
 msgstr "Créer un utilisateur"
 
-#: fr/backoffice.csv:8 
-msgid "Edit the account "%s""
-msgstr "Editer le compte "%s""
+#: fr/backoffice.csv:8
+msgid "Edit the account \"%s\""
+msgstr "Editer le compte \"%s\""
 
-#: fr/backoffice.csv:9 
+#: fr/backoffice.csv:9
 msgid "Edit the user"
 msgstr "Editer l'utilisateur"
 
-#: fr/backoffice.csv:10 
+#: fr/backoffice.csv:10
 msgid "Enter your credentials:"
 msgstr "Entrez vos informations:"
 
-#: fr/backoffice.csv:11 
+#: fr/backoffice.csv:11
 msgid "List of backoffice accounts"
 msgstr "Liste des comptes du backoffice"
 
-#: fr/backoffice.csv:12 
+#: fr/backoffice.csv:12
 msgid "List of the messages"
 msgstr "Liste des messages"
 
-#: fr/backoffice.csv:13 
+#: fr/backoffice.csv:13
 msgid "Login to your backoffice interface"
 msgstr "Connectez-vous à votre interface de backoffice"
 
-#: fr/backoffice.csv:14 
+#: fr/backoffice.csv:14
 msgid "People who are allowed to access the backoffice"
 msgstr "Les comptes qui sont autorisés à accéder au backoffice"
 
-#: fr/backoffice.csv:15 
+#: fr/backoffice.csv:15
 msgid "Siberian CMS"
 msgstr "Siberian CMS"
 
-#: fr/backoffice.csv:16 
+#: fr/backoffice.csv:16
 msgid "This account can't be deleted, it's the only one"
 msgstr "Ce compte ne peut pas être supprimé, il est le seul"
 
-#: fr/backoffice.csv:17 
+#: fr/backoffice.csv:17
 msgid "User successfully deleted"
 msgstr "Utilisateur supprimé avec succès"
 
-#: fr/backoffice.csv:18 
+#: fr/backoffice.csv:18
 msgid "View Details"
 msgstr "Voir les détails"
 
-#: fr/backoffice.csv:19 
+#: fr/backoffice.csv:19
 msgid "Your new password"
 msgstr "Votre nouveau mot de passe"
 
-#: fr/backoffice.csv:20 
+#: fr/backoffice.csv:20
 msgid "Your password"
 msgstr "Votre mot de passe"
 
-#: base/backoffice.csv:1 
+#: base/backoffice.csv:1
 msgid "60000 maximum allowed."
 msgstr "60000 caractères maximum."
 
-#: base/backoffice.csv:2 
+#: base/backoffice.csv:2
 msgid "A certificate already exists for the domain %s, if you want to re-generate it, use 'Force re-generate' to proceed."
-msgstr ""
-"Un certificat existes déjà pour le domaine %s, si vous voulez le remplacer "
-"cliquez sur 'Forcer la génération'."
+msgstr "Un certificat existes déjà pour le domaine %s, si vous voulez le remplacer cliquez sur 'Forcer la génération'."
 
-#: base/backoffice.csv:3 
+#: base/backoffice.csv:3
 msgid "[APK]"
 msgstr "[APK]"
 
-#: base/backoffice.csv:4 
+#: base/backoffice.csv:4
 msgid "APK Queue empty"
 msgstr "File d'attente APK vide"
 
-#: base/backoffice.csv:5 
+#: base/backoffice.csv:5
 msgid "APK Queue status"
 msgstr "Etat de la file d'attente APK"
 
-#: base/backoffice.csv:6 
+#: base/backoffice.csv:6
 msgid "APNS Feedback:"
 msgstr "Test APNS:"
 
-#: base/backoffice.csv:7 
+#: base/backoffice.csv:7
 msgid "APNS Feedback port 2196 is:"
 msgstr "Test APNS sur le port 2196:"
 
-#: base/backoffice.csv:8 
+#: base/backoffice.csv:8
 msgid "APNS Port 2195 is:"
 msgstr "Etat du port 2195 (APNS):"
 
-#: base/backoffice.csv:10 
+#: base/backoffice.csv:10
 msgid "Account Role"
 msgstr "Rôle utilisateur"
 
-#: base/backoffice.csv:11 
+#: base/backoffice.csv:11
 msgid "Actions"
 msgstr "Actions"
 
-#: base/backoffice.csv:12 
+#: base/backoffice.csv:12
 msgid "Activate VAT number check with VIES"
 msgstr "Activer la vérification du numéro de TVA via VIES"
 
-#: base/backoffice.csv:13 
+#: base/backoffice.csv:13
 msgid "Activate user"
 msgstr "Activer l'utilisateur"
 
-#: base/backoffice.csv:14 
+#: base/backoffice.csv:14
 msgid "Active ?"
 msgstr "Actif ?"
 
-#: base/backoffice.csv:15 
+#: base/backoffice.csv:15
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Ajouter un message personnalisé au bas de vos factures"
 
-#: base/backoffice.csv:16 
+#: base/backoffice.csv:16
 msgid "Admin panel type"
 msgstr "Nom de votre interface d'administration"
 
-#: base/backoffice.csv:17 
+#: base/backoffice.csv:17
 msgid "Advanced"
 msgstr "Avancé"
 

@@ -2,121 +2,122 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 09:49+0000\n"
-"PO-Revision-Date: 2019-01-09 09:49+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-09 09:49+0000\n"
+"PO-Revision-Date: 2019-01-09 09:49+0000\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/event.csv:1 
+#: es/event.csv:1
 msgid "Description:"
 msgstr "Descripción:"
 
-#: es/event.csv:2 
+#: es/event.csv:2
 msgid "Modify the event"
 msgstr "Modificar evento"
 
-#: es/event.csv:3 
+#: es/event.csv:3
 msgid "Create a new event"
 msgstr "Crear un nuevo evento"
 
-#: es/event.csv:4 
+#: es/event.csv:4
 msgid "Event title:"
 msgstr "Título del evento:"
 
-#: es/event.csv:5 
+#: es/event.csv:5
 msgid "Beginning date:"
 msgstr "Fecha de inicio:"
 
-#: es/event.csv:6 
+#: es/event.csv:6
 msgid "Ending date:"
 msgstr "Fecha de fin:"
 
-#: es/event.csv:7 
+#: es/event.csv:7
 msgid "Location:"
 msgstr "Ubicación:"
 
-#: es/event.csv:8 
+#: es/event.csv:8
 msgid "Change picture"
 msgstr "Cambiar imagen"
 
-#: es/event.csv:9 
+#: es/event.csv:9
 msgid "Add a picture"
 msgstr "Añadir una foto"
 
-#: es/event.csv:10 
+#: es/event.csv:10
 msgid "RSVP URL:"
 msgstr "URL RSVP:"
 
-#: es/event.csv:11 
+#: es/event.csv:11
 msgid "Title:"
 msgstr "Título:"
 
-#: es/event.csv:12 
+#: es/event.csv:12
 msgid "Enter your calendar's title"
 msgstr "Escriba el título de su calendario"
 
-#: es/event.csv:13 
+#: es/event.csv:13
 msgid "Calendar's title"
 msgstr "El título del calendario"
 
-#: es/event.csv:14 
+#: es/event.csv:14
 msgid "Your calendar is empty"
 msgstr "Su calendario está vacío"
 
-#: es/event.csv:15 
+#: es/event.csv:15
 msgid "Event"
 msgstr "Evento "
 
-#: es/event.csv:16 
+#: es/event.csv:16
 msgid "Delete this event?"
 msgstr "¿Desea eliminar este evento?"
 
-#: es/event.csv:17 
-msgid "Your Facebook page ID <span class="required-entry">*</span> :"
-msgstr "ID de su página Facebook <span class="required-entry">*</span> :"
+#: es/event.csv:17
+msgid "Your Facebook page ID <span class=\"required-entry\">*</span> :"
+msgstr "ID de su página Facebook <span class=\"required-entry\">*</span> :"
 
-#: es/event.csv:18 
+#: es/event.csv:18
 msgid "Your Facebook page ID"
 msgstr "ID de su página de Facebook:"
 
-#: es/event.csv:19 
+#: es/event.csv:19
 msgid "Calendar's URL"
 msgstr "URL del Calendario"
 
-#: es/event.csv:20 
+#: es/event.csv:20
 msgid "Send your pictures"
 msgstr "Envíe sus imágenes"
 
-#: es/event.csv:21 
+#: es/event.csv:21
 msgid "Delete this calendar?"
 msgstr "¿Desea eliminar este calendario?"
 
-#: es/event.csv:22 
+#: es/event.csv:22
 msgid "More events"
 msgstr "Más eventos"
 
-#: es/event.csv:23 
+#: es/event.csv:23
 msgid "Event successfully saved"
 msgstr "Evento guardado correctamente"
 
-#: es/event.csv:24 
+#: es/event.csv:24
 msgid "An error occurred while loading this event"
 msgstr "Se ha producido un error al cargar este evento"
 
-#: es/event.csv:25 
+#: es/event.csv:25
 msgid "Event successfully deleted"
 msgstr "Evento eliminado correctamente"
 
-#: es/event.csv:26 
+#: es/event.csv:26
 msgid "An error occurred while deleting the event"
 msgstr "Se ha producido un error al eliminar el evento"
 
-#: es/event.csv:27 
+#: es/event.csv:27
 msgid "Calendar successfully deleted"
 msgstr "Calendario eliminado correctamente"
 

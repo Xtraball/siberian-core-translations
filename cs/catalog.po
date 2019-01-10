@@ -1,138 +1,142 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/catalog.csv:1 
+#: cs/catalog.csv:1
 msgid "%s - All"
 msgstr "%s - Vše"
 
-#: cs/catalog.csv:2 
+#: cs/catalog.csv:2
 msgid "Add a category"
 msgstr "Přidat kategorii"
 
-#: cs/catalog.csv:3 
+#: cs/catalog.csv:3
 msgid "Add a format"
 msgstr "Přidat"
 
-#: cs/catalog.csv:4 
+#: cs/catalog.csv:4
 msgid "All"
 msgstr "Vše"
 
-#: cs/catalog.csv:5 
+#: cs/catalog.csv:5
 msgid "An error occurred while loading your product."
 msgstr "Při načítání produktu došlo k chybě."
 
-#: cs/catalog.csv:6 
+#: cs/catalog.csv:6
 msgid "An error occurred while saving the category. Please try again later."
 msgstr "Při ukládání kategorie došlo k chybě. Zkuste to prosím později."
 
-#: cs/catalog.csv:7 
+#: cs/catalog.csv:7
 msgid "An error occurred while saving the product. Please try again later."
 msgstr "Při ukládání produktu došlo k chybě. Zkuste to prosím později."
 
-#: cs/catalog.csv:8 
+#: cs/catalog.csv:8
 msgid "An error occurred while saving the set meal. Please try again later."
 msgstr "Při ukládání Menu došlo k chybě. Zkuste to prosím později."
 
-#: cs/catalog.csv:9 
+#: cs/catalog.csv:9
 msgid "An error occurred while saving. One of your categories could not be identified."
 msgstr "Při ukládání došlo k chybě. Jedena z vašich kategorií nešla identifikovat."
 
-#: cs/catalog.csv:10 
+#: cs/catalog.csv:10
 msgid "An error occurred while saving. One of your products could not be identified."
 msgstr "Při ukládání došlo k chybě. Jeden z vašich produktů nebylo možné identifikovat."
 
-#: cs/catalog.csv:11 
+#: cs/catalog.csv:11
 msgid "Are you sure you want to delete this product?"
 msgstr "Určitě chcete smazat tento produkt?"
 
-#: cs/catalog.csv:12 
+#: cs/catalog.csv:12
 msgid "Category"
 msgstr "Kategorie"
 
-#: cs/catalog.csv:13 
+#: cs/catalog.csv:13
 msgid "Choose a category"
 msgstr "Vyberte kategorii"
 
-#: cs/catalog.csv:14 
+#: cs/catalog.csv:14
 msgid "Choose a subcategory"
 msgstr "Vyberte podkategorii"
 
-#: cs/catalog.csv:15 
+#: cs/catalog.csv:15
 msgid "Click on a category to display sub-categories"
 msgstr "Kliknutím na kategorii zobrazíte podkategorie"
 
-#: cs/catalog.csv:16 
+#: cs/catalog.csv:16
 msgid "Create a new product"
 msgstr "Vytvořit nový produkt"
 
-#: cs/catalog.csv:17 
+#: cs/catalog.csv:17
 msgid "Does this product have many formats?"
 msgstr "Má tento výrobek má více formátů?"
 
-#: cs/catalog.csv:18 
+#: cs/catalog.csv:18
 msgid "Edit the"
 msgstr "Upravit"
 
-#: cs/catalog.csv:19 
+#: cs/catalog.csv:19
 msgid "Edit the product"
 msgstr "Upravit produkt"
 
-#: cs/catalog.csv:20 
+#: cs/catalog.csv:20
 msgid "Format"
 msgstr "Formát"
 
-#: cs/catalog.csv:21 
+#: cs/catalog.csv:21
 msgid "Picture"
 msgstr "Obrázek"
 
-#: cs/catalog.csv:22 
+#: cs/catalog.csv:22
 msgid "Price"
 msgstr "Cena"
 
-#: cs/catalog.csv:23 
+#: cs/catalog.csv:23
 msgid "Product"
 msgstr "Produkt"
 
-#: cs/catalog.csv:24 
+#: cs/catalog.csv:24
 msgid "Product formats"
 msgstr "Specifikace produktů"
 
-#: cs/catalog.csv:25 
+#: cs/catalog.csv:25
 msgid "Product name"
 msgstr "Název produktu"
 
-#: cs/catalog.csv:26 
+#: cs/catalog.csv:26
 msgid "Rules"
 msgstr "Pravidla"
 
-#: cs/catalog.csv:27 
+#: cs/catalog.csv:27
 msgid "Set meal successfully deleted."
 msgstr "Menu úspěšně odstraněno"
 
-#: cs/catalog.csv:28 
+#: cs/catalog.csv:28
 msgid "Set meal successfully saved."
 msgstr "Menu úspěšně uloženo"
 
-#: cs/catalog.csv:29 
+#: cs/catalog.csv:29
 msgid "Sub-category"
 msgstr "podkategorie"
 
-#: cs/catalog.csv:30 
+#: cs/catalog.csv:30
 msgid "st"
 msgstr "."
 
-#: cs/catalog.csv:31 
+#: cs/catalog.csv:31
 msgid "sub-category"
 msgstr "podkategorie"
 
-#: cs/catalog.csv:32 
+#: cs/catalog.csv:32
 msgid "﻿%s - All"
 msgstr "%s - Vše"
-

@@ -1,182 +1,186 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/admin.csv:1 
+#: cs/admin.csv:1
 msgid "%s - Your new password"
 msgstr "%s - Vaše nové heslo"
 
-#: cs/admin.csv:2 
+#: cs/admin.csv:2
 msgid "A request to reset your password has been made to log in to your administration panel."
 msgstr "Žádost o resetování hesla pro přihlášení do administračního panelu byla provedena."
 
-#: cs/admin.csv:3 
+#: cs/admin.csv:3
 msgid "Admin successfully deleted"
 msgstr "Správce úspěšně smazán"
 
-#: cs/admin.csv:4 
+#: cs/admin.csv:4
 msgid "An error occurred while saving. The country is not valid."
 msgstr "Při ukládání došlo k chybě. Země není platná."
 
-#: cs/admin.csv:5 
+#: cs/admin.csv:5
 msgid "Are you sure you want to delete this application?"
 msgstr "Jste si jisti, že chcete smazat tuto aplikaci?"
 
-#: cs/admin.csv:6 
+#: cs/admin.csv:6
 msgid "Can add pages"
 msgstr "Uživatel může přidávat stránky"
 
-#: cs/admin.csv:7 
+#: cs/admin.csv:7
 msgid "Change my password"
 msgstr "Změnit heslo"
 
-#: cs/admin.csv:8 
+#: cs/admin.csv:8
 msgid "Confirm your password"
 msgstr "Potvrďte heslo"
 
-#: cs/admin.csv:9 
+#: cs/admin.csv:9
 msgid "Create a new application"
 msgstr "Vytvořit novou aplikaci"
 
-#: cs/admin.csv:10 
+#: cs/admin.csv:10
 msgid "Create a new user"
 msgstr "Vytvořit nového uživatele"
 
-#: cs/admin.csv:11 
+#: cs/admin.csv:11
 msgid "Created At"
 msgstr "Vytvořeno"
 
-#: cs/admin.csv:12 
+#: cs/admin.csv:12
 msgid "Created at %s"
 msgstr "Vytvořeno %s"
 
-#: cs/admin.csv:13 
+#: cs/admin.csv:13
 msgid "Do not hesitate to give us your feedback by sharing your needs:"
 msgstr "Neváhejte nám zaslat Váš názor či žádost o radu:"
 
-#: cs/admin.csv:14 
-msgid "Edit the account "%s""
-msgstr "Upravit účet "%s""
+#: cs/admin.csv:14
+msgid "Edit the account \"%s\""
+msgstr "Upravit účet \"%s\""
 
-#: cs/admin.csv:15 
+#: cs/admin.csv:15
 msgid "Edit the user %s"
 msgstr "Upravit uživatele %s"
 
-#: cs/admin.csv:16 
+#: cs/admin.csv:16
 msgid "Enjoy!"
 msgstr "S pozdravem"
 
-#: cs/admin.csv:17 
+#: cs/admin.csv:17
 msgid "Find some advices here:"
 msgstr "Zde najdete užitečné rady:"
 
-#: cs/admin.csv:18 
+#: cs/admin.csv:18
 msgid "Here are your credentials, keep them preciously:"
 msgstr "Zde jsou Vaše přihlašovací údaje:"
 
-#: cs/admin.csv:19 
+#: cs/admin.csv:19
 msgid "List of admin accounts"
 msgstr "Seznam admin účtů"
 
-#: cs/admin.csv:20 
+#: cs/admin.csv:20
 msgid "List of my accounts"
 msgstr "Seznam mých účtů"
 
-#: cs/admin.csv:21 
+#: cs/admin.csv:21
 msgid "List of your users"
 msgstr "Seznam uživatelů"
 
-#: cs/admin.csv:22 
+#: cs/admin.csv:22
 msgid "Log-in As"
 msgstr "Přihlásit jako uživatel"
 
-#: cs/admin.csv:23 
+#: cs/admin.csv:23
 msgid "Manage access"
 msgstr "Správa přístupu"
 
-#: cs/admin.csv:24 
+#: cs/admin.csv:24
 msgid "My Applications"
 msgstr "Moje aplikace"
 
-#: cs/admin.csv:25 
+#: cs/admin.csv:25
 msgid "My information"
 msgstr "Můj účet"
 
-#: cs/admin.csv:26 
+#: cs/admin.csv:26
 msgid "Need some help?"
 msgstr "Potřebujete pomoc?"
 
-#: cs/admin.csv:27 
+#: cs/admin.csv:27
 msgid "Please enter a valid email address."
 msgstr "Zadejte prosím platnou e-mailovou adresu."
 
-#: cs/admin.csv:28 
+#: cs/admin.csv:28
 msgid "Please, enter an application name"
 msgstr "Prosím, zadejte název aplikace"
 
-#: cs/admin.csv:29 
+#: cs/admin.csv:29
 msgid "Ready to create your own apps?"
 msgstr "Jste připraveni vytvořit si vlasní mobilní aplikaci?"
 
-#: cs/admin.csv:30 
+#: cs/admin.csv:30
 msgid "Sign up"
 msgstr "Zaregistrujte se"
 
-#: cs/admin.csv:31 
+#: cs/admin.csv:31
 msgid "Thanks for choosing us!"
 msgstr "VÁŠ ÚČET BYL VYTVOŘEN! Děkujeme, že jste si vybrali unikátní platformu pro výrobu mobilních aplikací od společnosti apptime.cz!"
 
-#: cs/admin.csv:32 
+#: cs/admin.csv:32
 msgid "The Support Team"
 msgstr "Tým apptime.cz"
 
-#: cs/admin.csv:33 
+#: cs/admin.csv:33
 msgid "The password and the confirmation does not match."
 msgstr "Heslo a potvrzení hesla se neshodují!"
 
-#: cs/admin.csv:34 
+#: cs/admin.csv:34
 msgid "The password must be at least 6 characters."
 msgstr "Heslo musí být alespoň 6 znaků"
 
-#: cs/admin.csv:35 
+#: cs/admin.csv:35
 msgid "We are sorry but this email address is already used."
 msgstr "Je nám líto, ale tato e-mailová adresa je již používána."
 
-#: cs/admin.csv:36 
+#: cs/admin.csv:36
 msgid "Welcome!"
 msgstr "Vítejte v apptime.cz!"
 
-#: cs/admin.csv:37 
+#: cs/admin.csv:37
 msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
 msgstr "Naše platforma se Vám bude opravdu líbit! Díky velkému množství funkcí/modulů lze vytvořit úžasné mobilní aplikace pro každý druh podnikání.  "
 
-#: cs/admin.csv:38 
+#: cs/admin.csv:38
 msgid "You can't delete the main account"
 msgstr "Hlavní účet nelze odstranit"
 
-#: cs/admin.csv:39 
+#: cs/admin.csv:39
 msgid "You don't have any users yet"
 msgstr "Zatím nemáte žádné uživatele"
 
-#: cs/admin.csv:40 
+#: cs/admin.csv:40
 msgid "Your credentials"
 msgstr "Vaše přihlašovací údaje"
 
-#: cs/admin.csv:41 
+#: cs/admin.csv:41
 msgid "Your login:"
 msgstr "Váš přihlašovací email:"
 
-#: cs/admin.csv:42 
+#: cs/admin.csv:42
 msgid "Your password:"
 msgstr "Vaše heslo:"
 
-#: cs/admin.csv:43 
+#: cs/admin.csv:43
 msgid "﻿%s - Your new password"
 msgstr "%s - Vaše nové heslo"
-

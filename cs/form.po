@@ -1,138 +1,142 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/form.csv:1 
+#: cs/form.csv:1
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong>, musí být číselná hodnota<br/>"
 
-#: cs/form.csv:2 
+#: cs/form.csv:2
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong>, musí být platné datum (např. dd/mm/rrrr)<br/>"
 
-#: cs/form.csv:3 
+#: cs/form.csv:3
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong>, musí být platné datum<br/>"
 
-#: cs/form.csv:4 
+#: cs/form.csv:4
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong>, musí být platná e-mailová adresa<br/>"
 
-#: cs/form.csv:5 
+#: cs/form.csv:5
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> je nutné vyplnit<br/>"
 
-#: cs/form.csv:6 
+#: cs/form.csv:6
 msgid "Add a field"
 msgstr "Přidat pole formuláře"
 
-#: cs/form.csv:7 
+#: cs/form.csv:7
 msgid "Add a section"
 msgstr "Přidat sekci"
 
-#: cs/form.csv:8 
+#: cs/form.csv:8
 msgid "Add an option"
 msgstr "Přidat možnost"
 
-#: cs/form.csv:9 
+#: cs/form.csv:9
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Při ukládání došlo k chybě. Pole nelze identifikovat."
 
-#: cs/form.csv:10 
+#: cs/form.csv:10
 msgid "Are you sure you want to remove this field?"
 msgstr "Určitě chcete odstranit toto pole?"
 
-#: cs/form.csv:11 
+#: cs/form.csv:11
 msgid "Are you sure you want to remove this section?"
 msgstr "Určitě chcete odstranit tuto sekci?"
 
-#: cs/form.csv:12 
+#: cs/form.csv:12
 msgid "Checkbox"
 msgstr "Checkbox - výběr více možností"
 
-#: cs/form.csv:13 
+#: cs/form.csv:13
 msgid "Choose a field type:"
 msgstr "Vyberte typ pole:"
 
-#: cs/form.csv:14 
+#: cs/form.csv:14
 msgid "Create a new field"
 msgstr "Vytvořit nové pole formuláře"
 
-#: cs/form.csv:15 
+#: cs/form.csv:15
 msgid "Date/Hour"
 msgstr "Datum a čas"
 
-#: cs/form.csv:16 
+#: cs/form.csv:16
 msgid "Drop down"
 msgstr "Drop down menu - výběr z rolovacího seznamu"
 
-#: cs/form.csv:17 
+#: cs/form.csv:17
 msgid "Edit field %s"
 msgstr "Upravit pole %s"
 
-#: cs/form.csv:18 
+#: cs/form.csv:18
 msgid "Field name"
 msgstr "Název pole"
 
-#: cs/form.csv:19 
+#: cs/form.csv:19
 msgid "Field name:"
 msgstr "Název pole:"
 
-#: cs/form.csv:20 
+#: cs/form.csv:20
 msgid "Geolocation"
 msgstr "Lokalizace aktualní polohy"
 
-#: cs/form.csv:21 
+#: cs/form.csv:21
 msgid "Hello,"
 msgstr "Dobrý den,"
 
-#: cs/form.csv:22 
+#: cs/form.csv:22
 msgid "Manage fields"
 msgstr "Struktura formuláře"
 
-#: cs/form.csv:23 
+#: cs/form.csv:23
 msgid "Manage options:"
 msgstr "Možnosti:"
 
-#: cs/form.csv:24 
+#: cs/form.csv:24
 msgid "Multiline text"
 msgstr "Textové pole - rozšířené"
 
-#: cs/form.csv:25 
+#: cs/form.csv:25
 msgid "Option"
 msgstr "Volba"
 
-#: cs/form.csv:26 
+#: cs/form.csv:26
 msgid "Radio"
 msgstr "Radio button - výběr jedné z možností"
 
-#: cs/form.csv:27 
+#: cs/form.csv:27
 msgid "Recipient email:"
 msgstr "E-mail příjemce formuláře:"
 
-#: cs/form.csv:28 
+#: cs/form.csv:28
 msgid "The form has been sent successfully"
 msgstr "Formulář byl úspěšně odeslán"
 
-#: cs/form.csv:29 
+#: cs/form.csv:29
 msgid "You have to choose a field type."
 msgstr "Můžete si vybrat typ pole"
 
-#: cs/form.csv:30 
+#: cs/form.csv:30
 msgid "Your app's form"
 msgstr "Formulář vaší aplikace"
 
-#: cs/form.csv:31 
+#: cs/form.csv:31
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Vyplněný formulář z Vaší mobilní aplikace.  Zde jsou odpovědi:"
 
-#: cs/form.csv:32 
+#: cs/form.csv:32
 msgid "﻿<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong>, musí být číselná hodnota<br/>"
-

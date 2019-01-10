@@ -1,78 +1,82 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/socialgaming.csv:1 
+#: cs/socialgaming.csv:1
 msgid "%s point%s"
 msgstr "%s bod%s"
 
-#: cs/socialgaming.csv:2 
+#: cs/socialgaming.csv:2
 msgid "A month"
 msgstr "Měsíčně"
 
-#: cs/socialgaming.csv:3 
+#: cs/socialgaming.csv:3
 msgid "A week"
 msgstr "Týdně"
 
-#: cs/socialgaming.csv:4 
+#: cs/socialgaming.csv:4
 msgid "Challengers"
 msgstr "Soutěžící"
 
-#: cs/socialgaming.csv:5 
+#: cs/socialgaming.csv:5
 msgid "Current game"
 msgstr "Aktuální hra"
 
-#: cs/socialgaming.csv:6 
+#: cs/socialgaming.csv:6
 msgid "Currently no challengers"
 msgstr "Aktuálně nikdo nesoutěží"
 
-#: cs/socialgaming.csv:7 
+#: cs/socialgaming.csv:7
 msgid "Game Name"
 msgstr "Název hry"
 
-#: cs/socialgaming.csv:8 
+#: cs/socialgaming.csv:8
 msgid "Game successfully saved"
 msgstr "Hra byla úspěšně uložena"
 
-#: cs/socialgaming.csv:9 
+#: cs/socialgaming.csv:9
 msgid "Next game"
 msgstr "Další hra"
 
-#: cs/socialgaming.csv:10 
+#: cs/socialgaming.csv:10
 msgid "On the"
 msgstr "Na"
 
-#: cs/socialgaming.csv:11 
+#: cs/socialgaming.csv:11
 msgid "Period"
 msgstr "Období"
 
-#: cs/socialgaming.csv:12 
+#: cs/socialgaming.csv:12
 msgid "Periodicity"
 msgstr "Opakování"
 
-#: cs/socialgaming.csv:13 
+#: cs/socialgaming.csv:13
 msgid "Publication date"
 msgstr "Datum vydání"
 
-#: cs/socialgaming.csv:14 
+#: cs/socialgaming.csv:14
 msgid "Rank of the month"
 msgstr "Žebříček měsíce"
 
-#: cs/socialgaming.csv:15 
+#: cs/socialgaming.csv:15
 msgid "Rank of the week"
 msgstr "Žebříček týdne"
 
-#: cs/socialgaming.csv:16 
+#: cs/socialgaming.csv:16
 msgid "Team Leader"
 msgstr "První v pořadí"
 
-#: cs/socialgaming.csv:17 
+#: cs/socialgaming.csv:17
 msgid "﻿%s point%s"
 msgstr "%s bod%s"
-

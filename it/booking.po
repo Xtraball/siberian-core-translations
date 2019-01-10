@@ -1,106 +1,110 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: it\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: it\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/booking.csv:1 
+#: it/booking.csv:1
 msgid "Booking details"
 msgstr "Dettagli prenotazione"
 
-#: it/booking.csv:2 
+#: it/booking.csv:2
 msgid "Booking details:"
 msgstr "Dettagli prenotazione:"
 
-#: it/booking.csv:3 
+#: it/booking.csv:3
 msgid "Booking subject:"
 msgstr "Oggetto prenotazione:"
 
-#: it/booking.csv:4 
+#: it/booking.csv:4
 msgid "Comment:"
 msgstr "Commenti:"
 
-#: it/booking.csv:5 
+#: it/booking.csv:5
 msgid "Date and time"
 msgstr "Data e ora"
 
-#: it/booking.csv:6 
+#: it/booking.csv:6
 msgid "Date and time:"
 msgstr "Data e ora:"
 
-#: it/booking.csv:7 
+#: it/booking.csv:7
 msgid "Email address:"
 msgstr "Indirizzo email"
 
-#: it/booking.csv:8 
+#: it/booking.csv:8
 msgid "Enter the location name and contact email:"
 msgstr "Immettere la posizione ed il contatto mail"
 
-#: it/booking.csv:9 
+#: it/booking.csv:9
 msgid "First name / Last name"
 msgstr "Nome/Cognome"
 
-#: it/booking.csv:10 
+#: it/booking.csv:10
 msgid "Here are his personal information:"
 msgstr "Ecco le tue informazioni personali:"
 
-#: it/booking.csv:11 
+#: it/booking.csv:11
 msgid "Name:"
 msgstr "Nome:"
 
-#: it/booking.csv:12 
+#: it/booking.csv:12
 msgid "Nom du lieu :"
 msgstr "Nome località:"
 
-#: it/booking.csv:13 
+#: it/booking.csv:13
 msgid "People number:"
 msgstr "Numero di persone"
 
-#: it/booking.csv:14 
+#: it/booking.csv:14
 msgid "Phone number:"
 msgstr "Numero di telefono"
 
-#: it/booking.csv:15 
+#: it/booking.csv:15
 msgid "Please fill out the following fields: "
 msgstr "Si prega di compilare i seguenti campi:"
 
-#: it/booking.csv:16 
+#: it/booking.csv:16
 msgid "Please fill out the following fields:<br />"
 msgstr "Si prega di compilare i seguenti campi:<br />"
 
-#: it/booking.csv:17 
+#: it/booking.csv:17
 msgid "Please, choose a store"
 msgstr "Scegli lo store"
 
-#: it/booking.csv:18 
+#: it/booking.csv:18
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Grazie per la richiesta, ti informeremo al più presto"
 
-#: it/booking.csv:19 
+#: it/booking.csv:19
 msgid "The booking information"
 msgstr "Informazione di prenotazione"
 
-#: it/booking.csv:20 
+#: it/booking.csv:20
 msgid "The booking informations"
 msgstr "Informazioni di prenotazione"
 
-#: it/booking.csv:21 
+#: it/booking.csv:21
 msgid "The date and time of the booking"
 msgstr "Data e ora della prenotazione"
 
-#: it/booking.csv:22 
+#: it/booking.csv:22
 msgid "The number of people"
 msgstr "Numero di persone"
 
-#: it/booking.csv:23 
+#: it/booking.csv:23
 msgid "You have received a message for the booking of"
 msgstr "È stato ricevuto un messaggio per la prenotazione di"
 
-#: it/booking.csv:24 
+#: it/booking.csv:24
 msgid "Your phone number or email address"
 msgstr "Il tuo numero di telefono o l'indirizzo e-mail"
-

@@ -1,142 +1,139 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/booking.csv:1 
+#: es/booking.csv:1
 msgid "Location:"
 msgstr "Ubicación:"
 
-#: es/booking.csv:2 
+#: es/booking.csv:2
 msgid "Enter the location name and contact email:"
 msgstr "Introduzca la ubicación y correo electrónico:"
 
-#: es/booking.csv:3 
+#: es/booking.csv:3
 msgid "First name / Last name"
 msgstr "Nombre / Apellidos:"
 
-#: es/booking.csv:4 
+#: es/booking.csv:4
+#: es/booking.csv:31
 msgid "People number:"
 msgstr "Número de personas:"
 
-#: es/booking.csv:5 
+#: es/booking.csv:5
 msgid "Date and time"
 msgstr "Fecha y hora:"
 
-#: es/booking.csv:6 
+#: es/booking.csv:6
 msgid "Booking details"
 msgstr "Detalles de la reserva:"
 
-#: es/booking.csv:7 
+#: es/booking.csv:7
 msgid "Your name"
 msgstr "Su nombre"
 
-#: es/booking.csv:8 
+#: es/booking.csv:8
 msgid "Your chosen location"
 msgstr "Elija su ubicación"
 
-#: es/booking.csv:9 
+#: es/booking.csv:9
 msgid "Your phone number or email address"
 msgstr "Su número de teléfono o dirección de correo electrónico"
 
-#: es/booking.csv:10 
+#: es/booking.csv:10
 msgid "The number of people"
 msgstr "El número de personas"
 
-#: es/booking.csv:11 
+#: es/booking.csv:11
 msgid "The date and time of the booking"
 msgstr "La fecha y la hora de la reserva"
 
-#: es/booking.csv:12 
+#: es/booking.csv:12
 msgid "The booking informations"
 msgstr "Información sobre la reserva"
 
-#: es/booking.csv:13 
+#: es/booking.csv:13
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Gracias por su mensaje. Contestaremos lo antes posible."
 
-#: es/booking.csv:14 
+#: es/booking.csv:14
 msgid "An error occurred while sending your message. We apologize and ask you to try later."
 msgstr "Ha ocurrido un error enviando su mensaje. Discúlpenos y por favor inténtelo más tarde."
 
-#: es/booking.csv:15 
+#: es/booking.csv:15
 msgid "SEND"
 msgstr "ENVIAR"
 
-#: es/booking.csv:16 
+#: es/booking.csv:16
 msgid "MM dd yy"
 msgstr "dd MM yy"
 
-#: es/booking.csv:17 
+#: es/booking.csv:17
 msgid "Mddyy"
 msgstr "ddMyy"
 
-#: es/booking.csv:18 
+#: es/booking.csv:18
 msgid "hh:ii A"
 msgstr "HH:ii"
 
-#: es/booking.csv:19 
+#: es/booking.csv:19
 msgid "hhiiA"
 msgstr "HHii"
 
-#: es/booking.csv:20 
+#: es/booking.csv:20
 msgid "Please, choose a store"
 msgstr "Por favor, elija una tienda"
 
-#: es/booking.csv:21 
+#: es/booking.csv:21
 msgid "Message from your app %s"
 msgstr "Mensaje desde su App %s"
 
-#: es/booking.csv:22 
+#: es/booking.csv:22
 msgid "Please fill out the following fields:<br />"
 msgstr "Por favor, rellene los siguientes campos: <br/>"
 
-#: es/booking.csv:23 
-msgid ""
-msgstr ""
-
-#: es/booking.csv:24 
+#: es/booking.csv:24
 msgid "You have received a message for the booking of"
 msgstr "Usted recibió un mensaje relativo a la reserva de "
 
-#: es/booking.csv:25 
+#: es/booking.csv:25
 msgid "Here are his personal information:"
 msgstr "Esto es sus señas:"
 
-#: es/booking.csv:26 
+#: es/booking.csv:26
 msgid "Name:"
 msgstr "Apellido:"
 
-#: es/booking.csv:27 
+#: es/booking.csv:27
 msgid "Phone number:"
 msgstr "Teléfono:"
 
-#: es/booking.csv:28 
+#: es/booking.csv:28
 msgid "Email address:"
 msgstr "Correo electrónico:"
 
-#: es/booking.csv:29 
+#: es/booking.csv:29
 msgid "Booking details:"
 msgstr "Detalles de la reserva:"
 
-#: es/booking.csv:30 
+#: es/booking.csv:30
 msgid "Date and time:"
 msgstr "Horario: "
 
-#: es/booking.csv:31 
-msgid "People number:"
-msgstr "Nùmero de personas:"
-
-#: es/booking.csv:32 
+#: es/booking.csv:32
 msgid "Booking subject:"
 msgstr "Objeto:"
 
-#: es/booking.csv:33 
+#: es/booking.csv:33
 msgid "Comment:"
 msgstr "Comentario:"
-

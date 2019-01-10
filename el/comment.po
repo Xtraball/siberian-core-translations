@@ -1,130 +1,134 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/comment.csv:1 
+#: el/comment.csv:1
 msgid "'Near me' radius (in km):"
 msgstr "«Κοντά μου» ακτίνα (σε χλμ):"
 
-#: el/comment.csv:2 
+#: el/comment.csv:2
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "Παρουσιάστηκε σφάλμα κατά τη διαγραφή αυτής της απάντησης. Παρακαλώ δοκιμάστε ξανά αργότερα."
 
-#: el/comment.csv:3 
+#: el/comment.csv:3
 msgid "Create a news"
 msgstr "Δημιουργήστε μια νέα"
 
-#: el/comment.csv:4 
+#: el/comment.csv:4
 msgid "Create a news:"
 msgstr "Δημιουργήστε μια νέα:"
 
-#: el/comment.csv:5 
+#: el/comment.csv:5
 msgid "Hide this info"
 msgstr "Απέκρυψε αυτές τις πληροφορίες"
 
-#: el/comment.csv:6 
+#: el/comment.csv:6
 msgid "Information successfully deleted"
 msgstr "Πληροφορίες διαγράφηκαν με επιτυχία"
 
-#: el/comment.csv:7 
+#: el/comment.csv:7
 msgid "Information successfully hidden"
 msgstr "Κρυμμένες πληροφορίες επιτυχώς"
 
-#: el/comment.csv:8 
+#: el/comment.csv:8
 msgid "Information successfully saved"
 msgstr "Πληροφορίες αποθηκεύτηκαν με επιτυχία"
 
-#: el/comment.csv:9 
+#: el/comment.csv:9
 msgid "Information successfully shown"
 msgstr "Πληροφορίες φαίνονται επιτυχώς"
 
-#: el/comment.csv:10 
+#: el/comment.csv:10
 msgid "Insert a"
 msgstr "Τοποθετήστε ένα"
 
-#: el/comment.csv:11 
+#: el/comment.csv:11
 msgid "It will be visible only after validation by our team."
 msgstr "Θα είναι ορατό μόνο μετά την επικύρωση από την ομάδα μας."
 
-#: el/comment.csv:12 
+#: el/comment.csv:12
 msgid "My customers answers"
 msgstr "Οι απαντήσεις των πελατών μου"
 
-#: el/comment.csv:13 
+#: el/comment.csv:13
 msgid "My customers' comments"
 msgstr "Σχόλια πελατών μου"
 
-#: el/comment.csv:14 
+#: el/comment.csv:14
 msgid "Near me"
 msgstr "Κοντά μου"
 
-#: el/comment.csv:15 
+#: el/comment.csv:15
 msgid "Near me settings"
 msgstr "Κοντινές μου ρυθμίσεις"
 
-#: el/comment.csv:16 
+#: el/comment.csv:16
 msgid "Post"
 msgstr "Δημοσίευση"
 
-#: el/comment.csv:17 
+#: el/comment.csv:17
 msgid "Publishing date"
 msgstr "Ημερομηνία Δημοσίευσης"
 
-#: el/comment.csv:18 
+#: el/comment.csv:18
 msgid "Radius"
 msgstr "Ακτίνα"
 
-#: el/comment.csv:19 
+#: el/comment.csv:19
 msgid "Radius must be a valid numeric value."
 msgstr "Η ακτίνα πρέπει να είναι μια έγκυρη αριθμητική τιμή."
 
-#: el/comment.csv:20 
+#: el/comment.csv:20
 msgid "Radius must be provided."
 msgstr "Πρέπει να παρέχεται ακτίνα."
 
-#: el/comment.csv:21 
+#: el/comment.csv:21
 msgid "Recent"
 msgstr "Πρόσφατος"
 
-#: el/comment.csv:22 
+#: el/comment.csv:22
 msgid "Show this info"
 msgstr "Δείτε αυτές τις πληροφορίες"
 
-#: el/comment.csv:23 
+#: el/comment.csv:23
 msgid "There is no comment for this news"
 msgstr "Δεν υπάρχει κανένα σχόλιο για αυτή την είδηση"
 
-#: el/comment.csv:24 
+#: el/comment.csv:24
 msgid "Was flagged as inappropriate"
 msgstr "Επισημάνθηκε ως ακατάλληλο"
 
-#: el/comment.csv:25 
+#: el/comment.csv:25
 msgid "You can't like more than once the same news"
 msgstr "Δεν μπορείτε να σας αρέσει περισσότερο από μία φορά οι ίδιες ειδήσεις"
 
-#: el/comment.csv:26 
+#: el/comment.csv:26
 msgid "You need to be connected to create a post"
 msgstr "Θα πρέπει να είστε συνδεδεμένοι για να δημιουργήσει μια δημοσίευση"
 
-#: el/comment.csv:27 
+#: el/comment.csv:27
 msgid "Your flag has successfully been notified"
 msgstr "Η σημαία σας έχει κοινοποιηθεί επιτυχώς"
 
-#: el/comment.csv:28 
+#: el/comment.csv:28
 msgid "Your like has been successfully added"
 msgstr "Το μου αρέσει έχει προστεθεί με επιτυχία"
 
-#: el/comment.csv:29 
+#: el/comment.csv:29
 msgid "Your message has been successfully saved."
 msgstr "Το μήνυμά σας έχει αποθηκευτεί με επιτυχία."
 
-#: el/comment.csv:30 
+#: el/comment.csv:30
 msgid "Your post was successfully added"
 msgstr "Η δημοσίευση σας προστέθηκε με επιτυχία"
-

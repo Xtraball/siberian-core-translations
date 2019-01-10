@@ -1,118 +1,122 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/cms.csv:1 
+#: cs/cms.csv:1
 msgid ".mp4 or .3gp format"
 msgstr ".mp4 nebo .3gp formát"
 
-#: cs/cms.csv:2 
+#: cs/cms.csv:2
 msgid "Add "
 msgstr "Přidat"
 
-#: cs/cms.csv:3 
+#: cs/cms.csv:3
 msgid "Add sections:"
 msgstr "Přidat sekci:"
 
-#: cs/cms.csv:4 
+#: cs/cms.csv:4
 msgid "Address:"
 msgstr "Adresa:"
 
-#: cs/cms.csv:5 
+#: cs/cms.csv:5
 msgid "Alignment:"
 msgstr "Zarovnání:"
 
-#: cs/cms.csv:6 
+#: cs/cms.csv:6
 msgid "An error occurred while saving your page."
 msgstr "Při ukládání se vyskytla chyba"
 
-#: cs/cms.csv:7 
+#: cs/cms.csv:7
 msgid "Are you sure you want to delete this page?"
 msgstr "Určitě chcete smazat tuto stránku?"
 
-#: cs/cms.csv:8 
+#: cs/cms.csv:8
 msgid "Display address"
 msgstr "Zobrazit adresu"
 
-#: cs/cms.csv:9 
+#: cs/cms.csv:9
 msgid "Display location button"
 msgstr "Zobrazit tlačítko pro mapu"
 
-#: cs/cms.csv:10 
+#: cs/cms.csv:10
 msgid "Label"
 msgstr "Název"
 
-#: cs/cms.csv:11 
+#: cs/cms.csv:11
 msgid "Label:"
 msgstr "Název:"
 
-#: cs/cms.csv:12 
+#: cs/cms.csv:12
 msgid "Large"
 msgstr "Velký"
 
-#: cs/cms.csv:13 
+#: cs/cms.csv:13
 msgid "Loading picture:"
 msgstr "Nahrát obrázek:"
 
-#: cs/cms.csv:14 
+#: cs/cms.csv:14
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Vyhledejte nebo zadejte Youtube adresu:"
 
-#: cs/cms.csv:15 
+#: cs/cms.csv:15
 msgid "Medium"
 msgstr "Střední"
 
-#: cs/cms.csv:16 
+#: cs/cms.csv:16
 msgid "My Youtube video:"
 msgstr "Moje YouTube Videa"
 
-#: cs/cms.csv:17 
+#: cs/cms.csv:17
 msgid "My video"
 msgstr "Moje videa"
 
-#: cs/cms.csv:18 
+#: cs/cms.csv:18
 msgid "No videos matching your selection"
 msgstr "Žádné video nesouhlasí s Vaším výběrem"
 
-#: cs/cms.csv:19 
+#: cs/cms.csv:19
 msgid "Page successfully deleted"
 msgstr "Stránka byla úspěšně smazána"
 
-#: cs/cms.csv:20 
+#: cs/cms.csv:20
 msgid "Page successfully saved"
 msgstr "Stránka byla úspěšně uložena"
 
-#: cs/cms.csv:21 
+#: cs/cms.csv:21
 msgid "Podcast URL:"
 msgstr "Podcast URL:"
 
-#: cs/cms.csv:22 
+#: cs/cms.csv:22
 msgid "Select a button type:"
 msgstr "Vyberte typ tlačítka"
 
-#: cs/cms.csv:23 
+#: cs/cms.csv:23
 msgid "Select a video type:"
 msgstr "Vyberte typ videa"
 
-#: cs/cms.csv:24 
+#: cs/cms.csv:24
 msgid "Small"
 msgstr "Malý"
 
-#: cs/cms.csv:25 
+#: cs/cms.csv:25
 msgid "Video URL:"
 msgstr "Video URL:"
 
-#: cs/cms.csv:26 
+#: cs/cms.csv:26
 msgid "Your Podcast:"
 msgstr "Váš Podcast:"
 
-#: cs/cms.csv:27 
+#: cs/cms.csv:27
 msgid "﻿.mp4 or .3gp format"
 msgstr ".mp4 nebo .3gp formát"
-

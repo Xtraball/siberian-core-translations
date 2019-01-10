@@ -1,134 +1,138 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/form.csv:1 
+#: ru/form.csv:1
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> должно быть числовое значение<br />"
 
-#: ru/form.csv:2 
+#: ru/form.csv:2
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong> должна быть действительная дата (например дд/мм/год)<br />"
 
-#: ru/form.csv:3 
+#: ru/form.csv:3
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</должна быть действительная дата<br />"
 
-#: ru/form.csv:4 
+#: ru/form.csv:4
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> должен быть действительный адрес электронной почты<br />"
 
-#: ru/form.csv:5 
+#: ru/form.csv:5
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> нужно заполнить<br />"
 
-#: ru/form.csv:6 
+#: ru/form.csv:6
 msgid "Add a field"
 msgstr "Добавить поле"
 
-#: ru/form.csv:7 
+#: ru/form.csv:7
 msgid "Add a section"
 msgstr "Добавить раздел"
 
-#: ru/form.csv:8 
+#: ru/form.csv:8
 msgid "Add an option"
 msgstr "Добавить опцию"
 
-#: ru/form.csv:9 
+#: ru/form.csv:9
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Произошла ошибка при сохранении. Поле не может быть идентифицировано."
 
-#: ru/form.csv:10 
+#: ru/form.csv:10
 msgid "Are you sure you want to remove this field?"
 msgstr "Вы уверены, что хотите удалить это поле?"
 
-#: ru/form.csv:11 
+#: ru/form.csv:11
 msgid "Are you sure you want to remove this section?"
 msgstr "Вы уверены, что хотите удалить этот раздел?"
 
-#: ru/form.csv:12 
+#: ru/form.csv:12
 msgid "Hello,"
 msgstr "Привет,"
 
-#: ru/form.csv:13 
+#: ru/form.csv:13
 msgid "Checkbox"
 msgstr "Флажок"
 
-#: ru/form.csv:14 
+#: ru/form.csv:14
 msgid "Choose a field type:"
 msgstr "Выберите тип поля:"
 
-#: ru/form.csv:15 
+#: ru/form.csv:15
 msgid "Create a new field"
 msgstr "Создать новое поле"
 
-#: ru/form.csv:16 
+#: ru/form.csv:16
 msgid "Date/Hour"
 msgstr "Дата / час"
 
-#: ru/form.csv:17 
+#: ru/form.csv:17
 msgid "Drop down"
 msgstr "Вниз"
 
-#: ru/form.csv:18 
+#: ru/form.csv:18
 msgid "Edit field %s"
 msgstr "Редактировать поле %s"
 
-#: ru/form.csv:19 
+#: ru/form.csv:19
 msgid "Field name"
 msgstr "Наименование поля"
 
-#: ru/form.csv:20 
+#: ru/form.csv:20
 msgid "Field name:"
 msgstr "Наименование поля:"
 
-#: ru/form.csv:21 
+#: ru/form.csv:21
 msgid "Geolocation"
 msgstr "Геолокация"
 
-#: ru/form.csv:22 
+#: ru/form.csv:22
 msgid "Manage fields"
 msgstr "Управление полем"
 
-#: ru/form.csv:23 
+#: ru/form.csv:23
 msgid "Manage options:"
 msgstr "Управление параметрами:"
 
-#: ru/form.csv:24 
+#: ru/form.csv:24
 msgid "Multiline text"
 msgstr "Текст многострочный"
 
-#: ru/form.csv:25 
+#: ru/form.csv:25
 msgid "Option"
 msgstr "Опция"
 
-#: ru/form.csv:26 
+#: ru/form.csv:26
 msgid "Radio"
 msgstr "Радио"
 
-#: ru/form.csv:27 
+#: ru/form.csv:27
 msgid "Recipient email:"
 msgstr "Адрес электронной почты получателя:"
 
-#: ru/form.csv:28 
+#: ru/form.csv:28
 msgid "The form has been sent successfully"
 msgstr "Форма успешно отправлена"
 
-#: ru/form.csv:29 
+#: ru/form.csv:29
 msgid "You have to choose a field type."
 msgstr "Вы должны выбрать тип поля."
 
-#: ru/form.csv:30 
+#: ru/form.csv:30
 msgid "Your app's form"
 msgstr "Форма вашего приложения"
 
-#: ru/form.csv:31 
+#: ru/form.csv:31
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Ваша форма была заполнена, вот ответы:"
-

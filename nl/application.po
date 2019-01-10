@@ -1,746 +1,750 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: nl\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/application.csv:1 
+#: nl/application.csv:1
 msgid "1. Download the app previewer:"
 msgstr "1. Download de app  previewer:"
 
-#: nl/application.csv:2 
+#: nl/application.csv:2
 msgid "2. Open the app and login"
 msgstr "2. Open de App en log-in"
 
-#: nl/application.csv:3 
+#: nl/application.csv:3
 msgid "<b>File type:</b> %s"
 msgstr "<b>Bestands- type:</b> %s"
 
-#: nl/application.csv:4 
-msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
-msgstr "<span>Klik hier</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>om een item toe te voegen.</span>"
+#: nl/application.csv:4
+msgid "<span>Click on</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>to add an item.</span>"
+msgstr "<span>Klik hier</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>om een item toe te voegen.</span>"
 
-#: nl/application.csv:5 
+#: nl/application.csv:5
 msgid "Activated"
 msgstr "Geactiveerd"
 
-#: nl/application.csv:6 
+#: nl/application.csv:6
 msgid "Add a new icon"
 msgstr "Voeg een nieuw icoon toe"
 
-#: nl/application.csv:7 
+#: nl/application.csv:7
 msgid "Add pages"
 msgstr "Voeg pagina's toe"
 
-#: nl/application.csv:8 
+#: nl/application.csv:8
 msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
 msgstr "Er is een fout opgetreden bij het kopiëren van uw app icoon. Chek de icoon, probeer hem opnieuw te verzenden."
 
-#: nl/application.csv:9 
+#: nl/application.csv:9
 msgid "An error occurred during the generation of your QRCode. Please try again later."
 msgstr "Er is een fout opgetreden tijdens het genereren van uw QRCode. Probeer het later opnieuw."
 
-#: nl/application.csv:10 
+#: nl/application.csv:10
 msgid "An error occurred while adding the option"
 msgstr "Er is een fout opgetreden bij het toevoegen van de optie"
 
-#: nl/application.csv:11 
+#: nl/application.csv:11
 msgid "An error occurred while changing your layout."
 msgstr "Er is een fout opgetreden bij het lay-out veranderen."
 
-#: nl/application.csv:12 
+#: nl/application.csv:12
 msgid "An error occurred while deleting the option"
 msgstr "Er is een fout opgetreden bij het verwijderen van de optie"
 
-#: nl/application.csv:13 
+#: nl/application.csv:13
 msgid "An error occurred while deleting your picture"
 msgstr "Er is een fout opgetreden bij het verwijderen van de afbeelding"
 
-#: nl/application.csv:14 
+#: nl/application.csv:14
 msgid "An error occurred while editing file (%s)."
 msgstr "Er is een fout opgetreden bij het bewerken van het bestand"
 
-#: nl/application.csv:15 
+#: nl/application.csv:15
 msgid "An error occurred while loading"
 msgstr "Er is een fout opgetreden tijdens het laden"
 
-#: nl/application.csv:16 
+#: nl/application.csv:16
 msgid "An error occurred while saving the application. Please try again later."
 msgstr "Er is een fout opgetreden tijdens het opslaan van de App. Probeer het later opnieuw."
 
-#: nl/application.csv:17 
+#: nl/application.csv:17
 msgid "An error occurred while saving your colors."
 msgstr "Er is een fout opgetreden tijdens het opslaan van de kleuren."
 
-#: nl/application.csv:18 
+#: nl/application.csv:18
 msgid "An error occurred while saving your page name."
 msgstr "Er is een fout opgetreden bij het opslaan van de pagina naam."
 
-#: nl/application.csv:19 
+#: nl/application.csv:19
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "Er is een fout opgetreden tijdens het opslaan. Het geselecteerde pictogram is niet geldig."
 
-#: nl/application.csv:20 
+#: nl/application.csv:20
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "Er is een fout opgetreden bij het sorteren van uw pagina's. Probeer het later opnieuw."
 
-#: nl/application.csv:21 
+#: nl/application.csv:21
 msgid "Analytics"
 msgstr "Statistieken"
 
-#: nl/application.csv:22 
+#: nl/application.csv:22
 msgid "Android APK Generation"
 msgstr ""
 
-#: nl/application.csv:23 
+#: nl/application.csv:23
 msgid "Android Version"
 msgstr "Android versie"
 
-#: nl/application.csv:24 
+#: nl/application.csv:24
 msgid "App Store Icon"
 msgstr "App store icoon"
 
-#: nl/application.csv:25 
+#: nl/application.csv:25
 msgid "Apple's Information"
 msgstr "Apple's Informatie"
 
-#: nl/application.csv:26 
+#: nl/application.csv:26
 msgid "Application name"
 msgstr "App naam"
 
-#: nl/application.csv:27 
+#: nl/application.csv:27
 msgid "Are you sure you want to remove this application?"
 msgstr "Weet u zeker dat u deze App (applicatie) wilt verwijderen?"
 
-#: nl/application.csv:28 
+#: nl/application.csv:28
 msgid "At least 200 characters in the description"
 msgstr "Ten minste 200 tekens in de beschrijving"
 
-#: nl/application.csv:29 
+#: nl/application.csv:29
 msgid "At least, 4 pages in the application"
 msgstr "Ten minste 4 pagina's in de App"
 
-#: nl/application.csv:30 
+#: nl/application.csv:30
 msgid "Average by customer"
 msgstr "Gemiddelde per klant"
 
-#: nl/application.csv:31 
+#: nl/application.csv:31
 msgid "Bundle Id"
 msgstr "Bundel Id"
 
-#: nl/application.csv:32 
+#: nl/application.csv:32
 msgid "Buy one, get one!"
 msgstr "Koop er een krijg er een"
 
-#: nl/application.csv:33 
+#: nl/application.csv:33
 msgid "Certificate"
 msgstr "Certificaat"
 
-#: nl/application.csv:34 
+#: nl/application.csv:34
 msgid "Change your"
 msgstr "Wijzig uw"
 
-#: nl/application.csv:35 
+#: nl/application.csv:35
 msgid "Change your template"
 msgstr "Wijzig uw template"
 
-#: nl/application.csv:36 
+#: nl/application.csv:36
 msgid "Change your<br /><span>picture</span>"
 msgstr "Wijzig uw <br /> <span> afbeelding </ span>"
 
-#: nl/application.csv:37 
+#: nl/application.csv:37
 msgid "Checking CNAME configuration:"
 msgstr "Controle CNAME configuratie:"
 
-#: nl/application.csv:38 
+#: nl/application.csv:38
 msgid "Choose your design"
 msgstr "Kies uw ontwerp"
 
-#: nl/application.csv:39 
-msgid "Choose a <br /><span class="bold">picture</span>"
-msgstr "Kies een <br /><span class="bold">afbeeldingen</span>"
+#: nl/application.csv:39
+msgid "Choose a <br /><span class=\"bold\">picture</span>"
+msgstr "Kies een <br /><span class=\"bold\">afbeeldingen</span>"
 
-#: nl/application.csv:40 
+#: nl/application.csv:40
 msgid "Choose a country"
 msgstr "Kies een land"
 
-#: nl/application.csv:41 
+#: nl/application.csv:41
 msgid "Choose a font family"
 msgstr "Kies een lettertype"
 
-#: nl/application.csv:42 
+#: nl/application.csv:42
 msgid "Choose your colors"
 msgstr "Kies uw kleuren"
 
-#: nl/application.csv:43 
+#: nl/application.csv:43
 msgid "Choose your country"
 msgstr "Kies uw land"
 
-#: nl/application.csv:44 
+#: nl/application.csv:44
 msgid "Choose your font style"
 msgstr "Kies uw lettertype stijl"
 
-#: nl/application.csv:45 
+#: nl/application.csv:45
 msgid "Choose your homepage image"
 msgstr "Kies de afbeelding voor uw homepagina"
 
-#: nl/application.csv:46 
+#: nl/application.csv:46
 msgid "Choose your icons color"
 msgstr "Kies uw pictogrammen kleur"
 
-#: nl/application.csv:47 
+#: nl/application.csv:47
 msgid "Choose your layout"
 msgstr "Kies uw lay-out"
 
-#: nl/application.csv:48 
+#: nl/application.csv:48
 msgid "Choose your template"
 msgstr "Kies uw template"
 
-#: nl/application.csv:49 
+#: nl/application.csv:49
 msgid "Click here to download the source code:"
 msgstr "Klik hier om de broncode te downloaden:"
 
-#: nl/application.csv:50 
+#: nl/application.csv:50
 msgid "Click here to send your certificate"
 msgstr "Klik hier om uw certificaat te uploaden"
 
-#: nl/application.csv:51 
+#: nl/application.csv:51
 msgid "Colors"
 msgstr "Kleuren"
 
-#: nl/application.csv:52 
+#: nl/application.csv:52
 msgid "Dashboard icon"
 msgstr "Dashboard icoon"
 
-#: nl/application.csv:53 
+#: nl/application.csv:53
 msgid "Deactivated"
 msgstr "Gedeactiveerd"
 
-#: nl/application.csv:54 
+#: nl/application.csv:54
 msgid "Delete this page?"
 msgstr "Deze pagina verwijderen?"
 
-#: nl/application.csv:55 
+#: nl/application.csv:55
 msgid "Design"
 msgstr "Design"
 
-#: nl/application.csv:56 
+#: nl/application.csv:56
 msgid "Developer Accounts"
 msgstr "Ontwikkelaar Accounts"
 
-#: nl/application.csv:57 
+#: nl/application.csv:57
 msgid "Device Information"
 msgstr "Device Informatie"
 
-#: nl/application.csv:58 
+#: nl/application.csv:58
 msgid "Discount zone description. Here your clients will be able to see the details of each discount"
 msgstr "Beschrijving korting. Hier kunnen uw klanten de details van elke korting zien"
 
-#: nl/application.csv:59 
+#: nl/application.csv:59
 msgid "Domain"
 msgstr "Domeinnaam"
 
-#: nl/application.csv:60 
+#: nl/application.csv:60
 msgid "Domain name"
 msgstr "Domeinnaam"
 
-#: nl/application.csv:61 
+#: nl/application.csv:61
 msgid "Download"
 msgstr "Download"
 
-#: nl/application.csv:62 
+#: nl/application.csv:62
 msgid "Download our app previewer"
 msgstr "Download onze App previewer"
 
-#: nl/application.csv:63 
+#: nl/application.csv:63
 msgid "Drop your certificate here"
 msgstr "Laat je certificaat hier vallen"
 
-#: nl/application.csv:64 
+#: nl/application.csv:64
 msgid "Edit my"
 msgstr "Bewerk mijn"
 
-#: nl/application.csv:65 
-msgid "Edit the application "%s""
-msgstr "Bewerk de applicatie "%s""
+#: nl/application.csv:65
+msgid "Edit the application \"%s\""
+msgstr "Bewerk de applicatie \"%s\""
 
-#: nl/application.csv:66 
+#: nl/application.csv:66
 msgid "Editor"
 msgstr "Editor"
 
-#: nl/application.csv:67 
+#: nl/application.csv:67
 msgid "Extension not allowed, '%s' only"
 msgstr "Extensie niet toegestaan, '%s' alleen."
 
-#: nl/application.csv:68 
+#: nl/application.csv:68
 msgid "Features"
 msgstr "Functies"
 
-#: nl/application.csv:69 
+#: nl/application.csv:69
 msgid "Fred W."
 msgstr "Dirk B."
 
-#: nl/application.csv:70 
+#: nl/application.csv:70
 msgid "General Information"
 msgstr "Algemene informatie"
 
-#: nl/application.csv:71 
+#: nl/application.csv:71
 msgid "General information"
 msgstr "Algemene informatie"
 
-#: nl/application.csv:72 
+#: nl/application.csv:72
 msgid "Global visits"
 msgstr "Globale bezoeken"
 
-#: nl/application.csv:73 
+#: nl/application.csv:73
 msgid "Google Play Icon"
 msgstr "Google Play Icoon"
 
-#: nl/application.csv:74 
+#: nl/application.csv:74
 msgid "Google's Information"
 msgstr "Google informatie"
 
-#: nl/application.csv:75 
+#: nl/application.csv:75
 msgid "Here is our latest creation. What do you think?"
 msgstr "Hier is onze nieuwste creatie. Wat vind je er van?"
 
-#: nl/application.csv:76 
+#: nl/application.csv:76
 msgid "Homepage preview"
 msgstr "Homepagina voorvertoning"
 
-#: nl/application.csv:77 
+#: nl/application.csv:77
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "Ik heb geen Google-developer-account maar ik wil er een te maken"
 
-#: nl/application.csv:78 
+#: nl/application.csv:78
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "Ik heb geen Apple developer account maar ik wil er een te maken"
 
-#: nl/application.csv:79 
+#: nl/application.csv:79
 msgid "I have an Apple developer account"
 msgstr "Ik heb een Apple-developer account"
 
-#: nl/application.csv:80 
+#: nl/application.csv:80
 msgid "I have an Google developer account"
 msgstr "Ik heb een Google-developer account"
 
-#: nl/application.csv:81 
+#: nl/application.csv:81
 msgid "I let you publish my application under your Apple developer account"
 msgstr "Ik laat jullie mijn App publiceren op jullie Apple developer account"
 
-#: nl/application.csv:82 
+#: nl/application.csv:82
 msgid "I let you publish my application under your Google developer account"
 msgstr "Ik laat jullie mijn App publiceren op jullie Google developer account"
 
-#: nl/application.csv:83 
+#: nl/application.csv:83
 msgid "Icons"
 msgstr "Iconen"
 
-#: nl/application.csv:84 
+#: nl/application.csv:84
 msgid "Id"
 msgstr "Id"
 
-#: nl/application.csv:85 
+#: nl/application.csv:85
 msgid "If you validate, your app's colors and background image will be replaced"
 msgstr "Als je bevestigt, worden uw App kleuren en achtergrond afbeelding vervangen"
 
-#: nl/application.csv:86 
+#: nl/application.csv:86
 msgid "Installed application"
 msgstr "Geïnstalleerde toepassing"
 
-#: nl/application.csv:87 
+#: nl/application.csv:87
 msgid "Key Password"
 msgstr "Key Password"
 
-#: nl/application.csv:88 
+#: nl/application.csv:88
 msgid "Keywords"
 msgstr "Trefwoorden"
 
-#: nl/application.csv:89 
+#: nl/application.csv:89
 msgid "Last name:"
 msgstr "Achternaam:"
 
-#: nl/application.csv:90 
+#: nl/application.csv:90
 msgid "Library icons"
 msgstr "bibliotheek pictogrammen"
 
-#: nl/application.csv:91 
+#: nl/application.csv:91
 msgid "List of my applications"
 msgstr "Lijst van mijn App's"
 
-#: nl/application.csv:92 
+#: nl/application.csv:92
 msgid "List of your applications"
 msgstr "Lijst van uw App's"
 
-#: nl/application.csv:93 
+#: nl/application.csv:93
 msgid "Loading"
 msgstr "Laden"
 
-#: nl/application.csv:94 
+#: nl/application.csv:94
 msgid "Lock the entire application"
 msgstr "Vergrendel de gehele App"
 
-#: nl/application.csv:95 
+#: nl/application.csv:95
 msgid "Love it <3"
 msgstr "Love it ;)"
 
-#: nl/application.csv:96 
+#: nl/application.csv:96
 msgid "Main"
 msgstr "Hoofd"
 
-#: nl/application.csv:97 
+#: nl/application.csv:97
 msgid "Manage icons"
 msgstr "Beheer iconen"
 
-#: nl/application.csv:98 
+#: nl/application.csv:98
 msgid "Media"
 msgstr "Media"
 
-#: nl/application.csv:99 
+#: nl/application.csv:99
 msgid "Missing Information"
 msgstr "Ontbrekende informatie"
 
-#: nl/application.csv:100 
+#: nl/application.csv:100
 msgid "Mobile Source Codes"
 msgstr "Mobiele Source Codes"
 
-#: nl/application.csv:101 
+#: nl/application.csv:101
 msgid "Mobile source codes"
 msgstr "Mobiele Source Codes"
 
-#: nl/application.csv:102 
+#: nl/application.csv:102
 msgid "Mobile website information"
 msgstr "Mobiele website informatie"
 
-#: nl/application.csv:103 
+#: nl/application.csv:103
 msgid "My QRCode"
 msgstr "Mijn QRCode"
 
-#: nl/application.csv:104 
+#: nl/application.csv:104
 msgid "My application in figures"
 msgstr "Mijn App's in cijfers"
 
-#: nl/application.csv:105 
+#: nl/application.csv:105
 msgid "One free coffee"
 msgstr "Een gratis koffie"
 
-#: nl/application.csv:106 
-msgid "Or go on your store<br />and look for "Apps Company Previewer""
-msgstr "Of ga naar uw winkel <br /> en zoek naar "Apps Company Previewer""
+#: nl/application.csv:106
+msgid "Or go on your store<br />and look for \"Apps Company Previewer\""
+msgstr "Of ga naar uw winkel <br /> en zoek naar \"Apps Company Previewer\""
 
-#: nl/application.csv:107 
+#: nl/application.csv:107
 msgid "Page name:"
 msgstr "Pagina naam:"
 
-#: nl/application.csv:108 
+#: nl/application.csv:108
 msgid "Percentage of returning customers"
 msgstr "Percentage terugkerende klanten"
 
-#: nl/application.csv:109 
+#: nl/application.csv:109
 msgid "Please enter a correct URL for the %s store"
 msgstr "Vul een juiste URL voor de %s winkel"
 
-#: nl/application.csv:110 
+#: nl/application.csv:110
 msgid "Please enter a subdomain."
 msgstr "Vul een subdomein in."
 
-#: nl/application.csv:111 
+#: nl/application.csv:111
 msgid "Please enter a valid URL"
 msgstr "Vul een geldige URL in"
 
-#: nl/application.csv:112 
+#: nl/application.csv:112
 msgid "Please enter a valid address"
 msgstr "Vul een geldig adres in"
 
-#: nl/application.csv:113 
+#: nl/application.csv:113
 msgid "Please enter a valid mobile website address."
 msgstr "Vul een geldig mobiele website-adres in."
 
-#: nl/application.csv:114 
+#: nl/application.csv:114
 msgid "Preview"
 msgstr "Voorbeeld"
 
-#: nl/application.csv:115 
+#: nl/application.csv:115
 msgid "Promote"
 msgstr "Promoot"
 
-#: nl/application.csv:116 
+#: nl/application.csv:116
 msgid "Publication"
 msgstr "Publicatie"
 
-#: nl/application.csv:117 
+#: nl/application.csv:117
 msgid "Publish the application"
 msgstr "Publiceer de App"
 
-#: nl/application.csv:118 
+#: nl/application.csv:118
 msgid "Publish under our account"
 msgstr "Publiceer op onze rekening"
 
-#: nl/application.csv:119 
+#: nl/application.csv:119
 msgid "Ready ? Publish my app!"
 msgstr "Klaar? Publiceer mijn App!"
 
-#: nl/application.csv:120 
+#: nl/application.csv:120
 msgid "Recommanded size:"
 msgstr "Aanbevolen grootte:"
 
-#: nl/application.csv:121 
+#: nl/application.csv:121
 msgid "Remove this page from this folder?"
 msgstr "Verwijder pagina uit deze map?"
 
-#: nl/application.csv:122 
+#: nl/application.csv:122
 msgid "Scan this QR Code"
 msgstr "Scan deze QR Code"
 
-#: nl/application.csv:123 
+#: nl/application.csv:123
 msgid "Scan this QR Code:"
 msgstr "Scan deze QR Code:"
 
-#: nl/application.csv:124 
+#: nl/application.csv:124
 msgid "Secondary category"
 msgstr "Secundaire categorie"
 
-#: nl/application.csv:125 
+#: nl/application.csv:125
 msgid "Secondary category<br />(Optional)"
 msgstr "Secundaire categorie <br/> (optioneel)"
 
-#: nl/application.csv:126 
+#: nl/application.csv:126
 msgid "Send here your iOS certificate to enable the push notifications for this application."
 msgstr "Plaats hier uw iOS-certificaat, om de push-notificaties voor deze App in te schakelen."
 
-#: nl/application.csv:127 
+#: nl/application.csv:127
 msgid "Send you .pem certificate"
 msgstr "Stuur je .pem certificaat"
 
-#: nl/application.csv:128 
+#: nl/application.csv:128
 msgid "Show the applications waiting for publication only."
 msgstr "Toon alleen App's die wachten op publicatie."
 
-#: nl/application.csv:129 
+#: nl/application.csv:129
 msgid "Startup image"
 msgstr "Opstart afbeelding"
 
-#: nl/application.csv:130 
+#: nl/application.csv:130
 msgid "Status"
 msgstr "Status"
 
-#: nl/application.csv:131 
+#: nl/application.csv:131
 msgid "Store Password"
 msgstr "Wachtwoord winkel"
 
-#: nl/application.csv:132 
+#: nl/application.csv:132
 msgid "Store URL"
 msgstr "Winkel URL"
 
-#: nl/application.csv:133 
+#: nl/application.csv:133
 msgid "Stores Info"
 msgstr "Winkel Info"
 
-#: nl/application.csv:134 
+#: nl/application.csv:134
 msgid "To be able to download source codes, please provide the following information:<br />"
 msgstr "Voor het downloaden broncodes, de volgende informatie te verstrekken:<br/>"
 
-#: nl/application.csv:135 
+#: nl/application.csv:135
 msgid "The application's name cannot start with a number"
 msgstr "De naam van de App kan niet beginnen met een getal"
 
-#: nl/application.csv:136 
+#: nl/application.csv:136
 msgid "The Bundle Id is required"
 msgstr "De Bundle Id is verplicht"
 
-#: nl/application.csv:137 
+#: nl/application.csv:137
 msgid "The QR Code is not available at this moment"
 msgstr "De QR code is niet beschikbaar op dit moment"
 
-#: nl/application.csv:138 
+#: nl/application.csv:138
 msgid "The application has been successfully saved"
 msgstr "De App is met succes opgeslagen"
 
-#: nl/application.csv:139 
+#: nl/application.csv:139
 msgid "The application name"
 msgstr "De naam van de App"
 
-#: nl/application.csv:140 
+#: nl/application.csv:140
 msgid "The description"
 msgstr "De beschrijving van de App"
 
-#: nl/application.csv:141 
+#: nl/application.csv:141
 msgid "The description must be at least 200 characters"
 msgstr "De beschrijving van de App moet minstens 200 tekens bevatten"
 
-#: nl/application.csv:142 
+#: nl/application.csv:142
 msgid "The desktop icon"
 msgstr "Bureaublad icoon"
 
-#: nl/application.csv:143 
+#: nl/application.csv:143
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "De ingevoerde bundel ID onjuist, het zou hier op moeten lijken: com.dbpromotie.app"
 
-#: nl/application.csv:144 
+#: nl/application.csv:144
 msgid "The field is required"
 msgstr "Dit veld is verplicht"
 
-#: nl/application.csv:145 
+#: nl/application.csv:145
 msgid "The file has been successfully uploaded"
 msgstr "Het bestand is geüpload"
 
-#: nl/application.csv:146 
+#: nl/application.csv:146
 msgid "The following information are needed to download the source codes:<br />"
 msgstr "De volgende gegevens zijn nodig om de broncodes downloaden: <br/>"
 
-#: nl/application.csv:147 
+#: nl/application.csv:147
 msgid "The homepage image"
 msgstr "De thuis(home)pagina afbeelding"
 
-#: nl/application.csv:148 
+#: nl/application.csv:148
 msgid "The key cannot be empty."
 msgstr "De sleutel kan niet leeg zijn."
 
-#: nl/application.csv:149 
+#: nl/application.csv:149
 msgid "The key is already used by another application."
 msgstr "De sleutel wordt al gebruikt door een andere toepassing."
 
-#: nl/application.csv:150 
+#: nl/application.csv:150
 msgid "The keywords"
 msgstr "Te trefwoorden"
 
-#: nl/application.csv:151 
+#: nl/application.csv:151
 msgid "The main category"
 msgstr "De hoofd categorie"
 
-#: nl/application.csv:152 
+#: nl/application.csv:152
 msgid "The startup image"
 msgstr "Opstart afbeelding"
 
-#: nl/application.csv:153 
+#: nl/application.csv:153
 msgid "This application does not exist"
 msgstr "Deze App bestaat niet"
 
-#: nl/application.csv:154 
+#: nl/application.csv:154
 msgid "This application is visible on the front"
 msgstr "Deze App is zichtbaar aan de voorkant"
 
-#: nl/application.csv:155 
+#: nl/application.csv:155
 msgid "This option enables you to set the currency used in your app"
 msgstr "Met deze optie kunt u de valuta die wordt gebruikt in uw app instellen"
 
-#: nl/application.csv:156 
+#: nl/application.csv:156
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr "Deze pagina zal worden getoond aan de mobiele gebruikers om in te loggen. Hij wordt automatisch toegevoegd wanneer u functies activeert voor gebruiker die moeten inloggen"
 
-#: nl/application.csv:157 
+#: nl/application.csv:157
 msgid "URL"
 msgstr "URL"
 
-#: nl/application.csv:158 
+#: nl/application.csv:158
 msgid "URL Key"
 msgstr "URL Sleutel"
 
-#: nl/application.csv:159 
+#: nl/application.csv:159
 msgid "Use into all of your application's pages"
 msgstr "Gebruik in alle pagina's van uw App"
 
-#: nl/application.csv:160 
+#: nl/application.csv:160
 msgid "Used points"
 msgstr "Gebruikte punten"
 
-#: nl/application.csv:161 
+#: nl/application.csv:161
 msgid "User Information"
 msgstr "Informatie voor de gebruiker"
 
-#: nl/application.csv:162 
+#: nl/application.csv:162
 msgid "Version"
 msgstr "Versie"
 
-#: nl/application.csv:163 
+#: nl/application.csv:163
 msgid "You already have sent a certificate."
 msgstr "Je hebt al een certificaat verstuurd."
 
-#: nl/application.csv:164 
-msgid "You can download your QRCode by <a class="f-bold" href="%s">clicking here</a>"
+#: nl/application.csv:164
+msgid "You can download your QRCode by <a class=\"f-bold\" href=\"%s\">clicking here</a>"
 msgstr "U kunt uw QRCode downloaden door"
 
-#: nl/application.csv:165 
+#: nl/application.csv:165
 msgid "You don't have any applications yet"
 msgstr "U heeft nog geen App's"
 
-#: nl/application.csv:166 
+#: nl/application.csv:166
 msgid "You have already sent a certificate"
 msgstr "Je hebt al een certificaat verstuurd."
 
-#: nl/application.csv:167 
+#: nl/application.csv:167
 msgid "You have sent a certificate."
 msgstr "Je hebt een certificaat verstuurd."
 
-#: nl/application.csv:168 
+#: nl/application.csv:168
 msgid "You haven't chosen any template yet"
 msgstr "U heeft nog geen template gekozen"
 
-#: nl/application.csv:169 
+#: nl/application.csv:169
 msgid "You may not delete a library icon"
 msgstr "Je mag geen bibliotheek pictogram verwijderen"
 
-#: nl/application.csv:170 
+#: nl/application.csv:170
 msgid "You must have published your application to access this feature"
 msgstr "U moet uw app gepubliceerd zijn, om deze functie te bekijken"
 
-#: nl/application.csv:171 
+#: nl/application.csv:171
 msgid "Your CNAME is properly set"
 msgstr "Uw CNAME is is niet goed ingesteld"
 
-#: nl/application.csv:172 
+#: nl/application.csv:172
 msgid "Your best customers"
 msgstr "Uw beste klanten"
 
-#: nl/application.csv:173 
+#: nl/application.csv:173
 msgid "Your customers in figures"
 msgstr "Uw klanten in cijfers"
 
-#: nl/application.csv:174 
+#: nl/application.csv:174
 msgid "Your mobile address should not contain special characters"
 msgstr "Uw mobiele-adres mag geen speciale tekens bevatten"
 
-#: nl/application.csv:175 
+#: nl/application.csv:175
 msgid "Your pages"
 msgstr "Uw pagina's"
 
-#: nl/application.csv:176 
+#: nl/application.csv:176
 msgid "iOS Certificate"
 msgstr "iOS Certificaat"
 
-#: nl/application.csv:177 
+#: nl/application.csv:177
 msgid "iPad Retina:"
 msgstr "iPad Retina :"
 
-#: nl/application.csv:178 
+#: nl/application.csv:178
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S :"
 
-#: nl/application.csv:179 
+#: nl/application.csv:179
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6 Plus :"
 
-#: nl/application.csv:180 
+#: nl/application.csv:180
 msgid "iPhone 6:"
 msgstr "IPhone 6 :"
 
-#: nl/application.csv:181 
+#: nl/application.csv:181
 msgid "iPhone Version"
 msgstr "Version iPhone"
 
-#: nl/application.csv:182 
+#: nl/application.csv:182
 msgid "icon"
 msgstr "icoon"
 
-#: nl/application.csv:183 
+#: nl/application.csv:183
 msgid "logo"
 msgstr "logo"
 
-#: nl/application.csv:184 
+#: nl/application.csv:184
 msgid "times"
 msgstr "tijden"
-

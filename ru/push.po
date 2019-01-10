@@ -1,114 +1,118 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/push.csv:1 
+#: ru/push.csv:1
 msgid "Additionnal Information"
 msgstr "Добавить информацию"
 
-#: ru/push.csv:2 
+#: ru/push.csv:2
 msgid "And a radius (in Km):"
 msgstr "Задать радиус в км"
 
-#: ru/push.csv:3 
+#: ru/push.csv:3
 msgid "Android"
 msgstr "Android"
 
-#: ru/push.csv:4 
+#: ru/push.csv:4
 msgid "Creation date"
 msgstr "Дата отправки"
 
-#: ru/push.csv:5 
+#: ru/push.csv:5
 msgid "Enter a location:"
 msgstr "Введите местоположение:"
 
-#: ru/push.csv:6 
+#: ru/push.csv:6
 msgid "GCM Key"
 msgstr "GCM ключ"
 
-#: ru/push.csv:7 
+#: ru/push.csv:7
 msgid "I want to send it"
 msgstr "Я хочу отправить Push-сообщение"
 
-#: ru/push.csv:8 
+#: ru/push.csv:8
 msgid "Keys successfully saved"
 msgstr "Ключи успешно сохранены"
 
-#: ru/push.csv:9 
+#: ru/push.csv:9
 msgid "Message"
 msgstr "Сообщение"
 
-#: ru/push.csv:10 
+#: ru/push.csv:10
 msgid "Message:"
 msgstr "Сообщение:"
 
-#: ru/push.csv:11 
+#: ru/push.csv:11
 msgid "Pending"
 msgstr "В ожидании"
 
-#: ru/push.csv:12 
+#: ru/push.csv:12
 msgid "Push Notifications"
 msgstr "Push-сообщения"
 
-#: ru/push.csv:13 
+#: ru/push.csv:13
 msgid "Push Notifications Settings"
 msgstr "Настройки Push-сообщения"
 
-#: ru/push.csv:14 
+#: ru/push.csv:14
 msgid "Radius"
 msgstr "Радиус"
 
-#: ru/push.csv:15 
+#: ru/push.csv:15
 msgid "Send to a specific location"
 msgstr "Отправить в определенное место"
 
-#: ru/push.csv:16 
+#: ru/push.csv:16
 msgid "Send to all my users"
 msgstr "Послать всем своим пользователям"
 
-#: ru/push.csv:17 
+#: ru/push.csv:17
 msgid "Sender ID"
 msgstr "ID отправителя"
 
-#: ru/push.csv:18 
+#: ru/push.csv:18
 msgid "Sending date"
 msgstr "Дата отправки"
 
-#: ru/push.csv:19 
+#: ru/push.csv:19
 msgid "The duration limit must be higher than the sent date"
 msgstr "Время действия должно быть больше, чем указанная дата"
 
-#: ru/push.csv:20 
+#: ru/push.csv:20
 msgid "Your app must be published to send a push notification."
 msgstr "Ваше приложение должно быть опубликовано, чтобы отправлять  Push-уведомления."
 
-#: ru/push.csv:21 
+#: ru/push.csv:21
 msgid "Your message has been saved successfully and will be sent at the entered date"
 msgstr "Ваше сообщение было успешно сохранено и будет отправлено в указанную дату."
 
-#: ru/push.csv:22 
+#: ru/push.csv:22
 msgid "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "Ваше сообщение было успешно сохранено и будет отправлено в течение нескольких минут."
 
-#: ru/push.csv:23 
+#: ru/push.csv:23
 msgid "and users entering the area"
 msgstr "и пользователям при входе в зону"
 
-#: ru/push.csv:24 
+#: ru/push.csv:24
 msgid "for a limited period"
 msgstr "в течение ограниченного периода"
 
-#: ru/push.csv:25 
+#: ru/push.csv:25
 msgid "now"
 msgstr "сейчас"
 
-#: ru/push.csv:26 
+#: ru/push.csv:26
 msgid "on a specific date"
 msgstr "на определенную дату"
-

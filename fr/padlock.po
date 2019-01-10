@@ -1,58 +1,62 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: fr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/padlock.csv:1 
+#: fr/padlock.csv:1
 msgid "Lock the entire application?"
 msgstr "Verrouiller l'application entière?"
 
-#: fr/padlock.csv:2 
+#: fr/padlock.csv:2
 msgid "Choose the features to lock:"
 msgstr "Choisissez les caractéristiques pour verrouiller:"
 
-#: fr/padlock.csv:3 
+#: fr/padlock.csv:3
 msgid "Restrict Access"
 msgstr "Restreindre l'accès"
 
-#: fr/padlock.csv:4 
+#: fr/padlock.csv:4
 msgid "Allow all the users by default:"
 msgstr "Autoriser tous les utilisateurs par défaut:"
 
-#: fr/padlock.csv:5 
+#: fr/padlock.csv:5
 msgid "the gender"
 msgstr "Sexe"
 
-#: fr/padlock.csv:6 
+#: fr/padlock.csv:6
 msgid "the first name"
 msgstr "Prénom"
 
-#: fr/padlock.csv:7 
+#: fr/padlock.csv:7
 msgid "the last name"
 msgstr "Nom"
 
-#: fr/padlock.csv:8 
+#: fr/padlock.csv:8
 msgid "the email address"
 msgstr "Email"
 
-#: fr/padlock.csv:9 
+#: fr/padlock.csv:9
 msgid "the password"
 msgstr "Mot de passe"
 
-#: fr/padlock.csv:10 
+#: fr/padlock.csv:10
 msgid "Access restricted to authorized members only"
 msgstr "Accès réservé seulement aux membres"
 
-#: fr/padlock.csv:11 
+#: fr/padlock.csv:11
 msgid "We are sorry but your account does not have enough permissions to access this page"
 msgstr "Nous sommes désolés mais vous ne disposez pas des droits pour accéder à cette page"
 
-#: fr/padlock.csv:12 
+#: fr/padlock.csv:12
 msgid "Padlock"
 msgstr "Cadenas"
-

@@ -1,214 +1,218 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/installer.csv:1 
+#: cs/installer.csv:1
 msgid "%s Update"
 msgstr "%s Update"
 
-#: cs/installer.csv:2 
+#: cs/installer.csv:2
 msgid "All of your modules are up to date"
 msgstr "Všechny vaše moduly jsou aktuální"
 
-#: cs/installer.csv:3 
+#: cs/installer.csv:3
 msgid "Click here to send your module"
 msgstr "Klikněte zde pro upload modulu"
 
-#: cs/installer.csv:4 
+#: cs/installer.csv:4
 msgid "Drop your module here"
 msgstr "Vložit modul"
 
-#: cs/installer.csv:5 
+#: cs/installer.csv:5
 msgid "Host"
 msgstr "Host"
 
-#: cs/installer.csv:6 
+#: cs/installer.csv:6
 msgid "Installing"
 msgstr "Instalace"
 
-#: cs/installer.csv:7 
-msgid "Installing module <em><span id="label_module"></span></em>"
-msgstr "Instalace modulu <em> <span id ="label_module"> </span> </em>"
+#: cs/installer.csv:7
+msgid "Installing module <em><span id=\"label_module\"></span></em>"
+msgstr "Instalace modulu <em> <span id =\"label_module\"> </span> </em>"
 
-#: cs/installer.csv:8 
+#: cs/installer.csv:8
 msgid "Installing your module"
 msgstr "Instalace modulu"
 
-#: cs/installer.csv:9 
+#: cs/installer.csv:9
 msgid "Module successfully installed"
 msgstr "Modul úspěšně nainstalován"
 
-#: cs/installer.csv:10 
+#: cs/installer.csv:10
 msgid "Module to upload"
 msgstr "Moduly k nahrání"
 
-#: cs/installer.csv:11 
+#: cs/installer.csv:11
 msgid "Modules Installation"
 msgstr "Instalace modulů"
 
-#: cs/installer.csv:12 
+#: cs/installer.csv:12
 msgid "Modules successfully installed!"
 msgstr "Moduly úspěšně nainstalován!"
 
-#: cs/installer.csv:13 
+#: cs/installer.csv:13
 msgid "No directory provided"
 msgstr "No directory provided"
 
-#: cs/installer.csv:14 
+#: cs/installer.csv:14
 msgid "No module to install"
 msgstr "Žádný modul k instalaci"
 
-#: cs/installer.csv:15 
+#: cs/installer.csv:15
 msgid "No modules uploaded yet"
 msgstr "Žádné modyly zatím nebyly nahrány"
 
-#: cs/installer.csv:16 
+#: cs/installer.csv:16
 msgid "Or set the correct permissions to the following files and folders and try again:"
 msgstr "Nebo změňte práva u následujících souboru a složek  a zkuste znovu"
 
-#: cs/installer.csv:17 
+#: cs/installer.csv:17
 msgid "Package Details"
 msgstr "Package - detail"
 
-#: cs/installer.csv:18 
+#: cs/installer.csv:18
 msgid "Path to your system"
 msgstr "Cesta k systemu"
 
-#: cs/installer.csv:19 
+#: cs/installer.csv:19
 msgid "Please update the module to the %s version before installing this update."
 msgstr "Před instalací tohoto updatu prosím updatujte modul na verzi %s"
 
-#: cs/installer.csv:20 
+#: cs/installer.csv:20
 msgid "Please update your system to the %s version before installing this update."
 msgstr "Před instalací tohoto updatu prosím updatujte Váš systém na verzi %s"
 
-#: cs/installer.csv:21 
+#: cs/installer.csv:21
 msgid "Please wait, we're installing your module"
 msgstr "Čekejte prosím, modul se instaluje"
 
-#: cs/installer.csv:22 
+#: cs/installer.csv:22
 msgid "Please, enter a name"
 msgstr "Prosím, zadejte název"
 
-#: cs/installer.csv:23 
+#: cs/installer.csv:23
 msgid "Please, fill out all fields"
 msgstr "Prosíme, vyplňte všechna pole"
 
-#: cs/installer.csv:24 
+#: cs/installer.csv:24
 msgid "Port"
 msgstr "Port"
 
-#: cs/installer.csv:25 
+#: cs/installer.csv:25
 msgid "Processing the installation"
 msgstr "Zpracování instalace"
 
-#: cs/installer.csv:26 
+#: cs/installer.csv:26
 msgid "Retry"
 msgstr "Opakovat"
 
-#: cs/installer.csv:27 
+#: cs/installer.csv:27
 msgid "Select a module to upload"
 msgstr "Vyberte modul"
 
-#: cs/installer.csv:28 
+#: cs/installer.csv:28
 msgid "Some files and folder are not writable. You can either provide your FTP access to install this update:"
 msgstr "Do některých složek a souboru nelze zapisovat"
 
-#: cs/installer.csv:29 
+#: cs/installer.csv:29
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr "Některé soubory nemají správná práva a nelze je updatovat"
 
-#: cs/installer.csv:30 
+#: cs/installer.csv:30
 msgid "The database connection failed. Please, check the entered information."
 msgstr "Připojení k databázi se nezdařilo. Prosím, zkontrolujte zadané údaje."
 
-#: cs/installer.csv:31 
+#: cs/installer.csv:31
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Heslo k potvrzení se neshoduje s původním"
 
-#: cs/installer.csv:32 
+#: cs/installer.csv:32
 msgid "The file %s does not exist"
 msgstr "Soubor %s neexistuje"
 
-#: cs/installer.csv:33 
+#: cs/installer.csv:33
 msgid "The file %s is not writable."
 msgstr "Do souboru %s nelze zapisovat"
 
-#: cs/installer.csv:34 
+#: cs/installer.csv:34
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr "Do složky %s nelze zapisovat. Opravte tento problém a zkuste znovu"
 
-#: cs/installer.csv:35 
+#: cs/installer.csv:35
 msgid "The following files and folders are not writable:"
 msgstr "Do těchto souborů a adresářů nelze zapisovat"
 
-#: cs/installer.csv:36 
+#: cs/installer.csv:36
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr "Do následujících souborů a složek nelze zapisovat: <br /> - %s"
 
-#: cs/installer.csv:37 
-msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
-msgstr "Instalace modulu <span id="installation_failed_module_name"></span> se nezdařila: <span id="installation_failed_because"></span>"
+#: cs/installer.csv:37
+msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
+msgstr "Instalace modulu <span id=\"installation_failed_module_name\"></span> se nezdařila: <span id=\"installation_failed_because\"></span>"
 
-#: cs/installer.csv:38 
+#: cs/installer.csv:38
 msgid "The package you have uploaded is invalid."
 msgstr "Nahraný package je poškozený"
 
-#: cs/installer.csv:39 
+#: cs/installer.csv:39
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr "Tento proces může chvíli trvat, prosím NEAKTUALIZUJTE stránku"
 
-#: cs/installer.csv:40 
+#: cs/installer.csv:40
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr "Tento update je navrhnut pro %s, nelze nainstalovat na Váš %s"
 
-#: cs/installer.csv:41 
+#: cs/installer.csv:41
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr "Nelze se připojit k FTP. Zkontrolujte spojení"
 
-#: cs/installer.csv:42 
+#: cs/installer.csv:42
 msgid "Unable to detect your site. Please make sure the entered path is correct."
 msgstr "Stránku nelze smazat. Zkontrolujte, zda je cesta v pořádku"
 
-#: cs/installer.csv:43 
+#: cs/installer.csv:43
 msgid "Unable to extract the archive."
 msgstr "Archiv nelze rozbalit"
 
-#: cs/installer.csv:44 
+#: cs/installer.csv:44
 msgid "Unable to open the archive."
 msgstr "Archiv nelze otevřít"
 
-#: cs/installer.csv:45 
+#: cs/installer.csv:45
 msgid "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr "Soubor nelze otevřít. Ujistěte se,že byl platný"
 
-#: cs/installer.csv:46 
+#: cs/installer.csv:46
 msgid "Upload a module"
 msgstr "Nahrát modul"
 
-#: cs/installer.csv:47 
+#: cs/installer.csv:47
 msgid "Upload your modules"
 msgstr "Nahrát modul"
 
-#: cs/installer.csv:48 
+#: cs/installer.csv:48
 msgid "Username"
 msgstr "Uživatelské jméno"
 
-#: cs/installer.csv:49 
+#: cs/installer.csv:49
 msgid "You already have installed this update."
 msgstr "Tento update je již nainstalován"
 
-#: cs/installer.csv:50 
+#: cs/installer.csv:50
 msgid "You can either fix this issue by setting the correct permissions to them and try again or enter your FTP access below:"
 msgstr "Můžete tento problém vyřešit správným nastavením oprávnění a zkusit znovu, nebo zadejte váš přístup FTP:"
 
-#: cs/installer.csv:51 
+#: cs/installer.csv:51
 msgid "﻿%s Update"
 msgstr "%s Update"
-

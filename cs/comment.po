@@ -1,130 +1,134 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/comment.csv:1 
+#: cs/comment.csv:1
 msgid "'Near me' radius (in km):"
-msgstr "Okruh "V okolí" (v Km)"
+msgstr "Okruh \"V okolí\" (v Km)"
 
-#: cs/comment.csv:2 
+#: cs/comment.csv:2
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "Při mazání odpovědi došlo k chybě. Zkuste to prosím později."
 
-#: cs/comment.csv:3 
+#: cs/comment.csv:3
 msgid "Create a news:"
 msgstr "Vytvořte zprávu:"
 
-#: cs/comment.csv:4 
+#: cs/comment.csv:4
 msgid "Hide this info"
 msgstr "Skrýt tuto informaci"
 
-#: cs/comment.csv:5 
+#: cs/comment.csv:5
 msgid "Information successfully deleted"
 msgstr "Informace byla úspěšně smazána"
 
-#: cs/comment.csv:6 
+#: cs/comment.csv:6
 msgid "Information successfully hidden"
 msgstr "Informace byla úspěšně skryta"
 
-#: cs/comment.csv:7 
+#: cs/comment.csv:7
 msgid "Information successfully saved"
 msgstr "Informace byla úspěšně uložena"
 
-#: cs/comment.csv:8 
+#: cs/comment.csv:8
 msgid "Information successfully shown"
 msgstr "Informace byla úspěšně zobrazena"
 
-#: cs/comment.csv:9 
+#: cs/comment.csv:9
 msgid "Insert a"
 msgstr "Vložit"
 
-#: cs/comment.csv:10 
+#: cs/comment.csv:10
 msgid "It will be visible only after validation by our team."
 msgstr "Toto bude viditelné až po našem schválení"
 
-#: cs/comment.csv:11 
+#: cs/comment.csv:11
 msgid "My customers answers"
 msgstr "Odpovědi uživatelů"
 
-#: cs/comment.csv:12 
+#: cs/comment.csv:12
 msgid "My customers' comments"
 msgstr "Uživatelské komentáře"
 
-#: cs/comment.csv:13 
+#: cs/comment.csv:13
 msgid "Near me"
 msgstr "V okolí"
 
-#: cs/comment.csv:14 
+#: cs/comment.csv:14
 msgid "Near me settings"
-msgstr "Nastavení "V okolí""
+msgstr "Nastavení \"V okolí\""
 
-#: cs/comment.csv:15 
+#: cs/comment.csv:15
 msgid "Post"
 msgstr "Příspěvek"
 
-#: cs/comment.csv:16 
+#: cs/comment.csv:16
 msgid "Publishing date"
 msgstr "Publikováno"
 
-#: cs/comment.csv:17 
+#: cs/comment.csv:17
 msgid "Radius"
 msgstr "Okruh"
 
-#: cs/comment.csv:18 
+#: cs/comment.csv:18
 msgid "Radius must be a valid numeric value."
 msgstr "Okruh musí  být číslo"
 
-#: cs/comment.csv:19 
+#: cs/comment.csv:19
 msgid "Radius must be provided."
 msgstr "Okruh musí  být k dispozici"
 
-#: cs/comment.csv:20 
+#: cs/comment.csv:20
 msgid "Recent"
 msgstr "Aktuální"
 
-#: cs/comment.csv:21 
+#: cs/comment.csv:21
 msgid "Show this info"
 msgstr "Zobrazit tuto informaci"
 
-#: cs/comment.csv:22 
+#: cs/comment.csv:22
 msgid "There is no comment for this news"
 msgstr "Zpráva je zatím bez komentářů"
 
-#: cs/comment.csv:23 
+#: cs/comment.csv:23
 msgid "Was flagged as inappropriate"
 msgstr "Bylo označeno jako nevhodné"
 
-#: cs/comment.csv:24 
+#: cs/comment.csv:24
 msgid "You can't like more than once the same news"
 msgstr "Nelze přidat další Like pro stejnou zprávu"
 
-#: cs/comment.csv:25 
+#: cs/comment.csv:25
 msgid "You need to be connected to create a post"
 msgstr "Musíte být připojeni k vytvoření příspěvku"
 
-#: cs/comment.csv:26 
+#: cs/comment.csv:26
 msgid "Your flag has successfully been notified"
 msgstr "Vaše označení bylo úspěšně uloženo"
 
-#: cs/comment.csv:27 
+#: cs/comment.csv:27
 msgid "Your like has been successfully added"
 msgstr "Váš Like byl přidán"
 
-#: cs/comment.csv:28 
+#: cs/comment.csv:28
 msgid "Your message has been successfully saved."
 msgstr "Vaše zpráva byla úspěšně uložena."
 
-#: cs/comment.csv:29 
+#: cs/comment.csv:29
 msgid "Your post was successfully added"
 msgstr "Váš příspěvek byl úspěšně uložen"
 
-#: cs/comment.csv:30 
+#: cs/comment.csv:30
 msgid "﻿An error occurred while deleting this answer. Please try again later."
 msgstr "Při mazání odpovědi došlo k chybě. Zkuste to prosím později."
-

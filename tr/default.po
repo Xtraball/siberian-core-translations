@@ -2,1110 +2,1109 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/default/"
-"tr/>\n"
-"Language: tr\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/default/tr/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/default.csv:1 
+#: tr/default.csv:1
 msgid "%s ago"
 msgstr "%s önce"
 
-#: tr/default.csv:2 
+#: tr/default.csv:2
 msgid "404, page not found"
 msgstr "404, sayfa bulunamadı"
 
-#: tr/default.csv:3 
+#: tr/default.csv:3
 msgid "APIs"
 msgstr "API ler"
 
-#: tr/default.csv:4 
+#: tr/default.csv:4
 msgid "Accounts"
 msgstr "Hesaplar"
 
-#: tr/default.csv:5 
+#: tr/default.csv:5
 msgid "Actions"
 msgstr "Eylemler"
 
-#: tr/default.csv:6 
+#: tr/default.csv:6
 msgid "Add"
 msgstr "Ekle"
 
-#: tr/default.csv:7 
+#: tr/default.csv:7
 msgid "Add a"
 msgstr "Ekle"
 
-#: tr/default.csv:8 
+#: tr/default.csv:8
 msgid "Add image"
 msgstr "Resim ekle"
 
-#: tr/default.csv:9 
+#: tr/default.csv:9
 msgid "Address"
 msgstr "Adres"
 
-#: tr/default.csv:10 
+#: tr/default.csv:10
 msgid "All items"
 msgstr "Tüm ögeler"
 
-#: tr/default.csv:11 
+#: tr/default.csv:11
 msgid "An error occurred during process. Please try again later."
 msgstr "İşlemi sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/default.csv:12 
+#: tr/default.csv:12
 msgid "An error occurred during the process. Please try again later."
 msgstr "İşlemi sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/default.csv:13 
+#: tr/default.csv:13
 msgid "An error occurred while loading places."
 msgstr "Yerleri yüklerken bir hata oluştu."
 
-#: tr/default.csv:14 
+#: tr/default.csv:14
 msgid "An error occurred while loading. Please try again later."
 msgstr "Yüklenirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/default.csv:15 
+#: tr/default.csv:15
 msgid "An error occurred while loading. Please, try again later."
 msgstr "Yüklenirken bir hata oluştu. Daha sonra tekrar deneyin."
 
-#: tr/default.csv:16 
+#: tr/default.csv:16
 msgid "An error occurred while saving"
 msgstr "Kaydedilirken bir hata oluştu"
 
-#: tr/default.csv:17 
+#: tr/default.csv:17
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "Hesabınızı kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/default.csv:18 
+#: tr/default.csv:18
 msgid "An error occurred while saving your picture. Please try againg later."
 msgstr "Resminiz kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/default.csv:19 
+#: tr/default.csv:19
 msgid "An error occurred while saving. Please try again later."
 msgstr "Kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/default.csv:20 
+#: tr/default.csv:20
 msgid "An error occurred while saving. Please, try again later."
 msgstr "Kaydedilirken bir hata oluştu. Daha sonra tekrar deneyin."
 
-#: tr/default.csv:21 
+#: tr/default.csv:21
 msgid "An error occurred while uploading your file. Please, try again later."
 msgstr "Dosyanızı yüklenirken bir hata oluştu. Daha sonra tekrar deneyin."
 
-#: tr/default.csv:22 
+#: tr/default.csv:22
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Rota hesaplanırken beklenmeyen bir hata oluştu."
 
-#: tr/default.csv:23 
+#: tr/default.csv:23
 msgid "Appearance"
 msgstr "Görünüm"
 
-#: tr/default.csv:24 
+#: tr/default.csv:24
 msgid "Application"
 msgstr "Uygulama"
 
-#: tr/default.csv:25 
+#: tr/default.csv:25
 msgid "Application Name"
 msgstr "Uygulama adı"
 
-#: tr/default.csv:26 
+#: tr/default.csv:26
 msgid "Applications"
 msgstr "Uygulamalar"
 
-#: tr/default.csv:27 
+#: tr/default.csv:27
 msgid "Are you sure you want to delete this element?"
 msgstr "Bu öğeyi silmek istediğinizden emin misiniz?"
 
-#: tr/default.csv:28 
+#: tr/default.csv:28
 msgid "Are you sure you want to remove this account?"
 msgstr "Bu hesabı kaldırmak istediğinize emin misiniz?"
 
-#: tr/default.csv:29 
+#: tr/default.csv:29
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "Kimlik doğrulama başarısız oldu. E-posta adresinizi ve / veya şifrenizi kontrol edin"
 
-#: tr/default.csv:30 
+#: tr/default.csv:30
 msgid "Back"
 msgstr "Geri"
 
-#: tr/default.csv:31 
+#: tr/default.csv:31
 msgid "Background"
 msgstr "Background"
 
-#: tr/default.csv:32 
+#: tr/default.csv:32
 msgid "Browse"
 msgstr "Browse"
 
-#: tr/default.csv:33 
+#: tr/default.csv:33
 msgid "Can only be used once"
 msgstr "Sadece bir kez kullanılabilir"
 
-#: tr/default.csv:34 
+#: tr/default.csv:34
 msgid "Cancel"
 msgstr "İptal"
 
-#: tr/default.csv:35 
+#: tr/default.csv:35
 msgid "Cart"
 msgstr "Sepet"
 
-#: tr/default.csv:36 
+#: tr/default.csv:36
 msgid "Change password"
 msgstr "Şifreyi değiştir"
 
-#: tr/default.csv:37 
+#: tr/default.csv:37
 msgid "City"
 msgstr "Şehir"
 
-#: tr/default.csv:38 
+#: tr/default.csv:38
 msgid "City:"
 msgstr "Şehir:"
 
-#: tr/default.csv:39 
+#: tr/default.csv:39
 msgid "Close"
 msgstr "Kapat"
 
-#: tr/default.csv:40 
+#: tr/default.csv:40
 msgid "Comment"
 msgstr "Yorum"
 
-#: tr/default.csv:41 
+#: tr/default.csv:41
 msgid "Comments"
 msgstr "Yorumlar"
 
-#: tr/default.csv:42 
+#: tr/default.csv:42
 msgid "Communication"
 msgstr "İletişim"
 
-#: tr/default.csv:43 
+#: tr/default.csv:43
 msgid "Company"
 msgstr "Şirket"
 
-#: tr/default.csv:44 
+#: tr/default.csv:44
 msgid "Coms"
 msgstr "Coms"
 
-#: tr/default.csv:45 
+#: tr/default.csv:45
 msgid "Conditions"
 msgstr "Koşullar"
 
-#: tr/default.csv:46 
+#: tr/default.csv:46
 msgid "Confirm Password"
 msgstr "Şifreyi doğrula"
 
-#: tr/default.csv:47 
+#: tr/default.csv:47
 msgid "Confirm new password"
 msgstr "Yeni şifreyi doğrula"
 
-#: tr/default.csv:48 
+#: tr/default.csv:48
 msgid "Contact successfully added to your address book"
 msgstr "Kontak başarıyla adres defterinize eklendi"
 
-#: tr/default.csv:49 
+#: tr/default.csv:49
 msgid "Country"
 msgstr "Ülke"
 
-#: tr/default.csv:50 
+#: tr/default.csv:50
 msgid "Create"
 msgstr "Oluştur"
 
-#: tr/default.csv:51 
+#: tr/default.csv:51
 msgid "Create a new account"
 msgstr "Yeni bir hesap oluştur"
 
-#: tr/default.csv:52 
+#: tr/default.csv:52
 msgid "Created at"
 msgstr "de oluşturuldu"
 
-#: tr/default.csv:53 
+#: tr/default.csv:53
 msgid "Currency"
 msgstr "Para birimi"
 
-#: tr/default.csv:54 
+#: tr/default.csv:54
 msgid "Current password"
 msgstr "Mevcut şifre"
 
-#: tr/default.csv:55 
+#: tr/default.csv:55
 msgid "Dashboard"
 msgstr "Yönetim Paneli"
 
-#: tr/default.csv:56 
+#: tr/default.csv:56
 msgid "Date of birth"
 msgstr "Doğum tarihi"
 
-#: tr/default.csv:57 
+#: tr/default.csv:57
 msgid "Date of birth:"
 msgstr "Doğum tarihi"
 
-#: tr/default.csv:58 
+#: tr/default.csv:58
 msgid "Default Languages"
 msgstr "Birincil dil"
 
-#: tr/default.csv:59 
+#: tr/default.csv:59
 msgid "Delete"
 msgstr "Sil"
 
-#: tr/default.csv:60 
+#: tr/default.csv:60
 msgid "Description"
 msgstr "Açıklama"
 
-#: tr/default.csv:61 
+#: tr/default.csv:61
 msgid "Description:"
 msgstr "Açıklama:"
 
-#: tr/default.csv:62 
+#: tr/default.csv:62
 msgid "Details"
 msgstr "Detaylar"
 
-#: tr/default.csv:63 
+#: tr/default.csv:63
 msgid "Edit"
 msgstr "Düzenle"
 
-#: tr/default.csv:64 
+#: tr/default.csv:64
 msgid "Editing"
 msgstr "Düzenleme"
 
-#: tr/default.csv:65 
+#: tr/default.csv:65
 msgid "Email"
 msgstr "Email"
 
-#: tr/default.csv:66 
+#: tr/default.csv:66
 msgid "Email address"
 msgstr "Email adresi"
 
-#: tr/default.csv:67 
+#: tr/default.csv:67
 msgid "Email:"
 msgstr "Email:"
 
-#: tr/default.csv:68 
+#: tr/default.csv:68
 msgid "End at"
 msgstr "de bitti"
 
-#: tr/default.csv:69 
+#: tr/default.csv:69
 msgid "Error : <br/>"
 msgstr "Hata : <br/>"
 
-#: tr/default.csv:70 
+#: tr/default.csv:70
 msgid "Errors : <br/>"
 msgstr "Hatalar : <br/>"
 
-#: tr/default.csv:71 
+#: tr/default.csv:71
 msgid "Export your customers"
 msgstr "Müşterilerinizi dışarı aktarın"
 
-#: tr/default.csv:72 
+#: tr/default.csv:72
 msgid "Extension not allowed, '%s' only"
 msgstr "Uzatma izin verilmiyor,sadece '%s'"
 
-#: tr/default.csv:73 
+#: tr/default.csv:73
 msgid "Facebook"
 msgstr "Facebook"
 
-#: tr/default.csv:74 
+#: tr/default.csv:74
 msgid "Firstname"
 msgstr "Adı"
 
-#: tr/default.csv:75 
+#: tr/default.csv:75
 msgid "Firstname:"
 msgstr "Adi:"
 
-#: tr/default.csv:76 
+#: tr/default.csv:76
 msgid "Forgot your password ?"
 msgstr "Şifrenizi mi unuttunuz?"
 
-#: tr/default.csv:77 
+#: tr/default.csv:77
 msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
 msgstr "Şifrenizi mi unuttunuz? Üzülmeyin! E-posta adresini girin ,size bir yenisini göndereceğiz."
 
-#: tr/default.csv:78 
+#: tr/default.csv:78
 msgid "General"
 msgstr "Genel"
 
-#: tr/default.csv:79 
+#: tr/default.csv:79
 msgid "Hello,"
 msgstr "Merhaba,"
 
-#: tr/default.csv:80 
+#: tr/default.csv:80
 msgid "Here is your new password:"
 msgstr "Yeni şifreniz:"
 
-#: tr/default.csv:81 
+#: tr/default.csv:81
 msgid "How do you want to access the backoffice if you remove the only user remaining?"
 msgstr "Bu hesap silinemez"
 
-#: tr/default.csv:82 
+#: tr/default.csv:82
 msgid "ID"
 msgstr "ID"
 
-#: tr/default.csv:83 
+#: tr/default.csv:83
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "Resim yüksekliği yeterli değil,en az %spx olmalı."
 
-#: tr/default.csv:84 
+#: tr/default.csv:84
 msgid "Image not large enough, %spx minimum allowed."
 msgstr "Resim eni yeterli değil,en az %spx olmalı."
 
-#: tr/default.csv:85 
+#: tr/default.csv:85
 msgid "Image not large enough, '%s' allowed."
 msgstr "Resim yeterince büyük değil,izin verilen '%s'"
 
-#: tr/default.csv:86 
+#: tr/default.csv:86
 msgid "Image too high, %spx maximum allowed."
 msgstr "Resim yüksekliği çok fazla,en fazla %spx olmalı."
 
-#: tr/default.csv:87 
+#: tr/default.csv:87
 msgid "Image too large, %spx maximum allowed."
 msgstr "Resim çok büyük, en fazla %spx olmalı."
 
-#: tr/default.csv:88 
+#: tr/default.csv:88
 msgid "Image too large, '%s' allowed."
 msgstr "Resim çok büyük,izin verilen büyüklük '%s'."
 
-#: tr/default.csv:89 
+#: tr/default.csv:89
 msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
 msgstr "Uygulamanızı etkin kullanmanız için  önerdiğimiz minimum özellik adedi:<br />"
 
-#: tr/default.csv:90 
+#: tr/default.csv:90
 msgid "In order to publish your application, we need:<br />- "
 msgstr "Uygulamanızı yayınlayabilmemiz için gerekenler:<br />- "
 
-#: tr/default.csv:91 
+#: tr/default.csv:91
 msgid "Incorrect filetype."
 msgstr "Yanlış dosya türü,"
 
-#: tr/default.csv:92 
+#: tr/default.csv:92
 msgid "Info successfully saved"
 msgstr "Bilgi başarıyla kaydedildi"
 
-#: tr/default.csv:93 
+#: tr/default.csv:93
 msgid "Information"
 msgstr "Bilgi"
 
-#: tr/default.csv:94 
+#: tr/default.csv:94
 msgid "Infos successfully saved"
 msgstr "Bilgi başarıyla kaydedildi"
 
-#: tr/default.csv:95 
-msgid "Insert a <br /><span class="bold">cover image</span>"
-msgstr "Bir kapak resmi <br /><span class="bold">yükleyin</span>"
+#: tr/default.csv:95
+msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgstr "Bir kapak resmi <br /><span class=\"bold\">yükleyin</span>"
 
-#: tr/default.csv:96 
+#: tr/default.csv:96
 msgid "Invalid place"
 msgstr "Geçersiz yer"
 
-#: tr/default.csv:97 
+#: tr/default.csv:97
 msgid "Invoices"
 msgstr "Faturalar"
 
-#: tr/default.csv:98 
+#: tr/default.csv:98
 msgid "Last Name"
 msgstr "Soy Ad"
 
-#: tr/default.csv:99 
+#: tr/default.csv:99
 msgid "Lastname"
 msgstr "Soyad"
 
-#: tr/default.csv:100 
+#: tr/default.csv:100
 msgid "Lastname:"
 msgstr "Soyad:"
 
-#: tr/default.csv:101 
+#: tr/default.csv:101
 msgid "Like"
 msgstr "Beğen"
 
-#: tr/default.csv:102 
+#: tr/default.csv:102
 msgid "Likes"
 msgstr "Beğeniler"
 
-#: tr/default.csv:103 
+#: tr/default.csv:103
 msgid "Link"
 msgstr "Link"
 
-#: tr/default.csv:104 
+#: tr/default.csv:104
 msgid "Load More"
 msgstr "Daha fazla yükle"
 
-#: tr/default.csv:105 
+#: tr/default.csv:105
 msgid "Locate"
 msgstr "Yerleştir"
 
-#: tr/default.csv:106 
+#: tr/default.csv:106
 msgid "Location:"
 msgstr "Lokasyon:"
 
-#: tr/default.csv:107 
+#: tr/default.csv:107
 msgid "Log in"
 msgstr "Oturum Aç"
 
-#: tr/default.csv:108 
+#: tr/default.csv:108
 msgid "Log-in"
 msgstr "Oturum Aç"
 
-#: tr/default.csv:109 
+#: tr/default.csv:109
 msgid "Log-out"
 msgstr "Çıkış"
 
-#: tr/default.csv:110 
+#: tr/default.csv:110
 msgid "Logged in as"
 msgstr "Olarak girildi"
 
-#: tr/default.csv:111 
+#: tr/default.csv:111
 msgid "MM,d yy"
 msgstr "MM,d yy"
 
-#: tr/default.csv:112 
+#: tr/default.csv:112
 msgid "MM/dd/y"
 msgstr "MM/dd/y"
 
-#: tr/default.csv:113 
+#: tr/default.csv:113
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "MM/dd/y 'at' hh:mm a"
 
-#: tr/default.csv:114 
+#: tr/default.csv:114
 msgid "MM/dd/y hh:mm a"
 msgstr "MM/dd/y hh:mm a"
 
-#: tr/default.csv:115 
+#: tr/default.csv:115
 msgid "MM/dd/yy"
 msgstr "MM/dd/yy"
 
-#: tr/default.csv:116 
+#: tr/default.csv:116
 msgid "MM/dd/yyyy"
 msgstr "MM/dd/yyyy"
 
-#: tr/default.csv:117 
+#: tr/default.csv:117
 msgid "MMMM dd y"
 msgstr "MMMM dd y"
 
-#: tr/default.csv:118 
+#: tr/default.csv:118
 msgid "Main category"
 msgstr "Ana kategori"
 
-#: tr/default.csv:119 
+#: tr/default.csv:119
 msgid "Make this image colorizable"
 msgstr "Bu resmi renklendirilebilir yap"
 
-#: tr/default.csv:120 
+#: tr/default.csv:120
 msgid "Manage"
 msgstr "Yönet"
 
-#: tr/default.csv:121 
+#: tr/default.csv:121
 msgid "Map"
 msgstr "Harita"
 
-#: tr/default.csv:122 
+#: tr/default.csv:122
 msgid "Maps"
 msgstr "Haritalar"
 
-#: tr/default.csv:123 
+#: tr/default.csv:123
 msgid "Message from your app %s"
 msgstr "%s uygulamanızdan mesaj "
 
-#: tr/default.csv:124 
+#: tr/default.csv:124
 msgid "Messages"
 msgstr "Mesajlar"
 
-#: tr/default.csv:125 
+#: tr/default.csv:125
 msgid "Modules"
 msgstr "Modüller"
 
-#: tr/default.csv:126 
+#: tr/default.csv:126
 msgid "More"
 msgstr "Daha"
 
-#: tr/default.csv:127 
+#: tr/default.csv:127
 msgid "My account"
 msgstr "Hesabım"
 
-#: tr/default.csv:128 
+#: tr/default.csv:128
 msgid "My invoices"
 msgstr "Faturalarım"
 
-#: tr/default.csv:129 
+#: tr/default.csv:129
 msgid "Name"
 msgstr "Ad"
 
-#: tr/default.csv:130 
+#: tr/default.csv:130
 msgid "Never"
 msgstr "Asla"
 
-#: tr/default.csv:131 
+#: tr/default.csv:131
 msgid "New"
 msgstr "Yeni"
 
-#: tr/default.csv:132 
+#: tr/default.csv:132
 msgid "Next"
 msgstr "Sonraki"
 
-#: tr/default.csv:133 
+#: tr/default.csv:133
 msgid "No"
 msgstr "Yok"
 
-#: tr/default.csv:134 
+#: tr/default.csv:134
 msgid "No address to display on map."
 msgstr "Harita üzerinde gösterilecek bir adres yok."
 
-#: tr/default.csv:135 
+#: tr/default.csv:135
 msgid "No place to display on map."
 msgstr "Harita üzerinde gösterilecek bir yer yok."
 
-#: tr/default.csv:136 
+#: tr/default.csv:136
 msgid "No results"
 msgstr "Sonuç yok"
 
-#: tr/default.csv:137 
+#: tr/default.csv:137
 msgid "No uploaded image"
 msgstr "yüklenen resim sayısı"
 
-#: tr/default.csv:138 
+#: tr/default.csv:138
 msgid "Nothing to display"
 msgstr "Gösterilecek bir şey yok"
 
-#: tr/default.csv:139 
+#: tr/default.csv:139
 msgid "Number"
 msgstr "Sayı"
 
-#: tr/default.csv:140 
+#: tr/default.csv:140
 msgid "OK"
 msgstr "OK"
 
-#: tr/default.csv:141 
+#: tr/default.csv:141
 msgid "OR"
 msgstr "YA DA"
 
-#: tr/default.csv:142 
+#: tr/default.csv:142
 msgid "Ouch, this page doesn't exist"
 msgstr "Bu sayfa mevcut değil"
 
-#: tr/default.csv:143 
+#: tr/default.csv:143
 msgid "Password"
 msgstr "Şifre"
 
-#: tr/default.csv:144 
+#: tr/default.csv:144
 msgid "Password:"
 msgstr "Şifre:"
 
-#: tr/default.csv:145 
+#: tr/default.csv:145
 msgid "Passwords don't match"
 msgstr "Şifre eşleşmiyor"
 
-#: tr/default.csv:146 
+#: tr/default.csv:146
 msgid "Payment"
 msgstr "Ödeme"
 
-#: tr/default.csv:147 
+#: tr/default.csv:147
 msgid "Phone"
 msgstr "Telefon"
 
-#: tr/default.csv:148 
+#: tr/default.csv:148
 msgid "Phone:"
 msgstr "Tel:"
 
-#: tr/default.csv:149 
+#: tr/default.csv:149
 msgid "Photos"
 msgstr "Resimler"
 
-#: tr/default.csv:150 
+#: tr/default.csv:150
 msgid "Plans"
 msgstr "Planlar"
 
-#: tr/default.csv:151 
+#: tr/default.csv:151
 msgid "Platform Name"
 msgstr "Platform Adı"
 
-#: tr/default.csv:152 
+#: tr/default.csv:152
 msgid "Player"
 msgstr "Oyuncu"
 
-#: tr/default.csv:153 
+#: tr/default.csv:153
 msgid "Please enter a password"
 msgstr "Lütfen bir şifre girin"
 
-#: tr/default.csv:154 
+#: tr/default.csv:154
 msgid "Please enter a valid URL."
 msgstr "Lütfen geçerli bir URL girin."
 
-#: tr/default.csv:155 
+#: tr/default.csv:155
 msgid "Please enter a valid credit card number."
 msgstr "Lütfen geçerli bir kredi kartı numarası girin."
 
-#: tr/default.csv:156 
+#: tr/default.csv:156
 msgid "Please enter a valid date (ISO)."
 msgstr "Lütfen geçerli bir tarih girin (ISO)."
 
-#: tr/default.csv:157 
+#: tr/default.csv:157
 msgid "Please enter a valid date."
 msgstr "Lütfen geçerli bir tarih girin."
 
-#: tr/default.csv:158 
+#: tr/default.csv:158
 msgid "Please enter a valid email address"
 msgstr "Lütfen geçerli bir email girin"
 
-#: tr/default.csv:159 
+#: tr/default.csv:159
 msgid "Please enter a valid email address."
 msgstr "lütfen geçerli bir email adresi girin."
 
-#: tr/default.csv:160 
+#: tr/default.csv:160
 msgid "Please enter a valid number."
 msgstr "Lütfen geçerli bir numara girin."
 
-#: tr/default.csv:161 
+#: tr/default.csv:161
 msgid "Please enter a valid url"
 msgstr "Lütfen geçerli bir url girin"
 
-#: tr/default.csv:162 
+#: tr/default.csv:162
 msgid "Please enter a value between {0} and {1} characters long."
 msgstr "Lütfen {0} ile {1} karakter uzunluğu arasında bir değer girin."
 
-#: tr/default.csv:163 
+#: tr/default.csv:163
 msgid "Please enter a value between {0} and {1}."
 msgstr "Lütfen {0} ile {1} arası bir değer giriniz."
 
-#: tr/default.csv:164 
+#: tr/default.csv:164
 msgid "Please enter a value greater than or equal to {0}."
 msgstr "Lütfen {0} a eşit ya da büyük bir değer girin."
 
-#: tr/default.csv:165 
+#: tr/default.csv:165
 msgid "Please enter a value less than or equal to {0}."
 msgstr "Lütfen {0} a eşit ya da daha küçük bir değer girin."
 
-#: tr/default.csv:166 
+#: tr/default.csv:166
 msgid "Please enter at least {0} characters."
 msgstr "Lütfen en az {0} karakter girin."
 
-#: tr/default.csv:167 
+#: tr/default.csv:167
 msgid "Please enter no more than {0} characters."
 msgstr "{0} karakterden daha fazla girmeyiniz."
 
-#: tr/default.csv:168 
+#: tr/default.csv:168
 msgid "Please enter only digits."
 msgstr "Lütfen yalnızca numara girin."
 
-#: tr/default.csv:169 
+#: tr/default.csv:169
 msgid "Please enter the same value again."
 msgstr "Lütfen aynı değeri tekrar girin."
 
-#: tr/default.csv:170 
+#: tr/default.csv:170
 msgid "Please enter your email address"
 msgstr "Lütfen email adresinizi girin"
 
-#: tr/default.csv:171 
+#: tr/default.csv:171
 msgid "Please fill in the following fields:"
 msgstr "Aşağıdaki alanları doldurunuz:"
 
-#: tr/default.csv:172 
+#: tr/default.csv:172
 msgid "Please fix this field."
 msgstr "Lütfen alanı düzenleyin."
 
-#: tr/default.csv:173 
+#: tr/default.csv:173
 msgid "Please log in."
 msgstr "Lütfen giriş yapın"
 
-#: tr/default.csv:174 
+#: tr/default.csv:174
 msgid "Please, enter a correct email address."
 msgstr "Lütfen doğru email girin"
 
-#: tr/default.csv:175 
+#: tr/default.csv:175
 msgid "Please, enter a password."
 msgstr "Lütfen bir şifre girin."
 
-#: tr/default.csv:176 
+#: tr/default.csv:176
 msgid "Please, enter a valid date"
 msgstr "Lütfen geçerli bir tarih girin"
 
-#: tr/default.csv:177 
+#: tr/default.csv:177
 msgid "Podcast"
 msgstr "Podcast"
 
-#: tr/default.csv:178 
+#: tr/default.csv:178
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (iTunes format)"
 
-#: tr/default.csv:179 
+#: tr/default.csv:179
 msgid "Podcast type is invalid or can't be found"
 msgstr "Podcast türü geçersiz ya da bulunamıyor"
 
-#: tr/default.csv:180 
+#: tr/default.csv:180
 msgid "Postcode"
 msgstr "Posta kodu"
 
-#: tr/default.csv:181 
+#: tr/default.csv:181
 msgid "Postcode:"
 msgstr "Posta Kodu:"
 
-#: tr/default.csv:182 
+#: tr/default.csv:182
 msgid "Push"
 msgstr "Bildirim"
 
-#: tr/default.csv:183 
+#: tr/default.csv:183
 msgid "Required fields"
 msgstr "Gerekli alanlar"
 
-#: tr/default.csv:184 
+#: tr/default.csv:184
 msgid "Resize your picture"
 msgstr "Resminizi yeniden boyutlandırın"
 
-#: tr/default.csv:185 
+#: tr/default.csv:185
 msgid "Resize your picture:"
 msgstr "Resminizi yeniden boyutlandırın:"
 
-#: tr/default.csv:186 
+#: tr/default.csv:186
 msgid "SEND"
 msgstr "YOLLA"
 
-#: tr/default.csv:187 
+#: tr/default.csv:187
 msgid "Save"
 msgstr "Sakla"
 
-#: tr/default.csv:188 
+#: tr/default.csv:188
 msgid "Search"
 msgstr "Arama"
 
-#: tr/default.csv:189 
+#: tr/default.csv:189
 msgid "Select a country"
 msgstr "Bir ülke seçin"
 
-#: tr/default.csv:190 
+#: tr/default.csv:190
 msgid "Select all"
 msgstr "Tümünü seçin"
 
-#: tr/default.csv:191 
+#: tr/default.csv:191
 msgid "Send"
 msgstr "Gönder"
 
-#: tr/default.csv:192 
+#: tr/default.csv:192
 msgid "Send your pictures"
 msgstr "Resimlerinizi gönderin"
 
-#: tr/default.csv:193 
+#: tr/default.csv:193
 msgid "Settings"
 msgstr "Ayarlar"
 
-#: tr/default.csv:194 
+#: tr/default.csv:194
 msgid "Size:"
 msgstr "Boyut:"
 
-#: tr/default.csv:195 
+#: tr/default.csv:195
 msgid "Street"
 msgstr "Cadde"
 
-#: tr/default.csv:196 
+#: tr/default.csv:196
 msgid "Street:"
 msgstr "Cadde:"
 
-#: tr/default.csv:197 
+#: tr/default.csv:197
 msgid "Subscriptions"
 msgstr "Üyelik"
 
-#: tr/default.csv:198 
+#: tr/default.csv:198
 msgid "Support"
 msgstr "Destek"
 
-#: tr/default.csv:199 
+#: tr/default.csv:199
 msgid "Support Link"
 msgstr "Destek linki"
 
-#: tr/default.csv:200 
+#: tr/default.csv:200
 msgid "Tax"
 msgstr "Vergi"
 
-#: tr/default.csv:201 
+#: tr/default.csv:201
 msgid "Taxes"
 msgstr "Vergiler"
 
-#: tr/default.csv:202 
+#: tr/default.csv:202
 msgid "Text"
 msgstr "Metin"
 
-#: tr/default.csv:203 
+#: tr/default.csv:203
 msgid "The account has been successfully saved"
 msgstr "Hesap başarıyla kaydedildi"
 
-#: tr/default.csv:204 
+#: tr/default.csv:204
 msgid "The address you're looking for does not exists."
 msgstr "Aradığınız adres mevcut değil."
 
-#: tr/default.csv:205 
+#: tr/default.csv:205
 msgid "The email is required"
 msgstr "Email gerekli"
 
-#: tr/default.csv:206 
+#: tr/default.csv:206
 msgid "The file '%s' does not exist"
 msgstr "Dosya '%s' mevcut değil"
 
-#: tr/default.csv:207 
+#: tr/default.csv:207
 msgid "The image '%s' does not exist"
 msgstr "Resim '%s' mevcut değil"
 
-#: tr/default.csv:208 
+#: tr/default.csv:208
 msgid "The image size '%s' could not be detected."
 msgstr "Resim boyutu '%s' algılanamadı."
 
-#: tr/default.csv:209 
+#: tr/default.csv:209
 msgid "The old password does not match the entered password."
 msgstr "Şifreler eşleşmiyor."
 
-#: tr/default.csv:210 
+#: tr/default.csv:210
 msgid "The password is required"
 msgstr "Şifre gerekli"
 
-#: tr/default.csv:211 
+#: tr/default.csv:211
 msgid "The password must be at least 6 characters"
 msgstr "Şifre en az 6 karekter olmalı"
 
-#: tr/default.csv:212 
+#: tr/default.csv:212
 msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
 msgstr "Ödeme iptal edildi, bir şeyler yanlış oldu? Bizimle temas kurmaktan çekinmeyin."
 
-#: tr/default.csv:213 
+#: tr/default.csv:213
 msgid "This administrator does not exist"
 msgstr "Bu Yönetici mevcut değil"
 
-#: tr/default.csv:214 
+#: tr/default.csv:214
 msgid "This email address is already used"
 msgstr "Bu email adresi kullanımda"
 
-#: tr/default.csv:215 
+#: tr/default.csv:215
 msgid "This field is required"
 msgstr "Bu dosya gerekli"
 
-#: tr/default.csv:216 
+#: tr/default.csv:216
 msgid "This field is required."
 msgstr "Gerekli alanları doldurunuz."
 
-#: tr/default.csv:217 
+#: tr/default.csv:217
 msgid "This section is unlocked for mobile users only"
 msgstr "Bu bölüm sadece mobil kullanıcılar için"
 
-#: tr/default.csv:218 
+#: tr/default.csv:218
 msgid "Timezone"
 msgstr "Zaman Dilimi"
 
-#: tr/default.csv:219 
+#: tr/default.csv:219
 msgid "Title"
 msgstr "Başlık:"
 
-#: tr/default.csv:220 
+#: tr/default.csv:220
 msgid "Title:"
 msgstr "Başlık:"
 
-#: tr/default.csv:221 
+#: tr/default.csv:221
 msgid "Total"
 msgstr "Toplam"
 
-#: tr/default.csv:222 
+#: tr/default.csv:222
 msgid "Translations"
 msgstr "Çeviriler"
 
-#: tr/default.csv:223 
+#: tr/default.csv:223
 msgid "Unable to add the contact to your address book"
 msgstr "Adres defterinize kişi eklenemiyor"
 
-#: tr/default.csv:224 
+#: tr/default.csv:224
 msgid "Unable to calculate the route."
 msgstr "Rota hesaplanamıyor."
 
-#: tr/default.csv:225 
+#: tr/default.csv:225
 msgid "Unable to save image"
 msgstr "Resim kaydedilemiyor"
 
-#: tr/default.csv:226 
+#: tr/default.csv:226
 msgid "Unrecognized image format"
 msgstr "Tanınmayan resim biçimi"
 
-#: tr/default.csv:227 
+#: tr/default.csv:227
 msgid "Updated at"
 msgstr "de güncellendi"
 
-#: tr/default.csv:228 
+#: tr/default.csv:228
 msgid "Use this coupon"
 msgstr "Bu kuponu kullanın"
 
-#: tr/default.csv:229 
+#: tr/default.csv:229
 msgid "User"
 msgstr "Kullanıcı"
 
-#: tr/default.csv:230 
+#: tr/default.csv:230
 msgid "User successfully saved"
 msgstr "Kullanıcı başarıyla kaydedildi"
 
-#: tr/default.csv:231 
+#: tr/default.csv:231
 msgid "Username"
 msgstr "Kullanıcı adı"
 
-#: tr/default.csv:232 
+#: tr/default.csv:232
 msgid "Users"
 msgstr "Kullanıcılar"
 
-#: tr/default.csv:233 
+#: tr/default.csv:233
 msgid "VAT Number"
 msgstr "Vergi numarası"
 
-#: tr/default.csv:234 
+#: tr/default.csv:234
 msgid "Validate"
 msgstr "Geçerli"
 
-#: tr/default.csv:235 
+#: tr/default.csv:235
 msgid "Version %s"
 msgstr "Versiyon %s"
 
-#: tr/default.csv:236 
+#: tr/default.csv:236
 msgid "View"
 msgstr "Görünüm"
 
-#: tr/default.csv:237 
+#: tr/default.csv:237
 msgid "We are sorry but this address is already used."
 msgstr "Üzgünüz ama bu adres kullanımda"
 
-#: tr/default.csv:238 
+#: tr/default.csv:238
 msgid "We are sorry but this email address already exists."
 msgstr "Üzgünüz ama bu email kullanılmış"
 
-#: tr/default.csv:239 
+#: tr/default.csv:239
 msgid "We are sorry but this feature is not available yet"
 msgstr "Üzgünüz ama bu özellik henüz mevcut değil"
 
-#: tr/default.csv:240 
+#: tr/default.csv:240
 msgid "Website"
 msgstr "Website"
 
-#: tr/default.csv:241 
+#: tr/default.csv:241
 msgid "Yes"
 msgstr "Evet"
 
-#: tr/default.csv:242 
+#: tr/default.csv:242
 msgid "You already have this user in your contact"
 msgstr "Bu kullanıcı zaten listenizde"
 
-#: tr/default.csv:243 
+#: tr/default.csv:243
 msgid "You are gone offline"
 msgstr "Çevrim dışısınız"
 
-#: tr/default.csv:244 
+#: tr/default.csv:244
 msgid "You can upload a pem certificate only."
 msgstr "Sadece bir pem sertifikası yükleyebilirsiniz."
 
-#: tr/default.csv:245 
+#: tr/default.csv:245
 msgid "You can upload a zip archive only."
 msgstr "Sadece zip arşiv yüklenebilir."
 
-#: tr/default.csv:246 
+#: tr/default.csv:246
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "Sadece (.ico ve .png) yükleyebilirsiniz."
 
-#: tr/default.csv:247 
+#: tr/default.csv:247
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgstr "Sadece (.jpg, .jpeg, .gif ve .png) yükleyebilirsiniz."
 
-#: tr/default.csv:248 
+#: tr/default.csv:248
 msgid "You can't upload more than one file at a time."
 msgstr "Bir seferde birden fazla dosya yüklenemez."
 
-#: tr/default.csv:249 
+#: tr/default.csv:249
 msgid "You must be logged in to post a comment"
 msgstr "Yorum yazmak için giriş yapmalısınız"
 
-#: tr/default.csv:250 
+#: tr/default.csv:250
 msgid "You must give the permission to the app to add a contact to your address book"
 msgstr "Adres defterinize kontak eklemek için uygulamaya izin vermelisiniz"
 
-#: tr/default.csv:251 
+#: tr/default.csv:251
 msgid "You must share your location to access this page."
 msgstr "Bu sayfaya ulaşmak için yerinizi paylaşmalısınız."
 
-#: tr/default.csv:252 
+#: tr/default.csv:252
 msgid "Your browser is too old to view the content of our website.<br />"
 msgstr "Tarayıcınız sitemizin içeriğini görüntülemek için çok eski. <br />"
 
-#: tr/default.csv:253 
+#: tr/default.csv:253
 msgid "Your comment"
 msgstr "Yorumunuz"
 
-#: tr/default.csv:254 
+#: tr/default.csv:254
 msgid "Your email address"
 msgstr "Email adresiniz"
 
-#: tr/default.csv:255 
+#: tr/default.csv:255
 msgid "Your email address does not exist"
 msgstr "Email adresiniz mevcut değil"
 
-#: tr/default.csv:256 
+#: tr/default.csv:256
 msgid "Your name"
 msgstr "Adınız"
 
-#: tr/default.csv:257 
+#: tr/default.csv:257
 msgid "Your new password has been sent to the entered email address"
 msgstr "Yeni şifreniz girilen e-posta adresine gönderildi"
 
-#: tr/default.csv:258 
+#: tr/default.csv:258
 msgid "Your password does not match the entered password."
 msgstr "Şifreler eşleşmiyor."
 
-#: tr/default.csv:259 
+#: tr/default.csv:259
 msgid "Youtube"
 msgstr "Youtube"
 
-#: tr/default.csv:260 
+#: tr/default.csv:260
 msgid "close"
 msgstr "Kapat"
 
-#: tr/default.csv:261 
+#: tr/default.csv:261
 msgid "day"
 msgstr "gün"
 
-#: tr/default.csv:262 
+#: tr/default.csv:262
 msgid "days"
 msgstr "gün "
 
-#: tr/default.csv:263 
+#: tr/default.csv:263
 msgid "en"
 msgstr "tr"
 
-#: tr/default.csv:264 
+#: tr/default.csv:264
 msgid "hour"
 msgstr "saat"
 
-#: tr/default.csv:265 
+#: tr/default.csv:265
 msgid "hours"
 msgstr "saat"
 
-#: tr/default.csv:266 
+#: tr/default.csv:266
 msgid "loading"
 msgstr "yüklüyor"
 
-#: tr/default.csv:267 
+#: tr/default.csv:267
 msgid "minute"
 msgstr "dakika"
 
-#: tr/default.csv:268 
+#: tr/default.csv:268
 msgid "minutes"
 msgstr "dakika"
 
-#: tr/default.csv:269 
+#: tr/default.csv:269
 msgid "picture"
 msgstr "resim"
 
-#: tr/default.csv:270 
+#: tr/default.csv:270
 msgid "second"
 msgstr "saniye"
 
-#: tr/default.csv:271 
+#: tr/default.csv:271
 msgid "seconds"
 msgstr "saniye"
 
-#: tr/default.csv:272 
+#: tr/default.csv:272
 msgid "title"
 msgstr "başlık"
 
-#: tr/default.csv:273 
+#: tr/default.csv:273
 msgid "titles"
 msgstr "başlıklar"
 
-#: tr/default.csv:274 
+#: tr/default.csv:274
 msgid "to add a subfolder."
 msgstr "Bir alt klasör eklemek için."

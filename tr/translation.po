@@ -1,62 +1,66 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: tr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/translation.csv:1 
+#: tr/translation.csv:1
 msgid "Create a new language"
 msgstr "Yeni bir dil oluştur"
 
-#: tr/translation.csv:2 
+#: tr/translation.csv:2
 msgid "Default text"
 msgstr "Varsayılan metin"
 
-#: tr/translation.csv:3 
+#: tr/translation.csv:3
 msgid "Edit the language: %s"
 msgstr "Dil düzenleyin:%s"
 
-#: tr/translation.csv:4 
+#: tr/translation.csv:4
 msgid "Language"
 msgstr "Dil"
 
-#: tr/translation.csv:5 
+#: tr/translation.csv:5
 msgid "Language successfully saved"
 msgstr "Dil başarıyla kaydedildi"
 
-#: tr/translation.csv:6 
+#: tr/translation.csv:6
 msgid "List of your languages"
 msgstr "Dillerinizin listesi"
 
-#: tr/translation.csv:7 
+#: tr/translation.csv:7
 msgid "Please, choose a file."
 msgstr "Lütfen bir dosya seçin."
 
-#: tr/translation.csv:8 
+#: tr/translation.csv:8
 msgid "Please, choose a language."
 msgstr "Lütfen bir dil seçin"
 
-#: tr/translation.csv:9 
+#: tr/translation.csv:9
 msgid "Select a file"
 msgstr "Bir dosya seçin."
 
-#: tr/translation.csv:10 
+#: tr/translation.csv:10
 msgid "Select a language"
 msgstr "Bir dil seçin"
 
-#: tr/translation.csv:11 
+#: tr/translation.csv:11
 msgid "Text translation"
 msgstr "Metin çevirisi"
 
-#: tr/translation.csv:12 
+#: tr/translation.csv:12
 msgid "Translations"
 msgstr "Çeviriler"
 
-#: tr/translation.csv:13 
+#: tr/translation.csv:13
 msgid "Your translation"
 msgstr "Çeviriniz"
-

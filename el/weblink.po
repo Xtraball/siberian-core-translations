@@ -1,58 +1,62 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/weblink.csv:1 
+#: el/weblink.csv:1
 msgid "Add a link"
 msgstr "Προσθήκη συνδέσμου"
 
-#: el/weblink.csv:2 
+#: el/weblink.csv:2
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της εικόνας σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/weblink.csv:3 
+#: el/weblink.csv:3
 msgid "Are you sure you want to delete this link?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό τον σύνδεσμο?"
 
-#: el/weblink.csv:4 
+#: el/weblink.csv:4
 msgid "Are you sure you want to delete this picture?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την εικόνα?"
 
-#: el/weblink.csv:5 
+#: el/weblink.csv:5
 msgid "Link"
 msgstr "Σύνδεσμος"
 
-#: el/weblink.csv:6 
+#: el/weblink.csv:6
 msgid "Link has been successfully deleted"
 msgstr "Ο σύνδεσμος διεγράφη επιτυχώς"
 
-#: el/weblink.csv:7 
+#: el/weblink.csv:7
 msgid "Link has been successfully saved"
 msgstr "Ο σύνδεσμος αποθηκεύτηκε επιτυχώς"
 
-#: el/weblink.csv:8 
+#: el/weblink.csv:8
 msgid "Link:"
 msgstr "Σύνδεσμος:"
 
-#: el/weblink.csv:9 
+#: el/weblink.csv:9
 msgid "Picto"
 msgstr "Εικόνα"
 
-#: el/weblink.csv:10 
+#: el/weblink.csv:10
 msgid "The image has been successfully deleted"
 msgstr "Η εικόνα διεγράφη επιτυχώς"
 
-#: el/weblink.csv:11 
+#: el/weblink.csv:11
 msgid "The image has been successfully saved"
 msgstr "Η εικόνα αποθηκεύτηκε επιτυχώς"
 
-#: el/weblink.csv:12 
+#: el/weblink.csv:12
 msgid "Your links"
 msgstr "Οι σύνδεσμοί σας"
-

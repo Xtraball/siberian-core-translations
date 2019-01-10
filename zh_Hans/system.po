@@ -1,82 +1,86 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: zh_Hans\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: zh_Hans\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/system.csv:1 
+#: zh/system.csv:1
 msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
 msgstr "<b>文件类型:</b> %s<br /><b>推荐大小:</b> %s"
 
-#: zh/system.csv:2 
+#: zh/system.csv:2
 msgid "Click here to send your favicon"
 msgstr "点击这里给你的图标"
 
-#: zh/system.csv:3 
+#: zh/system.csv:3
 msgid "Click here to send your logo"
 msgstr "点击这里提交您的徽标"
 
-#: zh/system.csv:4 
+#: zh/system.csv:4
 msgid "Communications"
 msgstr "通讯"
 
-#: zh/system.csv:5 
+#: zh/system.csv:5
 msgid "Current favicon"
 msgstr "目前的网站图标"
 
-#: zh/system.csv:6 
+#: zh/system.csv:6
 msgid "Current logo"
 msgstr "当前徽标"
 
-#: zh/system.csv:7 
+#: zh/system.csv:7
 msgid "Display a link to your clients to your support platform"
 msgstr "显示一个链接到其客户的平台支持"
 
-#: zh/system.csv:8 
+#: zh/system.csv:8
 msgid "Drop your favicon here"
 msgstr "留下您的图标点击这里"
 
-#: zh/system.csv:9 
+#: zh/system.csv:9
 msgid "Drop your logo here"
 msgstr "留下您的徽标在这里"
 
-#: zh/system.csv:10 
+#: zh/system.csv:10
 msgid "Sales"
 msgstr "销售"
 
-#: zh/system.csv:11 
+#: zh/system.csv:11
 msgid "Sales Email Address"
 msgstr "销售电子邮件地址"
 
-#: zh/system.csv:12 
+#: zh/system.csv:12
 msgid "Sender's email address of the emails sent by the site to your clients"
 msgstr "电子邮件由站点为其客户发送的发送者的电子邮件地址"
 
-#: zh/system.csv:13 
+#: zh/system.csv:13
 msgid "Sender's name of the emails sent by the site to your clients"
 msgstr "电子邮件由站点为其客户发送的发送者的名称"
 
-#: zh/system.csv:14 
+#: zh/system.csv:14
 msgid "Support Email Address"
 msgstr "支持E- mail支持"
 
-#: zh/system.csv:15 
+#: zh/system.csv:15
 msgid "The folder /images/default is not writable."
 msgstr "文件夹/图像/默认情况下是不可修改的。"
 
-#: zh/system.csv:16 
+#: zh/system.csv:16
 msgid "Your Location"
 msgstr "您现在的位置"
 
-#: zh/system.csv:17 
+#: zh/system.csv:17
 msgid "Your Platform"
 msgstr "您的平台"
 
-#: zh/system.csv:18 
+#: zh/system.csv:18
 msgid "Your company"
 msgstr "贵公司"
-

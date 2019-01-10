@@ -1,218 +1,222 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/installer.csv:1 
+#: ru/installer.csv:1
 msgid "%s Update"
 msgstr "%s Обновление"
 
-#: ru/installer.csv:2 
+#: ru/installer.csv:2
 msgid "All of your modules are up to date"
 msgstr "Все ваши модули находятся в актуальном состоянии"
 
-#: ru/installer.csv:3 
+#: ru/installer.csv:3
 msgid "Click here to send your module"
 msgstr "Нажмите здесь, чтобы отправить Ваш модуль"
 
-#: ru/installer.csv:4 
+#: ru/installer.csv:4
 msgid "Drop your module here"
 msgstr "Оставьте ваш модуль здесь"
 
-#: ru/installer.csv:5 
+#: ru/installer.csv:5
 msgid "Host"
 msgstr "Хостинг"
 
-#: ru/installer.csv:6 
-msgid "Installing module <em><span id="label_module"></span></em>"
-msgstr "Установка модуля <em><span id="label_module"></span></em>"
+#: ru/installer.csv:6
+msgid "Installing module <em><span id=\"label_module\"></span></em>"
+msgstr "Установка модуля <em><span id=\"label_module\"></span></em>"
 
-#: ru/installer.csv:7 
+#: ru/installer.csv:7
 msgid "Installing"
 msgstr "Установка"
 
-#: ru/installer.csv:8 
+#: ru/installer.csv:8
 msgid "Installing your module"
 msgstr "Установка вашего модуля"
 
-#: ru/installer.csv:9 
+#: ru/installer.csv:9
 msgid "Module successfully installed"
 msgstr "Модуль успешно установлен"
 
-#: ru/installer.csv:10 
+#: ru/installer.csv:10
 msgid "Module to upload"
 msgstr "Модуль для загрузки"
 
-#: ru/installer.csv:11 
+#: ru/installer.csv:11
 msgid "Modules Installation"
 msgstr "Установка дополнительных модулей"
 
-#: ru/installer.csv:12 
+#: ru/installer.csv:12
 msgid "Modules successfully installed!"
 msgstr "Модули успешно установлены!"
 
-#: ru/installer.csv:13 
+#: ru/installer.csv:13
 msgid "No directory provided"
 msgstr "Нет указанного каталога"
 
-#: ru/installer.csv:14 
+#: ru/installer.csv:14
 msgid "No module to install"
 msgstr "Модуль не установить"
 
-#: ru/installer.csv:15 
+#: ru/installer.csv:15
 msgid "No modules uploaded yet"
 msgstr "Ни один из модулей не загружен"
 
-#: ru/installer.csv:16 
+#: ru/installer.csv:16
 msgid "Or set the correct permissions to the following files and folders and try again:"
 msgstr "Или установите правильные разрешения на следующие файлы и папки и попробуйте снова:"
 
-#: ru/installer.csv:17 
+#: ru/installer.csv:17
 msgid "Package Details"
 msgstr "Подробности пакета"
 
-#: ru/installer.csv:18 
+#: ru/installer.csv:18
 msgid "Path to your system"
 msgstr "Путь к вашей системе"
 
-#: ru/installer.csv:19 
+#: ru/installer.csv:19
 msgid "Port"
 msgstr "Порт"
 
-#: ru/installer.csv:20 
+#: ru/installer.csv:20
 msgid "Please update the module to the %s version before installing this update."
 msgstr "Пожалуйста, обновите модуль до версии %s , перед установкой этого обновления."
 
-#: ru/installer.csv:21 
+#: ru/installer.csv:21
 msgid "Please update your system to the %s version before installing this update."
 msgstr "Пожалуйста, обновите систему до версии %s , перед установкой этого обновления."
 
-#: ru/installer.csv:22 
+#: ru/installer.csv:22
 msgid "Please wait, we're installing your module"
 msgstr "Пожалуйста, подождите, мы устанавливаем модуль"
 
-#: ru/installer.csv:23 
+#: ru/installer.csv:23
 msgid "Please, enter a name"
 msgstr "Пожалуйста, введите имя"
 
-#: ru/installer.csv:24 
+#: ru/installer.csv:24
 msgid "Please, fill out all fields"
 msgstr "Пожалуйста, заполните все поля"
 
-#: ru/installer.csv:25 
+#: ru/installer.csv:25
 msgid "Processing the installation"
 msgstr "Обработка установки"
 
-#: ru/installer.csv:26 
+#: ru/installer.csv:26
 msgid "Retry"
 msgstr "Повторите"
 
-#: ru/installer.csv:27 
+#: ru/installer.csv:27
 msgid "Select a module to upload"
 msgstr "Выберите модуль для загрузки"
 
-#: ru/installer.csv:28 
+#: ru/installer.csv:28
 msgid "Some files and folder are not writable. You can either provide your FTP access to install this update:"
 msgstr "Некоторые файлы и папки не могут быть перезаписаны. Вы можете либо предоставить вам доступ по FTP, чтобы установить это обновление:"
 
-#: ru/installer.csv:29 
+#: ru/installer.csv:29
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr "Некоторые файлы не имеют права доступа и не могут быть обновлены"
 
-#: ru/installer.csv:30 
+#: ru/installer.csv:30
 msgid "The database connection failed. Please, check the entered information."
 msgstr "Подключение к базе данных не удалось. Пожалуйста, проверьте введенную информацию."
 
-#: ru/installer.csv:31 
+#: ru/installer.csv:31
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Ваше подтверждение пароля не соответствует введенному паролю."
 
-#: ru/installer.csv:32 
+#: ru/installer.csv:32
 msgid "The file %s does not exist"
 msgstr "Файл %s не существует"
 
-#: ru/installer.csv:33 
+#: ru/installer.csv:33
 msgid "The file %s is not writable."
 msgstr " Файл %s не доступен для записи."
 
-#: ru/installer.csv:34 
+#: ru/installer.csv:34
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr "Папка %s не доступна для записи. Пожалуйста, исправьте этот вопрос и попробуйте еще раз."
 
-#: ru/installer.csv:35 
+#: ru/installer.csv:35
 msgid "The folder %s is not writable."
 msgstr "Папка %s не доступна для записи."
 
-#: ru/installer.csv:36 
+#: ru/installer.csv:36
 msgid "The following files and folders are not writable:"
 msgstr "Следующие файлы и папки не могут быть перезаписаны:"
 
-#: ru/installer.csv:37 
+#: ru/installer.csv:37
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr "Следующие файлы и папки не могут быть перезаписаны: <br /> - %s"
 
-#: ru/installer.csv:38 
+#: ru/installer.csv:38
 msgid "The following folders are not writable: <br /> - %s"
 msgstr "Следующие папки не доступны для записи: <br /> -%s"
 
-#: ru/installer.csv:39 
-msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
-msgstr "Установка модуля <span id="installation_failed_module_name"></span> не удалась: <span id="installation_failed_because"></span>"
+#: ru/installer.csv:39
+msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
+msgstr "Установка модуля <span id=\"installation_failed_module_name\"></span> не удалась: <span id=\"installation_failed_because\"></span>"
 
-#: ru/installer.csv:40 
+#: ru/installer.csv:40
 msgid "The package you have uploaded is invalid."
 msgstr "Пакет, который вы загрузили является недопустимым."
 
-#: ru/installer.csv:41 
+#: ru/installer.csv:41
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr "Этот процесс может занять несколько минут, пожалуйста, не обновляйте страницу"
 
-#: ru/installer.csv:42 
+#: ru/installer.csv:42
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr "Это обновление предназначено для %s, вы не можете установить его в вашем %s."
 
-#: ru/installer.csv:43 
+#: ru/installer.csv:43
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr "Не удается подключиться к вашему FTP. Пожалуйста, проверьте информацию о соединении."
 
-#: ru/installer.csv:44 
+#: ru/installer.csv:44
 msgid "Unable to detect your site. Please make sure the entered path is correct."
 msgstr "Невозможно определить ваш сайт. Пожалуйста, убедитесь, что ввели правильный путь."
 
-#: ru/installer.csv:45 
+#: ru/installer.csv:45
 msgid "Unable to extract the archive."
 msgstr "Невозможно извлечь архив."
 
-#: ru/installer.csv:46 
+#: ru/installer.csv:46
 msgid "Unable to open the archive."
 msgstr "Не удается открыть архив."
 
-#: ru/installer.csv:47 
+#: ru/installer.csv:47
 msgid "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr "Не удается открыть файл. Пожалуйста, убедитесь, что вы отправили правильный архив."
 
-#: ru/installer.csv:48 
+#: ru/installer.csv:48
 msgid "Upload a module"
 msgstr "Загрузить модуль"
 
-#: ru/installer.csv:49 
+#: ru/installer.csv:49
 msgid "Upload your modules"
 msgstr "Загрузить модули"
 
-#: ru/installer.csv:50 
+#: ru/installer.csv:50
 msgid "Username"
 msgstr "Имя пользователя"
 
-#: ru/installer.csv:51 
+#: ru/installer.csv:51
 msgid "You already have installed this update."
 msgstr "Вы уже установили это обновление."
 
-#: ru/installer.csv:52 
+#: ru/installer.csv:52
 msgid "You can either fix this issue by setting the correct permissions to them and try again or enter your FTP access below:"
 msgstr "Вы можете решить эту проблему, установив необходимые разрешения для них и попробовать снова или введите ваш доступ FTP ниже:"
-

@@ -1,82 +1,86 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: tr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/system.csv:1 
+#: tr/system.csv:1
 msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
 msgstr "<b>Dosya çeşidi:</b> %s<br /><b>Grekli alan:</b> %s"
 
-#: tr/system.csv:2 
+#: tr/system.csv:2
 msgid "Click here to send your favicon"
 msgstr "Favicon göndermek için buraya tıklayın"
 
-#: tr/system.csv:3 
+#: tr/system.csv:3
 msgid "Click here to send your logo"
 msgstr "Logonuzu göndermek için buraya tıklayın"
 
-#: tr/system.csv:4 
+#: tr/system.csv:4
 msgid "Communications"
 msgstr "İletişim"
 
-#: tr/system.csv:5 
+#: tr/system.csv:5
 msgid "Current favicon"
 msgstr "Güncel favicon"
 
-#: tr/system.csv:6 
+#: tr/system.csv:6
 msgid "Current logo"
 msgstr "Güncel logos"
 
-#: tr/system.csv:7 
+#: tr/system.csv:7
 msgid "Display a link to your clients to your support platform"
 msgstr "Destek platformu için müşterilerine bir bağlantı görüntüler"
 
-#: tr/system.csv:8 
+#: tr/system.csv:8
 msgid "Drop your favicon here"
 msgstr "Buraya favicon bırakın"
 
-#: tr/system.csv:9 
+#: tr/system.csv:9
 msgid "Drop your logo here"
 msgstr "Buraya logo bırakın"
 
-#: tr/system.csv:10 
+#: tr/system.csv:10
 msgid "Sales"
 msgstr "Satışlar"
 
-#: tr/system.csv:11 
+#: tr/system.csv:11
 msgid "Sales Email Address"
 msgstr "Satış E-posta Adresi"
 
-#: tr/system.csv:12 
+#: tr/system.csv:12
 msgid "Sender's email address of the emails sent by the site to your clients"
 msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin e-posta adresi"
 
-#: tr/system.csv:13 
+#: tr/system.csv:13
 msgid "Sender's name of the emails sent by the site to your clients"
 msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin ismi"
 
-#: tr/system.csv:14 
+#: tr/system.csv:14
 msgid "Support Email Address"
 msgstr "Destek E-posta Adresi"
 
-#: tr/system.csv:15 
+#: tr/system.csv:15
 msgid "The folder /images/default is not writable."
 msgstr "Klasör / resimler / varsayılan yazılabilir değil."
 
-#: tr/system.csv:16 
+#: tr/system.csv:16
 msgid "Your Location"
 msgstr "Lokasyonunuz"
 
-#: tr/system.csv:17 
+#: tr/system.csv:17
 msgid "Your Platform"
 msgstr "Platformunuz"
 
-#: tr/system.csv:18 
+#: tr/system.csv:18
 msgid "Your company"
 msgstr "Şirketiniz"
-

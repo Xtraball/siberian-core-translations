@@ -1,106 +1,110 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: nl\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/booking.csv:1 
+#: nl/booking.csv:1
 msgid "Booking details"
 msgstr "Reserveringdetails"
 
-#: nl/booking.csv:2 
+#: nl/booking.csv:2
 msgid "Booking details:"
 msgstr "Reserveringdetails:"
 
-#: nl/booking.csv:3 
+#: nl/booking.csv:3
 msgid "Booking subject:"
 msgstr "Boeking betreft:"
 
-#: nl/booking.csv:4 
+#: nl/booking.csv:4
 msgid "Comment:"
 msgstr "Opmerkingen"
 
-#: nl/booking.csv:5 
+#: nl/booking.csv:5
 msgid "Date and time"
 msgstr "Datum en tijd"
 
-#: nl/booking.csv:6 
+#: nl/booking.csv:6
 msgid "Date and time:"
 msgstr "Datum en tijd:"
 
-#: nl/booking.csv:7 
+#: nl/booking.csv:7
 msgid "Email address:"
 msgstr "Emailadres:"
 
-#: nl/booking.csv:8 
+#: nl/booking.csv:8
 msgid "Enter the location name and contact email:"
 msgstr "Voer de locatienaam en contact email in:"
 
-#: nl/booking.csv:9 
+#: nl/booking.csv:9
 msgid "First name / Last name"
 msgstr "Voornaam / Achternaam"
 
-#: nl/booking.csv:10 
+#: nl/booking.csv:10
 msgid "Here are his personal information:"
 msgstr "Voici ses informations personnelles :"
 
-#: nl/booking.csv:11 
+#: nl/booking.csv:11
 msgid "Name:"
 msgstr "Naam:"
 
-#: nl/booking.csv:12 
+#: nl/booking.csv:12
 msgid "Nom du lieu :"
 msgstr "Vul naam in:"
 
-#: nl/booking.csv:13 
+#: nl/booking.csv:13
 msgid "People number:"
 msgstr "Aantal personen:"
 
-#: nl/booking.csv:14 
+#: nl/booking.csv:14
 msgid "Phone number:"
 msgstr "Telefoonnummer"
 
-#: nl/booking.csv:15 
+#: nl/booking.csv:15
 msgid "Please fill out the following fields: "
 msgstr "Vul de volgende velden in:<br />"
 
-#: nl/booking.csv:16 
+#: nl/booking.csv:16
 msgid "Please fill out the following fields:<br />"
 msgstr "Vul de volgende velden in:<br />"
 
-#: nl/booking.csv:17 
+#: nl/booking.csv:17
 msgid "Please, choose a store"
 msgstr "Kies een winkel"
 
-#: nl/booking.csv:18 
+#: nl/booking.csv:18
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Bedankt voor uw verzoek. Wij beantwoorden deze zo spoedig mogelijk."
 
-#: nl/booking.csv:19 
+#: nl/booking.csv:19
 msgid "The booking information"
 msgstr "Reserveringsinformatie"
 
-#: nl/booking.csv:20 
+#: nl/booking.csv:20
 msgid "The booking informations"
 msgstr "Reserveringsinformatie"
 
-#: nl/booking.csv:21 
+#: nl/booking.csv:21
 msgid "The date and time of the booking"
 msgstr "Datum en tijd van de reservering"
 
-#: nl/booking.csv:22 
+#: nl/booking.csv:22
 msgid "The number of people"
 msgstr "Aantal personen"
 
-#: nl/booking.csv:23 
+#: nl/booking.csv:23
 msgid "You have received a message for the booking of"
 msgstr "U heeft een bericht van de boeking van de ontvangen"
 
-#: nl/booking.csv:24 
+#: nl/booking.csv:24
 msgid "Your phone number or email address"
 msgstr "Uw telefoonnummer of emailadres"
-

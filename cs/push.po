@@ -1,118 +1,122 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/push.csv:1 
+#: cs/push.csv:1
 msgid "Additionnal Information"
 msgstr "Další informace"
 
-#: cs/push.csv:2 
+#: cs/push.csv:2
 msgid "And a radius (in Km):"
 msgstr "A poloměr (v km):"
 
-#: cs/push.csv:3 
+#: cs/push.csv:3
 msgid "Android"
 msgstr "Android"
 
-#: cs/push.csv:4 
+#: cs/push.csv:4
 msgid "Creation date"
 msgstr "Vytvořeno"
 
-#: cs/push.csv:5 
+#: cs/push.csv:5
 msgid "Enter a location:"
 msgstr "Vyberte oblast (místo nebo GPS souřadnice):"
 
-#: cs/push.csv:6 
+#: cs/push.csv:6
 msgid "GCM Key"
 msgstr "GCM Key"
 
-#: cs/push.csv:7 
+#: cs/push.csv:7
 msgid "I want to send it"
 msgstr "Chci odeslat"
 
-#: cs/push.csv:8 
+#: cs/push.csv:8
 msgid "Keys successfully saved"
 msgstr "Klíč úspěšně uložen"
 
-#: cs/push.csv:9 
+#: cs/push.csv:9
 msgid "Message"
 msgstr "Zpráva"
 
-#: cs/push.csv:10 
+#: cs/push.csv:10
 msgid "Message:"
 msgstr "Zpráva:"
 
-#: cs/push.csv:11 
+#: cs/push.csv:11
 msgid "Pending"
 msgstr "Nevyřízené"
 
-#: cs/push.csv:12 
+#: cs/push.csv:12
 msgid "Push Notifications"
 msgstr "PUSH zprávy"
 
-#: cs/push.csv:13 
+#: cs/push.csv:13
 msgid "Push Notifications Settings"
 msgstr "PUSH zprávy - nastavení"
 
-#: cs/push.csv:14 
+#: cs/push.csv:14
 msgid "Radius"
 msgstr "Poloměr"
 
-#: cs/push.csv:15 
+#: cs/push.csv:15
 msgid "Send to a specific location"
 msgstr "Odeslat do konkrétní oblasti"
 
-#: cs/push.csv:16 
+#: cs/push.csv:16
 msgid "Send to all my users"
 msgstr "Odeslat všem uživatelům"
 
-#: cs/push.csv:17 
+#: cs/push.csv:17
 msgid "Sender ID"
 msgstr "ID odesílatele"
 
-#: cs/push.csv:18 
+#: cs/push.csv:18
 msgid "Sending date"
 msgstr "Datum odeslání"
 
-#: cs/push.csv:19 
+#: cs/push.csv:19
 msgid "The duration limit must be higher than the sent date"
 msgstr "Doba trvání musí být vyšší než datum odelsání!"
 
-#: cs/push.csv:20 
+#: cs/push.csv:20
 msgid "Your app must be published to send a push notification."
 msgstr "Pro odesílání PUSH zpráv musí být vaše aplikace nejprve vypublikována"
 
-#: cs/push.csv:21 
+#: cs/push.csv:21
 msgid "Your message has been saved successfully and will be sent at the entered date"
 msgstr "Vaše zpráva byla úspěšně uložena a bude odeslána v zadaný termín"
 
-#: cs/push.csv:22 
+#: cs/push.csv:22
 msgid "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "Vaše zpráva byla úspěšně uložena a bude odeslána během okamžiku"
 
-#: cs/push.csv:23 
+#: cs/push.csv:23
 msgid "and users entering the area"
 msgstr "a uživatelé, kteří vstoupí do této oblasti"
 
-#: cs/push.csv:24 
+#: cs/push.csv:24
 msgid "for a limited period"
 msgstr "po omezenou dobu"
 
-#: cs/push.csv:25 
+#: cs/push.csv:25
 msgid "now"
 msgstr "nyní"
 
-#: cs/push.csv:26 
+#: cs/push.csv:26
 msgid "on a specific date"
 msgstr "k určitému datu"
 
-#: cs/push.csv:27 
+#: cs/push.csv:27
 msgid "﻿Additionnal Information"
 msgstr "Další informace"
-

@@ -1,74 +1,78 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/contact.csv:1 
+#: ru/contact.csv:1
 msgid "An error occurred while saving your contact informations."
 msgstr "Произошла ошибка при сохранении ваших данных."
 
-#: ru/contact.csv:2 
+#: ru/contact.csv:2
 msgid "An error occurred while sending your request. Please try again later."
 msgstr "Произошла ошибка при отправке вашего запроса. Пожалуйста, повторите попытку позже."
 
-#: ru/contact.csv:3 
+#: ru/contact.csv:3
 msgid "And his phone number:"
 msgstr "И его номер телефона:"
 
-#: ru/contact.csv:4 
+#: ru/contact.csv:4
 msgid "Are you sure you want to remove the picture?"
 msgstr "Вы уверены, что хотите удалить фотографию?"
 
-#: ru/contact.csv:5 
+#: ru/contact.csv:5
 msgid "City"
 msgstr "Город"
 
-#: ru/contact.csv:6 
+#: ru/contact.csv:6
 msgid "Contact information"
 msgstr "Контактная информация"
 
-#: ru/contact.csv:7 
+#: ru/contact.csv:7
 msgid "Here is his email:"
 msgstr "Вот его адрес электронной почты:"
 
-#: ru/contact.csv:8 
+#: ru/contact.csv:8
 msgid "Here is his message:"
 msgstr "Вот его сообщение:"
 
-#: ru/contact.csv:9 
+#: ru/contact.csv:9
 msgid "Please enter properly the following fields: <br />"
 msgstr "Пожалуйста, введите правильно для настройки следующих полей: <br />"
 
-#: ru/contact.csv:10 
+#: ru/contact.csv:10
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ru/contact.csv:11 
+#: ru/contact.csv:11
 msgid "Website"
 msgstr "Сайт"
 
-#: ru/contact.csv:12 
+#: ru/contact.csv:12
 msgid "You have received a message from a contact:"
 msgstr "Вы получили сообщение от контакта:"
 
-#: ru/contact.csv:13 
+#: ru/contact.csv:13
 msgid "Your email"
 msgstr "Ваш адрес электронной почты"
 
-#: ru/contact.csv:14 
+#: ru/contact.csv:14
 msgid "Your message has been sent"
 msgstr "Ваше сообщение было отправлено"
 
-#: ru/contact.csv:15 
+#: ru/contact.csv:15
 msgid "Your request"
 msgstr "Ваш запрос"
 
-#: ru/contact.csv:16 
+#: ru/contact.csv:16
 msgid "Zip code"
 msgstr "Почтовый индекс"
-

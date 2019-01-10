@@ -1,130 +1,134 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: tr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/comment.csv:1 
+#: tr/comment.csv:1
 msgid "'Near me' radius (in km):"
 msgstr "'Yakınımda' yarıçap (km):"
 
-#: tr/comment.csv:2 
+#: tr/comment.csv:2
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "Bu cevap silinirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-#: tr/comment.csv:3 
+#: tr/comment.csv:3
 msgid "Create a news:"
 msgstr "Bir haber oluşturun:"
 
-#: tr/comment.csv:4 
+#: tr/comment.csv:4
 msgid "Hide this info"
 msgstr "Bu bilgiyi gizle"
 
-#: tr/comment.csv:5 
+#: tr/comment.csv:5
 msgid "Information successfully deleted"
 msgstr "Bilgi başarıyla silindi"
 
-#: tr/comment.csv:6 
+#: tr/comment.csv:6
 msgid "Information successfully hidden"
 msgstr "Bilgi başarıyla gizlendi"
 
-#: tr/comment.csv:7 
+#: tr/comment.csv:7
 msgid "Information successfully saved"
 msgstr "Bilgi başarıyla kaydedildi"
 
-#: tr/comment.csv:8 
+#: tr/comment.csv:8
 msgid "Information successfully shown"
 msgstr "Bilgi başarıyla gösterildi"
 
-#: tr/comment.csv:9 
+#: tr/comment.csv:9
 msgid "Insert a"
 msgstr "İliştir"
 
-#: tr/comment.csv:10 
+#: tr/comment.csv:10
 msgid "It will be visible only after validation by our team."
 msgstr "Ekibimiz tarafından doğrulamadan sonra gösterilir olacaktır."
 
-#: tr/comment.csv:11 
+#: tr/comment.csv:11
 msgid "My customers answers"
 msgstr "Müşteri cevapları"
 
-#: tr/comment.csv:12 
+#: tr/comment.csv:12
 msgid "My customers' comments"
 msgstr "Müşteri yorumları"
 
-#: tr/comment.csv:13 
+#: tr/comment.csv:13
 msgid "Near me"
 msgstr "Yakınımda"
 
-#: tr/comment.csv:14 
+#: tr/comment.csv:14
 msgid "Near me settings"
 msgstr "Yakınımda ayarları"
 
-#: tr/comment.csv:15 
+#: tr/comment.csv:15
 msgid "Near me' radius (in km):"
 msgstr "Yarıçap yakınımda (Km):"
 
-#: tr/comment.csv:16 
+#: tr/comment.csv:16
 msgid "Post"
 msgstr "Posta"
 
-#: tr/comment.csv:17 
+#: tr/comment.csv:17
 msgid "Publishing date"
 msgstr "Yayın tarihi"
 
-#: tr/comment.csv:18 
+#: tr/comment.csv:18
 msgid "Radius"
 msgstr "Yarıçap"
 
-#: tr/comment.csv:19 
+#: tr/comment.csv:19
 msgid "Radius must be a valid numeric value."
 msgstr "Yarıçap numerik değer olmalı."
 
-#: tr/comment.csv:20 
+#: tr/comment.csv:20
 msgid "Radius must be provided."
 msgstr "Yarıçap belirtilmeli."
 
-#: tr/comment.csv:21 
+#: tr/comment.csv:21
 msgid "Recent"
 msgstr "Enson"
 
-#: tr/comment.csv:22 
+#: tr/comment.csv:22
 msgid "Show this info"
 msgstr "Bu bilgiyi göster"
 
-#: tr/comment.csv:23 
+#: tr/comment.csv:23
 msgid "There is no comment for this news"
 msgstr "Bu habere ait yorum bulunmuyor"
 
-#: tr/comment.csv:24 
+#: tr/comment.csv:24
 msgid "Was flagged as inappropriate"
 msgstr "Uygunsuz olarak işaretlendi"
 
-#: tr/comment.csv:25 
+#: tr/comment.csv:25
 msgid "You can't like more than once the same news"
 msgstr "Aynı haber için bir kereden fazla beğeni gönderemzsin"
 
-#: tr/comment.csv:26 
+#: tr/comment.csv:26
 msgid "You need to be connected to create a post"
 msgstr "Bir yazı oluşturmak için internete bağlı olmanı gerekir"
 
-#: tr/comment.csv:27 
+#: tr/comment.csv:27
 msgid "Your flag has successfully been notified"
 msgstr "Bayrağınız başarıyla bildirilmiştir"
 
-#: tr/comment.csv:28 
+#: tr/comment.csv:28
 msgid "Your like has been successfully added"
 msgstr "Beğenin başarıyla eklendi"
 
-#: tr/comment.csv:29 
+#: tr/comment.csv:29
 msgid "Your message has been successfully saved."
 msgstr "Mesajınız başarıyla kaydedildi"
 
-#: tr/comment.csv:30 
+#: tr/comment.csv:30
 msgid "Your post was successfully added"
 msgstr "Yazınız başarıyla eklendi "
-

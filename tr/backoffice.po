@@ -2,95 +2,94 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
-"backoffice/tr/>\n"
-"Language: tr\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/backoffice/tr/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-08 17:20+0000\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/backoffice.csv:1 
+#: tr/backoffice.csv:1
 msgid "%d Unread Message"
 msgstr "%d Okunmamış mesaj"
 
-#: tr/backoffice.csv:2 
+#: tr/backoffice.csv:2
 msgid "%d Unread Messages"
 msgstr "%d Okunmamış mesajlar"
 
-#: tr/backoffice.csv:3 
+#: tr/backoffice.csv:3
 msgid "Account"
 msgstr "Hesap"
 
-#: tr/backoffice.csv:4 
+#: tr/backoffice.csv:4
 msgid "Change the password"
 msgstr "Şifreyi değiştir"
 
-#: tr/backoffice.csv:5 
+#: tr/backoffice.csv:5
 msgid "Click to mark as not read"
 msgstr "Okunmamış olarak işaretle"
 
-#: tr/backoffice.csv:6 
+#: tr/backoffice.csv:6
 msgid "Click to mark as read"
 msgstr "Okunmuş olarak işaretle"
 
-#: tr/backoffice.csv:7 
+#: tr/backoffice.csv:7
 msgid "Create a user"
 msgstr "Yeni kullanıcı oluştur"
 
-#: tr/backoffice.csv:8 
-msgid "Edit the account "%s""
-msgstr ""%s" hesabını düzenle"
+#: tr/backoffice.csv:8
+msgid "Edit the account \"%s\""
+msgstr "\"%s\" hesabını düzenle"
 
-#: tr/backoffice.csv:9 
+#: tr/backoffice.csv:9
 msgid "Edit the user"
 msgstr "Kullanıcı düzenle"
 
-#: tr/backoffice.csv:10 
+#: tr/backoffice.csv:10
 msgid "Enter your credentials:"
 msgstr "Kimlik bilgilerinizi girin:"
 
-#: tr/backoffice.csv:11 
+#: tr/backoffice.csv:11
 msgid "List of backoffice accounts"
 msgstr "Backofis kullanıcıları listesi"
 
-#: tr/backoffice.csv:12 
+#: tr/backoffice.csv:12
 msgid "List of the messages"
 msgstr "Mesajlar listesi"
 
-#: tr/backoffice.csv:13 
+#: tr/backoffice.csv:13
 msgid "Login to your backoffice interface"
 msgstr "Backofis arabirimine giriş"
 
-#: tr/backoffice.csv:14 
+#: tr/backoffice.csv:14
 msgid "People who are allowed to access the backoffice"
 msgstr "Backofis kullanmasına izin verilenler"
 
-#: tr/backoffice.csv:15 
+#: tr/backoffice.csv:15
 msgid "Siberian CMS"
 msgstr "Siberian CMS"
 
-#: tr/backoffice.csv:16 
+#: tr/backoffice.csv:16
 msgid "This account can't be deleted, it's the only one"
 msgstr "Bu hesap silinemez"
 
-#: tr/backoffice.csv:17 
+#: tr/backoffice.csv:17
 msgid "User successfully deleted"
 msgstr "Kullanıcı başarıyla silindi"
 
-#: tr/backoffice.csv:18 
+#: tr/backoffice.csv:18
 msgid "View Details"
 msgstr "Ayrıntıları görüntüle"
 
-#: tr/backoffice.csv:19 
+#: tr/backoffice.csv:19
 msgid "Your new password"
 msgstr "Yeni şifreniz"
 
-#: tr/backoffice.csv:20 
+#: tr/backoffice.csv:20
 msgid "Your password"
 msgstr "Şifreniz"
 

@@ -1,82 +1,86 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: fr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/sales.csv:1 
+#: fr/sales.csv:1
 msgid "Action"
 msgstr "Action"
 
-#: fr/sales.csv:2 
+#: fr/sales.csv:2
 msgid "App Name"
 msgstr "Nom Application"
 
-#: fr/sales.csv:3 
+#: fr/sales.csv:3
 msgid "Client"
 msgstr "Client"
 
-#: fr/sales.csv:4 
+#: fr/sales.csv:4
 msgid "Date"
 msgstr "Date"
 
-#: fr/sales.csv:5 
+#: fr/sales.csv:5
 msgid "Invoice"
 msgstr "Facture"
 
-#: fr/sales.csv:6 
+#: fr/sales.csv:6
 msgid "Invoice %s"
 msgstr "Facture %s"
 
-#: fr/sales.csv:7 
+#: fr/sales.csv:7
 msgid "Invoice N°"
 msgstr "Facture N°"
 
-#: fr/sales.csv:8 
+#: fr/sales.csv:8
 msgid "List of your invoices"
 msgstr "Liste de vos factures"
 
-#: fr/sales.csv:9 
+#: fr/sales.csv:9
 msgid "My Invoices"
 msgstr "Mes Factures"
 
-#: fr/sales.csv:10 
+#: fr/sales.csv:10
 msgid "Order"
 msgstr "Commande"
 
-#: fr/sales.csv:11 
+#: fr/sales.csv:11
 msgid "Orders"
 msgstr "Commandes"
 
-#: fr/sales.csv:12 
+#: fr/sales.csv:12
 msgid "Paid At"
 msgstr "Payé à"
 
-#: fr/sales.csv:13 
+#: fr/sales.csv:13
 msgid "Paid at:"
 msgstr "Payé à :"
 
-#: fr/sales.csv:14 
+#: fr/sales.csv:14
 msgid "Price Excl. Tax"
 msgstr "Prix HT"
 
-#: fr/sales.csv:15 
+#: fr/sales.csv:15
 msgid "Qty"
 msgstr "Qte"
 
-#: fr/sales.csv:16 
+#: fr/sales.csv:16
 msgid "This feature is not ready yet. Please try again later."
 msgstr "Cette fonctionnalité n'est pas encore prête. Merci de réessayer plus tard."
 
-#: fr/sales.csv:17 
+#: fr/sales.csv:17
 msgid "Total Excl. Tax"
 msgstr "Total HT"
 
-#: fr/sales.csv:18 
+#: fr/sales.csv:18
 msgid "You don't have any invoices yet"
 msgstr "Vous n'avez pas encore de factures"
-

@@ -1,70 +1,74 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: pt_BR\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: pt_BR/folder.csv:1 
+#: pt_BR/folder.csv:1
 msgid "Add a page"
 msgstr "Adicionar uma página"
 
-#: pt_BR/folder.csv:2 
+#: pt_BR/folder.csv:2
 msgid "Click on"
 msgstr "Clique em"
 
-#: pt_BR/folder.csv:3 
-msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
-msgstr "Clique em uma página para adicioná-la na pasta <span id="folder_name" class="folder_name">"%s"</span>"
+#: pt_BR/folder.csv:3
+msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgstr "Clique em uma página para adicioná-la na pasta <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
 
-#: pt_BR/folder.csv:4 
+#: pt_BR/folder.csv:4
 msgid "Click on a page to add it to the folder"
 msgstr "Clique em uma página para adicioná-la na pasta"
 
-#: pt_BR/folder.csv:5 
+#: pt_BR/folder.csv:5
 msgid "Close mobile display"
 msgstr "Fechar exibição móvel"
 
-#: pt_BR/folder.csv:6 
+#: pt_BR/folder.csv:6
 msgid "Delete this folder and all its subfolders?"
 msgstr "Apagar esta pasta e todas as suas subpastas?"
 
-#: pt_BR/folder.csv:7 
+#: pt_BR/folder.csv:7
 msgid "Folder title is required"
 msgstr "Título da pasta é necessária"
 
-#: pt_BR/folder.csv:8 
+#: pt_BR/folder.csv:8
 msgid "Folders"
 msgstr "Pastas"
 
-#: pt_BR/folder.csv:9 
+#: pt_BR/folder.csv:9
 msgid "Mobile display"
 msgstr "Celular display"
 
-#: pt_BR/folder.csv:10 
+#: pt_BR/folder.csv:10
 msgid "New folder"
 msgstr "Nova pasta"
 
-#: pt_BR/folder.csv:11 
+#: pt_BR/folder.csv:11
 msgid "Subtitle"
 msgstr "Subtítulo"
 
-#: pt_BR/folder.csv:12 
+#: pt_BR/folder.csv:12
 msgid "You cannot add this feature"
 msgstr "Você não pode adicionar esse recurso"
 
-#: pt_BR/folder.csv:13 
+#: pt_BR/folder.csv:13
 msgid "You must first complete the current category creation process"
 msgstr "Primeiro, você deve completar o atual processo de criação de categoria"
 
-#: pt_BR/folder.csv:14 
+#: pt_BR/folder.csv:14
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Você perderá todas as alterações não salvas, continuar?"
 
-#: pt_BR/folder.csv:15 
+#: pt_BR/folder.csv:15
 msgid "to add a folder."
 msgstr "para adicionar uma pasta."
-

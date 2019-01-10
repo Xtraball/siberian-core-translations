@@ -1,110 +1,114 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/booking.csv:1 
+#: cs/booking.csv:1
 msgid "Booking details"
 msgstr "Rezervační údaje"
 
-#: cs/booking.csv:2 
+#: cs/booking.csv:2
 msgid "Booking details:"
 msgstr "Rezervační údaje:"
 
-#: cs/booking.csv:3 
+#: cs/booking.csv:3
 msgid "Booking subject:"
 msgstr "Předmět rezervace:"
 
-#: cs/booking.csv:4 
+#: cs/booking.csv:4
 msgid "Comment:"
 msgstr "Komentář:"
 
-#: cs/booking.csv:5 
+#: cs/booking.csv:5
 msgid "Date and time"
 msgstr "Datum a čas"
 
-#: cs/booking.csv:6 
+#: cs/booking.csv:6
 msgid "Date and time:"
 msgstr "Datum a čas:"
 
-#: cs/booking.csv:7 
+#: cs/booking.csv:7
 msgid "Email address:"
 msgstr "E-mailová adresa:"
 
-#: cs/booking.csv:8 
+#: cs/booking.csv:8
 msgid "Enter the location name and contact email:"
 msgstr "Zadejte název provozovny a kontaktní e-mail"
 
-#: cs/booking.csv:9 
+#: cs/booking.csv:9
 msgid "First name / Last name"
 msgstr "Jméno, Příjmení"
 
-#: cs/booking.csv:10 
+#: cs/booking.csv:10
 msgid "Here are his personal information:"
 msgstr "Osobní údaje:"
 
-#: cs/booking.csv:11 
+#: cs/booking.csv:11
 msgid "Name:"
 msgstr "Jméno:"
 
-#: cs/booking.csv:12 
+#: cs/booking.csv:12
 msgid "Nom du lieu :"
 msgstr "Název provozovny"
 
-#: cs/booking.csv:13 
+#: cs/booking.csv:13
 msgid "People number:"
 msgstr "Počet osob"
 
-#: cs/booking.csv:14 
+#: cs/booking.csv:14
 msgid "Phone number:"
 msgstr "Telefonní číslo:"
 
-#: cs/booking.csv:15 
+#: cs/booking.csv:15
 msgid "Please fill out the following fields: "
 msgstr "Vyplňte prosím následující položky:"
 
-#: cs/booking.csv:16 
+#: cs/booking.csv:16
 msgid "Please fill out the following fields:<br />"
 msgstr "Vyplňte prosím následující položky:<br/>"
 
-#: cs/booking.csv:17 
+#: cs/booking.csv:17
 msgid "Please, choose a store"
 msgstr "Prosím, vyberte si obchod"
 
-#: cs/booking.csv:18 
+#: cs/booking.csv:18
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Děkujeme za Vaši žádost. Budeme Vás kontaktovat co nejdříve."
 
-#: cs/booking.csv:19 
+#: cs/booking.csv:19
 msgid "The booking information"
 msgstr "Informace o rezervaci"
 
-#: cs/booking.csv:20 
+#: cs/booking.csv:20
 msgid "The booking informations"
 msgstr "Informace o rezervaci"
 
-#: cs/booking.csv:21 
+#: cs/booking.csv:21
 msgid "The date and time of the booking"
 msgstr "Datum a čas rezervace"
 
-#: cs/booking.csv:22 
+#: cs/booking.csv:22
 msgid "The number of people"
 msgstr "Počet osob"
 
-#: cs/booking.csv:23 
+#: cs/booking.csv:23
 msgid "You have received a message for the booking of"
 msgstr "Obdrželi jste zprávu pro rezervaci od "
 
-#: cs/booking.csv:24 
+#: cs/booking.csv:24
 msgid "Your phone number or email address"
 msgstr "Vaše telefonní číslo nebo e-mail"
 
-#: cs/booking.csv:25 
+#: cs/booking.csv:25
 msgid "﻿Booking details"
 msgstr "Rezervační údaje"
-

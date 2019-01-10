@@ -1,86 +1,90 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/contact.csv:1 
+#: es/contact.csv:1
 msgid "Contact informations"
 msgstr "Información de contacto"
 
-#: es/contact.csv:2 
+#: es/contact.csv:2
 msgid "Website"
 msgstr "Página Web"
 
-#: es/contact.csv:3 
-msgid "Insert a <br /><span class="bold">cover image</span>"
-msgstr "insertar una <br /><span class="bold">imagen de la portada</span>"
+#: es/contact.csv:3
+msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgstr "insertar una <br /><span class=\"bold\">imagen de la portada</span>"
 
-#: es/contact.csv:4 
+#: es/contact.csv:4
 msgid "Are you sure you want to remove the picture?"
 msgstr "¿Está seguro de eliminar la imagen?"
 
-#: es/contact.csv:5 
+#: es/contact.csv:5
 msgid "SEND"
 msgstr "ENVIAR"
 
-#: es/contact.csv:6 
+#: es/contact.csv:6
 msgid "Your name"
 msgstr "Su Nombre"
 
-#: es/contact.csv:7 
+#: es/contact.csv:7
 msgid "Your email"
 msgstr "Su e-mail"
 
-#: es/contact.csv:8 
+#: es/contact.csv:8
 msgid "Your request"
 msgstr "Su pedido"
 
-#: es/contact.csv:9 
+#: es/contact.csv:9
 msgid "Your request:"
 msgstr "Su pedido :"
 
-#: es/contact.csv:10 
+#: es/contact.csv:10
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Muchas gracias por su mensaje, le responderemos lo más pronto posible."
 
-#: es/contact.csv:11 
+#: es/contact.csv:11
 msgid "An error occurred while sending your message. We apologize and ask you to try later."
 msgstr "Se produjo un error al enviar su mensaje. Por favor inténtelo de nuevo más tarde."
 
-#: es/contact.csv:12 
+#: es/contact.csv:12
 msgid "An error occurred while saving your contact informations."
 msgstr "Un error ha surgido al guardar sus datos de contacto."
 
-#: es/contact.csv:13 
+#: es/contact.csv:13
 msgid "An error occurred while sending your request. Please try again later."
 msgstr "Un error ha surgido durante el envío de su pregunta Por favor inténtelo de nuevo más tarde."
 
-#: es/contact.csv:14 
+#: es/contact.csv:14
 msgid "Please enter properly the following fields: <br />"
 msgstr "Por favor introduzca correctamente estos campos : <br />"
 
-#: es/contact.csv:15 
+#: es/contact.csv:15
 msgid "Message from your app %s"
 msgstr "Mensaje desde su app %s"
 
-#: es/contact.csv:16 
+#: es/contact.csv:16
 msgid "You have received a message from a contact:"
 msgstr "Usted recibió un mensaje de"
 
-#: es/contact.csv:17 
+#: es/contact.csv:17
 msgid "Here is his message:"
 msgstr "Esto es su mensaje:"
 
-#: es/contact.csv:18 
+#: es/contact.csv:18
 msgid "Here is his email:"
 msgstr "Usted puede responderle a la dirección siguiente"
 
-#: es/contact.csv:19 
+#: es/contact.csv:19
 msgid "And his phone number:"
 msgstr "O por teléfono a"
-

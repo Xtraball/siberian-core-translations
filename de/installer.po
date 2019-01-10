@@ -1,226 +1,230 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: de\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: de\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: de/installer.csv:1 
+#: de/installer.csv:1
 msgid "%s Update"
 msgstr "%s-update"
 
-#: de/installer.csv:2 
+#: de/installer.csv:2
 msgid "All of your modules are up to date"
 msgstr "Alle Ihre Module sind auf dem neuesten Stand"
 
-#: de/installer.csv:3 
+#: de/installer.csv:3
 msgid "Click here to send your module"
 msgstr "Klicken Sie hier, um das Modul zu senden"
 
-#: de/installer.csv:4 
+#: de/installer.csv:4
 msgid "Drop your module here"
 msgstr "Ihr Modul hier ablegen"
 
-#: de/installer.csv:5 
+#: de/installer.csv:5
 msgid "Host"
 msgstr "Host"
 
-#: de/installer.csv:6 
+#: de/installer.csv:6
 msgid "Installing"
 msgstr "Installation"
 
-#: de/installer.csv:7 
-msgid "Installing module <em><span id="label_module"></span></em>"
-msgstr "Installation von Modul <em><span id="label_module"></span></em>"
+#: de/installer.csv:7
+msgid "Installing module <em><span id=\"label_module\"></span></em>"
+msgstr "Installation von Modul <em><span id=\"label_module\"></span></em>"
 
-#: de/installer.csv:8 
+#: de/installer.csv:8
 msgid "Installing your module"
 msgstr "Ihr Modul installieren"
 
-#: de/installer.csv:9 
+#: de/installer.csv:9
 msgid "Module Installation"
 msgstr "Modulinstallation"
 
-#: de/installer.csv:10 
+#: de/installer.csv:10
 msgid "Module successfully installed"
 msgstr "Modul erfolgreich installiert"
 
-#: de/installer.csv:11 
+#: de/installer.csv:11
 msgid "Module to upload"
 msgstr "Modul hochladen"
 
-#: de/installer.csv:12 
+#: de/installer.csv:12
 msgid "Modules"
 msgstr "Module"
 
-#: de/installer.csv:13 
+#: de/installer.csv:13
 msgid "Modules Installation"
 msgstr "Module Installation"
 
-#: de/installer.csv:14 
+#: de/installer.csv:14
 msgid "Modules successfully installed!"
 msgstr "Module erfolgreich installiert!"
 
-#: de/installer.csv:15 
+#: de/installer.csv:15
 msgid "No directory provided"
 msgstr "Kein Verzeichnis bereitgestellt"
 
-#: de/installer.csv:16 
+#: de/installer.csv:16
 msgid "No module to install"
 msgstr "Kein Modul zu installieren"
 
-#: de/installer.csv:17 
+#: de/installer.csv:17
 msgid "No modules uploaded yet"
 msgstr "Keine Module noch hochgeladen"
 
-#: de/installer.csv:18 
+#: de/installer.csv:18
 msgid "Or set the correct permissions to the following files and folders and try again:"
 msgstr "Oder legen Sie die richtigen Berechtigungen auf die folgenden Dateien und Ordner und versuchen Sie es erneut:"
 
-#: de/installer.csv:19 
+#: de/installer.csv:19
 msgid "Package Details"
 msgstr "Paketdetails"
 
-#: de/installer.csv:20 
+#: de/installer.csv:20
 msgid "Path to your system"
 msgstr "Pfad zu Ihrem system"
 
-#: de/installer.csv:21 
+#: de/installer.csv:21
 msgid "Please update the module to the %s version before installing this update."
 msgstr "Bitte aktualisieren Sie das Modul auf die %s-Version, bevor Sie dieses Update installieren."
 
-#: de/installer.csv:22 
+#: de/installer.csv:22
 msgid "Please update your system to the %s version before installing this update."
 msgstr "Bitte aktualisieren Sie Ihr System auf die %s-Version, bevor Sie dieses Update installieren"
 
-#: de/installer.csv:23 
+#: de/installer.csv:23
 msgid "Please wait, we're installing your module"
 msgstr "Bitte warten Sie, wir installieren das Modul"
 
-#: de/installer.csv:24 
+#: de/installer.csv:24
 msgid "Please, enter a name"
 msgstr "Bitte geben Sie einen Namen ein."
 
-#: de/installer.csv:25 
+#: de/installer.csv:25
 msgid "Please, fill out all fields"
 msgstr "Bitte füllen Sie alle Felder"
 
-#: de/installer.csv:26 
+#: de/installer.csv:26
 msgid "Port"
 msgstr "Port"
 
-#: de/installer.csv:27 
+#: de/installer.csv:27
 msgid "Processing the installation"
 msgstr "Die Verarbeitung der Installation"
 
-#: de/installer.csv:28 
+#: de/installer.csv:28
 msgid "Retry"
-msgstr ""Wiederholen""
+msgstr "\"Wiederholen\""
 
-#: de/installer.csv:29 
+#: de/installer.csv:29
 msgid "Select a module to upload"
 msgstr "Wählen Sie ein Modul um es zu laden"
 
-#: de/installer.csv:30 
+#: de/installer.csv:30
 msgid "Some files and folder are not writable. You can either provide your FTP access to install this update:"
 msgstr "Einige Dateien und Ordner sind nicht schreibgeschützt. Sie bieten entweder Ihre FTP-Zugriff, um dieses Update zu installieren:"
 
-#: de/installer.csv:31 
+#: de/installer.csv:31
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr "Einige Dateien nicht die richtigen Berechtigungen haben und können nicht aktualisiert werden"
 
-#: de/installer.csv:32 
+#: de/installer.csv:32
 msgid "The database connection failed. Please, check the entered information."
 msgstr "Die Datenbankverbindung ist fehlgeschlagen. Bitte überprüfen Sie die eingegebenen Informationen."
 
-#: de/installer.csv:33 
+#: de/installer.csv:33
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Die eingegebene Passwortbestätigung überein das eingegebene Passwort nicht. Ihr Modul installieren"
 
-#: de/installer.csv:34 
+#: de/installer.csv:34
 msgid "The file %s does not exist"
 msgstr "Die Datei %s existiert nicht"
 
-#: de/installer.csv:35 
+#: de/installer.csv:35
 msgid "The file %s is not writable."
 msgstr "Die Datei %s ist nicht beschreibbar."
 
-#: de/installer.csv:36 
+#: de/installer.csv:36
 msgid "The folder %s is not writable."
 msgstr "Der Ordner %s ist nicht beschreibbar."
 
-#: de/installer.csv:37 
+#: de/installer.csv:37
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr "Der Ordner %s ist nicht beschreibbar. Bitte beheben Sie dieses Problem und versuchen es erneut."
 
-#: de/installer.csv:38 
+#: de/installer.csv:38
 msgid "The following files and folders are not writable:"
 msgstr "Die folgenden Dateien und Ordner sind nicht beschreibbar:"
 
-#: de/installer.csv:39 
+#: de/installer.csv:39
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr "Die folgenden Dateien und Ordner sind nicht beschreibbar: < Br / >-%s"
 
-#: de/installer.csv:40 
+#: de/installer.csv:40
 msgid "The following folders are not writable: <br /> - %s"
 msgstr "Die folgenden Ordner sind nicht beschreibbar: <br /> -%s"
 
-#: de/installer.csv:41 
-msgid "The installation of the module %s has failed: <span id="installation_failed_because"></span>"
-msgstr "Die Installation des Moduls %s ist fehlgeschlagen: <span id="installation_failed_because"> </span>"
+#: de/installer.csv:41
+msgid "The installation of the module %s has failed: <span id=\"installation_failed_because\"></span>"
+msgstr "Die Installation des Moduls %s ist fehlgeschlagen: <span id=\"installation_failed_because\"> </span>"
 
-#: de/installer.csv:42 
-msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
-msgstr "Die Installation des Moduls <span id="installation_failed_module_name"></span> ist fehlgeschlagen: <span id="installation_failed_because"></span>"
+#: de/installer.csv:42
+msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
+msgstr "Die Installation des Moduls <span id=\"installation_failed_module_name\"></span> ist fehlgeschlagen: <span id=\"installation_failed_because\"></span>"
 
-#: de/installer.csv:43 
+#: de/installer.csv:43
 msgid "The package you have uploaded is invalid."
 msgstr "Das Paket, das du hochgeladen hast ist ungültig."
 
-#: de/installer.csv:44 
+#: de/installer.csv:44
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr "Dieser Vorgang kann einige Minuten dauern, bitte die Seite nicht aktualisieren"
 
-#: de/installer.csv:45 
+#: de/installer.csv:45
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr "Dieses Update ist für die %s, Sie es in Ihre %s können nicht installiert werden."
 
-#: de/installer.csv:46 
+#: de/installer.csv:46
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr "Keine Verbindung zu Ihrem FTP. Bitte überprüfen Sie die Verbindungsinformationen."
 
-#: de/installer.csv:47 
+#: de/installer.csv:47
 msgid "Unable to detect your site. Please make sure the entered path is correct."
 msgstr "Nicht in der Lage, Ihre Website zu erkennen. Bitte achten Sie darauf, dass der eingegebene Pfad korrekt ist."
 
-#: de/installer.csv:48 
+#: de/installer.csv:48
 msgid "Unable to extract the archive."
 msgstr "Kann das Archiv zu extrahieren."
 
-#: de/installer.csv:49 
+#: de/installer.csv:49
 msgid "Unable to open the archive."
 msgstr "Unfähig, das Archiv zu öffnen."
 
-#: de/installer.csv:50 
+#: de/installer.csv:50
 msgid "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr "Nicht in der Lage, die Datei zu öffnen. Stellen Sie sicher, dass Sie eine gültige Archiv geschickt."
 
-#: de/installer.csv:51 
+#: de/installer.csv:51
 msgid "Upload a module"
 msgstr "Ein Modul Galerie"
 
-#: de/installer.csv:52 
+#: de/installer.csv:52
 msgid "Upload your modules"
 msgstr "Laden Sie Ihre Module"
 
-#: de/installer.csv:53 
+#: de/installer.csv:53
 msgid "Username"
 msgstr "Benutzername"
 
-#: de/installer.csv:54 
+#: de/installer.csv:54
 msgid "You already have installed this update."
 msgstr "Dieses Update haben bereits installiert."
-

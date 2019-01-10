@@ -1,74 +1,78 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: zh_Hans\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: zh_Hans\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/socialgaming.csv:1 
+#: zh/socialgaming.csv:1
 msgid "%s point%s"
 msgstr "％s％s点"
 
-#: zh/socialgaming.csv:2 
+#: zh/socialgaming.csv:2
 msgid "A month"
 msgstr "一个月"
 
-#: zh/socialgaming.csv:3 
+#: zh/socialgaming.csv:3
 msgid "A week"
 msgstr "一个星期"
 
-#: zh/socialgaming.csv:4 
+#: zh/socialgaming.csv:4
 msgid "Challengers"
 msgstr "参赛者"
 
-#: zh/socialgaming.csv:5 
+#: zh/socialgaming.csv:5
 msgid "Current game"
 msgstr "当前"
 
-#: zh/socialgaming.csv:6 
+#: zh/socialgaming.csv:6
 msgid "Currently no challengers"
 msgstr "目前没有任何参赛者"
 
-#: zh/socialgaming.csv:7 
+#: zh/socialgaming.csv:7
 msgid "Game Name"
 msgstr "游戏名称"
 
-#: zh/socialgaming.csv:8 
+#: zh/socialgaming.csv:8
 msgid "Game successfully saved"
 msgstr "游戏保存成功"
 
-#: zh/socialgaming.csv:9 
+#: zh/socialgaming.csv:9
 msgid "Next game"
 msgstr "下一场比赛"
 
-#: zh/socialgaming.csv:10 
+#: zh/socialgaming.csv:10
 msgid "On the"
 msgstr "在"
 
-#: zh/socialgaming.csv:11 
+#: zh/socialgaming.csv:11
 msgid "Period"
 msgstr "期"
 
-#: zh/socialgaming.csv:12 
+#: zh/socialgaming.csv:12
 msgid "Periodicity"
 msgstr "周期性"
 
-#: zh/socialgaming.csv:13 
+#: zh/socialgaming.csv:13
 msgid "Publication date"
 msgstr "出版一年"
 
-#: zh/socialgaming.csv:14 
+#: zh/socialgaming.csv:14
 msgid "Rank of the month"
 msgstr "排名的月份"
 
-#: zh/socialgaming.csv:15 
+#: zh/socialgaming.csv:15
 msgid "Rank of the week"
 msgstr "排名的一周"
 
-#: zh/socialgaming.csv:16 
+#: zh/socialgaming.csv:16
 msgid "Team Leader"
 msgstr "胜利者"
-

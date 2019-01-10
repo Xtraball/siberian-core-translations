@@ -1,90 +1,94 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/backoffice.csv:1 
+#: el/backoffice.csv:1
 msgid "%d Unread Message"
 msgstr "%d μη-αναγνωσμένο μήνυμα"
 
-#: el/backoffice.csv:2 
+#: el/backoffice.csv:2
 msgid "%d Unread Messages"
 msgstr "%d μη-αναγνωσμένα μηνύματα"
 
-#: el/backoffice.csv:3 
+#: el/backoffice.csv:3
 msgid "Account"
 msgstr "Λογαριασμός"
 
-#: el/backoffice.csv:4 
+#: el/backoffice.csv:4
 msgid "Change the password"
 msgstr "Αλλαγή Κωδικού"
 
-#: el/backoffice.csv:5 
+#: el/backoffice.csv:5
 msgid "Click to mark as not read"
 msgstr "Κάντε κλικ για να το επισημάνετε ως μη-αναγνωσμένο"
 
-#: el/backoffice.csv:6 
+#: el/backoffice.csv:6
 msgid "Click to mark as read"
 msgstr "Κάντε κλικ για να το επισημάνετε ως αναγνωσμένο"
 
-#: el/backoffice.csv:7 
+#: el/backoffice.csv:7
 msgid "Create a user"
 msgstr "Δημιουργία χρήστη"
 
-#: el/backoffice.csv:8 
-msgid "Edit the account "%s""
-msgstr "Επεξεργασία λογαριασού "%s""
+#: el/backoffice.csv:8
+msgid "Edit the account \"%s\""
+msgstr "Επεξεργασία λογαριασού \"%s\""
 
-#: el/backoffice.csv:9 
+#: el/backoffice.csv:9
 msgid "Edit the user"
 msgstr "Επεξεργασία χρήστη"
 
-#: el/backoffice.csv:10 
+#: el/backoffice.csv:10
 msgid "Enter your credentials:"
 msgstr "Εισάγετε τα στοιχεία σας:"
 
-#: el/backoffice.csv:11 
+#: el/backoffice.csv:11
 msgid "List of backoffice accounts"
 msgstr "Κατάλογος των λογαριασμών backoffice"
 
-#: el/backoffice.csv:12 
+#: el/backoffice.csv:12
 msgid "List of the messages"
 msgstr "Λίστα μηνύματων"
 
-#: el/backoffice.csv:13 
+#: el/backoffice.csv:13
 msgid "Login to your backoffice interface"
 msgstr "Είσοδος στον πίνακα διαχείρισής σας"
 
-#: el/backoffice.csv:14 
+#: el/backoffice.csv:14
 msgid "People who are allowed to access the backoffice"
 msgstr "Οι χρήστες που έχουν πρόσβαση στο backoffice"
 
-#: el/backoffice.csv:15 
+#: el/backoffice.csv:15
 msgid "Siberian CMS"
 msgstr "Siberian CMS"
 
-#: el/backoffice.csv:16 
+#: el/backoffice.csv:16
 msgid "This account can't be deleted, it's the only one"
 msgstr "Αυτός ο λογαριασμός δεν μπορεί να διαγραφεί, είναι ο κεντρικός"
 
-#: el/backoffice.csv:17 
+#: el/backoffice.csv:17
 msgid "User successfully deleted"
 msgstr "Ο χρήστης διεγράφη επιτυχώς"
 
-#: el/backoffice.csv:18 
+#: el/backoffice.csv:18
 msgid "View Details"
 msgstr "Δείτε λεπτομέρειες"
 
-#: el/backoffice.csv:19 
+#: el/backoffice.csv:19
 msgid "Your new password"
 msgstr "Ο νέος σας Κωδικός"
 
-#: el/backoffice.csv:20 
+#: el/backoffice.csv:20
 msgid "Your password"
 msgstr "Κωδικός"
-

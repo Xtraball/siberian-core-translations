@@ -1,114 +1,118 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ca\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/cms.csv:1 
+#: ca/cms.csv:1
 msgid ".mp4 or .3gp format"
 msgstr "format .3gp .mp4"
 
-#: ca/cms.csv:2 
+#: ca/cms.csv:2
 msgid "Add "
 msgstr "Afegir"
 
-#: ca/cms.csv:3 
+#: ca/cms.csv:3
 msgid "Add sections:"
 msgstr "Afegir seccions:"
 
-#: ca/cms.csv:4 
+#: ca/cms.csv:4
 msgid "Address:"
 msgstr "direcció:"
 
-#: ca/cms.csv:5 
+#: ca/cms.csv:5
 msgid "Alignment:"
 msgstr "alineació:"
 
-#: ca/cms.csv:6 
+#: ca/cms.csv:6
 msgid "An error occurred while saving your page."
 msgstr "S'ha produït un error en desar la pàgina."
 
-#: ca/cms.csv:7 
+#: ca/cms.csv:7
 msgid "Are you sure you want to delete this page?"
 msgstr "Segur que vols esborrar aquesta pàgina?"
 
-#: ca/cms.csv:8 
+#: ca/cms.csv:8
 msgid "Display address"
 msgstr "direcció de pantalla"
 
-#: ca/cms.csv:9 
+#: ca/cms.csv:9
 msgid "Display location button"
 msgstr "Display botó de la localització"
 
-#: ca/cms.csv:10 
+#: ca/cms.csv:10
 msgid "Label"
 msgstr "etiqueta"
 
-#: ca/cms.csv:11 
+#: ca/cms.csv:11
 msgid "Label:"
 msgstr "etiqueta:"
 
-#: ca/cms.csv:12 
+#: ca/cms.csv:12
 msgid "Large"
 msgstr "gran"
 
-#: ca/cms.csv:13 
+#: ca/cms.csv:13
 msgid "Loading picture:"
 msgstr "Carregant imatge:"
 
-#: ca/cms.csv:14 
+#: ca/cms.csv:14
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Fer una recerca o introduïu l'URL de YouTube:"
 
-#: ca/cms.csv:15 
+#: ca/cms.csv:15
 msgid "Medium"
 msgstr "medi"
 
-#: ca/cms.csv:16 
+#: ca/cms.csv:16
 msgid "My Youtube video:"
 msgstr "El meu Youtube vídeo:"
 
-#: ca/cms.csv:17 
+#: ca/cms.csv:17
 msgid "My video"
 msgstr "El meu vídeo"
 
-#: ca/cms.csv:18 
+#: ca/cms.csv:18
 msgid "No videos matching your selection"
 msgstr "No hi ha vídeos que coincideixin amb la seva selecció"
 
-#: ca/cms.csv:19 
+#: ca/cms.csv:19
 msgid "Page successfully deleted"
 msgstr "Pàgina eliminat correctament"
 
-#: ca/cms.csv:20 
+#: ca/cms.csv:20
 msgid "Page successfully saved"
 msgstr "Pàgina guardat correctament"
 
-#: ca/cms.csv:21 
+#: ca/cms.csv:21
 msgid "Podcast URL:"
 msgstr "URL Podcast:"
 
-#: ca/cms.csv:22 
+#: ca/cms.csv:22
 msgid "Select a button type:"
 msgstr "Seleccioneu un tipus de botó:"
 
-#: ca/cms.csv:23 
+#: ca/cms.csv:23
 msgid "Select a video type:"
 msgstr "Seleccioneu un tipus de vídeo:"
 
-#: ca/cms.csv:24 
+#: ca/cms.csv:24
 msgid "Small"
 msgstr "petit"
 
-#: ca/cms.csv:25 
+#: ca/cms.csv:25
 msgid "Video URL:"
 msgstr "URL de vídeo:"
 
-#: ca/cms.csv:26 
+#: ca/cms.csv:26
 msgid "Your Podcast:"
 msgstr "El seu Podcast:"
-

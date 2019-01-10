@@ -2,389 +2,390 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 09:49+0000\n"
-"PO-Revision-Date: 2019-01-09 09:49+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-09 09:49+0000\n"
+"PO-Revision-Date: 2019-01-09 09:49+0000\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/application.csv:1 
+#: es/application.csv:1
 msgid "Analytics"
 msgstr "Analítica"
 
-#: es/application.csv:2 
+#: es/application.csv:2
 msgid "My application in figures"
 msgstr "Mi aplicación en cifras"
 
-#: es/application.csv:3 
+#: es/application.csv:3
 msgid "Installed application"
 msgstr "Aplicación instalada"
 
-#: es/application.csv:4 
+#: es/application.csv:4
 msgid "times"
 msgstr "veces"
 
-#: es/application.csv:5 
+#: es/application.csv:5
 msgid "Global visits"
 msgstr "Total de Visitas"
 
-#: es/application.csv:6 
+#: es/application.csv:6
 msgid "Your customers in figures"
 msgstr "Sus clientes en cifras"
 
-#: es/application.csv:7 
+#: es/application.csv:7
 msgid "Used points"
 msgstr "Puntos consumidos"
 
-#: es/application.csv:8 
+#: es/application.csv:8
 msgid "Average by customer"
 msgstr "Promedio por cliente"
 
-#: es/application.csv:9 
+#: es/application.csv:9
 msgid "Percentage of returning customers"
 msgstr "Porcentaje de clientes leales"
 
-#: es/application.csv:10 
+#: es/application.csv:10
 msgid "Your best customers"
 msgstr "Sus mejores clientes"
 
-#: es/application.csv:11 
+#: es/application.csv:11
 msgid "Choose your colors"
 msgstr "Elija sus colores"
 
-#: es/application.csv:12 
+#: es/application.csv:12
 msgid "Choose your icons color"
 msgstr "Elija el color de icono"
 
-#: es/application.csv:13 
+#: es/application.csv:13
 msgid "Change your"
 msgstr "Modificar su"
 
-#: es/application.csv:14 
+#: es/application.csv:14
 msgid "Use into all of your application's pages"
 msgstr "Utilizar en todas las páginas de la aplicación"
 
-#: es/application.csv:15 
+#: es/application.csv:15
 msgid "Choose your template"
 msgstr "Elija su plantilla"
 
-#: es/application.csv:16 
+#: es/application.csv:16
 msgid "Change your template"
 msgstr "Cambie su plantilla"
 
-#: es/application.csv:17 
+#: es/application.csv:17
 msgid "Choose your homepage image"
 msgstr "Elija la imagen de su página principal"
 
-#: es/application.csv:18 
+#: es/application.csv:18
 msgid "Choose your layout"
 msgstr "Elija su presentación"
 
-#: es/application.csv:19 
+#: es/application.csv:19
 msgid "Choose your font style"
 msgstr "Elija estilo de fuente"
 
-#: es/application.csv:20 
+#: es/application.csv:20
 msgid "Choose a font family"
 msgstr "Seleccione una fuente"
 
-#: es/application.csv:21 
+#: es/application.csv:21
 msgid "This option enables you to set the currency used in your app"
 msgstr "Esta opción le permite establecer la moneda utilizada en su app"
 
-#: es/application.csv:22 
+#: es/application.csv:22
 msgid "Choose your country"
 msgstr "Seleccione su país"
 
-#: es/application.csv:23 
+#: es/application.csv:23
 msgid "Choose a country"
 msgstr "Seleccionar un país"
 
-#: es/application.csv:24 
+#: es/application.csv:24
 msgid "You haven't chosen any template yet"
 msgstr "No ha seleccionado una plantilla"
 
-#: es/application.csv:25 
+#: es/application.csv:25
 msgid "If you validate, your app's colors and background image will be replaced"
 msgstr "Si usted lo acepta, se reemplazarán la imagen de fondo y los colores de su aplicación"
 
-#: es/application.csv:26 
+#: es/application.csv:26
 msgid "Design"
 msgstr "Diseño"
 
-#: es/application.csv:27 
+#: es/application.csv:27
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr "Esta página se mostrará a los usuarios móviles para que puedan acceder y administrar su cuenta. Se añade automáticamente al utilizar funciones que requieren al usuario haya iniciado sesión."
 
-#: es/application.csv:28 
+#: es/application.csv:28
 msgid "Your pages"
 msgstr "Sus páginas"
 
-#: es/application.csv:29 
+#: es/application.csv:29
 msgid "Add pages"
 msgstr "Añadir páginas"
 
-#: es/application.csv:30 
+#: es/application.csv:30
 msgid "Delete this page?"
 msgstr "¿Desea eliminar esta página?"
 
-#: es/application.csv:31 
+#: es/application.csv:31
 msgid "An error occurred while loading"
 msgstr "Se ha producido un error al cargar"
 
-#: es/application.csv:32 
+#: es/application.csv:32
 msgid "You must have published your application to access this feature"
 msgstr "Debe publicar la aplicación para acceder a esta función"
 
-#: es/application.csv:33 
+#: es/application.csv:33
 msgid "Main"
 msgstr "Principal"
 
-#: es/application.csv:34 
-msgid " "Remove this page from this folder?""
+#: es/application.csv:34
+msgid " \"Remove this page from this folder?\""
 msgstr "¿Esta seguro que desea eliminar la pagina de esta carpeta?"
 
-#: es/application.csv:35 
+#: es/application.csv:35
 msgid "to add a subfolder."
 msgstr "Añadir una subcarpeta."
 
-#: es/application.csv:36 
+#: es/application.csv:36
 msgid "Information"
 msgstr "Información"
 
-#: es/application.csv:37 
+#: es/application.csv:37
 msgid "Editor"
 msgstr "Editor"
 
-#: es/application.csv:38 
+#: es/application.csv:38
 msgid "Promote"
 msgstr "Promocionar"
 
-#: es/application.csv:39 
+#: es/application.csv:39
 msgid "Features"
 msgstr "Funciones"
 
-#: es/application.csv:40 
+#: es/application.csv:40
 msgid "Publication"
 msgstr "Publicación"
 
-#: es/application.csv:41 
+#: es/application.csv:41
 msgid "Colors"
 msgstr "Colores"
 
-#: es/application.csv:42 
+#: es/application.csv:42
 msgid "Homepage preview"
 msgstr "Vista previa"
 
-#: es/application.csv:43 
+#: es/application.csv:43
 msgid "Startup image"
 msgstr "Imagen de inicio"
 
-#: es/application.csv:44 
+#: es/application.csv:44
 msgid "Choose an"
 msgstr "Elija una"
 
-#: es/application.csv:45 
-msgid "Choose a <br /><span class="bold">picture</span>"
-msgstr "Elija una <br /> <span class="bold"> imagen </span >"
+#: es/application.csv:45
+msgid "Choose a <br /><span class=\"bold\">picture</span>"
+msgstr "Elija una <br /> <span class=\"bold\"> imagen </span >"
 
-#: es/application.csv:46 
+#: es/application.csv:46
 msgid "Dashboard icon"
 msgstr "icono"
 
-#: es/application.csv:47 
+#: es/application.csv:47
 msgid "General information"
 msgstr "Información general"
 
-#: es/application.csv:48 
+#: es/application.csv:48
 msgid "Mobile source codes"
 msgstr "Códigos fuente móvil"
 
-#: es/application.csv:49 
+#: es/application.csv:49
 msgid "To be able to download source codes, please provide the following information:<br />"
 msgstr "Para poder descargar el código fuente, deberá proporcionar la siguiente información: <br/>"
 
-#: es/application.csv:50 
+#: es/application.csv:50
 msgid "Click here to download the source code:"
 msgstr "Clic aquí para descargar el código fuente"
 
-#: es/application.csv:51 
+#: es/application.csv:51
 msgid "iPhone Version"
 msgstr "Versión iPhone"
 
-#: es/application.csv:52 
+#: es/application.csv:52
 msgid "Android Version"
 msgstr "Versión Android"
 
-#: es/application.csv:53 
+#: es/application.csv:53
 msgid "Download"
 msgstr "Descargar"
 
-#: es/application.csv:54 
+#: es/application.csv:54
 msgid "My QRCode"
 msgstr "Mi código QR"
 
-#: es/application.csv:55 
+#: es/application.csv:55
 msgid "You can download your QRCode by"
 msgstr "Puede descargar el código QR"
 
-#: es/application.csv:56 
+#: es/application.csv:56
 msgid "clicking here"
 msgstr "Haga clic aquí"
 
-#: es/application.csv:57 
+#: es/application.csv:57
 msgid "Mobile website information"
 msgstr "Información del sitio web móvil"
 
-#: es/application.csv:58 
+#: es/application.csv:58
 msgid "Domain name"
 msgstr "Nombre de dominio"
 
-#: es/application.csv:59 
+#: es/application.csv:59
 msgid "Buy one, get one!"
 msgstr "¡Compre uno, adquiera uno!"
 
-#: es/application.csv:60 
+#: es/application.csv:60
 msgid "More infos"
 msgstr "Más información"
 
-#: es/application.csv:61 
+#: es/application.csv:61
 msgid "Discount zone description. Here your clients will be able to see the details of each discount"
 msgstr "Descripción de la zona de descuento. Aquí los clientes podrán ver los detalles de cada descuento."
 
-#: es/application.csv:62 
+#: es/application.csv:62
 msgid "Fred W."
 msgstr "Pablo R."
 
-#: es/application.csv:63 
+#: es/application.csv:63
 msgid "Here is our latest creation. What do you think?"
 msgstr "Aquí nuestras últimas creaciones. ¿Qué opina usted ?"
 
-#: es/application.csv:64 
+#: es/application.csv:64
 msgid "Comment"
 msgstr "Comentario"
 
-#: es/application.csv:65 
+#: es/application.csv:65
 msgid "Marc A."
 msgstr "Marc A."
 
-#: es/application.csv:66 
+#: es/application.csv:66
 msgid "Love it <3"
 msgstr "Me encanta, <3"
 
-#: es/application.csv:67 
+#: es/application.csv:67
 msgid "Please log in."
 msgstr "Por favor, inicie sesión."
 
-#: es/application.csv:68 
+#: es/application.csv:68
 msgid "One free coffee"
 msgstr "Un café gratis"
 
-#: es/application.csv:69 
+#: es/application.csv:69
 msgid "An error occurred while saving your colors."
 msgstr "Se ha producido un error al guardar sus colores ."
 
-#: es/application.csv:70 
+#: es/application.csv:70
 msgid "An error occurred while changing your layout."
 msgstr "Se ha producido un error al cambiar su diseño."
 
-#: es/application.csv:71 
+#: es/application.csv:71
 msgid "An error occurred while adding the option"
 msgstr "Se ha producido un error al añadir la opción"
 
-#: es/application.csv:72 
+#: es/application.csv:72
 msgid "An error occurred while deleting the option"
 msgstr "Se ha producido un error al eliminar la opción"
 
-#: es/application.csv:73 
+#: es/application.csv:73
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "Se ha producido un error al guardar. El icono seleccionado no es válido."
 
-#: es/application.csv:74 
+#: es/application.csv:74
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "Se ha producido un error al ordenar sus páginas . Por favor inténtelo de nuevo más tarde."
 
-#: es/application.csv:75 
+#: es/application.csv:75
 msgid "An error occurred while saving your page name."
 msgstr "Se ha producido un error al guardar el nombre de la página ."
 
-#: es/application.csv:76 
+#: es/application.csv:76
 msgid "An error occurred while deleting your picture"
 msgstr "Se produjo un error al intentar eliminar su imagen"
 
-#: es/application.csv:77 
+#: es/application.csv:77
 msgid "Please enter a valid mobile website address."
 msgstr "Por favor, ingrese una dirección de sitio web móvil válida."
 
-#: es/application.csv:78 
+#: es/application.csv:78
 msgid "Your mobile address should not contain special characters"
 msgstr "Su dirección móvil no debe contener caracteres especiales"
 
-#: es/application.csv:79 
+#: es/application.csv:79
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "El ID del paquete introducido es incorrecto, debe ser de la forma: com.siberiancms.app"
 
-#: es/application.csv:80 
+#: es/application.csv:80
 msgid "Please enter a subdomain."
 msgstr "Por favor ingrese un subdominio."
 
-#: es/application.csv:81 
+#: es/application.csv:81
 msgid "An error occurred during the generation of your QRCode. Please try again later."
 msgstr "Se ha producido un error durante la generación de su Código QR. Por favor inténtelo de nuevo más tarde ."
 
-#: es/application.csv:82 
+#: es/application.csv:82
 msgid "Please enter a valid address"
 msgstr "Por favor ingrese una dirección válida."
 
-#: es/application.csv:83 
+#: es/application.csv:83
 msgid "At least, 4 pages in your application"
 msgstr "Por lo menos, su aplicación debe contener 4 páginas"
 
-#: es/application.csv:84 
+#: es/application.csv:84
 msgid "The  homepage image"
 msgstr "Imagen de la página principal"
 
-#: es/application.csv:85 
+#: es/application.csv:85
 msgid "The startup image"
 msgstr "Imagen de inicio"
 
-#: es/application.csv:86 
+#: es/application.csv:86
 msgid "The desktop icon"
 msgstr "Icono"
 
-#: es/application.csv:87 
+#: es/application.csv:87
 msgid "The application name"
 msgstr "Nombre de la aplicación"
 
-#: es/application.csv:88 
+#: es/application.csv:88
 msgid "Promote your app!"
 msgstr "¡Promocione su app!"
 
-#: es/application.csv:89 
+#: es/application.csv:89
 msgid "Your application in few numbers"
 msgstr "Su aplicación en cifras"
 
-#: es/application.csv:90 
+#: es/application.csv:90
 msgid "Additional options"
 msgstr "Opciones adicionales"
 
-#: es/application.csv:91 
+#: es/application.csv:91
 msgid "Customize your app's style"
 msgstr "Personalice el estilo de su app"
 
-#: es/application.csv:92 
+#: es/application.csv:92
 msgid "Customize your app's colors"
 msgstr "Personalice los colores de su app"
 
-#: es/application.csv:93 
+#: es/application.csv:93
 msgid "Manage your app's features"
 msgstr "Administre las funciones de su app"
 
-#: es/application.csv:94 
+#: es/application.csv:94
 msgid "Publish your app"
 msgstr "Publicar su app"
 

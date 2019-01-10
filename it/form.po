@@ -1,138 +1,142 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: it\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: it\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/form.csv:1 
+#: it/form.csv:1
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</ strong>deve essere un valore numerico<br />"
 
-#: it/form.csv:2 
+#: it/form.csv:2
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</ strong>deve essere una data valida (ad esempio gg/mm/aaaa)<br />"
 
-#: it/form.csv:3 
+#: it/form.csv:3
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</ strong>deve essere una data valida<br />"
 
-#: it/form.csv:4 
+#: it/form.csv:4
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</ strong>deve essere un indirizzo email valido<br />"
 
-#: it/form.csv:5 
+#: it/form.csv:5
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</ strong>deve essere compilato<br />"
 
-#: it/form.csv:6 
+#: it/form.csv:6
 msgid "Add a field"
 msgstr "Aggiungi un campo"
 
-#: it/form.csv:7 
+#: it/form.csv:7
 msgid "Add a section"
 msgstr "Aggiungi una sezione"
 
-#: it/form.csv:8 
+#: it/form.csv:8
 msgid "Add an option"
 msgstr "Aggiungi un opzione"
 
-#: it/form.csv:9 
+#: it/form.csv:9
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Si è verificato un errore durante il salvataggio. Un campo non può essere identificato."
 
-#: it/form.csv:10 
+#: it/form.csv:10
 msgid "Are you sure you want to remove this field?"
 msgstr "Sei sicuro di voler rimuovere questo campo?"
 
-#: it/form.csv:11 
+#: it/form.csv:11
 msgid "Are you sure you want to remove this section?"
 msgstr "Sei sicuro di voler rimuovere questa sezione?"
 
-#: it/form.csv:12 
+#: it/form.csv:12
 msgid "Checkbox"
 msgstr "Checkbox"
 
-#: it/form.csv:13 
+#: it/form.csv:13
 msgid "Choose a field type:"
 msgstr "Scegli il tipo di campo:"
 
-#: it/form.csv:14 
+#: it/form.csv:14
 msgid "Create a new field"
 msgstr "Crea un nuovo campo"
 
-#: it/form.csv:15 
+#: it/form.csv:15
 msgid "Date/Hour"
 msgstr "Data/ora"
 
-#: it/form.csv:16 
+#: it/form.csv:16
 msgid "Drop down"
 msgstr "Tendina"
 
-#: it/form.csv:17 
+#: it/form.csv:17
 msgid "Edit field %s"
 msgstr "Modifica campo %s"
 
-#: it/form.csv:18 
+#: it/form.csv:18
 msgid "Field name"
 msgstr "Nome del campo"
 
-#: it/form.csv:19 
+#: it/form.csv:19
 msgid "Field name:"
 msgstr "Nome del campo:"
 
-#: it/form.csv:20 
+#: it/form.csv:20
 msgid "Geolocation"
 msgstr "Geolocalizzazione"
 
-#: it/form.csv:21 
+#: it/form.csv:21
 msgid "Hello,"
 msgstr "Ciao,"
 
-#: it/form.csv:22 
+#: it/form.csv:22
 msgid "Manage fields"
 msgstr "Gestisci campi"
 
-#: it/form.csv:23 
+#: it/form.csv:23
 msgid "Manage options:"
 msgstr "Gestisci opzioni:"
 
-#: it/form.csv:24 
+#: it/form.csv:24
 msgid "Multiline text"
 msgstr "Testo multilinea"
 
-#: it/form.csv:25 
+#: it/form.csv:25
 msgid "Option"
 msgstr "Opzioni"
 
-#: it/form.csv:26 
+#: it/form.csv:26
 msgid "Radio"
 msgstr "Radiobutton"
 
-#: it/form.csv:27 
+#: it/form.csv:27
 msgid "Recipient email"
 msgstr "Destinatario mail"
 
-#: it/form.csv:28 
+#: it/form.csv:28
 msgid "Recipient email:"
 msgstr "Email destinatario"
 
-#: it/form.csv:29 
+#: it/form.csv:29
 msgid "The form has been sent successfully"
 msgstr "Il Form è stato inviato con successo"
 
-#: it/form.csv:30 
+#: it/form.csv:30
 msgid "You have to choose a field type."
 msgstr "Devi scegliere un tipo di campo."
 
-#: it/form.csv:31 
+#: it/form.csv:31
 msgid "Your app's form"
 msgstr "Il form della tua app"
 
-#: it/form.csv:32 
+#: it/form.csv:32
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Il modulo è stato compilato, ecco le risposte:"
-

@@ -1,122 +1,126 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/media.csv:1 
+#: es/media.csv:1
 msgid "Parameter"
 msgstr "Parámetros"
 
-#: es/media.csv:2 
+#: es/media.csv:2
 msgid "Send your pictures"
 msgstr "Envíe sus imágenes"
 
-#: es/media.csv:3 
+#: es/media.csv:3
 msgid "User"
 msgstr "Usuario"
 
-#: es/media.csv:4 
+#: es/media.csv:4
 msgid "Gallery Name"
 msgstr "Nombre de la galería"
 
-#: es/media.csv:5 
+#: es/media.csv:5
 msgid "Choose an album"
 msgstr "Elija un album"
 
-#: es/media.csv:6 
+#: es/media.csv:6
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgstr "Tamaño máximo: 2000 * 2000 píxeles - tipos de archivo permitidos : jpg y png"
 
-#: es/media.csv:7 
+#: es/media.csv:7
 msgid "Description:"
 msgstr "Descripción :"
 
-#: es/media.csv:8 
+#: es/media.csv:8
 msgid "Required field"
 msgstr "Este campos es obligatorio"
 
-#: es/media.csv:9 
+#: es/media.csv:9
 msgid "Delete this gallery?"
 msgstr "¿Desea eliminar esta galería?"
 
-#: es/media.csv:10 
+#: es/media.csv:10
 msgid "Title:"
 msgstr "Título:"
 
-#: es/media.csv:11 
+#: es/media.csv:11
 msgid "Search"
 msgstr "Buscar"
 
-#: es/media.csv:12 
-msgid "Gallery Name <span class="required-entry">*</span> :"
-msgstr "Nombre de la galería <span class="required-entry">*</span> :"
+#: es/media.csv:12
+msgid "Gallery Name <span class=\"required-entry\">*</span> :"
+msgstr "Nombre de la galería <span class=\"required-entry\">*</span> :"
 
-#: es/media.csv:13 
+#: es/media.csv:13
 msgid "Feed URL"
 msgstr "URL de su Feed RSS"
 
-#: es/media.csv:14 
-msgid "Feed URL <span class="required-entry">*</span> :"
-msgstr "URL de su Feed RSS <span class="required-entry">*</span> :"
+#: es/media.csv:14
+msgid "Feed URL <span class=\"required-entry\">*</span> :"
+msgstr "URL de su Feed RSS <span class=\"required-entry\">*</span> :"
 
-#: es/media.csv:15 
+#: es/media.csv:15
 msgid "Parameter/Feed Url"
 msgstr "Parametro/Url de su Feed RSS"
 
-#: es/media.csv:16 
+#: es/media.csv:16
 msgid "Search/Url"
 msgstr "Buscar/Url"
 
-#: es/media.csv:17 
+#: es/media.csv:17
 msgid "More pictures"
 msgstr "Más imágenes"
 
-#: es/media.csv:18 
+#: es/media.csv:18
 msgid "No pictures matching your selection"
 msgstr "No hay imágenes que coincidan con su selección"
 
-#: es/media.csv:19 
+#: es/media.csv:19
 msgid "An error occurred while loading pictures. Please try later."
 msgstr "Se ha producido un error al cargar imágenes. Por favor inténtelo de nuevo más tarde"
 
-#: es/media.csv:20 
+#: es/media.csv:20
 msgid "More videos"
 msgstr "Más vídeos"
 
-#: es/media.csv:21 
+#: es/media.csv:21
 msgid "No videos matching your selection"
 msgstr "No hay vídeos que coincidan con su selección"
 
-#: es/media.csv:22 
+#: es/media.csv:22
 msgid "An error occurred while loading videos. Please try later."
 msgstr "Se ha producido un error al cargar los vídeos. Por favor inténtelo de nuevo más tarde"
 
-#: es/media.csv:23 
+#: es/media.csv:23
 msgid "The entered name is not a valid Instagram user."
 msgstr "El nombre ingresado no es un usuario de Instagram válido."
 
-#: es/media.csv:24 
+#: es/media.csv:24
 msgid "An error occurred while saving your images gallery. Please try again later."
 msgstr "Se ha producido un error al guardar su galería de imágenes. Por favor inténtelo de nuevo más tarde "
 
-#: es/media.csv:25 
+#: es/media.csv:25
 msgid "Images gallery has been saved successfully"
 msgstr "Su galería de imágenes ha sido guardada correctamente"
 
-#: es/media.csv:26 
+#: es/media.csv:26
 msgid "An error occurred while deleting you images gallery. Please try again later."
 msgstr "Se ha producido un error al eliminar su galería de imágenes. Por favor inténtelo de nuevo más tarde "
 
-#: es/media.csv:27 
+#: es/media.csv:27
 msgid "An error occurred while saving your videos gallery. Please try again later."
 msgstr "Se ha producido un error al guardar su galería de vídeos . Por favor inténtelo de nuevo más tarde"
 
-#: es/media.csv:28 
+#: es/media.csv:28
 msgid "Videos gallery has been saved successfully"
 msgstr "Su galería de vídeos ha sido guardada correctamente"
-

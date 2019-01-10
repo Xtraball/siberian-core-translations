@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Load & Save po files to fix encoding/escaping issues!
+ */
+
 require __DIR__ . "/../vendor/autoload.php";
 
 use Gettext\Translations;
@@ -26,7 +30,7 @@ foreach ($locales as $code => $human) {
     foreach ($files as $file) {
         if ($file->getExtension() === "po") {
             $translations = Translations::fromPoFile($file->getPathname());
-            $translations->toPoFile(str_replace(".po", ".edit.po", $file->getPathname()));
+            $translations->toPoFile($file->getPathname());
         }
     }
 }

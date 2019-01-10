@@ -1,863 +1,868 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/application.csv:1 
-msgid "﻿"1. Download the app previewer:""
+#: ru/application.csv:1
+msgid "﻿\"1. Download the app previewer:\""
 msgstr "1. Скачать приложение предпросмотра:"
 
-#: ru/application.csv:2 
+#: ru/application.csv:2
 msgid "2. Open the app and login"
 msgstr "2. Откройте приложение и логин"
 
-#: ru/application.csv:3 
+#: ru/application.csv:3
 msgid "<b>File type:</b> %s"
 msgstr "<b>Тип файла:</b> %s"
 
-#: ru/application.csv:4 
-msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
-msgstr "<span>Нажмите на плюс</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>и добавится пункт.</span>"
+#: ru/application.csv:4
+msgid "<span>Click on</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>to add an item.</span>"
+msgstr "<span>Нажмите на плюс</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>и добавится пункт.</span>"
 
-#: ru/application.csv:5 
+#: ru/application.csv:5
 msgid "Activated"
 msgstr "Активен"
 
-#: ru/application.csv:6 
+#: ru/application.csv:6
 msgid "Add a new icon"
 msgstr "Добавить новый значок"
 
-#: ru/application.csv:7 
+#: ru/application.csv:7
 msgid "Add pages"
 msgstr "Добавьте страницы"
 
-#: ru/application.csv:8 
+#: ru/application.csv:8
 msgid "Additional options"
 msgstr "Дополнительные опции"
 
-#: ru/application.csv:9 
+#: ru/application.csv:9
 msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
 msgstr "Произошла ошибка при копировании значка приложения. Пожалуйста, проверьте значок, попробуйте отправить его еще раз и повторите попытку."
 
-#: ru/application.csv:10 
+#: ru/application.csv:10
 msgid "An error occurred during the generation of your QRCode. Please try again later."
 msgstr "Произошла ошибка при генерации вашего QR кода. Пожалуйста, повторите попытку позже."
 
-#: ru/application.csv:11 
+#: ru/application.csv:11
 msgid "An error occurred while adding the option"
 msgstr "Произошла ошибка при добавлении опции"
 
-#: ru/application.csv:12 
+#: ru/application.csv:12
 msgid "An error occurred while changing your layout."
 msgstr "Произошла ошибка при смене макета."
 
-#: ru/application.csv:13 
+#: ru/application.csv:13
 msgid "An error occurred while deleting the option"
 msgstr "Произошла ошибка во время удаления опции"
 
-#: ru/application.csv:14 
+#: ru/application.csv:14
 msgid "An error occurred while deleting your picture"
 msgstr "Произошла ошибка во время удаления вашей фотографии"
 
-#: ru/application.csv:15 
+#: ru/application.csv:15
 msgid "An error occurred while editing file (%s)."
 msgstr "Произошла ошибка при редактировании файла (%s)."
 
-#: ru/application.csv:16 
+#: ru/application.csv:16
 msgid "An error occurred while loading"
 msgstr "Произошла ошибка при загрузке"
 
-#: ru/application.csv:17 
+#: ru/application.csv:17
 msgid "An error occurred while saving the application. Please try again later."
 msgstr "Произошла ошибка при сохранении приложения. Пожалуйста, повторите попытку позже."
 
-#: ru/application.csv:18 
+#: ru/application.csv:18
 msgid "An error occurred while saving your colors."
 msgstr "Произошла ошибка при сохранении ваших цветов"
 
-#: ru/application.csv:19 
+#: ru/application.csv:19
 msgid "An error occurred while saving your page name."
 msgstr "Произошла ошибка при сохранении имени вашей страницы"
 
-#: ru/application.csv:20 
+#: ru/application.csv:20
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "Произошла ошибка при сохранении. Выбранный значок не является действительным."
 
-#: ru/application.csv:21 
+#: ru/application.csv:21
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "Произошла ошибка при сортировке страниц. Пожалуйста, повторите попытку позже."
 
-#: ru/application.csv:22 
+#: ru/application.csv:22
 msgid "Analytics"
 msgstr "Аналитика"
 
-#: ru/application.csv:23 
+#: ru/application.csv:23
 msgid "Android APK Generation"
 msgstr "Андроид APK генератор"
 
-#: ru/application.csv:24 
+#: ru/application.csv:24
 msgid "Android Version"
 msgstr "Версия Андроида"
 
-#: ru/application.csv:25 
+#: ru/application.csv:25
 msgid "App Store Icon"
 msgstr "App Store иконка"
 
-#: ru/application.csv:26 
+#: ru/application.csv:26
 msgid "Apple's Information"
 msgstr "Информация от Apple"
 
-#: ru/application.csv:27 
+#: ru/application.csv:27
 msgid "Application name"
 msgstr "Название программы"
 
-#: ru/application.csv:28 
+#: ru/application.csv:28
 msgid "Are you sure you want to remove this application?"
 msgstr "Вы уверены, что хотите удалить это приложение?"
 
-#: ru/application.csv:29 
+#: ru/application.csv:29
 msgid "At least 200 characters in the description"
 msgstr "По крайней мере должно быть 200 символов в описании"
 
-#: ru/application.csv:30 
+#: ru/application.csv:30
 msgid "At least, 4 pages in the application"
 msgstr "По крайней мере должны быть 4 страницы в приложении"
 
-#: ru/application.csv:31 
+#: ru/application.csv:31
 msgid "Audio"
 msgstr "Аудио"
 
-#: ru/application.csv:32 
+#: ru/application.csv:32
 msgid "Average by customer"
 msgstr "Средняя заказчиком"
 
-#: ru/application.csv:33 
+#: ru/application.csv:33
 msgid "Book"
 msgstr "Книга"
 
-#: ru/application.csv:34 
+#: ru/application.csv:34
 msgid "Bundle Id"
 msgstr "Пакеты  Id"
 
-#: ru/application.csv:35 
+#: ru/application.csv:35
 msgid "Business"
 msgstr "Бизнес"
 
-#: ru/application.csv:36 
+#: ru/application.csv:36
 msgid "Buy one, get one!"
 msgstr "Купите один, получите один!"
 
-#: ru/application.csv:37 
+#: ru/application.csv:37
 msgid "Catalogs"
 msgstr "Каталог"
 
-#: ru/application.csv:38 
+#: ru/application.csv:38
 msgid "Certificate"
 msgstr "Сертификат"
 
-#: ru/application.csv:39 
+#: ru/application.csv:39
 msgid "Change your"
 msgstr "Изменить"
 
-#: ru/application.csv:40 
+#: ru/application.csv:40
 msgid "Change your template"
 msgstr "Изменить шаблон"
 
-#: ru/application.csv:41 
+#: ru/application.csv:41
 msgid "Change your<br /><span>picture</span>"
 msgstr "Изменить<br /><span>картинку</span>"
 
-#: ru/application.csv:42 
+#: ru/application.csv:42
 msgid "Checking CNAME configuration:"
 msgstr "Проверка CNAME конфигурации:"
 
-#: ru/application.csv:43 
+#: ru/application.csv:43
 msgid "Choose your design"
 msgstr "Выберите свой дизайн"
 
-#: ru/application.csv:44 
-msgid "Choose a <br /><span class="bold">picture</span>"
-msgstr "Выберите <br /><span class="bold">картинку</span>"
+#: ru/application.csv:44
+msgid "Choose a <br /><span class=\"bold\">picture</span>"
+msgstr "Выберите <br /><span class=\"bold\">картинку</span>"
 
-#: ru/application.csv:45 
+#: ru/application.csv:45
 msgid "Choose a country"
 msgstr "Выберите страну"
 
-#: ru/application.csv:46 
+#: ru/application.csv:46
 msgid "Choose a font family"
 msgstr "Выберите шрифт"
 
-#: ru/application.csv:47 
+#: ru/application.csv:47
 msgid "Choose a template to customize"
 msgstr "Выберите шаблон, чтобы настроить"
 
-#: ru/application.csv:48 
+#: ru/application.csv:48
 msgid "Choose your colors"
 msgstr "Подберите цветовую схему приложения"
 
-#: ru/application.csv:49 
+#: ru/application.csv:49
 msgid "Choose your country"
 msgstr "Выберите страну"
 
-#: ru/application.csv:50 
+#: ru/application.csv:50
 msgid "Choose your font style"
 msgstr "Выберите свой стиль шрифта"
 
-#: ru/application.csv:51 
+#: ru/application.csv:51
 msgid "Choose your homepage image"
 msgstr "Выберите изображение страницы"
 
-#: ru/application.csv:52 
+#: ru/application.csv:52
 msgid "Choose your icons color"
 msgstr "Подберите дизайн кнопок управления "
 
-#: ru/application.csv:53 
+#: ru/application.csv:53
 msgid "Choose your layout"
 msgstr "Выберите макет"
 
-#: ru/application.csv:54 
+#: ru/application.csv:54
 msgid "Choose your template"
 msgstr "Выберите шаблон"
 
-#: ru/application.csv:55 
+#: ru/application.csv:55
 msgid "Click here to download the source code:"
 msgstr "Нажмите здесь, чтобы загрузить исходный код:"
 
-#: ru/application.csv:56 
+#: ru/application.csv:56
 msgid "Click here to send your certificate"
 msgstr "Нажмите здесь, чтобы отправить сертификат"
 
-#: ru/application.csv:57 
+#: ru/application.csv:57
 msgid "Colors"
 msgstr "Цвета"
 
-#: ru/application.csv:58 
+#: ru/application.csv:58
 msgid "Dashboard icon"
 msgstr "Иконка Приборной панели"
 
-#: ru/application.csv:59 
+#: ru/application.csv:59
 msgid "Deactivated"
 msgstr "Не активен"
 
-#: ru/application.csv:60 
+#: ru/application.csv:60
 msgid "Delete this page?"
 msgstr "Удалить эту страницу?"
 
-#: ru/application.csv:61 
+#: ru/application.csv:61
 msgid "Design"
 msgstr "Дизайн"
 
-#: ru/application.csv:62 
+#: ru/application.csv:62
 msgid "Developer Accounts"
 msgstr "Аккаунт для разработчиков"
 
-#: ru/application.csv:63 
+#: ru/application.csv:63
 msgid "Device Information"
 msgstr "Информация об устройстве "
 
-#: ru/application.csv:64 
+#: ru/application.csv:64
 msgid "Discount zone description. Here your clients will be able to see the details of each discount"
 msgstr "Описание раздела скидок. Здесь ваши клиенты смогут увидеть подробные сведения о каждой скидке."
 
-#: ru/application.csv:65 
+#: ru/application.csv:65
 msgid "Domain"
 msgstr "Домен"
 
-#: ru/application.csv:66 
+#: ru/application.csv:66
 msgid "Domain name"
 msgstr "Имя домена"
 
-#: ru/application.csv:67 
+#: ru/application.csv:67
 msgid "Download"
 msgstr "Скачать"
 
-#: ru/application.csv:68 
+#: ru/application.csv:68
 msgid "Download our app previewer"
 msgstr "Загрузите наше приложение предварительного просмотра"
 
-#: ru/application.csv:69 
+#: ru/application.csv:69
 msgid "Drop your certificate here"
 msgstr "Оставьте свой сертификат здесь"
 
-#: ru/application.csv:70 
+#: ru/application.csv:70
 msgid "Edit my"
 msgstr "Редактировать мой"
 
-#: ru/application.csv:71 
-msgid "Edit the application "%s""
-msgstr "Измените приложение "%s""
+#: ru/application.csv:71
+msgid "Edit the application \"%s\""
+msgstr "Измените приложение \"%s\""
 
-#: ru/application.csv:72 
+#: ru/application.csv:72
 msgid "Editor"
 msgstr "Редактор"
 
-#: ru/application.csv:73 
+#: ru/application.csv:73
 msgid "Education"
-msgstr "
-Образование"
+msgstr ""
+"\n"
+""
 
-#: ru/application.csv:74 
+#: ru/application.csv:74
 msgid "Entertainment"
 msgstr "Развлечения"
 
-#: ru/application.csv:75 
+#: ru/application.csv:75
 msgid "Extension not allowed, '%s' only"
 msgstr "Расширение не допускается, '%s' только"
 
-#: ru/application.csv:76 
+#: ru/application.csv:76
 msgid "Features"
 msgstr "Функции"
 
-#: ru/application.csv:77 
+#: ru/application.csv:77
 msgid "Finance"
 msgstr "Финансы"
 
-#: ru/application.csv:78 
+#: ru/application.csv:78
 msgid "Food & Drink"
 msgstr "Еда и Напитки"
 
-#: ru/application.csv:79 
+#: ru/application.csv:79
 msgid "Fred W."
 msgstr "Евгений А."
 
-#: ru/application.csv:80 
+#: ru/application.csv:80
 msgid "Games"
 msgstr "Игры"
 
-#: ru/application.csv:81 
+#: ru/application.csv:81
 msgid "General Information"
 msgstr "Общая информация"
 
-#: ru/application.csv:82 
+#: ru/application.csv:82
 msgid "General information"
 msgstr "Общая информация"
 
-#: ru/application.csv:83 
+#: ru/application.csv:83
 msgid "Global visits"
 msgstr "Глобальные посещения"
 
-#: ru/application.csv:84 
+#: ru/application.csv:84
 msgid "Google Play Icon"
 msgstr "Google Play иконка"
 
-#: ru/application.csv:85 
+#: ru/application.csv:85
 msgid "Google's Information"
 msgstr "Информация от Google"
 
-#: ru/application.csv:86 
+#: ru/application.csv:86
 msgid "Health & Fitness"
 msgstr "Здоровье и Фитнес"
 
-#: ru/application.csv:87 
+#: ru/application.csv:87
 msgid "Here is our latest creation. What do you think?"
 msgstr "Вот наше последнее творение. Что вы думаете?"
 
-#: ru/application.csv:88 
+#: ru/application.csv:88
 msgid "Homepage preview"
 msgstr "Домашняя страница предварительного просмотра"
 
-#: ru/application.csv:89 
+#: ru/application.csv:89
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "У меня нет учетной записи разработчика Google, и я хочу её создать."
 
-#: ru/application.csv:90 
+#: ru/application.csv:90
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "У меня нет учетной записи разработчика Apple, и я хочу её создать."
 
-#: ru/application.csv:91 
+#: ru/application.csv:91
 msgid "I have an Apple developer account"
 msgstr "У меня есть аккаунт разработчика Apple,"
 
-#: ru/application.csv:92 
+#: ru/application.csv:92
 msgid "I have an Google developer account"
 msgstr "У меня есть аккаунт разработчика Google"
 
-#: ru/application.csv:93 
+#: ru/application.csv:93
 msgid "I let you publish my application under your Apple developer account"
 msgstr "Я позволю вам опубликовать мое заявление под своей учетной записью разработки Apple"
 
-#: ru/application.csv:94 
+#: ru/application.csv:94
 msgid "I let you publish my application under your Google developer account"
 msgstr "Я позволю вам опубликовать мое заявление под своей учетной записью разработчика Google"
 
-#: ru/application.csv:95 
+#: ru/application.csv:95
 msgid "Icons"
 msgstr "Иконка"
 
-#: ru/application.csv:96 
+#: ru/application.csv:96
 msgid "Id"
 msgstr "Id"
 
-#: ru/application.csv:97 
+#: ru/application.csv:97
 msgid "If you validate, your app's colors and background image will be replaced"
 msgstr "Если вы проверяете, цвета вашего приложения и фоновое изображение будет заменено."
 
-#: ru/application.csv:98 
+#: ru/application.csv:98
 msgid "Installed application"
 msgstr "Установка приложения"
 
-#: ru/application.csv:99 
+#: ru/application.csv:99
 msgid "Key Password"
 msgstr "Ключ Пароль"
 
-#: ru/application.csv:100 
+#: ru/application.csv:100
 msgid "Keywords"
 msgstr "Ключевые слова"
 
-#: ru/application.csv:101 
+#: ru/application.csv:101
 msgid "Last name:"
 msgstr "Фамилия:"
 
-#: ru/application.csv:102 
+#: ru/application.csv:102
 msgid "Library icons"
 msgstr "Библиотека иконок"
 
-#: ru/application.csv:103 
+#: ru/application.csv:103
 msgid "Lifestyle"
 msgstr "Стиль жизни"
 
-#: ru/application.csv:104 
+#: ru/application.csv:104
 msgid "List of my applications"
 msgstr "Список моих приложений"
 
-#: ru/application.csv:105 
+#: ru/application.csv:105
 msgid "List of your applications"
 msgstr "Список приложений"
 
-#: ru/application.csv:106 
+#: ru/application.csv:106
 msgid "Loading"
 msgstr "Загрузка"
 
-#: ru/application.csv:107 
+#: ru/application.csv:107
 msgid "Lock the entire application"
 msgstr "Блокировка всего приложения"
 
-#: ru/application.csv:108 
+#: ru/application.csv:108
 msgid "Love it <3"
 msgstr "Любовь это <3"
 
-#: ru/application.csv:109 
+#: ru/application.csv:109
 msgid "Main"
 msgstr "Главная"
 
-#: ru/application.csv:110 
+#: ru/application.csv:110
 msgid "Manage icons"
 msgstr "Управление иконками"
 
-#: ru/application.csv:111 
+#: ru/application.csv:111
 msgid "Media"
 msgstr "Медиа"
 
-#: ru/application.csv:112 
+#: ru/application.csv:112
 msgid "Medical"
 msgstr "Медицина"
 
-#: ru/application.csv:113 
+#: ru/application.csv:113
 msgid "Missing Information"
 msgstr "Отсутствует информация"
 
-#: ru/application.csv:114 
+#: ru/application.csv:114
 msgid "Mobile Source Codes"
 msgstr "Мобильный исходный код"
 
-#: ru/application.csv:115 
+#: ru/application.csv:115
 msgid "Mobile source codes"
 msgstr "Мобильные исходные коды"
 
-#: ru/application.csv:116 
+#: ru/application.csv:116
 msgid "Mobile website information"
 msgstr "Мобильный информационный сайт"
 
-#: ru/application.csv:117 
+#: ru/application.csv:117
 msgid "My QRCode"
 msgstr "Мой QR код"
 
-#: ru/application.csv:118 
+#: ru/application.csv:118
 msgid "My application in figures"
 msgstr "Мое приложение в цифрах"
 
-#: ru/application.csv:119 
+#: ru/application.csv:119
 msgid "Navigation"
 msgstr "Навигация"
 
-#: ru/application.csv:120 
+#: ru/application.csv:120
 msgid "News"
 msgstr "Новости"
 
-#: ru/application.csv:121 
+#: ru/application.csv:121
 msgid "One free coffee"
 msgstr "Один бесплатный кофе"
 
-#: ru/application.csv:122 
-msgid "Or go on your store<br />and look for "Apps Company Previewer""
-msgstr "Или пойти на вашем магазине <br /> и искать "приложений компания Previewer""
+#: ru/application.csv:122
+msgid "Or go on your store<br />and look for \"Apps Company Previewer\""
+msgstr "Или пойти на вашем магазине <br /> и искать \"приложений компания Previewer\""
 
-#: ru/application.csv:123 
+#: ru/application.csv:123
 msgid "Page name:"
 msgstr "Название страницы:"
 
-#: ru/application.csv:124 
+#: ru/application.csv:124
 msgid "Percentage of returning customers"
 msgstr "Процент постоянных клиентов"
 
-#: ru/application.csv:125 
+#: ru/application.csv:125
 msgid "Please enter a correct URL for the %s store"
 msgstr "Пожалуйста, введите правильный адрес для  %s магазина"
 
-#: ru/application.csv:126 
+#: ru/application.csv:126
 msgid "Please enter a subdomain."
 msgstr "Пожалуйста, введите субдомен."
 
-#: ru/application.csv:127 
+#: ru/application.csv:127
 msgid "Please enter a valid URL"
 msgstr "Пожалуйста, введите URL"
 
-#: ru/application.csv:128 
+#: ru/application.csv:128
 msgid "Please enter a valid address"
 msgstr "Пожалуйста, введите действительный адрес"
 
-#: ru/application.csv:129 
+#: ru/application.csv:129
 msgid "Please enter a valid mobile website address."
 msgstr "Пожалуйста, введите действующий номер мобильного телефона адрес веб-сайта."
 
-#: ru/application.csv:130 
+#: ru/application.csv:130
 msgid "Photo & Video"
 msgstr "Фото и видео"
 
-#: ru/application.csv:131 
+#: ru/application.csv:131
 msgid "Productivity"
 msgstr "Производительность"
 
-#: ru/application.csv:132 
+#: ru/application.csv:132
 msgid "Preview"
 msgstr "Предварительный просмотр"
 
-#: ru/application.csv:133 
+#: ru/application.csv:133
 msgid "Promote"
 msgstr "ТЕСТ"
 
-#: ru/application.csv:134 
+#: ru/application.csv:134
 msgid "Publication"
 msgstr "Публикация"
 
-#: ru/application.csv:135 
+#: ru/application.csv:135
 msgid "Publish the application"
 msgstr "Опубликовать приложение"
 
-#: ru/application.csv:136 
+#: ru/application.csv:136
 msgid "Publish under our account"
 msgstr "Опубликовать в соответствии с вашим аккаунтом"
 
-#: ru/application.csv:137 
+#: ru/application.csv:137
 msgid "Ready ? Publish my app!"
 msgstr "Опубликовать приложение!"
 
-#: ru/application.csv:138 
+#: ru/application.csv:138
 msgid "Recommanded size:"
 msgstr "Рекомендованные размеры:"
 
-#: ru/application.csv:139 
+#: ru/application.csv:139
 msgid "Reference"
 msgstr "Справка"
 
-#: ru/application.csv:140 
+#: ru/application.csv:140
 msgid "Remove this page from this folder?"
 msgstr "Удалить эту страницу из этой папки?"
 
-#: ru/application.csv:141 
+#: ru/application.csv:141
 msgid "Scan this QR Code"
 msgstr "Сканировать этот QR код"
 
-#: ru/application.csv:142 
+#: ru/application.csv:142
 msgid "Scan this QR Code:"
 msgstr "Сканировать этот QR код"
 
-#: ru/application.csv:143 
+#: ru/application.csv:143
 msgid "Secondary category"
 msgstr "Вторичная категория"
 
-#: ru/application.csv:144 
+#: ru/application.csv:144
 msgid "Secondary category<br />(Optional)"
 msgstr "Вторичная категория <br /> (Необязательно)"
 
-#: ru/application.csv:145 
+#: ru/application.csv:145
 msgid "Send here your iOS certificate to enable the push notifications for this application."
 msgstr "Отправить здесь свой сертификат IOS, чтобы дать возможность отправить уведомления  для этого приложения."
 
-#: ru/application.csv:146 
+#: ru/application.csv:146
 msgid "Send you .pem certificate"
 msgstr "Отправить Ваш .pem сертификат"
 
-#: ru/application.csv:147 
+#: ru/application.csv:147
 msgid "Show the applications waiting for publication only."
 msgstr "Показать приложения ожидающих публикации."
 
-#: ru/application.csv:148 
+#: ru/application.csv:148
 msgid "Social Networking"
 msgstr "Социальные сети"
 
-#: ru/application.csv:149 
+#: ru/application.csv:149
 msgid "Sports"
 msgstr "Спорт"
 
-#: ru/application.csv:150 
+#: ru/application.csv:150
 msgid "Startup image"
 msgstr "Заставка"
 
-#: ru/application.csv:151 
+#: ru/application.csv:151
 msgid "Status"
 msgstr "Статус"
 
-#: ru/application.csv:152 
+#: ru/application.csv:152
 msgid "Store Password"
 msgstr "Пароль магазина"
 
-#: ru/application.csv:153 
+#: ru/application.csv:153
 msgid "Store URL"
 msgstr "URL магазина"
 
-#: ru/application.csv:154 
+#: ru/application.csv:154
 msgid "Stores Info"
 msgstr "Информация о магазине"
 
-#: ru/application.csv:155 
+#: ru/application.csv:155
 msgid "To be able to download source codes, please provide the following information:<br />"
 msgstr "Для того, чтобы загрузить исходные коды, пожалуйста, предоставьте следующую информацию: <br />"
 
-#: ru/application.csv:156 
+#: ru/application.csv:156
 msgid "The application's name cannot start with a number"
 msgstr "Название приложения не могут начинаться с цифры"
 
-#: ru/application.csv:157 
+#: ru/application.csv:157
 msgid "The Bundle Id is required"
 msgstr "Необходимо пакетов id"
 
-#: ru/application.csv:158 
+#: ru/application.csv:158
 msgid "The QR Code is not available at this moment"
 msgstr "QR коды не доступны в данный момент"
 
-#: ru/application.csv:159 
+#: ru/application.csv:159
 msgid "The application has been successfully saved"
 msgstr "Заявка была успешно сохранена"
 
-#: ru/application.csv:160 
+#: ru/application.csv:160
 msgid "The application name"
 msgstr "Имя приложения"
 
-#: ru/application.csv:161 
+#: ru/application.csv:161
 msgid "The description"
 msgstr "Описание"
 
-#: ru/application.csv:162 
+#: ru/application.csv:162
 msgid "The description must be at least 200 characters"
 msgstr "Описание должно быть по крайней мере 200 символов"
 
-#: ru/application.csv:163 
+#: ru/application.csv:163
 msgid "The desktop icon"
 msgstr "Значок на рабочем столе"
 
-#: ru/application.csv:164 
+#: ru/application.csv:164
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "Ваш комплект ID неправильный, он должен быть как: com.appartmaker.app"
 
-#: ru/application.csv:165 
+#: ru/application.csv:165
 msgid "The field is required"
 msgstr "Поле обязательно для заполнения"
 
-#: ru/application.csv:166 
+#: ru/application.csv:166
 msgid "The file has been successfully uploaded"
 msgstr "Файл успешно загружен"
 
-#: ru/application.csv:167 
+#: ru/application.csv:167
 msgid "The following information are needed to download the source codes:<br />"
 msgstr "Следующая информация необходима для загрузки исходных кодов: <br />"
 
-#: ru/application.csv:168 
+#: ru/application.csv:168
 msgid "The homepage image"
 msgstr "Изображение для домашней страницы"
 
-#: ru/application.csv:169 
+#: ru/application.csv:169
 msgid "The key cannot be empty."
 msgstr "Пароль не может быть пустым."
 
-#: ru/application.csv:170 
+#: ru/application.csv:170
 msgid "The key is already used by another application."
 msgstr "Пароль уже используется другим приложением."
 
-#: ru/application.csv:171 
+#: ru/application.csv:171
 msgid "The keywords"
 msgstr "Ключевые слова"
 
-#: ru/application.csv:172 
+#: ru/application.csv:172
 msgid "The main category"
 msgstr "Основная категория"
 
-#: ru/application.csv:173 
+#: ru/application.csv:173
 msgid "The startup image"
 msgstr "Запуск изображение"
 
-#: ru/application.csv:174 
+#: ru/application.csv:174
 msgid "This key is already used by system features."
 msgstr "Этот ключ уже используется системными функциями."
 
-#: ru/application.csv:175 
+#: ru/application.csv:175
 msgid "This application does not exist"
 msgstr "Это приложение не существует"
 
-#: ru/application.csv:176 
+#: ru/application.csv:176
 msgid "This application is visible on the front"
 msgstr "Это приложение отображается вначале"
 
-#: ru/application.csv:177 
+#: ru/application.csv:177
 msgid "This option enables you to set the currency used in your app"
 msgstr "Эта опция позволяет вам установить, какая валюта используется в вашем приложении"
 
-#: ru/application.csv:178 
+#: ru/application.csv:178
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr "Эта страница будет отображаться для пользователей мобильных телефонов, чтобы позволить им войти и управлять своим аккаунтом. Она добавляется автоматически, когда вы используете функции, которые нужно активировать для входа пользователя."
 
-#: ru/application.csv:179 
+#: ru/application.csv:179
 msgid "Travel"
 msgstr "Путешествие"
 
-#: ru/application.csv:180 
+#: ru/application.csv:180
 msgid "URL"
 msgstr "URL"
 
-#: ru/application.csv:181 
+#: ru/application.csv:181
 msgid "URL Key"
 msgstr "URL ключ"
 
-#: ru/application.csv:182 
+#: ru/application.csv:182
 msgid "Utilities"
 msgstr "Комм. услуги"
 
-#: ru/application.csv:183 
+#: ru/application.csv:183
 msgid "Use into all of your application's pages"
 msgstr "Используйте для всех страниц вашего приложения"
 
-#: ru/application.csv:184 
+#: ru/application.csv:184
 msgid "Used points"
 msgstr "Использовано пунктов"
 
-#: ru/application.csv:185 
+#: ru/application.csv:185
 msgid "User Information"
 msgstr "Информация о пользователе"
 
-#: ru/application.csv:186 
+#: ru/application.csv:186
 msgid "Version"
 msgstr "Версия "
 
-#: ru/application.csv:187 
+#: ru/application.csv:187
 msgid "Weather"
 msgstr "Погода"
 
-#: ru/application.csv:188 
+#: ru/application.csv:188
 msgid "You can't use this domain."
 msgstr "Вы не можете использовать этот домен."
 
-#: ru/application.csv:189 
+#: ru/application.csv:189
 msgid "You already have sent a certificate."
 msgstr "Вы уже отправили сертификат."
 
-#: ru/application.csv:190 
-msgid "You can download your QRCode by <a class="f-bold" href="%s">clicking here</a>"
-msgstr "Сканируйте на свой смартфон QR код или загрузите <a class="f-bold" href="%s"> нажав сюда </a>. Протестируйте на телефоне ваше приложение или покажите его работу вашим заказчикам."
+#: ru/application.csv:190
+msgid "You can download your QRCode by <a class=\"f-bold\" href=\"%s\">clicking here</a>"
+msgstr "Сканируйте на свой смартфон QR код или загрузите <a class=\"f-bold\" href=\"%s\"> нажав сюда </a>. Протестируйте на телефоне ваше приложение или покажите его работу вашим заказчикам."
 
-#: ru/application.csv:191 
+#: ru/application.csv:191
 msgid "You don't have any applications yet"
 msgstr "Вы ещё не имеют никаких приложений"
 
-#: ru/application.csv:192 
+#: ru/application.csv:192
 msgid "You have already sent a certificate"
 msgstr "Вы уже отправили сертификат"
 
-#: ru/application.csv:193 
+#: ru/application.csv:193
 msgid "You have sent a certificate."
 msgstr "Вы отправили сертификат."
 
-#: ru/application.csv:194 
-msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
-msgstr "Вы должны создать учетную запись Google перед публикацией вашего приложения. <a href="https://play.google.com/apps/publish/signup" target="_blank"> Нажмите здесь, чтобы создать его. </a>"
+#: ru/application.csv:194
+msgid "You have to create a Google account before publishing your application. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
+msgstr "Вы должны создать учетную запись Google перед публикацией вашего приложения. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\"> Нажмите здесь, чтобы создать его. </a>"
 
-#: ru/application.csv:195 
-msgid "You have to create an Apple account before publishing your application. <a href="https://developer.apple.com/register/index.action" target="_blank">Click here to create one.</a>"
-msgstr "Вы должны создать учетную запись Apple до публикации вашего приложения. <a href="https://developer.apple.com/register/index.action" target="_blank"> Нажмите здесь, чтобы создать его. </a>"
+#: ru/application.csv:195
+msgid "You have to create an Apple account before publishing your application. <a href=\"https://developer.apple.com/register/index.action\" target=\"_blank\">Click here to create one.</a>"
+msgstr "Вы должны создать учетную запись Apple до публикации вашего приложения. <a href=\"https://developer.apple.com/register/index.action\" target=\"_blank\"> Нажмите здесь, чтобы создать его. </a>"
 
-#: ru/application.csv:196 
+#: ru/application.csv:196
 msgid "You haven't chosen any template yet"
 msgstr "Вы ещё не выбрали ни одного шаблона "
 
-#: ru/application.csv:197 
+#: ru/application.csv:197
 msgid "You may not delete a library icon"
 msgstr "Вы не можете удалить значок библиотеки"
 
-#: ru/application.csv:198 
+#: ru/application.csv:198
 msgid "You must have published your application to access this feature"
 msgstr "Вы должны опубликовать ваше приложение для доступа к этой функции"
 
-#: ru/application.csv:199 
+#: ru/application.csv:199
 msgid "Your CNAME is properly set"
 msgstr "Ваше CNAME правильно установлен"
 
-#: ru/application.csv:200 
+#: ru/application.csv:200
 msgid "Your best customers"
 msgstr "Ваши лучшие клиенты"
 
-#: ru/application.csv:201 
+#: ru/application.csv:201
 msgid "Your customers in figures"
 msgstr "Ваши клиенты в цифрах"
 
-#: ru/application.csv:202 
+#: ru/application.csv:202
 msgid "Your mobile address should not contain special characters"
 msgstr "Ваш мобильный адрес не должны содержать специальные символы"
 
-#: ru/application.csv:203 
+#: ru/application.csv:203
 msgid "Your pages"
 msgstr "Ваши страницы"
 
-#: ru/application.csv:204 
-msgid "Your domain key "%s" is not valid."
-msgstr "Ваш ключ домена "%s" не является действительным."
+#: ru/application.csv:204
+msgid "Your domain key \"%s\" is not valid."
+msgstr "Ваш ключ домена \"%s\" не является действительным."
 
-#: ru/application.csv:205 
+#: ru/application.csv:205
 msgid "iOS Certificate"
 msgstr "Сертификат iOS "
 
-#: ru/application.csv:206 
+#: ru/application.csv:206
 msgid "iPad Retina:"
 msgstr "iPad Retina:"
 
-#: ru/application.csv:207 
+#: ru/application.csv:207
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S:"
 
-#: ru/application.csv:208 
+#: ru/application.csv:208
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6 Plus:"
 
-#: ru/application.csv:209 
+#: ru/application.csv:209
 msgid "iPhone 6:"
 msgstr "IPhone 6:"
 
-#: ru/application.csv:210 
+#: ru/application.csv:210
 msgid "iPhone Version"
 msgstr "iPhone версия"
 
-#: ru/application.csv:211 
+#: ru/application.csv:211
 msgid "icon"
 msgstr "иконку 192х192"
 
-#: ru/application.csv:212 
+#: ru/application.csv:212
 msgid "logo"
 msgstr "Логотип"
 
-#: ru/application.csv:213 
+#: ru/application.csv:213
 msgid "times"
 msgstr "раз"
-

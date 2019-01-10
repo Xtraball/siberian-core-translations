@@ -1,70 +1,74 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: tr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/promotion.csv:1 
+#: tr/promotion.csv:1
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "İndiriminiz kaydedilirken bir hata oluştu. Tüm alanları doldurunuz"
 
-#: tr/promotion.csv:2 
+#: tr/promotion.csv:2
 msgid "Are you sure you want to use this discount?"
 msgstr "Bu indirimi kullanmak istediğinizden emin misiniz?"
 
-#: tr/promotion.csv:3 
+#: tr/promotion.csv:3
 msgid "Closed discounts"
 msgstr "Kapalı indirimler"
 
-#: tr/promotion.csv:4 
+#: tr/promotion.csv:4
 msgid "Create a new discount"
 msgstr "Yeni bir indirim oluştur"
 
-#: tr/promotion.csv:5 
+#: tr/promotion.csv:5
 msgid "Delete this discount?"
 msgstr "Bu indirimi sil?"
 
-#: tr/promotion.csv:6 
+#: tr/promotion.csv:6
 msgid "Discount successfully deleted"
 msgstr "İndirim başarıyla silindi"
 
-#: tr/promotion.csv:7 
+#: tr/promotion.csv:7
 msgid "Discount successfully saved"
 msgstr "İndirim başarıyla kaydedildi"
 
-#: tr/promotion.csv:8 
+#: tr/promotion.csv:8
 msgid "Please select an end date greater than the current date."
 msgstr "Lütfen bugünden daha sonraki bir tarih seçin."
 
-#: tr/promotion.csv:9 
+#: tr/promotion.csv:9
 msgid "This discount is now used"
 msgstr "Bu indirim artık kullanılır"
 
-#: tr/promotion.csv:10 
+#: tr/promotion.csv:10
 msgid "Valid until"
 msgstr "Tarihine kadar geçerli"
 
-#: tr/promotion.csv:11 
+#: tr/promotion.csv:11
 msgid "You have already use this discount"
 msgstr "Zaten bu indirim kullanda"
 
-#: tr/promotion.csv:12 
+#: tr/promotion.csv:12
 msgid "You must be logged in to use a discount"
 msgstr "İndirim kullanmak için giriş yapmalısınız"
 
-#: tr/promotion.csv:13 
+#: tr/promotion.csv:13
 msgid "or illimited"
 msgstr "ya da sınırlı"
 
-#: tr/promotion.csv:14 
+#: tr/promotion.csv:14
 msgid "use only once"
 msgstr "yanlızca bir kez kullanın"
 
-#: tr/promotion.csv:15 
+#: tr/promotion.csv:15
 msgid "you'll be able to remove this promotion later"
 msgstr "Daha sonra bu promosyonu kaldırmak mümkün olacak"
-

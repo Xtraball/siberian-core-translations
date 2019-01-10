@@ -1,46 +1,50 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/rss.csv:1 
+#: es/rss.csv:1
 msgid "Display feed pictures whenever possible"
 msgstr "RSS Mostrar imágenes siempre que sea posible"
 
-#: es/rss.csv:2 
+#: es/rss.csv:2
 msgid "Enter a name and an URL address for this RSS feed"
 msgstr "Escriba un nombre y la dirección URL del Feed RSS"
 
-#: es/rss.csv:3 
+#: es/rss.csv:3
 msgid "URL"
 msgstr "URL"
 
-#: es/rss.csv:4 
+#: es/rss.csv:4
 msgid "Found feeds"
 msgstr "Lista de los Feeds encontrados"
 
-#: es/rss.csv:5 
+#: es/rss.csv:5
 msgid "%s ago"
 msgstr "Hay %s"
 
-#: es/rss.csv:6 
+#: es/rss.csv:6
 msgid "No RSS feed could be found"
 msgstr "No se encontró ningún Feed RSS "
 
-#: es/rss.csv:7 
+#: es/rss.csv:7
 msgid "Please enter a title"
 msgstr "Por favor introduzca un título"
 
-#: es/rss.csv:8 
+#: es/rss.csv:8
 msgid "An error occurred while saving your RSS feed"
 msgstr "Se ha producido un error al guardar su Feed RSS"
 
-#: es/rss.csv:9 
+#: es/rss.csv:9
 msgid "RSS feed successfully saved"
 msgstr "Feed RSS guardado correctamente"
-

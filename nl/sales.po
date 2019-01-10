@@ -1,82 +1,86 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: nl\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/sales.csv:1 
+#: nl/sales.csv:1
 msgid "Action"
 msgstr "Actie"
 
-#: nl/sales.csv:2 
+#: nl/sales.csv:2
 msgid "App Name"
 msgstr "App Naam"
 
-#: nl/sales.csv:3 
+#: nl/sales.csv:3
 msgid "Client"
 msgstr "Klant"
 
-#: nl/sales.csv:4 
+#: nl/sales.csv:4
 msgid "Date"
 msgstr "Datum"
 
-#: nl/sales.csv:5 
+#: nl/sales.csv:5
 msgid "Invoice"
 msgstr "Factuur"
 
-#: nl/sales.csv:6 
+#: nl/sales.csv:6
 msgid "Invoice %s"
 msgstr "Factuur %s"
 
-#: nl/sales.csv:7 
+#: nl/sales.csv:7
 msgid "Invoice N°"
 msgstr "Factuur N°"
 
-#: nl/sales.csv:8 
+#: nl/sales.csv:8
 msgid "List of your invoices"
 msgstr "Lijst van uw facturen"
 
-#: nl/sales.csv:9 
+#: nl/sales.csv:9
 msgid "My Invoices"
 msgstr "Mijn Facturen"
 
-#: nl/sales.csv:10 
+#: nl/sales.csv:10
 msgid "Order"
 msgstr "Opdracht"
 
-#: nl/sales.csv:11 
+#: nl/sales.csv:11
 msgid "Orders"
 msgstr "Bestellingen"
 
-#: nl/sales.csv:12 
+#: nl/sales.csv:12
 msgid "Paid At"
 msgstr "Betaald op"
 
-#: nl/sales.csv:13 
+#: nl/sales.csv:13
 msgid "Paid at:"
 msgstr "Betaald op:"
 
-#: nl/sales.csv:14 
+#: nl/sales.csv:14
 msgid "Price Excl. Tax"
 msgstr "Prijs excl. BTW"
 
-#: nl/sales.csv:15 
+#: nl/sales.csv:15
 msgid "Qty"
 msgstr "Aantal"
 
-#: nl/sales.csv:16 
+#: nl/sales.csv:16
 msgid "This feature is not ready yet. Please try again later."
 msgstr "Deze functie is nog niet beschikbaar. Probeer het later opnieuw."
 
-#: nl/sales.csv:17 
+#: nl/sales.csv:17
 msgid "Total Excl. Tax"
 msgstr "Totaal Excl. BTW"
 
-#: nl/sales.csv:18 
+#: nl/sales.csv:18
 msgid "You don't have any invoices yet"
 msgstr "U heeft nog geen facturen"
-

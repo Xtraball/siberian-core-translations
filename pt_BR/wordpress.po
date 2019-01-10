@@ -1,42 +1,46 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: pt_BR\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: pt_BR/wordpress.csv:1 
+#: pt_BR/wordpress.csv:1
 msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
 msgstr "Ocorreu um erro ao acessar o seu site Wordpress. Por favor, verifique o nome de domínio %s"
 
-#: pt_BR/wordpress.csv:2 
+#: pt_BR/wordpress.csv:2
 msgid "Categories successfully saved"
 msgstr "Categorias salvas com sucesso"
 
-#: pt_BR/wordpress.csv:3 
+#: pt_BR/wordpress.csv:3
 msgid "Click here to download our Wordpress plugin"
 msgstr "Clique aqui para baixar nosso plugin Wordpress"
 
-#: pt_BR/wordpress.csv:4 
+#: pt_BR/wordpress.csv:4
 msgid "Enter your Wordpress URL:"
 msgstr "Digite sua URL Wordpress:"
 
-#: pt_BR/wordpress.csv:5 
+#: pt_BR/wordpress.csv:5
 msgid "Loading categories"
 msgstr "Carregando categorias"
 
-#: pt_BR/wordpress.csv:6 
+#: pt_BR/wordpress.csv:6
 msgid "We are sorry but no category has been detected on your Wordpress website."
 msgstr "Lamentamos, mas nenhuma categoria foi encontrada em seu site Wordpress."
 
-#: pt_BR/wordpress.csv:7 
+#: pt_BR/wordpress.csv:7
 msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
 msgstr "Lamentamos, mas nosso plugin Wordpress não foi encontrado em seu site. Por favor, certifique-se de que esteja corretamente instalado e ativado."
 
-#: pt_BR/wordpress.csv:8 
+#: pt_BR/wordpress.csv:8
 msgid "Wordpress"
 msgstr "Wordpress"
-

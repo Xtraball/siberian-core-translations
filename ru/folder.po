@@ -1,70 +1,74 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/folder.csv:1 
+#: ru/folder.csv:1
 msgid "Add a page"
 msgstr "Добавить страницу"
 
-#: ru/folder.csv:2 
+#: ru/folder.csv:2
 msgid "Click on"
 msgstr "Нажмите на"
 
-#: ru/folder.csv:3 
-msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
-msgstr "Нажмите на странице, чтобы добавить его в папку <span id="folder_name" class="folder_name">"%s"</span>"
+#: ru/folder.csv:3
+msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgstr "Нажмите на странице, чтобы добавить его в папку <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
 
-#: ru/folder.csv:4 
+#: ru/folder.csv:4
 msgid "Click on a page to add it to the folder"
 msgstr "Нажмите на странице, чтобы добавить его в папку"
 
-#: ru/folder.csv:5 
+#: ru/folder.csv:5
 msgid "Close mobile display"
 msgstr "Закрыть моб. дисплей"
 
-#: ru/folder.csv:6 
+#: ru/folder.csv:6
 msgid "Delete this folder and all its subfolders?"
 msgstr "Удалить эту папку и все вложенные папки?"
 
-#: ru/folder.csv:7 
+#: ru/folder.csv:7
 msgid "Folder title is required"
 msgstr "Требуется дать название папки"
 
-#: ru/folder.csv:8 
+#: ru/folder.csv:8
 msgid "Folders"
 msgstr "Папки"
 
-#: ru/folder.csv:9 
+#: ru/folder.csv:9
 msgid "Mobile display"
 msgstr "Моб. дисплей"
 
-#: ru/folder.csv:10 
+#: ru/folder.csv:10
 msgid "New folder"
 msgstr "Новая папка"
 
-#: ru/folder.csv:11 
+#: ru/folder.csv:11
 msgid "Subtitle"
 msgstr "Подзаголовок"
 
-#: ru/folder.csv:12 
+#: ru/folder.csv:12
 msgid "You cannot add this feature"
 msgstr "Вы не можете добавить эту функцию"
 
-#: ru/folder.csv:13 
+#: ru/folder.csv:13
 msgid "You must first complete the current category creation process"
 msgstr "Вы должны сначала завершить текущий процесс по созданию категории"
 
-#: ru/folder.csv:14 
+#: ru/folder.csv:14
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Вы можете потерять все не сохраненные изменения!"
 
-#: ru/folder.csv:15 
+#: ru/folder.csv:15
 msgid "to add a folder."
 msgstr "добавить папку."
-

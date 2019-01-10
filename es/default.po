@@ -1,690 +1,667 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/default.csv:1 
+#: es/default.csv:1
 msgid "Address"
 msgstr "Dirección:"
 
-#: es/default.csv:2 
+#: es/default.csv:2
 msgid "Text"
 msgstr "Texto"
 
-#: es/default.csv:3 
+#: es/default.csv:3
+#: es/default.csv:5
 msgid "Discount"
 msgstr "Descuento"
 
-#: es/default.csv:4 
+#: es/default.csv:4
 msgid "Newswall"
 msgstr "Muro de Noticias"
 
-#: es/default.csv:5 
-msgid "Discount"
-msgstr "Descuento"
-
-#: es/default.csv:6 
+#: es/default.csv:6
+#: es/default.csv:24
 msgid "Loyalty Card"
 msgstr "Tarjeta de fidelidad"
 
-#: es/default.csv:7 
+#: es/default.csv:7
+#: es/default.csv:8
 msgid "Catalog"
 msgstr "catálogo"
 
-#: es/default.csv:8 
-msgid "Catalog"
-msgstr "catálogo"
-
-#: es/default.csv:9 
+#: es/default.csv:9
 msgid "Set Meal"
 msgstr "Menú de comidas"
 
-#: es/default.csv:10 
+#: es/default.csv:10
+#: es/default.csv:11
 msgid "Custom Page"
 msgstr "Página personalizada"
 
-#: es/default.csv:11 
-msgid "Custom Page"
-msgstr "Página personalizada"
-
-#: es/default.csv:12 
+#: es/default.csv:12
 msgid "RSS Feed"
 msgstr "RSS Feed"
 
-#: es/default.csv:13 
+#: es/default.csv:13
 msgid "Images"
 msgstr "Imágenes"
 
-#: es/default.csv:14 
+#: es/default.csv:14
 msgid "Video"
 msgstr "Vídeo"
 
-#: es/default.csv:15 
+#: es/default.csv:15
 msgid "Videos"
 msgstr "Vídeos"
 
-#: es/default.csv:16 
+#: es/default.csv:16
 msgid "Contact"
 msgstr "Contacto"
 
-#: es/default.csv:17 
+#: es/default.csv:17
 msgid "Contest"
 msgstr "Concurso"
 
-#: es/default.csv:18 
+#: es/default.csv:18
 msgid "Booking"
 msgstr "Reservas"
 
-#: es/default.csv:19 
+#: es/default.csv:19
 msgid "Calendar"
 msgstr "Calendario"
 
-#: es/default.csv:20 
+#: es/default.csv:20
+#: es/default.csv:25
+#: es/default.csv:26
 msgid "Push Notifications"
 msgstr "Notificaciones Push"
 
-#: es/default.csv:21 
+#: es/default.csv:21
 msgid "Link"
 msgstr "Link"
 
-#: es/default.csv:22 
+#: es/default.csv:22
 msgid "Links"
 msgstr "Links"
 
-#: es/default.csv:23 
+#: es/default.csv:23
 msgid "Form"
 msgstr "Formulario"
 
-#: es/default.csv:24 
-msgid "Loyalty Card"
-msgstr "Tarjeta de fidelidad"
-
-#: es/default.csv:25 
-msgid "Push Notifications"
-msgstr "Notificaciones Push"
-
-#: es/default.csv:26 
-msgid "Push Notifications"
-msgstr "Notificaciones Push"
-
-#: es/default.csv:27 
+#: es/default.csv:27
 msgid "Email"
 msgstr "Email"
 
-#: es/default.csv:28 
+#: es/default.csv:28
 msgid "password"
 msgstr "contraseña"
 
-#: es/default.csv:29 
+#: es/default.csv:29
 msgid "New"
 msgstr "Nuevo"
 
-#: es/default.csv:30 
+#: es/default.csv:30
 msgid "Save"
 msgstr "Guardar"
 
-#: es/default.csv:31 
+#: es/default.csv:31
 msgid "Email:"
 msgstr "Email:"
 
-#: es/default.csv:32 
+#: es/default.csv:32
 msgid "Password:"
 msgstr "Contraseña:"
 
-#: es/default.csv:33 
+#: es/default.csv:33
 msgid "Send"
 msgstr "Enviar"
 
-#: es/default.csv:34 
+#: es/default.csv:34
 msgid "Your email address"
 msgstr "Su dirección de correo electrónico"
 
-#: es/default.csv:35 
+#: es/default.csv:35
 msgid "Title"
 msgstr "Título"
 
-#: es/default.csv:36 
+#: es/default.csv:36
 msgid "Description"
 msgstr "Descripción"
 
-#: es/default.csv:37 
+#: es/default.csv:37
 msgid "Icons"
 msgstr "Iconos"
 
-#: es/default.csv:38 
+#: es/default.csv:38
 msgid "picture"
 msgstr "imagen"
 
-#: es/default.csv:39 
+#: es/default.csv:39
 msgid "Recommanded size:"
 msgstr "Tamaño recomendado:"
 
-#: es/default.csv:40 
+#: es/default.csv:40
 msgid "Loading"
 msgstr "Cargando"
 
-#: es/default.csv:41 
-msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
-msgstr "<span>Haga clic en</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>para agregar un elemento .</span>"
+#: es/default.csv:41
+msgid "<span>Click on</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>to add an item.</span>"
+msgstr "<span>Haga clic en</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>para agregar un elemento .</span>"
 
-#: es/default.csv:42 
+#: es/default.csv:42
 msgid "logo"
 msgstr "logo"
 
-#: es/default.csv:43 
+#: es/default.csv:43
 msgid "Edit my"
 msgstr "Cambiar mi"
 
-#: es/default.csv:44 
+#: es/default.csv:44
 msgid "Choose a"
 msgstr "Elegir un"
 
-#: es/default.csv:45 
+#: es/default.csv:45
 msgid "Page name:"
 msgstr "Nombre de la página :"
 
-#: es/default.csv:46 
+#: es/default.csv:46
 msgid "Manage icons"
 msgstr "Gestionar iconos"
 
-#: es/default.csv:47 
+#: es/default.csv:47
 msgid "Library icons"
 msgstr "Iconos de la biblioteca"
 
-#: es/default.csv:48 
+#: es/default.csv:48
 msgid "Add a new icon"
 msgstr "Añadir un nuevo icono"
 
-#: es/default.csv:49 
+#: es/default.csv:49
 msgid "Activated"
 msgstr "Activado"
 
-#: es/default.csv:50 
+#: es/default.csv:50
 msgid "Deactivated"
 msgstr "Desactivado"
 
-#: es/default.csv:51 
+#: es/default.csv:51
 msgid "Main"
 msgstr "Principal"
 
-#: es/default.csv:52 
+#: es/default.csv:52
 msgid "Last name:"
 msgstr "Segundo apellido:"
 
-#: es/default.csv:53 
+#: es/default.csv:53
 msgid "Push"
 msgstr "Push"
 
-#: es/default.csv:54 
+#: es/default.csv:54
 msgid "Settings"
 msgstr "Configuración"
 
-#: es/default.csv:55 
+#: es/default.csv:55
 msgid "Domain"
 msgstr "Dominio"
 
-#: es/default.csv:56 
+#: es/default.csv:56
 msgid "Api Keys"
 msgstr "Claves Api"
 
-#: es/default.csv:57 
+#: es/default.csv:57
 msgid "Module"
 msgstr "Módulo"
 
-#: es/default.csv:58 
+#: es/default.csv:58
 msgid "Application"
 msgstr "Aplicación"
 
-#: es/default.csv:59 
+#: es/default.csv:59
 msgid "Features"
 msgstr "Funciones"
 
-#: es/default.csv:60 
+#: es/default.csv:60
 msgid "icon"
 msgstr "icono"
 
-#: es/default.csv:61 
+#: es/default.csv:61
 msgid "Application name"
 msgstr "Nombre de la aplicación"
 
-#: es/default.csv:62 
+#: es/default.csv:62
 msgid "Your CNAME is properly set"
 msgstr "Su CNAME está configurado correctamente"
 
-#: es/default.csv:63 
+#: es/default.csv:63
 msgid "Checking CNAME configuration:"
 msgstr "Comprobación de la configuración del CNAME :"
 
-#: es/default.csv:64 
+#: es/default.csv:64
 msgid "Manage"
 msgstr "Creado ya"
 
-#: es/default.csv:65 
+#: es/default.csv:65
 msgid "Add"
 msgstr "Añadir"
 
-#: es/default.csv:66 
+#: es/default.csv:66
 msgid "All"
 msgstr "Todo"
 
-#: es/default.csv:67 
+#: es/default.csv:67
 msgid "Editing"
 msgstr "Editar"
 
-#: es/default.csv:68 
+#: es/default.csv:68
 msgid "en"
 msgstr "es"
 
-#: es/default.csv:69 
+#: es/default.csv:69
 msgid "Delete"
 msgstr "Eliminar"
 
-#: es/default.csv:70 
+#: es/default.csv:70
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: es/default.csv:71 
+#: es/default.csv:71
 msgid "Address:"
 msgstr "Dirección:"
 
-#: es/default.csv:72 
+#: es/default.csv:72
 msgid "Resize your picture:"
 msgstr "Cambiar el tamaño de la imagen :"
 
-#: es/default.csv:73 
+#: es/default.csv:73
 msgid "Last Name"
 msgstr "Primer apellido:"
 
-#: es/default.csv:74 
+#: es/default.csv:74
 msgid "Phone"
 msgstr "Teléfono:"
 
-#: es/default.csv:75 
+#: es/default.csv:75
 msgid "Zip code"
 msgstr "Código Postal:"
 
-#: es/default.csv:76 
+#: es/default.csv:76
 msgid "City"
 msgstr "Ciudad:"
 
-#: es/default.csv:77 
+#: es/default.csv:77
 msgid "Country"
 msgstr "País:"
 
-#: es/default.csv:78 
-msgid "Insert a <br /><span class="bold">cover image</span>"
-msgstr "Insertar una <br /><span class="bold">imagen de fondo</span>"
+#: es/default.csv:78
+msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgstr "Insertar una <br /><span class=\"bold\">imagen de fondo</span>"
 
-#: es/default.csv:79 
+#: es/default.csv:79
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "dd/MM/y a hh'h'mm"
 
-#: es/default.csv:80 
+#: es/default.csv:80
 msgid "Browse"
 msgstr "Explorar"
 
-#: es/default.csv:81 
+#: es/default.csv:81
 msgid "Folders"
 msgstr "Carpetas"
 
-#: es/default.csv:82 
+#: es/default.csv:82
 msgid "Subtitle"
 msgstr "Subtítulo"
 
-#: es/default.csv:83 
+#: es/default.csv:83
 msgid "Unknown error"
 msgstr "Error desconocido"
 
-#: es/default.csv:84 
+#: es/default.csv:84
 msgid "Password"
 msgstr "contraseña"
 
-#: es/default.csv:85 
+#: es/default.csv:85
 msgid "Conditions"
 msgstr "Condiciones"
 
-#: es/default.csv:86 
+#: es/default.csv:86
 msgid "Picture%s"
 msgstr "Imagen %s"
 
-#: es/default.csv:87 
+#: es/default.csv:87
 msgid "Username"
 msgstr "Nombre de usuario"
 
-#: es/default.csv:88 
+#: es/default.csv:88
 msgid "Search"
 msgstr "Buscar"
 
-#: es/default.csv:89 
+#: es/default.csv:89
 msgid "My pictures"
 msgstr "Mis imágenes"
 
-#: es/default.csv:90 
+#: es/default.csv:90
 msgid "Type"
 msgstr "Tipo"
 
-#: es/default.csv:91 
+#: es/default.csv:91
 msgid "Never"
 msgstr "Nunca"
 
-#: es/default.csv:92 
+#: es/default.csv:92
 msgid "MM,d yy"
 msgstr "d MM yy"
 
-#: es/default.csv:93 
+#: es/default.csv:93
 msgid "Creation date"
 msgstr "Fecha de creación"
 
-#: es/default.csv:94 
+#: es/default.csv:94
 msgid "Locate"
 msgstr "Localizar"
 
-#: es/default.csv:95 
+#: es/default.csv:95
 msgid "Are you sure you want to delete this picture?"
 msgstr "¿Está seguro que desea eliminar esta imagen?"
 
-#: es/default.csv:96 
+#: es/default.csv:96
 msgid "Use this discount"
 msgstr "Utilizar este cupón de descuento"
 
-#: es/default.csv:97 
+#: es/default.csv:97
 msgid "MM/dd/y"
 msgstr "dd/MM/y"
 
-#: es/default.csv:98 
+#: es/default.csv:98
 msgid "Comment"
 msgstr "Comentar"
 
-#: es/default.csv:99 
+#: es/default.csv:99
 msgid "Please fill in the following fields:"
 msgstr "Por favor rellene los siguientes campos :"
 
-#: es/default.csv:100 
+#: es/default.csv:100
 msgid "More"
 msgstr "Más información"
 
-#: es/default.csv:101 
+#: es/default.csv:101
 msgid "Show..."
 msgstr "Mostrar…"
 
-#: es/default.csv:102 
+#: es/default.csv:102
 msgid "Hide..."
 msgstr "Ocultar…"
 
-#: es/default.csv:103 
+#: es/default.csv:103
 msgid "Validate"
 msgstr "Validar"
 
-#: es/default.csv:104 
+#: es/default.csv:104
 msgid "This section is unlocked for mobile users only"
 msgstr "Esta sección solo está disponible para usuarios móviles."
 
-#: es/default.csv:105 
+#: es/default.csv:105
 msgid "Gender"
 msgstr "Género"
 
-#: es/default.csv:106 
+#: es/default.csv:106
 msgid "Miss"
 msgstr "Señorita"
 
-#: es/default.csv:107 
+#: es/default.csv:107
 msgid "Mrs"
 msgstr "Sra."
 
-#: es/default.csv:108 
+#: es/default.csv:108
 msgid "Mr"
 msgstr "Sr."
 
-#: es/default.csv:109 
+#: es/default.csv:109
 msgid "First name"
 msgstr "Nombre:"
 
-#: es/default.csv:110 
+#: es/default.csv:110
 msgid "MM/dd/y hh:mm a"
 msgstr "dd/MM/y hh:mm"
 
-#: es/default.csv:111 
+#: es/default.csv:111
 msgid "Please enter the password"
 msgstr "Por favor Ingrese la contraseña."
 
-#: es/default.csv:112 
+#: es/default.csv:112
 msgid "Please show your phone to the store person so that he enters his password"
 msgstr "Por favor muestre su teléfono al vendedor para que ingrese su contraseña"
 
-#: es/default.csv:113 
+#: es/default.csv:113
 msgid "MMMM dd y"
 msgstr "dd MMMM y"
 
-#: es/default.csv:114 
+#: es/default.csv:114
 msgid "MMMM dd y 'at' hh:mm"
 msgstr "d MMMM yyyy à HH'h'mm"
 
-#: es/default.csv:115 
+#: es/default.csv:115
 msgid "An error occurred the during process. Please try again later."
 msgstr "Se ha producido un error durante el proceso . Por favor inténtelo de nuevo más tarde ."
 
-#: es/default.csv:116 
+#: es/default.csv:116
 msgid "Please enter your email address"
 msgstr "Ingrese su dirección de correo electrónico"
 
-#: es/default.csv:117 
+#: es/default.csv:117
 msgid "Your email address does not exist"
 msgstr "Su dirección de correo electrónico no existe"
 
-#: es/default.csv:118 
+#: es/default.csv:118
 msgid "Your password does not match the entered password."
 msgstr "Su contraseña no coincide."
 
-#: es/default.csv:119 
+#: es/default.csv:119
 msgid "The old password does not match the entered password."
 msgstr "No coincide con la anterior contraseña."
 
-#: es/default.csv:120 
+#: es/default.csv:120
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "Error de identificación . Por favor compruebe su correo electrónico y/o contraseña"
 
-#: es/default.csv:121 
+#: es/default.csv:121
 msgid "%s – Your new password"
 msgstr "%s - Su nueva contraseña"
 
-#: es/default.csv:122 
+#: es/default.csv:122
 msgid "Your new password has been sent to the entered email address"
 msgstr "Su nueva contraseña ha sido enviada a la dirección de correo electrónico que usted proporcionó."
 
-#: es/default.csv:123 
+#: es/default.csv:123
 msgid "An error occurred while saving. Please try again later."
 msgstr "Se ha producido un error al guardar . Por favor inténtelo de nuevo más tarde ."
 
-#: es/default.csv:124 
+#: es/default.csv:124
 msgid "The password must be at least 6 characters"
 msgstr "La contraseña debe tener como mínimo 6 caracteres"
 
-#: es/default.csv:125 
+#: es/default.csv:125
 msgid "Infos successfully saved"
 msgstr "Información guardada correctamente"
 
-#: es/default.csv:126 
+#: es/default.csv:126
 msgid "An error occurred while saving"
 msgstr "Se ha producido un error al guardar"
 
-#: es/default.csv:127 
+#: es/default.csv:127
 msgid "An error occurred while saving your picture. Please try againg later."
 msgstr "Se ha producido un error al guardar la imagen. Por favor inténtelo de nuevo más tarde ."
 
-#: es/default.csv:128 
+#: es/default.csv:128
 msgid "You may not delete a library icon"
 msgstr "Usted no puede eliminar un icono de la biblioteca"
 
-#: es/default.csv:129 
+#: es/default.csv:129
 msgid "We are sorry but this address is already used."
 msgstr "Lo sentimos pero esta dirección ya está en uso ."
 
-#: es/default.csv:130 
+#: es/default.csv:130
 msgid "My account"
 msgstr "Mi cuenta"
 
-#: es/default.csv:131 
+#: es/default.csv:131
 msgid "An error occurred during process. Please try again later."
 msgstr "Se ha producido un error durante el proceso . Por favor inténtelo de nuevo más tarde ."
 
-#: es/default.csv:132 
+#: es/default.csv:132
 msgid "Please enter a valid email address"
 msgstr "Ingrese una dirección de email válida"
 
-#: es/default.csv:133 
+#: es/default.csv:133
 msgid "Cart"
 msgstr "Carrito"
 
-#: es/default.csv:134 
+#: es/default.csv:134
 msgid "Create"
 msgstr "Crear"
 
-#: es/default.csv:135 
+#: es/default.csv:135
 msgid "Please enter a password"
 msgstr "Introduzca una contraseña"
 
-#: es/default.csv:136 
+#: es/default.csv:136
 msgid "The old email address does not match the entered email address."
 msgstr "La dirección de correo electrónico anterior no coincide con la dirección de correo electrónico ingresada."
 
-#: es/default.csv:137 
+#: es/default.csv:137
 msgid "Please enter a valid url"
 msgstr "Por favor ingrese una URL válida"
 
-#: es/default.csv:138 
+#: es/default.csv:138
 msgid "An error occurred while loading. Please try again later."
 msgstr "Se ha producido un error al cargar . Por favor inténtelo de nuevo más tarde ."
 
-#: es/default.csv:139 
+#: es/default.csv:139
 msgid "Player"
 msgstr "Lector"
 
-#: es/default.csv:140 
+#: es/default.csv:140
 msgid "Please, fill out all fields"
 msgstr "Por favor, rellene todos los campos"
 
-#: es/default.csv:141 
+#: es/default.csv:141
 msgid "The entered password confirmation does not match the entered password."
 msgstr "La confirmación de la contraseña introducida, no coincide con la que usted introdujo."
 
-#: es/default.csv:142 
+#: es/default.csv:142
 msgid "Please, enter a valid date"
 msgstr "Por favor, introduzca una fecha valida"
 
-#: es/default.csv:143 
+#: es/default.csv:143
 msgid "Extension not allowed, '%s' only"
 msgstr "Extensión no permitida, '%s' sólo"
 
-#: es/default.csv:144 
+#: es/default.csv:144
 msgid "Error : <br/>"
 msgstr "Error: <br/>"
 
-#: es/default.csv:145 
+#: es/default.csv:145
 msgid "Errors : <br/>"
 msgstr "Errores : <br/>"
 
-#: es/default.csv:146 
+#: es/default.csv:146
+#: es/default.csv:163
 msgid "day"
 msgstr "día"
 
-#: es/default.csv:147 
+#: es/default.csv:147
+#: es/default.csv:164
 msgid "hour"
 msgstr "hora"
 
-#: es/default.csv:148 
+#: es/default.csv:148
+#: es/default.csv:166
 msgid "minute"
 msgstr "minuto"
 
-#: es/default.csv:149 
+#: es/default.csv:149
 msgid "An error occurred while loading the videos. Please try again later."
 msgstr "Se ha producido un error al cargar los vídeos. Por favor, inténtelo de nuevo más tarde."
 
-#: es/default.csv:150 
+#: es/default.csv:150
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr "Se ha producido un error al guardar la imagen. Por favor inténtelo de nuevo más tarde."
 
-#: es/default.csv:151 
+#: es/default.csv:151
 msgid "The image has been successfully saved"
 msgstr "La imagen se ha guardado correctamente"
 
-#: es/default.csv:152 
+#: es/default.csv:152
 msgid "The image has been successfully deleted"
 msgstr "La imagen se ha eliminado correctamente"
 
-#: es/default.csv:153 
+#: es/default.csv:153
 msgid "Back"
 msgstr ""
 
-#: es/default.csv:154 
+#: es/default.csv:154
 msgid "Close"
 msgstr ""
 
-#: es/default.csv:155 
+#: es/default.csv:155
 msgid "An error occurred while loading the page"
 msgstr ""
 
-#: es/default.csv:156 
+#: es/default.csv:156
 msgid "If you use this discount now, you'll be no longer able to use it later"
 msgstr ""
 
-#: es/default.csv:157 
+#: es/default.csv:157
 msgid "An error occurred while using your discount"
 msgstr ""
 
-#: es/default.csv:158 
+#: es/default.csv:158
 msgid "Siberian, build a mobile app easier"
 msgstr "Con Siberian, construya su aplicación móvil fácilmente"
 
-#: es/default.csv:159 
+#: es/default.csv:159
 msgid "404, Page not found"
 msgstr "404, Página no encontrada"
 
-#: es/default.csv:160 
+#: es/default.csv:160
 msgid "Hello,"
 msgstr "Hola,"
 
-#: es/default.csv:161 
+#: es/default.csv:161
 msgid "month"
 msgstr "mes"
 
-#: es/default.csv:162 
+#: es/default.csv:162
 msgid "year"
 msgstr "año"
 
-#: es/default.csv:163 
-msgid "day"
-msgstr "día"
-
-#: es/default.csv:164 
-msgid "hour"
-msgstr "hora"
-
-#: es/default.csv:165 
+#: es/default.csv:165
 msgid "hours"
 msgstr "horas"
 
-#: es/default.csv:166 
-msgid "minute"
-msgstr "minuto"
-
-#: es/default.csv:167 
+#: es/default.csv:167
 msgid "minutes"
 msgstr "minutos"
 
-#: es/default.csv:168 
+#: es/default.csv:168
 msgid "second"
 msgstr "segundo"
 
-#: es/default.csv:169 
+#: es/default.csv:169
 msgid "seconds"
 msgstr "segundos"
 
-#: es/default.csv:170 
+#: es/default.csv:170
 msgid "Hit the background image to close the preview"
 msgstr ""
-

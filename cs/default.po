@@ -1,1102 +1,1106 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/default.csv:1 
+#: cs/default.csv:1
 msgid "404, page not found"
 msgstr "404, stránka nebyla nalezena"
 
-#: cs/default.csv:2 
+#: cs/default.csv:2
 msgid "APIs"
 msgstr "API"
 
-#: cs/default.csv:3 
+#: cs/default.csv:3
 msgid "Accounts"
 msgstr "Účty"
 
-#: cs/default.csv:4 
+#: cs/default.csv:4
 msgid "Actions"
 msgstr "Akce"
 
-#: cs/default.csv:5 
+#: cs/default.csv:5
 msgid "Add"
 msgstr "Přidat"
 
-#: cs/default.csv:6 
+#: cs/default.csv:6
 msgid "Add a"
 msgstr "Přidat"
 
-#: cs/default.csv:7 
+#: cs/default.csv:7
 msgid "Add image"
 msgstr "Přidat obrázek"
 
-#: cs/default.csv:8 
+#: cs/default.csv:8
 msgid "Address"
 msgstr "Adresa"
 
-#: cs/default.csv:9 
+#: cs/default.csv:9
 msgid "All items"
 msgstr "Všechny položky"
 
-#: cs/default.csv:10 
+#: cs/default.csv:10
 msgid "An error occurred during process. Please try again later."
 msgstr "Došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:11 
+#: cs/default.csv:11
 msgid "An error occurred during the process. Please try again later."
 msgstr "Došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:12 
+#: cs/default.csv:12
 msgid "An error occurred while loading places."
 msgstr "Při načítání míst došlo k chybě"
 
-#: cs/default.csv:13 
+#: cs/default.csv:13
 msgid "An error occurred while loading. Please try again later."
 msgstr "Při načítání došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:14 
+#: cs/default.csv:14
 msgid "An error occurred while loading. Please, try again later."
 msgstr "Při načítání došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:15 
+#: cs/default.csv:15
 msgid "An error occurred while saving"
 msgstr "Při ukládání došlo k chybě"
 
-#: cs/default.csv:16 
+#: cs/default.csv:16
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "Při ukládání vašeho účtu došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:17 
+#: cs/default.csv:17
 msgid "An error occurred while saving your picture. Please try againg later."
 msgstr "Při ukládání obrázku došlo k chybě. Prosím, zkuste to prosím později."
 
-#: cs/default.csv:18 
+#: cs/default.csv:18
 msgid "An error occurred while saving. Please try again later."
 msgstr "Při ukládání došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:19 
+#: cs/default.csv:19
 msgid "An error occurred while saving. Please, try again later."
 msgstr "Při ukládání došlo k chybě. Zkuste to prosím později."
 
-#: cs/default.csv:20 
+#: cs/default.csv:20
 msgid "An error occurred while uploading your file. Please, try again later."
 msgstr "Při nahrávání souboru došlo k chybě. Zkuste to prosím později"
 
-#: cs/default.csv:21 
+#: cs/default.csv:21
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Při vypočítávání cesty došlo k chybě"
 
-#: cs/default.csv:22 
+#: cs/default.csv:22
 msgid "Appearance"
 msgstr "Vzhled"
 
-#: cs/default.csv:23 
+#: cs/default.csv:23
 msgid "Application"
 msgstr "Aplikace"
 
-#: cs/default.csv:24 
+#: cs/default.csv:24
 msgid "Application Name"
 msgstr "Název aplikace"
 
-#: cs/default.csv:25 
+#: cs/default.csv:25
 msgid "Applications"
 msgstr "Aplikace"
 
-#: cs/default.csv:26 
+#: cs/default.csv:26
 msgid "Are you sure you want to delete this element?"
 msgstr "Jste si jisti, že chcete smazat tento prvek?"
 
-#: cs/default.csv:27 
+#: cs/default.csv:27
 msgid "Are you sure you want to remove this account?"
 msgstr "Jste si jisti, že chcete odstranit tento účet?"
 
-#: cs/default.csv:28 
+#: cs/default.csv:28
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "Ověření se nezdařilo. Zkontrolujte prosím svůj e-mail a/nebo heslo"
 
-#: cs/default.csv:29 
+#: cs/default.csv:29
 msgid "Back"
 msgstr "Zpět"
 
-#: cs/default.csv:30 
+#: cs/default.csv:30
 msgid "Background"
 msgstr "Pozadí"
 
-#: cs/default.csv:31 
+#: cs/default.csv:31
 msgid "Browse"
 msgstr "Prohlížet"
 
-#: cs/default.csv:32 
+#: cs/default.csv:32
 msgid "Can only be used once"
 msgstr "Lze použít pouze jednou"
 
-#: cs/default.csv:33 
+#: cs/default.csv:33
 msgid "Cancel"
 msgstr "Zrušit"
 
-#: cs/default.csv:34 
+#: cs/default.csv:34
 msgid "Cart"
 msgstr "Košík"
 
-#: cs/default.csv:35 
+#: cs/default.csv:35
 msgid "Change password"
 msgstr "Změnit heslo"
 
-#: cs/default.csv:36 
+#: cs/default.csv:36
 msgid "City"
 msgstr "Město"
 
-#: cs/default.csv:37 
+#: cs/default.csv:37
 msgid "City:"
 msgstr "Město:"
 
-#: cs/default.csv:38 
+#: cs/default.csv:38
 msgid "Close"
 msgstr "Zavřít"
 
-#: cs/default.csv:39 
+#: cs/default.csv:39
 msgid "Comment"
 msgstr "Komentář"
 
-#: cs/default.csv:40 
+#: cs/default.csv:40
 msgid "Comments"
 msgstr "Komentáře"
 
-#: cs/default.csv:41 
+#: cs/default.csv:41
 msgid "Communication"
 msgstr "Komunikace"
 
-#: cs/default.csv:42 
+#: cs/default.csv:42
 msgid "Company"
 msgstr "Společnost"
 
-#: cs/default.csv:43 
+#: cs/default.csv:43
 msgid "Coms"
 msgstr "?Coms?"
 
-#: cs/default.csv:44 
+#: cs/default.csv:44
 msgid "Conditions"
 msgstr "Podmínky"
 
-#: cs/default.csv:45 
+#: cs/default.csv:45
 msgid "Confirm Password"
 msgstr "Potvrzení hesla"
 
-#: cs/default.csv:46 
+#: cs/default.csv:46
 msgid "Confirm new password"
 msgstr "Potvrdit heslo"
 
-#: cs/default.csv:47 
+#: cs/default.csv:47
 msgid "Contact successfully added to your address book"
 msgstr "Kontakt přidán do seznamu"
 
-#: cs/default.csv:48 
+#: cs/default.csv:48
 msgid "Country"
 msgstr "Země"
 
-#: cs/default.csv:49 
+#: cs/default.csv:49
 msgid "Create"
 msgstr "Vytvořit"
 
-#: cs/default.csv:50 
+#: cs/default.csv:50
 msgid "Create a new account"
 msgstr "Vytvořit nový účet"
 
-#: cs/default.csv:51 
+#: cs/default.csv:51
 msgid "Created at"
 msgstr "Vytvořeno"
 
-#: cs/default.csv:52 
+#: cs/default.csv:52
 msgid "Currency"
 msgstr "Měna"
 
-#: cs/default.csv:53 
+#: cs/default.csv:53
 msgid "Current password"
 msgstr "Současné heslo"
 
-#: cs/default.csv:54 
+#: cs/default.csv:54
 msgid "Dashboard"
 msgstr "Aplikace"
 
-#: cs/default.csv:55 
+#: cs/default.csv:55
 msgid "Date of birth"
 msgstr "Datum narození"
 
-#: cs/default.csv:56 
+#: cs/default.csv:56
 msgid "Date of birth:"
 msgstr "Datum narození:"
 
-#: cs/default.csv:57 
+#: cs/default.csv:57
 msgid "Default Languages"
 msgstr "Výchozí jazyky"
 
-#: cs/default.csv:58 
+#: cs/default.csv:58
 msgid "Delete"
 msgstr "Smazat"
 
-#: cs/default.csv:59 
+#: cs/default.csv:59
 msgid "Description"
 msgstr "Popis"
 
-#: cs/default.csv:60 
+#: cs/default.csv:60
 msgid "Description:"
 msgstr "Popis:"
 
-#: cs/default.csv:61 
+#: cs/default.csv:61
 msgid "Details"
 msgstr "Podrobnosti"
 
-#: cs/default.csv:62 
+#: cs/default.csv:62
 msgid "Edit"
 msgstr "Upravit"
 
-#: cs/default.csv:63 
+#: cs/default.csv:63
 msgid "Editing"
 msgstr "Úpravy"
 
-#: cs/default.csv:64 
+#: cs/default.csv:64
 msgid "Email"
 msgstr "E-mail"
 
-#: cs/default.csv:65 
+#: cs/default.csv:65
 msgid "Email address"
 msgstr "E-mailová adresa"
 
-#: cs/default.csv:66 
+#: cs/default.csv:66
 msgid "Email:"
 msgstr "E-mail:"
 
-#: cs/default.csv:67 
+#: cs/default.csv:67
 msgid "End at"
 msgstr "Platnost do"
 
-#: cs/default.csv:68 
+#: cs/default.csv:68
 msgid "Error : <br/>"
 msgstr "Chyba: <br/>"
 
-#: cs/default.csv:69 
+#: cs/default.csv:69
 msgid "Errors : <br/>"
 msgstr "Chyby: <br/>"
 
-#: cs/default.csv:70 
+#: cs/default.csv:70
 msgid "Export your customers"
 msgstr "Exportujte své zákazníky"
 
-#: cs/default.csv:71 
+#: cs/default.csv:71
 msgid "Extension not allowed, '%s' only"
 msgstr "Rozšíření není povoleno, pouze '%s'"
 
-#: cs/default.csv:72 
+#: cs/default.csv:72
 msgid "Facebook"
 msgstr "Facebook"
 
-#: cs/default.csv:73 
+#: cs/default.csv:73
 msgid "Firstname"
 msgstr "Jméno"
 
-#: cs/default.csv:74 
+#: cs/default.csv:74
 msgid "Firstname:"
 msgstr "Jméno:"
 
-#: cs/default.csv:75 
+#: cs/default.csv:75
 msgid "Forgot your password ?"
 msgstr "Zapomněli jste heslo?"
 
-#: cs/default.csv:76 
+#: cs/default.csv:76
 msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
 msgstr "Zapomněli jste heslo? Nebojte se! Jednoduše zadejte svou e-mailovou adresu a my Vám obratem zašleme nové!"
 
-#: cs/default.csv:77 
+#: cs/default.csv:77
 msgid "General"
 msgstr "Obecné"
 
-#: cs/default.csv:78 
+#: cs/default.csv:78
 msgid "Hello,"
 msgstr "Dobrý den,"
 
-#: cs/default.csv:79 
+#: cs/default.csv:79
 msgid "Here is your new password:"
 msgstr "Zde je vaše nové heslo:"
 
-#: cs/default.csv:80 
+#: cs/default.csv:80
 msgid "How do you want to access the backoffice if you remove the only user remaining?"
 msgstr "Jak chcete přistupovat do backoffice, pokud odeberete posledního uživatele??"
 
-#: cs/default.csv:81 
+#: cs/default.csv:81
 msgid "ID"
 msgstr "ID"
 
-#: cs/default.csv:82 
+#: cs/default.csv:82
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "Obrázek není dostatečně vysoký, musí mít minimálně %spx"
 
-#: cs/default.csv:83 
+#: cs/default.csv:83
 msgid "Image not large enough, %spx minimum allowed."
 msgstr "Obrázek není dostatečně široký, musí mít minimálně %spx"
 
-#: cs/default.csv:84 
+#: cs/default.csv:84
 msgid "Image not large enough, '%s' allowed."
 msgstr "Obrázek není dostatečně velký, '%s' povolen."
 
-#: cs/default.csv:85 
+#: cs/default.csv:85
 msgid "Image too high, %spx maximum allowed."
 msgstr "Obrázek je příliš vysoký, může mít maximálně %spx"
 
-#: cs/default.csv:86 
+#: cs/default.csv:86
 msgid "Image too large, %spx maximum allowed."
 msgstr "Obrázek je přílišširoký, může mít maximálně %spx"
 
-#: cs/default.csv:87 
+#: cs/default.csv:87
 msgid "Image too large, '%s' allowed."
 msgstr "Obrázek je příliš velký, '%s' povolen."
 
-#: cs/default.csv:88 
+#: cs/default.csv:88
 msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
 msgstr "Aby bylo možné plně využívat všechny funkce, doporučujeme použít alespoň: <br />"
 
-#: cs/default.csv:89 
+#: cs/default.csv:89
 msgid "In order to publish your application, we need:<br />- "
 msgstr "Aby bylo možné publikovat Vaši aplikaci, potřebujeme:<br />-"
 
-#: cs/default.csv:90 
+#: cs/default.csv:90
 msgid "Incorrect filetype."
 msgstr "Nesprávný typ souboru"
 
-#: cs/default.csv:91 
+#: cs/default.csv:91
 msgid "Info successfully saved"
 msgstr "Informace úspěšně uložena"
 
-#: cs/default.csv:92 
+#: cs/default.csv:92
 msgid "Information"
 msgstr "Informace"
 
-#: cs/default.csv:93 
+#: cs/default.csv:93
 msgid "Infos successfully saved"
 msgstr "Informace úspěšně uloženy"
 
-#: cs/default.csv:94 
-msgid "Insert a <br /><span class="bold">cover image</span>"
-msgstr "Vložit <br /><span class="bold">obrázek</span>"
+#: cs/default.csv:94
+msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgstr "Vložit <br /><span class=\"bold\">obrázek</span>"
 
-#: cs/default.csv:95 
+#: cs/default.csv:95
 msgid "Invalid place"
 msgstr "Neplatné místo"
 
-#: cs/default.csv:96 
+#: cs/default.csv:96
 msgid "Invoices"
 msgstr "Faktury"
 
-#: cs/default.csv:97 
+#: cs/default.csv:97
 msgid "Last Name"
 msgstr "Příjmení"
 
-#: cs/default.csv:98 
+#: cs/default.csv:98
 msgid "Lastname"
 msgstr "Příjmení"
 
-#: cs/default.csv:99 
+#: cs/default.csv:99
 msgid "Lastname:"
 msgstr "Příjmení:"
 
-#: cs/default.csv:100 
+#: cs/default.csv:100
 msgid "Like"
 msgstr "Like"
 
-#: cs/default.csv:101 
+#: cs/default.csv:101
 msgid "Likes"
 msgstr "Like"
 
-#: cs/default.csv:102 
+#: cs/default.csv:102
 msgid "Link"
 msgstr "Odkaz"
 
-#: cs/default.csv:103 
+#: cs/default.csv:103
 msgid "Load More"
 msgstr "Nahrát další"
 
-#: cs/default.csv:104 
+#: cs/default.csv:104
 msgid "Locate"
 msgstr "MAPA"
 
-#: cs/default.csv:105 
+#: cs/default.csv:105
 msgid "Location:"
 msgstr "Místo:"
 
-#: cs/default.csv:106 
+#: cs/default.csv:106
 msgid "Log in"
 msgstr "Přihlásit se"
 
-#: cs/default.csv:107 
+#: cs/default.csv:107
 msgid "Log-in"
 msgstr "Přihlásit se"
 
-#: cs/default.csv:108 
+#: cs/default.csv:108
 msgid "Log-out"
 msgstr "Odhlásit se"
 
-#: cs/default.csv:109 
+#: cs/default.csv:109
 msgid "Logged in as"
 msgstr "Přihlášen jako"
 
-#: cs/default.csv:110 
+#: cs/default.csv:110
 msgid "MM,d yy"
 msgstr "d, MM yy"
 
-#: cs/default.csv:111 
+#: cs/default.csv:111
 msgid "MM/dd/y"
 msgstr "dd / MM / y"
 
-#: cs/default.csv:112 
+#: cs/default.csv:112
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "dd / MM / y 'at' hh:mm"
 
-#: cs/default.csv:113 
+#: cs/default.csv:113
 msgid "MM/dd/y hh:mm a"
 msgstr "DD / MM / y hh:mm"
 
-#: cs/default.csv:114 
+#: cs/default.csv:114
 msgid "MM/dd/yy"
 msgstr "dd / MM / yy"
 
-#: cs/default.csv:115 
+#: cs/default.csv:115
 msgid "MM/dd/yyyy"
 msgstr "dd / MM / yyyy"
 
-#: cs/default.csv:116 
+#: cs/default.csv:116
 msgid "MMMM dd y"
 msgstr "dd MMMM y"
 
-#: cs/default.csv:117 
+#: cs/default.csv:117
 msgid "Main category"
 msgstr "Hlavní kategorie"
 
-#: cs/default.csv:118 
+#: cs/default.csv:118
 msgid "Make this image colorizable"
 msgstr "?Obrázek bude obarvitelný?"
 
-#: cs/default.csv:119 
+#: cs/default.csv:119
 msgid "Manage"
 msgstr "Upravit"
 
-#: cs/default.csv:120 
+#: cs/default.csv:120
 msgid "Map"
 msgstr "Mapa"
 
-#: cs/default.csv:121 
+#: cs/default.csv:121
 msgid "Maps"
 msgstr "Mapy"
 
-#: cs/default.csv:122 
+#: cs/default.csv:122
 msgid "Message from your app %s"
 msgstr "Zpráva z Vaší mobilní aplikace %s"
 
-#: cs/default.csv:123 
+#: cs/default.csv:123
 msgid "Messages"
 msgstr "Zprávy"
 
-#: cs/default.csv:124 
+#: cs/default.csv:124
 msgid "Modules"
 msgstr "Moduly"
 
-#: cs/default.csv:125 
+#: cs/default.csv:125
 msgid "More"
 msgstr "Více"
 
-#: cs/default.csv:126 
+#: cs/default.csv:126
 msgid "My account"
 msgstr "Můj účet"
 
-#: cs/default.csv:127 
+#: cs/default.csv:127
 msgid "My invoices"
 msgstr "Moje faktury"
 
-#: cs/default.csv:128 
+#: cs/default.csv:128
 msgid "Name"
 msgstr "Název"
 
-#: cs/default.csv:129 
+#: cs/default.csv:129
 msgid "Never"
 msgstr "Nikdy"
 
-#: cs/default.csv:130 
+#: cs/default.csv:130
 msgid "New"
 msgstr "Nový"
 
-#: cs/default.csv:131 
+#: cs/default.csv:131
 msgid "Next"
 msgstr "Další"
 
-#: cs/default.csv:132 
+#: cs/default.csv:132
 msgid "No"
 msgstr "Ne"
 
-#: cs/default.csv:133 
+#: cs/default.csv:133
 msgid "No address to display on map."
 msgstr "Chybí adresa ke zobrazení v mapě"
 
-#: cs/default.csv:134 
+#: cs/default.csv:134
 msgid "No place to display on map."
 msgstr "Chybí místo ke zobrazení v mapě"
 
-#: cs/default.csv:135 
+#: cs/default.csv:135
 msgid "No results"
 msgstr "Žádné výsledky"
 
-#: cs/default.csv:136 
+#: cs/default.csv:136
 msgid "No uploaded image"
 msgstr "Žádné nahrané obrázky"
 
-#: cs/default.csv:137 
+#: cs/default.csv:137
 msgid "Nothing to display"
 msgstr "Nic ke zobrazení"
 
-#: cs/default.csv:138 
+#: cs/default.csv:138
 msgid "Number"
 msgstr "Číslo"
 
-#: cs/default.csv:139 
+#: cs/default.csv:139
 msgid "OK"
 msgstr "OK"
 
-#: cs/default.csv:140 
+#: cs/default.csv:140
 msgid "OR"
 msgstr "NEBO"
 
-#: cs/default.csv:141 
+#: cs/default.csv:141
 msgid "Ouch, this page doesn't exist"
 msgstr "Ups, tato stránka neexistuje"
 
-#: cs/default.csv:142 
+#: cs/default.csv:142
 msgid "Password"
 msgstr "Heslo"
 
-#: cs/default.csv:143 
+#: cs/default.csv:143
 msgid "Password:"
 msgstr "Heslo:"
 
-#: cs/default.csv:144 
+#: cs/default.csv:144
 msgid "Passwords don't match"
 msgstr "Hesla se neshodují"
 
-#: cs/default.csv:145 
+#: cs/default.csv:145
 msgid "Payment"
 msgstr "Platba"
 
-#: cs/default.csv:146 
+#: cs/default.csv:146
 msgid "Phone"
 msgstr "Telefon"
 
-#: cs/default.csv:147 
+#: cs/default.csv:147
 msgid "Phone:"
 msgstr "Telefon:"
 
-#: cs/default.csv:148 
+#: cs/default.csv:148
 msgid "Photos"
 msgstr "Fotografie"
 
-#: cs/default.csv:149 
+#: cs/default.csv:149
 msgid "Plans"
 msgstr "Tarify"
 
-#: cs/default.csv:150 
+#: cs/default.csv:150
 msgid "Platform Name"
 msgstr "Název platformy"
 
-#: cs/default.csv:151 
+#: cs/default.csv:151
 msgid "Player"
 msgstr "Hráč"
 
-#: cs/default.csv:152 
+#: cs/default.csv:152
 msgid "Please enter a password"
 msgstr "Prosím, zadejte heslo"
 
-#: cs/default.csv:153 
+#: cs/default.csv:153
 msgid "Please enter a valid URL."
 msgstr "Zadejte prosím platnou URL"
 
-#: cs/default.csv:154 
+#: cs/default.csv:154
 msgid "Please enter a valid credit card number."
 msgstr "Zadejte prosím platné číslo karty"
 
-#: cs/default.csv:155 
+#: cs/default.csv:155
 msgid "Please enter a valid date (ISO)."
 msgstr "Zadejte prosím platné datum"
 
-#: cs/default.csv:156 
+#: cs/default.csv:156
 msgid "Please enter a valid date."
 msgstr "Zadejte prosím platné datum"
 
-#: cs/default.csv:157 
+#: cs/default.csv:157
 msgid "Please enter a valid email address"
 msgstr "Zadejte prosím platnou e-mailovou adresu"
 
-#: cs/default.csv:158 
+#: cs/default.csv:158
 msgid "Please enter a valid email address."
 msgstr "Zadejte prosím platnou emailovou adresu"
 
-#: cs/default.csv:159 
+#: cs/default.csv:159
 msgid "Please enter a valid number."
 msgstr "Zadejte prosím platné číslo"
 
-#: cs/default.csv:160 
+#: cs/default.csv:160
 msgid "Please enter a valid url"
 msgstr "Zadejte prosím platnou adresu URL"
 
-#: cs/default.csv:161 
+#: cs/default.csv:161
 msgid "Please enter a value between {0} and {1} characters long."
 msgstr "Zadejte prosím hodnotu mezi {0} a {1}"
 
-#: cs/default.csv:162 
+#: cs/default.csv:162
 msgid "Please enter a value between {0} and {1}."
 msgstr "Zadejte prosím hodnotu mezi {0} a {1}"
 
-#: cs/default.csv:163 
+#: cs/default.csv:163
 msgid "Please enter a value greater than or equal to {0}."
 msgstr "Zadejte prosím hodnotu větší nebo rovno {0}."
 
-#: cs/default.csv:164 
+#: cs/default.csv:164
 msgid "Please enter a value less than or equal to {0}."
 msgstr "Zadejte prosím hodnotu menší nebo rovno {0}."
 
-#: cs/default.csv:165 
+#: cs/default.csv:165
 msgid "Please enter at least {0} characters."
 msgstr "Zadejte prosím nejméně {0} znaků"
 
-#: cs/default.csv:166 
+#: cs/default.csv:166
 msgid "Please enter no more than {0} characters."
 msgstr "Nesmí být delší než {0} znaků"
 
-#: cs/default.csv:167 
+#: cs/default.csv:167
 msgid "Please enter only digits."
 msgstr "Zadejte prosím pouze čísla"
 
-#: cs/default.csv:168 
+#: cs/default.csv:168
 msgid "Please enter the same value again."
 msgstr "Zadejte prosím znovu stejnou hodnotu"
 
-#: cs/default.csv:169 
+#: cs/default.csv:169
 msgid "Please enter your email address"
 msgstr "Prosím, zadejte svou e-mailovou adresu"
 
-#: cs/default.csv:170 
+#: cs/default.csv:170
 msgid "Please fill in the following fields:"
 msgstr "Prosim vyplnte nasledujici udaje:"
 
-#: cs/default.csv:171 
+#: cs/default.csv:171
 msgid "Please fix this field."
 msgstr "Opravte prosím toto pole"
 
-#: cs/default.csv:172 
+#: cs/default.csv:172
 msgid "Please log in."
 msgstr "Přihlašte se prosím"
 
-#: cs/default.csv:173 
+#: cs/default.csv:173
 msgid "Please, enter a correct email address."
 msgstr "Prosím, zadejte správnou e-mailovou adresu."
 
-#: cs/default.csv:174 
+#: cs/default.csv:174
 msgid "Please, enter a password."
 msgstr "Prosím, zadejte heslo."
 
-#: cs/default.csv:175 
+#: cs/default.csv:175
 msgid "Please, enter a valid date"
 msgstr "Prosím, zadejte platné datum"
 
-#: cs/default.csv:176 
+#: cs/default.csv:176
 msgid "Podcast"
 msgstr "Podcast"
 
-#: cs/default.csv:177 
+#: cs/default.csv:177
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (ve formátu iTunes)"
 
-#: cs/default.csv:178 
+#: cs/default.csv:178
 msgid "Podcast type is invalid or can't be found"
 msgstr "Podcast typ je neplatný nebo ho nelze nalézt"
 
-#: cs/default.csv:179 
+#: cs/default.csv:179
 msgid "Postcode"
 msgstr "PSČ"
 
-#: cs/default.csv:180 
+#: cs/default.csv:180
 msgid "Postcode:"
 msgstr "PSČ"
 
-#: cs/default.csv:181 
+#: cs/default.csv:181
 msgid "Push"
 msgstr "Push"
 
-#: cs/default.csv:182 
+#: cs/default.csv:182
 msgid "Required fields"
 msgstr "Povinné položky"
 
-#: cs/default.csv:183 
+#: cs/default.csv:183
 msgid "Resize your picture"
 msgstr "Změnit velikost obrázku"
 
-#: cs/default.csv:184 
+#: cs/default.csv:184
 msgid "Resize your picture:"
 msgstr "Změnit velikost obrázku:"
 
-#: cs/default.csv:185 
+#: cs/default.csv:185
 msgid "SEND"
 msgstr "ODESLAT"
 
-#: cs/default.csv:186 
+#: cs/default.csv:186
 msgid "Save"
 msgstr "Uložit"
 
-#: cs/default.csv:187 
+#: cs/default.csv:187
 msgid "Search"
 msgstr "Vyhledat"
 
-#: cs/default.csv:188 
+#: cs/default.csv:188
 msgid "Select a country"
 msgstr "Vyberte zemi"
 
-#: cs/default.csv:189 
+#: cs/default.csv:189
 msgid "Select all"
 msgstr "Vybrat vše"
 
-#: cs/default.csv:190 
+#: cs/default.csv:190
 msgid "Send"
 msgstr "ODESLAT"
 
-#: cs/default.csv:191 
+#: cs/default.csv:191
 msgid "Send your pictures"
 msgstr "Vložte fotografie"
 
-#: cs/default.csv:192 
+#: cs/default.csv:192
 msgid "Settings"
 msgstr "Nastavení"
 
-#: cs/default.csv:193 
+#: cs/default.csv:193
 msgid "Size:"
 msgstr "Velikost:"
 
-#: cs/default.csv:194 
+#: cs/default.csv:194
 msgid "Street"
 msgstr "Ulice"
 
-#: cs/default.csv:195 
+#: cs/default.csv:195
 msgid "Street:"
 msgstr "Ulice:"
 
-#: cs/default.csv:196 
+#: cs/default.csv:196
 msgid "Subscriptions"
 msgstr "Předplatné"
 
-#: cs/default.csv:197 
+#: cs/default.csv:197
 msgid "Support"
 msgstr "Podpora"
 
-#: cs/default.csv:198 
+#: cs/default.csv:198
 msgid "Support Link"
 msgstr "Odkaz na podporu"
 
-#: cs/default.csv:199 
+#: cs/default.csv:199
 msgid "Tax"
 msgstr "Daň"
 
-#: cs/default.csv:200 
+#: cs/default.csv:200
 msgid "Taxes"
 msgstr "Daně"
 
-#: cs/default.csv:201 
+#: cs/default.csv:201
 msgid "Text"
 msgstr "Text"
 
-#: cs/default.csv:202 
+#: cs/default.csv:202
 msgid "The account has been successfully saved"
 msgstr "Účet byl úspěšně uložen"
 
-#: cs/default.csv:203 
+#: cs/default.csv:203
 msgid "The address you're looking for does not exists."
 msgstr "Adresa, kterou hledáte, neexistuje"
 
-#: cs/default.csv:204 
+#: cs/default.csv:204
 msgid "The email is required"
 msgstr "Emailová ardesa je vyžadována"
 
-#: cs/default.csv:205 
+#: cs/default.csv:205
 msgid "The file '%s' does not exist"
 msgstr "Soubor '%s' neexistuje"
 
-#: cs/default.csv:206 
+#: cs/default.csv:206
 msgid "The image '%s' does not exist"
 msgstr "Obrázek '%s' neexistuje"
 
-#: cs/default.csv:207 
+#: cs/default.csv:207
 msgid "The image size '%s' could not be detected."
 msgstr "Nepodařilo zjistit velikost obrázku '%s'"
 
-#: cs/default.csv:208 
+#: cs/default.csv:208
 msgid "The old password does not match the entered password."
 msgstr "Staré heslo neodpovídá zadanému heslu"
 
-#: cs/default.csv:209 
+#: cs/default.csv:209
 msgid "The password is required"
 msgstr "Je vyžadováno heslo"
 
-#: cs/default.csv:210 
+#: cs/default.csv:210
 msgid "The password must be at least 6 characters"
 msgstr "Heslo musí mít nejméně 6 znaků"
 
-#: cs/default.csv:211 
+#: cs/default.csv:211
 msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
 msgstr "Platba byla zrušena, něco se stalo? V případě potřeby nás kontaktujte"
 
-#: cs/default.csv:212 
+#: cs/default.csv:212
 msgid "This administrator does not exist"
 msgstr "Tento správce neexistuje"
 
-#: cs/default.csv:213 
+#: cs/default.csv:213
 msgid "This email address is already used"
 msgstr "Tato e-mailová adresa je již používána"
 
-#: cs/default.csv:214 
+#: cs/default.csv:214
 msgid "This field is required"
 msgstr "Toto pole je povinné"
 
-#: cs/default.csv:215 
+#: cs/default.csv:215
 msgid "This field is required."
 msgstr "Toto pole je povinné!"
 
-#: cs/default.csv:216 
+#: cs/default.csv:216
 msgid "This section is unlocked for mobile users only"
 msgstr "Tato sekce je přístupná pouze pro mobilní uživatele"
 
-#: cs/default.csv:217 
+#: cs/default.csv:217
 msgid "Timezone"
 msgstr "Časové pásmo"
 
-#: cs/default.csv:218 
+#: cs/default.csv:218
 msgid "Title"
 msgstr "název"
 
-#: cs/default.csv:219 
+#: cs/default.csv:219
 msgid "Title:"
 msgstr "Název:"
 
-#: cs/default.csv:220 
+#: cs/default.csv:220
 msgid "Total"
 msgstr "Celkem"
 
-#: cs/default.csv:221 
+#: cs/default.csv:221
 msgid "Unable to add the contact to your address book"
 msgstr "Nelze vložit kontakt do adresáře"
 
-#: cs/default.csv:222 
+#: cs/default.csv:222
 msgid "Unable to calculate the route."
 msgstr "Trasa nelze naplánovat"
 
-#: cs/default.csv:223 
+#: cs/default.csv:223
 msgid "Unable to save image"
 msgstr "Obrázek nelze uložit"
 
-#: cs/default.csv:224 
+#: cs/default.csv:224
 msgid "Unrecognized image format"
 msgstr "Neznámý formát obrázku"
 
-#: cs/default.csv:225 
+#: cs/default.csv:225
 msgid "Updated at"
 msgstr "Aktualizováno"
 
-#: cs/default.csv:226 
+#: cs/default.csv:226
 msgid "Use this coupon"
 msgstr "Použijte tento kupón"
 
-#: cs/default.csv:227 
+#: cs/default.csv:227
 msgid "User"
 msgstr "Uživatel"
 
-#: cs/default.csv:228 
+#: cs/default.csv:228
 msgid "User successfully saved"
 msgstr "Uživatel úspěšně uložen"
 
-#: cs/default.csv:229 
+#: cs/default.csv:229
 msgid "Username"
 msgstr "Uživatelské jméno"
 
-#: cs/default.csv:230 
+#: cs/default.csv:230
 msgid "Users"
 msgstr "Uživatelé"
 
-#: cs/default.csv:231 
+#: cs/default.csv:231
 msgid "VAT Number"
 msgstr "DIČ"
 
-#: cs/default.csv:232 
+#: cs/default.csv:232
 msgid "Validate"
 msgstr "Potvrdit"
 
-#: cs/default.csv:233 
+#: cs/default.csv:233
 msgid "Version %s"
 msgstr "Verze %s"
 
-#: cs/default.csv:234 
+#: cs/default.csv:234
 msgid "View"
 msgstr "Náhled"
 
-#: cs/default.csv:235 
+#: cs/default.csv:235
 msgid "We are sorry but this address is already used."
 msgstr "Omlouváme se, ale tato adresa je již používána"
 
-#: cs/default.csv:236 
+#: cs/default.csv:236
 msgid "We are sorry but this email address already exists."
 msgstr "Je nám líto, ale tato e-mailová adresa již existuje."
 
-#: cs/default.csv:237 
+#: cs/default.csv:237
 msgid "We are sorry but this feature is not available yet"
 msgstr "Omlouváme se, ale tato funkce není zatím k dispozici"
 
-#: cs/default.csv:238 
+#: cs/default.csv:238
 msgid "Website"
 msgstr "Webová stránka"
 
-#: cs/default.csv:239 
+#: cs/default.csv:239
 msgid "Yes"
 msgstr "Ano"
 
-#: cs/default.csv:240 
+#: cs/default.csv:240
 msgid "You already have this user in your contact"
 msgstr "Tento uživatel je již ve Vašich kontaktech"
 
-#: cs/default.csv:241 
+#: cs/default.csv:241
 msgid "You are gone offline"
 msgstr "Právě jste offline"
 
-#: cs/default.csv:242 
+#: cs/default.csv:242
 msgid "You can upload a pem certificate only."
 msgstr "Můžete nahrát pouze certifikát pem"
 
-#: cs/default.csv:243 
+#: cs/default.csv:243
 msgid "You can upload a zip archive only."
 msgstr "Můžete nahrát pouze ZIP archiv."
 
-#: cs/default.csv:244 
+#: cs/default.csv:244
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "Můžete nahrát pouze ikonu (ICO a PNG)."
 
-#: cs/default.csv:245 
+#: cs/default.csv:245
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgstr "Můžete nahrát pouze obrázek (JPG, JPEG, GIF a PNG)."
 
-#: cs/default.csv:246 
+#: cs/default.csv:246
 msgid "You can't upload more than one file at a time."
 msgstr "Nemůžete nahrát více než jeden soubor najednou."
 
-#: cs/default.csv:247 
+#: cs/default.csv:247
 msgid "You must be logged in to post a comment"
 msgstr "Pro psaní komentářů musíte být přihlášení"
 
-#: cs/default.csv:248 
+#: cs/default.csv:248
 msgid "You must give the permission to the app to add a contact to your address book"
 msgstr "Přidání kontaktu do adresáře musíte povolit v aplikaci"
 
-#: cs/default.csv:249 
+#: cs/default.csv:249
 msgid "You must share your location to access this page."
 msgstr "Pro přístup na tuto stránku musíte sdílet Vaši pozici"
 
-#: cs/default.csv:250 
+#: cs/default.csv:250
 msgid "Your browser is too old to view the content of our website.<br />"
 msgstr "Váš prohlížeč je příliš starý pro zobrazení obsahu našich stránek.<br />"
 
-#: cs/default.csv:251 
+#: cs/default.csv:251
 msgid "Your comment"
 msgstr "Váš komentář"
 
-#: cs/default.csv:252 
+#: cs/default.csv:252
 msgid "Your email address"
 msgstr "Vaše e-mailová adresa"
 
-#: cs/default.csv:253 
+#: cs/default.csv:253
 msgid "Your email address does not exist"
 msgstr "Vaše e-mailová adresa neexistuje"
 
-#: cs/default.csv:254 
+#: cs/default.csv:254
 msgid "Your name"
 msgstr "Vaše jméno"
 
-#: cs/default.csv:255 
+#: cs/default.csv:255
 msgid "Your new password has been sent to the entered email address"
 msgstr "Vaše nové heslo bylo odesláno na zadanou e-mailovou adresu"
 
-#: cs/default.csv:256 
+#: cs/default.csv:256
 msgid "Your password does not match the entered password."
 msgstr "Vaše heslo neodpovídá vloženému heslu"
 
-#: cs/default.csv:257 
+#: cs/default.csv:257
 msgid "Youtube"
 msgstr "Youtube"
 
-#: cs/default.csv:258 
+#: cs/default.csv:258
 msgid "close"
 msgstr "Zavřít"
 
-#: cs/default.csv:259 
+#: cs/default.csv:259
 msgid "day"
 msgstr "den"
 
-#: cs/default.csv:260 
+#: cs/default.csv:260
 msgid "days"
 msgstr "dny"
 
-#: cs/default.csv:261 
+#: cs/default.csv:261
 msgid "en"
 msgstr "cz"
 
-#: cs/default.csv:262 
+#: cs/default.csv:262
 msgid "hour"
 msgstr "hodina"
 
-#: cs/default.csv:263 
+#: cs/default.csv:263
 msgid "hours"
 msgstr "hodiny"
 
-#: cs/default.csv:264 
+#: cs/default.csv:264
 msgid "loading"
 msgstr "nahrávám"
 
-#: cs/default.csv:265 
+#: cs/default.csv:265
 msgid "minute"
 msgstr "minuta"
 
-#: cs/default.csv:266 
+#: cs/default.csv:266
 msgid "minutes"
 msgstr "minuty"
 
-#: cs/default.csv:267 
+#: cs/default.csv:267
 msgid "picture"
 msgstr "obrázek"
 
-#: cs/default.csv:268 
+#: cs/default.csv:268
 msgid "second"
 msgstr "druhý"
 
-#: cs/default.csv:269 
+#: cs/default.csv:269
 msgid "seconds"
 msgstr "sekundy"
 
-#: cs/default.csv:270 
+#: cs/default.csv:270
 msgid "title"
 msgstr "název"
 
-#: cs/default.csv:271 
+#: cs/default.csv:271
 msgid "titles"
 msgstr "názvy"
 
-#: cs/default.csv:272 
+#: cs/default.csv:272
 msgid "to add a subfolder."
 msgstr "přidat podsložky."
 
-#: cs/default.csv:273 
+#: cs/default.csv:273
 msgid "﻿404, page not found"
 msgstr "404, stránka nebyla nalezena"
-

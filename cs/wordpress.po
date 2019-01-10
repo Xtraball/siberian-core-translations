@@ -1,46 +1,50 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/wordpress.csv:1 
+#: cs/wordpress.csv:1
 msgid "An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
 msgstr "Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte název domény %s"
 
-#: cs/wordpress.csv:2 
+#: cs/wordpress.csv:2
 msgid "Categories successfully saved"
 msgstr "Kategorie byla úspěšně uložena"
 
-#: cs/wordpress.csv:3 
+#: cs/wordpress.csv:3
 msgid "Click here to download our Wordpress plugin"
 msgstr "Klikněte zde ke stažení Wordpress pluginu"
 
-#: cs/wordpress.csv:4 
+#: cs/wordpress.csv:4
 msgid "Enter your Wordpress URL:"
 msgstr "Zadejte URL Vší Wordpress stránky"
 
-#: cs/wordpress.csv:5 
+#: cs/wordpress.csv:5
 msgid "Loading categories"
 msgstr "Načítání kategorie"
 
-#: cs/wordpress.csv:6 
+#: cs/wordpress.csv:6
 msgid "We are sorry but no category has been detected on your Wordpress website."
 msgstr "Omlouváme se, ale žádná kategorie nebyla nalezena na vašich Wordpress stránkách"
 
-#: cs/wordpress.csv:7 
+#: cs/wordpress.csv:7
 msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
 msgstr "Je nám líto, ale náš Wordpress plugin nebyl nalezen na vašich webových stránkách. Prosím ujistěte se, že je správně nainstalován a aktivován."
 
-#: cs/wordpress.csv:8 
+#: cs/wordpress.csv:8
 msgid "Wordpress"
 msgstr "Wordpress"
 
-#: cs/wordpress.csv:9 
+#: cs/wordpress.csv:9
 msgid "﻿An error occurred while accessing your Wordpress website. Please, verify the domain name %s"
 msgstr "Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte název domény %s"
-

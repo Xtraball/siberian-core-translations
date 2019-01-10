@@ -1,138 +1,142 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: nl\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/installer.csv:1 
+#: nl/installer.csv:1
 msgid "All of your modules are up to date"
 msgstr "Al uw modules zijn up to date"
 
-#: nl/installer.csv:2 
+#: nl/installer.csv:2
 msgid "Click here to send your module"
 msgstr "Klik hier om uw module te selecteren op uw pc"
 
-#: nl/installer.csv:3 
+#: nl/installer.csv:3
 msgid "Drop your module here"
 msgstr "Laat hier uw module vallen"
 
-#: nl/installer.csv:4 
-msgid "Installing module <em><span id="label_module"></span></em>"
-msgstr "Installeert module <em><span id="label_module"></span></em>"
+#: nl/installer.csv:4
+msgid "Installing module <em><span id=\"label_module\"></span></em>"
+msgstr "Installeert module <em><span id=\"label_module\"></span></em>"
 
-#: nl/installer.csv:5 
+#: nl/installer.csv:5
 msgid "Installing"
 msgstr "Installeren"
 
-#: nl/installer.csv:6 
+#: nl/installer.csv:6
 msgid "Installing your module"
 msgstr "Installeert module"
 
-#: nl/installer.csv:7 
+#: nl/installer.csv:7
 msgid "Module successfully installed"
 msgstr "Module met succes geïnstalleerd"
 
-#: nl/installer.csv:8 
+#: nl/installer.csv:8
 msgid "Module to upload"
 msgstr "Modules klaar voor upload"
 
-#: nl/installer.csv:9 
+#: nl/installer.csv:9
 msgid "Modules Installation"
 msgstr "Module installatie"
 
-#: nl/installer.csv:10 
+#: nl/installer.csv:10
 msgid "Modules successfully installed!"
 msgstr "Module met succes geïnstalleerd!"
 
-#: nl/installer.csv:11 
+#: nl/installer.csv:11
 msgid "No directory provided"
 msgstr "Geen directory aangegeven"
 
-#: nl/installer.csv:12 
+#: nl/installer.csv:12
 msgid "No module to install"
 msgstr "Geen modules te installeren"
 
-#: nl/installer.csv:13 
+#: nl/installer.csv:13
 msgid "No modules uploaded yet"
 msgstr "Nog geen modules geüpload"
 
-#: nl/installer.csv:14 
+#: nl/installer.csv:14
 msgid "Please wait, we're installing your module"
 msgstr "Een ogenblik geduld we installeren de module"
 
-#: nl/installer.csv:15 
+#: nl/installer.csv:15
 msgid "Please, enter a name"
 msgstr "Vul een naam in"
 
-#: nl/installer.csv:16 
+#: nl/installer.csv:16
 msgid "Please, fill out all fields"
 msgstr "Vul alle velden in"
 
-#: nl/installer.csv:17 
+#: nl/installer.csv:17
 msgid "Processing the installation"
 msgstr "Verwerken van de installatie"
 
-#: nl/installer.csv:18 
+#: nl/installer.csv:18
 msgid "Retry"
 msgstr "Opnieuw"
 
-#: nl/installer.csv:19 
+#: nl/installer.csv:19
 msgid "Select a module to upload"
 msgstr "Selecteer een module om te uploaden"
 
-#: nl/installer.csv:20 
+#: nl/installer.csv:20
 msgid "The database connection failed. Please, check the entered information."
 msgstr "De database verbinding mislukt. Alstublieft  controleer de ingevulde informatie. "
 
-#: nl/installer.csv:21 
+#: nl/installer.csv:21
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Het bevestiging wachtwoord komt niet overeen met het eerst ingevulde wachtwoord."
 
-#: nl/installer.csv:22 
+#: nl/installer.csv:22
 msgid "The file %s does not exist"
 msgstr "Het bestand %s bestaat niet"
 
-#: nl/installer.csv:23 
+#: nl/installer.csv:23
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr "De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het opnieuw. "
 
-#: nl/installer.csv:24 
+#: nl/installer.csv:24
 msgid "The folder %s is not writable."
 msgstr "De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het opnieuw. "
 
-#: nl/installer.csv:25 
+#: nl/installer.csv:25
 msgid "The following folders are not writable: <br /> - %s"
 msgstr "De volgende mappen zijn niet beschrijfbaar: <br /> - %s"
 
-#: nl/installer.csv:26 
-msgid "The installation of the module <span id="installation_failed_module_name"></span> has failed: <span id="installation_failed_because"></span>"
-msgstr "De installatie van de module <span id="installation_failed_module_name"></span> is mislukt: <span id="installation_failed_because"> </ span> "
+#: nl/installer.csv:26
+msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
+msgstr "De installatie van de module <span id=\"installation_failed_module_name\"></span> is mislukt: <span id=\"installation_failed_because\"> </ span> "
 
-#: nl/installer.csv:27 
+#: nl/installer.csv:27
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr "Dit proces kan enkele minuten duren pagina niet vernieuwen"
 
-#: nl/installer.csv:28 
+#: nl/installer.csv:28
 msgid "Unable to extract the archive."
 msgstr "Kan archief niet uit pakken"
 
-#: nl/installer.csv:29 
+#: nl/installer.csv:29
 msgid "Unable to open the archive."
 msgstr "Kan archief niet openen"
 
-#: nl/installer.csv:30 
+#: nl/installer.csv:30
 msgid "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr "Kan het bestand te openen. Zorg ervoor dat u een geldig archief (bestand) heeft gestuurd."
 
-#: nl/installer.csv:31 
+#: nl/installer.csv:31
 msgid "Upload a module"
 msgstr "Upload een module"
 
-#: nl/installer.csv:32 
+#: nl/installer.csv:32
 msgid "Upload your modules"
 msgstr "Upload uw modules"
-

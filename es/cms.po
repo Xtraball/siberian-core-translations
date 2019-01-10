@@ -1,118 +1,122 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/cms.csv:1 
+#: es/cms.csv:1
 msgid "Label:"
 msgstr "Etiqueta:"
 
-#: es/cms.csv:2 
+#: es/cms.csv:2
 msgid "Label"
 msgstr "Etiqueta"
 
-#: es/cms.csv:3 
+#: es/cms.csv:3
 msgid "Address:"
 msgstr "Dirección:"
 
-#: es/cms.csv:4 
+#: es/cms.csv:4
 msgid "Display address"
 msgstr "Mostrar dirección"
 
-#: es/cms.csv:5 
+#: es/cms.csv:5
 msgid "Display location button"
 msgstr "Mostrar botón de ubicación"
 
-#: es/cms.csv:6 
+#: es/cms.csv:6
 msgid "Pictures"
 msgstr "Imágenes"
 
-#: es/cms.csv:7 
+#: es/cms.csv:7
 msgid "Add "
 msgstr "Agregar"
 
-#: es/cms.csv:8 
+#: es/cms.csv:8
 msgid "Description:"
 msgstr "Descripción:"
 
-#: es/cms.csv:9 
+#: es/cms.csv:9
 msgid "Alignment:"
 msgstr "Alineación:"
 
-#: es/cms.csv:10 
+#: es/cms.csv:10
 msgid "Size:"
 msgstr "Tamaño:"
 
-#: es/cms.csv:11 
+#: es/cms.csv:11
 msgid "Small"
 msgstr "Pequeño"
 
-#: es/cms.csv:12 
+#: es/cms.csv:12
 msgid "Medium"
 msgstr "Mediano"
 
-#: es/cms.csv:13 
+#: es/cms.csv:13
 msgid "Large"
 msgstr "Grande"
 
-#: es/cms.csv:14 
+#: es/cms.csv:14
 msgid "Add a"
 msgstr "Agregar a"
 
-#: es/cms.csv:15 
+#: es/cms.csv:15
 msgid "Picture"
 msgstr "Imagen"
 
-#: es/cms.csv:16 
+#: es/cms.csv:16
 msgid "Loading picture:"
 msgstr "Cargando imagen"
 
-#: es/cms.csv:17 
+#: es/cms.csv:17
 msgid ".mp4 or .3gp format"
 msgstr "Formato .mp4 ó .3gp"
 
-#: es/cms.csv:18 
+#: es/cms.csv:18
 msgid "Video URL:"
 msgstr "URL Video:"
 
-#: es/cms.csv:19 
+#: es/cms.csv:19
 msgid "Select a video type:"
 msgstr "Seleccione un tipo de vídeo:"
 
-#: es/cms.csv:20 
+#: es/cms.csv:20
 msgid "My video"
 msgstr "Mi vídeo"
 
-#: es/cms.csv:21 
+#: es/cms.csv:21
 msgid "My Youtube video:"
 msgstr "Mi vídeo de Youtube:"
 
-#: es/cms.csv:22 
+#: es/cms.csv:22
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Buscar o ingresar URL de Youtube:"
 
-#: es/cms.csv:23 
+#: es/cms.csv:23
 msgid "Podcast URL:"
 msgstr "URL de Podcast:"
 
-#: es/cms.csv:24 
+#: es/cms.csv:24
 msgid "Your Podcast:"
 msgstr "Su Podcast:"
 
-#: es/cms.csv:25 
+#: es/cms.csv:25
 msgid "Add sections:"
 msgstr "Agregar secciones:"
 
-#: es/cms.csv:26 
+#: es/cms.csv:26
 msgid "An error occurred while saving your page."
 msgstr "Se ha producido un error al guardar su página"
 
-#: es/cms.csv:27 
+#: es/cms.csv:27
 msgid "Page successfully saved"
 msgstr "Página guardada correctamente"
-

@@ -1,66 +1,70 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: zh_Hans\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: zh_Hans\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/promotion.csv:1 
+#: zh/promotion.csv:1
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "有一个错误保存您的折扣。请填写所有领域"
 
-#: zh/promotion.csv:2 
+#: zh/promotion.csv:2
 msgid "Are you sure you want to use this discount?"
 msgstr "你确定要使用这个折扣？"
 
-#: zh/promotion.csv:3 
+#: zh/promotion.csv:3
 msgid "Closed discounts"
 msgstr "折扣关闭"
 
-#: zh/promotion.csv:4 
+#: zh/promotion.csv:4
 msgid "Delete this discount?"
 msgstr "删除这个折扣？"
 
-#: zh/promotion.csv:5 
+#: zh/promotion.csv:5
 msgid "Discount successfully deleted"
 msgstr "折扣正确移除"
 
-#: zh/promotion.csv:6 
+#: zh/promotion.csv:6
 msgid "Discount successfully saved"
 msgstr "折扣保存成功"
 
-#: zh/promotion.csv:7 
+#: zh/promotion.csv:7
 msgid "Please select an end date greater than the current date."
 msgstr "请选择日期大于当前的日期的完成。"
 
-#: zh/promotion.csv:8 
+#: zh/promotion.csv:8
 msgid "This discount is now used"
 msgstr "这个折扣现在使用"
 
-#: zh/promotion.csv:9 
+#: zh/promotion.csv:9
 msgid "Valid until"
 msgstr "有效期至"
 
-#: zh/promotion.csv:10 
+#: zh/promotion.csv:10
 msgid "You have already use this discount"
 msgstr "你已经使用这个折扣"
 
-#: zh/promotion.csv:11 
+#: zh/promotion.csv:11
 msgid "You must be logged in to use a discount"
 msgstr "你必须注册，才能使用折扣"
 
-#: zh/promotion.csv:12 
+#: zh/promotion.csv:12
 msgid "or illimited"
 msgstr "或无限"
 
-#: zh/promotion.csv:13 
+#: zh/promotion.csv:13
 msgid "use only once"
 msgstr "仅使用一次"
 
-#: zh/promotion.csv:14 
+#: zh/promotion.csv:14
 msgid "you'll be able to remove this promotion later"
 msgstr "您可以稍后删除此促销"
-

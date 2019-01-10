@@ -1,82 +1,86 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/system.csv:1 
+#: el/system.csv:1
 msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
 msgstr "<b>Τύποι αρχείων: </b> %s<br /><b>Tamaño recomendado:</b> %s"
 
-#: el/system.csv:2 
+#: el/system.csv:2
 msgid "Click here to send your favicon"
 msgstr "Προσθέστε εδώ το favicon σας"
 
-#: el/system.csv:3 
+#: el/system.csv:3
 msgid "Click here to send your logo"
 msgstr "Προσθέστε εδώ το logo σας"
 
-#: el/system.csv:4 
+#: el/system.csv:4
 msgid "Communications"
 msgstr "Επικοινωνία"
 
-#: el/system.csv:5 
+#: el/system.csv:5
 msgid "Current favicon"
 msgstr "Τρέχον favicon"
 
-#: el/system.csv:6 
+#: el/system.csv:6
 msgid "Current logo"
 msgstr "Τρέχον logo"
 
-#: el/system.csv:7 
+#: el/system.csv:7
 msgid "Display a link to your clients to your support platform"
 msgstr "Προβολή Συνδέσμου Τεχνικής Υποστήριξης στους χρήστες σας"
 
-#: el/system.csv:8 
+#: el/system.csv:8
 msgid "Drop your favicon here"
 msgstr "Αφήστε το favicon σας εδώ"
 
-#: el/system.csv:9 
+#: el/system.csv:9
 msgid "Drop your logo here"
 msgstr "Αφήστε το logo σας εδώ"
 
-#: el/system.csv:10 
+#: el/system.csv:10
 msgid "Sales"
 msgstr "Πωλήσεις"
 
-#: el/system.csv:11 
+#: el/system.csv:11
 msgid "Sales Email Address"
 msgstr "E-mail Τμήματος Πωλήσεων"
 
-#: el/system.csv:12 
+#: el/system.csv:12
 msgid "Sender's email address of the emails sent by the site to your clients"
 msgstr "E-mail αποστολέα για τα mails που αποστέλλονται στους χρήστες σας"
 
-#: el/system.csv:13 
+#: el/system.csv:13
 msgid "Sender's name of the emails sent by the site to your clients"
 msgstr "Όνομα αποστολέα για τα mails που αποστέλλονται στους χρήστες σας"
 
-#: el/system.csv:14 
+#: el/system.csv:14
 msgid "Support Email Address"
 msgstr "E-mail Τεχνικής Υποστήριξης"
 
-#: el/system.csv:15 
+#: el/system.csv:15
 msgid "The folder /images/default is not writable."
 msgstr "Ο φάκελος /images/default είναι μη-εγγράψιμος."
 
-#: el/system.csv:16 
+#: el/system.csv:16
 msgid "Your Location"
 msgstr "Τοποθεσία"
 
-#: el/system.csv:17 
+#: el/system.csv:17
 msgid "Your Platform"
 msgstr "Πλατφόρμα"
 
-#: el/system.csv:18 
+#: el/system.csv:18
 msgid "Your company"
 msgstr "Εταιρεία"
-

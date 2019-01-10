@@ -2,112 +2,108 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 09:49+0000\n"
-"PO-Revision-Date: 2019-01-09 09:49+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-09 09:49+0000\n"
+"PO-Revision-Date: 2019-01-09 09:49+0000\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/admin.csv:1 
+#: es/admin.csv:1
 msgid "My informations"
 msgstr "Mis informaciones"
 
-#: es/admin.csv:2 
+#: es/admin.csv:2
 msgid "Change my password"
 msgstr "Cambiar mi contraseña"
 
-#: es/admin.csv:3 
+#: es/admin.csv:3
 msgid "Current password"
 msgstr "Contraseña actual"
 
-#: es/admin.csv:4 
+#: es/admin.csv:4
 msgid "Confirm new password"
 msgstr "Confirmar nueva contraseña"
 
-#: es/admin.csv:5 
+#: es/admin.csv:5
 msgid "Required fields"
 msgstr "Campos necesarios"
 
-#: es/admin.csv:6 
+#: es/admin.csv:6
 msgid "Enter your credentials:"
 msgstr "Ingrese su cuenta :"
 
-#: es/admin.csv:7 
+#: es/admin.csv:7
 msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
 msgstr "¿Ha olvidado su contraseña? No se preocupe, introduzca su dirección de correo electrónico y le reenviaremos una directamente."
 
-#: es/admin.csv:8 
+#: es/admin.csv:8
 msgid "Forgot your password ?"
 msgstr "¿Olvidó tu contraseña?"
 
-#: es/admin.csv:9 
+#: es/admin.csv:9
 msgid "Log in"
 msgstr "Iniciar sesión"
 
-#: es/admin.csv:10 
+#: es/admin.csv:10
 msgid "Send"
 msgstr "enviar"
 
-#: es/admin.csv:11 
+#: es/admin.csv:11
+#: es/admin.csv:21
 msgid "Login to your admin interface"
 msgstr "Conexión a su panel de administración"
 
-#: es/admin.csv:12 
+#: es/admin.csv:12
 msgid "Your email address"
 msgstr "Su dirección de correo electrónico"
 
-#: es/admin.csv:13 
+#: es/admin.csv:13
 msgid "Your password"
 msgstr "Su contraseña"
 
-#: es/admin.csv:14 
+#: es/admin.csv:14
 msgid "Notifications"
 msgstr "Notificaciones"
 
-#: es/admin.csv:15 
+#: es/admin.csv:15
 msgid "My notifications list"
 msgstr "Mi lista de notificaciones"
 
-#: es/admin.csv:16 
+#: es/admin.csv:16
 msgid "Details"
 msgstr "Detalles"
 
-#: es/admin.csv:17 
+#: es/admin.csv:17
 msgid "Mark as unread"
 msgstr "Marcar como no leído"
 
-#: es/admin.csv:18 
+#: es/admin.csv:18
 msgid "Mark as read"
 msgstr "Marcar como leído"
 
-#: es/admin.csv:19 
+#: es/admin.csv:19
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "Se ha producido un error al guardar la cuenta. Por favor inténtelo de nuevo más tarde."
 
-#: es/admin.csv:20 
+#: es/admin.csv:20
 msgid "Your account has been successfully saved"
 msgstr "Su cuenta ha sido guardada con éxito"
 
-#: es/admin.csv:21 
-msgid "Login to your admin interface"
-msgstr "Conexión a su panel de administración"
-
-#: es/admin.csv:22 
+#: es/admin.csv:22
 msgid "My account"
 msgstr "Mi cuenta"
 
-#: es/admin.csv:23 
+#: es/admin.csv:23
 msgid "My notifications"
 msgstr "Mis notificaciones"
 
 msgid "A request to reset your password has been made to log in to your administration panel."
-msgstr ""
-"Se ha creado una petición para restablecer su contraseña de acceso al panel "
-"de administración."
+msgstr "Se ha creado una petición para restablecer su contraseña de acceso al panel de administración."
 
 msgid "Access"
 msgstr "Acceso"
@@ -296,9 +292,7 @@ msgid "Welcome!"
 msgstr "¡Bienvenido!"
 
 msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
-msgstr ""
-"Le va a encantar! Gracias a nuestras funcionalidades, usted será capaz "
-"aplicaciones móviles geniales fácilmente y en cuestión de minutos."
+msgstr "Le va a encantar! Gracias a nuestras funcionalidades, usted será capaz aplicaciones móviles geniales fácilmente y en cuestión de minutos."
 
 msgid "You can't delete the main account"
 msgstr "Usted no puede borrar la cuenta principal"

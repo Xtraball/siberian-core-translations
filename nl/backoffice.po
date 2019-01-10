@@ -1,90 +1,94 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: nl\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/backoffice.csv:1 
+#: nl/backoffice.csv:1
 msgid "%d Unread Message"
 msgstr "%d Ongelezen bericht"
 
-#: nl/backoffice.csv:2 
+#: nl/backoffice.csv:2
 msgid "%d Unread Messages"
 msgstr "%d ongelezen berichten"
 
-#: nl/backoffice.csv:3 
+#: nl/backoffice.csv:3
 msgid "Account"
 msgstr "Account"
 
-#: nl/backoffice.csv:4 
+#: nl/backoffice.csv:4
 msgid "Change the password"
 msgstr "Wijzig het wachtwoord"
 
-#: nl/backoffice.csv:5 
+#: nl/backoffice.csv:5
 msgid "Click to mark as not read"
 msgstr "Klik om te markeren als niet gelezen"
 
-#: nl/backoffice.csv:6 
+#: nl/backoffice.csv:6
 msgid "Click to mark as read"
 msgstr "Klik om te markeren als gelezen"
 
-#: nl/backoffice.csv:7 
+#: nl/backoffice.csv:7
 msgid "Create a user"
 msgstr "Maak een gebruiker aan"
 
-#: nl/backoffice.csv:8 
-msgid "Edit the account "%s""
-msgstr "Bewerk het account "%s""
+#: nl/backoffice.csv:8
+msgid "Edit the account \"%s\""
+msgstr "Bewerk het account \"%s\""
 
-#: nl/backoffice.csv:9 
+#: nl/backoffice.csv:9
 msgid "Edit the user"
 msgstr "Bewerk de gebruiker"
 
-#: nl/backoffice.csv:10 
+#: nl/backoffice.csv:10
 msgid "Enter your credentials:"
 msgstr "Vul uw gegevens in:"
 
-#: nl/backoffice.csv:11 
+#: nl/backoffice.csv:11
 msgid "List of backoffice accounts"
 msgstr "Lijst van backoffice-accounts"
 
-#: nl/backoffice.csv:12 
+#: nl/backoffice.csv:12
 msgid "List of the messages"
 msgstr "Lijst van de berichten"
 
-#: nl/backoffice.csv:13 
+#: nl/backoffice.csv:13
 msgid "Login to your backoffice interface"
 msgstr "Log in om naar uw  backoffice-interface te gaan"
 
-#: nl/backoffice.csv:14 
+#: nl/backoffice.csv:14
 msgid "People who are allowed to access the backoffice"
 msgstr "Mensen met toegang tot de backoffice"
 
-#: nl/backoffice.csv:15 
+#: nl/backoffice.csv:15
 msgid "Siberian CMS"
 msgstr "Siberian CMS"
 
-#: nl/backoffice.csv:16 
+#: nl/backoffice.csv:16
 msgid "This account can't be deleted, it's the only one"
 msgstr "Dit account kan niet worden verwijderd, het is de enige"
 
-#: nl/backoffice.csv:17 
+#: nl/backoffice.csv:17
 msgid "User successfully deleted"
 msgstr "Gebruiker succesvol verwijderd"
 
-#: nl/backoffice.csv:18 
+#: nl/backoffice.csv:18
 msgid "View Details"
 msgstr "Bekijk details"
 
-#: nl/backoffice.csv:19 
+#: nl/backoffice.csv:19
 msgid "Your new password"
 msgstr "Uw nieuwe wachtwoord"
 
-#: nl/backoffice.csv:20 
+#: nl/backoffice.csv:20
 msgid "Your password"
 msgstr "Uw wachtwoord"
-

@@ -1,162 +1,166 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: de\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: de\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: de/form.csv:1 
+#: de/form.csv:1
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> ist ein Zahlenwert <br />"
 
-#: de/form.csv:2 
+#: de/form.csv:2
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong> muss ein gültiges Datum (z.B. tt/mm/jjjj) < Br / >"
 
-#: de/form.csv:3 
+#: de/form.csv:3
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong> muss ein gültiges Datum sein <br />"
 
-#: de/form.csv:4 
+#: de/form.csv:4
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> muss eine gültige E-Mail-Adresse sein <br />"
 
-#: de/form.csv:5 
+#: de/form.csv:5
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> <br /> müssen ausgefüllt werden"
 
-#: de/form.csv:6 
+#: de/form.csv:6
 msgid "Add a field"
 msgstr "Fügen Sie ein Feld hinzu"
 
-#: de/form.csv:7 
+#: de/form.csv:7
 msgid "Add a section"
 msgstr "Fügen Sie einen Abschnitt hinzu"
 
-#: de/form.csv:8 
+#: de/form.csv:8
 msgid "Add an option"
 msgstr "Hinzufügen einer Option"
 
-#: de/form.csv:9 
+#: de/form.csv:9
 msgid "An error occurred while retrieving the user location"
 msgstr "Beim Abrufen des Benutzer-Standorts ist ein Fehler aufgetreten"
 
-#: de/form.csv:10 
+#: de/form.csv:10
 msgid "An error occurred while retrieving your location"
 msgstr "Beim Abrufen Ihrer Position ist ein Fehler aufgetreten"
 
-#: de/form.csv:11 
+#: de/form.csv:11
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Beim Speichern ist ein Fehler aufgetreten. Ein Feld kann nicht identifiziert werden."
 
-#: de/form.csv:12 
+#: de/form.csv:12
 msgid "An error occurred while sending the form. Please, try again later."
 msgstr "Beim Versenden des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
 
-#: de/form.csv:13 
+#: de/form.csv:13
 msgid "Are you sure you want to remove this field?"
 msgstr "Sind Sie sicher, dass Sie dieses Feld entfernen möchten?"
 
-#: de/form.csv:14 
+#: de/form.csv:14
 msgid "Are you sure you want to remove this section?"
 msgstr "Sind Sie sicher, dass Sie diesen Abschnitt entfernen möchten?"
 
-#: de/form.csv:15 
+#: de/form.csv:15
 msgid "Checkbox"
 msgstr "Checkbox"
 
-#: de/form.csv:16 
+#: de/form.csv:16
 msgid "Choose a field type:"
 msgstr "Wählen Sie einen Feldtyp:"
 
-#: de/form.csv:17 
+#: de/form.csv:17
 msgid "Create a new field"
 msgstr "Erstellen Sie ein neues Feld"
 
-#: de/form.csv:18 
+#: de/form.csv:18
 msgid "Date/Hour"
 msgstr "Datum / Uhrzeit"
 
-#: de/form.csv:19 
+#: de/form.csv:19
 msgid "Drop down"
 msgstr "Drop down"
 
-#: de/form.csv:20 
+#: de/form.csv:20
 msgid "Edit field %s"
 msgstr "Edit-Feld %s"
 
-#: de/form.csv:21 
+#: de/form.csv:21
 msgid "Field name"
 msgstr "Field name"
 
-#: de/form.csv:22 
+#: de/form.csv:22
 msgid "Field name:"
 msgstr "Feldname:"
 
-#: de/form.csv:23 
+#: de/form.csv:23
 msgid "Geolocation"
 msgstr "Geolocation"
 
-#: de/form.csv:24 
+#: de/form.csv:24
 msgid "Hello,"
 msgstr "Hallo"
 
-#: de/form.csv:25 
+#: de/form.csv:25
 msgid "Manage fields"
 msgstr "Felder verwalten"
 
-#: de/form.csv:26 
+#: de/form.csv:26
 msgid "Manage options:"
 msgstr "Optionen verwalten:"
 
-#: de/form.csv:27 
+#: de/form.csv:27
 msgid "Multiline text"
 msgstr "mehrzeiliger Text"
 
-#: de/form.csv:28 
+#: de/form.csv:28
 msgid "Number"
 msgstr "Anzahl"
 
-#: de/form.csv:29 
+#: de/form.csv:29
 msgid "Option"
 msgstr "Option"
 
-#: de/form.csv:30 
+#: de/form.csv:30
 msgid "Radio"
 msgstr "Radio"
 
-#: de/form.csv:31 
+#: de/form.csv:31
 msgid "Recipient email:"
 msgstr "Empfänger E-Mail:"
 
-#: de/form.csv:32 
+#: de/form.csv:32
 msgid "The form has been sent successfully"
 msgstr "Das Formular wurde erfolgreich gesendet"
 
-#: de/form.csv:33 
+#: de/form.csv:33
 msgid "This field is required"
 msgstr "Dieses Feld ist erforderlich"
 
-#: de/form.csv:34 
+#: de/form.csv:34
 msgid "We thank you for having filled out our form."
 msgstr "Wir danken Ihnen, dass Sie unser Formular ausgefüllt haben."
 
-#: de/form.csv:35 
+#: de/form.csv:35
 msgid "You have refused to share your location"
 msgstr "Sie haben sich geweigert, Ihren Standort zu teilen"
 
-#: de/form.csv:36 
+#: de/form.csv:36
 msgid "You have to choose a field type."
 msgstr "Sie müssen einen Feldtyp wählen."
 
-#: de/form.csv:37 
+#: de/form.csv:37
 msgid "Your app's form"
 msgstr "Ihre App Form"
 
-#: de/form.csv:38 
+#: de/form.csv:38
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Ihr Formular ausgefüllt hat, hier sind die Antworten:"
-

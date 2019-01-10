@@ -1,38 +1,42 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ca\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/tax.csv:1 
+#: ca/tax.csv:1
 msgid "List of your taxes"
 msgstr "Llista dels seus impostos"
 
-#: ca/tax.csv:2 
+#: ca/tax.csv:2
 msgid "Please select a country"
 msgstr "Si us plau seleccioni un país"
 
-#: ca/tax.csv:3 
+#: ca/tax.csv:3
 msgid "Please, enter a tax rate."
 msgstr "Si us plau, introduïu un tipus impositiu."
 
-#: ca/tax.csv:4 
+#: ca/tax.csv:4
 msgid "Please, enter a valid tax rate."
 msgstr "Si us plau, introduïu un tipus impositiu vigent."
 
-#: ca/tax.csv:5 
+#: ca/tax.csv:5
 msgid "Rate"
 msgstr "Taxa"
 
-#: ca/tax.csv:6 
+#: ca/tax.csv:6
 msgid "Remove"
 msgstr "Treure"
 
-#: ca/tax.csv:7 
+#: ca/tax.csv:7
 msgid "You don't have created any taxes yet"
 msgstr "No heu creat cap impostos encara"
-

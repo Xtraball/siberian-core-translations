@@ -1,326 +1,330 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: pt_BR\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: pt_BR/media.csv:1 
+#: pt_BR/media.csv:1
 msgid "+ Add a track"
 msgstr "+ Add uma faixa"
 
-#: pt_BR/media.csv:2 
+#: pt_BR/media.csv:2
 msgid "Add albums and tracks to the playlist:"
 msgstr "Adicionar álbuns e faixas para a lista de reprodução:"
 
-#: pt_BR/media.csv:3 
+#: pt_BR/media.csv:3
 msgid "Are you sure you don't want to create an album for these tracks?"
 msgstr "Tem certeza de que não quer criar um álbum para essas faixas?"
 
-#: pt_BR/media.csv:4 
+#: pt_BR/media.csv:4
 msgid "Are you sure you don't want to create an album for this track?"
 msgstr "Tem certeza de que não quer criar um álbum para esta faixa?"
 
-#: pt_BR/media.csv:5 
+#: pt_BR/media.csv:5
 msgid "Are you sure you want to delete this album (this won't delete tracks)?"
 msgstr "Tem certeza de que deseja excluir este álbum (isso não irá excluir as faixas)?"
 
-#: pt_BR/media.csv:6 
+#: pt_BR/media.csv:6
 msgid "Are you sure you want to delete this album?"
 msgstr "Tem certeza de que deseja excluir este álbum?"
 
-#: pt_BR/media.csv:7 
+#: pt_BR/media.csv:7
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Tem certeza de que deseja excluir esta playlist?"
 
-#: pt_BR/media.csv:8 
+#: pt_BR/media.csv:8
 msgid "Are you sure you want to delete this track?"
 msgstr "Tem certeza de que deseja excluir esta faixa?"
 
-#: pt_BR/media.csv:9 
+#: pt_BR/media.csv:9
 msgid "Artist:"
 msgstr "Artista:"
 
-#: pt_BR/media.csv:10 
+#: pt_BR/media.csv:10
 msgid "Artist"
 msgstr "Artista:"
 
-#: pt_BR/media.csv:11 
+#: pt_BR/media.csv:11
 msgid "Album"
 msgstr "Álbum"
 
-#: pt_BR/media.csv:12 
+#: pt_BR/media.csv:12
 msgid "Albums"
 msgstr "Álbuns"
 
-#: pt_BR/media.csv:13 
+#: pt_BR/media.csv:13
 msgid "Albums:"
 msgstr "Álbuns:"
 
-#: pt_BR/media.csv:14 
+#: pt_BR/media.csv:14
 msgid "An error occurred while deleting your album. Thanks for trying later."
 msgstr "Ocorreu um erro durante a exclusão de seu álbum. Obrigado. Tente mais tarde."
 
-#: pt_BR/media.csv:15 
+#: pt_BR/media.csv:15
 msgid "An error occurred while deleting your playlist. Thanks for trying later."
 msgstr "Ocorreu um erro ao excluir sua playlist. Obrigado. Tente mais tarde."
 
-#: pt_BR/media.csv:16 
+#: pt_BR/media.csv:16
 msgid "An error occurred while deleting your track. Thanks for trying later."
 msgstr "Ocorreu um erro durante a exclusão de sua faixa. Obrigado. Tente mais tarde."
 
-#: pt_BR/media.csv:17 
+#: pt_BR/media.csv:17
 msgid "An error occurred while saving your playlist. Thanks for trying later."
 msgstr "Ocorreu um erro ao salvar a sua playlist. Obrigado. Tente mais tarde."
 
-#: pt_BR/media.csv:18 
+#: pt_BR/media.csv:18
 msgid "An error occurred while deleting you images gallery. Please try again later."
 msgstr "Ocorreu um erro ao excluir a galeria de imagens. Por favor, tente novamente mais tarde."
 
-#: pt_BR/media.csv:19 
+#: pt_BR/media.csv:19
 msgid "An error occurred while loading pictures. Please try later."
 msgstr "Ocorreu um erro ao carregar imagens. Por favor, tente mais tarde."
 
-#: pt_BR/media.csv:20 
+#: pt_BR/media.csv:20
 msgid "An error occurred while loading videos. Please try later."
 msgstr "Ocorreu um erro ao carregar vídeos. Por favor, tente mais tarde."
 
-#: pt_BR/media.csv:21 
+#: pt_BR/media.csv:21
 msgid "An error occurred while saving your images gallery. Please try again later."
 msgstr "Ocorreu um erro ao salvar a sua galeria de imagens. Por favor, tente novamente mais tarde."
 
-#: pt_BR/media.csv:22 
+#: pt_BR/media.csv:22
 msgid "An error occurred while saving your videos gallery. Please try again later."
 msgstr "Ocorreu um erro ao salvar a sua galeria de vídeos. Por favor, tente novamente mais tarde."
 
-#: pt_BR/media.csv:23 
+#: pt_BR/media.csv:23
 msgid "Audio"
 msgstr "Aúdio"
 
-#: pt_BR/media.csv:24 
+#: pt_BR/media.csv:24
 msgid "buy"
 msgstr "comprar"
 
-#: pt_BR/media.csv:25 
+#: pt_BR/media.csv:25
 msgid "Channel"
 msgstr "Canal"
 
-#: pt_BR/media.csv:26 
+#: pt_BR/media.csv:26
 msgid "Choose an album"
 msgstr "Alterar um álbum"
 
-#: pt_BR/media.csv:27 
+#: pt_BR/media.csv:27
 msgid "close"
 msgstr "fechar"
 
-#: pt_BR/media.csv:28 
+#: pt_BR/media.csv:28
 msgid "Custom"
 msgstr "Custom"
 
-#: pt_BR/media.csv:29 
+#: pt_BR/media.csv:29
 msgid "Delete this gallery?"
 msgstr "Deletar a galeria?"
 
-#: pt_BR/media.csv:30 
+#: pt_BR/media.csv:30
 msgid "empty"
 msgstr "vazio"
 
-#: pt_BR/media.csv:31 
+#: pt_BR/media.csv:31
 msgid "Feed URL"
 msgstr "Feed URL"
 
-#: pt_BR/media.csv:32 
-msgid "Feed URL <span class="required-entry">*</span> :"
-msgstr "Feed URL <span class="required-entry">*</span> :"
+#: pt_BR/media.csv:32
+msgid "Feed URL <span class=\"required-entry\">*</span> :"
+msgstr "Feed URL <span class=\"required-entry\">*</span> :"
 
-#: pt_BR/media.csv:33 
+#: pt_BR/media.csv:33
 msgid "from"
 msgstr "a partir de"
 
-#: pt_BR/media.csv:34 
+#: pt_BR/media.csv:34
 msgid "Gallery Name"
 msgstr "Nome da Galeria"
 
-#: pt_BR/media.csv:35 
-msgid "Gallery Name <span class="required-entry">*</span> :"
-msgstr "Nome da Galeria <span class="required-entry">*</span> :"
+#: pt_BR/media.csv:35
+msgid "Gallery Name <span class=\"required-entry\">*</span> :"
+msgstr "Nome da Galeria <span class=\"required-entry\">*</span> :"
 
-#: pt_BR/media.csv:36 
+#: pt_BR/media.csv:36
 msgid "Group"
 msgstr "Grupo"
 
-#: pt_BR/media.csv:37 
+#: pt_BR/media.csv:37
 msgid "hide"
 msgstr "ocultar"
 
-#: pt_BR/media.csv:38 
+#: pt_BR/media.csv:38
 msgid "I'm listening to"
 msgstr "Estou ouvindo"
 
-#: pt_BR/media.csv:39 
+#: pt_BR/media.csv:39
 msgid "Images gallery has been saved successfully"
 msgstr "Galeria de Imagens foi salva com sucesso"
 
-#: pt_BR/media.csv:40 
+#: pt_BR/media.csv:40
 msgid "Instagram"
 msgstr "Instagram"
 
-#: pt_BR/media.csv:41 
+#: pt_BR/media.csv:41
 msgid "Last update:"
 msgstr "Última atualização:"
 
-#: pt_BR/media.csv:42 
+#: pt_BR/media.csv:42
 msgid "loop"
 msgstr "loop"
 
-#: pt_BR/media.csv:43 
+#: pt_BR/media.csv:43
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgstr "Tamanho máximo : 2000*2000 px - Tipos de arquivo permitidos : jpg and png"
 
-#: pt_BR/media.csv:44 
+#: pt_BR/media.csv:44
 msgid "music"
 msgstr "música"
 
-#: pt_BR/media.csv:45 
+#: pt_BR/media.csv:45
 msgid "My pictures"
 msgstr "Minhas imagens"
 
-#: pt_BR/media.csv:46 
+#: pt_BR/media.csv:46
 msgid "next"
 msgstr "próximo"
 
-#: pt_BR/media.csv:47 
+#: pt_BR/media.csv:47
 msgid "No album found"
 msgstr "Nenhum álbum encontrado"
 
-#: pt_BR/media.csv:48 
+#: pt_BR/media.csv:48
 msgid "No artist found"
 msgstr "Nenhum artista encontrado"
 
-#: pt_BR/media.csv:49 
+#: pt_BR/media.csv:49
 msgid "No track found"
 msgstr "Nenhuma faixa encontrada"
 
-#: pt_BR/media.csv:50 
+#: pt_BR/media.csv:50
 msgid "on"
 msgstr "em"
 
-#: pt_BR/media.csv:51 
+#: pt_BR/media.csv:51
 msgid "Parameter"
 msgstr "Parâmetro"
 
-#: pt_BR/media.csv:52 
+#: pt_BR/media.csv:52
 msgid "Parameter/Feed Url"
 msgstr "Parâmetro/Feed Url"
 
-#: pt_BR/media.csv:53 
+#: pt_BR/media.csv:53
 msgid "pause"
 msgstr "pause"
 
-#: pt_BR/media.csv:54 
+#: pt_BR/media.csv:54
 msgid "Picasa"
 msgstr "Picasa"
 
-#: pt_BR/media.csv:55 
+#: pt_BR/media.csv:55
 msgid "Picture%s"
 msgstr "Imagem%s"
 
-#: pt_BR/media.csv:56 
+#: pt_BR/media.csv:56
 msgid "play"
 msgstr "play"
 
-#: pt_BR/media.csv:57 
+#: pt_BR/media.csv:57
 msgid "PLAYER"
 msgstr "PLAYER"
 
-#: pt_BR/media.csv:58 
+#: pt_BR/media.csv:58
 msgid "Playlist"
 msgstr "Playlist"
 
-#: pt_BR/media.csv:59 
+#: pt_BR/media.csv:59
 msgid "Playlist title:"
 msgstr "Título Playlist:"
 
-#: pt_BR/media.csv:60 
+#: pt_BR/media.csv:60
 msgid "Playlists"
 msgstr "Playlists"
 
-#: pt_BR/media.csv:61 
+#: pt_BR/media.csv:61
 msgid "Playlist successfully saved."
 msgstr "Playlist salvo com sucesso."
 
-#: pt_BR/media.csv:62 
+#: pt_BR/media.csv:62
 msgid "Podcast"
 msgstr "Podcast"
 
-#: pt_BR/media.csv:63 
+#: pt_BR/media.csv:63
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (iTunes formato)"
 
-#: pt_BR/media.csv:64 
+#: pt_BR/media.csv:64
 msgid "previous"
 msgstr "anterior"
 
-#: pt_BR/media.csv:65 
+#: pt_BR/media.csv:65
 msgid "Read all"
 msgstr "Leia tudo"
 
-#: pt_BR/media.csv:66 
+#: pt_BR/media.csv:66
 msgid "Required field"
 msgstr "Campo obrigatório"
 
-#: pt_BR/media.csv:67 
+#: pt_BR/media.csv:67
 msgid "Search/Url"
 msgstr "Pesquisa/Url"
 
-#: pt_BR/media.csv:68 
+#: pt_BR/media.csv:68
 msgid "share"
 msgstr "compartilhe"
 
-#: pt_BR/media.csv:69 
+#: pt_BR/media.csv:69
 msgid "shuffle"
 msgstr "aleatório"
 
-#: pt_BR/media.csv:70 
+#: pt_BR/media.csv:70
 msgid "The entered name is not a valid Instagram user."
 msgstr "O nome informado não é um usuário válido do Instagram."
 
-#: pt_BR/media.csv:71 
+#: pt_BR/media.csv:71
 msgid "This element is not an album."
 msgstr "Este elemento não é um álbum."
 
-#: pt_BR/media.csv:72 
+#: pt_BR/media.csv:72
 msgid "track"
 msgstr "faixa"
 
-#: pt_BR/media.csv:73 
+#: pt_BR/media.csv:73
 msgid "tracks"
 msgstr "faixas"
 
-#: pt_BR/media.csv:74 
+#: pt_BR/media.csv:74
 msgid "Track"
 msgstr "Faixa"
 
-#: pt_BR/media.csv:75 
+#: pt_BR/media.csv:75
 msgid "Tracks"
 msgstr "Faixas"
 
-#: pt_BR/media.csv:76 
+#: pt_BR/media.csv:76
 msgid "Type"
 msgstr "Tipo"
 
-#: pt_BR/media.csv:77 
+#: pt_BR/media.csv:77
 msgid "URL (.mp3):"
 msgstr "URL (.mp3):"
 
-#: pt_BR/media.csv:78 
+#: pt_BR/media.csv:78
 msgid "Videos gallery has been saved successfully"
 msgstr "Galeria de Vídeos foi salva com sucesso"
 
-#: pt_BR/media.csv:79 
+#: pt_BR/media.csv:79
 msgid "Vimeo"
 msgstr "Vimeo"
-

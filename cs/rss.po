@@ -1,58 +1,62 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/rss.csv:1 
+#: cs/rss.csv:1
 msgid "%s ago"
 msgstr "%s před"
 
-#: cs/rss.csv:2 
+#: cs/rss.csv:2
 msgid "An error occurred while saving your RSS feed"
 msgstr "Při ukládání RSS zdroje došlo k chybě"
 
-#: cs/rss.csv:3 
+#: cs/rss.csv:3
 msgid "Display feed pictures whenever possible"
 msgstr "Zobrazit obrázky, když jsou k dispozici"
 
-#: cs/rss.csv:4 
+#: cs/rss.csv:4
 msgid "Enter the URL of this RSS feed"
 msgstr "Zadejte URL adresu tohoto RSS kanálu"
 
-#: cs/rss.csv:5 
+#: cs/rss.csv:5
 msgid "Found feeds"
 msgstr "Nalezené zdroje"
 
-#: cs/rss.csv:6 
+#: cs/rss.csv:6
 msgid "No RSS feed could be found"
 msgstr "Žádný RSS zdroj nenalezen"
 
-#: cs/rss.csv:7 
+#: cs/rss.csv:7
 msgid "RSS feed successfully saved"
 msgstr "RSS zdroj úspěšně uložen"
 
-#: cs/rss.csv:8 
+#: cs/rss.csv:8
 msgid "Show article"
 msgstr "Zobrazit článek"
 
-#: cs/rss.csv:9 
+#: cs/rss.csv:9
 msgid "day"
 msgstr "den"
 
-#: cs/rss.csv:10 
+#: cs/rss.csv:10
 msgid "hour"
 msgstr "hodina"
 
-#: cs/rss.csv:11 
+#: cs/rss.csv:11
 msgid "minute"
 msgstr "minuta"
 
-#: cs/rss.csv:12 
+#: cs/rss.csv:12
 msgid "﻿%s ago"
 msgstr "%s před"
-

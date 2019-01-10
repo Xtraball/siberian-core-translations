@@ -1,870 +1,874 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/application.csv:1 
+#: el/application.csv:1
 msgid "1. Download the app previewer:"
 msgstr "1. Κατεβάστε την εφαρμογή προεπισκόπησης:"
 
-#: el/application.csv:2 
+#: el/application.csv:2
 msgid "2. Open the app and login"
 msgstr "2. Ανοίξτε την εφαρμογή και συνδεθείτε"
 
-#: el/application.csv:3 
+#: el/application.csv:3
 msgid "<b>File type:</b> %s"
 msgstr "<b>Τύπος αρχείου:</b>%s"
 
-#: el/application.csv:4 
-msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
-msgstr "<span>Κάντε κλικ στο<span /> <button class="add" type="button"><i class="icon-plus"></ i></button> <span>για να προσθέσετε ένα στοιχείο.</ span>"
+#: el/application.csv:4
+msgid "<span>Click on</span><button class=\"add\" type=\"button\"><i class=\"icon-plus\"></i></button> <span>to add an item.</span>"
+msgstr "<span>Κάντε κλικ στο<span /> <button class=\"add\" type=\"button\"><i class=\"icon-plus\"></ i></button> <span>για να προσθέσετε ένα στοιχείο.</ span>"
 
-#: el/application.csv:5 
+#: el/application.csv:5
 msgid "Activated"
 msgstr "Ενεργοποιήθηκε"
 
-#: el/application.csv:6 
+#: el/application.csv:6
 msgid "Add a new icon"
 msgstr "Προσθέστε ένα νέο εικονίδιο"
 
-#: el/application.csv:7 
+#: el/application.csv:7
 msgid "Add pages"
 msgstr "Προσθέστε σελίδες"
 
-#: el/application.csv:8 
+#: el/application.csv:8
 msgid "Additional options"
 msgstr "Πρόσθετες επιλογές"
 
-#: el/application.csv:9 
+#: el/application.csv:9
 msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αντιγραφή εικονιδίου της εφαρμογής σας. Παρακαλούμε ελέγξτε το εικονίδιο και προσπαθήστε να το στείλετε ξανά."
 
-#: el/application.csv:10 
+#: el/application.csv:10
 msgid "An error occurred during the generation of your QRCode. Please try again later."
 msgstr "Παρουσιάστηκε σφάλμα κατά την δημιουργία του QR Code σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/application.csv:11 
+#: el/application.csv:11
 msgid "An error occurred while adding the option"
 msgstr "Παρουσιάστηκε σφάλμα κατά την προσθήκη της επιλογής"
 
-#: el/application.csv:12 
+#: el/application.csv:12
 msgid "An error occurred while changing your layout."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αλλαγή της διάταξής σας."
 
-#: el/application.csv:13 
+#: el/application.csv:13
 msgid "An error occurred while deleting the option"
 msgstr "Παρουσιάστηκε σφάλμα κατά τη διαγραφή της επιλογής"
 
-#: el/application.csv:14 
+#: el/application.csv:14
 msgid "An error occurred while deleting your picture"
 msgstr "Παρουσιάστηκε σφάλμα κατά τη διαγραφή της εικόνας σας"
 
-#: el/application.csv:15 
+#: el/application.csv:15
 msgid "An error occurred while editing file (%s)."
 msgstr "Παρουσιάστηκε σφάλμα κατά την επεξεργασία του αρχείου (%s)."
 
-#: el/application.csv:16 
+#: el/application.csv:16
 msgid "An error occurred while loading"
 msgstr "Παρουσιάστηκε σφάλμα κατά τη φόρτωση"
 
-#: el/application.csv:17 
+#: el/application.csv:17
 msgid "An error occurred while saving the application. Please try again later."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αποθήκευση της εφαρμογής. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/application.csv:18 
+#: el/application.csv:18
 msgid "An error occurred while saving your colors."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αποθήκευση των χρωμάτων σας."
 
-#: el/application.csv:19 
+#: el/application.csv:19
 msgid "An error occurred while saving your page name."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αποθήκευση όνοματος της σελίδας σας."
 
-#: el/application.csv:20 
+#: el/application.csv:20
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αποθήκευση. Η επιλεγμένη εικόνα δεν είναι έγκυρη."
 
-#: el/application.csv:21 
+#: el/application.csv:21
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "Παρουσιάστηκε σφάλμα κατά τη ταξινόμηση των σελίδων σας. Παρακαλώ δοκιμάστε ξανά αργότερα."
 
-#: el/application.csv:22 
+#: el/application.csv:22
 msgid "Analytics"
 msgstr "Στατιστικά"
 
-#: el/application.csv:23 
+#: el/application.csv:23
 msgid "Android APK Generation"
 msgstr "Δημιουργία Android APK"
 
-#: el/application.csv:24 
+#: el/application.csv:24
 msgid "Android Version"
 msgstr "Έκδοση Android"
 
-#: el/application.csv:25 
+#: el/application.csv:25
 msgid "App Store Icon"
 msgstr "Εικονίδιο App Store"
 
-#: el/application.csv:26 
+#: el/application.csv:26
 msgid "Apple's Information"
 msgstr "Πληροφορίες Apple"
 
-#: el/application.csv:27 
+#: el/application.csv:27
 msgid "Application name"
 msgstr "Όνομα εφαρμογής"
 
-#: el/application.csv:28 
+#: el/application.csv:28
 msgid "Are you sure you want to remove this application?"
 msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτή την εφαρμογή?"
 
-#: el/application.csv:29 
+#: el/application.csv:29
 msgid "At least 200 characters in the description"
 msgstr "Τουλάχιστον 200 χαρακτήρες στην περιγραφή"
 
-#: el/application.csv:30 
+#: el/application.csv:30
 msgid "At least, 4 pages in the application"
 msgstr "Τουλάχιστον, 4 σελίδες στην εφαρμογή"
 
-#: el/application.csv:31 
+#: el/application.csv:31
 msgid "Audio"
 msgstr "Ήχος"
 
-#: el/application.csv:32 
+#: el/application.csv:32
 msgid "Average by customer"
 msgstr "Μέσος όρος άνα πελάτη"
 
-#: el/application.csv:33 
+#: el/application.csv:33
 msgid "Book"
 msgstr "Βιβλίο"
 
-#: el/application.csv:34 
+#: el/application.csv:34
 msgid "Bundle Id"
 msgstr "Bundle ID"
 
-#: el/application.csv:35 
+#: el/application.csv:35
 msgid "Business"
 msgstr "Επιχείρηση"
 
-#: el/application.csv:36 
+#: el/application.csv:36
 msgid "Buy one, get one!"
 msgstr "Αγοράστε ένα, πάρτε ένα!"
 
-#: el/application.csv:37 
+#: el/application.csv:37
 msgid "Catalogs"
 msgstr "Κατάλογοι"
 
-#: el/application.csv:38 
+#: el/application.csv:38
 msgid "Certificate"
 msgstr "Πιστοποιητικό"
 
-#: el/application.csv:39 
+#: el/application.csv:39
 msgid "Change your"
 msgstr "Αλλαγή"
 
-#: el/application.csv:40 
+#: el/application.csv:40
 msgid "Change your template"
 msgstr "Αλλαγή προτύπου"
 
-#: el/application.csv:41 
+#: el/application.csv:41
 msgid "Change your<br /><span>picture</span>"
 msgstr "Αλλαγή της<br /><span>φωτογραφίας</ span>"
 
-#: el/application.csv:42 
+#: el/application.csv:42
 msgid "Checking CNAME configuration:"
 msgstr "Έλεγχος ρυθμίσεων CNAME:"
 
-#: el/application.csv:43 
-msgid "Choose a <br /><span class="bold">picture</span>"
-msgstr "Επιλέξτε μία<br /><span class="bold">φωτογραφία</span>"
+#: el/application.csv:43
+msgid "Choose a <br /><span class=\"bold\">picture</span>"
+msgstr "Επιλέξτε μία<br /><span class=\"bold\">φωτογραφία</span>"
 
-#: el/application.csv:44 
+#: el/application.csv:44
 msgid "Choose a country"
 msgstr "Επιλέξτε χώρα"
 
-#: el/application.csv:45 
+#: el/application.csv:45
 msgid "Choose a font family"
 msgstr "Επιλέξτε γραμματοσειρά"
 
-#: el/application.csv:46 
+#: el/application.csv:46
 msgid "Choose a template to customize"
 msgstr "Επιλέξτε ένα πρότυπο ώστε να το τροποποιήσετε"
 
-#: el/application.csv:47 
+#: el/application.csv:47
 msgid "Choose your colors"
 msgstr "Επιλέξτε τα χρώματα σας"
 
-#: el/application.csv:48 
+#: el/application.csv:48
 msgid "Choose your country"
 msgstr "Επιλέξτε την χώρα σας"
 
-#: el/application.csv:49 
+#: el/application.csv:49
 msgid "Choose your design"
 msgstr "Επιλέξτε την εμφάνισή σας"
 
-#: el/application.csv:50 
+#: el/application.csv:50
 msgid "Choose your font style"
 msgstr "Επιλέξτε το στυλ της γραμματοσειράς σας"
 
-#: el/application.csv:51 
+#: el/application.csv:51
 msgid "Choose your homepage image"
 msgstr "Επιλέξτε την εικόνα της αρχικής σας σελίδας"
 
-#: el/application.csv:52 
+#: el/application.csv:52
 msgid "Choose your icons color"
 msgstr "Επιλέξτε τα χρώματα των εικονιδίων σας"
 
-#: el/application.csv:53 
+#: el/application.csv:53
 msgid "Choose your layout"
 msgstr "Επιλέξτε την διάταξη σας"
 
-#: el/application.csv:54 
+#: el/application.csv:54
 msgid "Choose your template"
 msgstr "Επιλέξτε το πρότυπό σας"
 
-#: el/application.csv:55 
+#: el/application.csv:55
 msgid "Click here to download the source code:"
 msgstr "Κάντε κλικ εδώ για να κατεβάσετε τον source κώδικα:"
 
-#: el/application.csv:56 
+#: el/application.csv:56
 msgid "Click here to send your certificate"
 msgstr "Κάντε κλικ εδώ για να αποστείλετε το πιστοποιητικό σας"
 
-#: el/application.csv:57 
+#: el/application.csv:57
 msgid "Colors"
 msgstr "Χρώματα"
 
-#: el/application.csv:58 
+#: el/application.csv:58
 msgid "Dashboard icon"
 msgstr "Εικονίδιο Dashboard"
 
-#: el/application.csv:59 
+#: el/application.csv:59
 msgid "Deactivated"
 msgstr "Απενεργοποιημένο"
 
-#: el/application.csv:60 
+#: el/application.csv:60
 msgid "Delete this page?"
 msgstr "Διαγραφή αυτής της σελίδας?"
 
-#: el/application.csv:61 
+#: el/application.csv:61
 msgid "Design"
 msgstr "Εμφάνιση"
 
-#: el/application.csv:62 
+#: el/application.csv:62
 msgid "Developer Accounts"
 msgstr "Λογαριασμοί Προγραμματιστών"
 
-#: el/application.csv:63 
+#: el/application.csv:63
 msgid "Device Information"
 msgstr "Πληροφορίες Συσκευής"
 
-#: el/application.csv:64 
+#: el/application.csv:64
 msgid "Discount zone description. Here your clients will be able to see the details of each discount"
 msgstr "Περιγραφή Έκπτωτικής ζώνης. Εδώ οι πελάτες σας θα είναι σε θέση να δούν τις λεπτομέρειες της κάθε έκπτωσης"
 
-#: el/application.csv:65 
+#: el/application.csv:65
 msgid "Domain"
 msgstr "Domain"
 
-#: el/application.csv:66 
+#: el/application.csv:66
 msgid "Domain name"
 msgstr "Όνομα domain"
 
-#: el/application.csv:67 
+#: el/application.csv:67
 msgid "Download"
 msgstr "Λήψη"
 
-#: el/application.csv:68 
+#: el/application.csv:68
 msgid "Download our app previewer"
 msgstr "Κατεβάστε την εφαρμογή προεπισκόπησης μας"
 
-#: el/application.csv:69 
+#: el/application.csv:69
 msgid "Drop your certificate here"
 msgstr "Σύρετε το πιστοποιητικό εδώ"
 
-#: el/application.csv:70 
+#: el/application.csv:70
 msgid "Edit my"
 msgstr "Επεξεργασία"
 
-#: el/application.csv:71 
-msgid "Edit the application "%s""
-msgstr "Επεξεργασία εφαρμογής "%s""
+#: el/application.csv:71
+msgid "Edit the application \"%s\""
+msgstr "Επεξεργασία εφαρμογής \"%s\""
 
-#: el/application.csv:72 
-msgid "Edit the application "%s”"
-msgstr "Επεξεργασία εφαρμογής "%s""
+#: el/application.csv:72
+msgid "Edit the application \"%s”"
+msgstr "Επεξεργασία εφαρμογής \"%s\""
 
-#: el/application.csv:73 
+#: el/application.csv:73
 msgid "Editor"
 msgstr "Συντάκτης"
 
-#: el/application.csv:74 
+#: el/application.csv:74
 msgid "Education"
 msgstr "Εκπαίδευση"
 
-#: el/application.csv:75 
+#: el/application.csv:75
 msgid "Entertainment"
 msgstr "Ψυχαγωγία"
 
-#: el/application.csv:76 
+#: el/application.csv:76
 msgid "Extension not allowed, '%s' only"
 msgstr "Δεν επιτρέπεται η επέκταση, μόνο '%s'"
 
-#: el/application.csv:77 
+#: el/application.csv:77
 msgid "Features"
 msgstr "Χαρακτηριστικά"
 
-#: el/application.csv:78 
+#: el/application.csv:78
 msgid "Finance"
 msgstr "Οικονομικά"
 
-#: el/application.csv:79 
+#: el/application.csv:79
 msgid "Food & Drink"
 msgstr "Φαγητό & Ποτό"
 
-#: el/application.csv:80 
+#: el/application.csv:80
 msgid "Fred W."
 msgstr ".GSP."
 
-#: el/application.csv:81 
+#: el/application.csv:81
 msgid "Games"
 msgstr "Παιχνίδια"
 
-#: el/application.csv:82 
+#: el/application.csv:82
 msgid "General Information"
 msgstr "Γενικές Πληροφορίες"
 
-#: el/application.csv:83 
+#: el/application.csv:83
 msgid "General information"
 msgstr "Γενικές Πληροφορίες"
 
-#: el/application.csv:84 
+#: el/application.csv:84
 msgid "Global visits"
 msgstr "Παγκόσμιες επισκέψεις"
 
-#: el/application.csv:85 
+#: el/application.csv:85
 msgid "Google Play Icon"
 msgstr "Εικονίδιο Google Play"
 
-#: el/application.csv:86 
+#: el/application.csv:86
 msgid "Google's Information"
 msgstr "Πληροφορίες Google"
 
-#: el/application.csv:87 
+#: el/application.csv:87
 msgid "Health & Fitness"
 msgstr "Υγεία & Φόρμα"
 
-#: el/application.csv:88 
+#: el/application.csv:88
 msgid "Here is our latest creation. What do you think?"
 msgstr "Εδώ είναι η τελευταία δημιουργία μας. Πώς σας φαίνεται?"
 
-#: el/application.csv:89 
+#: el/application.csv:89
 msgid "Homepage preview"
 msgstr "Προεπισκόπηση Αρχικής σελίδας"
 
-#: el/application.csv:90 
+#: el/application.csv:90
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "Δεν έχω λογαριασμό Google προγραμματιστή και θέλω να δημιουργήσω έναν"
 
-#: el/application.csv:91 
+#: el/application.csv:91
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "Δεν έχω λογαριασμό Apple  προγραμματιστή και θέλω να δημιουργήσω έναν"
 
-#: el/application.csv:92 
+#: el/application.csv:92
 msgid "I have an Apple developer account"
 msgstr "Έχω λογαριασμό Apple προγραμματιστή"
 
-#: el/application.csv:93 
+#: el/application.csv:93
 msgid "I have an Google developer account"
 msgstr "Έχω λογαριασμό Google προγραμματιστή"
 
-#: el/application.csv:94 
+#: el/application.csv:94
 msgid "I let you publish my application under your Apple developer account"
 msgstr "Σας αφήνω να δημοσιεύσετε την εφαρμογή μου στον λογαριασμό προγραμματιστή σας στο App Store"
 
-#: el/application.csv:95 
+#: el/application.csv:95
 msgid "I let you publish my application under your Google developer account"
 msgstr "Σας αφήνω να δημοσιεύσετε την εφαρμογή μου στον λογαριασμό προγραμματιστή σας στο Google Play"
 
-#: el/application.csv:96 
+#: el/application.csv:96
 msgid "Icons"
 msgstr "Εικονίδια"
 
-#: el/application.csv:97 
+#: el/application.csv:97
 msgid "Id"
 msgstr "ID"
 
-#: el/application.csv:98 
+#: el/application.csv:98
 msgid "If you validate, your app's colors and background image will be replaced"
 msgstr "Αν επικυρώσετε, τα χρώματα και το φόντο της εφαρμογής θα αντικατασταθούν"
 
-#: el/application.csv:99 
+#: el/application.csv:99
 msgid "Installed application"
 msgstr "Εγκατεστημένη εφαρμογή"
 
-#: el/application.csv:100 
+#: el/application.csv:100
 msgid "Key Password"
 msgstr "Κωδικός Κλειδιού"
 
-#: el/application.csv:101 
+#: el/application.csv:101
 msgid "Keywords"
 msgstr "Λέξεις-κλειδιά"
 
-#: el/application.csv:102 
+#: el/application.csv:102
 msgid "Last name:"
 msgstr "Επώνυμο:"
 
-#: el/application.csv:103 
+#: el/application.csv:103
 msgid "Library icons"
 msgstr "Εικονίδια βιβλιοθήκης"
 
-#: el/application.csv:104 
+#: el/application.csv:104
 msgid "Lifestyle"
 msgstr "Lifestyle"
 
-#: el/application.csv:105 
+#: el/application.csv:105
 msgid "List of my applications"
 msgstr "Λίστα των εφαρμογών μου"
 
-#: el/application.csv:106 
+#: el/application.csv:106
 msgid "List of your applications"
 msgstr "Λίστα των εφαρμογών σας"
 
-#: el/application.csv:107 
+#: el/application.csv:107
 msgid "Loading"
 msgstr "Φόρτωση"
 
-#: el/application.csv:108 
+#: el/application.csv:108
 msgid "Lock the entire application"
 msgstr "Κλειδώστε το ολόκληρη την εφαρμογή"
 
-#: el/application.csv:109 
+#: el/application.csv:109
 msgid "Love it <3"
 msgstr "Μου αρέσει πολύ <3"
 
-#: el/application.csv:110 
+#: el/application.csv:110
 msgid "Main"
 msgstr "Κύριο"
 
-#: el/application.csv:111 
+#: el/application.csv:111
 msgid "Manage icons"
 msgstr "Διαχειριση εικονιδίων"
 
-#: el/application.csv:112 
+#: el/application.csv:112
 msgid "Media"
 msgstr "Πολυμέσα"
 
-#: el/application.csv:113 
+#: el/application.csv:113
 msgid "Medical"
 msgstr "Ιατρικό"
 
-#: el/application.csv:114 
+#: el/application.csv:114
 msgid "Missing Information"
 msgstr "Πληροφορίες που λείπουν"
 
-#: el/application.csv:115 
+#: el/application.csv:115
 msgid "Mobile Source Codes"
 msgstr "Source Κώδικας για κινητά"
 
-#: el/application.csv:116 
+#: el/application.csv:116
 msgid "Mobile source codes"
 msgstr "Source Κώδικας για κινητά"
 
-#: el/application.csv:117 
+#: el/application.csv:117
 msgid "Mobile website information"
 msgstr "Πληροφορίες mobile ιστοσελίδας"
 
-#: el/application.csv:118 
+#: el/application.csv:118
 msgid "My QRCode"
 msgstr "O QR Code μου"
 
-#: el/application.csv:119 
+#: el/application.csv:119
 msgid "My application in figures"
 msgstr "Η εφαρμογή μου σε αριθμούς"
 
-#: el/application.csv:120 
+#: el/application.csv:120
 msgid "Navigation"
 msgstr "Πλοήγηση"
 
-#: el/application.csv:121 
+#: el/application.csv:121
 msgid "News"
 msgstr "Νέα"
 
-#: el/application.csv:122 
+#: el/application.csv:122
 msgid "One free coffee"
 msgstr "Ένας δωρεάν καφές"
 
-#: el/application.csv:123 
-msgid "Or go on your store<br />and look for "Apps Company Previewer""
-msgstr "Ή πηγαίνετε στο κατάστημά σας<br /> και ψάξτε για "Apps Company Previewer""
+#: el/application.csv:123
+msgid "Or go on your store<br />and look for \"Apps Company Previewer\""
+msgstr "Ή πηγαίνετε στο κατάστημά σας<br /> και ψάξτε για \"Apps Company Previewer\""
 
-#: el/application.csv:124 
+#: el/application.csv:124
 msgid "Page name:"
 msgstr "Όνομα σελίδας:"
 
-#: el/application.csv:125 
+#: el/application.csv:125
 msgid "Percentage of returning customers"
 msgstr "Ποσοστό πελατών που επιστρέφουν"
 
-#: el/application.csv:126 
+#: el/application.csv:126
 msgid "Photo & Video"
 msgstr "Φωτογραφία & Βίντεο"
 
-#: el/application.csv:127 
+#: el/application.csv:127
 msgid "Please enter a correct URL for the %s store"
 msgstr "Παρακαλούμε εισάγετε μια σωστή διεύθυνση URL για το %s κατάστημα"
 
-#: el/application.csv:128 
+#: el/application.csv:128
 msgid "Please enter a subdomain."
 msgstr "Παρακαλούμε εισάγετε ένα subdomain."
 
-#: el/application.csv:129 
+#: el/application.csv:129
 msgid "Please enter a valid URL"
 msgstr "Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση URL"
 
-#: el/application.csv:130 
+#: el/application.csv:130
 msgid "Please enter a valid address"
 msgstr "Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση"
 
-#: el/application.csv:131 
+#: el/application.csv:131
 msgid "Please enter a valid mobile website address."
 msgstr "Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση ιστοτόπου για κινητές συσκευές."
 
-#: el/application.csv:132 
+#: el/application.csv:132
 msgid "Preview"
 msgstr "Προεπισκόπηση"
 
-#: el/application.csv:133 
+#: el/application.csv:133
 msgid "Productivity"
 msgstr "Παραγωγικότητα"
 
-#: el/application.csv:134 
+#: el/application.csv:134
 msgid "Promote"
 msgstr "Προώθηση"
 
-#: el/application.csv:135 
+#: el/application.csv:135
 msgid "Publication"
 msgstr "Δημοσίευση"
 
-#: el/application.csv:136 
+#: el/application.csv:136
 msgid "Publish the application"
 msgstr "Δημοσίευση της εφαρμογής"
 
-#: el/application.csv:137 
+#: el/application.csv:137
 msgid "Publish under our account"
 msgstr "Δημοσίευση στον λογαριασμό μας"
 
-#: el/application.csv:138 
+#: el/application.csv:138
 msgid "Ready ? Publish my app!"
 msgstr "Έτοιμοι? Δημοσιεύστε την εφαρμογή σας!"
 
-#: el/application.csv:139 
+#: el/application.csv:139
 msgid "Recommanded size:"
 msgstr "Συνιστώμενo μέγεθος:"
 
-#: el/application.csv:140 
+#: el/application.csv:140
 msgid "Reference"
 msgstr "Αναφορά"
 
-#: el/application.csv:141 
+#: el/application.csv:141
 msgid "Remove this page from this folder?"
 msgstr "Αφαιρέστε αυτή τη σελίδα από αυτό τον φάκελο?"
 
-#: el/application.csv:142 
+#: el/application.csv:142
 msgid "Scan this QR Code"
 msgstr "Σάρωση του QR Code"
 
-#: el/application.csv:143 
+#: el/application.csv:143
 msgid "Scan this QR Code:"
 msgstr "Σάρωση του QR κώδικα:"
 
-#: el/application.csv:144 
+#: el/application.csv:144
 msgid "Secondary category"
 msgstr "Δευτεροβάθμια κατηγορία"
 
-#: el/application.csv:145 
+#: el/application.csv:145
 msgid "Secondary category<br />(Optional)"
 msgstr "Δευτεροβάθμια κατηγορία<br />(Προαιρετικό)"
 
-#: el/application.csv:146 
+#: el/application.csv:146
 msgid "Send here your iOS certificate to enable the push notifications for this application."
 msgstr "Στείλτε εδώ το πιστοποιητικό σας iOS για να ενεργοποιήσετε τις ειδοποιήσεις push για την εφαρμογή αυτή."
 
-#: el/application.csv:147 
+#: el/application.csv:147
 msgid "Send you .pem certificate"
 msgstr "Αποστολή .pem πιστοποιητικού"
 
-#: el/application.csv:148 
+#: el/application.csv:148
 msgid "Show the applications waiting for publication only."
 msgstr "Προβολή εφαρμογών που είναι σε αναμονή για δημοσίευση μόνο."
 
-#: el/application.csv:149 
+#: el/application.csv:149
 msgid "Social Networking"
 msgstr "Κοινωνική Δικτύωση"
 
-#: el/application.csv:150 
+#: el/application.csv:150
 msgid "Sports"
 msgstr "Αθλητικά"
 
-#: el/application.csv:151 
+#: el/application.csv:151
 msgid "Startup image"
 msgstr "Εικόνα εκκίνησης"
 
-#: el/application.csv:152 
+#: el/application.csv:152
 msgid "Status"
 msgstr "Κατάσταση"
 
-#: el/application.csv:153 
+#: el/application.csv:153
 msgid "Store Password"
 msgstr "Κωδικός Καταστήματος"
 
-#: el/application.csv:154 
+#: el/application.csv:154
 msgid "Store URL"
 msgstr "URL καταστήματος"
 
-#: el/application.csv:155 
+#: el/application.csv:155
 msgid "Stores Info"
 msgstr "Πληροφορίες Καταστημάτων"
 
-#: el/application.csv:156 
+#: el/application.csv:156
 msgid "The Bundle Id is required"
 msgstr "Απαιτείται Bundle ID"
 
-#: el/application.csv:157 
+#: el/application.csv:157
 msgid "The QR Code is not available at this moment"
 msgstr "Το QR Code δεν είναι διαθέσιμο αυτή τη στιγμή"
 
-#: el/application.csv:158 
+#: el/application.csv:158
 msgid "The application has been successfully saved"
 msgstr "Η εφαρμογή έχει αποθηκευτεί με επιτυχία"
 
-#: el/application.csv:159 
+#: el/application.csv:159
 msgid "The application name"
 msgstr "Το όνομα της εφαρμογής"
 
-#: el/application.csv:160 
+#: el/application.csv:160
 msgid "The application's name cannot start with a number"
 msgstr "Το όνομα της εφαρμογής δεν μπορεί να ξεκινάει με αριθμό"
 
-#: el/application.csv:161 
+#: el/application.csv:161
 msgid "The description"
 msgstr "Η περιγραφή"
 
-#: el/application.csv:162 
+#: el/application.csv:162
 msgid "The description must be at least 200 characters"
 msgstr "Η περιγραφή πρέπει να είναι τουλάχιστον 200 χαρακτήρες"
 
-#: el/application.csv:163 
+#: el/application.csv:163
 msgid "The desktop icon"
 msgstr "Το εικονίδιο της επιφάνειας εργασίας"
 
-#: el/application.csv:164 
+#: el/application.csv:164
 msgid "The entered bundle id is incorrect, it should be like: com.ejemploapps.app"
 msgstr "Το καταχωρισμένο Bundle ID είναι λάθος, θα πρέπει να είναι π.χ.: gr.domain.onomaefarmogis"
 
-#: el/application.csv:165 
+#: el/application.csv:165
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "Το καταχωρισμένο Bundle ID είναι λάθος, θα πρέπει να είναι π.χ.: gr.domain.onomaefarmogis"
 
-#: el/application.csv:166 
+#: el/application.csv:166
 msgid "The field is required"
 msgstr "Το πεδίο είναι υποχρεωτικό"
 
-#: el/application.csv:167 
+#: el/application.csv:167
 msgid "The file has been successfully uploaded"
 msgstr "Το αρχείο έχει ανεβεί επιτυχώς"
 
-#: el/application.csv:168 
+#: el/application.csv:168
 msgid "The following information are needed to download the source codes:<br />"
 msgstr "Οι ακόλουθες πληροφορίες είναι απαραίτητες για να κατεβάσετε τον source κώδικα:<br />"
 
-#: el/application.csv:169 
+#: el/application.csv:169
 msgid "The homepage image"
 msgstr "Εικόνα αρχικής σελίδας"
 
-#: el/application.csv:170 
+#: el/application.csv:170
 msgid "The key cannot be empty."
 msgstr "Το κλειδί δεν μπορεί να είναι κενό."
 
-#: el/application.csv:171 
+#: el/application.csv:171
 msgid "The key is already used by another application."
 msgstr "Το κλειδί χρησιμοποιείται ήδη από κάποια άλλη εφαρμογή."
 
-#: el/application.csv:172 
+#: el/application.csv:172
 msgid "The keywords"
 msgstr "Λέξεις-κλειδιά"
 
-#: el/application.csv:173 
+#: el/application.csv:173
 msgid "The main category"
 msgstr "Κύρια κατηγορία"
 
-#: el/application.csv:174 
+#: el/application.csv:174
 msgid "The startup image"
 msgstr "Η εικόνα εκκίνησης"
 
-#: el/application.csv:175 
+#: el/application.csv:175
 msgid "This application does not exist"
 msgstr "Αυτή η εφαρμογή δεν υπάρχει"
 
-#: el/application.csv:176 
+#: el/application.csv:176
 msgid "This application is visible on the front"
 msgstr "Αυτή η εφαρμογή είναι ορατή στο frontend"
 
-#: el/application.csv:177 
+#: el/application.csv:177
 msgid "This key is already used by system features."
 msgstr "Αυτό το κλειδί χρησιμοποιείται ήδη από τα χαρακτηριστικά του συστήματος."
 
-#: el/application.csv:178 
+#: el/application.csv:178
 msgid "This option enables you to set the currency used in your app"
 msgstr "Αυτή η επιλογή σας επιτρέπει να ορίσετε το νόμισμα που χρησιμοποιείται στην εφαρμογή σας"
 
-#: el/application.csv:179 
+#: el/application.csv:179
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr "Αυτή η σελίδα θα εμφανίζεται στους χρήστες κινητών συσκευών ώστε να μπορούν να συνδεθούν και να διαχειριστούν τον λογαριασμό τους. Προστίθεται αυτόματα όταν χρησιμοποιείτε λειτουργίες που χρειάζονται σύνδεση του χρήστη."
 
-#: el/application.csv:180 
+#: el/application.csv:180
 msgid "To be able to download source codes, please provide the following information:<br />"
 msgstr "Για να μπορέσετε να κατεβάσετε source κώδικες, παρααούμε να συμπληρώστε τις ακόλουθες πληροφορίες:<br />"
 
-#: el/application.csv:181 
+#: el/application.csv:181
 msgid "Travel"
 msgstr "Ταξίδια"
 
-#: el/application.csv:182 
+#: el/application.csv:182
 msgid "URL"
 msgstr "URL"
 
-#: el/application.csv:183 
+#: el/application.csv:183
 msgid "URL Key"
 msgstr "Κλειδί URL"
 
-#: el/application.csv:184 
+#: el/application.csv:184
 msgid "Use into all of your application's pages"
 msgstr "Χρήση σε όλες τις σελίδες της εφαρμογής σας"
 
-#: el/application.csv:185 
+#: el/application.csv:185
 msgid "Used points"
 msgstr "Χρησιμοποιημένα σημεία"
 
-#: el/application.csv:186 
+#: el/application.csv:186
 msgid "User Information"
 msgstr "Πληροφορίες Χρήστη"
 
-#: el/application.csv:187 
+#: el/application.csv:187
 msgid "Utilities"
 msgstr "Utilities"
 
-#: el/application.csv:188 
+#: el/application.csv:188
 msgid "Version"
 msgstr "Έκδοση"
 
-#: el/application.csv:189 
+#: el/application.csv:189
 msgid "Weather"
 msgstr "Καιρός"
 
-#: el/application.csv:190 
+#: el/application.csv:190
 msgid "You already have sent a certificate."
 msgstr "Έχετε ήδη αποστείλει πιστοποιητικό."
 
-#: el/application.csv:191 
-msgid "You can download your QRCode by <a class="f-bold" href="%s">clicking here</a>"
-msgstr "Μπορείτε να κατεβάσετε το QR Code σας από <a class="f-bold" href="%s">εδώ</a>"
+#: el/application.csv:191
+msgid "You can download your QRCode by <a class=\"f-bold\" href=\"%s\">clicking here</a>"
+msgstr "Μπορείτε να κατεβάσετε το QR Code σας από <a class=\"f-bold\" href=\"%s\">εδώ</a>"
 
-#: el/application.csv:192 
+#: el/application.csv:192
 msgid "You can't use this domain."
 msgstr "Δεν μπορείτε να χρησιμοποιήσετε αυτό το domain."
 
-#: el/application.csv:193 
+#: el/application.csv:193
 msgid "You don't have any applications yet"
 msgstr "Δεν έχετε ακόμα κάποια εφαρμογή"
 
-#: el/application.csv:194 
+#: el/application.csv:194
 msgid "You have already sent a certificate"
 msgstr "Έχετε ήδη αποστείλει  πιστοποιητικό."
 
-#: el/application.csv:195 
+#: el/application.csv:195
 msgid "You have sent a certificate."
 msgstr "Στείλατε πιστοποιητικό."
 
-#: el/application.csv:196 
-msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
-msgstr "Θα πρέπει να δημιουργήσετε έναν Google λογαριασμό πριν από τη δημοσίευση της εφαρμογής σας. <a href="https://play.google.com/apps/publish/signup" target="_blank">Κάντε κλικ εδώ για να δημιουργήσετε έναν.</a>"
+#: el/application.csv:196
+msgid "You have to create a Google account before publishing your application. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
+msgstr "Θα πρέπει να δημιουργήσετε έναν Google λογαριασμό πριν από τη δημοσίευση της εφαρμογής σας. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Κάντε κλικ εδώ για να δημιουργήσετε έναν.</a>"
 
-#: el/application.csv:197 
-msgid "You have to create an Apple account before publishing your application. <a href="https://developer.apple.com/register/index.action" target="_blank">Click here to create one.</a>"
-msgstr "Θα πρέπει να δημιουργήσετε έναν Apple λογαριασμό πριν από τη δημοσίευση της εφαρμογής σας. <a href="https://developer.apple.com/register/index.action" target="_blank">Κάντε κλικ εδώ για να δημιουργήσετε έναν.</a>"
+#: el/application.csv:197
+msgid "You have to create an Apple account before publishing your application. <a href=\"https://developer.apple.com/register/index.action\" target=\"_blank\">Click here to create one.</a>"
+msgstr "Θα πρέπει να δημιουργήσετε έναν Apple λογαριασμό πριν από τη δημοσίευση της εφαρμογής σας. <a href=\"https://developer.apple.com/register/index.action\" target=\"_blank\">Κάντε κλικ εδώ για να δημιουργήσετε έναν.</a>"
 
-#: el/application.csv:198 
+#: el/application.csv:198
 msgid "You haven't chosen any template yet"
 msgstr "Δεν έχετε επιλέξει ακόμη κάποιο πρότυπο"
 
-#: el/application.csv:199 
+#: el/application.csv:199
 msgid "You may not delete a library icon"
 msgstr "Δεν μπορείτε να διαγράψετε εικονίδια από την προεπιλεγμένη βιβλιοθήκη"
 
-#: el/application.csv:200 
+#: el/application.csv:200
 msgid "You must have published your application to access this feature"
 msgstr "Θα πρέπει να έχετε δημοσιεύσει την εφαρμογή σας για να αποκτήσετε πρόσβαση σε αυτή την λειτουργία"
 
-#: el/application.csv:201 
+#: el/application.csv:201
 msgid "Your CNAME is properly set"
 msgstr "Το CNAME σας έχει ρυθμιστεί σωστά"
 
-#: el/application.csv:202 
+#: el/application.csv:202
 msgid "Your best customers"
 msgstr "Οι καλύτεροι πελάτες σας"
 
-#: el/application.csv:203 
+#: el/application.csv:203
 msgid "Your customers in figures"
 msgstr "Οι πελάτες σας σε αριθμούς"
 
-#: el/application.csv:204 
-msgid "Your domain key "%s" is not valid."
-msgstr "Το URL κλειδί σας "%s" δεν είναι έγκυρο."
+#: el/application.csv:204
+msgid "Your domain key \"%s\" is not valid."
+msgstr "Το URL κλειδί σας \"%s\" δεν είναι έγκυρο."
 
-#: el/application.csv:205 
+#: el/application.csv:205
 msgid "Your mobile address should not contain special characters"
 msgstr "H διεύθυνση του κινητού σας δεν θα πρέπει να περιέχει ειδικούς χαρακτήρες"
 
-#: el/application.csv:206 
+#: el/application.csv:206
 msgid "Your pages"
 msgstr "Οι σελίδες σας"
 
-#: el/application.csv:207 
+#: el/application.csv:207
 msgid "iOS Certificate"
 msgstr "Πιστοποιητικό iOS"
 
-#: el/application.csv:208 
+#: el/application.csv:208
 msgid "iPad Retina:"
 msgstr "iPad Retina:"
 
-#: el/application.csv:209 
+#: el/application.csv:209
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5s:"
 
-#: el/application.csv:210 
+#: el/application.csv:210
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6 Plus :"
 
-#: el/application.csv:211 
+#: el/application.csv:211
 msgid "iPhone 6:"
 msgstr "iPhone 6:"
 
-#: el/application.csv:212 
+#: el/application.csv:212
 msgid "iPhone Version"
 msgstr "Έκδοση iOS"
 
-#: el/application.csv:213 
+#: el/application.csv:213
 msgid "icon"
 msgstr "Εικονίδιο"
 
-#: el/application.csv:214 
+#: el/application.csv:214
 msgid "logo"
 msgstr "Λογότυπο"
 
-#: el/application.csv:215 
+#: el/application.csv:215
 msgid "times"
 msgstr "φορές"
-

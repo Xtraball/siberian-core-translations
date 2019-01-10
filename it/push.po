@@ -1,150 +1,154 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: it\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: it\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/push.csv:1 
+#: it/push.csv:1
 msgid "Additionnal Information"
 msgstr "Informazioni aggiuntive"
 
-#: it/push.csv:2 
+#: it/push.csv:2
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr "Si è verificato un errore durante l'eliminazione della push. Si prega di riprovare più tardi."
 
-#: it/push.csv:3 
+#: it/push.csv:3
 msgid "And a radius (in Km):"
 msgstr "E un raggio (in km):"
 
-#: it/push.csv:4 
+#: it/push.csv:4
 msgid "Android"
 msgstr "Android"
 
-#: it/push.csv:5 
+#: it/push.csv:5
 msgid "Creation date"
 msgstr "Data creazione"
 
-#: it/push.csv:6 
+#: it/push.csv:6
 msgid "Custom URL"
 msgstr "URL"
 
-#: it/push.csv:7 
+#: it/push.csv:7
 msgid "Enter a location:"
 msgstr "Inserisci una posizione:"
 
-#: it/push.csv:8 
+#: it/push.csv:8
 msgid "GCM Key"
 msgstr "GCM key"
 
-#: it/push.csv:9 
+#: it/push.csv:9
 msgid "I want to send it"
 msgstr "Voglio inviare"
 
-#: it/push.csv:10 
+#: it/push.csv:10
 msgid "Keys successfully saved"
 msgstr "Keys salvate correttamente"
 
-#: it/push.csv:11 
+#: it/push.csv:11
 msgid "Message"
 msgstr "Messaggio"
 
-#: it/push.csv:12 
+#: it/push.csv:12
 msgid "Message:"
 msgstr "Messaggio:"
 
-#: it/push.csv:13 
+#: it/push.csv:13
 msgid "No items."
 msgstr "no articoli"
 
-#: it/push.csv:14 
+#: it/push.csv:14
 msgid "Open a feature or a custom URL"
 msgstr "Allega una pagina dell'App o un URL"
 
-#: it/push.csv:15 
+#: it/push.csv:15
 msgid "Pending"
 msgstr "In attesa"
 
-#: it/push.csv:16 
+#: it/push.csv:16
 msgid "Push Notifications"
 msgstr "Notifica push"
 
-#: it/push.csv:17 
+#: it/push.csv:17
 msgid "Push Notifications Settings"
 msgstr "Impostazioni notifiche push"
 
-#: it/push.csv:18 
+#: it/push.csv:18
 msgid "Push successfully deleted."
 msgstr "Push eliminata correttamente"
 
-#: it/push.csv:19 
+#: it/push.csv:19
 msgid "Radius"
 msgstr "Raggio"
 
-#: it/push.csv:20 
+#: it/push.csv:20
 msgid "Send to a specific location"
 msgstr "Invia ad una posizione specifica"
 
-#: it/push.csv:21 
+#: it/push.csv:21
 msgid "Send to all my users"
 msgstr "Invia a tutti i miei users"
 
-#: it/push.csv:22 
+#: it/push.csv:22
 msgid "Send to specific topics"
 msgstr "Invia ad argomenti specifici"
 
-#: it/push.csv:23 
+#: it/push.csv:23
 msgid "Sender ID"
 msgstr "ID mittente"
 
-#: it/push.csv:24 
+#: it/push.csv:24
 msgid "Sending date"
 msgstr "Data invio"
 
-#: it/push.csv:25 
+#: it/push.csv:25
 msgid "The duration limit must be higher than the sent date"
 msgstr "La data limite di durata deve essere posteriore alla data di invio"
 
-#: it/push.csv:26 
+#: it/push.csv:26
 msgid "Topics"
 msgstr "Argomenti"
 
-#: it/push.csv:27 
+#: it/push.csv:27
 msgid "You must choose a topic before sending your message."
 msgstr "Devi scegliere un argomento prima di inviare il Tuo messaggio"
 
-#: it/push.csv:28 
+#: it/push.csv:28
 msgid "Your app must be published to send a push notification."
 msgstr "L'app deve essere pubblicata per poter inviare notifiche push"
 
-#: it/push.csv:29 
+#: it/push.csv:29
 msgid "Your message has been saved successfully and will be sent at the entered date"
 msgstr "Il messaggio è stato salvato con successo e verrà trasmesso alla data inserita"
 
-#: it/push.csv:30 
+#: it/push.csv:30
 msgid "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "Il messaggio è stato salvato con successo e verrà inviato in pochi minuti"
 
-#: it/push.csv:31 
+#: it/push.csv:31
 msgid "Your message has been saved successfully."
 msgstr "Il messaggio è stato salvato con successo"
 
-#: it/push.csv:32 
+#: it/push.csv:32
 msgid "and users entering the area"
 msgstr "per gli utenti che sono nella zona indicata"
 
-#: it/push.csv:33 
+#: it/push.csv:33
 msgid "for a limited period"
 msgstr "che saranno passati da quella zona fino al"
 
-#: it/push.csv:34 
+#: it/push.csv:34
 msgid "now"
 msgstr "ora"
 
-#: it/push.csv:35 
+#: it/push.csv:35
 msgid "on a specific date"
 msgstr "in una data specifica"
-

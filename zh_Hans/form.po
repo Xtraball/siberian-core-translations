@@ -1,130 +1,134 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: zh_Hans\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: zh_Hans\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/form.csv:1 
+#: zh/form.csv:1
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong>必须是一个数值<br />"
 
-#: zh/form.csv:2 
+#: zh/form.csv:2
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong>必须是一个有效的日期（如DD / MM / YYYY )<br />"
 
-#: zh/form.csv:3 
+#: zh/form.csv:3
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong>必须是一个有效的日期<br />"
 
-#: zh/form.csv:4 
+#: zh/form.csv:4
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong>必须是一个有效的电子邮件<br />"
 
-#: zh/form.csv:5 
+#: zh/form.csv:5
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong>填写<br 7>"
 
-#: zh/form.csv:6 
+#: zh/form.csv:6
 msgid "Add a field"
 msgstr "添加一个字段"
 
-#: zh/form.csv:7 
+#: zh/form.csv:7
 msgid "Add a section"
 msgstr "添加一个节"
 
-#: zh/form.csv:8 
+#: zh/form.csv:8
 msgid "Add an option"
 msgstr "加入一个选项"
 
-#: zh/form.csv:9 
+#: zh/form.csv:9
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "有一个错误的节省。字段不能被识别。"
 
-#: zh/form.csv:10 
+#: zh/form.csv:10
 msgid "Are you sure you want to remove this field?"
 msgstr "你确定要删除这个领域？"
 
-#: zh/form.csv:11 
+#: zh/form.csv:11
 msgid "Are you sure you want to remove this section?"
 msgstr "你确定你要删除这部分？"
 
-#: zh/form.csv:12 
+#: zh/form.csv:12
 msgid "Hello,"
 msgstr "您好，"
 
-#: zh/form.csv:13 
+#: zh/form.csv:13
 msgid "Checkbox"
 msgstr "复选框"
 
-#: zh/form.csv:14 
+#: zh/form.csv:14
 msgid "Choose a field type:"
 msgstr "选择字段类型："
 
-#: zh/form.csv:15 
+#: zh/form.csv:15
 msgid "Date/Hour"
 msgstr "日期/时间"
 
-#: zh/form.csv:16 
+#: zh/form.csv:16
 msgid "Drop down"
 msgstr "下拉"
 
-#: zh/form.csv:17 
+#: zh/form.csv:17
 msgid "Edit field %s"
 msgstr "编辑字段％s"
 
-#: zh/form.csv:18 
+#: zh/form.csv:18
 msgid "Field name"
 msgstr "字段名称"
 
-#: zh/form.csv:19 
+#: zh/form.csv:19
 msgid "Field name:"
 msgstr "字段名称："
 
-#: zh/form.csv:20 
+#: zh/form.csv:20
 msgid "Geolocation"
 msgstr "地理定位"
 
-#: zh/form.csv:21 
+#: zh/form.csv:21
 msgid "Manage fields"
 msgstr "管理领域"
 
-#: zh/form.csv:22 
+#: zh/form.csv:22
 msgid "Manage options:"
 msgstr "管理选项："
 
-#: zh/form.csv:23 
+#: zh/form.csv:23
 msgid "Multiline text"
 msgstr "多行文字"
 
-#: zh/form.csv:24 
+#: zh/form.csv:24
 msgid "Option"
 msgstr "选项"
 
-#: zh/form.csv:25 
+#: zh/form.csv:25
 msgid "Radio"
 msgstr "无线电"
 
-#: zh/form.csv:26 
+#: zh/form.csv:26
 msgid "Recipient email:"
 msgstr "发送至："
 
-#: zh/form.csv:27 
+#: zh/form.csv:27
 msgid "The form has been sent successfully"
 msgstr "该表格​​已发送"
 
-#: zh/form.csv:28 
+#: zh/form.csv:28
 msgid "You have to choose a field type."
 msgstr "你要选择一个字段类型。"
 
-#: zh/form.csv:29 
+#: zh/form.csv:29
 msgid "Your app's form"
 msgstr "申请表"
 
-#: zh/form.csv:30 
+#: zh/form.csv:30
 msgid "Your form has been filled out, here are the answers:"
 msgstr "您的申请已经完成，这里的答案："
-

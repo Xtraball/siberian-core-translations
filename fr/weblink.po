@@ -1,62 +1,66 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: fr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/weblink.csv:1 
+#: fr/weblink.csv:1
 msgid "Add a link"
 msgstr "Ajouter un lien"
 
-#: fr/weblink.csv:2 
+#: fr/weblink.csv:2
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr "Une erreur s'est produite lors de l'enregistrement de votre picto. Merci d'essayez plus tard."
 
-#: fr/weblink.csv:3 
+#: fr/weblink.csv:3
 msgid "Are you sure you want to delete this link?"
 msgstr "Etestes-vous sûr de vouloir supprimer ce lien?"
 
-#: fr/weblink.csv:4 
+#: fr/weblink.csv:4
 msgid "Are you sure you want to delete this picture?"
 msgstr "Etes-vous sûr de vouloir supprimer cette image?"
 
-#: fr/weblink.csv:5 
+#: fr/weblink.csv:5
 msgid "Informations"
 msgstr "Informations"
 
-#: fr/weblink.csv:6 
+#: fr/weblink.csv:6
 msgid "Link"
 msgstr "Lien"
 
-#: fr/weblink.csv:7 
+#: fr/weblink.csv:7
 msgid "Link has been successfully deleted"
 msgstr "Lien a été supprimé"
 
-#: fr/weblink.csv:8 
+#: fr/weblink.csv:8
 msgid "Link has been successfully saved"
 msgstr "Le lien a été enregistré avec succès"
 
-#: fr/weblink.csv:9 
+#: fr/weblink.csv:9
 msgid "Link:"
 msgstr "Lien :"
 
-#: fr/weblink.csv:10 
+#: fr/weblink.csv:10
 msgid "Picto"
 msgstr "Picto"
 
-#: fr/weblink.csv:11 
+#: fr/weblink.csv:11
 msgid "The image has been successfully deleted"
 msgstr "L'image a été supprimé avec succès"
 
-#: fr/weblink.csv:12 
+#: fr/weblink.csv:12
 msgid "The image has been successfully saved"
 msgstr "L'image a été enregistrée avec succès"
 
-#: fr/weblink.csv:13 
+#: fr/weblink.csv:13
 msgid "Your links"
 msgstr "Vos liens"
-

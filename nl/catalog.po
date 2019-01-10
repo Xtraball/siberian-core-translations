@@ -1,134 +1,138 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: nl\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/catalog.csv:1 
+#: nl/catalog.csv:1
 msgid "%s - All"
 msgstr "%s – Alles"
 
-#: nl/catalog.csv:2 
+#: nl/catalog.csv:2
 msgid "Add a category"
 msgstr "Voeg een categorie toe"
 
-#: nl/catalog.csv:3 
+#: nl/catalog.csv:3
 msgid "Add a format"
 msgstr "Bewerk formaat"
 
-#: nl/catalog.csv:4 
+#: nl/catalog.csv:4
 msgid "All"
 msgstr "Alles"
 
-#: nl/catalog.csv:5 
+#: nl/catalog.csv:5
 msgid "An error occurred while loading your product."
 msgstr "Er is een fout opgetreden tijdens het laden van uw product."
 
-#: nl/catalog.csv:6 
+#: nl/catalog.csv:6
 msgid "An error occurred while saving the category. Please try again later."
 msgstr "Er is een fout opgetreden tijdens het opslaan van de categorie. Probeer het later nog eens."
 
-#: nl/catalog.csv:7 
+#: nl/catalog.csv:7
 msgid "An error occurred while saving the product. Please try again later."
 msgstr "Er is een fout opgetreden tijdens het opslaan van het product. Probeer het later nog eens."
 
-#: nl/catalog.csv:8 
+#: nl/catalog.csv:8
 msgid "An error occurred while saving the set meal. Please try again later."
 msgstr "Er is een fout opgetreden tijdens het bewaren van het menu. Probeer het later nog eens."
 
-#: nl/catalog.csv:9 
+#: nl/catalog.csv:9
 msgid "An error occurred while saving. One of your categories could not be identified."
 msgstr "Er is een fout opgetreden tijdens het opslaan. Een van uw categorieën kan niet worden geïdentificeerd."
 
-#: nl/catalog.csv:10 
+#: nl/catalog.csv:10
 msgid "An error occurred while saving. One of your products could not be identified."
 msgstr "Er is een fout opgetreden tijdens het opslaan. Een van uw producten kan niet worden geïdentificeerd."
 
-#: nl/catalog.csv:11 
+#: nl/catalog.csv:11
 msgid "Are you sure you want to delete this product?"
 msgstr "Weet u zeker dat u dit product wilt verwijderen?"
 
-#: nl/catalog.csv:12 
+#: nl/catalog.csv:12
 msgid "Category"
 msgstr "Categorie"
 
-#: nl/catalog.csv:13 
+#: nl/catalog.csv:13
 msgid "Choose a category"
 msgstr "Kies een categorie"
 
-#: nl/catalog.csv:14 
+#: nl/catalog.csv:14
 msgid "Choose a subcategory"
 msgstr "Kies een sub categorie"
 
-#: nl/catalog.csv:15 
+#: nl/catalog.csv:15
 msgid "Click on a category to display sub-categories"
 msgstr "Klik op een categorie om een sub categorie te zien"
 
-#: nl/catalog.csv:16 
+#: nl/catalog.csv:16
 msgid "Create a new product"
 msgstr "Maak een nieuw product"
 
-#: nl/catalog.csv:17 
+#: nl/catalog.csv:17
 msgid "Does this product have many formats?"
 msgstr "Heeft dit product veel formaten?"
 
-#: nl/catalog.csv:18 
+#: nl/catalog.csv:18
 msgid "Edit the"
 msgstr "bewerk de"
 
-#: nl/catalog.csv:19 
+#: nl/catalog.csv:19
 msgid "Edit the product"
 msgstr "Bewerk product"
 
-#: nl/catalog.csv:20 
+#: nl/catalog.csv:20
 msgid "Format"
 msgstr "Opmaak"
 
-#: nl/catalog.csv:21 
+#: nl/catalog.csv:21
 msgid "Picture"
 msgstr "Afbeelding"
 
-#: nl/catalog.csv:22 
+#: nl/catalog.csv:22
 msgid "Price"
 msgstr "Prijs"
 
-#: nl/catalog.csv:23 
+#: nl/catalog.csv:23
 msgid "Product"
 msgstr "Product"
 
-#: nl/catalog.csv:24 
+#: nl/catalog.csv:24
 msgid "Product formats"
 msgstr "Product formaat"
 
-#: nl/catalog.csv:25 
+#: nl/catalog.csv:25
 msgid "Product name"
 msgstr "Product naam"
 
-#: nl/catalog.csv:26 
+#: nl/catalog.csv:26
 msgid "Rules"
 msgstr "Regels"
 
-#: nl/catalog.csv:27 
+#: nl/catalog.csv:27
 msgid "Set meal successfully deleted."
 msgstr "Menu verwijderd."
 
-#: nl/catalog.csv:28 
+#: nl/catalog.csv:28
 msgid "Set meal successfully saved."
 msgstr "Menu met succes opgeslagen."
 
-#: nl/catalog.csv:29 
+#: nl/catalog.csv:29
 msgid "Sub-category"
 msgstr "sub categorie"
 
-#: nl/catalog.csv:30 
+#: nl/catalog.csv:30
 msgid "st"
 msgstr "st"
 
-#: nl/catalog.csv:31 
+#: nl/catalog.csv:31
 msgid "sub-category"
 msgstr "sub categorie"
-

@@ -1,78 +1,82 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: cs\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/contact.csv:1 
+#: cs/contact.csv:1
 msgid "An error occurred while saving your contact informations."
 msgstr "Při ukládání kontaktních informací došlo k chybě."
 
-#: cs/contact.csv:2 
+#: cs/contact.csv:2
 msgid "An error occurred while sending your request. Please try again later."
 msgstr "Při odesílání Vaší zprávy došlo k chybě. Zkuste to prosím později."
 
-#: cs/contact.csv:3 
+#: cs/contact.csv:3
 msgid "And his phone number:"
 msgstr "Telefonní číslo:"
 
-#: cs/contact.csv:4 
+#: cs/contact.csv:4
 msgid "Are you sure you want to remove the picture?"
 msgstr "Opravdu chcete odstranit obrázek?"
 
-#: cs/contact.csv:5 
+#: cs/contact.csv:5
 msgid "City"
 msgstr "Město"
 
-#: cs/contact.csv:6 
+#: cs/contact.csv:6
 msgid "Contact information"
 msgstr "Kontaktní informace"
 
-#: cs/contact.csv:7 
+#: cs/contact.csv:7
 msgid "Here is his email:"
 msgstr "Kontaktní email:"
 
-#: cs/contact.csv:8 
+#: cs/contact.csv:8
 msgid "Here is his message:"
 msgstr "Zde je zpráva/dotaz:"
 
-#: cs/contact.csv:9 
+#: cs/contact.csv:9
 msgid "Please enter properly the following fields: <br />"
 msgstr "Vyplňte prosím následující údaje: <br />"
 
-#: cs/contact.csv:10 
+#: cs/contact.csv:10
 msgid "Twitter"
 msgstr "Twitter"
 
-#: cs/contact.csv:11 
+#: cs/contact.csv:11
 msgid "Website"
 msgstr "Webová stránka"
 
-#: cs/contact.csv:12 
+#: cs/contact.csv:12
 msgid "You have received a message from a contact:"
 msgstr "Obdželi jste zprávu od:"
 
-#: cs/contact.csv:13 
+#: cs/contact.csv:13
 msgid "Your email"
 msgstr "Váš e-mail"
 
-#: cs/contact.csv:14 
+#: cs/contact.csv:14
 msgid "Your message has been sent"
 msgstr "Vaše zpráva byla odeslána"
 
-#: cs/contact.csv:15 
+#: cs/contact.csv:15
 msgid "Your request"
 msgstr "Zpráva"
 
-#: cs/contact.csv:16 
+#: cs/contact.csv:16
 msgid "Zip code"
 msgstr "PSČ"
 
-#: cs/contact.csv:17 
+#: cs/contact.csv:17
 msgid "﻿An error occurred while saving your contact informations."
 msgstr "Při ukládání kontaktních informací došlo k chybě."
-

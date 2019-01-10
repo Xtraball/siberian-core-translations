@@ -1,12 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-08 11:13+0000\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/comment/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-08 11:13+0000\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -14,115 +17,114 @@ msgstr ""
 msgid "'Near me' radius (in km):"
 msgstr "'Près de moi' rayon (en km):"
 
-#: fr/comment.csv:2 
+#: fr/comment.csv:2
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "Une erreur est survenue lors de la suppression de  la réponse. Merci de réessayer ultérieurement"
 
-#: fr/comment.csv:3 
+#: fr/comment.csv:3
 msgid "Create a news:"
 msgstr "Créez une info :"
 
-#: fr/comment.csv:4 
+#: fr/comment.csv:4
 msgid "Hide this info"
 msgstr "Masquer cette actu"
 
-#: fr/comment.csv:5 
+#: fr/comment.csv:5
 msgid "Information successfully deleted"
 msgstr "Info supprimée avec succès"
 
-#: fr/comment.csv:6 
+#: fr/comment.csv:6
 msgid "Information successfully hidden"
 msgstr "Info cachée avec succès"
 
-#: fr/comment.csv:7 
+#: fr/comment.csv:7
 msgid "Information successfully saved"
 msgstr "Info sauvegardée avec succès"
 
-#: fr/comment.csv:8 
+#: fr/comment.csv:8
 msgid "Information successfully shown"
 msgstr "Info affichée avec succès"
 
-#: fr/comment.csv:9 
+#: fr/comment.csv:9
 msgid "Insert a"
 msgstr "Insérez une"
 
-#: fr/comment.csv:10 
+#: fr/comment.csv:10
 msgid "It will be visible only after validation by our team."
 msgstr "Il ne sera visible qu'après validation de notre équipe."
 
-#: fr/comment.csv:11 
+#: fr/comment.csv:11
 msgid "My customers answers"
 msgstr "Réponses de mes clients"
 
-#: fr/comment.csv:12 
+#: fr/comment.csv:12
 msgid "My customers' comments"
 msgstr "Les commentaires de mes clients"
 
-#: fr/comment.csv:13 
+#: fr/comment.csv:13
 msgid "Near me"
 msgstr "Proche de moi"
 
-#: fr/comment.csv:14 
+#: fr/comment.csv:14
 msgid "Near me settings"
 msgstr "Paramètres proche de moi"
 
-#: fr/comment.csv:15 
+#: fr/comment.csv:15
 msgid "Post"
 msgstr "Poste"
 
-#: fr/comment.csv:16 
+#: fr/comment.csv:16
 msgid "Publishing date"
 msgstr "Date de publication"
 
-#: fr/comment.csv:17 
+#: fr/comment.csv:17
 msgid "Radius"
 msgstr "Rayon"
 
-#: fr/comment.csv:18 
+#: fr/comment.csv:18
 msgid "Radius must be a valid numeric value."
 msgstr "Le rayon doit être une valeur numérique valide."
 
-#: fr/comment.csv:19 
+#: fr/comment.csv:19
 msgid "Radius must be provided."
 msgstr "Le rayon doit être indiqué."
 
-#: fr/comment.csv:20 
+#: fr/comment.csv:20
 msgid "Recent"
 msgstr "Récent"
 
-#: fr/comment.csv:21 
+#: fr/comment.csv:21
 msgid "Show this info"
 msgstr "Afficher cette actu"
 
-#: fr/comment.csv:22 
+#: fr/comment.csv:22
 msgid "There is no comment for this news"
 msgstr "Il n'y a pas de commentaire pour cette actu"
 
-#: fr/comment.csv:23 
+#: fr/comment.csv:23
 msgid "Was flagged as inappropriate"
 msgstr "A été marquée comme inappropriée"
 
-#: fr/comment.csv:24 
+#: fr/comment.csv:24
 msgid "You can't like more than once the same news"
 msgstr "Vous ne pouvez pas aimer plusieurs fois la même actualité."
 
-#: fr/comment.csv:25 
+#: fr/comment.csv:25
 msgid "You need to be connected to create a post"
 msgstr "Vous devez être connecté pour créer un poste"
 
-#: fr/comment.csv:26 
+#: fr/comment.csv:26
 msgid "Your flag has successfully been notified"
 msgstr "Votre pavillon a été notifiée avec succès"
 
-#: fr/comment.csv:27 
+#: fr/comment.csv:27
 msgid "Your like has been successfully added"
 msgstr "Votre <i>like</i> a bien été pris en compte."
 
-#: fr/comment.csv:28 
+#: fr/comment.csv:28
 msgid "Your message has been successfully saved."
 msgstr "Votre message a bien été pris en compte."
 
-#: fr/comment.csv:29 
+#: fr/comment.csv:29
 msgid "Your post was successfully added"
 msgstr "Votre message a été ajouté avec succès"
-

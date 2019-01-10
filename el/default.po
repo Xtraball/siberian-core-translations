@@ -1,1362 +1,1366 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/default.csv:1 
+#: el/default.csv:1
 msgid "%d Unread Messages"
 msgstr "%d μη-αναγνωσμένα μηνύματα"
 
-#: el/default.csv:2 
+#: el/default.csv:2
 msgid "%s ago"
 msgstr "πριν %s"
 
-#: el/default.csv:3 
+#: el/default.csv:3
 msgid "404, page not found"
 msgstr "404, δεν βρέθηκε"
 
-#: el/default.csv:4 
+#: el/default.csv:4
 msgid "APIs"
 msgstr "APIs"
 
-#: el/default.csv:5 
+#: el/default.csv:5
 msgid "Access restricted to authorized members only"
 msgstr "Η πρόσβαση είναι περιορισμένη μόνο σε μέλη."
 
-#: el/default.csv:6 
+#: el/default.csv:6
 msgid "Accounts"
 msgstr "Λογαριασμοί"
 
-#: el/default.csv:7 
+#: el/default.csv:7
 msgid "Action"
 msgstr "Ενέργεια"
 
-#: el/default.csv:8 
+#: el/default.csv:8
 msgid "Actions"
 msgstr "Ενέργειες"
 
-#: el/default.csv:9 
+#: el/default.csv:9
 msgid "Add"
 msgstr "Προσθήκη"
 
-#: el/default.csv:10 
+#: el/default.csv:10
 msgid "Add a"
 msgstr "Προσθέστε ένα"
 
-#: el/default.csv:11 
-msgid "Add an <br /><span class="bold">image</span>"
-msgstr "Προσθέστε μία <br /><span class="bold">εικόνα</span>"
+#: el/default.csv:11
+msgid "Add an <br /><span class=\"bold\">image</span>"
+msgstr "Προσθέστε μία <br /><span class=\"bold\">εικόνα</span>"
 
-#: el/default.csv:12 
+#: el/default.csv:12
 msgid "Add image"
 msgstr "Προσθήκη εικόνας"
 
-#: el/default.csv:13 
-msgid "Add<br /><span class="bold">Pictures</span>"
-msgstr "Προσθήκη <br /><span class="bold">εικόνων</span>"
+#: el/default.csv:13
+msgid "Add<br /><span class=\"bold\">Pictures</span>"
+msgstr "Προσθήκη <br /><span class=\"bold\">εικόνων</span>"
 
-#: el/default.csv:14 
+#: el/default.csv:14
 msgid "Address"
 msgstr "Διεύθυνση"
 
-#: el/default.csv:15 
+#: el/default.csv:15
 msgid "All items"
 msgstr "Όλες"
 
-#: el/default.csv:16 
+#: el/default.csv:16
 msgid "An error occurred during process. Please try again later."
 msgstr "Υπήρξε σφάλμα κατά την επεξεργασία. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:17 
+#: el/default.csv:17
 msgid "An error occurred during the process. Please try again later."
 msgstr "Υπήρξε σφάλμα κατά την επεξεργασία. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:18 
+#: el/default.csv:18
 msgid "An error occurred while loading places."
 msgstr "Υπήρξε σφάλμα κατά την φόρτωση τοποθεσιών."
 
-#: el/default.csv:19 
+#: el/default.csv:19
 msgid "An error occurred while loading. Please try again later."
 msgstr "Υπήρξε σφάλμα κατά την φόρτωση. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:20 
+#: el/default.csv:20
 msgid "An error occurred while loading. Please, try again later."
 msgstr "Υπήρξε σφάλμα κατά την φόρτωση. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:21 
+#: el/default.csv:21
 msgid "An error occurred while saving"
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση."
 
-#: el/default.csv:22 
+#: el/default.csv:22
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση του λογαριασμού σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:23 
+#: el/default.csv:23
 msgid "An error occurred while saving your picture. Please try againg later."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της εικόνας σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:24 
+#: el/default.csv:24
 msgid "An error occurred while saving. Please try again later."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:25 
+#: el/default.csv:25
 msgid "An error occurred while saving. Please, try again later."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:26 
+#: el/default.csv:26
 msgid "An error occurred while uploading your file. Please, try again later."
 msgstr "Υπήρξε σφάλμα κατά το ανέβασμα του αρχείου. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 
-#: el/default.csv:27 
+#: el/default.csv:27
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Υπήρξε σφάλμα κατά τον υπολογισμό της διαδρομής."
 
-#: el/default.csv:28 
+#: el/default.csv:28
 msgid "Appearance"
 msgstr "Εμφάνιση"
 
-#: el/default.csv:29 
+#: el/default.csv:29
 msgid "Application"
 msgstr "Εφαρμογή"
 
-#: el/default.csv:30 
+#: el/default.csv:30
 msgid "Application Name"
 msgstr "Όνομα εφαρμογής"
 
-#: el/default.csv:31 
+#: el/default.csv:31
 msgid "Applications"
 msgstr "Εφαρμογές"
 
-#: el/default.csv:32 
+#: el/default.csv:32
 msgid "Are you sure you want to delete this element?"
 msgstr "Είστε σίγουροι πως θέλετε να διαγράψετε αυτό το στοιχείο?"
 
-#: el/default.csv:33 
+#: el/default.csv:33
 msgid "Are you sure you want to remove this account?"
 msgstr "Είστε σίγουροι πως θέλετε να διαγράψετε αυτόν τον λογαριασμό?"
 
-#: el/default.csv:34 
+#: el/default.csv:34
 msgid "Are you sure you want to use this discount?"
 msgstr "Είστε σίγουροι πως θέλετε να χρησιμοποιήσετε αυτή την έκπτωση?"
 
-#: el/default.csv:35 
+#: el/default.csv:35
 msgid "Audio"
 msgstr "Ήχος"
 
-#: el/default.csv:36 
+#: el/default.csv:36
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "Η ταυτοποίηση απέτυχε. Παρακαλούμε ελέγξτε το E-mail και/ή τον κωδικό σας"
 
-#: el/default.csv:37 
+#: el/default.csv:37
 msgid "Back"
 msgstr "Πίσω"
 
-#: el/default.csv:38 
+#: el/default.csv:38
 msgid "Background"
 msgstr "Φόντο"
 
-#: el/default.csv:39 
+#: el/default.csv:39
 msgid "Booking"
 msgstr "Κράτηση"
 
-#: el/default.csv:40 
+#: el/default.csv:40
 msgid "Browse"
 msgstr "Αναζήτηση"
 
-#: el/default.csv:41 
+#: el/default.csv:41
 msgid "Calendar"
 msgstr "Ημερολόγιο"
 
-#: el/default.csv:42 
+#: el/default.csv:42
 msgid "Can only be used once"
 msgstr "Μπορεί να χρησιμοποιηθεί μόνο μία φορά"
 
-#: el/default.csv:43 
+#: el/default.csv:43
 msgid "Cancel"
 msgstr "Ακύρωση"
 
-#: el/default.csv:44 
+#: el/default.csv:44
 msgid "Cart"
 msgstr "Καλάθι"
 
-#: el/default.csv:45 
+#: el/default.csv:45
 msgid "Catalog"
 msgstr "Κατάλογος"
 
-#: el/default.csv:46 
+#: el/default.csv:46
 msgid "Category"
 msgstr "Κατηγορία"
 
-#: el/default.csv:47 
+#: el/default.csv:47
 msgid "Change password"
 msgstr "Αλλαγή κωδικού"
 
-#: el/default.csv:48 
+#: el/default.csv:48
 msgid "City"
 msgstr "Πόλη"
 
-#: el/default.csv:49 
+#: el/default.csv:49
 msgid "City:"
 msgstr "Πόλη:"
 
-#: el/default.csv:50 
+#: el/default.csv:50
 msgid "Close"
 msgstr "Κλείσιμο"
 
-#: el/default.csv:51 
+#: el/default.csv:51
 msgid "Comment"
 msgstr "Σχόλιο"
 
-#: el/default.csv:52 
+#: el/default.csv:52
 msgid "Comments"
 msgstr "Σχόλια"
 
-#: el/default.csv:53 
+#: el/default.csv:53
 msgid "Commerce"
 msgstr "Κατάστημα"
 
-#: el/default.csv:54 
+#: el/default.csv:54
 msgid "Communication"
 msgstr "Επικοινωνία"
 
-#: el/default.csv:55 
+#: el/default.csv:55
 msgid "Company"
 msgstr "Εταιρεία"
 
-#: el/default.csv:56 
+#: el/default.csv:56
 msgid "Coms"
 msgstr "ΚΟΑ"
 
-#: el/default.csv:57 
+#: el/default.csv:57
 msgid "Conditions"
 msgstr "Όροι"
 
-#: el/default.csv:58 
+#: el/default.csv:58
 msgid "Confirm Password"
 msgstr "Επαλήθευση κωδικού"
 
-#: el/default.csv:59 
+#: el/default.csv:59
 msgid "Confirm new password"
 msgstr "Επαλήθευση νέου κωδικού"
 
-#: el/default.csv:60 
+#: el/default.csv:60
 msgid "Contact"
 msgstr "Επικοινωνία"
 
-#: el/default.csv:61 
+#: el/default.csv:61
 msgid "Contact successfully added to your address book"
 msgstr "Η επαφή αποθηκεύτηκε επιτυχώς στο βιβλίο επαφών σας"
 
-#: el/default.csv:62 
+#: el/default.csv:62
 msgid "Contest"
 msgstr "Διαγωνισμός"
 
-#: el/default.csv:63 
+#: el/default.csv:63
 msgid "Country"
 msgstr "Χώρα"
 
-#: el/default.csv:64 
+#: el/default.csv:64
 msgid "Country:"
 msgstr "Χώρα:"
 
-#: el/default.csv:65 
+#: el/default.csv:65
 msgid "Create"
 msgstr "Δημιουργία"
 
-#: el/default.csv:66 
+#: el/default.csv:66
 msgid "Create a new account"
 msgstr "Δημιουργία νέου λογαριασμού"
 
-#: el/default.csv:67 
+#: el/default.csv:67
 msgid "Create an account"
 msgstr "Δημιουργία λογαριασμού"
 
-#: el/default.csv:68 
+#: el/default.csv:68
 msgid "Created at"
 msgstr "Δημιουργήθηκε:"
 
-#: el/default.csv:69 
+#: el/default.csv:69
 msgid "Created at:"
 msgstr "Δημιουργήθηκε:"
 
-#: el/default.csv:70 
+#: el/default.csv:70
 msgid "Currency"
 msgstr "Νόμισμα"
 
-#: el/default.csv:71 
+#: el/default.csv:71
 msgid "Current password"
 msgstr "Τρέχον κωδικός"
 
-#: el/default.csv:72 
+#: el/default.csv:72
 msgid "Custom Page"
 msgstr "Custom σελίδα"
 
-#: el/default.csv:73 
+#: el/default.csv:73
 msgid "Dashboard"
 msgstr "Πίνακας διαχείρισης"
 
-#: el/default.csv:74 
+#: el/default.csv:74
 msgid "Date"
 msgstr "Ημ/νία"
 
-#: el/default.csv:75 
+#: el/default.csv:75
 msgid "Date of birth"
 msgstr "Ημ/νία γέννησης"
 
-#: el/default.csv:76 
+#: el/default.csv:76
 msgid "Date of birth:"
 msgstr "Ημ/νία γέννησης:"
 
-#: el/default.csv:77 
+#: el/default.csv:77
 msgid "Default Languages"
 msgstr "Προεπιλεγμένες γλώσσες"
 
-#: el/default.csv:78 
+#: el/default.csv:78
 msgid "Delete"
 msgstr "Διαγραφή"
 
-#: el/default.csv:79 
+#: el/default.csv:79
 msgid "Delivery"
 msgstr "Διανομή"
 
-#: el/default.csv:80 
+#: el/default.csv:80
 msgid "Description"
 msgstr "Περιγραφή"
 
-#: el/default.csv:81 
+#: el/default.csv:81
 msgid "Description:"
 msgstr "Περιγραφή:"
 
-#: el/default.csv:82 
+#: el/default.csv:82
 msgid "Details"
 msgstr "Λεπτομέρειες"
 
-#: el/default.csv:83 
+#: el/default.csv:83
 msgid "Discount"
 msgstr "Έκπτωση"
 
-#: el/default.csv:84 
+#: el/default.csv:84
 msgid "Edit"
 msgstr "Επεξεργασία"
 
-#: el/default.csv:85 
+#: el/default.csv:85
 msgid "Edit the account"
 msgstr "Επεξεργασία λογαριασμού"
 
-#: el/default.csv:86 
+#: el/default.csv:86
 msgid "Editing"
 msgstr "Επεξεργασία"
 
-#: el/default.csv:87 
+#: el/default.csv:87
 msgid "Email"
 msgstr "E-mail"
 
-#: el/default.csv:88 
+#: el/default.csv:88
 msgid "Email address"
 msgstr "E-mail"
 
-#: el/default.csv:89 
+#: el/default.csv:89
 msgid "Email:"
 msgstr "E-mail:"
 
-#: el/default.csv:90 
+#: el/default.csv:90
 msgid "End at"
 msgstr "Ολοκληρώθηκε"
 
-#: el/default.csv:91 
+#: el/default.csv:91
 msgid "Error : <br/>"
 msgstr "Σφάλμα: <br/>"
 
-#: el/default.csv:92 
+#: el/default.csv:92
 msgid "Errors : <br/>"
 msgstr "Σφάλματα: <br/>"
 
-#: el/default.csv:93 
+#: el/default.csv:93
 msgid "Export your customers"
 msgstr "Εξαγωγή πελατών"
 
-#: el/default.csv:94 
+#: el/default.csv:94
 msgid "Extension not allowed, '%s' only"
 msgstr "Η επέκταση αυτή δεν επιτρέπεται, μόνο '%s'"
 
-#: el/default.csv:95 
+#: el/default.csv:95
 msgid "Extension not allowed, '%s' solamente"
 msgstr "Η επέκταση αυτή δεν επιτρέπεται, μόνο '%s'"
 
-#: el/default.csv:96 
+#: el/default.csv:96
 msgid "Facebook"
 msgstr "Facebook"
 
-#: el/default.csv:97 
+#: el/default.csv:97
 msgid "First name"
 msgstr "Όνομα"
 
-#: el/default.csv:98 
+#: el/default.csv:98
 msgid "First name:"
 msgstr "Όνομα:"
 
-#: el/default.csv:99 
+#: el/default.csv:99
 msgid "Firstname"
 msgstr "Όνομα"
 
-#: el/default.csv:100 
+#: el/default.csv:100
 msgid "Firstname:"
 msgstr "Όνομα:"
 
-#: el/default.csv:101 
+#: el/default.csv:101
 msgid "Folder"
 msgstr "Φάκελος"
 
-#: el/default.csv:102 
+#: el/default.csv:102
 msgid "Forgot your password ?"
 msgstr "Ξεχάσατε τον κωδικό σας?"
 
-#: el/default.csv:103 
+#: el/default.csv:103
 msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
 msgstr "Ξεχάσατε τον κωδικό σας? Μην ανησυχείτε! Συμπληρώστε απλώς το E-mail σας και θα σας στείλουμε έναν καινούριο."
 
-#: el/default.csv:104 
+#: el/default.csv:104
 msgid "Form"
 msgstr "Φόρμα"
 
-#: el/default.csv:105 
+#: el/default.csv:105
 msgid "Gender"
 msgstr "Γένος"
 
-#: el/default.csv:106 
+#: el/default.csv:106
 msgid "General"
 msgstr "Γενικά"
 
-#: el/default.csv:107 
+#: el/default.csv:107
 msgid "Hello,"
 msgstr "Γειά,"
 
-#: el/default.csv:108 
+#: el/default.csv:108
 msgid "Here is your new password:"
 msgstr "Ο νέος σας κωδικός:"
 
-#: el/default.csv:109 
+#: el/default.csv:109
 msgid "How do you want to access the backoffice if you remove the only user remaining?"
 msgstr "Πώς θα έχετε πρόσβαση στο backoffice όταν είστε ο μόνος χρήστης που απομένει?"
 
-#: el/default.csv:110 
+#: el/default.csv:110
 msgid "I accept the <u>privacy policy</u>"
 msgstr "Δέχομαι την <u>Πολιτική Προστασίας Προσωπικών Δεδομένων</u>"
 
-#: el/default.csv:111 
+#: el/default.csv:111
 msgid "ID"
 msgstr "ID"
 
-#: el/default.csv:112 
+#: el/default.csv:112
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "Το ύψος της εικόνας, δεν είναι αρκετό. Χρειάζεται %spx ύψος τουλάχιστον."
 
-#: el/default.csv:113 
+#: el/default.csv:113
 msgid "Image not large enough, %spx minimum allowed."
 msgstr "Η εικόνα, δεν είναι αρκετά μεγάλη. Χρειάζεται %spx τουλάχιστον είτε ύψος, είτε πλάτος."
 
-#: el/default.csv:114 
+#: el/default.csv:114
 msgid "Image not large enough, '%s' allowed."
 msgstr "Η εικόνα, δεν είναι αρκετά μεγάλη. Χρειάζεται '%s'."
 
-#: el/default.csv:115 
+#: el/default.csv:115
 msgid "Image successfully saved"
 msgstr "Η εικόνα αποθηκεύτηκε επιτυχώς"
 
-#: el/default.csv:116 
+#: el/default.csv:116
 msgid "Image too high, %spx maximum allowed."
 msgstr "Το ύψος της εικόνας, είναι πολύ μεγάλο. Χρειάζεται μέχρι %spx ύψος."
 
-#: el/default.csv:117 
+#: el/default.csv:117
 msgid "Image too large, %spx maximum allowed."
 msgstr "Η εικόνα είναι αρκετά μεγάλη. Χρειάζεται μέχρι %spx είτε ύψος, είτε πλάτος."
 
-#: el/default.csv:118 
+#: el/default.csv:118
 msgid "Image too large, '%s' allowed."
 msgstr "Η εικόνα είναι αρκετά μεγάλη. Χρειάζεται '%s'."
 
-#: el/default.csv:119 
+#: el/default.csv:119
 msgid "Images"
 msgstr "Εικόνες"
 
-#: el/default.csv:120 
+#: el/default.csv:120
 msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
 msgstr "Για να χρησιμοποιήσετε όλες μας τις δυνατότητες, σας προτείνουμε να χρησιμοποιήσετε τουλάχιστον:<br />"
 
-#: el/default.csv:121 
+#: el/default.csv:121
 msgid "In order to publish your application, we need:<br />- "
 msgstr "Για να εξάγουμε την εφαρμογή σας, χρειαζόμαστε: <br /> -"
 
-#: el/default.csv:122 
+#: el/default.csv:122
 msgid "Incorrect filetype."
 msgstr "Λάθος τύπος αρχείου."
 
-#: el/default.csv:123 
+#: el/default.csv:123
 msgid "Info successfully saved"
 msgstr "Οι πληροφορίες αποθηκεύτηκαν επιτυχώς"
 
-#: el/default.csv:124 
+#: el/default.csv:124
 msgid "Information"
 msgstr "Πληροφορίες"
 
-#: el/default.csv:125 
+#: el/default.csv:125
 msgid "Informations"
 msgstr "Πληροφορίες"
 
-#: el/default.csv:126 
+#: el/default.csv:126
 msgid "Infos successfully saved"
 msgstr "Οι πληροφορίες αποθηκεύτηκαν επιτυχώς"
 
-#: el/default.csv:127 
-msgid "Insert a <br /><span class="bold">cover image</span>"
-msgstr "Προσθέστε μία <br /><span class="bold">εικόνα cover</span>"
+#: el/default.csv:127
+msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgstr "Προσθέστε μία <br /><span class=\"bold\">εικόνα cover</span>"
 
-#: el/default.csv:128 
+#: el/default.csv:128
 msgid "Invalid place"
 msgstr "Λανθασμένη τοποθεσία"
 
-#: el/default.csv:129 
+#: el/default.csv:129
 msgid "Invoice %s"
 msgstr "Παραστατικό %s"
 
-#: el/default.csv:130 
+#: el/default.csv:130
 msgid "Invoices"
 msgstr "Παραστατικά"
 
-#: el/default.csv:131 
+#: el/default.csv:131
 msgid "Last Name"
 msgstr "Επώνυμο"
 
-#: el/default.csv:132 
+#: el/default.csv:132
 msgid "Lastname"
 msgstr "Επώνυμο"
 
-#: el/default.csv:133 
+#: el/default.csv:133
 msgid "Lastname:"
 msgstr "Επώνυμο:"
 
-#: el/default.csv:134 
+#: el/default.csv:134
 msgid "Latitude"
 msgstr "Latitude"
 
-#: el/default.csv:135 
+#: el/default.csv:135
 msgid "Latitude:"
 msgstr "Latitude:"
 
-#: el/default.csv:136 
+#: el/default.csv:136
 msgid "Like"
 msgstr "Μου αρέσει"
 
-#: el/default.csv:137 
+#: el/default.csv:137
 msgid "Likes"
 msgstr "Likes"
 
-#: el/default.csv:138 
+#: el/default.csv:138
 msgid "Link"
 msgstr "Σύνδεσμος"
 
-#: el/default.csv:139 
+#: el/default.csv:139
 msgid "Links"
 msgstr "Σύνδεσμοι"
 
-#: el/default.csv:140 
+#: el/default.csv:140
 msgid "Load More"
 msgstr "Φόρτωση περισσoτέρων"
 
-#: el/default.csv:141 
+#: el/default.csv:141
 msgid "Load more"
 msgstr "Φόρτωση περισσoτέρων"
 
-#: el/default.csv:142 
+#: el/default.csv:142
 msgid "Locate"
 msgstr "Βρείτε στον χάρτη"
 
-#: el/default.csv:143 
+#: el/default.csv:143
 msgid "Location:"
 msgstr "Τοποθεσία:"
 
-#: el/default.csv:144 
+#: el/default.csv:144
 msgid "Log in"
 msgstr "Είσοδος"
 
-#: el/default.csv:145 
+#: el/default.csv:145
 msgid "Log-in"
 msgstr "Είσοδος"
 
-#: el/default.csv:146 
+#: el/default.csv:146
 msgid "Log-out"
 msgstr "Έξοδος"
 
-#: el/default.csv:147 
+#: el/default.csv:147
 msgid "Logged in as"
 msgstr "Σύνδεση ως"
 
-#: el/default.csv:148 
+#: el/default.csv:148
 msgid "Login"
 msgstr "Είσοδος"
 
-#: el/default.csv:149 
+#: el/default.csv:149
 msgid "Longitude"
 msgstr "Longitude"
 
-#: el/default.csv:150 
+#: el/default.csv:150
 msgid "Longitude:"
 msgstr "Longitude:"
 
-#: el/default.csv:151 
+#: el/default.csv:151
 msgid "Loyalty Card"
 msgstr "Κάρτα Πόντων"
 
-#: el/default.csv:152 
+#: el/default.csv:152
 msgid "MM,d yy"
 msgstr "d, MM yy"
 
-#: el/default.csv:153 
+#: el/default.csv:153
 msgid "MM/dd/y"
 msgstr "dd/MM/y"
 
-#: el/default.csv:154 
+#: el/default.csv:154
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "dd/MM/y 'at' hh:mm a"
 
-#: el/default.csv:155 
+#: el/default.csv:155
 msgid "MM/dd/y hh:mm a"
 msgstr "dd/MM/y hh:mm a"
 
-#: el/default.csv:156 
+#: el/default.csv:156
 msgid "MM/dd/yy"
 msgstr "dd/MM/yy"
 
-#: el/default.csv:157 
+#: el/default.csv:157
 msgid "MM/dd/yyyy"
 msgstr "dd/MM/yyyy"
 
-#: el/default.csv:158 
+#: el/default.csv:158
 msgid "MMMM dd y"
 msgstr "dd MMMM y"
 
-#: el/default.csv:159 
+#: el/default.csv:159
 msgid "Main category"
 msgstr "Κύρια κατηγορία"
 
-#: el/default.csv:160 
+#: el/default.csv:160
 msgid "Make this image colorizable"
 msgstr "Δώστε σε αυτό το εικονίδιο δυνατότητα αλλαγής χρώματος"
 
-#: el/default.csv:161 
+#: el/default.csv:161
 msgid "Manage"
 msgstr "Διαχείριση"
 
-#: el/default.csv:162 
+#: el/default.csv:162
 msgid "Map"
 msgstr "Χάρτης"
 
-#: el/default.csv:163 
+#: el/default.csv:163
 msgid "Maps"
 msgstr "Χάρτες"
 
-#: el/default.csv:164 
+#: el/default.csv:164
 msgid "Message from your app %s"
 msgstr "Μήνυμα από την εφαρμογή σας %s"
 
-#: el/default.csv:165 
+#: el/default.csv:165
 msgid "Messages"
 msgstr "Μηνύματα"
 
-#: el/default.csv:166 
+#: el/default.csv:166
 msgid "Miss"
 msgstr "Δεσποινίς"
 
-#: el/default.csv:167 
+#: el/default.csv:167
 msgid "Modules"
 msgstr "Modules"
 
-#: el/default.csv:168 
+#: el/default.csv:168
 msgid "More"
 msgstr "Περισσότερα"
 
-#: el/default.csv:169 
+#: el/default.csv:169
 msgid "Mr"
 msgstr "Κύριος"
 
-#: el/default.csv:170 
+#: el/default.csv:170
 msgid "Mrs"
 msgstr "Κυρία"
 
-#: el/default.csv:171 
+#: el/default.csv:171
 msgid "My Invoices"
 msgstr "Τα παραστατικά μου"
 
-#: el/default.csv:172 
+#: el/default.csv:172
 msgid "My account"
 msgstr "Ο λογαριασμός μου"
 
-#: el/default.csv:173 
+#: el/default.csv:173
 msgid "My information"
 msgstr "Οι πληροφορίες μου"
 
-#: el/default.csv:174 
+#: el/default.csv:174
 msgid "My invoices"
 msgstr "Τα παραστατικά μου"
 
-#: el/default.csv:175 
+#: el/default.csv:175
 msgid "Name"
 msgstr "Όνομα"
 
-#: el/default.csv:176 
+#: el/default.csv:176
 msgid "Never"
 msgstr "Ποτέ"
 
-#: el/default.csv:177 
+#: el/default.csv:177
 msgid "New"
 msgstr "Νέο"
 
-#: el/default.csv:178 
+#: el/default.csv:178
 msgid "Newswall"
 msgstr "Νέα"
 
-#: el/default.csv:179 
+#: el/default.csv:179
 msgid "Next"
 msgstr "Επόμενο"
 
-#: el/default.csv:180 
+#: el/default.csv:180
 msgid "No"
 msgstr "Όχι"
 
-#: el/default.csv:181 
+#: el/default.csv:181
 msgid "No address to display on map."
 msgstr "Δεν υπάρχει διεύθυνση για προβολή στον χάρτη"
 
-#: el/default.csv:182 
+#: el/default.csv:182
 msgid "No file found."
 msgstr "Δεν βρέθηκε αρχείο."
 
-#: el/default.csv:183 
+#: el/default.csv:183
 msgid "No place to display on map."
 msgstr "Δεν υπάρχει τοποθεσία για προβολή στον χάρτη"
 
-#: el/default.csv:184 
+#: el/default.csv:184
 msgid "No results"
 msgstr "Δεν βρέθηκαν αποτελέσματα"
 
-#: el/default.csv:185 
+#: el/default.csv:185
 msgid "No uploaded image"
 msgstr "Δεν ανέβηκε εικόνα"
 
-#: el/default.csv:186 
+#: el/default.csv:186
 msgid "Nothing to display"
 msgstr "Δεν υπάρχει κάτι για προβολή"
 
-#: el/default.csv:187 
+#: el/default.csv:187
 msgid "Number"
 msgstr "Αριθμός"
 
-#: el/default.csv:188 
+#: el/default.csv:188
 msgid "OK"
 msgstr "ΟΚ"
 
-#: el/default.csv:189 
+#: el/default.csv:189
 msgid "OR"
 msgstr "Ή"
 
-#: el/default.csv:190 
+#: el/default.csv:190
 msgid "Ouch, this page doesn't exist"
 msgstr "Ουπς! Αυτή η σελίδα δεν υπάρχει"
 
-#: el/default.csv:191 
+#: el/default.csv:191
 msgid "Padlock"
 msgstr "Λουκέτο"
 
-#: el/default.csv:192 
+#: el/default.csv:192
 msgid "Password"
 msgstr "Κωδικός"
 
-#: el/default.csv:193 
+#: el/default.csv:193
 msgid "Password:"
 msgstr "Κωδικός:"
 
-#: el/default.csv:194 
+#: el/default.csv:194
 msgid "Passwords don't match"
 msgstr "Οι κωδικοί δεν ταυτίζονται"
 
-#: el/default.csv:195 
+#: el/default.csv:195
 msgid "Payment"
 msgstr "Πληρωμή"
 
-#: el/default.csv:196 
+#: el/default.csv:196
 msgid "Phone"
 msgstr "Τηλέφωνο"
 
-#: el/default.csv:197 
+#: el/default.csv:197
 msgid "Phone:"
 msgstr "Τηλέφωνο:"
 
-#: el/default.csv:198 
+#: el/default.csv:198
 msgid "Photos"
 msgstr "Φωτογραφίες"
 
-#: el/default.csv:199 
+#: el/default.csv:199
 msgid "Picture%s"
 msgstr "eikona%s"
 
-#: el/default.csv:200 
+#: el/default.csv:200
 msgid "Places"
 msgstr "Τοποθεσίες"
 
-#: el/default.csv:201 
+#: el/default.csv:201
 msgid "Plans"
 msgstr "Πακέτα"
 
-#: el/default.csv:202 
+#: el/default.csv:202
 msgid "Platform Name"
 msgstr "Όνομα πλατφόρμας"
 
-#: el/default.csv:203 
+#: el/default.csv:203
 msgid "Player"
 msgstr "Player"
 
-#: el/default.csv:204 
+#: el/default.csv:204
 msgid "Please enter a password"
 msgstr "Παρακαλούμε συμπληρώστε έναν κωδικό"
 
-#: el/default.csv:205 
+#: el/default.csv:205
 msgid "Please enter a valid URL."
 msgstr "Παρακαλούμε συμπληρώστε ένα έγκυρο URL."
 
-#: el/default.csv:206 
+#: el/default.csv:206
 msgid "Please enter a valid credit card number."
 msgstr "Παρακαλούμε συμπληρώστε έναν έγκυρο αριθμό κάρτας."
 
-#: el/default.csv:207 
+#: el/default.csv:207
 msgid "Please enter a valid date (ISO)."
 msgstr "Παρακαλούμε συμπληρώστε μία έγκυρη ημερομηνία (ISO)."
 
-#: el/default.csv:208 
+#: el/default.csv:208
 msgid "Please enter a valid date."
 msgstr "Παρακαλούμε συμπληρώστε μία έγκυρη ημερομηνία."
 
-#: el/default.csv:209 
+#: el/default.csv:209
 msgid "Please enter a valid email address"
 msgstr "Παρακαλούμε συμπληρώστε ένα έγκυρο E-mail"
 
-#: el/default.csv:210 
+#: el/default.csv:210
 msgid "Please enter a valid email address."
 msgstr "Παρακαλούμε συμπληρώστε ένα έγκυρο E-mail."
 
-#: el/default.csv:211 
+#: el/default.csv:211
 msgid "Please enter a valid number."
 msgstr "Παρακαλούμε συμπληρώστε έναν έγκυρο αριθμό."
 
-#: el/default.csv:212 
+#: el/default.csv:212
 msgid "Please enter a valid url"
 msgstr "Παρακαλούμε συμπληρώστε ένα έγκυρο URL"
 
-#: el/default.csv:213 
+#: el/default.csv:213
 msgid "Please enter a value between {0} and {1} characters long."
 msgstr "Παρακαλούμε συμπληρώστε μία τιμή μεταξύ {0} και {1} χαρακτήρων."
 
-#: el/default.csv:214 
+#: el/default.csv:214
 msgid "Please enter a value between {0} and {1}."
 msgstr "Παρακαλούμε συμπληρώστε μία τιμή μεταξύ {0} και {1}."
 
-#: el/default.csv:215 
+#: el/default.csv:215
 msgid "Please enter a value greater than or equal to {0}."
 msgstr "Παρακαλούμε συμπληρώστε μία τιμή μεγαλύτερη ή ίση της {0}."
 
-#: el/default.csv:216 
+#: el/default.csv:216
 msgid "Please enter a value less than or equal to {0}."
 msgstr "Παρακαλούμε συμπληρώστε μία τιμή μικρότερη ή ίση της {0}."
 
-#: el/default.csv:217 
+#: el/default.csv:217
 msgid "Please enter at least {0} characters."
 msgstr "Παρακαλούμε συμπληρώστε τουλάχιστον {0} χαρακτήρες."
 
-#: el/default.csv:218 
+#: el/default.csv:218
 msgid "Please enter no more than {0} characters."
 msgstr "Παρακαλούμε συμπληρώστε λιγότερους από {0} χαρακτήρες."
 
-#: el/default.csv:219 
+#: el/default.csv:219
 msgid "Please enter only digits."
 msgstr "Παρακαλούμε συμπληρώστε μόνο με αριθμούς."
 
-#: el/default.csv:220 
+#: el/default.csv:220
 msgid "Please enter the same value again."
 msgstr "Παρακαλούμε συμπληρώστε την ίδια τιμή ξανά."
 
-#: el/default.csv:221 
+#: el/default.csv:221
 msgid "Please enter your email address"
 msgstr "Παρακαλούμε συμπληρώστε το E-mail σας"
 
-#: el/default.csv:222 
+#: el/default.csv:222
 msgid "Please enter your email address. We'll send you your password right now."
 msgstr "Παρακαλούμε συμπληρώστε το E-mail σας. Θα σας στείλουμε αμέσως τον κωδικό σας."
 
-#: el/default.csv:223 
+#: el/default.csv:223
 msgid "Please fill in the following fields:"
 msgstr "Παρακαλούμε συμπληρώστε τα πεδία:"
 
-#: el/default.csv:224 
+#: el/default.csv:224
 msgid "Please fix this field."
 msgstr "Παρακαλούμε διορθώστε αυτό το πεδίο."
 
-#: el/default.csv:225 
+#: el/default.csv:225
 msgid "Please log in."
 msgstr "Παρακαλούμε συνδεθείτε."
 
-#: el/default.csv:226 
+#: el/default.csv:226
 msgid "Please, enter a correct email address."
 msgstr "Παρακαλούμε συμπληρώστε ένα έγκυρο E-mail."
 
-#: el/default.csv:227 
+#: el/default.csv:227
 msgid "Please, enter a date greater than today"
 msgstr "Παρακαλούμε συμπληρώστε μία ημερομηνία διαφορετική από την σημερινή"
 
-#: el/default.csv:228 
+#: el/default.csv:228
 msgid "Please, enter a password."
 msgstr "Παρακαλούμε συμπληρώστε έναν κωδικό"
 
-#: el/default.csv:229 
+#: el/default.csv:229
 msgid "Please, enter a valid date"
 msgstr "Παρακαλούμε συμπληρώστε μία έγκυρη ημερομηνία"
 
-#: el/default.csv:230 
+#: el/default.csv:230
 msgid "Podcast"
 msgstr "Podcast"
 
-#: el/default.csv:231 
+#: el/default.csv:231
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (iTunes)"
 
-#: el/default.csv:232 
+#: el/default.csv:232
 msgid "Podcast type is invalid or can't be found"
 msgstr "Ο τύπος του podcast είναι μη-έγκυρος, ή δεν υπάρχει"
 
-#: el/default.csv:233 
+#: el/default.csv:233
 msgid "Postcode"
 msgstr "Τ.Κ."
 
-#: el/default.csv:234 
+#: el/default.csv:234
 msgid "Postcode:"
 msgstr "Τ.Κ."
 
-#: el/default.csv:235 
+#: el/default.csv:235
 msgid "Price:"
 msgstr "Τιμή:"
 
-#: el/default.csv:236 
+#: el/default.csv:236
 msgid "Privacy Policy"
 msgstr "Πολιτική Προστασίας Προσωπικών Δεδομένων"
 
-#: el/default.csv:237 
+#: el/default.csv:237
 msgid "Push"
 msgstr "Push"
 
-#: el/default.csv:238 
+#: el/default.csv:238
 msgid "Push Notifications"
 msgstr "Μηνύματα Push"
 
-#: el/default.csv:239 
+#: el/default.csv:239
 msgid "RSS Feed"
 msgstr "RSS"
 
-#: el/default.csv:240 
+#: el/default.csv:240
 msgid "Required fields"
 msgstr "Υποχρεωτικά πεδία"
 
-#: el/default.csv:241 
+#: el/default.csv:241
 msgid "Resize your picture"
 msgstr "Αλλαγή μεγέθους εικόνας"
 
-#: el/default.csv:242 
+#: el/default.csv:242
 msgid "Resize your picture:"
 msgstr "Αλλαγή μεγέθους εικόνας:"
 
-#: el/default.csv:243 
+#: el/default.csv:243
 msgid "SEND"
 msgstr "Αποστολή"
 
-#: el/default.csv:244 
+#: el/default.csv:244
 msgid "Save"
 msgstr "Αποθήκευση"
 
-#: el/default.csv:245 
+#: el/default.csv:245
 msgid "Search"
 msgstr "Αναζήτηση"
 
-#: el/default.csv:246 
+#: el/default.csv:246
 msgid "Select a country"
 msgstr "Επιλογή χώρας"
 
-#: el/default.csv:247 
+#: el/default.csv:247
 msgid "Select all"
 msgstr "Επιλογή όλων"
 
-#: el/default.csv:248 
+#: el/default.csv:248
 msgid "Send"
 msgstr "Αποστολή"
 
-#: el/default.csv:249 
+#: el/default.csv:249
 msgid "Send your pictures"
 msgstr "Αποστολή εικόνων"
 
-#: el/default.csv:250 
+#: el/default.csv:250
 msgid "Set Meal"
 msgstr "Ορίστε γεύμα"
 
-#: el/default.csv:251 
+#: el/default.csv:251
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
-#: el/default.csv:252 
+#: el/default.csv:252
 msgid "Size:"
 msgstr "Μέγεθος:"
 
-#: el/default.csv:253 
+#: el/default.csv:253
 msgid "Source code"
 msgstr "Πηγαίος κώδικας"
 
-#: el/default.csv:254 
+#: el/default.csv:254
 msgid "Street"
 msgstr "Διεύθυνση"
 
-#: el/default.csv:255 
+#: el/default.csv:255
 msgid "Street:"
 msgstr "Διεύθυνση:"
 
-#: el/default.csv:256 
+#: el/default.csv:256
 msgid "Subscriptions"
 msgstr "Συνδρομές"
 
-#: el/default.csv:257 
+#: el/default.csv:257
 msgid "Support"
 msgstr "Υποστήριξη"
 
-#: el/default.csv:258 
+#: el/default.csv:258
 msgid "Support Link"
 msgstr "Σύνδεσμος Υποστήριξης"
 
-#: el/default.csv:259 
+#: el/default.csv:259
 msgid "Tax"
 msgstr "Φόρος"
 
-#: el/default.csv:260 
+#: el/default.csv:260
 msgid "Taxes"
 msgstr "Φόροι"
 
-#: el/default.csv:261 
+#: el/default.csv:261
 msgid "Text"
 msgstr "Κείμενο"
 
-#: el/default.csv:262 
+#: el/default.csv:262
 msgid "The account has been successfully saved"
 msgstr "Ο λογαριασμός αποθηκεύτηκε επιτυχώς"
 
-#: el/default.csv:263 
+#: el/default.csv:263
 msgid "The address you're looking for does not exists."
 msgstr "Η διεύθυνση που αναζητάτε δεν υπάρχει."
 
-#: el/default.csv:264 
+#: el/default.csv:264
 msgid "The email is required"
 msgstr "Το E-mail είναι υποχρεωτικό"
 
-#: el/default.csv:265 
+#: el/default.csv:265
 msgid "The file %s does not exist"
 msgstr "Το αρχείο %s δεν υπάρχει"
 
-#: el/default.csv:266 
+#: el/default.csv:266
 msgid "The file '%s' does not exist"
 msgstr "Το αρχείο '%s' δεν υπάρχει"
 
-#: el/default.csv:267 
+#: el/default.csv:267
 msgid "The image '%s' does not exist"
 msgstr "Η εικόνα '%s' δεν υπάρχει"
 
-#: el/default.csv:268 
+#: el/default.csv:268
 msgid "The image size '%s' could not be detected."
 msgstr "Δεν εφικτό να ανιχνευτεί το μέγεθος εικόνας '%s'."
 
-#: el/default.csv:269 
+#: el/default.csv:269
 msgid "The old password does not match the entered password."
 msgstr "Ο παλιός Κωδικός δεν ταυτίζεται με τον καταχωρημένο Κωδικό."
 
-#: el/default.csv:270 
+#: el/default.csv:270
 msgid "The password is required"
 msgstr "Ο Κωδικός είναι υποχρεωτικός"
 
-#: el/default.csv:271 
+#: el/default.csv:271
 msgid "The password must be at least 6 characters"
 msgstr "Ο Κωδικός πρέπει να αποτελείται από τουλάχιστον 6 χαρακτήρες"
 
-#: el/default.csv:272 
+#: el/default.csv:272
 msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
 msgstr "Η πληρωμή ακυρώθηκε. Μήπως κάτι δεν πήγε καλά? Παρακαλούμε με διστάσσετε να επικοινωνήσετε μαζί μας."
 
-#: el/default.csv:273 
+#: el/default.csv:273
 msgid "This administrator does not exist"
 msgstr "Αυτός ο Διαχειριστής δεν υπάρχει"
 
-#: el/default.csv:274 
+#: el/default.csv:274
 msgid "This email address is already used"
 msgstr "Αυτο το E-mail χρησιμοποιείται ήδη"
 
-#: el/default.csv:275 
+#: el/default.csv:275
 msgid "This field is required"
 msgstr "Αυτό το πεδίο είναι υποχρεωτικό"
 
-#: el/default.csv:276 
+#: el/default.csv:276
 msgid "This field is required."
 msgstr "Αυτο το πεδίο είναι υποχρεωτικό"
 
-#: el/default.csv:277 
+#: el/default.csv:277
 msgid "This section is unlocked for mobile users only"
 msgstr "Αυτή η ενότητα είναι προσβάσιμη από χρήστες κινητών μόνο"
 
-#: el/default.csv:278 
+#: el/default.csv:278
 msgid "This user does not exist."
 msgstr "Αυτός ο χρήστης δεν υπάρχει"
 
-#: el/default.csv:279 
+#: el/default.csv:279
 msgid "Timezone"
 msgstr "Ζώνη ώρας"
 
-#: el/default.csv:280 
+#: el/default.csv:280
 msgid "Title"
 msgstr "Τίτλος"
 
-#: el/default.csv:281 
+#: el/default.csv:281
 msgid "Title:"
 msgstr "Τίτλος:"
 
-#: el/default.csv:282 
+#: el/default.csv:282
 msgid "Total"
 msgstr "Σύνολο"
 
-#: el/default.csv:283 
+#: el/default.csv:283
 msgid "Translations"
 msgstr "Μεταφράσεις"
 
-#: el/default.csv:284 
+#: el/default.csv:284
 msgid "Unable to add the contact to your address book"
 msgstr "Δεν ήταν εφικτή η προσθήκη της επαφής στο βιβλίο επαφών σας"
 
-#: el/default.csv:285 
+#: el/default.csv:285
 msgid "Unable to calculate the route."
 msgstr "Δεν ήταν εφικτός ο υπολογισμός της διαδρομής."
 
-#: el/default.csv:286 
+#: el/default.csv:286
 msgid "Unable to save image"
 msgstr "Δεν ήταν εφικτή η αποθήκευση της εικόνας"
 
-#: el/default.csv:287 
+#: el/default.csv:287
 msgid "Unrecognized image format"
 msgstr "Άγνωστος τύπος αρχείου"
 
-#: el/default.csv:288 
+#: el/default.csv:288
 msgid "Updated at"
 msgstr "Ανανεώθηκε στις"
 
-#: el/default.csv:289 
+#: el/default.csv:289
 msgid "Use this coupon"
 msgstr "Χρήση του κουπονιού"
 
-#: el/default.csv:290 
+#: el/default.csv:290
 msgid "User"
 msgstr "Χρήστης"
 
-#: el/default.csv:291 
+#: el/default.csv:291
 msgid "User successfully saved"
 msgstr "Ο χρήστης αποθηκεύτηκε επιτυχώς"
 
-#: el/default.csv:292 
+#: el/default.csv:292
 msgid "Username"
 msgstr "Όνομα χρήστη"
 
-#: el/default.csv:293 
+#: el/default.csv:293
 msgid "Users"
 msgstr "Χρήστες"
 
-#: el/default.csv:294 
+#: el/default.csv:294
 msgid "VAT Number"
 msgstr "ΑΦΜ"
 
-#: el/default.csv:295 
+#: el/default.csv:295
 msgid "Valid until"
 msgstr "Ισχύει έως"
 
-#: el/default.csv:296 
+#: el/default.csv:296
 msgid "Validate"
 msgstr "Επικύρωση"
 
-#: el/default.csv:297 
+#: el/default.csv:297
 msgid "Version %s"
 msgstr "Έκδοση %s"
 
-#: el/default.csv:298 
+#: el/default.csv:298
 msgid "Video"
 msgstr "Vídeo"
 
-#: el/default.csv:299 
+#: el/default.csv:299
 msgid "Videos"
 msgstr "Vídeos"
 
-#: el/default.csv:300 
+#: el/default.csv:300
 msgid "View"
 msgstr "Προβολή"
 
-#: el/default.csv:301 
+#: el/default.csv:301
 msgid "We are sorry but this address is already used."
 msgstr "Συγνώμη, αλλά αυτή η διεύθυνση χρησιμοποιείται ήδη."
 
-#: el/default.csv:302 
+#: el/default.csv:302
 msgid "We are sorry but this email address already exists."
 msgstr "Συγνώμη, αλλά αυτό το E-mail χρησιμοποιείται ήδη."
 
-#: el/default.csv:303 
+#: el/default.csv:303
 msgid "We are sorry but this feature is not available yet"
 msgstr "Συγνώμη, αλλά αυτή η δυνατότητα δεν είναι ακόμα διαθέσιμη."
 
-#: el/default.csv:304 
+#: el/default.csv:304
 msgid "Website"
 msgstr "Ιστοσελίδα"
 
-#: el/default.csv:305 
+#: el/default.csv:305
 msgid "Yes"
 msgstr "Ναι"
 
-#: el/default.csv:306 
+#: el/default.csv:306
 msgid "You already have this user in your contact"
 msgstr "Έχετε ήδη αυτό τον χρήστη στις επαφές σας"
 
-#: el/default.csv:307 
+#: el/default.csv:307
 msgid "You are gone offline"
 msgstr "Είστε εκτός σύνδεσης"
 
-#: el/default.csv:308 
+#: el/default.csv:308
 msgid "You can upload a pem certificate only."
 msgstr "Μπορείτε να ανεβάσετε μόνο ένα πιστοποιητικό .pem."
 
-#: el/default.csv:309 
+#: el/default.csv:309
 msgid "You can upload a zip archive only."
 msgstr "Μπορείτε να ανεβάσετε μόνο συμπιεσμένο αρχείο .zip."
 
-#: el/default.csv:310 
+#: el/default.csv:310
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "Μπορείτε να ανεβάσετε μόνο αρχείο εικονιδίου (.ico ή .png)."
 
-#: el/default.csv:311 
+#: el/default.csv:311
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgstr "Μπορείτε να ανεβάσετε μόνο αρχείο εικόνας (.jpg, .jpeg, .gif ή .png)."
 
-#: el/default.csv:312 
+#: el/default.csv:312
 msgid "You can't upload more than one file at a time."
 msgstr "Μπορείτε να ανεβάσετε μόνο ένα αρχείο τη φορά."
 
-#: el/default.csv:313 
+#: el/default.csv:313
 msgid "You must be logged in to post a comment"
 msgstr "Πρέπει να είστε συνδεδεμένοι για να κάνετε σχόλιο"
 
-#: el/default.csv:314 
+#: el/default.csv:314
 msgid "You must give the permission to the app to add a contact to your address book"
 msgstr "Πρέπει να δώσετε άδεια πρόσβασης στις επαφές σας στην εφαρμογή."
 
-#: el/default.csv:315 
+#: el/default.csv:315
 msgid "You must share your location to access this page."
 msgstr "Πρέπει να μοιραστείτε την τοποθεσία σας για να έχετε πρόσβαση σε αυτή την σελίδα."
 
-#: el/default.csv:316 
+#: el/default.csv:316
 msgid "Your browser is too old to view the content of our website.<br />"
 msgstr "Ο browser σας είναι πολύ παλιός για να δείξει το περιεχόμενο της ιστοσελίδας μας.<br />"
 
-#: el/default.csv:317 
+#: el/default.csv:317
 msgid "Your comment"
 msgstr "Σχόλιο"
 
-#: el/default.csv:318 
+#: el/default.csv:318
 msgid "Your email address"
 msgstr "E-mail"
 
-#: el/default.csv:319 
+#: el/default.csv:319
 msgid "Your email address does not exist"
 msgstr "Το E-mail σας δεν υπάρχει"
 
-#: el/default.csv:320 
+#: el/default.csv:320
 msgid "Your name"
 msgstr "Όνομα"
 
-#: el/default.csv:321 
+#: el/default.csv:321
 msgid "Your new password has been sent to the entered email address"
 msgstr "Ο νέος σας Κωδικός εστάλει επιτυχώς στο συμπληρωμένο E-mail"
 
-#: el/default.csv:322 
+#: el/default.csv:322
 msgid "Your password does not match the entered password."
 msgstr "Ο Κωδικός δεν ταυτίζεται με τον καταχωρημένο Κωδικό."
 
-#: el/default.csv:323 
+#: el/default.csv:323
 msgid "Youtube"
 msgstr "Youtube"
 
-#: el/default.csv:324 
+#: el/default.csv:324
 msgid "close"
 msgstr "κλείσιμο"
 
-#: el/default.csv:325 
+#: el/default.csv:325
 msgid "day"
 msgstr "ημέρα"
 
-#: el/default.csv:326 
+#: el/default.csv:326
 msgid "days"
 msgstr "ημέρες"
 
-#: el/default.csv:327 
+#: el/default.csv:327
 msgid "en"
 msgstr "el"
 
-#: el/default.csv:328 
+#: el/default.csv:328
 msgid "hour"
 msgstr "ώρα"
 
-#: el/default.csv:329 
+#: el/default.csv:329
 msgid "hours"
 msgstr "ώρες"
 
-#: el/default.csv:330 
+#: el/default.csv:330
 msgid "loading"
 msgstr "φόρτωση"
 
-#: el/default.csv:331 
+#: el/default.csv:331
 msgid "minute"
 msgstr "λεπτό"
 
-#: el/default.csv:332 
+#: el/default.csv:332
 msgid "minutes"
 msgstr "λεπτά"
 
-#: el/default.csv:333 
+#: el/default.csv:333
 msgid "picture"
 msgstr "φωτογραφία"
 
-#: el/default.csv:334 
+#: el/default.csv:334
 msgid "second"
 msgstr "δευτερόλεπτο"
 
-#: el/default.csv:335 
+#: el/default.csv:335
 msgid "seconds"
 msgstr "δευτερόλεπτα"
 
-#: el/default.csv:336 
+#: el/default.csv:336
 msgid "title"
 msgstr "τίτλος"
 
-#: el/default.csv:337 
+#: el/default.csv:337
 msgid "titles"
 msgstr "τίτλοι"
 
-#: el/default.csv:338 
+#: el/default.csv:338
 msgid "to add a subfolder."
 msgstr "για να προσθέστε υποφάκελο."
-

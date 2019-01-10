@@ -1,134 +1,138 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: fr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/form.csv:1 
+#: fr/form.csv:1
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> doit être une valeur numerique<br />"
 
-#: fr/form.csv:2 
+#: fr/form.csv:2
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong> doit être une date valide (e.g. dd/mm/yyyy)<br />"
 
-#: fr/form.csv:3 
+#: fr/form.csv:3
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong> doit être une date<br />"
 
-#: fr/form.csv:4 
+#: fr/form.csv:4
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> doit être une adresse email valide<br />"
 
-#: fr/form.csv:5 
+#: fr/form.csv:5
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> doit être renseigné<br />"
 
-#: fr/form.csv:6 
+#: fr/form.csv:6
 msgid "Add a field"
 msgstr "Ajouter un champ"
 
-#: fr/form.csv:7 
+#: fr/form.csv:7
 msgid "Add a section"
 msgstr "Ajouter une section"
 
-#: fr/form.csv:8 
+#: fr/form.csv:8
 msgid "Add an option"
 msgstr "Ajouter une option"
 
-#: fr/form.csv:9 
+#: fr/form.csv:9
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Une erreur est survenue lors de la sauvegarde. Un champ n'a pas pu être identifié."
 
-#: fr/form.csv:10 
+#: fr/form.csv:10
 msgid "Are you sure you want to remove this field?"
 msgstr "Etes-vous sûr de vouloir supprimer ce champ ?"
 
-#: fr/form.csv:11 
+#: fr/form.csv:11
 msgid "Are you sure you want to remove this section?"
 msgstr "Etes-vous sûr de vouloir supprimer cette section ?"
 
-#: fr/form.csv:12 
+#: fr/form.csv:12
 msgid "Checkbox"
 msgstr "Checkbox"
 
-#: fr/form.csv:13 
+#: fr/form.csv:13
 msgid "Choose a field type:"
 msgstr "Choisissez un type de champ :"
 
-#: fr/form.csv:14 
+#: fr/form.csv:14
 msgid "Create a new field"
 msgstr "Créer un nouveau champ"
 
-#: fr/form.csv:15 
+#: fr/form.csv:15
 msgid "Date/Hour"
 msgstr "Date/Heure"
 
-#: fr/form.csv:16 
+#: fr/form.csv:16
 msgid "Drop down"
 msgstr "Liste déroulante"
 
-#: fr/form.csv:17 
+#: fr/form.csv:17
 msgid "Edit field %s"
 msgstr "Editer le champ %s"
 
-#: fr/form.csv:18 
+#: fr/form.csv:18
 msgid "Field name"
 msgstr "Nom du champ"
 
-#: fr/form.csv:19 
+#: fr/form.csv:19
 msgid "Field name:"
 msgstr "Nom du champ :"
 
-#: fr/form.csv:20 
+#: fr/form.csv:20
 msgid "Geolocation"
 msgstr "Géolocalisation"
 
-#: fr/form.csv:21 
+#: fr/form.csv:21
 msgid "Hello,"
 msgstr "Bonjour,"
 
-#: fr/form.csv:22 
+#: fr/form.csv:22
 msgid "Manage fields"
 msgstr "Gérer les champs"
 
-#: fr/form.csv:23 
+#: fr/form.csv:23
 msgid "Manage options:"
 msgstr "Gérer les options :"
 
-#: fr/form.csv:24 
+#: fr/form.csv:24
 msgid "Multiline text"
 msgstr "Texte multi-ligne"
 
-#: fr/form.csv:25 
+#: fr/form.csv:25
 msgid "Option"
 msgstr "Option"
 
-#: fr/form.csv:26 
+#: fr/form.csv:26
 msgid "Radio"
 msgstr "Radio"
 
-#: fr/form.csv:27 
+#: fr/form.csv:27
 msgid "Recipient email:"
 msgstr "Email du destinataire :"
 
-#: fr/form.csv:28 
+#: fr/form.csv:28
 msgid "The form has been sent successfully"
 msgstr "Le formulaire a été envoyé avec succès"
 
-#: fr/form.csv:29 
+#: fr/form.csv:29
 msgid "You have to choose a field type."
 msgstr "Vous devez choisir un type de champ."
 
-#: fr/form.csv:30 
+#: fr/form.csv:30
 msgid "Your app's form"
 msgstr "Formulaire de votre application"
 
-#: fr/form.csv:31 
+#: fr/form.csv:31
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Votre formulaire a été rempli, voici les réponses :"
-

@@ -1,126 +1,130 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ca\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/comment.csv:1 
+#: ca/comment.csv:1
 msgid "'Near me' radius (in km):"
-msgstr "prop de mi "Prop de mi 'ràdio (en km):"
+msgstr "prop de mi \"Prop de mi 'ràdio (en km):"
 
-#: ca/comment.csv:2 
+#: ca/comment.csv:2
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "S'ha produït un error en suprimir aquesta resposta. Intenta-ho de nou més tard."
 
-#: ca/comment.csv:3 
+#: ca/comment.csv:3
 msgid "Create a news:"
 msgstr "Crear una notícia:"
 
-#: ca/comment.csv:4 
+#: ca/comment.csv:4
 msgid "Hide this info"
 msgstr "Ocultar aquesta informació"
 
-#: ca/comment.csv:5 
+#: ca/comment.csv:5
 msgid "Information successfully deleted"
 msgstr "Informació eliminat correctament"
 
-#: ca/comment.csv:6 
+#: ca/comment.csv:6
 msgid "Information successfully hidden"
 msgstr "Informació oculta amb èxit"
 
-#: ca/comment.csv:7 
+#: ca/comment.csv:7
 msgid "Information successfully saved"
 msgstr "Informació guardat correctament"
 
-#: ca/comment.csv:8 
+#: ca/comment.csv:8
 msgid "Information successfully shown"
 msgstr "Informació mostra amb èxit"
 
-#: ca/comment.csv:9 
+#: ca/comment.csv:9
 msgid "Insert a"
 msgstr "inseriu un"
 
-#: ca/comment.csv:10 
+#: ca/comment.csv:10
 msgid "It will be visible only after validation by our team."
 msgstr "Serà visible només després de validació pel nostre equip."
 
-#: ca/comment.csv:11 
+#: ca/comment.csv:11
 msgid "My customers answers"
 msgstr "Els meus clients respostes"
 
-#: ca/comment.csv:12 
+#: ca/comment.csv:12
 msgid "My customers' comments"
 msgstr "Comentaris dels meus clients"
 
-#: ca/comment.csv:13 
+#: ca/comment.csv:13
 msgid "Near me"
 msgstr "prop de mi"
 
-#: ca/comment.csv:14 
+#: ca/comment.csv:14
 msgid "Near me settings"
 msgstr "Prop de mi ajustos"
 
-#: ca/comment.csv:15 
+#: ca/comment.csv:15
 msgid "Post"
 msgstr "lloc"
 
-#: ca/comment.csv:16 
+#: ca/comment.csv:16
 msgid "Publishing date"
 msgstr "data de publicació"
 
-#: ca/comment.csv:17 
+#: ca/comment.csv:17
 msgid "Radius"
 msgstr "ràdi"
 
-#: ca/comment.csv:18 
+#: ca/comment.csv:18
 msgid "Radius must be a valid numeric value."
 msgstr "El radi ha de ser un valor numèric vàlid."
 
-#: ca/comment.csv:19 
+#: ca/comment.csv:19
 msgid "Radius must be provided."
 msgstr "El radi ha de ser proporcionada."
 
-#: ca/comment.csv:20 
+#: ca/comment.csv:20
 msgid "Recent"
 msgstr "recent"
 
-#: ca/comment.csv:21 
+#: ca/comment.csv:21
 msgid "Show this info"
 msgstr "Mostra aquesta informació"
 
-#: ca/comment.csv:22 
+#: ca/comment.csv:22
 msgid "There is no comment for this news"
 msgstr "No hi ha comentaris per aquesta notícia"
 
-#: ca/comment.csv:23 
+#: ca/comment.csv:23
 msgid "Was flagged as inappropriate"
 msgstr "Va ser marcat com inadequada"
 
-#: ca/comment.csv:24 
+#: ca/comment.csv:24
 msgid "You can't like more than once the same news"
 msgstr "Vostè no pot rebre més d'una vegada la mateixa notícia"
 
-#: ca/comment.csv:25 
+#: ca/comment.csv:25
 msgid "You need to be connected to create a post"
 msgstr "Has d'estar connectat per crear un lloc"
 
-#: ca/comment.csv:26 
+#: ca/comment.csv:26
 msgid "Your flag has successfully been notified"
 msgstr "La seva bandera èxit ha estat notificada"
 
-#: ca/comment.csv:27 
+#: ca/comment.csv:27
 msgid "Your like has been successfully added"
 msgstr "El teu com ha estat afegit amb èxit"
 
-#: ca/comment.csv:28 
+#: ca/comment.csv:28
 msgid "Your message has been successfully saved."
 msgstr "El seu missatge ha estat guardat amb èxit."
 
-#: ca/comment.csv:29 
+#: ca/comment.csv:29
 msgid "Your post was successfully added"
 msgstr "El teu missatge s'ha afegit correctament"
-

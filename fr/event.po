@@ -1,114 +1,118 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: fr\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/event.csv:1 
+#: fr/event.csv:1
 msgid "An error occurred while deleting the event"
 msgstr "Une erreur est survenue lors de la suppression de l'événement"
 
-#: fr/event.csv:2 
+#: fr/event.csv:2
 msgid "An error occurred while loading this event"
 msgstr "Une erreur est survenue lors du chargement de l'événement"
 
-#: fr/event.csv:3 
+#: fr/event.csv:3
 msgid "Beginning date:"
 msgstr "Date de début :"
 
-#: fr/event.csv:4 
+#: fr/event.csv:4
 msgid "Calendar successfully deleted"
 msgstr "Agenda supprimé avec succès"
 
-#: fr/event.csv:5 
+#: fr/event.csv:5
 msgid "Calendar's URL"
 msgstr "Adresse de votre agenda"
 
-#: fr/event.csv:6 
+#: fr/event.csv:6
 msgid "Calendar's title"
 msgstr "Titre de votre agenda"
 
-#: fr/event.csv:7 
+#: fr/event.csv:7
 msgid "Change picture"
 msgstr "Modifiez l'illustration"
 
-#: fr/event.csv:8 
+#: fr/event.csv:8
 msgid "Create a new event"
 msgstr "Créer un nouvel événement"
 
-#: fr/event.csv:9 
+#: fr/event.csv:9
 msgid "Custom Page"
 msgstr "Custom"
 
-#: fr/event.csv:10 
+#: fr/event.csv:10
 msgid "Delete this calendar?"
 msgstr "Êtes-vous sûr de vouloir supprimer cet agenda ?"
 
-#: fr/event.csv:11 
+#: fr/event.csv:11
 msgid "Delete this event?"
 msgstr "Êtes-vous sûr de vouloir supprimer cet événement ?"
 
-#: fr/event.csv:12 
+#: fr/event.csv:12
 msgid "Ending date:"
 msgstr "Date de fin :"
 
-#: fr/event.csv:13 
+#: fr/event.csv:13
 msgid "Enter your calendar's title"
 msgstr "Entrez le titre de votre agenda"
 
-#: fr/event.csv:14 
+#: fr/event.csv:14
 msgid "Event"
 msgstr "Evénement"
 
-#: fr/event.csv:15 
+#: fr/event.csv:15
 msgid "Event successfully deleted"
 msgstr "Evènement supprimé avec succès"
 
-#: fr/event.csv:16 
+#: fr/event.csv:16
 msgid "Event successfully saved"
 msgstr "L'événement a été sauvegardé avec succès"
 
-#: fr/event.csv:17 
+#: fr/event.csv:17
 msgid "Event title:"
 msgstr "Nom de l'événement :"
 
-#: fr/event.csv:18 
+#: fr/event.csv:18
 msgid "Illustration"
 msgstr "Illustration"
 
-#: fr/event.csv:19 
+#: fr/event.csv:19
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Taille maximum : 2000x2000px - formats autorisés : jpg et png"
 
-#: fr/event.csv:20 
+#: fr/event.csv:20
 msgid "Modify the event"
 msgstr "Modifier l'événement"
 
-#: fr/event.csv:21 
+#: fr/event.csv:21
 msgid "RSVP"
 msgstr "RSVP"
 
-#: fr/event.csv:22 
+#: fr/event.csv:22
 msgid "RSVP URL:"
 msgstr "Url RSVP :"
 
-#: fr/event.csv:23 
+#: fr/event.csv:23
 msgid "Your Facebook page ID"
 msgstr "Identifiant de votre page Facebook"
 
-#: fr/event.csv:24 
-msgid "Your Facebook page ID <span class="required-entry">*</span> :"
-msgstr "Identifiant de votre page Facebook <span class="required-entry">*</span> :"
+#: fr/event.csv:24
+msgid "Your Facebook page ID <span class=\"required-entry\">*</span> :"
+msgstr "Identifiant de votre page Facebook <span class=\"required-entry\">*</span> :"
 
-#: fr/event.csv:25 
+#: fr/event.csv:25
 msgid "Your calendar is empty"
 msgstr "Il n'y a pas d'événements dans votre agenda"
 
-#: fr/event.csv:26 
+#: fr/event.csv:26
 msgid "iCal"
 msgstr "iCal"
-

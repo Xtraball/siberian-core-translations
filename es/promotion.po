@@ -1,70 +1,74 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: es\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/promotion.csv:1 
+#: es/promotion.csv:1
 msgid "On"
 msgstr "El"
 
-#: es/promotion.csv:2 
+#: es/promotion.csv:2
 msgid "Details"
 msgstr "Descripción"
 
-#: es/promotion.csv:3 
+#: es/promotion.csv:3
 msgid "End at"
 msgstr "Se termina"
 
-#: es/promotion.csv:4 
+#: es/promotion.csv:4
 msgid "Closed discounts"
 msgstr "Descuentos terminados"
 
-#: es/promotion.csv:5 
+#: es/promotion.csv:5
 msgid "Delete this discount?"
 msgstr "¿ Está seguro que desea eliminar este cupón de descuento ?"
 
-#: es/promotion.csv:6 
+#: es/promotion.csv:6
 msgid "Valid until"
 msgstr "Válido hasta el"
 
-#: es/promotion.csv:7 
+#: es/promotion.csv:7
 msgid "Use this coupon"
 msgstr "Utilice este cupón de descuento"
 
-#: es/promotion.csv:8 
+#: es/promotion.csv:8
 msgid "Can only be used once"
 msgstr "Solo se puede utilizar una vez"
 
-#: es/promotion.csv:9 
+#: es/promotion.csv:9
 msgid "Please log in."
 msgstr "Inicie su sesión ..."
 
-#: es/promotion.csv:10 
+#: es/promotion.csv:10
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "Se ha producido un error al guardar su descuento. Es obligatorio rellenar todos los campos"
 
-#: es/promotion.csv:11 
+#: es/promotion.csv:11
 msgid "Please select an end date greater than the current date."
 msgstr "Por favor seleccione una fecha de fin posterior a la fecha actual."
 
-#: es/promotion.csv:12 
+#: es/promotion.csv:12
 msgid "Discount successfully saved"
 msgstr "Descuento guardado correctamente"
 
-#: es/promotion.csv:13 
+#: es/promotion.csv:13
 msgid "Discount successfully deleted"
 msgstr "Descuento eliminado correctamente"
 
-#: es/promotion.csv:14 
+#: es/promotion.csv:14
 msgid "You must be logged in to use a discount"
 msgstr "Usted debe estar conectado para utilizar un cupón de descuento"
 
-#: es/promotion.csv:15 
+#: es/promotion.csv:15
 msgid "You have already use this discount"
 msgstr "Usted ya ha utilizado este cupón de descuento"
-

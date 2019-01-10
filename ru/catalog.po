@@ -1,134 +1,138 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ru\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/catalog.csv:1 
+#: ru/catalog.csv:1
 msgid "%s - All"
 msgstr "%s - Все"
 
-#: ru/catalog.csv:2 
+#: ru/catalog.csv:2
 msgid "Add a category"
 msgstr "Добавить категорию"
 
-#: ru/catalog.csv:3 
+#: ru/catalog.csv:3
 msgid "Add a format"
 msgstr "Добавить формат"
 
-#: ru/catalog.csv:4 
+#: ru/catalog.csv:4
 msgid "All"
 msgstr "Все"
 
-#: ru/catalog.csv:5 
+#: ru/catalog.csv:5
 msgid "An error occurred while loading your product."
 msgstr "Произошла ошибка при загрузке вашего продукта."
 
-#: ru/catalog.csv:6 
+#: ru/catalog.csv:6
 msgid "An error occurred while saving the category. Please try again later."
 msgstr "Произошла ошибка при сохранении категории. Пожалуйста, повторите попытку позже."
 
-#: ru/catalog.csv:7 
+#: ru/catalog.csv:7
 msgid "An error occurred while saving the product. Please try again later."
 msgstr "Произошла ошибка при сохранении продукта. Пожалуйста, повторите попытку позже."
 
-#: ru/catalog.csv:8 
+#: ru/catalog.csv:8
 msgid "An error occurred while saving the set meal. Please try again later."
 msgstr "Произошла ошибка при сохранении набора продуктов. Пожалуйста, повторите попытку позже"
 
-#: ru/catalog.csv:9 
+#: ru/catalog.csv:9
 msgid "An error occurred while saving. One of your categories could not be identified."
 msgstr "Произошла ошибка при сохранении. Одна из ваших категорий не может быть идентифицирована."
 
-#: ru/catalog.csv:10 
+#: ru/catalog.csv:10
 msgid "An error occurred while saving. One of your products could not be identified."
 msgstr "Произошла ошибка при сохранении. Один из ваших продуктов, не может быть определен."
 
-#: ru/catalog.csv:11 
+#: ru/catalog.csv:11
 msgid "Are you sure you want to delete this product?"
 msgstr "Вы уверены, что хотите удалить этот продукт?"
 
-#: ru/catalog.csv:12 
+#: ru/catalog.csv:12
 msgid "Category"
 msgstr "Категория"
 
-#: ru/catalog.csv:13 
+#: ru/catalog.csv:13
 msgid "Choose a category"
 msgstr "Выберите категорию"
 
-#: ru/catalog.csv:14 
+#: ru/catalog.csv:14
 msgid "Choose a subcategory"
 msgstr "Выберите подкатегорию"
 
-#: ru/catalog.csv:15 
+#: ru/catalog.csv:15
 msgid "Click on a category to display sub-categories"
 msgstr "Нажмите на категорию, чтобы отобразить подкатегории"
 
-#: ru/catalog.csv:16 
+#: ru/catalog.csv:16
 msgid "Create a new product"
 msgstr "Создать новый продукт"
 
-#: ru/catalog.csv:17 
+#: ru/catalog.csv:17
 msgid "Does this product have many formats?"
 msgstr "Этот продукт имеет много форматов?"
 
-#: ru/catalog.csv:18 
+#: ru/catalog.csv:18
 msgid "Edit the"
 msgstr "Редактировать"
 
-#: ru/catalog.csv:19 
+#: ru/catalog.csv:19
 msgid "Edit the product"
 msgstr "Изменить продукт"
 
-#: ru/catalog.csv:20 
+#: ru/catalog.csv:20
 msgid "Format"
 msgstr "Формат"
 
-#: ru/catalog.csv:21 
+#: ru/catalog.csv:21
 msgid "Picture"
 msgstr "Картина"
 
-#: ru/catalog.csv:22 
+#: ru/catalog.csv:22
 msgid "Price"
 msgstr "Прайс"
 
-#: ru/catalog.csv:23 
+#: ru/catalog.csv:23
 msgid "Product"
 msgstr "Продукт"
 
-#: ru/catalog.csv:24 
+#: ru/catalog.csv:24
 msgid "Product formats"
 msgstr "Форматы продуктов"
 
-#: ru/catalog.csv:25 
+#: ru/catalog.csv:25
 msgid "Product name"
 msgstr "Наименование продуктов"
 
-#: ru/catalog.csv:26 
+#: ru/catalog.csv:26
 msgid "Rules"
 msgstr "Правила"
 
-#: ru/catalog.csv:27 
+#: ru/catalog.csv:27
 msgid "Set meal successfully deleted."
 msgstr "Набор продуктов успешно удалён"
 
-#: ru/catalog.csv:28 
+#: ru/catalog.csv:28
 msgid "Set meal successfully saved."
 msgstr "Набор продуктов успешно сохранён"
 
-#: ru/catalog.csv:29 
+#: ru/catalog.csv:29
 msgid "Sub-category"
 msgstr "Подкатегория"
 
-#: ru/catalog.csv:30 
+#: ru/catalog.csv:30
 msgid "st"
 msgstr "улица"
 
-#: ru/catalog.csv:31 
+#: ru/catalog.csv:31
 msgid "sub-category"
 msgstr "подкатегория"
-

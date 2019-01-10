@@ -2,667 +2,617 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 09:38+0000\n"
-"PO-Revision-Date: 2019-01-09 09:38+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
-"siberian/mcommerce/zh_Hans/>\n"
-"Language: zh\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/siberian/mcommerce/zh_Hans/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-09 09:38+0000\n"
+"PO-Revision-Date: 2019-01-09 09:38+0000\n"
+"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/mcommerce.csv:1 
+#: zh/mcommerce.csv:1
 msgid "Cancelled"
 msgstr "取消"
 
-#: zh/mcommerce.csv:2 
+#: zh/mcommerce.csv:2
 msgid "Pending payment"
 msgstr "优秀"
 
-#: zh/mcommerce.csv:3 
+#: zh/mcommerce.csv:3
 msgid "Paid"
 msgstr "付费"
 
-#: zh/mcommerce.csv:4 
+#: zh/mcommerce.csv:4
 msgid "Completed"
 msgstr "完成"
 
-#: zh/mcommerce.csv:5 
+#: zh/mcommerce.csv:5
 msgid "Paypal"
 msgstr "贝宝"
 
-#: zh/mcommerce.csv:6 
+#: zh/mcommerce.csv:6
 msgid "Cash"
 msgstr "现金"
 
-#: zh/mcommerce.csv:7 
+#: zh/mcommerce.csv:7
 msgid "Check"
 msgstr "检查"
 
-#: zh/mcommerce.csv:8 
+#: zh/mcommerce.csv:8
 msgid "Meal Voucher"
 msgstr "餐票"
 
-#: zh/mcommerce.csv:9 
+#: zh/mcommerce.csv:9
 msgid "Credit card (pay upon pickup or delivery)"
 msgstr "信用卡（工资在收集或交付的时间）"
 
-#: zh/mcommerce.csv:10 
+#: zh/mcommerce.csv:10
 msgid "Credit Card by phone"
 msgstr "信用卡电话"
 
-#: zh/mcommerce.csv:11 
+#: zh/mcommerce.csv:11
 msgid "In store"
 msgstr "店"
 
-#: zh/mcommerce.csv:12 
+#: zh/mcommerce.csv:12
 msgid "Carry out"
 msgstr "带走"
 
-#: zh/mcommerce.csv:13 
+#: zh/mcommerce.csv:13
+#: zh/mcommerce.csv:17
 msgid "Delivery"
 msgstr "交货"
 
-#: zh/mcommerce.csv:14 
+#: zh/mcommerce.csv:14
 msgid "Stores"
 msgstr "店"
 
-#: zh/mcommerce.csv:15 
+#: zh/mcommerce.csv:15
+#: zh/mcommerce.csv:49
 msgid "Are you sure you want to delete this store?"
 msgstr "你确定你要删除这家店？"
 
-#: zh/mcommerce.csv:16 
+#: zh/mcommerce.csv:16
 msgid "My stores"
 msgstr "我的店"
 
-#: zh/mcommerce.csv:17 
-msgid "Delivery"
-msgstr "交货"
-
-#: zh/mcommerce.csv:18 
+#: zh/mcommerce.csv:18
 msgid "Delivery methods:"
 msgstr "交货方式："
 
-#: zh/mcommerce.csv:19 
+#: zh/mcommerce.csv:19
 msgid "Delivery radius:"
 msgstr "无线电交货："
 
-#: zh/mcommerce.csv:20 
+#: zh/mcommerce.csv:20
 msgid "Delivery time:"
 msgstr "交货时间："
 
-#: zh/mcommerce.csv:21 
+#: zh/mcommerce.csv:21
 msgid "Delivery fees:"
 msgstr "送货费："
 
-#: zh/mcommerce.csv:22 
+#: zh/mcommerce.csv:22
 msgid "Free delivery starting from:"
 msgstr "送货免费从："
 
-#: zh/mcommerce.csv:23 
+#: zh/mcommerce.csv:23
 msgid "Payment"
 msgstr "付款"
 
-#: zh/mcommerce.csv:24 
+#: zh/mcommerce.csv:24
 msgid "Payment methods:"
 msgstr "付款方式："
 
-#: zh/mcommerce.csv:25 
+#: zh/mcommerce.csv:25
 msgid "Create a store"
 msgstr "创建一个存储"
 
-#: zh/mcommerce.csv:26 
+#: zh/mcommerce.csv:26
 msgid "Edit a store"
 msgstr "编辑商店"
 
-#: zh/mcommerce.csv:27 
+#: zh/mcommerce.csv:27
 msgid "Please choose a delivery method"
 msgstr "请选择送货方式"
 
-#: zh/mcommerce.csv:28 
+#: zh/mcommerce.csv:28
 msgid "Please choose a payment method"
 msgstr "请选择付款方式"
 
-#: zh/mcommerce.csv:29 
+#: zh/mcommerce.csv:29
 msgid "Order confirmation"
 msgstr "订单确认"
 
-#: zh/mcommerce.csv:30 
+#: zh/mcommerce.csv:30
 msgid "Customer Service"
 msgstr "顾客服务"
 
-#: zh/mcommerce.csv:31 
+#: zh/mcommerce.csv:31
 msgid "My categories"
 msgstr "我的类别"
 
-#: zh/mcommerce.csv:32 
+#: zh/mcommerce.csv:32
 msgid "My products"
 msgstr "我的产品"
 
-#: zh/mcommerce.csv:33 
+#: zh/mcommerce.csv:33
 msgid "Orders"
 msgstr "订单"
 
-#: zh/mcommerce.csv:34 
+#: zh/mcommerce.csv:34
 msgid "Settings"
 msgstr "设置"
 
-#: zh/mcommerce.csv:35 
+#: zh/mcommerce.csv:35
 msgid "Are you sure you want to delete this category and all its subcategories?"
 msgstr "你确定你要删除这个类别及其所有子类别？"
 
-#: zh/mcommerce.csv:36 
+#: zh/mcommerce.csv:36
 msgid "Are you sure you want to close without saving"
 msgstr "你确定要关闭不保存"
 
-#: zh/mcommerce.csv:37 
+#: zh/mcommerce.csv:37
 msgid "My orders"
 msgstr "我的订单"
 
-#: zh/mcommerce.csv:38 
+#: zh/mcommerce.csv:38
 msgid "Number"
 msgstr "号码"
 
-#: zh/mcommerce.csv:39 
+#: zh/mcommerce.csv:39
 msgid "Status"
 msgstr "状态"
 
-#: zh/mcommerce.csv:40 
+#: zh/mcommerce.csv:40
+#: zh/mcommerce.csv:152
 msgid "Customer"
 msgstr "顾客"
 
-#: zh/mcommerce.csv:41 
+#: zh/mcommerce.csv:41
+#: zh/mcommerce.csv:140
+#: zh/mcommerce.csv:159
 msgid "Total"
 msgstr "总"
 
-#: zh/mcommerce.csv:42 
+#: zh/mcommerce.csv:42
+#: zh/mcommerce.csv:156
 msgid "Product"
 msgstr "产品"
 
-#: zh/mcommerce.csv:43 
+#: zh/mcommerce.csv:43
 msgid "Connected Printers"
 msgstr "连接打印机"
 
-#: zh/mcommerce.csv:44 
+#: zh/mcommerce.csv:44
 msgid "You have a connected printer? Enter the email address for each store"
 msgstr "你有一台打印机连接？输入电子邮件地址，每个商店"
 
-#: zh/mcommerce.csv:45 
+#: zh/mcommerce.csv:45
 msgid "You have a connected printer? Enter the email address"
 msgstr "你有一台打印机连接？输入电子邮件地址"
 
-#: zh/mcommerce.csv:46 
+#: zh/mcommerce.csv:46
+#: zh/mcommerce.csv:142
 msgid "Tax"
 msgstr "税"
 
-#: zh/mcommerce.csv:47 
+#: zh/mcommerce.csv:47
 msgid "My taxes"
 msgstr "我的税"
 
-#: zh/mcommerce.csv:48 
+#: zh/mcommerce.csv:48
 msgid "Are you sure you want to delete this tax?"
 msgstr "你确定你要删除这个税吗？"
 
-#: zh/mcommerce.csv:49 
-msgid "Are you sure you want to delete this store?"
-msgstr "你确定你要删除这家店？"
-
-#: zh/mcommerce.csv:50 
+#: zh/mcommerce.csv:50
 msgid "Create a new product"
 msgstr "创建一个新的产品"
 
-#: zh/mcommerce.csv:51 
+#: zh/mcommerce.csv:51
 msgid "Edit the product %s"
 msgstr "编辑产品％s"
 
-#: zh/mcommerce.csv:52 
+#: zh/mcommerce.csv:52
 msgid "Product name:"
 msgstr "产品名称："
 
-#: zh/mcommerce.csv:53 
+#: zh/mcommerce.csv:53
 msgid "Product name"
 msgstr "产品名称"
 
-#: zh/mcommerce.csv:54 
+#: zh/mcommerce.csv:54
 msgid "Tax:"
 msgstr "税："
 
-#: zh/mcommerce.csv:55 
+#: zh/mcommerce.csv:55
 msgid "Picture"
 msgstr "图像"
 
-#: zh/mcommerce.csv:56 
+#: zh/mcommerce.csv:56
 msgid "Add a picture"
 msgstr "添加图像"
 
-#: zh/mcommerce.csv:57 
+#: zh/mcommerce.csv:57
 msgid "My product's options"
 msgstr "我的产品选项"
 
-#: zh/mcommerce.csv:58 
+#: zh/mcommerce.csv:58
 msgid "My product's categories"
 msgstr "我的产品类别"
 
-#: zh/mcommerce.csv:59 
+#: zh/mcommerce.csv:59
 msgid "You don't have any categories yet"
 msgstr "你有没有类"
 
-#: zh/mcommerce.csv:60 
+#: zh/mcommerce.csv:60
 msgid "Create a new options group"
 msgstr "创建一个选项组新"
 
-#: zh/mcommerce.csv:61 
+#: zh/mcommerce.csv:61
 msgid "Edit the options group %s"
 msgstr "编辑选项组％s"
 
-#: zh/mcommerce.csv:62 
+#: zh/mcommerce.csv:62
 msgid "Name of the options group:"
 msgstr "组名的选项："
 
-#: zh/mcommerce.csv:63 
+#: zh/mcommerce.csv:63
 msgid "e.g., Sauces"
 msgstr "如酱"
 
-#: zh/mcommerce.csv:64 
+#: zh/mcommerce.csv:64
 msgid "At least one option is required:"
 msgstr "要求至少有一个选项："
 
-#: zh/mcommerce.csv:65 
+#: zh/mcommerce.csv:65
 msgid "Add options"
 msgstr "添加选项"
 
-#: zh/mcommerce.csv:66 
+#: zh/mcommerce.csv:66
 msgid "Option name:"
 msgstr "项目名称："
 
-#: zh/mcommerce.csv:67 
+#: zh/mcommerce.csv:67
 msgid "Option name"
 msgstr "选项名称"
 
-#: zh/mcommerce.csv:68 
+#: zh/mcommerce.csv:68
 msgid "Details"
 msgstr "详细信息"
 
-#: zh/mcommerce.csv:69 
+#: zh/mcommerce.csv:69
 msgid "Edit the tax %s"
 msgstr "编辑纳税％s"
 
-#: zh/mcommerce.csv:70 
+#: zh/mcommerce.csv:70
 msgid "Create a new tax"
 msgstr "创建一个新的税收"
 
-#: zh/mcommerce.csv:71 
+#: zh/mcommerce.csv:71
 msgid "Tax name:"
 msgstr "名税："
 
-#: zh/mcommerce.csv:72 
+#: zh/mcommerce.csv:72
 msgid "Tax name"
 msgstr "计税"
 
-#: zh/mcommerce.csv:73 
+#: zh/mcommerce.csv:73
 msgid "Tax rate:"
 msgstr "税率："
 
-#: zh/mcommerce.csv:74 
+#: zh/mcommerce.csv:74
 msgid "20.00%"
 msgstr "21.00 ％"
 
-#: zh/mcommerce.csv:75 
+#: zh/mcommerce.csv:75
 msgid "Store information"
 msgstr "存储信息"
 
-#: zh/mcommerce.csv:76 
+#: zh/mcommerce.csv:76
 msgid "Store name:"
 msgstr "店铺名称："
 
-#: zh/mcommerce.csv:77 
+#: zh/mcommerce.csv:77
 msgid "Store name"
 msgstr "公司名称"
 
-#: zh/mcommerce.csv:78 
+#: zh/mcommerce.csv:78
 msgid "Hours of operation:"
 msgstr "营业时间："
 
-#: zh/mcommerce.csv:79 
+#: zh/mcommerce.csv:79
 msgid "Hours of operation"
 msgstr "小时"
 
-#: zh/mcommerce.csv:80 
+#: zh/mcommerce.csv:80
+#: zh/mcommerce.csv:143
 msgid "Delivery fees"
 msgstr "送货费"
 
-#: zh/mcommerce.csv:81 
+#: zh/mcommerce.csv:81
 msgid "Tax rate"
 msgstr "税率"
 
-#: zh/mcommerce.csv:82 
+#: zh/mcommerce.csv:82
 msgid "Free delivery starting from"
 msgstr "从免费送货"
 
-#: zh/mcommerce.csv:83 
+#: zh/mcommerce.csv:83
 msgid "Delivery area"
 msgstr "送货范围"
 
-#: zh/mcommerce.csv:84 
+#: zh/mcommerce.csv:84
 msgid "Radius in Km"
 msgstr "收音机公里。"
 
-#: zh/mcommerce.csv:85 
+#: zh/mcommerce.csv:85
 msgid "Delivery time"
 msgstr "交货时间"
 
-#: zh/mcommerce.csv:86 
+#: zh/mcommerce.csv:86
 msgid "Time in minutes"
 msgstr "在几分钟时间"
 
-#: zh/mcommerce.csv:87 
+#: zh/mcommerce.csv:87
 msgid "Minimum order:"
 msgstr "最小订货量："
 
-#: zh/mcommerce.csv:88 
+#: zh/mcommerce.csv:88
 msgid "Minimum order"
 msgstr "最小订单"
 
-#: zh/mcommerce.csv:89 
+#: zh/mcommerce.csv:89
 msgid "Username:"
 msgstr "用户名："
 
-#: zh/mcommerce.csv:90 
+#: zh/mcommerce.csv:90
 msgid "Username"
 msgstr "用户名"
 
-#: zh/mcommerce.csv:91 
+#: zh/mcommerce.csv:91
 msgid "Password:"
 msgstr "密码："
 
-#: zh/mcommerce.csv:92 
+#: zh/mcommerce.csv:92
 msgid "Password"
 msgstr "密码"
 
-#: zh/mcommerce.csv:93 
+#: zh/mcommerce.csv:93
 msgid "Signature:"
 msgstr "签名："
 
-#: zh/mcommerce.csv:94 
+#: zh/mcommerce.csv:94
 msgid "Signature"
 msgstr "签名"
 
-#: zh/mcommerce.csv:95 
+#: zh/mcommerce.csv:95
 msgid "Category"
 msgstr "类别"
 
-#: zh/mcommerce.csv:96 
+#: zh/mcommerce.csv:96
 msgid "%s - Customer Service"
 msgstr "％s - 客户服务"
 
-#: zh/mcommerce.csv:97 
+#: zh/mcommerce.csv:97
 msgid "New order from the application"
 msgstr "应用程序的新秩序"
 
-#: zh/mcommerce.csv:98 
+#: zh/mcommerce.csv:98
 msgid "Category successfully saved."
 msgstr "分类保存成功。"
 
-#: zh/mcommerce.csv:99 
+#: zh/mcommerce.csv:99
 msgid "Options group successfully saved"
 msgstr "选项​​成功保存组"
 
-#: zh/mcommerce.csv:100 
+#: zh/mcommerce.csv:100
 msgid "Options group successfully deleted"
 msgstr "集团成功删除选项"
 
-#: zh/mcommerce.csv:101 
+#: zh/mcommerce.csv:101
 msgid "Product successfully saved"
 msgstr "产品成功保存"
 
-#: zh/mcommerce.csv:102 
+#: zh/mcommerce.csv:102
 msgid "Order successfully saved"
 msgstr "为了成功保存"
 
-#: zh/mcommerce.csv:103 
+#: zh/mcommerce.csv:103
 msgid "Please, enter an email address for the store %s"
 msgstr "请输入电子邮件地址，仓库％s"
 
-#: zh/mcommerce.csv:104 
+#: zh/mcommerce.csv:104
 msgid "Printer successfully saved"
 msgstr "打印机成功保存"
 
-#: zh/mcommerce.csv:105 
+#: zh/mcommerce.csv:105
 msgid "Tax successfully saved"
 msgstr "保存成功税"
 
-#: zh/mcommerce.csv:106 
+#: zh/mcommerce.csv:106
 msgid "Tax successfully deleted"
 msgstr "成功删除税"
 
-#: zh/mcommerce.csv:107 
+#: zh/mcommerce.csv:107
 msgid "Store successfully saved"
 msgstr "保持成功保存"
 
-#: zh/mcommerce.csv:108 
+#: zh/mcommerce.csv:108
 msgid "Store successfully deleted"
 msgstr "保持成功删除"
 
-#: zh/mcommerce.csv:109 
+#: zh/mcommerce.csv:109
 msgid "Cart"
 msgstr "购物车"
 
-#: zh/mcommerce.csv:110 
+#: zh/mcommerce.csv:110
 msgid "My Cart"
 msgstr "购物车"
 
-#: zh/mcommerce.csv:111 
+#: zh/mcommerce.csv:111
 msgid "My cart is empty"
 msgstr "您的购物车是空的"
 
-#: zh/mcommerce.csv:112 
+#: zh/mcommerce.csv:112
 msgid "Continue shopping"
 msgstr "继续购物"
 
-#: zh/mcommerce.csv:113 
+#: zh/mcommerce.csv:113
 msgid "Proceed"
 msgstr "继续"
 
-#: zh/mcommerce.csv:114 
+#: zh/mcommerce.csv:114
 msgid "The option %s is required"
 msgstr "所需的％ s选项"
 
-#: zh/mcommerce.csv:115 
+#: zh/mcommerce.csv:115
 msgid "The following options are required:<br />%s"
 msgstr "下列选项是必需的：<br /> ％s"
 
-#: zh/mcommerce.csv:116 
+#: zh/mcommerce.csv:116
 msgid "My information"
 msgstr "我的信息"
 
-#: zh/mcommerce.csv:117 
+#: zh/mcommerce.csv:117
 msgid "We apologize but the payment method %s is currently not available"
 msgstr "我们深表歉意，但付款方式％s是不可用"
 
-#: zh/mcommerce.csv:118 
+#: zh/mcommerce.csv:118
 msgid "Review"
 msgstr "回顾"
 
-#: zh/mcommerce.csv:119 
+#: zh/mcommerce.csv:119
 msgid "An error occurred while proceeding the payment. Please, try again later."
 msgstr "有在付款错误。请稍后再试。"
 
-#: zh/mcommerce.csv:120 
+#: zh/mcommerce.csv:120
 msgid "An error occurred while proceeding your order. Please, check the following information:"
 msgstr "而进到结束时发生错误。请查看以下信息："
 
-#: zh/mcommerce.csv:121 
+#: zh/mcommerce.csv:121
 msgid "The payment has been cancelled, something wrong happened? Feel free to contact us"
 msgstr "付款已被取消，坏事发生？不要犹豫与我们联系"
 
-#: zh/mcommerce.csv:122 
+#: zh/mcommerce.csv:122
 msgid "Are you sure you want to remove this product?"
 msgstr "你确定你要删除这个项目吗？"
 
-#: zh/mcommerce.csv:123 
+#: zh/mcommerce.csv:123
 msgid "Thank you!"
 msgstr "谢谢！"
 
-#: zh/mcommerce.csv:124 
-msgid ""
-msgstr ""
-
-#: zh/mcommerce.csv:125 
+#: zh/mcommerce.csv:125
 msgid "Your firstname"
 msgstr "你的名字"
 
-#: zh/mcommerce.csv:126 
+#: zh/mcommerce.csv:126
 msgid "Your lastname"
 msgstr "您的姓氏"
 
-#: zh/mcommerce.csv:127 
+#: zh/mcommerce.csv:127
 msgid "Your email address"
 msgstr "您的电子邮件地址"
 
-#: zh/mcommerce.csv:128 
+#: zh/mcommerce.csv:128
 msgid "Your phone number"
 msgstr "你的电话号码"
 
-#: zh/mcommerce.csv:129 
+#: zh/mcommerce.csv:129
 msgid "Your address"
 msgstr "您的地址"
 
-#: zh/mcommerce.csv:130 
+#: zh/mcommerce.csv:130
 msgid "The delivery method"
 msgstr "交货方式"
 
-#: zh/mcommerce.csv:131 
+#: zh/mcommerce.csv:131
 msgid "The payment method"
 msgstr "支付"
 
-#: zh/mcommerce.csv:132 
-msgid ""
-msgstr ""
-
-#: zh/mcommerce.csv:133 
-msgid ""
-msgstr ""
-
-#: zh/mcommerce.csv:134 
+#: zh/mcommerce.csv:134
 msgid "Unit price"
 msgstr "单价"
 
-#: zh/mcommerce.csv:135 
+#: zh/mcommerce.csv:135
+#: zh/mcommerce.csv:158
 msgid "Qty"
 msgstr "数量"
 
-#: zh/mcommerce.csv:136 
+#: zh/mcommerce.csv:136
 msgid "Price"
 msgstr "价格"
 
-#: zh/mcommerce.csv:137 
+#: zh/mcommerce.csv:137
 msgid "Price: %s"
 msgstr "价格： ％s"
 
-#: zh/mcommerce.csv:138 
+#: zh/mcommerce.csv:138
 msgid "Qty: %s"
 msgstr "数量： ％s"
 
-#: zh/mcommerce.csv:139 
+#: zh/mcommerce.csv:139
 msgid "Total: %s"
 msgstr "总计： ％s"
 
-#: zh/mcommerce.csv:140 
-msgid "Total"
-msgstr "总"
-
-#: zh/mcommerce.csv:141 
+#: zh/mcommerce.csv:141
+#: zh/mcommerce.csv:160
 msgid "Subtotal"
 msgstr "小计"
 
-#: zh/mcommerce.csv:142 
-msgid "Tax"
-msgstr "税"
-
-#: zh/mcommerce.csv:143 
-msgid "Delivery fees"
-msgstr "送货费"
-
-#: zh/mcommerce.csv:144 
+#: zh/mcommerce.csv:144
+#: zh/mcommerce.csv:162
 msgid "Total Excl. Tax"
 msgstr "合计不含税"
 
-#: zh/mcommerce.csv:145 
+#: zh/mcommerce.csv:145
 msgid "We thank you for your order. A confirmation email has been sent"
 msgstr "我们感谢您的订单。确认邮件已发送"
 
-#: zh/mcommerce.csv:146 
+#: zh/mcommerce.csv:146
 msgid "Choose a payment method:"
 msgstr "选择付款方式："
 
-#: zh/mcommerce.csv:147 
+#: zh/mcommerce.csv:147
 msgid "Choose a store:"
 msgstr "选择商店："
 
-#: zh/mcommerce.csv:148 
+#: zh/mcommerce.csv:148
 msgid "Choose a delivery method:"
 msgstr "选择投放方式："
 
-#: zh/mcommerce.csv:149 
-msgid ""
-msgstr ""
-
-#: zh/mcommerce.csv:150 
+#: zh/mcommerce.csv:150
 msgid "Here is the detail of your order"
 msgstr "这是您的订单的详细信息"
 
-#: zh/mcommerce.csv:151 
+#: zh/mcommerce.csv:151
 msgid "Here is the detail of the order"
 msgstr "这里是订单的细节"
 
-#: zh/mcommerce.csv:152 
-msgid "Customer"
-msgstr "顾客"
-
-#: zh/mcommerce.csv:153 
+#: zh/mcommerce.csv:153
 msgid "Order details"
 msgstr "该命令的细节"
 
-#: zh/mcommerce.csv:154 
+#: zh/mcommerce.csv:154
 msgid "Delivery Method"
 msgstr "运输方式"
 
-#: zh/mcommerce.csv:155 
+#: zh/mcommerce.csv:155
 msgid "Payment Method"
 msgstr "付款方式"
 
-#: zh/mcommerce.csv:156 
-msgid "Product"
-msgstr "产品"
-
-#: zh/mcommerce.csv:157 
+#: zh/mcommerce.csv:157
 msgid "Unit Price"
 msgstr "单价"
 
-#: zh/mcommerce.csv:158 
-msgid "Qty"
-msgstr "数量"
-
-#: zh/mcommerce.csv:159 
-msgid "Total"
-msgstr "总"
-
-#: zh/mcommerce.csv:160 
-msgid "Subtotal"
-msgstr "小计"
-
-#: zh/mcommerce.csv:161 
+#: zh/mcommerce.csv:161
 msgid "Delivery Fees"
 msgstr "送货费用"
 
-#: zh/mcommerce.csv:162 
-msgid "Total Excl. Tax"
-msgstr "合计不含税"
-
-#: zh/mcommerce.csv:163 
+#: zh/mcommerce.csv:163
 msgid "Total Tax"
 msgstr "总税收"
 

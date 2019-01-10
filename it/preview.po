@@ -1,66 +1,70 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: it\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: it\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/preview.csv:1 
+#: it/preview.csv:1
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Tipi di file:</b> %s<br/>"
 
-#: it/preview.csv:2 
+#: it/preview.csv:2
 msgid "Add"
 msgstr "Aggiungi"
 
-#: it/preview.csv:3 
+#: it/preview.csv:3
 msgid "An error occurred during the process. Please try again later."
 msgstr "Si è verificato un errore durante il processo. Per favore riprova più tardi."
 
-#: it/preview.csv:4 
+#: it/preview.csv:4
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr "Si è verificato un errore nella cancellazione della tua anteprima. Per favore riprova più tardi."
 
-#: it/preview.csv:5 
+#: it/preview.csv:5
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr "Si è verificato un errore nel salvataggio della tua anteprima. Per favore riprova più tardi."
 
-#: it/preview.csv:6 
+#: it/preview.csv:6
 msgid "Click here to send your image"
 msgstr "Clicca qui per inviare la tua immagine"
 
-#: it/preview.csv:7 
+#: it/preview.csv:7
 msgid "Create a new preview"
 msgstr "Crea una nuova anteprima"
 
-#: it/preview.csv:8 
+#: it/preview.csv:8
 msgid "Delete image"
 msgstr "Cancella l'immagine"
 
-#: it/preview.csv:9 
+#: it/preview.csv:9
 msgid "Delete translation"
 msgstr "Cancella traduzione"
 
-#: it/preview.csv:10 
+#: it/preview.csv:10
 msgid "Description"
 msgstr "Descrizione"
 
-#: it/preview.csv:11 
+#: it/preview.csv:11
 msgid "Drag and drop images to reorder them."
 msgstr "Trascina e rilascia le immagini per riordinarle."
 
-#: it/preview.csv:12 
+#: it/preview.csv:12
 msgid "Drop your image here"
 msgstr "Inserisci la tua immagine qui"
 
-#: it/preview.csv:13 
+#: it/preview.csv:13
 msgid "Edit the preview"
 msgstr "Modifica l'anteprima"
 
-#: it/preview.csv:14 
+#: it/preview.csv:14
 msgid "Existing images :"
 msgstr "Immagini esistenti:"
-

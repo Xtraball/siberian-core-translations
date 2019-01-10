@@ -1,70 +1,74 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: ca\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/folder.csv:1 
+#: ca/folder.csv:1
 msgid "Add a page"
 msgstr "Afegiu una pàgina"
 
-#: ca/folder.csv:2 
+#: ca/folder.csv:2
 msgid "Click on"
 msgstr "Feu clic a"
 
-#: ca/folder.csv:3 
+#: ca/folder.csv:3
 msgid "Click on a page to add it to the folder"
 msgstr "Feu clic a una pàgina per afegir-lo a la carpeta"
 
-#: ca/folder.csv:4 
-msgid "Click on a page to add it to the folder <span id="folder_name" class="folder_name">"%s"</span>"
-msgstr "Feu clic a una pàgina per afegir-lo a la carpeta <span id="folder_name" class="folder_name"> "%s"</span>"
+#: ca/folder.csv:4
+msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgstr "Feu clic a una pàgina per afegir-lo a la carpeta <span id=\"folder_name\" class=\"folder_name\"> \"%s\"</span>"
 
-#: ca/folder.csv:5 
+#: ca/folder.csv:5
 msgid "Close mobile display"
 msgstr "A prop display per a mòbils"
 
-#: ca/folder.csv:6 
+#: ca/folder.csv:6
 msgid "Delete this folder and all its subfolders?"
 msgstr "Voleu suprimir aquesta carpeta i totes les seves subcarpetes?"
 
-#: ca/folder.csv:7 
+#: ca/folder.csv:7
 msgid "Folder title is required"
 msgstr "Títol de la carpeta és necessari"
 
-#: ca/folder.csv:8 
+#: ca/folder.csv:8
 msgid "Folders"
 msgstr "Carpetes"
 
-#: ca/folder.csv:9 
+#: ca/folder.csv:9
 msgid "Mobile display"
 msgstr "Display per a mòbils"
 
-#: ca/folder.csv:10 
+#: ca/folder.csv:10
 msgid "New folder"
 msgstr "Carpeta nova"
 
-#: ca/folder.csv:11 
+#: ca/folder.csv:11
 msgid "Subtitle"
 msgstr "Subtítol"
 
-#: ca/folder.csv:12 
+#: ca/folder.csv:12
 msgid "You cannot add this feature"
 msgstr "No podeu afegir aquesta característica"
 
-#: ca/folder.csv:13 
+#: ca/folder.csv:13
 msgid "You must first complete the current category creation process"
 msgstr "Primer heu de completar el procés de creació de categoria actual"
 
-#: ca/folder.csv:14 
+#: ca/folder.csv:14
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Vostè es perd tots els canvis no desats, continuar?"
 
-#: ca/folder.csv:15 
+#: ca/folder.csv:15
 msgid "to add a folder."
 msgstr "per afegir una carpeta."
-

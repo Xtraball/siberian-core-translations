@@ -1,70 +1,74 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: el\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/promotion.csv:1 
+#: el/promotion.csv:1
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της έκπτωσής σας. Παρακαλούμε συμπληρώστε όλα τα πεδία"
 
-#: el/promotion.csv:2 
+#: el/promotion.csv:2
 msgid "Are you sure you want to use this discount?"
 msgstr "Είστε σίγουροι ότι θέλετε να χρησιμοποιήσετε αυτή την έκπτωση?"
 
-#: el/promotion.csv:3 
+#: el/promotion.csv:3
 msgid "Closed discounts"
 msgstr "Ανενεργές εκπτώσεις"
 
-#: el/promotion.csv:4 
+#: el/promotion.csv:4
 msgid "Create a new discount"
 msgstr "Δημιουργία νέας έκπτωσης"
 
-#: el/promotion.csv:5 
+#: el/promotion.csv:5
 msgid "Delete this discount?"
 msgstr "Θέλετε να διαγράψετε αυτή την έκπτωση?"
 
-#: el/promotion.csv:6 
+#: el/promotion.csv:6
 msgid "Discount successfully deleted"
 msgstr "Η έκπτωση διεγράφη επιτυχώς"
 
-#: el/promotion.csv:7 
+#: el/promotion.csv:7
 msgid "Discount successfully saved"
 msgstr "Η έκπτωση αποθηκεύτηκε επιτυχώς"
 
-#: el/promotion.csv:8 
+#: el/promotion.csv:8
 msgid "Please select an end date greater than the current date."
 msgstr "Παρακαλούμε επιλέξετε καταληκτική ημ/νία μεταγενέστερη της σημερινής."
 
-#: el/promotion.csv:9 
+#: el/promotion.csv:9
 msgid "This discount is now used"
 msgstr "Η έκπτωση χρησιμοποιήθηκε"
 
-#: el/promotion.csv:10 
+#: el/promotion.csv:10
 msgid "Valid until"
 msgstr "Έγκυρη έως"
 
-#: el/promotion.csv:11 
+#: el/promotion.csv:11
 msgid "You have already use this discount"
 msgstr "Έχετε ήδη χρησιμοποιήσει αυτή την έκπτωση"
 
-#: el/promotion.csv:12 
+#: el/promotion.csv:12
 msgid "You must be logged in to use a discount"
 msgstr "Πρέπει να είστε συνδεδεμένοι για να χρησιμοποιήσετε την έκπτωση"
 
-#: el/promotion.csv:13 
+#: el/promotion.csv:13
 msgid "or illimited"
 msgstr "ή χωρίς όριο λήξης"
 
-#: el/promotion.csv:14 
+#: el/promotion.csv:14
 msgid "use only once"
 msgstr "χρησιμοποιήστε μόνο μία φορά"
 
-#: el/promotion.csv:15 
+#: el/promotion.csv:15
 msgid "you'll be able to remove this promotion later"
 msgstr "θα μπορείτε να αφαιρέσετε αυτή την έκπτωση αργότερα"
-
