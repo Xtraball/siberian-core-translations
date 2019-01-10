@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"Last-Translator: Xtraball <dev@xtraball.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: tr/customer.csv:1 
 msgid "%s - Account creation"
 msgstr "%s – Hesap oluşturma"
@@ -160,7 +170,7 @@ msgstr "Kullanıcı bilgisi"
 
 #: tr/customer.csv:41 
 msgid "We are sorry but the %s account is already linked to one of our customers"
-msgstr "Üzgünüz ancak% s hesap müşterilerimizin birine bağlıdır"
+msgstr "Üzgünüz ancak%s hesap müşterilerimizin birine bağlıdır"
 
 #: tr/customer.csv:42 
 msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."

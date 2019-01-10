@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"Last-Translator: Xtraball <dev@xtraball.com>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: el/application.csv:1 
 msgid "1. Download the app previewer:"
 msgstr "1. Κατεβάστε την εφαρμογή προεπισκόπησης:"
@@ -8,7 +18,7 @@ msgstr "2. Ανοίξτε την εφαρμογή και συνδεθείτε"
 
 #: el/application.csv:3 
 msgid "<b>File type:</b> %s"
-msgstr "<b>Τύπος αρχείου:</b>% s"
+msgstr "<b>Τύπος αρχείου:</b>%s"
 
 #: el/application.csv:4 
 msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
@@ -300,7 +310,7 @@ msgstr "Ψυχαγωγία"
 
 #: el/application.csv:76 
 msgid "Extension not allowed, '%s' only"
-msgstr "Δεν επιτρέπεται η επέκταση, μόνο '% s'"
+msgstr "Δεν επιτρέπεται η επέκταση, μόνο '%s'"
 
 #: el/application.csv:77 
 msgid "Features"
@@ -504,7 +514,7 @@ msgstr "Φωτογραφία & Βίντεο"
 
 #: el/application.csv:127 
 msgid "Please enter a correct URL for the %s store"
-msgstr "Παρακαλούμε εισάγετε μια σωστή διεύθυνση URL για το % s κατάστημα"
+msgstr "Παρακαλούμε εισάγετε μια σωστή διεύθυνση URL για το %s κατάστημα"
 
 #: el/application.csv:128 
 msgid "Please enter a subdomain."

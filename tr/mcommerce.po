@@ -580,7 +580,7 @@ msgstr "Kullanıcı adı:"
 
 #: tr/mcommerce.csv:142 
 msgid "We apologize but the payment method %s is currently not available"
-msgstr "Maalesef ödeme yöntemi % s şu anda mevcut değil"
+msgstr "Maalesef ödeme yöntemi %s şu anda mevcut değil"
 
 #: tr/mcommerce.csv:143 
 msgid "We thank you for your order. A confirmation email has been sent"

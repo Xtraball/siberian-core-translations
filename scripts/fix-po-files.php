@@ -20,14 +20,14 @@ $locales = [
 $tplHeader = <<<HEADER
 msgid ""
 msgstr ""
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language: #CODE#\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.3\n"
-
+"Last-Translator: Xtraball <dev@xtraball.com>\\n"
+"Language: #CODE#\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\\n"
+"X-Generator: Weblate 3.3\\n"
+\n
 HEADER;
 
 foreach ($locales as $code => $human) {
@@ -36,7 +36,7 @@ foreach ($locales as $code => $human) {
         if ($file->getExtension() === "po") {
             $content = file_get_contents($file->getPathname());
 
-            if (preg_match("/(Last-Translator: )/") !== 1) {
+            if (preg_match("/MIME-Version/m", $content) === 0) {
                 $tpl = str_replace("#CODE#", $code, $tplHeader);
 
                 $content = $tpl . $content;

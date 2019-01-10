@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"Last-Translator: Xtraball <dev@xtraball.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: nl/front.csv:1 
 msgid "Your browser is too old and can not display the content optimally"
 msgstr "Votre navigateur est trop ancien et n'affichera pas les contenus de manière optimale.<br />"

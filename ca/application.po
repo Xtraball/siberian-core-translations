@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"Last-Translator: Xtraball <dev@xtraball.com>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: ca/application.csv:1 
 msgid "1. Download the app previewer:"
 msgstr "1. Descarrega l'aplicació de vista prèvia:"
@@ -8,11 +18,7 @@ msgstr "2. Obre l'aplicació i entrada"
 
 #: ca/application.csv:3 
 msgid "<b>File type:</b> %s"
-msgstr "<B> Tipus d'arxiu: </ b>% s"
-
-#: ca/application.csv:4 
-msgid "<span>Click on</span><button class="add" type="button"><i class="icon-plus"></i></button> <span>to add an item.</span>"
-msgstr "<Span> Feu clic a </ span> <botó class = tipus "botó" = "add"> <i class = "icon-plus"> </ i> </ button> <span> per afegir un element. </ span>"
+msgstr "<B>Tipus d'arxiu: </ b>%s"
 
 #: ca/application.csv:5 
 msgid "Activated"
@@ -56,7 +62,7 @@ msgstr "S'ha produït un error en suprimir la seva imatge"
 
 #: ca/application.csv:15 
 msgid "An error occurred while editing file (%s)."
-msgstr "S'ha produït un error en editar el fitxer (% s)."
+msgstr "S'ha produït un error en editar el fitxer (%s)."
 
 #: ca/application.csv:16 
 msgid "An error occurred while loading"
@@ -167,8 +173,8 @@ msgid "Checking CNAME configuration:"
 msgstr "Comprovació de la configuració CNAME:"
 
 #: ca/application.csv:43 
-msgid "Choose a <br /><span class="bold">picture</span>"
-msgstr "Triar un <br /> <span class = "bold"> foto </ span>"
+msgid "Choose a <br /><span class=\"bold\">picture</span>"
+msgstr "Triar un <br /> -<span class=\"bold\">foto</span>"
 
 #: ca/application.csv:44 
 msgid "Choose a country"
@@ -280,7 +286,7 @@ msgstr "Edita la meva"
 
 #: ca/application.csv:71 
 msgid "Edit the application "%s""
-msgstr "Editeu l'aplicació "% s""
+msgstr "Editeu l'aplicació "%s""
 
 #: ca/application.csv:72 
 msgid "Editor"
@@ -296,7 +302,7 @@ msgstr "Entreteniment"
 
 #: ca/application.csv:75 
 msgid "Extension not allowed, '%s' only"
-msgstr "L'extensió no permesa, '% s' només"
+msgstr "L'extensió no permesa, '%s' només"
 
 #: ca/application.csv:76 
 msgid "Features"
@@ -482,10 +488,6 @@ msgstr "Notícies"
 msgid "One free coffee"
 msgstr "Un cafè gratis"
 
-#: ca/application.csv:122 
-msgid "Or go on your store<br />and look for "Apps Company Previewer""
-msgstr "O anar en el seu <br /> botiga i buscar "Aplicacions Empresa Previewer""
-
 #: ca/application.csv:123 
 msgid "Page name:"
 msgstr "Nom de la pàgina:"
@@ -500,7 +502,7 @@ msgstr "Foto i Vídeo"
 
 #: ca/application.csv:126 
 msgid "Please enter a correct URL for the %s store"
-msgstr "Introduïu un URL correcta per al magatzem% s"
+msgstr "Introduïu un URL correcta per al magatzem%s"
 
 #: ca/application.csv:127 
 msgid "Please enter a subdomain."
@@ -750,10 +752,6 @@ msgstr "Temps"
 msgid "You already have sent a certificate."
 msgstr "Vostè ja ha enviat un certificat."
 
-#: ca/application.csv:189 
-msgid "You can download your QRCode by <a class="f-bold" href="%s">clicking here</a>"
-msgstr "Podeu descarregar el QRCode per <a class="f-bold" href="%s"> clic aquí </a>"
-
 #: ca/application.csv:190 
 msgid "You can't use this domain."
 msgstr "No es pot utilitzar aquest domini."
@@ -771,12 +769,12 @@ msgid "You have sent a certificate."
 msgstr "Has enviat un certificat."
 
 #: ca/application.csv:194 
-msgid "You have to create a Google account before publishing your application. <a href="https://play.google.com/apps/publish/signup" target="_blank">Click here to create one.</a>"
-msgstr "Has de crear un compte de Google abans de la publicació de la seva aplicació. <a href="https://play.google.com/apps/publish/signup" target="_blank"> Feu clic aquí per crear un. </a>"
+msgid "You have to create a Google account before publishing your application. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click here to create one.</a>"
+msgstr "Has de crear un compte de Google abans de la publicació de la seva aplicació. <a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\"> Feu clic aquí per crear un. </a>"
 
 #: ca/application.csv:195 
-msgid "You have to create an Apple account before publishing your application. <a href="https://developer.apple.com/register/index.action" target="_blank">Click here to create one.</a>"
-msgstr "Has de crear un compte d'Apple abans de la publicació de la seva aplicació. <a href="https://developer.apple.com/register/index.action" target="_blank"> Feu clic aquí per crear un. </a>"
+msgid "You have to create an Apple account before publishing your application. <a href=\"https://developer.apple.com/register/index.action\" target=\"_blank\">Click here to create one.</a>"
+msgstr "Has de crear un compte d'Apple abans de la publicació de la seva aplicació. <a href=\"https://developer.apple.com/register/index.action\" target=\"_blank\"> Feu clic aquí per crear un. </a>"
 
 #: ca/application.csv:196 
 msgid "You haven't chosen any template yet"
@@ -803,8 +801,8 @@ msgid "Your customers in figures"
 msgstr "Els seus clients en xifres"
 
 #: ca/application.csv:202 
-msgid "Your domain key "%s" is not valid."
-msgstr "La seva clau de domini "% s" no és vàlid."
+msgid "Your domain key \"%s\" is not valid."
+msgstr "La seva clau de domini \"%s\" no és vàlid."
 
 #: ca/application.csv:203 
 msgid "Your mobile address should not contain special characters"

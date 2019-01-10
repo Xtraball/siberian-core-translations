@@ -72,7 +72,7 @@ msgstr "Resmi silinirken bir hata oluştu"
 
 #: tr/application.csv:15 
 msgid "An error occurred while editing file (%s)."
-msgstr "Dosya (% s) düzenleme sırasında bir hata oluştu."
+msgstr "Dosya (%s) düzenleme sırasında bir hata oluştu."
 
 #: tr/application.csv:16 
 msgid "An error occurred while loading"
@@ -296,7 +296,7 @@ msgstr "Düzenle"
 
 #: tr/application.csv:71 
 msgid "Edit the application "%s""
-msgstr ""% s" uygulamasını Düzenle "
+msgstr ""%s" uygulamasını Düzenle "
 
 #: tr/application.csv:72 
 msgid "Editor"

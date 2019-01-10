@@ -1,3 +1,13 @@
+msgid ""
+msgstr ""
+"Last-Translator: Xtraball <dev@xtraball.com>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 #: ca/admin.csv:1 
 msgid "%s - Your new password"
 msgstr "% S - La seva nova contrasenya"
@@ -44,19 +54,19 @@ msgstr "Creat el"
 
 #: ca/admin.csv:12 
 msgid "Created at %s"
-msgstr "Creat el% s"
+msgstr "Creat el%s"
 
 #: ca/admin.csv:13 
 msgid "Do not hesitate to give us your feedback by sharing your needs:"
 msgstr "No dubti en fer-nos arribar els seus comentaris en compartir les seves necessitats:"
 
 #: ca/admin.csv:14 
-msgid "Edit the account "%s""
-msgstr "Editeu el compte "% s""
+msgid "Edit the account \"%s\""
+msgstr "Editeu el compte \"%s\""
 
 #: ca/admin.csv:15 
 msgid "Edit the user %s"
-msgstr "Editeu l'usuari% s"
+msgstr "Editeu l'usuari%s"
 
 #: ca/admin.csv:16 
 msgid "Enjoy!"
