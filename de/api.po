@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 10:46+0000\n"
+"PO-Revision-Date: 2019-01-11 10:48+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/api/de/>\n"
 "Language: de\n"
@@ -31,3 +31,33 @@ msgstr "Ihre Liste APIs"
 
 msgid "Api Users"
 msgstr "Api-Benutzer"
+
+msgid "Authenticate"
+msgstr "Authentifizieren"
+
+msgid "Backoffice options"
+msgstr "Backoffice-Optionen"
+
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+msgid "Clear logs"
+msgstr "Protokolle löschen"
+
+msgid "Exists"
+msgstr "Existiert"
+
+msgid "Grant user"
+msgstr "Benutzer freigeben"
+
+msgid "Rebuild manifest"
+msgstr "Manifest neu erstellen"
+
+msgid "Revoke user"
+msgstr "Benutzer widerrufen"
+
+msgid "Select API access"
+msgstr "Wählen Sie den API-Zugriff aus"
+
+msgid "Update"
+msgstr "Aktualisieren"
