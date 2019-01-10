@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: \n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/customer/"
+"fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -192,3 +193,37 @@ msgstr "Vous avez créé votre compte. Avec ce compte, vous serez en mesure de p
 #: fr/customer.csv:45
 msgid "Your account has been successfully saved"
 msgstr "Votre compte a été sauvegardé avec succès"
+
+msgid "Civility"
+msgstr "Civilité"
+
+msgid "I accept the privacy policy"
+msgstr "J'accepte la politique de confidentialité"
+
+msgid "Log-in with Facebook"
+msgstr "Connectez-vous avec Facebook"
+
+msgid "No user for now."
+msgstr "Aucun utilisateur pour l'instant."
+
+msgid "No user match your request."
+msgstr "Pas d'utilisateur correspondant à votre demande."
+
+msgid "We are sorry but this nickname is already used"
+msgstr "Nous sommes désolés mais ce pseudo est déjà utilisé"
+
+msgid "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum"
+msgstr ""
+"Nous sommes désolés mais ce pseudo n'est pas valide. Utilisez uniquement des "
+"caractères alphanumériques et caractères de soulignement et d'utiliser 15 "
+"caractères maximum"
+
+msgid "You must agree to our privacy policy to create an account."
+msgstr ""
+"Vous devez accepter notre politique de confidentialité pour créer un compte."
+
+msgid "You must fill firstname and lastname fields."
+msgstr "Vous devez remplir les champs prénom et nom."
+
+msgid "Your points"
+msgstr "Vos points"
