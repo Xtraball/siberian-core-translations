@@ -1,0 +1,12 @@
+{
+    "name": "LocaleFrench",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "French translations.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.11"
+        }
+    }
+}

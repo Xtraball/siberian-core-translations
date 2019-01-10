@@ -303,9 +303,7 @@ msgstr "Редактор"
 
 #: ru/application.csv:73
 msgid "Education"
-msgstr ""
-"\n"
-""
+msgstr "образование"
 
 #: ru/application.csv:74
 msgid "Entertainment"

@@ -27,7 +27,7 @@ if (!is_dir(\$folder)) {
 }
 \$defaultFile = "{\$folder}/default.csv";
 if (!is_file(\$defaultFile)) {
-    file_put_contents(\$defaultFile, '"";""' . "\n");
+    file_put_contents(\$defaultFile, '"";""' . "\\n");
 }
 DATA;
 
@@ -43,6 +43,8 @@ $emptyPackage = [
         ]
     ],
 ];
+
+$projectPackage = json_decode(file_get_contents("./package.json"), true);
 
 
 // Clean-up builds!
@@ -64,15 +66,19 @@ foreach ($locales as $folder => $human) {
     $package = $emptyPackage;
     $package["name"] = "Locale{$human}";
     $package["description"] = "{$human} translations.";
+    $package["version"] = $projectPackage["version"];
     file_put_contents("./builds/Locale{$human}/package.json", json_encode($package, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
     foreach ($files as $file) {
         if (!$file->isDot() && $file->getExtension() === "po") {
             // Copy
             $moName = str_replace(".po", ".mo", $file->getPathname());
-            echo "msgfmt -o {$name}/resources/translations/{$folder}/{$moName} {$file->getPathname()} \n";
-            //exec("msgfmt -o {$moName} {$file->getPathname()}");
+            echo "msgfmt -o {$name}/resources/translations/{$moName} {$file->getPathname()} \n";
+            exec("msgfmt -o {$name}/resources/translations/{$moName} {$file->getPathname()}");
         }
+
     }
 
+    $version = $package["version"];
+    exec("cd ./builds/Locale{$human}/; zip -r -9 -x@../../scripts/exclude.list ../Locale{$human}-{$version}.zip ./ ; cd ../../");
 }

@@ -1,0 +1,12 @@
+{
+    "name": "LocaleDutch",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Dutch translations.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.11"
+        }
+    }
+}

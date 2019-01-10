@@ -1,0 +1,12 @@
+{
+    "name": "LocaleCatalan",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Catalan translations.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.11"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "LocaleChineseSimplified",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "ChineseSimplified translations.",
+    "dependencies": {
+        "system": {
+            "type": "SAE",
+            "version": "4.15.11"
+        }
+    }
+}
