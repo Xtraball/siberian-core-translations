@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 15:46+0000\n"
+"PO-Revision-Date: 2019-01-11 10:48+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: \n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"application/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 15:46+0000\n"
-"PO-Revision-Date: 2019-01-08 15:46+0000\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -1004,3 +1005,1328 @@ msgstr "Id"
 #: base/application.csv:291
 msgid "Label"
 msgstr "Nom"
+
+msgid "* If apple doesn't detect any ads configurate, your application will be refused"
+msgstr ""
+"Si Apple ne détecte pas d'annonces configurées , votre demande sera refusée"
+
+msgid "* You have to justify why you need this background audio playing to Apple."
+msgstr ""
+"*Vous devez justifier pourquoi vous avez besoin de jouer ce fond sonore à "
+"Apple."
+
+msgid "* You have to justify why you need this background geolocation to Apple."
+msgstr ""
+"*Vous devez justifier pourquoi vous avez besoin de la géolocalisation à "
+"Apple."
+
+msgid "1. Insert the following code between the %s tag of your page:"
+msgstr "1. Insérez le code suivant entre la balise de votre page % s :"
+
+msgid "2. Insert the following code at the end of the %s tag of your page:"
+msgstr "2. Insérez le code suivant à la fin de la balise de votre page % s :"
+
+msgid "Access Token"
+msgstr "Jeton d'accès"
+
+msgid "Activated"
+msgstr "Activé"
+
+msgid "AdMob ID"
+msgstr "ID Admob"
+
+msgid "AdMob Type"
+msgstr "Type de AdMob"
+
+msgid "Add a thumbnail"
+msgstr "Ajouter une mignature"
+
+msgid "Add an image"
+msgstr "Ajouter une image"
+
+msgid "Add pictures"
+msgstr "Ajouter Image(s)"
+
+msgid "Add place"
+msgstr "Ajouter un lieu"
+
+msgid "Admin Account"
+msgstr "Compte administrateur"
+
+msgid "Advanced Application Options"
+msgstr "Advanced Options De L'Application"
+
+msgid "Advanced Customization CSS / SCSS"
+msgstr "Personnalisation avancée CSS / SCSS"
+
+msgid "Advertising"
+msgstr "Publicité"
+
+msgid "All done!"
+msgstr "Terminé!"
+
+msgid "Allow user to request app publication"
+msgstr "Permettre à l'utilisateur de demander la publication de l'application"
+
+msgid "Allowed"
+msgstr "Permis"
+
+msgid "An error occured while copying your app icon. Please check the icon, try to send it again and try again."
+msgstr ""
+"Une erreur est survenue lors de la copie de votre icône de l'application . "
+"S'il vous plaît vérifier l'icône , essayer d'envoyer à nouveau et essayez à "
+"nouveau"
+
+msgid "An error occurred. Sorry for the inconvenience."
+msgstr "Une erreur est survenue désolé pour le dérangement."
+
+msgid "An error occurred while generating. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de la génération . Veuillez réessayer plus tard."
+
+msgid "An error occurred while hidding the iOS Status Bar"
+msgstr "Une erreur est survenue lors de l' iOS hidding Status Bar"
+
+msgid "An error occurred while sorting your slider images. Please try again later."
+msgstr "Une erreur est survenue lors du tri de vos images. Veuillez réessayer."
+
+msgid "Analyzing fetched data..."
+msgstr "Analyser les données récupérées ..."
+
+msgid "Android"
+msgstr "Android"
+
+msgid "Android APK version"
+msgstr "Version APK Androi"
+
+msgid "Android push"
+msgstr "Push Android"
+
+msgid "Angle"
+msgstr "Angle"
+
+msgid "App ID"
+msgstr "L'ID de l'application"
+
+msgid "App design"
+msgstr "Design d'application"
+
+msgid "Apple rejects apps that includes Ad Support but doesn't use it.<br />Generate your iOS app out of this source code if you don't include Ads."
+msgstr ""
+"Apple refuse les applications qui inclut un Soutien Publicitaire mais ne "
+"l'utilise pas.<br />Générer votre application iOS de ce code source si vous "
+"ne comprennent pas les Annonces."
+
+msgid "Application:"
+msgstr "Application:"
+
+msgid "Application icon"
+msgstr "Icône de l'application"
+
+msgid "Around you"
+msgstr "Autour de vous"
+
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+msgid "Auth"
+msgstr "Auth"
+
+msgid "Available SCSS Variables corresponding to previously set colors"
+msgstr ""
+"Variables SCSS disponibles correspondant aux couleurs définies précédemment"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Banner"
+msgstr "Bannière"
+
+msgid "Banner Android price"
+msgstr "Tarif de la bannière Androïd"
+
+msgid "Banner Android store label"
+msgstr "Bannière Android Store label"
+
+msgid "Banner author"
+msgstr "Bannière auteur"
+
+msgid "Banner button label"
+msgstr "Bannière étiquette du bouton"
+
+msgid "Banner iOS store label"
+msgstr "Bannière iOS étiquette du magasin"
+
+msgid "Banner settings"
+msgstr "Paramètres de Bannière"
+
+msgid "Banner title"
+msgstr "Titre de la Bannière"
+
+msgid "Border"
+msgstr "Bordures"
+
+msgid "Border shadow"
+msgstr "Ombre de bordure"
+
+msgid "Bottom"
+msgstr "Bas"
+
+msgid "Build a mobile app easily"
+msgstr "Créez une application mobile facilement"
+
+msgid "Build date"
+msgstr "Date du build"
+
+msgid "Build information"
+msgstr "La génération d'informations"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Certificate"
+msgstr "Certificat"
+
+msgid "Change your icon"
+msgstr "Changer l'icône"
+
+msgid "Change your layout"
+msgstr "Changez votre mise en page"
+
+msgid "Change your picture"
+msgstr "Modifier votre image"
+
+msgid "Change your<br /><span class='bold'>picture</span>"
+msgstr "Changer votre<br /><span class='bold'>photo</span>"
+
+msgid "Choose a <br /><span class='bold'>picture</span>"
+msgstr "Choisissez une<br /><span class='bold'>image</span>"
+
+msgid "Choose a picture"
+msgstr "Choisissez une image"
+
+msgid "Choose an icon"
+msgstr "Choisissez un icône"
+
+msgid "Client ID"
+msgstr "ID Client"
+
+msgid "Cms"
+msgstr "Cms"
+
+msgid "Code Scan"
+msgstr "Scan Code"
+
+msgid "Codescan"
+msgstr "Codescan"
+
+msgid "Color"
+msgstr "Couleur"
+
+msgid "Colorize pager"
+msgstr "Coloriser pager"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Core"
+msgstr "De base"
+
+msgid "Cover background images"
+msgstr "Couvrir les images de fond"
+
+msgid "Create a place"
+msgstr "Créer un lieu"
+
+msgid "Currently only one language can be selected."
+msgstr "Actuellement, une seule langue peut être sélectionnée"
+
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgid "Custom SMTP"
+msgstr "SMTP personnalisé"
+
+msgid "Custom domain name:"
+msgstr "Personnaliser le  nom de domaine :"
+
+msgid "Customization"
+msgstr "Personnalisation"
+
+msgid "Deactivated"
+msgstr "Désactivé"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Default (none)"
+msgstr "Par défaut (aucun)"
+
+msgid "Depth"
+msgstr "Profondeur"
+
+msgid "Device Information"
+msgstr "Informations sur le périphérique"
+
+msgid "Display Border Circle"
+msgstr "Afficher le cercle de bordure"
+
+msgid "Display Borders"
+msgstr "Afficher les bordures"
+
+msgid "Display Image"
+msgstr "Afficher l'image"
+
+msgid "Display Shadow"
+msgstr "Afficher l'ombre"
+
+msgid "Display borders"
+msgstr "Afficher les bordures"
+
+msgid "Display image in page"
+msgstr "Afficher l'image dans la page"
+
+msgid "Display the homepage slider"
+msgstr "Afficher le diaporama sur la page d'accueil"
+
+msgid "Display title and subtitle in page"
+msgstr "Afficher le titre et le sous-titre dans la page"
+
+msgid "Display titles"
+msgstr "Afficher les titres"
+
+msgid "Don't order:"
+msgstr "Ne pas commander:"
+
+msgid "Download last build"
+msgstr "Télécharger la dernière version"
+
+msgid "Download latest"
+msgstr "Télécharger le dernier"
+
+msgid "Download our app previewer"
+msgstr "Téléchargez notre app previewer"
+
+msgid "Download your QRCode"
+msgstr "Téléchargez votre QRCode"
+
+msgid "Drop your certificate here"
+msgstr "Glissez votre certificat ici"
+
+msgid "Dynamic: percentage"
+msgstr "Dynamique: pourcentage"
+
+msgid "Edit place"
+msgstr "Editer lieux"
+
+msgid "Edit the application %s"
+msgstr "Modifier l'application de %s"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Enable Offline content ?"
+msgstr "Activer le contenu hors connexion?"
+
+msgid "Enable custom SMTP"
+msgstr "Activer SMTP personnalisé"
+
+msgid "Enable search filters:"
+msgstr "Activer les filtres de recherche:"
+
+msgid "Enter your AdMob ID for each platform."
+msgstr "Entrez votre ID AdMob pour chaque plate-forme"
+
+msgid "Enter your Facebook page"
+msgstr "Entrez votre page Facebook"
+
+msgid "Events"
+msgstr "Evènement"
+
+msgid "Export"
+msgstr "L'exportation"
+
+msgid "Export App & Selected features."
+msgstr "Exporter l'application et les fonctionnalités sélectionnées."
+
+msgid "Export as global Template"
+msgstr "Exporter en tant que modèle global"
+
+msgid "Export your application to a re-usable template & share it across Apps & Platforms."
+msgstr ""
+"Exportez votre application vers un modèle réutilisable et partagez-la sur "
+"plusieurs applications et plates-formes."
+
+msgid "Facebook API Keys"
+msgstr "Clée API Facebook"
+
+msgid "Facebook API settings"
+msgstr "Paramètres API de Facebook"
+
+msgid "Feature icons"
+msgstr "Icônes de fonctionnalité"
+
+msgid "Features Access Settings"
+msgstr "Caractéristiques paramètres d'accès"
+
+msgid "Fetching data from Facebook and creating your features. It can take a while, be patient!"
+msgstr ""
+"Récupération des données de Facebook et création de vos fonctionnalités Cela "
+"peut prendre un moment, soyez patient!"
+
+msgid "Fidelity points"
+msgstr "Points de fidélité"
+
+msgid "Fidelity points rate"
+msgstr "Taux de points de fidélité"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Fixed: pixels"
+msgstr "Corrigé: pixels"
+
+msgid "Flickr API key"
+msgstr "Clé API de Flickr"
+
+msgid "Flickr API secret"
+msgstr "Flickr API secret"
+
+msgid "Flickr API settings"
+msgstr "paramètres API de Flickr"
+
+msgid "Font-size"
+msgstr "Taille de police"
+
+msgid "Form has the following errors"
+msgstr "Le formulaire comporte les erreurs suivantes"
+
+msgid "Free until %s"
+msgstr "Version d'essai valable jusqu'au: %s"
+
+msgid "Front"
+msgstr "Avant"
+
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "Generate APK"
+msgstr "Générer APK"
+
+msgid "Generate Android APK"
+msgstr "Générer Android APK"
+
+msgid "Generate analytics for given period"
+msgstr "Générer analytics pour la période donnée"
+
+msgid "Generate analytics for the current day"
+msgstr "Générer analytics pour la journée en cours"
+
+msgid "Generate and Publish"
+msgstr "Générer et publier"
+
+msgid "Generate and publish iOS Application"
+msgstr "Générer et publier iOS application"
+
+msgid "Generate builds"
+msgstr "Générer Builds"
+
+msgid "Generate source"
+msgstr "Générer la source"
+
+msgid "Generate the source code"
+msgstr "Générer le code source"
+
+msgid "Generation cancelled."
+msgstr "Génération annulée"
+
+msgid "Generation successfully queued."
+msgstr "Génération en file d'attente avec succès."
+
+msgid "Go to first images on loop"
+msgstr "Aller à la première image de la boucle."
+
+msgid "Google Maps JavaScript API Key"
+msgstr "Clé de l'API JavaScript Google Maps"
+
+msgid "Hidden"
+msgstr "Caché"
+
+msgid "Hide Android status bar"
+msgstr "Masquer la barre d'état Android"
+
+msgid "Hide iOS status bar"
+msgstr "Masquer iOS barre d'état"
+
+msgid "Homepage slider options"
+msgstr "Homepage diaporama options"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Icons & Images"
+msgstr "Icônes et Images"
+
+msgid "If a feature is not listed, it yet can't be exported."
+msgstr ""
+"Si une fonctionnalité n'est pas répertoriée, elle ne peut pas encore être "
+"exportée."
+
+msgid "If you decide to change the slider size, all images will be dropped. Are you sure ?"
+msgstr ""
+"Si vous décidez de changer la taille du diaporama, toutes les images seront "
+"supprimées. Êtes-vous sûr ?"
+
+msgid "If you want to change the push icon, you <b>must re-publish</b> the application"
+msgstr ""
+"Si vous voulez changer l'icône de notification, vous <b> devez republier </ "
+"b> l'application"
+
+msgid "If your app is already published, changing the URL key or domain will break it. You will have to republish it. Change it anyway?"
+msgstr ""
+"Si votre application est déjà publiée, la modification de la clé d'URL ou du "
+"domaine la casse. Vous devrez le republier. Souhaitez vous quand même "
+"changer?"
+
+msgid "If your app is already published, changing the domain will break it. You will have to republish it. Change it anyway?"
+msgstr ""
+"Si votre application est déjà publiée, la modification du domaine la casse. "
+"Vous devrez le republier. Changer quand même?"
+
+msgid "If your app is already published on the stores, be sure you have sent an update with the Ionic version, and that this update has already been accepted, otherwise your app may be broken."
+msgstr ""
+"Si votre application est déjà publié sur les magasins , être sûr que vous "
+"avez envoyé une mise à jour avec la version ionique , et que cette mise à "
+"jour a déjà été acceptée , sinon votre application peut être brisé ."
+
+msgid "If your messages do not comply with App Store Review Guidelines, %s, your app might be possibly refused after Apple's review."
+msgstr ""
+"Si vos messages ne sont pas conformes aux consignes de révision de l'App "
+"Store,% s, votre application risque d'être refusée après l'avis d'Apple."
+
+msgid "Image size"
+msgstr "Taille de l'image"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Images height"
+msgstr "Hauteur images"
+
+msgid "Import / Export"
+msgstr "Import / Export"
+
+msgid "Import an application template or a single feature."
+msgstr "Importez un modèle d'application ou une fonctionnalité unique."
+
+msgid "Import features from Facebook"
+msgstr "Importer des fonctionnalités de Facebook"
+
+msgid "Import zip or yml"
+msgstr "Importer zip ou yml"
+
+msgid "Imported features"
+msgstr "Fonctions importées"
+
+msgid "In case you have a main domain containing numbers you can change here the base for your App identifiers."
+msgstr ""
+"Dans le cas où vous avez un domaine principal contenant des numéros, vous "
+"pouvez modifier ici la base de vos identifiants d'application."
+
+msgid "In order to help you start your application, we can retrieve some data from Facebook."
+msgstr ""
+"Afin de vous aider à démarrer votre application, nous pouvons récupérer "
+"certaines données de Facebook."
+
+msgid "In order to insert a promote banner for your application on your site, please follow those steps:"
+msgstr ""
+"Pour insérer une bannière promouvoir votre application sur votre site , "
+"suivez ces étapes:"
+
+msgid "In-App Messages"
+msgstr "Messages In-App"
+
+msgid "In-app links"
+msgstr "Liens intégrés à l'application"
+
+msgid "Input your SCSS here, save to validate & preview"
+msgstr "Entrez votre SCSS ici, enregistrez pour valider et prévisualiser"
+
+msgid "Insert"
+msgstr "Insérer"
+
+msgid "Insert & close"
+msgstr "Insérer et fermer"
+
+msgid "Instagram API Keys"
+msgstr "Clés API Instagram"
+
+msgid "Instagram API settings"
+msgstr "Paramètres de l'API Instagram"
+
+msgid "Installer"
+msgstr "Installateur"
+
+msgid "Integration"
+msgstr "INTEGRAtion"
+
+msgid "Invalid period, end date is before start date."
+msgstr "Non valide de la période, la date de fin est avant la date de début."
+
+msgid "Invalid version"
+msgstr "Version invalide"
+
+msgid "Job"
+msgstr "Emploi"
+
+msgid "Landscape Left"
+msgstr "Paysage gauche"
+
+msgid "Landscape Right"
+msgstr "Paysage droite"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Languages"
+msgstr "Langues"
+
+msgid "Last name:"
+msgstr "NOM"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Layout options"
+msgstr "Options de mise en page"
+
+msgid "Left"
+msgstr "De gauche"
+
+msgid "Left position"
+msgstr "position droite"
+
+msgid "License key"
+msgstr "Clé de license"
+
+msgid "Line-height"
+msgstr "Hauteur de la ligne"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Loop features"
+msgstr "Fonctions de boucle"
+
+msgid "Loop over images"
+msgstr "Les images en boucle"
+
+msgid "Lower case"
+msgstr "Minuscule"
+
+msgid "LoyaltyCard"
+msgstr "Carte de fidélité"
+
+msgid "Manage Access"
+msgstr "Access Manager"
+
+msgid "Manage Admins access feature by feature."
+msgstr "Gérer fonctionnalité d'accès Admins par fonction ."
+
+msgid "Manage Companies"
+msgstr "Gérer les entreprises"
+
+msgid "Manage icons"
+msgstr "Gérer les icônes"
+
+msgid "Mcommerce"
+msgstr "Mcommerce"
+
+msgid "Media"
+msgstr "media"
+
+msgid "Menu-position"
+msgstr "Menu-position"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Message for both the two previous usages."
+msgstr "Message pour les deux utilisations précédentes."
+
+msgid "Misc"
+msgstr "Divers"
+
+msgid "Missing Information"
+msgstr "Informations manquantes"
+
+msgid "Missing parameters for cancellation."
+msgstr "Paramètres d'annulation manquants"
+
+msgid "Monetization"
+msgstr "MONETISATION"
+
+msgid "Monetize my app using AdMob?"
+msgstr "Monétiser mon application utilisant AdMob ?"
+
+msgid "Monetize your app"
+msgstr "Monétiser votre application"
+
+msgid "My Invoices"
+msgstr "Mes factures"
+
+msgid "No Facebook page? You can"
+msgstr "Pas de page Facebook? Vous pouvez"
+
+msgid "No account for now."
+msgstr "Pas de compte pour l'instant"
+
+msgid "No data found"
+msgstr "Aucune donnée disponible"
+
+msgid "No features available for this application."
+msgstr "Cette fonctionnalité n'est pas disponible sur cette application."
+
+msgid "No message sent, there is no available applications."
+msgstr "Aucun message envoyé, il n'y a pas d'applications disponibles."
+
+msgid "No options available."
+msgstr "Aucune option disponible."
+
+msgid "Not available offline."
+msgstr "Non disponible en mode hors connexion."
+
+msgid "Note that if you want to add ads later, you will have to publish the app again."
+msgstr ""
+"Notez que si vous souhaitez ajouter des annonces plus tard, vous devrez "
+"publier à nouveau l'application."
+
+msgid "Nothing to show for now."
+msgstr "Rien à montrer pour le moment."
+
+msgid "Notification center"
+msgstr "Centre de notifications"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Offset"
+msgstr "Décalage"
+
+msgid "On!"
+msgstr "Actif!"
+
+msgid "Option successfully saved"
+msgstr "Option sauvegardée avec succès"
+
+msgid "Options"
+msgstr "Option"
+
+msgid "Options saved"
+msgstr "Options enregistrées"
+
+msgid "Or go on your store<br />and look for 'Apps Company Previewer'"
+msgstr ""
+"Ou aller sur votre boutique<br />et chercher dans 'Apps Company Previewer'"
+
+msgid "Order places"
+msgstr "Commander des lieux"
+
+msgid "Order places by distance:"
+msgstr "Commander des lieux par distance:"
+
+msgid "Order results alphebetically:"
+msgstr "Ordre des résultats par ordre alphabétique:"
+
+msgid "Orientations saved!"
+msgstr "Orientations sauvegardées!"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Package Name"
+msgstr "Nom Du Paquet"
+
+msgid "Page name:"
+msgstr "Nom de la page"
+
+msgid "Partially available offline."
+msgstr "Partiellement disponible hors ligne."
+
+msgid "Period to long, please select less than one month."
+msgstr "Période trop longue, veuillez sélectionner moins d'un mois."
+
+msgid "Permissions Modal Alerts messages describe why your apps requires some permissions,"
+msgstr ""
+"Les alertes Modal Alerts décrivent pourquoi vos applications requièrent "
+"certaines autorisations."
+
+msgid "Places"
+msgstr "Lieu"
+
+msgid "Please check your messages before sending your app to be published, specifically if you are using iOS Auto publish service: if your app is refused after review, one build will be consumed."
+msgstr ""
+"Veuillez vérifier vos messages avant d'envoyer votre application à publier, "
+"en particulier si vous utilisez le service de publication automatique d'iOS: "
+"si votre application est refusée après révision, une version sera consommée."
+
+msgid "Please enter a number for the duration."
+msgstr "S'il vous plaît entrez un nombre de jour pour la durée"
+
+msgid "Please fill iTunes Connect Identifier."
+msgstr "S'il vous plaît remplissez vos identifiants iTunes"
+
+msgid "Please note that AAC+ streams aren't managed yet on Firefox browser, but it will work well in the app."
+msgstr ""
+"S'il vous plaît noter que AAC + flux ne sont pas encore gérés sur le "
+"navigateur Firefox , mais il va bien travailler dans l'application."
+
+msgid "Please select at least one language."
+msgstr "S'il vous plaît sélectionner au moins une langue."
+
+msgid "Please wait while we generate application source."
+msgstr ""
+"S'il vous plaît patienter pendant que nous générons le code source de "
+"l'application ."
+
+msgid "Portrait"
+msgstr "Portrait"
+
+msgid "Preset"
+msgstr "Préréglé"
+
+msgid "Preview and test your native apps directly on your mobile."
+msgstr ""
+"Aperçu et tests de vos applications natives directement sur votre mobile."
+
+msgid "Preview on your phone"
+msgstr "Prévisualiser sur votre mobile"
+
+msgid "Privacy policy URL"
+msgstr "URL de la politique de confidentialité"
+
+msgid "Proceed to checkout before downloading the source code."
+msgstr "Vous devez régler votre abonnement afin de télécharger le code source."
+
+msgid "Promotion"
+msgstr "Promotion"
+
+msgid "Publish automatically to iTunes Connect"
+msgstr "Publier automatiquement sur iTunes Connect"
+
+msgid "QR Coupons"
+msgstr "QR Coupons"
+
+msgid "Recommended size:"
+msgstr "Taille recommandée:"
+
+msgid "Remaining build"
+msgstr "Build restant"
+
+msgid "Remaining builds"
+msgstr "Builds restants"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Return to current feature"
+msgstr "Retourner à la fonctionnalité actuelle"
+
+msgid "Right"
+msgstr "Droit"
+
+msgid "Right position"
+msgstr "Position gauche"
+
+msgid "Rss"
+msgstr "Rss"
+
+msgid "SMTP Configuration"
+msgstr "Configuration SMTP"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Save publication settings"
+msgstr "Enregistrer les paramètres de publication"
+
+msgid "Search by keywords ..."
+msgstr "Recherche par mots-clés ..."
+
+msgid "Search filters & Options"
+msgstr "Filtres de recherche et options"
+
+msgid "Search radius"
+msgstr "Rayon de recherche"
+
+msgid "Search settings"
+msgstr "Paramètres de recherche"
+
+msgid "Secondary category<br />(Optional)"
+msgstr "Catégorie secondaire  <br /> (Facultatif )"
+
+msgid "Secret Key"
+msgstr "Mot de Passe"
+
+msgid "Send request"
+msgstr "Envoyer une demande"
+
+msgid "Sender name/e-mail"
+msgstr "Nom de l'expéditeur / e-mail"
+
+msgid "Sender name/e-mail & Custom SMTP"
+msgstr "Nom de l'expéditeur / e-mail et SMTP personnalisé"
+
+msgid "Server"
+msgstr "Serveur"
+
+msgid "Show"
+msgstr "Voir"
+
+msgid "Sidebar width"
+msgstr "Largeur de la barre latérale"
+
+msgid "Slider"
+msgstr "Diaporama"
+
+msgid "Slider height"
+msgstr "Taille du diaporama"
+
+msgid "Slider images duration, in seconds:"
+msgstr "Images Slider durée , en secondes :"
+
+msgid "Slideshow duration"
+msgstr "Durée du diaporama"
+
+msgid "Social"
+msgstr "Reseaux sociaux"
+
+msgid "Social Sharing"
+msgstr "Partage social"
+
+msgid "Socialgaming"
+msgstr "Socialgaming"
+
+msgid "Sorry, an error occurred while fetching data from Facebook. Please contact an admin."
+msgstr ""
+"Désolé, une erreur s'est produite lors de la récupération des données de "
+"Facebook. S'il vous plaît contacter un administrateur."
+
+msgid "Sorry, it seems that Facebook credentials are invalid. Please contact an administrator."
+msgstr ""
+"Désolé, il semble que les informations d'identification Facebook ne sont pas "
+"valides. S'il vous plaît contacter un administrateur."
+
+msgid "Sorry, no data was found for this page. Maybe you used the wrong page id?"
+msgstr ""
+"Désolé, aucune donnée n'a été trouvée pour cette page. Peut-être que vous "
+"avez utilisé le mauvais identifiant de page?"
+
+msgid "Sorry, we need a page id."
+msgstr "Désolé, nous avons besoin d'un identifiant de page."
+
+msgid "Source type"
+msgstr "Type source"
+
+msgid "Sourcecode"
+msgstr "Code source"
+
+msgid "Specifies the reason for your app to access the device's accelerometer."
+msgstr ""
+"Indique la raison pour laquelle votre application accède à l'accéléromètre "
+"du périphérique."
+
+msgid "Specifies the reason for your app to access the device's camera."
+msgstr ""
+"Indique la raison pour laquelle votre application accède à la caméra de "
+"l'appareil."
+
+msgid "Specifies the reason for your app to access the user's location information at all times."
+msgstr ""
+"Indique la raison pour laquelle votre application a accès aux informations "
+"de localisation de l'utilisateur à tout moment."
+
+msgid "Specifies the reason for your app to access the user's photo library."
+msgstr ""
+"Indique la raison pour laquelle votre application accède à la bibliothèque "
+"photos de l'utilisateur."
+
+msgid "Specifies the reason for your app to access the user’s location information while your app is in use."
+msgstr ""
+"Indique la raison pour laquelle votre application accède aux informations de "
+"localisation de l'utilisateur pendant l'utilisation de celle-ci."
+
+msgid "Square icons"
+msgstr "Icônes carrées"
+
+msgid "Status bar"
+msgstr "Barre d'état"
+
+msgid "Store App ID"
+msgstr "ID App Store"
+
+msgid "Store URL"
+msgstr "Store URL"
+
+msgid "Stores URL"
+msgstr "Store URL"
+
+msgid "Stretch"
+msgstr "Étendue"
+
+msgid "Subtitle:"
+msgstr "Sous-titre:"
+
+msgid "Success."
+msgstr "Succès."
+
+msgid "System"
+msgstr "Système"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Tags separated by commas"
+msgstr "Tags séparés par des virgules"
+
+msgid "Template"
+msgstr "Modèle"
+
+msgid "Template description"
+msgstr "Description du modèle"
+
+msgid "Template name"
+msgstr "Nom du modèle"
+
+msgid "Template preview"
+msgstr "Aperçu du modèle"
+
+msgid "Template version"
+msgstr "Version du modèle"
+
+msgid "Terms & Conditions"
+msgstr "Termes et conditions"
+
+msgid "The White-label you are trying to edit doesn't exists."
+msgstr "Le label blanc que vous essayez d'éditer n'existe pas."
+
+msgid "The bundle id"
+msgstr "Bundle ID"
+
+msgid "The homepage image"
+msgstr "Image d'accueil"
+
+msgid "The key is already used by another application."
+msgstr "La clé est déjà utilisé par une autre application"
+
+msgid "This application is no longer available"
+msgstr "Cette application n'est plus disponible!"
+
+msgid "This key is already used by system features."
+msgstr "Cette clé est déjà utilisée par les fonctionnalités du système."
+
+msgid "This user can add pages to this application."
+msgstr "Cet utilisateur peut ajouter des pages à cette application"
+
+msgid "Tip"
+msgstr "Astuce"
+
+msgid "Tips calculator"
+msgstr "Calculateur des pourboire"
+
+msgid "Title case"
+msgstr "Format du titre"
+
+msgid "Title position"
+msgstr "Position Titre"
+
+msgid "Titles"
+msgstr "Titres"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Topic"
+msgstr "Sujet"
+
+msgid "Translation"
+msgstr "Traduction"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "Twitter API Keys"
+msgstr "Clés API Twitter"
+
+msgid "Twitter API secret"
+msgstr "L'API Twitter secret"
+
+msgid "Twitter API settings"
+msgstr "Les paramètres de l'API Twitter"
+
+msgid "Twitter API token"
+msgstr "Jeton d'API Twitter"
+
+msgid "Twitter consumer key"
+msgstr "Clé de consommateur Twitter"
+
+msgid "Twitter consumer secret"
+msgstr "Secret de consommateur Twitter"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "UP"
+msgstr "JUSQU'"
+
+msgid "Upload icon"
+msgstr "Icône de téléchargement"
+
+msgid "Upload image"
+msgstr "Importer une image"
+
+msgid "Upper case"
+msgstr "Majuscule"
+
+msgid "Upside Down"
+msgstr "À l'envers"
+
+msgid "Use Owner AdMob"
+msgstr "Utiliser AdMob Propriétaire"
+
+msgid "Use ads for platform owner"
+msgstr "Utilisez des annonces pour le propriétaire de la plate-forme"
+
+msgid "Use background into all of your application's pages"
+msgstr "Utiliser le fond dans toutes les pages de votre application"
+
+msgid "User:"
+msgstr "Utilisateur:"
+
+msgid "Video"
+msgstr "Vidéo"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "Visible from all pages"
+msgstr "Visible à partir de toutes les pages"
+
+msgid "Visible from all the application's pages (removes the homepage)"
+msgstr ""
+"Visible de toutes les pages de l' application ( supprime la page d'accueil )"
+
+msgid "We are sorry but this application has been deactivated and may not be re-activated."
+msgstr ""
+"Nous sommes désolés, mais cette demande a été désactivé et ne peut être "
+"réactivé"
+
+msgid "Weblink"
+msgstr "Lien web"
+
+msgid "White Label Editor Settings"
+msgstr "Paramètres de White Label"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "With ads functionality"
+msgstr "Avec la fonctionnalité d'annonces"
+
+msgid "With background audio playing"
+msgstr "Avec player audio en fond"
+
+msgid "With background geolocation"
+msgstr "Avec background geolocalisation"
+
+msgid "With options"
+msgstr "Avec des options"
+
+msgid "You already have sent a certificate."
+msgstr "Vous avez déjà envoyé un certificat!"
+
+msgid "You already sent a request, please wait 3 days from your previous request to retry."
+msgstr ""
+"Vous avez déjà envoyé une demande, veuillez patienter 3 jours à compter de "
+"votre demande précédente pour réessayer."
+
+msgid "You can add or change license in (<strong>Settings / General</strong>).<br/><em>note: builds are only consumed if they're successful.</em>"
+msgstr ""
+"Vous pouvez ajouter ou modifier une licence dans (<strong> Paramètres / "
+"Général </ strong>). <br/> <em> Remarque: les générations ne sont consommées "
+"que si elles réussissent. </ Em>"
+
+msgid "You can use <b>%s</b> as variable for your application name."
+msgstr ""
+"Vous pouvez utiliser <b>% s </ b> comme variable pour le nom de votre "
+"application."
+
+msgid "You cannot have multiple sessions to manage apps, so the session for this app is closed. This page is about to be reloaded."
+msgstr ""
+"Vous ne pouvez pas avoir plusieurs sessions pour gérer les applications. La "
+"session de cette application est donc fermée. Cette page est sur le point "
+"d'être rechargée."
+
+msgid "You can't go back to Angular design."
+msgstr "Vous ne pouvez pas revenir à la conception angulaire"
+
+msgid "You can't use this domain."
+msgstr "Vous ne pouvez pas utiliser ce domaine."
+
+msgid "You have to purchase the application before downloading the mobile source code."
+msgstr ""
+"Vous devez régler votre abonnement afin de télécharger le code source mobile."
+
+msgid "You must choose an ads type"
+msgstr "Vous devez choisir un type d'annonces"
+
+msgid "You must select at least one orientation for iPad!"
+msgstr "Vous devez sélectionner au moins une orientation pour iPad!"
+
+msgid "You must select at least one orientation for iPhone!"
+msgstr "Vous devez sélectionner au moins une orientation pour l'iPhone!"
+
+msgid "Your CNAME is not properly set"
+msgstr "Votre CNAME n'est pas correctement configuré"
+
+msgid "Your administrator is using a custom smtp provider, if you don't want to use your own SMTP provider, you are invited to send a whitelist request via the button below"
+msgstr ""
+"Votre administrateur utilise un fournisseur SMTP personnalisé, si vous ne "
+"souhaitez pas utiliser votre propre fournisseur SMTP, vous êtes invité à "
+"envoyer une demande de liste blanche via le bouton ci-dessous"
+
+msgid "Your analytics has been computed."
+msgstr "Votre analyse a été calculée."
+
+msgid "Your app will be published"
+msgstr "Votre application sera publié"
+
+msgid "Your application is now switched to Ionic"
+msgstr "Votre application est maintenant passé à Ionic"
+
+msgid "Your application is ready to be published."
+msgstr "Votre application est prête à être publiée!"
+
+msgid "Your bundle id is invalid, format should looks like com.mydomain.iosid"
+msgstr ""
+"Votre identifiant de bundle n'est pas valide, le format doit ressembler à "
+"com.mydomain.iosid"
+
+msgid "Your customization has been applied to %s."
+msgstr "Votre personnalisation a été appliquée à % s ."
+
+msgid "Your customization has been applied to your white label panel."
+msgstr "Votre personnalisation a été appliqué à votre panneau de marque blanche"
+
+msgid "Your design"
+msgstr "Votre design"
+
+msgid "Your iOS autobuild License Key"
+msgstr "Votre clé de licence iOS autobuild"
+
+msgid "Your package name is invalid, format should looks like com.mydomain.androidid"
+msgstr ""
+"Le nom de votre paquet est invalide, le format devrait ressembler à "
+"com.mydomain.android"
+
+msgid "address"
+msgstr "Adresse"
+
+msgid "alphabetically"
+msgstr "alphabétiquement"
+
+msgid "<b>Around you</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
+msgstr ""
+"L'option <b> Autour de vous </ b> pour la vue d'ensemble & HTML5 sera "
+"affichée et ne fonctionnera que si vous utilisez HTTPS, mais elle fonctionne "
+"dans les applications Android et iOS sans HTTPS."
+
+msgid "<b>Note: </b>Icon must be white with transparency, the crop window will colorize it otherwise"
+msgstr ""
+"<b> Remarque: </ b> L'icône doit être blanche avec transparence, sinon la "
+"fenêtre de recadrage la coloriera"
+
+msgid "<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the cron interval can increase your server load, be careful."
+msgstr ""
+"<b> Note </ b>: l'intervalle minimum du cron scheduler est de 10 secondes, "
+"la réduction de l'intervalle cron peut augmenter la charge de votre serveur, "
+"soyez prudent."
+
+msgid "<b>Push image & Color</b> are dynamic and doesn't require the app to be re-published."
+msgstr ""
+"<b> Push image & Color </ b> sont dynamiques et ne requièrent pas de "
+"republication de l'application."
+
+msgid "building"
+msgstr "Construction"
+
+msgid "by distance"
+msgstr "par distance"
+
+msgid "default, by creation date"
+msgstr "par défaut, par date de création"
+
+msgid "eBanner iOS price"
+msgstr "eBanner iOS prix"
+
+msgid "e.g: On %s"
+msgstr "ex: %s actif"
+
+msgid "failed"
+msgstr "Echoué"
+
+msgid "from"
+msgstr "de"
+
+msgid "iOS"
+msgstr "iOS"
+
+msgid "iPad orientation settings"
+msgstr "Paramètres d'orientation de l'iPad"
+
+msgid "iPhone & iPad orientation"
+msgstr "Orientation iPhone & iPad"
+
+msgid "iPhone Version (No Ads)"
+msgstr "Version Iphone (sans Pub)"
+
+msgid "iPhone orientation settings"
+msgstr "Paramètres d'orientation de l'iPhone"
+
+msgid "iTunes Connect Login"
+msgstr "iTunes Connect Login"
+
+msgid "iTunes Connect Password"
+msgstr "Mot de Passe de connexion iTunes"
+
+msgid "like using the GPS or the camera. After the first installation of your app, those messages will be shown to the app user."
+msgstr ""
+"Utiliser le GPS ou l'appareil photo. Après la première installation de votre "
+"application, ces messages seront affichés à l'utilisateur de l'application."
+
+msgid "pending"
+msgstr "En attente"
+
+msgid "%s Text"
+msgstr "%s Texte"
+
+msgid "skip this step"
+msgstr "Passer cette étape"
+
+msgid "success"
+msgstr "succès"
+
+msgid "to"
+msgstr "à"
+
+msgid "with image"
+msgstr "Avec image"
+
+msgid "without image"
+msgstr "sans image"
