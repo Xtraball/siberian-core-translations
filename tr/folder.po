@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 14:47+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/folder/"
+"tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -72,3 +73,47 @@ msgstr "Devam ederseniz tüm kaydedilmemiş değişiklikleri kaybedersiniz?"
 #: tr/folder.csv:15
 msgid "to add a folder."
 msgstr "bir klasör eklemek için."
+
+msgid "Add feature"
+msgstr "Özellik Ekle "
+
+msgid "Allow line return in Title & Subtitles"
+msgstr "Başlık ve Altyazılarda satır dönüşüne izin ver"
+
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr "Bu kontrol, bir arama alanı gösterir klasör özelliği içinde"
+
+msgid "Click on a page to add it to the folder <span id='folder_name' class='folder_name'>%s</span>"
+msgstr ""
+"Dosyayı klasöre eklemek için bir sayfayı tıklayı<span id='folder_name' "
+"class='folder_name'>%s</span>"
+
+msgid "Edit folder"
+msgstr "Klasör düzenle"
+
+msgid "Enable search in folders"
+msgstr "Klasörlerde aramayı etkinleştir"
+
+msgid "Inherit global layout"
+msgstr "Mevcut düzen"
+
+msgid "No results for your request."
+msgstr "İsteğiniz için sonuç yok."
+
+msgid "Override layout"
+msgstr "Katman Düzeni"
+
+msgid "Search results"
+msgstr "Arama sonuçları"
+
+msgid "Show cover"
+msgstr "Kapağı göster"
+
+msgid "Show search field"
+msgstr "Arama alanına göster"
+
+msgid "Thumbnail"
+msgstr "Küçük resim"
+
+msgid "Use card design"
+msgstr "Kart tasarımı kullan"
