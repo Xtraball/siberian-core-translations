@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-11 14:47+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/backoffice/tr/>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
+"backoffice/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -98,3 +99,564 @@ msgstr "Eylemler"
 
 msgid "Unknown"
 msgstr "Bilinmiyor"
+
+msgid "60000 maximum allowed."
+msgstr "Izin verilen maksimum 60000."
+
+msgid "[APK]"
+msgstr "[Kuru temizleme]"
+
+msgid "APK Queue empty"
+msgstr "APK Sırası boş"
+
+msgid "APK Queue status"
+msgstr "MUAYENE Sırasındaki durum"
+
+msgid "APNS Feedback:"
+msgstr "APN Geribildirim:"
+
+msgid "APNS Feedback port 2196 is:"
+msgstr "2196 APN Geribildirim bağlantı noktası:"
+
+msgid "APNS Port 2195 is:"
+msgstr "Tarihten APN bağlantı Noktası:"
+
+msgid "Account Role"
+msgstr "Hesap Rolü"
+
+msgid "Activate VAT number check with VIES"
+msgstr "VİES ile aktive Vergi numarasını kontrol edin"
+
+msgid "Activate user"
+msgstr "Etkinleştirmek kullanıcı"
+
+msgid "Add a custom text to the footer of your invoices"
+msgstr "Faturalarınıza altbilgi için özel bir metin ekle"
+
+msgid "Admin panel type"
+msgstr "Admin panel tipi"
+
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+msgid "All the files are required."
+msgstr "Tüm alanlar gereklidir!"
+
+msgid "An entry already exists for this hostname, remove it first if you need to change your certificates."
+msgstr ""
+"Bu ana bilgisayar adı için zaten bir giriş var, sertifikalarınızı "
+"değiştirmeniz gerekirse önce onu kaldırın."
+
+msgid "An error occured"
+msgstr "Bir hata oluştu."
+
+msgid "An unknown error occured while issueing your certificate."
+msgstr "Sertifikanızı  sırasında bilinmeyen bir hata oluştu."
+
+msgid "Android SDK:"
+msgstr "Android SDK:"
+
+msgid "App name"
+msgstr "Uygulama adı"
+
+msgid "Application settings"
+msgstr "Uygulama ayarları"
+
+msgid "Application successfully queued for generation."
+msgstr "Uygulama başarıyla nesil için sıraya."
+
+msgid "Applications/Previewer manifest for automatic updates."
+msgstr "Uygulamaları otomatik güncelleme için bildirim Görüntüle."
+
+msgid "Are you sure ?"
+msgstr "Emin misin ?"
+
+msgid "Authenticate"
+msgstr "Kimlik doğrulaması"
+
+msgid "Average build time in seconds:"
+msgstr "Ortalama saniyede zaman inşa:"
+
+msgid "Average sources/apk build time:"
+msgstr "İnşa süresi kuru temizleme/ortalama kaynaklar:"
+
+msgid "Backoffice options"
+msgstr "İdari büro seçenekleri"
+
+msgid "Beta"
+msgstr "Beta"
+
+msgid "Build status"
+msgstr "Durum yapı"
+
+msgid "Build time (in seconds)"
+msgstr "(Saniye olarak)inşa zaman"
+
+msgid "CRON Scheduler interval"
+msgstr "CRON Zamanlayıcı aralığı"
+
+msgid "Cache cleared"
+msgstr "Önbellek temizlendi"
+
+msgid "Cache (var/cache, system cache)"
+msgstr "(Var/cache sistemi cache)önbellek"
+
+msgid "Can generate APK"
+msgstr "Olabilir oluşturmak MUAYENE"
+
+msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr "Sertifika geçerli ve SSL  %s kadar kullanılabilir: Issuer: %s%s"
+
+msgid "Check if this cron command is installed under the web user & if you have set a timezone in Settings > General"
+msgstr ""
+"Eğer bu cron komut Ayarları bir zaman dilimi ayarladıysanız web kullanıcı "
+"altında ve yüklü olup olmadığını kontrol Genel > "
+
+msgid "Clear"
+msgstr "Açık"
+
+msgid "Clear cache"
+msgstr "Önbelleği Temizle"
+
+msgid "Clear logs"
+msgstr "Günlükleri temizle"
+
+msgid "Cleared cron errors."
+msgstr "Temizlenmiş cron hataları."
+
+msgid "Complete build log"
+msgstr "Tam yapı günlük"
+
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+msgid "Core modules"
+msgstr "Çekirdek modülleri"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Cron scheduler"
+msgstr "Cron zamanlayıcı"
+
+msgid "Cron scheduler help"
+msgstr "Cron zamanlayıcı yardım"
+
+msgid "Day of month"
+msgstr "Ayın gün"
+
+msgid "Day of week"
+msgstr "Haftanın günü"
+
+msgid "Deactivate user"
+msgstr "Devre dışı bırakmak için Kullanıcı"
+
+msgid "Default (no)"
+msgstr "Varsayılan (Yok)"
+
+msgid "Development"
+msgstr "Geliştirme"
+
+msgid "Disable cron jobs"
+msgstr "Devre dışı bırakmak cron işleri"
+
+msgid "Disabled"
+msgstr "Devre dışı"
+
+msgid "Disk usage & Cache:"
+msgstr "Disk kullanım & Cache:"
+
+msgid "Dismiss & install later"
+msgstr "Daha sonra kapatın ve yükleyin"
+
+msgid "Display"
+msgstr "Görüntüleme"
+
+msgid "Doesn't meet the requirements"
+msgstr "- Gereksinimlerini karşılamıyor"
+
+msgid "Download latest source"
+msgstr "İndir son kaynak"
+
+msgid "Editor's Design"
+msgstr "Editörün Tasarım"
+
+msgid "Environment"
+msgstr "Çevre"
+
+msgid "Exists"
+msgstr "Var Olanlar"
+
+msgid "External extensions"
+msgstr "Harici uzantılar"
+
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "File hash is different from manifest."
+msgstr "Dosya karması tezahür farklıdır."
+
+msgid "File is missing."
+msgstr "Dosya eksik."
+
+msgid "Forgot password"
+msgstr "Şifremi unuttum"
+
+msgid "Full"
+msgstr "Tam"
+
+msgid "General settings"
+msgstr "Genel Ayarlar"
+
+msgid "Generate"
+msgstr "Oluştur"
+
+msgid "Generate source"
+msgstr "Kaynak oluşturmak"
+
+msgid "Generating"
+msgstr "Oluşturma"
+
+msgid "[Global]"
+msgstr "[Küresel]"
+
+msgid "Grant user"
+msgstr "Büyük kullanıcı"
+
+msgid "HTTPS support is in test, you should only try it on your development server prior to prepare for further migration."
+msgstr ""
+"HTTPS desteği test, sadece geliştirme sunucunuz üzerinde daha önce geçiş "
+"için hazırlamak için denemek gerekir."
+
+msgid "Hostnames associated with this Certificate"
+msgstr "Barındırma adı Sertifika ile ilişkili"
+
+msgid "If you are unable to install or run the cronjob on your hosting/server you can disable it."
+msgstr ""
+"Eğer hosting/sunucu üzerinde cron görevi yüklemek veya çalıştırmak "
+"yapamıyorsanız devre dışı bırakabilirsiniz."
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Installed"
+msgstr "Yüklü"
+
+msgid "Installed icon packs"
+msgstr "Yüklü simge paketleri"
+
+msgid "Installed layouts"
+msgstr "Yüklü düzenleri"
+
+msgid "Installed modules"
+msgstr "Yüklü modülleri"
+
+msgid "Installed, version"
+msgstr "Yüklü sürüm"
+
+msgid "Integrity check"
+msgstr "Bütünlük denetimi"
+
+msgid "Invoice options"
+msgstr "Fatura seçenekleri"
+
+msgid "JAVA:"
+msgstr "JAVA:"
+
+msgid "Last failure"
+msgstr "Son başarısızlık"
+
+msgid "Last success"
+msgstr "Son başarı"
+
+msgid "Last trigger"
+msgstr "Son tetik"
+
+msgid "Loaded"
+msgstr "Yüklü"
+
+msgid "Log"
+msgstr "Günlük"
+
+msgid "Log (var/log, log files)"
+msgstr "Günlük (var/log, log dosyaları)"
+
+msgid "Logs cleared."
+msgstr "Temizlenmiş günlükleri."
+
+msgid "Missing parameters for generation."
+msgstr "Nesil için kayıp parametreler."
+
+msgid "Mobile Source Codes & Builds"
+msgstr "Mobil Kaynak Kodlarını Oluşturur Ve"
+
+msgid "Module/User tasks"
+msgstr "Modülü/Kullanıcı görevleri"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "New users"
+msgstr "Yeni kullanıcılar"
+
+msgid "No icon packs"
+msgstr "Hiçbir simge paketleri"
+
+msgid "No layouts"
+msgstr "Hayır düzenleri"
+
+msgid "No module/user tasks"
+msgstr "Hayır modülü/kullanıcı görevleri"
+
+msgid "No system tasks"
+msgstr "Hiçbir sistem görevleri"
+
+msgid "Not found"
+msgstr "Bulunamadı"
+
+msgid "Not running"
+msgstr "Çalışmıyor"
+
+msgid "Not yet generated."
+msgstr "Henüz oluşturulmuş değil."
+
+msgid "Note:"
+msgstr "Not:"
+
+msgid "Note: Let's encrypt X1 is a staging certificate."
+msgstr "Not: Let's encryp X1 sertifika  belgesidir."
+
+msgid "Number of typed characters:"
+msgstr "Girilen karakter sayısı:"
+
+msgid "Ok"
+msgstr "Tamam"
+
+msgid "Ok, you may consider upgrade to >=5.4"
+msgstr "Tamam, >yükseltme 5.4=düşünebilirsiniz"
+
+msgid "Ok, you may upgrade to php 5.6"
+msgstr "Tamam, 5.6 php yükseltme olabilir"
+
+msgid "Open"
+msgstr "Açın"
+
+msgid "Optional binaries"
+msgstr "İsteğe bağlı kütüphaneler"
+
+msgid "Optional libraries"
+msgstr "İsteğe bağlı kütüphaneler"
+
+msgid "Otherwise install it manually, from your panel, or directly from your ssh access."
+msgstr "Aksi takdirde el ile yükleyin, panel, ya da doğrudan ssh erişimi."
+
+msgid "Overview - WebApp (var/apps/browser, overview & webapp cache)"
+msgstr "(Var/apps/Tarayıcı, Genel Bakış & web önbellek)genel bakış - Web"
+
+msgid "Overview cache cleared."
+msgstr "Genel bakış önbelleği temizlendi."
+
+msgid "PEM test:"
+msgstr "PEM test:"
+
+msgid "PHP version %s:"
+msgstr "PHP sürüm %s:"
+
+msgid "Payment received"
+msgstr "Ödeme alındı"
+
+msgid "Privacy policy URL"
+msgstr "Gizlilik Politikası URL"
+
+msgid "Production"
+msgstr "Üretim"
+
+msgid "Progress"
+msgstr "İlerleme"
+
+msgid "Publication access type"
+msgstr "Yayın erişim tipi"
+
+msgid "Push messages:"
+msgstr "Push mesajları:"
+
+msgid "Queued"
+msgstr "Sırada"
+
+msgid "Queued %s/%s"
+msgstr "Sıraya %/%s s"
+
+msgid "Rebuild"
+msgstr "Yeniden"
+
+msgid "Rebuild manifest"
+msgstr "Manifes Yeniden Oluştur"
+
+msgid "Rebuilding application manifest files."
+msgstr "Uygulama bildirim dosyaları yeniden."
+
+msgid "Remove locks"
+msgstr "Kilitleri kaldırın"
+
+msgid "Removing CRON Scheduler lock files."
+msgstr "CRON Zamanlayıcı kilidi dosyaları kaldırma."
+
+msgid "Request the certificate via Let's Encrypt."
+msgstr "Let's Encryp ile sertifika isteği veya yenileme"
+
+msgid "Required extensions"
+msgstr "Gerekli uzantıları"
+
+msgid "Revoke user"
+msgstr "Kullanıcı iptal"
+
+msgid "Run test"
+msgstr "Testi"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sales configuration"
+msgstr "Satış yapılandırma"
+
+msgid "Select API access"
+msgstr "API erişimi seçin"
+
+msgid "Select a panel type or self-managed"
+msgstr "Bir panel tipi seçin  veya kendi  yönetilen"
+
+msgid "Server"
+msgstr "Sunucu"
+
+msgid "Services"
+msgstr "Hizmetler"
+
+msgid "Show All Applications"
+msgstr "Tüm Uygulamaları Göster"
+
+msgid "Show more"
+msgstr "Daha fazla göster"
+
+msgid "Siberian - Backoffice"
+msgstr "Sibirya - İdari Büro"
+
+msgid "Source"
+msgstr "Kaynaklar"
+
+msgid "Source Queue empty"
+msgstr "Kaynak Sırası boş"
+
+msgid "Source Queue status"
+msgstr "Kaynak Sırası durum"
+
+msgid "[Sources]"
+msgstr "[Kaynaklar]"
+
+msgid "Sources code"
+msgstr "Kaynak kodu"
+
+msgid "Stable"
+msgstr "Kararlı"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Success"
+msgstr "Başarı"
+
+msgid "Sync files"
+msgstr "Sync dosyaları"
+
+msgid "System tasks"
+msgstr "Sistem görevleri"
+
+msgid "Temp (var/tmp, application sources & apk)"
+msgstr "(Var/tmp, uygulama kaynakları ve muayene)Temp"
+
+msgid "Templates"
+msgstr "Şablonları"
+
+msgid "This message will be displayed as a waiting message when your users chose an offline payment method"
+msgstr ""
+"Bu mesaj, kullanıcıların Havale/EFT  ödeme yöntemi seçti zaman bekleyen bir "
+"mesaj olarak gösterilecektir"
+
+msgid "This message will be displayed as an information message to describe which offline payment method you offer"
+msgstr ""
+"Bu mesaj, açıklamak için bir bilgi mesajı çevrimdışı ödeme yöntemi olarak "
+"görüntülenir teklif"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Total sales"
+msgstr "Toplam satış"
+
+msgid "UID"
+msgstr "UİD"
+
+msgid "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if your are not in `Staging`"
+msgstr ""
+"HTTPS bağlanma hatası veya SSL Sertifikası doğrulanamadı.<br /> Yayında "
+"olduğundan emin olunuz"
+
+msgid "Update"
+msgstr "Güncelleme"
+
+msgid "Update channel"
+msgstr "Güncelleme kanal"
+
+msgid "Use HTTPS"
+msgstr "HTTPS kullan"
+
+msgid "User's status successfully edited"
+msgstr "Kullanıcı durumunu başarılı bir şekilde düzenlenmiş"
+
+msgid "VAT check options"
+msgstr "KDV seçenekleri kontrol edin"
+
+msgid "Validation"
+msgstr "Doğrulama"
+
+msgid "Web space"
+msgstr "Web alanı"
+
+msgid "Yes, install the update."
+msgstr "Evet, güncelleştirmeyi yükleyin."
+
+msgid "You are about to clean all the cron lock files !\nAre you sure ?"
+msgstr "Temizlemek için tüm cron kilidi\\!nAre emin misin ?"
+
+msgid "You are about to clean all your log files !\nAre you sure ?"
+msgstr "Her konuda temiz olduğunuz log\\files!nAre emin misin ?"
+
+msgid "You are about to delete this certificate, Are you sure ?"
+msgstr "Bu sertifikayı silmek üzeresiniz, emin misiniz ?"
+
+msgid "You are about to wipe all your temporary files, this includes the generated sources & apk builds !\nAre you sure ?"
+msgstr ""
+"Tüm geçici dosyaları silmek üzere olduğunuz bu içerir oluşturulan kaynaklar "
+"ve kuru temizleme\\oluşturur.nAre emin misin ?"
+
+msgid "You can use <b>%s</b> as a dynamic variable for your application name."
+msgstr ""
+"<b>%s</b> değerini uygulama adınız için dinamik bir değişken olarak "
+"kullanabilirsiniz"
+
+msgid "Your certificate is invalid"
+msgstr "Sertifika geçersiz"
+
+msgid "Your certificate is valid until:"
+msgstr "Sertifikanızı kadar geçerlidir:"
+
+msgid "<b>Note</b>: sources & push will be sent immediately after their creation, scheduled push will not work & media optimization is disabled."
+msgstr ""
+"<b>Not</b>: kaynakları ve bas oluşturulduktan hemen sonra gönderilecektir, "
+"planlanan basın ve medya optimizasyonu devre dışı çalışmaz."
+
+msgid "for the bundle id:"
+msgstr "paket kimliği için:"
+
+msgid "see Settings > Advanced > Configuration > Cron to edit options."
+msgstr ""
+"bakın Ayarlar > Gelişmiş > Yapılandırma > Cron seçeneklerini düzenlemek için."
