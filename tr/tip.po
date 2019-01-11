@@ -1,2 +1,28 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-11 14:48+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/tip/tr/>"
+"\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "Amount of bill"
+msgstr "Fatura tutarı"
+
+msgid "Calculate"
+msgstr "Hesaplama"
+
+msgid "Percentage of tip"
+msgstr "Pratik yüzdesi"
+
+msgid "This feature allows your users to calculate tips with their app."
+msgstr ""
+"Bu özellik kullanıcıların uygulama ile pratik hesaplama için izin verir ."
+
+msgid "Tip for each:"
+msgstr "Herbir pratik için:"
