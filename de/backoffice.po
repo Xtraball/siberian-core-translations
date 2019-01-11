@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 10:48+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: German <http://yvain.xtraball.com/projects/siberian/"
+"backoffice/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: de\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -92,3 +93,72 @@ msgstr "Ihr neues Passwort"
 #: de/backoffice.csv:20
 msgid "Your password"
 msgstr "Ihr Passwort"
+
+msgid "60000 maximum allowed."
+msgstr "Maximal 60000 zulässig."
+
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+msgid "Authenticate"
+msgstr "Authentifizieren"
+
+msgid "Backoffice options"
+msgstr "Backoffice-Optionen"
+
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+msgid "Clear logs"
+msgstr "Protokolle löschen"
+
+msgid "Configuration"
+msgstr "Einstellungen"
+
+msgid "Default (no)"
+msgstr "Standard (keine)"
+
+msgid "Exists"
+msgstr "Existiert"
+
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Generate source"
+msgstr "Quelle generieren"
+
+msgid "Grant user"
+msgstr "Benutzer freigeben"
+
+msgid "Installed"
+msgstr "Ersteller"
+
+msgid "Mark as read"
+msgstr "Als gelesen markieren"
+
+msgid "Note:"
+msgstr "Notizen"
+
+msgid "Rebuild manifest"
+msgstr "Manifest neu erstellen"
+
+msgid "Revoke user"
+msgstr "Benutzer widerrufen"
+
+msgid "Sales configuration"
+msgstr "Karten-Konfiguration"
+
+msgid "Select API access"
+msgstr "Wählen Sie den API-Zugriff aus"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Success"
+msgstr "Erfolg."
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "You can use <b>%s</b> as a dynamic variable for your application name."
+msgstr "Sie können <b>%s</b> als Variable für Ihren Anwendungsnamen verwenden."
