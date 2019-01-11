@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 15:46+0000\n"
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/cms/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 15:46+0000\n"
-"PO-Revision-Date: 2019-01-08 15:46+0000\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -116,3 +116,67 @@ msgstr "Adresse de la vidéo :"
 #: fr/cms.csv:26
 msgid "Your Podcast:"
 msgstr "Votre Podcast :"
+
+msgid "Add attachement"
+msgstr "Ajouter la pièce jointe"
+
+msgid "Add cover"
+msgstr "Ajouter une couverture"
+
+msgid "Add to address book"
+msgstr "Ajouter au carnet d'adresses"
+
+msgid "An error occured."
+msgstr "Une erreur s'est produite."
+
+msgid "At least one section is required to save."
+msgstr "Au moins une section est nécessaire pour l'enregistrer."
+
+msgid "Attachement"
+msgstr "Attachement"
+
+msgid "Attachment:"
+msgstr "Joindre un fichier"
+
+msgid "Custom icon"
+msgstr "Icône personnalisée (PNG uniquement)"
+
+msgid "Custom page"
+msgstr "Page personnalisée"
+
+msgid "Display image in page"
+msgstr "Afficher l'image dans la page"
+
+msgid "Display title and subtitle in page"
+msgstr "Afficher le titre et le sous-titre dans la page"
+
+msgid "Email:"
+msgstr "Email :"
+
+msgid "Hide navbar"
+msgstr "Masquer la barre de navigation"
+
+msgid "Latitude:"
+msgstr "Latitude"
+
+msgid "Link:"
+msgstr "Lien"
+
+msgid "Longitude:"
+msgstr "Longitude"
+
+msgid "Phone:"
+msgstr "Téléphone:"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Slider"
+msgstr "Diaporama"
+
+msgid "The block N°%s, %s was not saved, the block was either empty or invalid."
+msgstr ""
+"Le bloc N°%s, %s n'a pas été enregistré, le bloc est vide ou non valide."
+
+msgid "Use external app"
+msgstr "Utiliser une application externe"
