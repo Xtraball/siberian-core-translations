@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 14:47+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/event/tr/"
+">\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -116,3 +117,39 @@ msgstr "Takviminiz boş"
 #: tr/event.csv:26
 msgid "iCal"
 msgstr "iCal"
+
+msgid "Add a Website"
+msgstr "Websitesi Ekle"
+
+msgid "Buy Tickets"
+msgstr "Biletleri Satın al"
+
+msgid "Buy tickets"
+msgstr "Bilet Satın Al"
+
+msgid "Custom Calendar"
+msgstr "Özel Takvim"
+
+msgid "Entrance:"
+msgstr "Başlama:"
+
+msgid "Entrance: %s"
+msgstr "Başlama: %s"
+
+msgid "Illustration:"
+msgstr "Örnekleme:"
+
+msgid "Location:"
+msgstr "Lokasyon:"
+
+msgid "Subtitle:"
+msgstr "Altyazı:"
+
+msgid "Ticket Shop URL:"
+msgstr "Bilet Satış URL:"
+
+msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
+msgstr "Facebook sayfa ID <span class=\" required-entry\">*</span> :"
+
+msgid "to"
+msgstr "ve"
