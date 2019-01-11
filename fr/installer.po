@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/installer/"
+"fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -216,3 +217,49 @@ msgstr "Nom d'utilisateur"
 #: fr/installer.csv:51
 msgid "You already have installed this update."
 msgstr "Vous avez déjà installé cette mise à jour."
+
+msgid "Action"
+msgstr "Action"
+
+msgid "An update is available. Click here to download it."
+msgstr "Une mise à jour est disponible. Cliquez ici pour télécharger."
+
+msgid "Check for updates"
+msgstr "Vérifier les mises à jour"
+
+msgid "Click here to see the release notes"
+msgstr "Cliquez ici pour consulter les notes de mise à jour"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Package"
+msgstr "Package"
+
+msgid "Progress"
+msgstr "Avancé"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "There is no CMS license key set."
+msgstr "Il n'y a pas de jeu de clés de licence CMS."
+
+msgid "Unable to check for updates now. Please, try again later."
+msgstr ""
+"Impossible de vérifier les mises à jour maintenant . Veuillez réessayer plus "
+"tard."
+
+msgid "Unable to fetch the update. Please, try again later."
+msgstr "Impossible de récupérer la mise à jour . Veuillez réessayer plus tard."
+
+msgid "We are checking for updates. Please, do not refresh the page."
+msgstr ""
+"Nous vérifions les mises à jour . S'il vous plaît , ne rafraîchissez pas la "
+"page"
+
+msgid "You already have installed this template."
+msgstr "Vous avez déjà installé ce modèle"
+
+msgid "Your system is up to date."
+msgstr "Votre système est à jour."
