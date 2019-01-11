@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/mcommerce/"
+"fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -620,3 +621,449 @@ msgstr "Votre numéro de téléphone"
 #: fr/mcommerce.csv:152
 msgid "e.g., Sauces"
 msgstr "par exemple, Sauces"
+
+msgid ": activate to sort column ascending"
+msgstr ": Activer pour trier la colonne ascendante"
+
+msgid ": activate to sort column descending"
+msgstr ": Activer pour trier la colonne descendante"
+
+msgid "1 points ="
+msgstr "1 points ="
+
+msgid "Add Discount"
+msgstr "Ajouter Remise"
+
+msgid "Add card"
+msgstr "Ajouter une carte"
+
+msgid "Add gratuity (Optional)"
+msgstr "Ajouter un pourboire (Facultatif)"
+
+msgid "Add pictures"
+msgstr "Ajouter Image(s)"
+
+msgid "All fields with a * are required."
+msgstr "Tous les champs marqués d'une * sont obligatoires."
+
+msgid "Amount remaining:"
+msgstr "Quantité restante:"
+
+msgid "Amount you will pay"
+msgstr "Le montant que vous devrez payer"
+
+msgid "An error occurred during the payment process."
+msgstr "Une erreur s'est produite pendant le processus de paiement."
+
+msgid "An error occurred while cancelling. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de l'annulation . Veuillez réessayer plus tard."
+
+msgid "An error occurred while proceeding your order:"
+msgstr "Une erreur est survenue en procédant de votre commande:"
+
+msgid "Birthday"
+msgstr "Anniversaire"
+
+msgid "CVC"
+msgstr "Code à 3 chiffres au dos"
+
+msgid "Calculate the change for the client"
+msgstr "Calculer le change pour le client"
+
+msgid "Cancel order"
+msgstr "Supprimer la commande"
+
+msgid "Card Number"
+msgstr "Numéro de Carte"
+
+msgid "Choose a store"
+msgstr "Choisir un magasin"
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Client will pay"
+msgstr "Client paiera"
+
+msgid "Code used"
+msgstr "Code utilisé"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "Create a new choice list group"
+msgstr "Créer un nouveau groupe de liste de choix"
+
+msgid "Create a new discount"
+msgstr "Créer une nouvelle Remise"
+
+msgid "Credit card (online payment)"
+msgstr "Carte de Crédit"
+
+msgid "Credit card payment"
+msgstr "Paiement par CB"
+
+msgid "Customer can add tip to a command?"
+msgstr "Le client peut ajouter un pourboire sur la commande?"
+
+msgid "Deductable"
+msgstr "Déductible"
+
+msgid "Deduction"
+msgstr "Déduction"
+
+msgid "Delivery address"
+msgstr "Adresse de livraison"
+
+msgid "Discound code"
+msgstr "Code de réduction"
+
+msgid "Discount Settings"
+msgstr "Paramètres de remise"
+
+msgid "Discount amount"
+msgstr "Montant de l'escompte"
+
+msgid "Discount amount si very high"
+msgstr "Montant de l'escompte es très élevé"
+
+msgid "Discount code"
+msgstr "Code de réduction"
+
+msgid "Discount code already exists"
+msgstr "Le code de réduction existe déjà."
+
+msgid "Discount code is missing"
+msgstr "Le code de réduction est manquant"
+
+msgid "Discount label is missing"
+msgstr "L'étiquette de réduction est manquante"
+
+msgid "Discount minimum amount is missing"
+msgstr "Le montant minimum de réduction est manquant"
+
+msgid "Discount no longer available"
+msgstr "L'escompte n'est plus disponible"
+
+msgid "Discount only for carts with total more than: "
+msgstr "Réduction uniquement pour les paniers avec un total de plus de:"
+
+msgid "Discount settings"
+msgstr "Paramètres de remise"
+
+msgid "Discount total"
+msgstr "Remise totale"
+
+msgid "Discount type"
+msgstr "Type de remise"
+
+msgid "Discount type is missing"
+msgstr "Le type de remise est manquant"
+
+msgid "Discount used"
+msgstr "Remise utilisée"
+
+msgid "Discount validation date"
+msgstr "Date de validation de la remise"
+
+msgid "Discounted amount is missing"
+msgstr "Le montant actualisé est manquant"
+
+msgid "Discounted amount should be a positive number"
+msgstr "Montant actualisé doit être un nombre positif"
+
+msgid "Do you confirm you want to remove your card?"
+msgstr "Confirmez-vous que vous voulez supprimer votre carte?"
+
+msgid "Done"
+msgstr "Terminé"
+
+msgid "Duplicate this product"
+msgstr "Dupliquer ce produit"
+
+msgid "Edit the choice list group"
+msgstr "Modifier le groupe de liste de choix"
+
+msgid "Edit the discount %s"
+msgstr "Modifier la remise %s"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Error while using your points"
+msgstr "Erreur lors de l'utilisation de vos points"
+
+msgid "Estimated discount:"
+msgstr "Remise estimée:"
+
+msgid "First"
+msgstr "Première"
+
+msgid "First Name"
+msgstr "NOM"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "Free purchase"
+msgstr "Achat libre"
+
+msgid "From"
+msgstr "De"
+
+msgid "Gratuity"
+msgstr "Gratuité"
+
+msgid "Guest Order"
+msgstr "Commande d'invité"
+
+msgid "Hidden"
+msgstr "Caché"
+
+msgid "I will pay"
+msgstr "Je payerai"
+
+msgid "Incl."
+msgstr "Incl."
+
+msgid "Invalid code"
+msgstr "Code non valide"
+
+msgid "Invoicing address"
+msgstr "Adresse de facturation"
+
+msgid "Keep card information"
+msgstr "Conserver les informations de carte"
+
+msgid "Last"
+msgstr "Dernière"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgid "Login"
+msgstr "S'identifier"
+
+msgid "MM"
+msgstr "Mois"
+
+msgid "Manage discounts"
+msgstr "Gérer les réductions"
+
+msgid "Manage user fields"
+msgstr "Gérer les champs des utilisateurs"
+
+msgid "Mandatory"
+msgstr "Obligatoire"
+
+msgid "Merchant ID:"
+msgstr "Vendeur ID:"
+
+msgid "Minimum amount"
+msgstr "Montant Minimum"
+
+msgid "Minimum amount should be a positive number"
+msgstr "Montant Minimum doit être un nombre positif"
+
+msgid "My product's list choice options"
+msgstr "Les options de choix de liste de mon produit"
+
+msgid "No data available in table"
+msgstr "Pas de données disponibles dans le tableau"
+
+msgid "No matching records found"
+msgstr "Aucun enregistrement correspondant n'trouvé"
+
+msgid "Notes"
+msgstr "Commentaires"
+
+msgid "Option $1 is required."
+msgstr "Option $1 est requis."
+
+msgid "Optional"
+msgstr "Optionnelle"
+
+msgid "Options"
+msgstr "Option"
+
+msgid "Order N°"
+msgstr "N° de commande"
+
+msgid "Order Total"
+msgstr "Total de la commande"
+
+msgid "Order history"
+msgstr "Historique de commande"
+
+msgid "Order %s cancelled"
+msgstr "Commande %s annulée"
+
+msgid "Order successfully cancelled"
+msgstr "Commande supprimée avec succès!"
+
+msgid "Paid by the client:"
+msgstr "Payé par le client :"
+
+msgid "Pay"
+msgstr "Payer maintenant:"
+
+msgid "Paypal settings"
+msgstr "Configuration Paypal"
+
+msgid "Percentage is a least 1%, at max 99%"
+msgstr "Pourcentage est de moins de 1%, au maximum 99%"
+
+msgid "Percentage must be at least 1 percent, at most 99 percent"
+msgstr "Pourcentage doit être d'au moins 1%, à plus de 99%"
+
+msgid "Permit unregistered user to make order?"
+msgstr "Permettre à un utilisateur non enregistré de passer une commande?"
+
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+msgid "Please fill in your card information to process Credit card payment:"
+msgstr "SVP, entrez ici les informations de votre Carte Bancaire"
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Points available:"
+msgstr "Points disponibles:"
+
+msgid "Previous"
+msgstr "Précédente"
+
+msgid "Prices"
+msgstr "Prix"
+
+msgid "Processing..."
+msgstr "En traitement..."
+
+msgid "Product successfully duplicated"
+msgstr "Produit dupliqué avec succès"
+
+msgid "Publishable Key:"
+msgstr "Clé publiable :"
+
+msgid "Remaining amount due"
+msgstr "Montant restant dû"
+
+msgid "Remaining due"
+msgstr "Restant dû"
+
+msgid "Remove card"
+msgstr "supprimer la carte"
+
+msgid "Return URL:"
+msgstr "URL de retour:"
+
+msgid "Search:"
+msgstr "Recherche:"
+
+msgid "Secret Key"
+msgstr "Mot de Passe"
+
+msgid "Settings successfully saved"
+msgstr "Paramètres sauvegardés avec succès"
+
+msgid "Show _MENU_ entries"
+msgstr "Montrer _MENU_ entrées"
+
+msgid "Show search fields on product list ?"
+msgstr ""
+"Souhaitez vous afficher les champs de recherche sur la liste des produits ?"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Affichage 0 à 0 de 0 entrées"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Montrant _START_ à _END_ de _TOTAL_ entrées"
+
+msgid "Signup"
+msgstr "S'inscrire"
+
+msgid "Some mandatory fields are empty."
+msgstr "Certains champs obligatoires sont vides ."
+
+msgid "Sorry we can't proceed to deliver your order. It has been canceled."
+msgstr ""
+"Désolé, nous ne pouvons pas procéder à livrer votre commande . Elle a été "
+"annulée."
+
+msgid "Store choice"
+msgstr "Choix de magasin"
+
+msgid "Stored card information."
+msgstr "Informations sur la carte stockée"
+
+msgid "Stripe settings"
+msgstr "Configuration Stripe"
+
+msgid "Subtotal Excl. Tax"
+msgstr "Sous-Total Ht."
+
+msgid "Subtotal before deduction"
+msgstr "Sous-total avant déduction"
+
+msgid "The clients calculate the change:"
+msgstr "Les clients calculent le change"
+
+msgid "Tip"
+msgstr "Astuce"
+
+msgid "Unable to proceed to checkout the minimum order amount is %s"
+msgstr ""
+"Impossible de passer à la caisse le montant minimum de commande est de : %s"
+
+msgid "Updating price"
+msgstr "Mise à jour du prix"
+
+msgid "Usable once"
+msgstr "Utilisable une fois"
+
+msgid "Use:"
+msgstr "Utilisation:"
+
+msgid "Use my points?"
+msgstr "Utiliser mes points?"
+
+msgid "Validity date"
+msgstr "Date de validité"
+
+msgid "Validity date should be a valid date"
+msgstr "Date de validité doit être une date valide"
+
+msgid "Verify Key:"
+msgstr "Vérifiez la clé :"
+
+msgid "Waiting for payment"
+msgstr "En attente de paiement"
+
+msgid "YYYY"
+msgstr "Année"
+
+msgid "You did not login."
+msgstr "Vous ne vous êtes pas connecté."
+
+msgid "You don't have enough points"
+msgstr "Vous n'avez pas assez de points"
+
+msgid "You have to choose a delivery method."
+msgstr "Vous devez choisir un mode de livraison."
+
+msgid "You must be logged in to continue"
+msgstr "Vous devez être connecté pour continuer"
+
+msgid "You used the code before"
+msgstr "Vous avez déjà utilisé ce code"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrés par _MAX_ le total des entrées)"
+
+msgid "without taxes"
+msgstr "Indiquez le prix Hors taxe"
+
+msgid "your choice"
+msgstr "Votre choix"
