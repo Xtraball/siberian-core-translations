@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-11 14:48+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/mcommerce/tr/>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
+"mcommerce/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -629,3 +630,365 @@ msgstr "Sil"
 
 msgid "Label"
 msgstr "Etiket"
+
+msgid ": activate to sort column ascending"
+msgstr ": Sütun artan sıralamayı etkinleştir"
+
+msgid ": activate to sort column descending"
+msgstr ": Sütun azalan sıralamayı etkinleştir"
+
+msgid "Add Discount"
+msgstr "İndirim Ekle"
+
+msgid "Add card"
+msgstr "Kart ekleyin"
+
+msgid "Add gratuity (Optional)"
+msgstr "(İsteğe bağlı) Hediye Ekle"
+
+msgid "Add pictures"
+msgstr "Resimleri ekle"
+
+msgid "All fields with a * are required."
+msgstr "*  Alanlar gereklidir."
+
+msgid "Amount remaining:"
+msgstr "Toplam kalan:"
+
+msgid "Amount you will pay"
+msgstr "Ödeme tutarınız"
+
+msgid "An error occurred during the payment process."
+msgstr "Ödeme işlemi sırasında bir hata oluştu."
+
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+msgid "CVC"
+msgstr "CVC"
+
+msgid "Calculate the change for the client"
+msgstr "Müşteri için hesaplamaları değiştir"
+
+msgid "Cancel order"
+msgstr "Sipariş İptal"
+
+msgid "Card Number"
+msgstr "Kart Numarası"
+
+msgid "Client"
+msgstr "Müşteri"
+
+msgid "Client will pay"
+msgstr "Müşteri Ödeyecek"
+
+msgid "Code used"
+msgstr "Kod kullanılır"
+
+msgid "Confirmation"
+msgstr "Onay"
+
+msgid "Credit card (online payment)"
+msgstr "Kredi Kartı(online ödeme)"
+
+msgid "Credit card payment"
+msgstr "Kredi Kartı Ödemesi"
+
+msgid "Customer can add tip to a command?"
+msgstr "Müşteri bir komut için ipucu ekleyebilirsiniz."
+
+msgid "Deductable"
+msgstr "İndirilebilir"
+
+msgid "Deduction"
+msgstr "Kesinti"
+
+msgid "Discound code"
+msgstr "İndirim kodu"
+
+msgid "Discount"
+msgstr "İndirim"
+
+msgid "Discount Settings"
+msgstr "İndirim Ayarları"
+
+msgid "Discount amount"
+msgstr "İndirim miktarı"
+
+msgid "Discount amount si very high"
+msgstr "İndirim miktarı si çok yüksek"
+
+msgid "Discount code"
+msgstr "İndirim kodu"
+
+msgid "Discount code already exists"
+msgstr "İndirim kodu zaten var"
+
+msgid "Discount code is missing"
+msgstr "İndirim kodu yok "
+
+msgid "Discount label is missing"
+msgstr "İndirim etiketi eksik "
+
+msgid "Discount minimum amount is missing"
+msgstr "İndirim minimum miktar eksik "
+
+msgid "Discount no longer available"
+msgstr "İndirim artık kullanılabilir"
+
+msgid "Discount only for carts with total more than: "
+msgstr "Sadece daha fazla toplam arabaları için indirim: "
+
+msgid "Discount settings"
+msgstr "İndirim ayarları"
+
+msgid "Discount total"
+msgstr "İndirim toplam"
+
+msgid "Discount type"
+msgstr "İndirim türü"
+
+msgid "Discount type is missing"
+msgstr "İndirim türü eksik "
+
+msgid "Discount used"
+msgstr "Kullanılan indirim"
+
+msgid "Discount validation date"
+msgstr "İndirim geçerlilik tarihi"
+
+msgid "Discounted amount is missing"
+msgstr "İndirimli miktar eksik "
+
+msgid "Discounted amount should be a positive number"
+msgstr "İndirimli miktarda pozitif bir sayı olmalıdır"
+
+msgid "Do you confirm you want to remove your card?"
+msgstr "Kartınız kaldırmak istediğinizi onaylamak mı?"
+
+msgid "Done"
+msgstr "Bitti"
+
+msgid "Duplicate this product"
+msgstr "Ürünü çogalt"
+
+msgid "Edit the choice list group"
+msgstr "Seçim listesi grubunu düzenle"
+
+msgid "Enabled"
+msgstr "Etkin"
+
+msgid "Error while using your points"
+msgstr "Puanlarınızı kullanırken hata"
+
+msgid "Estimated discount:"
+msgstr "Tahmini indirim:"
+
+msgid "First"
+msgstr "İlk"
+
+msgid "Free purchase"
+msgstr "Ücretsiz satınalma"
+
+msgid "From"
+msgstr "Gönderici"
+
+msgid "Gratuity"
+msgstr "Hediye"
+
+msgid "Guest Order"
+msgstr "Misafir Sipariş"
+
+msgid "Hidden"
+msgstr "Gizli"
+
+msgid "I will pay"
+msgstr "Ödeyeceğim"
+
+msgid "Incl."
+msgstr "Dahil."
+
+msgid "Invalid code"
+msgstr "Geçersiz kod"
+
+msgid "Invoicing address"
+msgstr "Fatura adresi"
+
+msgid "Keep card information"
+msgstr "Kart bilgileri"
+
+msgid "Last"
+msgstr "Son"
+
+msgid "MM"
+msgstr "MM"
+
+msgid "Mandatory"
+msgstr "Zorunlu"
+
+msgid "Merchant ID:"
+msgstr "Tüccar Kimliği(ID):"
+
+msgid "Minimum amount"
+msgstr "Minimum miktarda"
+
+msgid "Minimum amount should be a positive number"
+msgstr "Minimum miktarda pozitif bir sayı olmalıdır"
+
+msgid "My product's list choice options"
+msgstr "Ürünlerim liste seçenekleri"
+
+msgid "No data available in table"
+msgstr "Tabloda veri yok"
+
+msgid "No matching records found"
+msgstr "Hiçbir eşleşen kayıt bulunamadı"
+
+msgid "Notes"
+msgstr "Notlar"
+
+msgid "Option $1 is required."
+msgstr "Seçenek $1 gereklidir."
+
+msgid "Optional"
+msgstr "Opsiyonel"
+
+msgid "Order N°"
+msgstr "Sipariş N°"
+
+msgid "Order Total"
+msgstr "Sipariş Toplam"
+
+msgid "Order history"
+msgstr "Sipariş geçmişi"
+
+msgid "Order %s cancelled"
+msgstr "sipariş %s tarafından iptal edildi"
+
+msgid "Paid by the client:"
+msgstr "Müşteri tarafından ödenen:"
+
+msgid "Pay"
+msgstr "Ödeme"
+
+msgid "Paypal settings"
+msgstr "Paypal ayarları"
+
+msgid "Percentage is a least 1%, at max 99%"
+msgstr "Yüzdesi en az %1, max 99%"
+
+msgid "Percentage must be at least 1 percent, at most 99 percent"
+msgstr "Yüzde 1'ini, en fazla yüzde 99 olmalı"
+
+msgid "Permit unregistered user to make order?"
+msgstr "Sipariş vermek için kayıtlı kullanıcı izni?"
+
+msgid "Please fill in your card information to process Credit card payment:"
+msgstr "Kredi kartı ödeme işlemek için kartı bilgilerinizi doldurunuz :"
+
+msgid "Points"
+msgstr "Puanlar"
+
+msgid "Points available:"
+msgstr "Kullanılabilir Puanlar:"
+
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+msgid "Publishable Key:"
+msgstr "Yayınlanabilir Anahtar:"
+
+msgid "Remaining amount due"
+msgstr "Kalan miktar"
+
+msgid "Remaining due"
+msgstr "Ödeme Sonrası Kalan"
+
+msgid "Remove card"
+msgstr "Kartı çıkarın"
+
+msgid "Return URL:"
+msgstr "URLye  Dön:"
+
+msgid "Secret Key"
+msgstr "Gizli Anahtar"
+
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ Girişlerini göster"
+
+msgid "Show search fields on product list ?"
+msgstr "Ürün listesinde arama alanlarını göster ?"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 0  0 girişler gösteriliyor"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_TOTAL_ bu _END_ için _START_  girişleri gösteriliyor"
+
+msgid "Signup"
+msgstr "Kaydol"
+
+msgid "Some mandatory fields are empty."
+msgstr "Bazı zorunlu alanlar boş."
+
+msgid "Sorry we can't proceed to deliver your order. It has been canceled."
+msgstr ""
+"Maalesef siparişinizi teslim edebilmek için  devam edemiyoruz . Bu iptal "
+"edildi."
+
+msgid "Store choice"
+msgstr "Mağza Seçimi"
+
+msgid "Stripe settings"
+msgstr "Stripe ayarlar"
+
+msgid "Subtotal before deduction"
+msgstr "Kesinti öncesi alt toplam"
+
+msgid "The clients calculate the change:"
+msgstr "Müşterileri değişikliği hesapla:"
+
+msgid "Tip"
+msgstr "İpucu"
+
+msgid "Unable to proceed to checkout the minimum order amount is %s"
+msgstr "Minimum sipariş miktarı %s ödeme geçmek için açılamıyor"
+
+msgid "Updating price"
+msgstr "Fiyat güncelleme"
+
+msgid "Usable once"
+msgstr "Kullanılabilir bir kez"
+
+msgid "Validity date"
+msgstr "Geçerlilik tarihi"
+
+msgid "Validity date should be a valid date"
+msgstr "Geçerlilik tarihi geçerli bir tarih olmalıdır"
+
+msgid "Verify Key:"
+msgstr "Doğrulama Anahtarı:"
+
+msgid "Waiting for payment"
+msgstr "Ödeme için  bekleniyor"
+
+msgid "YYYY"
+msgstr "YYYY"
+
+msgid "You did not login."
+msgstr "Henüz giriş yapmadınız."
+
+msgid "You don't have enough points"
+msgstr "Yeterince puanınız yok"
+
+msgid "You used the code before"
+msgstr "Bu kodu kullandın"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "( _MAX_ Toplam girdiler filitrelenmiş )"
+
+msgid "without taxes"
+msgstr "vergisiz"
+
+msgid "your choice"
+msgstr "seçiminiz"
