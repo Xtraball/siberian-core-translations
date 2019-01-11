@@ -1,2 +1,55 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"default-group2/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "-"
+msgstr "-"
+
+msgid " \"Remove this page from this folder?\""
+msgstr " \"Supprimer cette page à partir de ce dossier?\""
+
+msgid "#100: Unable to fetch the update. Please, try again later."
+msgstr ""
+"#100: Impossible de récupérer la mise à jour. S'il vous plaît, essayez de "
+"nouveau plus tard."
+
+msgid "#101: An error occurred while saving"
+msgstr "#101: Une erreur s'est produite pendant la sauvegarde"
+
+msgid "#101: Unable to fetch the update. Please, try again later."
+msgstr ""
+"#101: Impossible de récupérer la mise à jour. Veuillez réessayer plus tard."
+
+msgid "#102: An error occurred while saving"
+msgstr "#102: Une erreur s'est produite pendant la sauvegarde"
+
+msgid "#102: Unable to fetch the update. Please, try again later."
+msgstr ""
+"#102: Impossible de récupérer la mise à jour. Veuillez réessayer plus tard."
+
+msgid "#103: An error occurred while saving. Please try again later."
+msgstr ""
+"#103: Une erreur s'est produite pendant la sauvegarde. Veuillez réessayer "
+"plus tard."
+
+msgid "T&C's"
+msgstr "T&C's"
+
+msgid "filtered from #TOTAL# total records"
+msgstr "filtré depuis #TOTAL# enregistrements"
+
+msgid "%s - v%s"
+msgstr "%s - v%s"
+
+msgid "Firebase is not yet configured, please contact your Administrator."
+msgstr ""
+"Firebase n'est pas encore configuré, veuillez contacter votre administrateur."
