@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-10 15:40+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
+"subscription/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -240,3 +241,152 @@ msgstr "Votre abonnement doit avoir au moins un prix."
 #: fr/subscription.csv:57
 msgid "price"
 msgstr "Prix"
+
+msgid "Address 1"
+msgstr "Adresse"
+
+msgid "Address 2"
+msgstr "Complément d'adresse"
+
+msgid "An error occurred while processing your order. Please, check your 2Checkout credentials or try again later."
+msgstr ""
+"Une erreur est survenue lors du traitement de votre commande . S'il vous "
+"plaît , vérifiez vos informations d'identification 2Checkout ou réessayez "
+"plus tard ."
+
+msgid "An offline payment method will <strong>not</strong> be associated with any online payment method. Users will have to pay you by checks, bank transfer...You'll have to edit your invoices manually."
+msgstr ""
+"Un mode de paiement hors ligne ne sera <strong> pas </ strong> associé à un "
+"mode de paiement en ligne. Les utilisateurs devront vous payer par chèque, "
+"virement bancaire ... Vous devrez éditer vos factures manuellement."
+
+msgid "Be careful: a 2Checkout stopped recurrence can only be reactivated by a 2Checkout representative."
+msgstr ""
+"Attention: un 2Checkout arrêté récidive ne peut être réactivé par un "
+"représentant 2Checkout ."
+
+msgid "Be careful: a Stripe stopped recurrence can only be reactivated manually in your Stripe Admin panel."
+msgstr ""
+"Attention: un abonnement Stripe arrêté ne peut être réactivé manuellement "
+"dans votre panneau Stripe Admin."
+
+msgid "Be sure to fill in Admob settings in Settings > General section of your back office."
+msgstr ""
+"Soyez sûr de remplir les paramètres Admob dans Paramètres> section Général "
+"de votre back office ."
+
+msgid "CVC"
+msgstr "Code à 3 chiffres au dos"
+
+msgid "Card number"
+msgstr "Numéro de la carte"
+
+msgid "Choose features"
+msgstr "Choisissez caractéristiques"
+
+msgid "Choose your Payment method"
+msgstr "CHOISISSEZ VOTRE METHODE DE PAIEMENT:"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Click here"
+msgstr "Cliquez ici"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "Don't forget to configure your message for offline plans in Settings > Sales > Configuration"
+msgstr ""
+"N'oubliez pas de configurer votre message pour les connexions hors ligne "
+"dans Paramètres > Ventes > Configuration"
+
+msgid "If you chose an offline payment, your subscription will be activated by an admin when your payment is received."
+msgstr ""
+"Si vous avez choisi un paiement hors ligne, votre abonnement sera activé par "
+"un administrateur lors de la réception de votre paiement."
+
+msgid "I'll pay with an offline payment mode"
+msgstr "Je vais payer avec un mode mode de paiement hors ligne"
+
+msgid "MM"
+msgstr "Mois"
+
+msgid "Monthly"
+msgstr "Mensuel"
+
+msgid "New sale on your platform"
+msgstr "Nouvelle vente sur votre plate-forme"
+
+msgid "No recurring line items to stop."
+msgstr "Aucun élément de ligne récurrents pour arrêter ."
+
+msgid "Payment Method:"
+msgstr "Méthode de paiement"
+
+msgid "Please choose a payment method for this plan."
+msgstr "Veuillez choisir une méthode de paiement pour ce projet."
+
+msgid "Please fill in your card information in order to pay with Stripe:"
+msgstr ""
+"Merci d'indiquer les renseignements de votre Carte afin d'effectuer le "
+"paiement."
+
+msgid "Sorry, but no payment method was found."
+msgstr "Désolé , mais aucune méthode de paiement a été trouvé ."
+
+msgid "State/Province"
+msgstr "Région/Département"
+
+msgid "Subscription for"
+msgstr "Abonnement pour"
+
+msgid "The user %s requests you to publish the app %s."
+msgstr ""
+"L'utilisateur %s vous demande de bien vouloir publier l'application de %s."
+
+msgid "This plan allows offline payments method (manual management)"
+msgstr "Ce plan permet une méthode de paiement hors ligne (gestion manuelle)"
+
+msgid "Use Owner AdMob"
+msgstr "Utiliser AdMob Propriétaire"
+
+msgid "Verification number:"
+msgstr "Cryptogramme"
+
+msgid "We were unable to deactivate their subscription on %s. Please, do it manually."
+msgstr ""
+"Nous ne pouvons désactiver l'abonnement sur % s . S'il vous plaît , faites-"
+"le manuellement."
+
+msgid "YYYY"
+msgstr "Année"
+
+msgid "Yearly"
+msgstr "Annuel"
+
+msgid "You are almost done! After subscribing, your app can be published on both the AppStore and the Google Play."
+msgstr ""
+"Vous y êtes presque! Remplissez les informations de facturation et "
+"choisissez votre offre. Une fois le règlement enregistré, votre application "
+"pourra être publiée sur les stores Apple & Google."
+
+msgid "You can choose which feature will be accessible with your plan. By default, all features are allowed."
+msgstr ""
+"Vous pouvez choisir quelle fonctionnalité sera accessible avec votre plan . "
+"Par défaut , toutes les fonctionnalités sont autorisés ."
+
+msgid "You have chosen an offline plan. Once submitted, your subscription will be activated by an admin when your payment is received."
+msgstr ""
+"Vous avez choisi un plan hors ligne. Une fois soumis, votre abonnement sera "
+"activé par un administrateur lors de la réception de votre paiement."
+
+msgid "You've made a sale!"
+msgstr "Vous avez fait une vente!"
+
+msgid "Zip Code"
+msgstr "Code postal"
+
+msgid "to view this app if you are connected to your backoffice."
+msgstr ""
+"pour afficher cette application si vous êtes connecté à votre backoffice."
