@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-11 14:47+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/installer/tr/>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
+"installer/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -215,3 +216,34 @@ msgstr "Onlara doğru izinleri ayarlayarak bu sorunu giderebilirsiniz ve tekrar 
 
 msgid "Actions"
 msgstr "Eylemler"
+
+msgid "An update is available. Click here to download it."
+msgstr "Bir güncelleştirme kullanılabilir. İndirmek için buraya tıklayınız."
+
+msgid "Check for updates"
+msgstr "Güncellemeleri kontrol et"
+
+msgid "Click here to see the release notes"
+msgstr "Burada sürümü görmek için tıklayın notlar"
+
+msgid "Install"
+msgstr "Yükleme"
+
+msgid "Package"
+msgstr "Paket"
+
+msgid "Progress"
+msgstr "İlerleme"
+
+msgid "Unable to check for updates now. Please, try again later."
+msgstr ""
+"Şuan güncellemeler kontrol edilemiyor . Lütfen daha sonra tekrar deneyin."
+
+msgid "Unable to fetch the update. Please, try again later."
+msgstr "Güncelleştirme alınamıyor. Lütfen daha sonra tekrar deneyin"
+
+msgid "We are checking for updates. Please, do not refresh the page."
+msgstr "Güncellemeler kontrol ediliyor. Lütfen, sayfayı yenilemeyin."
+
+msgid "Your system is up to date."
+msgstr "Sisteminiz güncel."
