@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-11 14:48+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
+"subscription/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -240,3 +241,125 @@ msgstr "Aboneliğiniz en az bir fiyata sahip olmalıdır"
 #: tr/subscription.csv:57
 msgid "price"
 msgstr "fiyat"
+
+msgid "An error occurred while processing your order. Please, check your 2Checkout credentials or try again later."
+msgstr ""
+"Siparişiniz işlenirken bir hata oluştu. 2Checkout kimlik bilgilerini kontrol "
+"edin veya daha sonra tekrar deneyin."
+
+msgid "An offline payment method will <strong>not</strong> be associated with any online payment method. Users will have to pay you by checks, bank transfer...You'll have to edit your invoices manually."
+msgstr ""
+"Havale/EFT  ödeme yöntemi <strong>herhangi bir online ödeme yöntemi "
+"değildir</strong><. Kullanıcılar el ile fatura bilgilerini düzenlemsi "
+"gerekecek."
+
+msgid "Be careful: a 2Checkout stopped recurrence can only be reactivated by a 2Checkout representative."
+msgstr ""
+"Dikkatli olun : Bir 2Checkout yenileme durdurması  sadece bir 2Checkout "
+"temsilcisi tarafından yeniden aktif edilebilir"
+
+msgid "Be careful: a Stripe stopped recurrence can only be reactivated manually in your Stripe Admin panel."
+msgstr ""
+"Dikkatli olun: bir Şerit sadece el Şerit Kontrol Panelinden "
+"etkinleştirilebilir tekrarını durdu."
+
+msgid "Be sure to fill in Admob settings in Settings > General section of your back office."
+msgstr "Admob ayarlarını yaptıgınızdan emin olun> Backoffice Genel bölümünde"
+
+msgid "CVC"
+msgstr "CVC"
+
+msgid "Choose features"
+msgstr "Özellik Seç"
+
+msgid "Click here"
+msgstr "Buraya tıklayın"
+
+msgid "Confirmation"
+msgstr "Onay"
+
+msgid "Don't forget to configure your message for offline plans in Settings > Sales > Configuration"
+msgstr ""
+"Ben Ayarlarında çevrimdışı planları için mesaj yapılandırmak için Satış > "
+"Yapılandırma > unutma"
+
+msgid "If you chose an offline payment, your subscription will be activated by an admin when your payment is received."
+msgstr ""
+"Havale/EFT ödeme seçerseniz, abonelik ödeme alındığında yönetici tarafından "
+"aktive edilecek."
+
+msgid "I'll pay with an offline payment mode"
+msgstr "Çevrimdışı ödeme modu ile ödeyeceğim"
+
+msgid "MM"
+msgstr "MM"
+
+msgid "Monthly"
+msgstr "Aylık"
+
+msgid "New sale on your platform"
+msgstr "Platform üzerinde yeni satış"
+
+msgid "No recurring line items to stop."
+msgstr "Ögeleri durdurmak için herhangi bir yol mevcut degil"
+
+msgid "Please choose a payment method for this plan."
+msgstr "Bu plan için bir ödeme yöntemi seçiniz."
+
+msgid "Please fill in your card information in order to pay with Stripe:"
+msgstr "Stripe ile ödeme yapmak için  kart bilgileri doldurunuz :"
+
+msgid "Sorry, but no payment method was found."
+msgstr ""
+"06.06.2016 tarihinden itibaren Türkiye'den  Paypal Ödemeleri  "
+"alınmamaktadır. Yeni ödeme modülü entegre olana kadar aşağıdaki hesaba "
+"havale veya eft yapabilirsiniz. Havale ve eft sonrası canlı destek veya "
+"iletişim bölümünden bizlere dönüş yapıp. ödeme bildirimi yapabilirsiniz.  "
+"Banka:İş Bankası İban: TR20 0006 4000 0011 1061 1561 75"
+
+msgid "State/Province"
+msgstr "Eyalet / İl"
+
+msgid "The user %s requests you to publish the app %s."
+msgstr "Kullanıcının %s sizden uygulama %s  yayımlamak isteği."
+
+msgid "This plan allows offline payments method (manual management)"
+msgstr "Bu plan çevrimdışı ödeme yöntemi (manuel yönetimi)sağlar"
+
+msgid "Use Owner AdMob"
+msgstr "AdMob sahibi kullan"
+
+msgid "Verification number:"
+msgstr "Doğrulama Numarası:"
+
+msgid "We were unable to deactivate their subscription on %s. Please, do it manually."
+msgstr ""
+"%s üzerinde abonelik devre dışı bırakmak bizim yetkimizde degil. Lütfen, "
+"manuel olarak yapın."
+
+msgid "YYYY"
+msgstr "YYYY"
+
+msgid "Yearly"
+msgstr "Yıllık"
+
+msgid "You are almost done! After subscribing, your app can be published on both the AppStore and the Google Play."
+msgstr ""
+"Neredeyse bitti ! Abone olduktan sonra, uygulama AppStore ve Google Play'den "
+"yayınlanabilir."
+
+msgid "You can choose which feature will be accessible with your plan. By default, all features are allowed."
+msgstr ""
+"Planınızda  erişilebilir olacak özelliği seçebilirsiniz . Varsayılan olarak, "
+"tüm özellikleri izin verilir."
+
+msgid "You have chosen an offline plan. Once submitted, your subscription will be activated by an admin when your payment is received."
+msgstr ""
+"Havale/EFT  ödeme seçtiniz. Gönderim sonrası, aboneliğinizi ödeme "
+"alındığında bir yönetici tarafından aktive edilecek."
+
+msgid "You've made a sale!"
+msgstr "Bir satış yaptın!"
+
+msgid "to view this app if you are connected to your backoffice."
+msgstr "eğer idari büroya bağlı iseniz bu uygulamayı görüntüleyin"
