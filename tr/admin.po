@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 17:20+0000\n"
+"PO-Revision-Date: 2019-01-11 14:47+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/admin/tr/>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/admin/tr/"
+">\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-08 17:20+0000\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -183,3 +184,80 @@ msgstr "Şifreniz:"
 
 msgid "Role"
 msgstr "Rol"
+
+msgid "Access"
+msgstr "Erişim"
+
+msgid "Account Role"
+msgstr "Hesap Rolü"
+
+msgid "Account role"
+msgstr "Hesap Biçimi"
+
+msgid "Administrator : full access"
+msgstr "Yönetici : tam erişim"
+
+msgid "Administrator: full access"
+msgstr "Yönetici: Tam Yetkili"
+
+msgid "Application have been duplicated successfully."
+msgstr "Uygulama Başarıyla kopyalandı"
+
+msgid "Can generate APK"
+msgstr "Olabilir oluşturmak MUAYENE"
+
+msgid "Can manage guided tour"
+msgstr "Rehber turu yönetebilir"
+
+msgid "Connect to your backoffice to validate this account."
+msgstr "Bu hesabı doğrulamak için BackOffice bağlanın ."
+
+msgid "Filter your apps..."
+msgstr "Uygulamanız filitreleniyor..."
+
+msgid "From"
+msgstr "Gönderici"
+
+msgid "Hello, a new user has registered on your platform : %s."
+msgstr "Merhaba , yeni bir kullanıcı platforma kayıt oldu: % s ."
+
+msgid "New user registration on your platform"
+msgstr "Platformda yeni kullanıcı kaydı"
+
+msgid "No account for now."
+msgstr "Hiçbir hesap bulunamadı."
+
+msgid "Publication access type"
+msgstr "Yayın erişim tipi"
+
+msgid "Show All Applications"
+msgstr "Tüm Uygulamaları Göster"
+
+msgid "Sorry but an error occured while duplicating your application."
+msgstr "Üzgünüz, Uygulamanız kopyalanırken bir hata oluştu."
+
+msgid "State/Province"
+msgstr "Eyalet / İl"
+
+msgid "The account role is required"
+msgstr "Hesap biçimi gereklidir"
+
+msgid "This account is not activated yet. Please contact an administrator."
+msgstr "Bu hesap henüz aktif değildir. Platform yöneticisine başvurun."
+
+msgid "This admin can manage guided tour from editor"
+msgstr "Bu yönetici editör rehberli tur yönetebilir"
+
+msgid "This user has no applications yet."
+msgstr "Bu kullanıcının henüz hiçbir uygulaması mevcut değil"
+
+msgid "View my current data"
+msgstr "Mevcut verilerimi görüntüle"
+
+msgid "Your account have been created successfully. It will be activated soon."
+msgstr ""
+"Hesabınız başarıyla oluşturuldu. Yakında yönetici tarafından aktif "
+"edilecektir."
+
+msgid "to"
+msgstr "ve"
