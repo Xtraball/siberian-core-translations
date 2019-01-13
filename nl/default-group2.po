@@ -64,3 +64,6 @@ msgstr "Ja, Verwijderen!"
 
 msgid "Field name:"
 msgstr "Veldnaam:"
+
+msgid "URL (.mp3)"
+msgstr "URL (.mp3)"
