@@ -73,3 +73,6 @@ msgstr "Levering methoden:"
 
 msgid "Delivery radius:"
 msgstr "Levering straal:"
+
+msgid "Delivery time:"
+msgstr "Levertijd:"
