@@ -85,3 +85,6 @@ msgstr "Werknemer naam"
 
 msgid "Employee's password"
 msgstr "Medewerker wachtwoord"
+
+msgid "Firstname:"
+msgstr "Voornaam:"
