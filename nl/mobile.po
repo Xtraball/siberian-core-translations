@@ -140,3 +140,6 @@ msgstr "Datum en tijd"
 
 msgid "Number of people"
 msgstr "Het aantal personen"
+
+msgid "Albums"
+msgstr "Album:"
