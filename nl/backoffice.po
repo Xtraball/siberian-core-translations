@@ -139,3 +139,6 @@ msgstr "Nog niet gegenereerd."
 
 msgid "Self-managed"
 msgstr "Zelf beheerd"
+
+msgid "Staging"
+msgstr "Regie"
