@@ -46,3 +46,9 @@ msgstr "Kaart"
 
 msgid "Access my personal data"
 msgstr "Toegang tot mijn persoonlijke gegevens"
+
+msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Verkeerd wachtwoord.<br/>Wees voorzichtig!<br/> %d nog %s resterende "
+"pogingen vóór vergrendeling van uw kaart.<br/>Vraag het winkelpersoneel om "
+"uw punt te valideren"
