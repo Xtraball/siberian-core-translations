@@ -130,3 +130,6 @@ msgstr "Email:"
 
 msgid "Link:"
 msgstr "Link:"
+
+msgid "Phone:"
+msgstr "Telefoon:"
