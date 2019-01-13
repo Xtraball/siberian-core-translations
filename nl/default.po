@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:07+0000\n"
+"PO-Revision-Date: 2019-01-13 20:08+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -833,15 +833,15 @@ msgstr "Text"
 
 #: nl/default.csv:202
 msgid "The account has been successfully saved"
-msgstr "The account has been successfully saved"
+msgstr "Het account is-succesvol opgeslagen"
 
 #: nl/default.csv:203
 msgid "The email is required"
-msgstr "The email is required"
+msgstr "De email is verplicht"
 
 #: nl/default.csv:204
 msgid "The file '%s' does not exist"
-msgstr "The file '%s' does not exist"
+msgstr "Het bestand '%s' bestaat niet"
 
 #: nl/default.csv:205
 msgid "The file %s does not exist"
@@ -849,31 +849,31 @@ msgstr "The file %s does not exist"
 
 #: nl/default.csv:206
 msgid "The image '%s' does not exist"
-msgstr "The image '%s' does not exist"
+msgstr "De afbeelding '%s' bestaat niet"
 
 #: nl/default.csv:207
 msgid "The image size '%s' could not be detected."
-msgstr "The image size '%s' could not be detected."
+msgstr "De afbeelding grootte '%s' kon niet worden bepaald."
 
 #: nl/default.csv:208
 msgid "The old password does not match the entered password."
-msgstr "The old password does not match the entered password."
+msgstr "Het oude wachtwoord komt niet overeen met het ingevoerde wachtwoord."
 
 #: nl/default.csv:209
 msgid "The password is required"
-msgstr "The password is required"
+msgstr "Het wachtwoord is verplicht"
 
 #: nl/default.csv:210
 msgid "The password must be at least 6 characters"
-msgstr "The password must be at least 6 characters"
+msgstr "Het wachtwoord moet minimaal 6 tekens bevatten"
 
 #: nl/default.csv:211
 msgid "This administrator does not exist"
-msgstr "This administrator does not exist"
+msgstr "Deze beheerder niet bestaat"
 
 #: nl/default.csv:212
 msgid "This email address is already used"
-msgstr "This email address is already used"
+msgstr "Dit e-mailadres is al in gebruik"
 
 #: nl/default.csv:213
 msgid "This field is required"
@@ -885,7 +885,7 @@ msgstr "This user does not exist."
 
 #: nl/default.csv:215
 msgid "Timezone"
-msgstr "Timezone"
+msgstr "Tijd zone"
 
 #: nl/default.csv:216
 msgid "title"
