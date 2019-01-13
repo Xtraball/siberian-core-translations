@@ -94,3 +94,6 @@ msgstr "Gratis levering vanaf:"
 
 msgid "Label:"
 msgstr "Label:"
+
+msgid "Lastname:"
+msgstr "Achternaam:"
