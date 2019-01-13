@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:05+0000\n"
+"PO-Revision-Date: 2019-01-13 16:07+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/promotion/"
 "nl/>\n"
@@ -32,7 +32,7 @@ msgstr "Maak een nieuwe korting"
 
 #: nl/promotion.csv:5
 msgid "Delete this discount?"
-msgstr "Verwijder deze korting"
+msgstr "Verwijder deze korting?"
 
 #: nl/promotion.csv:6
 msgid "Discount successfully deleted"
@@ -79,3 +79,12 @@ msgstr "Titel"
 
 msgid "Yes"
 msgstr "Ja"
+
+msgid "Use only once?"
+msgstr "Gebruik slechts één keer?"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "or unlimited"
+msgstr "of onbeperkt"
