@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 16:49+0000\n"
+"PO-Revision-Date: 2019-01-13 18:58+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -18,3 +18,8 @@ msgid "We are sorry but our Wordpress plugin hasn't been detected on your websit
 msgstr ""
 "Het spijt ons, maar onze WordPress-plug-in is niet gevonden op uw website. "
 "Zorg ervoor dat het correct is geïnstalleerd en geactiveerd."
+
+msgid "An error occurred while validating point<br />Please try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het valideren van punt<br />probeer het "
+"later opnieuw."
