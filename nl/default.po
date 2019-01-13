@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:51+0000\n"
+"PO-Revision-Date: 2019-01-13 19:52+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -143,11 +143,11 @@ msgstr "Terug"
 
 #: nl/default.csv:31
 msgid "Browse"
-msgstr "Browse"
+msgstr "Bladeren"
 
 #: nl/default.csv:32
 msgid "Can only be used once"
-msgstr "Can only be used once"
+msgstr "Kan maar één keer gebruikt worden"
 
 #: nl/default.csv:33
 msgid "Cancel"
@@ -155,11 +155,11 @@ msgstr "Annuleren"
 
 #: nl/default.csv:34
 msgid "Cart"
-msgstr "Cart"
+msgstr "Winkelwagen"
 
 #: nl/default.csv:35
 msgid "Catalog"
-msgstr "Catalog"
+msgstr "Catalogus"
 
 #: nl/default.csv:36
 msgid "Category"
@@ -167,7 +167,7 @@ msgstr "Category"
 
 #: nl/default.csv:37
 msgid "Change password"
-msgstr "Change password"
+msgstr "Verander wachtwoord"
 
 #: nl/default.csv:38
 msgid "City"
