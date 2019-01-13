@@ -1104,3 +1104,6 @@ msgstr "Geen facturen op dit moment."
 
 msgid "Please enter a valid URL."
 msgstr "Vul een geldige URL in."
+
+msgid "Please enter a valid date (ISO)."
+msgstr "Vul een geldige datum in (ISO)."
