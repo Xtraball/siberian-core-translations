@@ -120,3 +120,7 @@ msgstr "Ja"
 
 msgid "Active ?"
 msgstr "Actief ?"
+
+msgid "An error occurred during the process. Please try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het proces. Probeer het later opnieuw."
