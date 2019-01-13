@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 12:59+0000\n"
+"PO-Revision-Date: 2019-01-13 13:01+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/admin/nl/>"
 "\n"
@@ -86,7 +86,7 @@ msgstr "Vind uitleg en advies hier:"
 
 #: nl/admin.csv:18
 msgid "Here are your credentials, keep them preciously:"
-msgstr "Hier zijn uw gegevens"
+msgstr "Hier zijn uw inloggegevens, bewaar ze goed:"
 
 #: nl/admin.csv:19
 msgid "List of admin accounts"
@@ -94,15 +94,15 @@ msgstr "Lijst van admin accounts"
 
 #: nl/admin.csv:20
 msgid "List of my accounts"
-msgstr "Lijst van accounts"
+msgstr "Lijst van mijn accounts"
 
 #: nl/admin.csv:21
 msgid "List of your users"
-msgstr "Lijst van gebruikers"
+msgstr "Lijst van je gebruikers"
 
 #: nl/admin.csv:22
 msgid "Log-in As"
-msgstr "Log-in als"
+msgstr "Log-in Als"
 
 #: nl/admin.csv:23
 msgid "Manage access"
@@ -110,7 +110,7 @@ msgstr "Beheer toegang"
 
 #: nl/admin.csv:24
 msgid "My Applications"
-msgstr "Mijn Apps"
+msgstr "Mij applicaties"
 
 #: nl/admin.csv:25
 msgid "My information"
@@ -210,3 +210,6 @@ msgstr "Bewerk het account %s"
 
 msgid "From"
 msgstr "Van"
+
+msgid "Hello, a new user has registered on your platform : %s."
+msgstr "Een nieuwe gebruiker heeft zich geregistreerd op uw platform: %s."
