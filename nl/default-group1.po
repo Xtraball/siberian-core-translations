@@ -151,3 +151,6 @@ msgstr "Zip Code:"
 
 msgid "An error occured while adding the block."
 msgstr "Er is een fout opgetreden tijdens het toevoegen van het blok."
+
+msgid "An error occurred while hidding the Android Status Bar."
+msgstr "Er is een fout opgetreden tijdens het hidding de Android statusbalk."
