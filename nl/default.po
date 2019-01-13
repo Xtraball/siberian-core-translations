@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:59+0000\n"
+"PO-Revision-Date: 2019-01-13 15:05+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -146,7 +146,7 @@ msgstr "Can only be used once"
 
 #: nl/default.csv:33
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Annuleren"
 
 #: nl/default.csv:34
 msgid "Cart"
@@ -174,7 +174,7 @@ msgstr "City:"
 
 #: nl/default.csv:40
 msgid "Close"
-msgstr "Close"
+msgstr "Sluit"
 
 #: nl/default.csv:41
 msgid "close"
@@ -1040,3 +1040,6 @@ msgstr "Loyaliteitskaart"
 
 msgid "Mcommerce"
 msgstr "mCommerce"
+
+msgid "Add image"
+msgstr "Voeg een afbeelding toe"
