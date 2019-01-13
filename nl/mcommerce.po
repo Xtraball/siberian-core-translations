@@ -642,3 +642,6 @@ msgstr "Verwijder"
 
 msgid "Login"
 msgstr "Login"
+
+msgid "Delivery address"
+msgstr "Bezorgadres"
