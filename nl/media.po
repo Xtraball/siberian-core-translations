@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:50+0000\n"
+"PO-Revision-Date: 2019-01-13 14:54+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/media/nl/>"
 "\n"
@@ -186,7 +186,7 @@ msgstr "Herhaal"
 
 #: nl/media.csv:43
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
-msgstr "Maximaal formaat : 2000x2000px – toegestaande formaten: jpg et png"
+msgstr "Maximaal formaat : 2000x2000px – toestaande formaten: jpg en png"
 
 #: nl/media.csv:44
 msgid "music"
@@ -353,3 +353,15 @@ msgstr ""
 
 msgid "Instagram API settings can't be found."
 msgstr "Instagram API-instellingen kunnen niet worden gevonden."
+
+msgid "Login"
+msgstr "Login"
+
+msgid "My images"
+msgstr "Mijn afbeeldingen"
+
+msgid "No current stream to play so far."
+msgstr "Geen straem om af te spelen."
+
+msgid "No valid Facebook API key and secret."
+msgstr "Geen geldige Facebook API-sleutel en geheim gevonden."
