@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 16:25+0000\n"
+"PO-Revision-Date: 2019-01-13 16:30+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -61,3 +61,35 @@ msgstr "Bedrijf of volledige naam"
 
 msgid "Content background"
 msgstr "Inhoud achtergrond"
+
+msgid "Content color"
+msgstr "Inhoud kleur"
+
+msgid "Customize My Editor"
+msgstr "Pas mijn editor aan"
+
+msgid "Delete/Cancel buttons"
+msgstr "Verwijder/Annuleer knoppen"
+
+msgid "Enable GDPR features & rules"
+msgstr "GDPR-functies en -regels inschakelen"
+
+msgid "Font Color blue"
+msgstr "Letterkleur blauw"
+
+msgid "Grey buttons"
+msgstr "Grijze knoppen"
+
+msgid "In application of the GDPR regulation text, you must fullfill legal contact informations, whether you are a Company or an Individual."
+msgstr ""
+"In toepassing van de GDPR-regelgevingstekst, moet u wettelijke "
+"contactinformatie invullen, of u nu een bedrijf of een individu bent."
+
+msgid "Input flat"
+msgstr "Invoer plat"
+
+msgid "Step menu background"
+msgstr "Stap menu achtergrond"
+
+msgid "White-Label name"
+msgstr "White-label naam"
