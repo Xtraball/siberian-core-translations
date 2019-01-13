@@ -139,3 +139,6 @@ msgstr "Belastingtarief:"
 
 msgid "Title:"
 msgstr "Titel:"
+
+msgid "Username:"
+msgstr "Gebruikersnaam:"
