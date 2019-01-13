@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:30+0000\n"
+"PO-Revision-Date: 2019-01-13 16:32+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "subscription/nl/>\n"
@@ -132,11 +132,11 @@ msgstr "Beveiligde betaling door <img src=\"%s\" width=\"100\" title=\"Paypal\" 
 
 #: nl/subscription.csv:30
 msgid "Please, enter a company"
-msgstr "Vul een bedrijfsnaam in."
+msgstr "Vul een bedrijfsnaam in"
 
 #: nl/subscription.csv:31
 msgid "Please, enter a country"
-msgstr "Vul een land in."
+msgstr "Vul een land in"
 
 #: nl/subscription.csv:32
 msgid "Please, enter a description."
@@ -148,7 +148,7 @@ msgstr "Vul een naam in."
 
 #: nl/subscription.csv:34
 msgid "Please, enter an address"
-msgstr "Vul een adres in."
+msgstr "Vul een adres in"
 
 #: nl/subscription.csv:35
 msgid "Pricing"
@@ -204,7 +204,9 @@ msgstr "Dit abonnement is actief"
 
 #: nl/subscription.csv:48
 msgid "An error occurred while processing the payment. For more information, please feel free to contact us."
-msgstr "Er is een fout opgetreden bij het verwerken van de betaling. Voor meer informatie neem contact met ons op"
+msgstr ""
+"Er is een fout opgetreden bij het verwerken van de betaling. Voor meer "
+"informatie neem contact met ons op."
 
 #: nl/subscription.csv:49
 msgid "VAT Number"
@@ -228,7 +230,9 @@ msgstr "Uw BTW-nummer is niet geldig"
 
 #: nl/subscription.csv:54
 msgid "Your order has been canceled. If you need any help to place your order, please feel free to contact us."
-msgstr "Uw bestelling is geannuleerd. Als u hulp nodig hebt om uw bestelling te plaatsen neem dan gerust contact met ons op"
+msgstr ""
+"Uw bestelling is geannuleerd. Als u hulp nodig hebt om uw bestelling te "
+"plaatsen neem dan gerust contact met ons op."
 
 #: nl/subscription.csv:55
 msgid "Your order has been successfully paid. Your application will be published very soon."
