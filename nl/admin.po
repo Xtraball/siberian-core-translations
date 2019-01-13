@@ -201,3 +201,6 @@ msgstr "Applicatie met succes gedupliceerd."
 
 msgid "Are you sure you want to duplicate this application?"
 msgstr "Weet u zeker dat u deze Applicatie  wilt verwijderen?"
+
+msgid "Company:"
+msgstr "Bedrijf"
