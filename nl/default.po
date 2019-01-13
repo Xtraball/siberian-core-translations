@@ -1095,3 +1095,6 @@ msgstr "Er is een fout opgetreden bij het verwerken van uw betaling."
 
 msgid "Download file is not available in DEMO mode."
 msgstr "Downloadbestand is niet beschikbaar in DEMO-modus."
+
+msgid "Download list of user who used this discount"
+msgstr "Download lijst van gebruikers welke deze korting hebben gebruikt"
