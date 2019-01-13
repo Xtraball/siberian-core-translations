@@ -27,3 +27,6 @@ msgstr "Er is een fout opgetreden tijdens het verwerken van de betaling."
 
 msgid "E-Mail render preview"
 msgstr "E-mail render voorbeeldweergave"
+
+msgid "E-mail is required!"
+msgstr "E-mail is verplicht!"
