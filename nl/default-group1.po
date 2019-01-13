@@ -124,3 +124,6 @@ msgstr "Scan deze QR-Code:"
 
 msgid "Signature:"
 msgstr "Handtekening:"
+
+msgid "Source type:"
+msgstr "Bron type:"
