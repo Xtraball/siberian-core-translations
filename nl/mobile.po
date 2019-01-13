@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:19+0000\n"
+"PO-Revision-Date: 2019-01-13 15:37+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -79,3 +79,43 @@ msgstr "Gebruik deze kortingsbon"
 
 msgid "Your comment"
 msgstr "Uw reactie"
+
+msgid "Application is Locked"
+msgstr "Applicatie is vergrendeld"
+
+msgid "I just found this discount $1 in $2 app."
+msgstr "Ik heb deze kortingsprijs $1 in $2 net gevonden."
+
+msgid "Send contact request"
+msgstr "Verzend contact verzoek"
+
+msgid "Tap to download in background"
+msgstr "Tik om te downloaden in de achtergrond"
+
+msgid "The sign in flow was canceled"
+msgstr "De aanmeldingsstroom is geannuleerd"
+
+msgid "There is no route available with these informations."
+msgstr "Er is geen route beschikbaar met deze informatie."
+
+msgid "This feature is disabled in this preview"
+msgstr "Deze functie is uitgeschakeld in de voorbeeldweergave"
+
+msgid "This feature is not available in offline mode!"
+msgstr "Deze functie is niet beschikbaar in de offline modus!"
+
+msgid "Triple tap to close the preview"
+msgstr "Tik drie keer om het voorbeeldweergave te sluiten"
+
+msgid "We'll send you your password right now."
+msgstr "We sturen u nu uw wachtwoord."
+
+msgid "XXXX XXXX XXXX"
+msgstr "XXXX XXXX XXXX"
+
+msgid "You must fill at least one field!"
+msgstr "Je moet ten minste één veld invullen!"
+
+msgid "Your location could not be found because your application doesn't use SSL."
+msgstr ""
+"Uw locatie kan niet worden gevonden omdat uw applicatie geen SSL gebruikt."
