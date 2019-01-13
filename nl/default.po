@@ -1110,3 +1110,6 @@ msgstr "Vul een geldige datum in (ISO)."
 
 msgid "Please enter a valid number."
 msgstr "Vul een geldig nummer in."
+
+msgid "Please provide a certificate."
+msgstr "Voeg een certificaat toe."
