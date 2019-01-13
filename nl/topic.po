@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 16:17+0000\n"
+"PO-Revision-Date: 2019-01-14 14:02+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/topic/nl/>"
 "\n"
@@ -25,3 +25,6 @@ msgstr "Weet u zeker dat u wilt sluiten zonder op te bewaren?"
 
 msgid "Description successfully saved."
 msgstr "Beschrijving succesvol opgeslagen."
+
+msgid "No topics for now."
+msgstr "Geen onderwerpen voor nu."
