@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:20+0000\n"
+"PO-Revision-Date: 2019-01-13 14:23+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/booking/nl/"
 ">\n"
@@ -100,11 +100,11 @@ msgstr "Datum en tijd van de reservering"
 
 #: nl/booking.csv:22
 msgid "The number of people"
-msgstr "Aantal personen"
+msgstr "Het aantal personen"
 
 #: nl/booking.csv:23
 msgid "You have received a message for the booking of"
-msgstr "U heeft een bericht van de boeking van de ontvangen"
+msgstr "U heeft een bericht van de boeking ontvangen"
 
 #: nl/booking.csv:24
 msgid "Your phone number or email address"
@@ -112,3 +112,6 @@ msgstr "Uw telefoonnummer of emailadres"
 
 msgid "Please fill out the following fields:"
 msgstr "Vul alstublieft de volgende velden in:"
+
+msgid "Please fill out the following fields:<br/>"
+msgstr "Vul alstublieft de volgende velden in:<br>"
