@@ -40,3 +40,6 @@ msgstr "Een nieuwe gebruiker geregistreerd!"
 
 msgid "Credentials successfully saved!"
 msgstr "Referenties met succes opgeslagen!"
+
+msgid "This subscription does not exists!"
+msgstr "Dit abonnement bestaat niet!"
