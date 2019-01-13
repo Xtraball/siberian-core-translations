@@ -166,3 +166,6 @@ msgstr "Vul een wachtwoord in."
 
 msgid "Please enter a valid date."
 msgstr "Vul een geldige datum in."
+
+msgid "Promotion successfully deleted."
+msgstr "Promotie met succes verwijderd."
