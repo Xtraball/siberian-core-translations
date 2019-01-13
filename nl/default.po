@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:02+0000\n"
+"PO-Revision-Date: 2019-01-13 20:06+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -669,7 +669,7 @@ msgstr "Prijzen"
 
 #: nl/default.csv:161
 msgid "Platform Name"
-msgstr "Platform Name"
+msgstr "Platform Naam"
 
 #: nl/default.csv:162
 msgid "Player"
@@ -681,7 +681,7 @@ msgstr "Please, enter a date greater than today"
 
 #: nl/default.csv:164
 msgid "Please enter a password"
-msgstr "Please enter a password"
+msgstr "Vul een wachtwoord in"
 
 #: nl/default.csv:165
 msgid "Please enter a valid email address"
@@ -689,23 +689,23 @@ msgstr "Vul een geldig e-mail adres in"
 
 #: nl/default.csv:166
 msgid "Please enter a valid url"
-msgstr "Please enter a valid url"
+msgstr "Vul een geldig url in"
 
 #: nl/default.csv:167
 msgid "Please enter your email address"
-msgstr "Please enter your email address"
+msgstr "Vul je e-mailadres in"
 
 #: nl/default.csv:168
 msgid "Please fill in the following fields:"
-msgstr "Please fill in the following fields:"
+msgstr "Vul de volgende velden in:"
 
 #: nl/default.csv:169
 msgid "Please log in."
-msgstr "Please log in."
+msgstr "Log-in"
 
 #: nl/default.csv:170
 msgid "Please, enter a correct email address."
-msgstr "Please, enter a correct email address."
+msgstr "Vul een juist e-mailadres in."
 
 #: nl/default.csv:171
 msgid "Please, enter a password."
@@ -713,7 +713,7 @@ msgstr "Please, enter a password."
 
 #: nl/default.csv:172
 msgid "Please, enter a valid date"
-msgstr "Please, enter a valid date"
+msgstr "Vul een geldige datum in"
 
 #: nl/default.csv:173
 msgid "Podcast"
@@ -721,7 +721,7 @@ msgstr "Podcast"
 
 #: nl/default.csv:174
 msgid "Podcast type is invalid or can't be found"
-msgstr "Podcast type is invalid or can't be found"
+msgstr "Podcast type is ongeldig of kan niet worden gevonden"
 
 #: nl/default.csv:175
 msgid "Podcast URL (iTunes format)"
@@ -745,11 +745,11 @@ msgstr "Push"
 
 #: nl/default.csv:180
 msgid "Required fields"
-msgstr "Required fields"
+msgstr "Verplichte velden"
 
 #: nl/default.csv:181
 msgid "Resize your picture"
-msgstr "Resize your picture"
+msgstr "Verklein/vergroot uw afbeelding:"
 
 #: nl/default.csv:182
 msgid "Resize your picture:"
@@ -777,27 +777,27 @@ msgstr "seconden"
 
 #: nl/default.csv:188
 msgid "Select a country"
-msgstr "Select a country"
+msgstr "Selecteer een land"
 
 #: nl/default.csv:189
 msgid "Select all"
-msgstr "Select all"
+msgstr "Alles selecteren"
 
 #: nl/default.csv:190
 msgid "Send"
-msgstr "Send"
+msgstr "Verstuur"
 
 #: nl/default.csv:191
 msgid "Send your pictures"
-msgstr "Send your pictures"
+msgstr "Verstuur uw foto's"
 
 #: nl/default.csv:192
 msgid "Settings"
-msgstr "Settings"
+msgstr "Instellingen"
 
 #: nl/default.csv:193
 msgid "Size:"
-msgstr "Size:"
+msgstr "Grote:"
 
 #: nl/default.csv:194
 msgid "Street"
@@ -1159,3 +1159,6 @@ msgstr "Het aantal personen"
 
 msgid "Newswall"
 msgstr "Nieuwswal"
+
+msgid "Release"
+msgstr "Laat los"
