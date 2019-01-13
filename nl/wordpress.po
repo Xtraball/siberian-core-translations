@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:48+0000\n"
+"PO-Revision-Date: 2019-01-14 14:02+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/wordpress/"
 "nl/>\n"
@@ -40,11 +40,13 @@ msgstr "Het spijt ons maar er zijn geen categorieën gedetecteerd op uw Wordpres
 
 #: nl/wordpress.csv:7
 msgid "We are sorry but our Wordpress plugin hasn't been detected on your website. Please be sure it is correctly installed and activated."
-msgstr "Het spijt ons maar er is geen wordpress plugin gededekteerd op uw website. Zorg er voor dat de plugin goed is geinstaleerd op uw website"
+msgstr ""
+"Het spijt ons, maar onze WordPress-plug-in is niet gevonden op uw website. "
+"Zorg ervoor dat het correct is geïnstalleerd en geactiveerd."
 
 #: nl/wordpress.csv:8
 msgid "Wordpress"
-msgstr "Wordpress"
+msgstr "WordPress"
 
 msgid "Add a query"
 msgstr "Voeg een vraag toe"
@@ -68,4 +70,56 @@ msgid "30 minutes"
 msgstr "30 minuten"
 
 msgid "Strip shortcodes"
-msgstr "Strip shortcodes"
+msgstr "Verklein shortcodes"
+
+msgid "Cache lifetime (excluding pull to refresh)"
+msgstr "Levensduur van de cache (trek om te vernieuwen)"
+
+msgid "Cover & Thumbnails are only visible when queries are not grouped."
+msgstr ""
+"Cover en miniaturen zijn alleen zichtbaar wanneer query's niet gegroepeerd "
+"zijn."
+
+msgid "Group all queries into a single list"
+msgstr "Groepeer alle vragen in een enkele lijst"
+
+msgid "If your WordPress is secured by a login/password, and/or you want to display private posts you can set here a user to be used to retrieve posts."
+msgstr ""
+"Als uw WordPress is beveiligd met een login / wachtwoord en / of u wilt "
+"privéberichten weergeven, kunt u hier een gebruiker instellen die wordt "
+"gebruikt om berichten op te halen."
+
+msgid "Manage WordPress"
+msgstr "Beheer WordPress"
+
+msgid "Manage queries"
+msgstr "Beheer zoekopdrachten"
+
+msgid "No cache"
+msgstr "Geen cache"
+
+msgid "Note: cache is automatically refreshed on any user pull to refresh action whatever the lifetime set."
+msgstr ""
+"Opmerking: de cache wordt automatisch vernieuwd,of de gebruiker trekt om te "
+"vernieuwen, ongeacht de ingestelde levensduur."
+
+msgid "Show title & subtitle"
+msgstr "Titel en ondertitel weergeven"
+
+msgid "Sorry, we are unable to fetch any category or post from your WordPress."
+msgstr ""
+"Sorry, we kunnen geen categorie of bericht ophalen van uw WordPress site."
+
+msgid "Unable to find your WordPress or /wp-json/ endpoint."
+msgstr "Kunnen uw WordPress of / wp-json / endpoint niet vinden."
+
+msgid "Unlimited (until any pull to refresh)"
+msgstr "Onbeperkt (tot je trekt om te vernieuwen)"
+
+msgid "You can mix posts & pages in the queries if needed."
+msgstr "U kunt indien nodig berichten en pagina's in de query's mixen."
+
+msgid "You can mix posts & pages in the queries if needed, however it's not recommended and can lead to random sorting."
+msgstr ""
+"U kunt indien nodig berichten en pagina's in de query's mixen, maar het "
+"wordt niet aanbevolen en kan leiden tot willekeurige sortering."
