@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:54+0000\n"
+"PO-Revision-Date: 2019-01-13 19:55+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -295,7 +295,7 @@ msgstr "Bewerken"
 
 #: nl/default.csv:69
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: nl/default.csv:70
 msgid "Email address"
@@ -315,11 +315,11 @@ msgstr "Error : <br/>"
 
 #: nl/default.csv:74
 msgid "Errors : <br/>"
-msgstr "Errors : <br/>"
+msgstr "Fouten: <br/>"
 
 #: nl/default.csv:75
 msgid "Export your customers"
-msgstr "Export your customers"
+msgstr "Uw klanten exporteren"
 
 #: nl/default.csv:76
 msgid "Extension not allowed, '%s' only"
