@@ -152,3 +152,6 @@ msgstr "nummer"
 
 msgid "Address"
 msgstr "Adres"
+
+msgid "Email"
+msgstr "E-mail"
