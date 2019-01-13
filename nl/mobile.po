@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:56+0000\n"
+"PO-Revision-Date: 2019-01-13 15:04+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -25,3 +25,9 @@ msgstr "Er is een fout opgetreden tijdens het laden van de radio."
 
 msgid "Read all"
 msgstr "Lees alles"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Close"
+msgstr "Sluit"
