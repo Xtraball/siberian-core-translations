@@ -106,7 +106,9 @@ msgstr "Het bestand %s bestaat niet"
 
 #: nl/installer.csv:23
 msgid "The folder %s is not writable. Please fix this issue and try again."
-msgstr "De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het opnieuw. "
+msgstr ""
+"De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het "
+"opnieuw."
 
 #: nl/installer.csv:24
 msgid "The folder %s is not writable."
