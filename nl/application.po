@@ -765,3 +765,6 @@ msgstr "label"
 
 msgid "API Keys"
 msgstr "API-sleutels"
+
+msgid "APIs"
+msgstr "API's"
