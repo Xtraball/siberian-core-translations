@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 19:08+0000\n"
+"PO-Revision-Date: 2019-01-13 19:09+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -184,3 +184,6 @@ msgstr "Dit is een verplicht veld."
 
 msgid "Order successfully saved saved."
 msgstr "Bestelling bewaart."
+
+msgid " of the "
+msgstr " van\tde "
