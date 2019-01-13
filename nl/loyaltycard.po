@@ -172,3 +172,6 @@ msgstr "Uw wachtwoord moet uit 4 cijfers bestaan"
 #: nl/loyaltycard.csv:39
 msgid "point"
 msgstr "punt"
+
+msgid "Use only once?"
+msgstr "Gebruik slechts één keer?"
