@@ -64,3 +64,6 @@ msgstr "Er is een fout opgetreden bij het lezen van de code."
 
 msgid "No comments for now."
 msgstr "Nog geen reacties."
+
+msgid "Please enter your email address."
+msgstr "Vul uw e-mail adres in."
