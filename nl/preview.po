@@ -53,3 +53,6 @@ msgstr "Lijst met bestaande voorbeelden"
 
 msgid "Preview images"
 msgstr "Bekijk afbeeldingen"
+
+msgid "Preview successfully saved"
+msgstr "Voorbeeld succesvol opgeslagen"
