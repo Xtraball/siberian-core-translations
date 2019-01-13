@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:34+0000\n"
+"PO-Revision-Date: 2019-01-13 14:01+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/backoffice/"
 "nl/>\n"
@@ -108,3 +108,9 @@ msgstr "Gebruiker intrekken"
 
 msgid "Forgot password"
 msgstr "Wachtwoord vergeten"
+
+msgid "Generate source"
+msgstr "Genereer de bron"
+
+msgid "Save"
+msgstr "Bewaar"
