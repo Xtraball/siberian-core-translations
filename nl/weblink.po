@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:05+0000\n"
+"PO-Revision-Date: 2019-01-13 18:29+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/weblink/nl/"
 ">\n"
@@ -48,7 +48,7 @@ msgstr "Link:"
 
 #: nl/weblink.csv:9
 msgid "Picto"
-msgstr "Picto"
+msgstr "picto"
 
 #: nl/weblink.csv:10
 msgid "The image has been successfully deleted"
@@ -88,3 +88,9 @@ msgstr "Volusion"
 
 msgid "Without navbar"
 msgstr "Zonder navigatie"
+
+msgid "Magento"
+msgstr "Magento"
+
+msgid "Shopify"
+msgstr "Shopify-logo"
