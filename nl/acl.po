@@ -39,3 +39,6 @@ msgstr "Zoeken"
 
 msgid "This role will be the default one for the whole platform."
 msgstr "Deze rol is de standaard voor het hele platform."
+
+msgid "You don't have any role yet"
+msgstr "Je hebt nog geen rol"
