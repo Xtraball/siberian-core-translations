@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 17:00+0000\n"
+"PO-Revision-Date: 2019-01-13 17:11+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/system/nl/>"
 "\n"
@@ -91,3 +91,80 @@ msgstr "Europees <b>General Data Protection Regulation (GDPR)</b>."
 
 msgid "Users give you the required information to publish applications."
 msgstr "Deze admin geeft u de benodigde informatie te publiceren toepassingen."
+
+msgid "App limit for displaying real data"
+msgstr "App-limiet voor het weergeven van gegevens"
+
+msgid "Below are variables you can use to be replaced in the extent."
+msgstr "Hieronder staan variabelen die u kunt gebruiken om  te vervangen."
+
+msgid "Click here to force analytics computing"
+msgstr "Klik hier om analytics computing te forceren"
+
+msgid "Duration of the free trial period of your platform (in days, 0 for no free trial)."
+msgstr ""
+"Duur van de gratis proefperiode van uw platform (in dagen, 0 voor geen "
+"gratis proefperiode)."
+
+msgid "Enter here your terms & conditions"
+msgstr "Vul hier uw algemene voorwaarden in"
+
+msgid "Enter the javascript code provided by your Chat provider in order to display a Chat from the editor."
+msgstr ""
+"Vul de javascript-code in die u van uw chatprovider hebt gekregen om een "
+"chat weer te geven vanuit de editor."
+
+msgid "Force all app to use Owner AdMob"
+msgstr "Alle apps dwingen om eigenaar AdMob te gebruiken"
+
+msgid "Full platform owner contact"
+msgstr "Volledige platform eigenaar contact"
+
+msgid "License has no more activation left"
+msgstr "Licentie kan niet meer geactiveerd worden"
+
+msgid "License is valid"
+msgstr "Licentie is geldig"
+
+msgid "Online Chat"
+msgstr "Online chat"
+
+msgid "Platform or Whitelabel Company name"
+msgstr "Platform of bedrijfsnaam Whitelabel"
+
+msgid "Platform or Whitelabel name"
+msgstr "Platform- of Whitelabel-naam"
+
+msgid "Sign-up mode"
+msgstr "Aanmeldingsmodus"
+
+msgid "The european <b>General Data Protection Regulation (GDPR)</b> is applicable to your country, you must enable it in the privacy settings below."
+msgstr ""
+"De europese <b>algemene verordening gegevensbescherming (GDPR) </b> is van "
+"toepassing op uw land. U moet dit inschakelen in de onderstaande "
+"privacyinstellingen."
+
+msgid "This number will be used to switch between demo mode and real time mode for your analytics on your dashboard"
+msgstr ""
+"Dit nummer wordt gebruikt om te schakelen tussen de demomodus en de realtime-"
+"modus voor uw analyses op uw dashboard"
+
+msgid "This section of the privacy policy is added when the GDPR settings are active."
+msgstr ""
+"Dit gedeelte van het privacybeleid wordt toegevoegd wanneer de GDPR-"
+"instellingen actief zijn."
+
+msgid "This text will appear in the checkout page. 65,000 characters max."
+msgstr "Deze tekst verschijnt op de betaalpagina. Maximaal 65.000 tekens."
+
+msgid "Users can generate APK"
+msgstr "Gebruikers kunnen APK genereren"
+
+msgid "Users can not generate APK."
+msgstr "Gebruikers kunnen geen APK genereren."
+
+msgid "We cannot get your license information"
+msgstr "We kunnen uw licentiegegevens niet krijgen"
+
+msgid "Your CMS License Key"
+msgstr "Uw CMS-licentiesleutel"
