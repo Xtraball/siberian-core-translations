@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:33+0000\n"
+"PO-Revision-Date: 2019-01-13 18:56+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/customer/"
 "nl/>\n"
@@ -132,7 +132,7 @@ msgstr "Of met uw account"
 
 #: nl/customer.csv:30
 msgid "Please enter your email address. We'll send you your password right now."
-msgstr "Vul uw e-mailadres in . We zullen u nu uw wachtwoord sturen."
+msgstr "Vul uw e-mailadres in. We zullen u nu uw wachtwoord sturen."
 
 #: nl/customer.csv:31
 msgid "Please log in with your mobile phone"
@@ -148,7 +148,7 @@ msgstr "Tot ziens,"
 
 #: nl/customer.csv:34
 msgid "Show me in ranking"
-msgstr "Toon mij in het klassement"
+msgstr "Toon mij in de ranglijst"
 
 #: nl/customer.csv:35
 msgid "The old email address does not match the entered email address."
