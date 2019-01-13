@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:04+0000\n"
+"PO-Revision-Date: 2019-01-13 14:19+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -68,7 +68,8 @@ msgstr "An error occurred during process. Please try again later."
 
 #: nl/default.csv:14
 msgid "An error occurred during the process. Please try again later."
-msgstr "An error occurred during the process. Please try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het proces. Probeer het later opnieuw."
 
 #: nl/default.csv:15
 msgid "An error occurred while loading. Please try again later."
@@ -621,7 +622,7 @@ msgstr "OK"
 
 #: nl/default.csv:152
 msgid "OR"
-msgstr "OR"
+msgstr "OF"
 
 #: nl/default.csv:153
 msgid "Ouch, this page doesn't exist"
@@ -629,7 +630,7 @@ msgstr "Ouch, this page doesn't exist"
 
 #: nl/default.csv:154
 msgid "Password"
-msgstr "Password"
+msgstr "Wachtwoord"
 
 #: nl/default.csv:155
 msgid "Password:"
@@ -913,7 +914,7 @@ msgstr "User successfully saved"
 
 #: nl/default.csv:225
 msgid "Username"
-msgstr "Username"
+msgstr "Gebruikersnaam"
 
 #: nl/default.csv:226
 msgid "Users"
@@ -949,7 +950,7 @@ msgstr "We are sorry but this feature is not available yet"
 
 #: nl/default.csv:234
 msgid "Yes"
-msgstr "Yes"
+msgstr "Ja"
 
 #: nl/default.csv:235
 msgid "You can upload a pem certificate only."
