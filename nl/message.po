@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 19:43+0000\n"
+"PO-Revision-Date: 2019-01-14 14:00+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/message/nl/"
 ">\n"
@@ -16,3 +16,6 @@ msgstr "Laad oudere berichten"
 
 msgid "You need to enter a message."
 msgstr "Je moet een bericht in vullen."
+
+msgid "No messages for now."
+msgstr "U heeft geen nieuwe berichten op het moment."
