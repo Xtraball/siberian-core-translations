@@ -99,3 +99,6 @@ msgstr "Acties"
 
 msgid "Grant user"
 msgstr "Grand gebruiker"
+
+msgid "Rebuild manifest"
+msgstr "Het manifest opnieuw opbouwen"
