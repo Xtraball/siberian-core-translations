@@ -119,3 +119,6 @@ msgstr "op een bepaalde datum"
 
 msgid "Project Number"
 msgstr "Project nummer"
+
+msgid "Push successfully deleted."
+msgstr "Push succesvol verwijderd."
