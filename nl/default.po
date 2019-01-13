@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:42+0000\n"
+"PO-Revision-Date: 2019-01-13 19:48+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -44,7 +44,7 @@ msgstr "Bewerk"
 
 #: nl/default.csv:8
 msgid "Add a"
-msgstr "Add a"
+msgstr "Bewerk een"
 
 #: nl/default.csv:9
 msgid "Add<br /><span class=\"bold\">Pictures</span>"
@@ -56,15 +56,16 @@ msgstr "Add an <br /><span class=\"bold\">image</span>"
 
 #: nl/default.csv:11
 msgid "Address"
-msgstr "Address"
+msgstr "Adres"
 
 #: nl/default.csv:12
 msgid "All items"
-msgstr "All items"
+msgstr "Alle items"
 
 #: nl/default.csv:13
 msgid "An error occurred during process. Please try again later."
-msgstr "An error occurred during process. Please try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het verwerken. Probeer het later opnieuw."
 
 #: nl/default.csv:14
 msgid "An error occurred during the process. Please try again later."
@@ -73,7 +74,7 @@ msgstr ""
 
 #: nl/default.csv:15
 msgid "An error occurred while loading. Please try again later."
-msgstr "An error occurred while loading. Please try again later."
+msgstr "Er is een fout opgetreden tijdens het laden. Probeer het later opnieuw."
 
 #: nl/default.csv:16
 msgid "An error occurred while loading. Please, try again later."
@@ -81,11 +82,13 @@ msgstr "An error occurred while loading. Please, try again later."
 
 #: nl/default.csv:17
 msgid "An error occurred while saving"
-msgstr "An error occurred while saving"
+msgstr "Er is een fout opgetreden tijdens het opslaan"
 
 #: nl/default.csv:18
 msgid "An error occurred while saving your account. Please try again later."
-msgstr "An error occurred while saving your account. Please try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het opslaan van uw account. Probeer het "
+"later opnieuw."
 
 #: nl/default.csv:19
 msgid "An error occurred while saving your picture. Please try againg later."
@@ -102,7 +105,9 @@ msgstr "An error occurred while saving. Please, try again later."
 
 #: nl/default.csv:22
 msgid "An error occurred while uploading your file. Please, try again later."
-msgstr "An error occurred while uploading your file. Please, try again later."
+msgstr ""
+"Er is een fout opgetreden bij het uploaden van uw bestand. Probeer het later "
+"opnieuw."
 
 #: nl/default.csv:23
 msgid "Appearance"
