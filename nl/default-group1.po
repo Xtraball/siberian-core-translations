@@ -199,3 +199,6 @@ msgstr "Gebruikers: "
 
 msgid "403 Forbidden"
 msgstr "403 verboden"
+
+msgid "Application identifier:"
+msgstr "Applicatie herkenner:"
