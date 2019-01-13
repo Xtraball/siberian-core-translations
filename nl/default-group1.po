@@ -127,3 +127,6 @@ msgstr "Handtekening:"
 
 msgid "Source type:"
 msgstr "Bron type:"
+
+msgid "Tax:"
+msgstr "Belastingen:"
