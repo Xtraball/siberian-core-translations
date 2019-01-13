@@ -826,3 +826,6 @@ msgstr "Genereer analyses voor een bepaalde periode"
 
 msgid "Generate builds"
 msgstr "Genereer builds"
+
+msgid "Generate source"
+msgstr "Genereer de bron"
