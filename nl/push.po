@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:12+0000\n"
+"PO-Revision-Date: 2019-01-13 20:32+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/push/nl/>\n"
 "Language: nl\n"
@@ -35,7 +35,7 @@ msgstr "Geef een locatie op:"
 
 #: nl/push.csv:6
 msgid "GCM Key"
-msgstr "GCM Key"
+msgstr "GCM-sleutel"
 
 #: nl/push.csv:7
 msgid "I want to send it"
