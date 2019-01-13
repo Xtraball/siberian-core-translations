@@ -864,3 +864,6 @@ msgid "like using the GPS or the camera. After the first installation of your ap
 msgstr ""
 "zoals het gebruik van de GPS of de camera. Na de eerste installatie van uw "
 "app worden deze berichten getoond aan de app-gebruiker."
+
+msgid "pending"
+msgstr "In afwachting"
