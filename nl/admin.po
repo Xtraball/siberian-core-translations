@@ -34,7 +34,7 @@ msgstr "Er is een fout opgetreden tijdens het opslaan. Het land is niet geldig."
 
 #: nl/admin.csv:5
 msgid "Are you sure you want to delete this application?"
-msgstr "Weet u zeker dat u deze App wilt verwijderen?"
+msgstr "Weet u zeker dat u deze Applicatie wilt verwijderen?"
 
 #: nl/admin.csv:6
 msgid "Can add pages"
@@ -195,3 +195,6 @@ msgstr "Adres  2:"
 
 msgid "Application"
 msgstr "Applicatie"
+
+msgid "Application have been duplicated successfully."
+msgstr "Applicatie met succes gedupliceerd."
