@@ -33,3 +33,8 @@ msgstr "E-mail is verplicht!"
 
 msgid "Enabled?"
 msgstr "Ingeschakeld?"
+
+msgid "Enter the token you received by e-mail to access your personal data."
+msgstr ""
+"Vul het token in dat u per e-mail hebt ontvangen om toegang te krijgen tot "
+"uw persoonlijke gegevens."
