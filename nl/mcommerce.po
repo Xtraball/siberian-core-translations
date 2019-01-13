@@ -681,3 +681,6 @@ msgstr "Laden..."
 
 msgid "Search:"
 msgstr "Zoeken:"
+
+msgid "Settings successfully saved"
+msgstr "Instellingen succesvol opgeslagen"
