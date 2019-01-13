@@ -70,3 +70,6 @@ msgstr "Vul uw e-mail adres in."
 
 msgid "Please enter a valid email address"
 msgstr "Vul uw e-mail adres in."
+
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
