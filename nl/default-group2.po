@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:30+0000\n"
+"PO-Revision-Date: 2019-01-13 14:31+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/nl/>\n"
@@ -18,3 +18,6 @@ msgid "#19-001 The folder %s is not writable. Please fix this issue and try agai
 msgstr ""
 "De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het "
 "opnieuw."
+
+msgid "Add<br /><span class=\"bold\">Attachment</span>"
+msgstr "Voeg<br /><span class=\"bold\"> Bijlage toe </span>"
