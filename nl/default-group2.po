@@ -49,3 +49,9 @@ msgid "The installation of the module <span id=\"installation_failed_module_name
 msgstr ""
 "De installatie van de module <span id=\"installation_failed_module_name\""
 "></span> is mislukt: <span id=\"installation_failed_because\"> </span>"
+
+msgid "Your are about to replace the current application template, colors & features.\nAre you sure ?"
+msgstr ""
+"Je staat op het punt het huidige applicatie sjabloon, kleuren en functies te "
+"vervangen.\n"
+"weet u het zeker ?"
