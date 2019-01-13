@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 19:11+0000\n"
+"PO-Revision-Date: 2019-01-13 19:12+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -205,3 +205,6 @@ msgstr "Applicatie herkenner:"
 
 msgid "Chef de projet"
 msgstr "Project Manager"
+
+msgid "Coiffeurs"
+msgstr "Kappers"
