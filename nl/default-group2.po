@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:40+0000\n"
+"PO-Revision-Date: 2019-01-13 14:41+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/nl/>\n"
@@ -79,3 +79,6 @@ msgstr "%s - v%s"
 
 msgid "Firebase is not yet configured, please contact your Administrator."
 msgstr "Firebase is nog niet geconfigureerd, neem contact op met uw beheerder."
+
+msgid "Grid view"
+msgstr "Rasterweergave"
