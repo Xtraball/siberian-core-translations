@@ -100,3 +100,6 @@ msgstr "Achternaam:"
 
 msgid "Message:"
 msgstr "Bericht:"
+
+msgid "Minimum order:"
+msgstr "Minimale bestelling:"
