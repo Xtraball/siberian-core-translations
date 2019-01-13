@@ -130,3 +130,6 @@ msgstr "Bron type:"
 
 msgid "Tax:"
 msgstr "Belastingen:"
+
+msgid "Tax name:"
+msgstr "Belasting naam:"
