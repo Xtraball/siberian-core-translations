@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-13 13:17+0000\n"
+"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
+"Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
+">\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -23,7 +24,7 @@ msgstr "404, page not found"
 
 #: nl/default.csv:3
 msgid "APIs"
-msgstr "APIs"
+msgstr "API's"
 
 #: nl/default.csv:4
 msgid "Accounts"
@@ -35,7 +36,7 @@ msgstr "Action"
 
 #: nl/default.csv:6
 msgid "Actions"
-msgstr "Actions"
+msgstr "Acties"
 
 #: nl/default.csv:7
 msgid "Add"
@@ -91,7 +92,8 @@ msgstr "An error occurred while saving your picture. Please try againg later."
 
 #: nl/default.csv:20
 msgid "An error occurred while saving. Please try again later."
-msgstr "An error occurred while saving. Please try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het opslaan. Probeer het later opnieuw."
 
 #: nl/default.csv:21
 msgid "An error occurred while saving. Please, try again later."
@@ -107,7 +109,7 @@ msgstr "Appearance"
 
 #: nl/default.csv:24
 msgid "Application"
-msgstr "Application"
+msgstr "Applicatie"
 
 #: nl/default.csv:25
 msgid "Application Name"
@@ -263,7 +265,7 @@ msgstr "Default Languages"
 
 #: nl/default.csv:63
 msgid "Delete"
-msgstr "Delete"
+msgstr "Verwijder"
 
 #: nl/default.csv:64
 msgid "Description"
@@ -279,7 +281,7 @@ msgstr "Details"
 
 #: nl/default.csv:67
 msgid "Edit"
-msgstr "Edit"
+msgstr "Bewerk"
 
 #: nl/default.csv:68
 msgid "Editing"
@@ -407,7 +409,7 @@ msgstr "Incorrect filetype."
 
 #: nl/default.csv:99
 msgid "Info successfully saved"
-msgstr "Info successfully saved"
+msgstr "Info succesvol opgeslagen"
 
 #: nl/default.csv:100
 msgid "Information"
@@ -751,7 +753,7 @@ msgstr "Save"
 
 #: nl/default.csv:185
 msgid "Search"
-msgstr "Search"
+msgstr "Zoeken"
 
 #: nl/default.csv:186
 msgid "second"
