@@ -77,3 +77,6 @@ msgstr "Je vind ik leuk is toegevoegd"
 #: nl/comment.csv:16
 msgid "Your message has been successfully saved."
 msgstr "Uw bericht is succesvol opgeslagen."
+
+msgid "Radius must be provided."
+msgstr "Straal moet aangegeven worden."
