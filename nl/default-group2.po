@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:38+0000\n"
+"PO-Revision-Date: 2019-01-13 14:39+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/nl/>\n"
@@ -58,3 +58,6 @@ msgstr ""
 
 msgid "The subscription '%s' doesn't exists!"
 msgstr "Het abonnement '% s' bestaat niet!"
+
+msgid "Yes, delete!"
+msgstr "Ja, Verwijderen!"
