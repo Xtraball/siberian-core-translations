@@ -165,3 +165,6 @@ msgstr "APNS Terugkoppeling (feedback):"
 
 msgid "Auth type"
 msgstr "Machtiging type"
+
+msgid "Cron scheduler"
+msgstr "Cron planner"
