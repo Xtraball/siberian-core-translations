@@ -1116,3 +1116,8 @@ msgstr "Voeg een certificaat toe."
 
 msgid "Start date must be lower than end date."
 msgstr "Startdatum moet lager zijn dan einddatum."
+
+msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
+msgstr ""
+"De betaling is geannuleerd, er iets mis gegaan? Voelt u zich vrij om ons te "
+"contacteren."
