@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:04+0000\n"
+"PO-Revision-Date: 2019-01-13 20:06+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -745,11 +745,11 @@ msgstr "Push"
 
 #: nl/default.csv:180
 msgid "Required fields"
-msgstr "Required fields"
+msgstr "Verplichte velden"
 
 #: nl/default.csv:181
 msgid "Resize your picture"
-msgstr "Resize your picture"
+msgstr "Verklein/vergroot uw afbeelding:"
 
 #: nl/default.csv:182
 msgid "Resize your picture:"
@@ -777,27 +777,27 @@ msgstr "seconden"
 
 #: nl/default.csv:188
 msgid "Select a country"
-msgstr "Select a country"
+msgstr "Selecteer een land"
 
 #: nl/default.csv:189
 msgid "Select all"
-msgstr "Select all"
+msgstr "Alles selecteren"
 
 #: nl/default.csv:190
 msgid "Send"
-msgstr "Send"
+msgstr "Verstuur"
 
 #: nl/default.csv:191
 msgid "Send your pictures"
-msgstr "Send your pictures"
+msgstr "Verstuur uw foto's"
 
 #: nl/default.csv:192
 msgid "Settings"
-msgstr "Settings"
+msgstr "Instellingen"
 
 #: nl/default.csv:193
 msgid "Size:"
-msgstr "Size:"
+msgstr "Grote:"
 
 #: nl/default.csv:194
 msgid "Street"
@@ -1159,3 +1159,6 @@ msgstr "Het aantal personen"
 
 msgid "Newswall"
 msgstr "Nieuwswal"
+
+msgid "Release"
+msgstr "Laat los"
