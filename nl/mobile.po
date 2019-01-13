@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 18:33+0000\n"
+"PO-Revision-Date: 2019-01-13 18:34+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -128,3 +128,6 @@ msgstr "Mej."
 
 msgid "Mr"
 msgstr "Dhr"
+
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr "Vul uw e-mailadres in. We zullen u nu uw wachtwoord sturen."
