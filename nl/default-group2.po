@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:31+0000\n"
+"PO-Revision-Date: 2019-01-13 14:32+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/nl/>\n"
@@ -24,3 +24,6 @@ msgstr "Voeg<br /><span class=\"bold\"> Bijlage toe </span>"
 
 msgid "An error occurred while processing the payment."
 msgstr "Er is een fout opgetreden tijdens het verwerken van de betaling."
+
+msgid "E-Mail render preview"
+msgstr "E-mail render voorbeeldweergave"
