@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:23+0000\n"
+"PO-Revision-Date: 2019-01-13 14:59+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -178,7 +178,7 @@ msgstr "Close"
 
 #: nl/default.csv:41
 msgid "close"
-msgstr "close"
+msgstr "sluit"
 
 #: nl/default.csv:42
 msgid "Comment"
@@ -714,7 +714,7 @@ msgstr "Podcast type is invalid or can't be found"
 
 #: nl/default.csv:175
 msgid "Podcast URL (iTunes format)"
-msgstr "Podcast URL (iTunes format)"
+msgstr "Podcast URL (iTunes-formaat)"
 
 #: nl/default.csv:176
 msgid "Postcode"
