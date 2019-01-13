@@ -88,3 +88,6 @@ msgstr "Maillogs"
 
 msgid "Sur quelles plateformes ?"
 msgstr "Op welke platforms?"
+
+msgid "category_id"
+msgstr "categorie ID"
