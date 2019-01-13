@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:58+0000\n"
+"PO-Revision-Date: 2019-01-13 19:59+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -501,11 +501,11 @@ msgstr "Log-in"
 
 #: nl/default.csv:119
 msgid "Log-out"
-msgstr "Log-out"
+msgstr "Log-uit"
 
 #: nl/default.csv:120
 msgid "Logged in as"
-msgstr "Logged in as"
+msgstr "Ingelogd als"
 
 #: nl/default.csv:121
 msgid "Login"
@@ -545,7 +545,7 @@ msgstr "MM/dd/yy"
 
 #: nl/default.csv:130
 msgid "MM/dd/yyyy"
-msgstr "MM/dd/yyyy"
+msgstr "dd/MM/yyyy"
 
 #: nl/default.csv:131
 msgid "MM,d yy"
@@ -553,7 +553,7 @@ msgstr "MM,d yy"
 
 #: nl/default.csv:132
 msgid "MMMM dd y"
-msgstr "MMMM dd y"
+msgstr "dd MMMM y"
 
 #: nl/default.csv:133
 msgid "Never"
@@ -565,23 +565,23 @@ msgstr "No"
 
 #: nl/default.csv:135
 msgid "Main category"
-msgstr "Main category"
+msgstr "Hoofdcategorie"
 
 #: nl/default.csv:136
 msgid "Make this image colorizable"
-msgstr "Make this image colorizable"
+msgstr "Maak deze afbeelding inkleurbaar"
 
 #: nl/default.csv:137
 msgid "Manage"
-msgstr "Manage"
+msgstr "Beheer"
 
 #: nl/default.csv:138
 msgid "Maps"
-msgstr "Maps"
+msgstr "Kaarten"
 
 #: nl/default.csv:139
 msgid "Message from your app %s"
-msgstr "Message from your app %s"
+msgstr "Bericht van uw App's %s"
 
 #: nl/default.csv:140
 msgid "Messages"
