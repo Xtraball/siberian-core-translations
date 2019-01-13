@@ -157,3 +157,6 @@ msgstr "Er is een fout opgetreden tijdens het hidding de Android statusbalk."
 
 msgid "An error occurred while hidding the iOS Status Bar."
 msgstr "Er is een fout opgetreden tijdens het verbergen van de iOS Status Bar"
+
+msgid "Missing categories."
+msgstr "Ontbrekende categorieën."
