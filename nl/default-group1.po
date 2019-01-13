@@ -187,3 +187,6 @@ msgstr "Bestelling bewaart."
 
 msgid " of the "
 msgstr " van\tde "
+
+msgid "Order: "
+msgstr "van de "
