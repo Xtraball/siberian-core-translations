@@ -66,3 +66,6 @@ msgstr "3 uur"
 
 msgid "30 minutes"
 msgstr "30 minuten"
+
+msgid "Strip shortcodes"
+msgstr "Strip shortcodes"
