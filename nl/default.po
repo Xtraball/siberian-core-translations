@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 15:07+0000\n"
+"PO-Revision-Date: 2019-01-13 15:14+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -182,7 +182,7 @@ msgstr "sluit"
 
 #: nl/default.csv:42
 msgid "Comment"
-msgstr "Comment"
+msgstr "Reactie"
 
 #: nl/default.csv:43
 msgid "Comments"
@@ -642,7 +642,7 @@ msgstr "Passwords don't match"
 
 #: nl/default.csv:157
 msgid "Phone"
-msgstr "Phone"
+msgstr "Telefoon"
 
 #: nl/default.csv:158
 msgid "Phone:"
