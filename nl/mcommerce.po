@@ -633,3 +633,6 @@ msgstr "Uw telefoonnummer"
 
 msgid "Label"
 msgstr "label"
+
+msgid "From"
+msgstr "Van"
