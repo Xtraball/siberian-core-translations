@@ -13,3 +13,8 @@ msgstr ""
 
 msgid " \"Remove this page from this folder?\""
 msgstr " \"Verwijder deze pagina uit deze map?\""
+
+msgid "#19-001 The folder %s is not writable. Please fix this issue and try again."
+msgstr ""
+"De map %s  is niet beschrijfbaar. Verhelp dit probleem en probeer het "
+"opnieuw."
