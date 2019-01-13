@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 15:05+0000\n"
+"PO-Revision-Date: 2019-01-13 15:07+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -326,7 +326,7 @@ msgstr "Facebook"
 
 #: nl/default.csv:78
 msgid "Firstname"
-msgstr "Firstname"
+msgstr "Voornam"
 
 #: nl/default.csv:79
 msgid "Firstname:"
@@ -438,7 +438,7 @@ msgstr "Last Name"
 
 #: nl/default.csv:106
 msgid "Lastname"
-msgstr "Lastname"
+msgstr "Achternaam"
 
 #: nl/default.csv:107
 msgid "Lastname:"
@@ -474,7 +474,7 @@ msgstr "loading"
 
 #: nl/default.csv:115
 msgid "Locate"
-msgstr "Locate"
+msgstr "Locatie"
 
 #: nl/default.csv:116
 msgid "Location:"
@@ -1046,3 +1046,6 @@ msgstr "Voeg een afbeelding toe"
 
 msgid "Create an account"
 msgstr "Maak een account"
+
+msgid "Map"
+msgstr "Kaart"
