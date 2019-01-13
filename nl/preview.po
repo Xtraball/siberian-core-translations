@@ -79,3 +79,6 @@ msgstr "Uw voorbeeld is succesvol verwijderd."
 
 msgid "Your preview translation has been deleted successfully."
 msgstr "Uw preview-vertaling is succesvol verwijderd."
+
+msgid "Add"
+msgstr "Bewerk"
