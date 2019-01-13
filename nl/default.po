@@ -593,15 +593,15 @@ msgstr "Modules"
 
 #: nl/default.csv:142
 msgid "More"
-msgstr "More"
+msgstr "Meer"
 
 #: nl/default.csv:143
 msgid "My account"
-msgstr "My account"
+msgstr "Mijn account"
 
 #: nl/default.csv:144
 msgid "My invoices"
-msgstr "My invoices"
+msgstr "Mijn facturen"
 
 #: nl/default.csv:145
 msgid "My Invoices"
