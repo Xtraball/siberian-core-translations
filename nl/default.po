@@ -909,7 +909,7 @@ msgstr "Totaal"
 
 #: nl/default.csv:221
 msgid "Updated at"
-msgstr "Updated at"
+msgstr "Bijgewerkt Op"
 
 #: nl/default.csv:222
 msgid "Use this coupon"
@@ -921,7 +921,7 @@ msgstr "Gebruiker"
 
 #: nl/default.csv:224
 msgid "User successfully saved"
-msgstr "User successfully saved"
+msgstr "Gebruikers opgeslagen"
 
 #: nl/default.csv:225
 msgid "Username"
@@ -933,7 +933,7 @@ msgstr "Gebruikers"
 
 #: nl/default.csv:227
 msgid "Validate"
-msgstr "Validate"
+msgstr "Bevestig"
 
 #: nl/default.csv:228
 msgid "VAT Number"
@@ -1162,3 +1162,6 @@ msgstr "Nieuwswal"
 
 msgid "Release"
 msgstr "Laat los"
+
+msgid "Tour Edition"
+msgstr "Tour-editie"
