@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:55+0000\n"
+"PO-Revision-Date: 2019-01-13 19:22+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -28,7 +28,7 @@ msgstr "API's"
 
 #: nl/default.csv:4
 msgid "Accounts"
-msgstr "Accounts"
+msgstr "Account"
 
 #: nl/default.csv:5
 msgid "Action"
@@ -1136,3 +1136,9 @@ msgstr "een map toevoegen."
 
 msgid "You cannot add this feature"
 msgstr "U kunt dit kenmerk niet toevoegen"
+
+msgid "APK Generator Service"
+msgstr "APK-generatorservice"
+
+msgid "Wordpress"
+msgstr "WordPress"
