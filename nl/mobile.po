@@ -61,3 +61,6 @@ msgstr "Telefoon"
 
 msgid "An error occurred while reading the code."
 msgstr "Er is een fout opgetreden bij het lezen van de code."
+
+msgid "No comments for now."
+msgstr "Nog geen reacties."
