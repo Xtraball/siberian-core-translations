@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 15:14+0000\n"
+"PO-Revision-Date: 2019-01-13 15:29+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -674,7 +674,7 @@ msgstr "Please enter a password"
 
 #: nl/default.csv:165
 msgid "Please enter a valid email address"
-msgstr "Please enter a valid email address"
+msgstr "Vul een geldig e-mail adres in"
 
 #: nl/default.csv:166
 msgid "Please enter a valid url"
@@ -866,7 +866,7 @@ msgstr "This email address is already used"
 
 #: nl/default.csv:213
 msgid "This field is required"
-msgstr "This field is required"
+msgstr "Dit veld is verplicht"
 
 #: nl/default.csv:214
 msgid "This user does not exist."
@@ -902,7 +902,7 @@ msgstr "Updated at"
 
 #: nl/default.csv:222
 msgid "Use this coupon"
-msgstr "Use this coupon"
+msgstr "Gebruik deze kortingsbon"
 
 #: nl/default.csv:223
 msgid "User"
@@ -982,7 +982,7 @@ msgstr "Your browser is too old to view the content of our website.<br />"
 
 #: nl/default.csv:242
 msgid "Your comment"
-msgstr "Your comment"
+msgstr "Uw reactie"
 
 #: nl/default.csv:243
 msgid "Your email address"
