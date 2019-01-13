@@ -133,3 +133,6 @@ msgstr "Belastingen:"
 
 msgid "Tax name:"
 msgstr "Belasting naam:"
+
+msgid "Tax rate:"
+msgstr "Belastingtarief:"
