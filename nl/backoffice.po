@@ -111,3 +111,6 @@ msgstr "Wachtwoord vergeten"
 
 msgid "Generate source"
 msgstr "Genereer de bron"
+
+msgid "Save"
+msgstr "Bewaar"
