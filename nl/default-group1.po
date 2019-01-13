@@ -37,3 +37,6 @@ msgstr ""
 
 msgid "A new user just registered!"
 msgstr "Een nieuwe gebruiker geregistreerd!"
+
+msgid "Credentials successfully saved!"
+msgstr "Referenties met succes opgeslagen!"
