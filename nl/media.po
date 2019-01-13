@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:47+0000\n"
+"PO-Revision-Date: 2019-01-13 14:49+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/media/nl/>"
 "\n"
@@ -150,7 +150,7 @@ msgstr "van"
 
 #: nl/media.csv:34
 msgid "Gallery Name"
-msgstr "Gallery Naam"
+msgstr "Galerie Naam"
 
 #: nl/media.csv:35
 msgid "Gallery Name <span class=\"required-entry\">*</span> :"
@@ -340,3 +340,13 @@ msgstr "Er is een fout opgetreden tijdens het laden van de radio."
 
 msgid "Facebook page ID"
 msgstr "FaceBook pagina ID"
+
+msgid "Flickr API settings can't be found."
+msgstr "Flickr API-instellingen kunnen niet worden gevonden."
+
+msgid "Flickr user"
+msgstr "Flickr-gebruiker"
+
+msgid "If set, will appear instead of the Facebook page Id in app."
+msgstr ""
+"Indien ingesteld, verschijnt in plaats van de Facebook-pagina Id in app."
