@@ -115,3 +115,6 @@ msgstr "Uw Podcast:"
 
 msgid "Description"
 msgstr "Omschrijving"
+
+msgid "At least one section is required to save."
+msgstr "Tenminste één sectie is nodig om op te slaan."
