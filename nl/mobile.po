@@ -34,3 +34,6 @@ msgstr "Sluit"
 
 msgid "Firstname"
 msgstr "Voornam"
+
+msgid "Lastname"
+msgstr "Achternaam"
