@@ -156,7 +156,7 @@ msgid "An error occurred while hidding the Android Status Bar."
 msgstr "Er is een fout opgetreden tijdens het hidding de Android statusbalk."
 
 msgid "An error occurred while hidding the iOS Status Bar."
-msgstr "Er is een fout opgetreden tijdens het verbergen van de iOS Status Bar"
+msgstr "Er is een fout opgetreden tijdens het verbergen van de iOS Status Bar."
 
 msgid "Missing categories."
 msgstr "Ontbrekende categorieën."
@@ -178,3 +178,6 @@ msgstr "Dit abonnement is actief."
 
 msgid "This application does not belong to you."
 msgstr "Deze toepassing niet van jou is."
+
+msgid "This field is required."
+msgstr "Dit is een verplicht veld."
