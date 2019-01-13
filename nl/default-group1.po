@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 19:13+0000\n"
+"PO-Revision-Date: 2019-01-13 19:14+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -226,3 +226,6 @@ msgstr "Onze platforms"
 
 msgid "Nous supportons toutes les plateformes"
 msgstr "We ondersteunen alle platforms"
+
+msgid "Scratchcard"
+msgstr "Kras kaart"
