@@ -1101,3 +1101,6 @@ msgstr "Download lijst van gebruikers welke deze korting hebben gebruikt"
 
 msgid "No invoice for now."
 msgstr "Geen facturen op dit moment."
+
+msgid "Please enter a valid URL."
+msgstr "Vul een geldige URL in."
