@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:19+0000\n"
+"PO-Revision-Date: 2019-01-13 18:33+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/customer/"
 "nl/>\n"
@@ -104,11 +104,11 @@ msgstr "Login :"
 
 #: nl/customer.csv:23
 msgid "Miss"
-msgstr "Mejv."
+msgstr "Mej."
 
 #: nl/customer.csv:24
 msgid "Mr"
-msgstr "Dhr."
+msgstr "Dhr"
 
 #: nl/customer.csv:25
 msgid "Mrs"
@@ -188,3 +188,6 @@ msgstr "Uw account is met succes opgeslagen"
 
 msgid "Title"
 msgstr "Titel"
+
+msgid "We are sorry but this nickname is already used"
+msgstr "Het spijt ons maar deze bijnaam is al in gebruik"
