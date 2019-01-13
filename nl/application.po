@@ -759,3 +759,6 @@ msgstr "Info succesvol opgeslagen"
 
 msgid "Edit"
 msgstr "Bewerk"
+
+msgid "Label"
+msgstr "label"
