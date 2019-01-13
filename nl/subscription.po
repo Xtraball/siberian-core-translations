@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:32+0000\n"
+"PO-Revision-Date: 2019-01-13 16:47+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "subscription/nl/>\n"
@@ -254,3 +254,96 @@ msgstr "Betalingsmethode:"
 
 msgid "Address 1"
 msgstr "Adres  1"
+
+msgid "Address 2"
+msgstr "Adres 2"
+
+msgid "An error occurred while processing your order. Please, check your 2Checkout credentials or try again later."
+msgstr ""
+"Er is een fout opgetreden tijdens het verwerken van uw bestelling. "
+"Controleer alstublieft uw 2Checkout-inloggegevens of probeer het later "
+"opnieuw."
+
+msgid "An offline payment method will <strong>not</strong> be associated with any online payment method. Users will have to pay you by checks, bank transfer...You'll have to edit your invoices manually."
+msgstr ""
+"Een offline betaalmethode zal <strong> niet</strong> 2worden gekoppeld aan "
+"elke online betaalmethode. Gebruikers moeten u betalen met een cheques, "
+"bankoverschrijvingen ... U moet uw facturen handmatig bewerken."
+
+msgid "Be careful: a 2Checkout stopped recurrence can only be reactivated by a 2Checkout representative."
+msgstr ""
+"Wees voorzichtig: 2Checkout is gestopt en kan alleen worden gereactiveerd "
+"door een vertegenwoordiger van 2Checkout."
+
+msgid "Be careful: a Stripe stopped recurrence can only be reactivated manually in your Stripe Admin panel."
+msgstr ""
+"Wees voorzichtig: Stripe is gestopt en kan alleen handmatig opnieuw worden "
+"geactiveerd in uw Stripe-beheerdersdashboard."
+
+msgid "Be sure to fill in Admob settings in Settings > General section of your back office."
+msgstr ""
+"Zorg ervoor dat u de Admob instellingen invult in het gedeelte Instellingen> "
+"Algemeen van uw backoffice."
+
+msgid "Don't forget to configure your message for offline plans in Settings > Sales > Configuration"
+msgstr ""
+"Vergeet niet om uw bericht voor offlineplannen te configureren in "
+"Instellingen> Verkoop> Configuratie"
+
+msgid "If you chose an offline payment, your subscription will be activated by an admin when your payment is received."
+msgstr ""
+"Als je een voor offline betaling hebt gekozen, wordt je abonnement "
+"geactiveerd door een beheerder wanneer je betaling is ontvangen."
+
+msgid "I'll pay with an offline payment mode"
+msgstr "Ik betaal met een offline betaling mogelijkheid"
+
+msgid "New sale on your platform"
+msgstr "Nieuwe verkoop op uw platform"
+
+msgid "No recurring line items to stop."
+msgstr "Geen terugkerende regelitems om te stoppen."
+
+msgid "Please choose a payment method for this plan."
+msgstr "Kies een betaalmethode voor dit plan."
+
+msgid "Please fill in your card information in order to pay with Stripe:"
+msgstr "Vul uw kaartgegevens in om te betalen met Stripe:"
+
+msgid "Sorry, but no payment method was found."
+msgstr "Sorry, maar er is geen betaalmethode gevonden."
+
+msgid "The user %s requests you to publish the app %s."
+msgstr "De gebruiker %s vraagt u om de app %s te publiceren."
+
+msgid "This plan allows offline payments method (manual management)"
+msgstr "Dit plan maakt de offline betalingsmethode mogelijk (handmatig beheer)"
+
+msgid "Verification number:"
+msgstr "Verificatie nummer:"
+
+msgid "We were unable to deactivate their subscription on %s. Please, do it manually."
+msgstr ""
+"We konden hun abonnement niet deactiveren op%s. Alsjeblieft, doe het "
+"handmatig."
+
+msgid "You are almost done! After subscribing, your app can be published on both the AppStore and the Google Play."
+msgstr ""
+"Je bent bijna klaar! Na inschrijving kan uw app zowel in de AppStore als op "
+"Google Play worden gepubliceerd."
+
+msgid "You can choose which feature will be accessible with your plan. By default, all features are allowed."
+msgstr ""
+"U kunt kiezen welke functies toegankelijk is voor uw plan. Standaard zijn "
+"alle functies toegestaan."
+
+msgid "You have chosen an offline plan. Once submitted, your subscription will be activated by an admin when your payment is received."
+msgstr ""
+"U hebt een offline abonnement gekozen. Na verzending wordt uw abonnement "
+"door een beheerder geactiveerd zodra uw betaling is ontvangen."
+
+msgid "You've made a sale!"
+msgstr "Je hebt een verkoop!"
+
+msgid "to view this app if you are connected to your backoffice."
+msgstr "om deze app te bekijken moet je verbonden zijn met je backoffice."
