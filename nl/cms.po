@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:15+0000\n"
+"PO-Revision-Date: 2019-01-13 18:16+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/cms/nl/>\n"
 "Language: nl\n"
@@ -63,7 +63,7 @@ msgstr "Groot"
 
 #: nl/cms.csv:13
 msgid "Loading picture:"
-msgstr "Afbeelding laden"
+msgstr "Afbeelding laden:"
 
 #: nl/cms.csv:14
 msgid "Make a search or enter the Youtube Url:"
@@ -127,3 +127,6 @@ msgstr "Aangepast icoon"
 
 msgid "Email:"
 msgstr "Email:"
+
+msgid "Link:"
+msgstr "Link:"
