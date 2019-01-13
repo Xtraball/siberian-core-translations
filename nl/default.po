@@ -1127,3 +1127,6 @@ msgstr "De value_id is vereist."
 
 msgid "This layout has no option."
 msgstr "Deze lay-out heeft geen optie."
+
+msgid "Your analytics will be computed and available soon"
+msgstr "Uw analyses worden snel berekend en zijn binnenkort beschikbaar"
