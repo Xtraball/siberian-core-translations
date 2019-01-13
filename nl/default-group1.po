@@ -58,3 +58,6 @@ msgstr "Reservering details:"
 
 msgid "City:"
 msgstr "Woonplaats:"
+
+msgid "Created at:"
+msgstr "Gemaakt op:"
