@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:41+0000\n"
+"PO-Revision-Date: 2019-01-13 15:42+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/preview/nl/"
 ">\n"
@@ -32,3 +32,9 @@ msgstr "Vertaling verwijderen"
 
 msgid "Unable to delete the file."
 msgstr "Kan archief niet openen."
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Drag and drop images to reorder them."
+msgstr "Sleep afbeeldingen en zet ze neer om ze opnieuw te ordenen."
