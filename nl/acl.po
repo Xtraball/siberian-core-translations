@@ -21,3 +21,6 @@ msgstr "Bewerk"
 
 msgid "Edit %s role"
 msgstr "Bewerk %s rol"
+
+msgid "Id"
+msgstr "id"
