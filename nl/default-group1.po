@@ -67,3 +67,6 @@ msgstr "Datum en tijd:"
 
 msgid "Delivery fees:"
 msgstr "Verzendkosten:"
+
+msgid "Delivery methods:"
+msgstr "Levering methoden:"
