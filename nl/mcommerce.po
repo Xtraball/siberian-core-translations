@@ -693,3 +693,6 @@ msgstr "Gebruik:"
 
 msgid "Use my points?"
 msgstr "Gebruik mijn punten?"
+
+msgid "You have to choose a delivery method."
+msgstr "Je moet kiezen voor een levering methode."
