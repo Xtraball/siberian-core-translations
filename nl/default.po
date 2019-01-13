@@ -1086,3 +1086,6 @@ msgstr "Podcast-URL"
 
 msgid "Video URL"
 msgstr "Video URL"
+
+msgid "An error occurred while loading places."
+msgstr "Er is een fout opgetreden bij het laden van plaatsen."
