@@ -191,3 +191,6 @@ msgstr "Titel"
 
 msgid "We are sorry but this nickname is already used"
 msgstr "Het spijt ons maar deze bijnaam is al in gebruik"
+
+msgid "No user for now."
+msgstr "Nog geen gebruikers."
