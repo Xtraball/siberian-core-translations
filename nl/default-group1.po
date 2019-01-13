@@ -196,3 +196,6 @@ msgstr "Abonnement: "
 
 msgid "User: "
 msgstr "Gebruikers: "
+
+msgid "403 Forbidden"
+msgstr "403 verboden"
