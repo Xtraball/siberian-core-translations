@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:07+0000\n"
+"PO-Revision-Date: 2019-01-13 13:08+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/admin/nl/>"
 "\n"
@@ -177,11 +177,11 @@ msgstr "U hebt nog geen gebruikers"
 
 #: nl/admin.csv:40
 msgid "Your credentials"
-msgstr "Uw gegevens:"
+msgstr "Uw gegevens"
 
 #: nl/admin.csv:41
 msgid "Your login:"
-msgstr "Uw login:"
+msgstr "Uw inlog:"
 
 #: nl/admin.csv:42
 msgid "Your password:"
