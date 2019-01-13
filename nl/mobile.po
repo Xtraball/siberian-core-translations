@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:10+0000\n"
+"PO-Revision-Date: 2019-01-13 14:45+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -16,3 +16,6 @@ msgstr "Verwijder"
 
 msgid "Title"
 msgstr "Titel"
+
+msgid "An error occurred while loading the media."
+msgstr "Er is een fout opgetreden tijdens het laden van de media."
