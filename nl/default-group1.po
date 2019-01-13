@@ -181,3 +181,6 @@ msgstr "Deze toepassing niet van jou is."
 
 msgid "This field is required."
 msgstr "Dit is een verplicht veld."
+
+msgid "Order successfully saved saved."
+msgstr "Bestelling bewaart."
