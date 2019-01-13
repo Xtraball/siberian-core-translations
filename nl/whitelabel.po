@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:51+0000\n"
+"PO-Revision-Date: 2019-01-13 16:23+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -19,3 +19,21 @@ msgstr "Telefoon"
 
 msgid "Country"
 msgstr "Land"
+
+msgid "Border Blue"
+msgstr "Rand Blauw"
+
+msgid "Border Green"
+msgstr "Rand Groen"
+
+msgid "Border Grey"
+msgstr "Rand Grijs"
+
+msgid "Border Purple"
+msgstr "Rand Paars"
+
+msgid "Border Red"
+msgstr "Rand Rood"
+
+msgid "Border Yellow"
+msgstr "Rand Geel"
