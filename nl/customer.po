@@ -2,14 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
+"PO-Revision-Date: 2019-01-13 18:19+0000\n"
+"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
+"Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/customer/"
+"nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
@@ -43,7 +44,7 @@ msgstr "Gefeliciteerd,"
 
 #: nl/customer.csv:8
 msgid "Create"
-msgstr "Maak"
+msgstr "Aanmaken"
 
 #: nl/customer.csv:9
 msgid "Create a new user"
@@ -171,7 +172,7 @@ msgstr "Gebruikers"
 
 #: nl/customer.csv:40
 msgid "User Information"
-msgstr "Gebruiker informatie"
+msgstr "Gebruiker Informatie"
 
 #: nl/customer.csv:41
 msgid "We are sorry but the %s account is already linked to one of our customers"
@@ -184,3 +185,6 @@ msgstr "Je hebt je account aangemaakt. Met dit account, kunt u genieten van de g
 #: nl/customer.csv:43
 msgid "Your account has been successfully saved"
 msgstr "Uw account is met succes opgeslagen"
+
+msgid "Title"
+msgstr "Titel"
