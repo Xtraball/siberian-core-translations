@@ -1018,3 +1018,6 @@ msgstr "picture"
 #: nl/default.csv:251
 msgid "to add a subfolder."
 msgstr "to add a subfolder."
+
+msgid "Events"
+msgstr "Evenementen"
