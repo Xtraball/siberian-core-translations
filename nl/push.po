@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:10+0000\n"
+"PO-Revision-Date: 2019-01-13 16:12+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/push/nl/>\n"
 "Language: nl\n"
@@ -122,3 +122,21 @@ msgstr "Project nummer"
 
 msgid "Push successfully deleted."
 msgstr "Push succesvol verwijderd."
+
+msgid "No device found for this user"
+msgstr "Geen apparaat gevonden voor deze gebruiker"
+
+msgid "Open a feature or a custom URL"
+msgstr "Open een functie of een aangepaste URL"
+
+msgid "Please enter an expiration date for your message:"
+msgstr "Vul een vervaldatum in voor uw bericht:"
+
+msgid "You must choose a topic before sending your message."
+msgstr "U moet een onderwerp kiezen voordat u uw bericht verzendt."
+
+msgid "You must choose at least one user before sending your message."
+msgstr "U moet ten minste één gebruiker kiezen voordat u uw bericht verzendt."
+
+msgid "Your message has been saved successfully."
+msgstr "Uw bericht is succesvol opgeslagen."
