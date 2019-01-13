@@ -23,3 +23,6 @@ msgstr ""
 
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Bestands- type:</b> %s<br/>"
+
+msgid "Unable to copy the file."
+msgstr "Kan archief niet openen."
