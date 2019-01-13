@@ -169,3 +169,6 @@ msgstr "Vul een geldige datum in."
 
 msgid "Promotion successfully deleted."
 msgstr "Promotie met succes verwijderd."
+
+msgid "Query successfully deleted."
+msgstr "Query verwijderd."
