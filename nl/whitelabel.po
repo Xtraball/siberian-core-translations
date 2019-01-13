@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 16:23+0000\n"
+"PO-Revision-Date: 2019-01-13 16:25+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -40,3 +40,21 @@ msgstr "Rand Geel"
 
 msgid "Buttons"
 msgstr "Knoppen"
+
+msgid "Color blue"
+msgstr "Kleur blauw"
+
+msgid "Color green"
+msgstr "Kleur groen"
+
+msgid "Color purple"
+msgstr "Kleur paars"
+
+msgid "Color red"
+msgstr "Kleur rood"
+
+msgid "Color yellow"
+msgstr "Kleur geel"
+
+msgid "Company or Fullname"
+msgstr "Bedrijf of volledige naam"
