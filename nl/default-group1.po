@@ -145,3 +145,6 @@ msgstr "Gebruikersnaam:"
 
 msgid "Website:"
 msgstr "Website:"
+
+msgid "Zip Code:"
+msgstr "Zip Code:"
