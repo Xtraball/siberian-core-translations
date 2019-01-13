@@ -133,3 +133,6 @@ msgstr "Link voorvertoning"
 
 msgid "No informations."
 msgstr "Geen informatie."
+
+msgid "Not yet generated."
+msgstr "Nog niet gegenereerd."
