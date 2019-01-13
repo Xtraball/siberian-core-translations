@@ -133,3 +133,6 @@ msgstr "Link:"
 
 msgid "Phone:"
 msgstr "Telefoon:"
+
+msgid "Size"
+msgstr "Grootte"
