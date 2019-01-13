@@ -753,3 +753,6 @@ msgstr "tijden"
 msgid "An error occurred while saving. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan. Probeer het later opnieuw."
+
+msgid "Info successfully saved"
+msgstr "Info succesvol opgeslagen"
