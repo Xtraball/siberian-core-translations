@@ -26,3 +26,6 @@ msgstr "Kon je niet verifiëren."
 
 msgid "Sorry, that page does not exist."
 msgstr "Sorry, die pagina bestaat niet."
+
+msgid "Twitter API token"
+msgstr "Twitter API-token"
