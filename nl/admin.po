@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:08+0000\n"
+"PO-Revision-Date: 2019-01-13 13:48+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/admin/nl/>"
 "\n"
@@ -78,7 +78,7 @@ msgstr "Bewerk de gebruiker %s"
 
 #: nl/admin.csv:16
 msgid "Enjoy!"
-msgstr "Veel plezier"
+msgstr "Veel plezier!"
 
 #: nl/admin.csv:17
 msgid "Find some advices here:"
@@ -206,7 +206,7 @@ msgid "Are you sure you want to duplicate this application?"
 msgstr "Weet u zeker dat u deze Applicatie  wilt verwijderen?"
 
 msgid "Company:"
-msgstr "Bedrijf"
+msgstr "Bedrijf:"
 
 msgid "Edit the account %s"
 msgstr "Bewerk het account %s"
