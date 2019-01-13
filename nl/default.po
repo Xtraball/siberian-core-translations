@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:52+0000\n"
+"PO-Revision-Date: 2019-01-13 19:54+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -195,11 +195,11 @@ msgstr "Reacties"
 
 #: nl/default.csv:44
 msgid "Communication"
-msgstr "Communication"
+msgstr "Communicatie"
 
 #: nl/default.csv:45
 msgid "Company"
-msgstr "Company"
+msgstr "Bedrijf"
 
 #: nl/default.csv:46
 msgid "Coms"
@@ -211,11 +211,11 @@ msgstr "Voorwaarden"
 
 #: nl/default.csv:48
 msgid "Confirm Password"
-msgstr "Confirm Password"
+msgstr "Bevestig wachtwoord"
 
 #: nl/default.csv:49
 msgid "Confirm new password"
-msgstr "Confirm new password"
+msgstr "Bevestig nieuw wachtwoord"
 
 #: nl/default.csv:50
 msgid "Country"
@@ -231,11 +231,11 @@ msgstr "Aanmaken"
 
 #: nl/default.csv:53
 msgid "Create a new account"
-msgstr "Create a new account"
+msgstr "Maak een nieuw account"
 
 #: nl/default.csv:54
 msgid "Created at"
-msgstr "Created at"
+msgstr "Gemaakt op"
 
 #: nl/default.csv:55
 msgid "Created at:"
@@ -247,7 +247,7 @@ msgstr "Currency"
 
 #: nl/default.csv:57
 msgid "Current password"
-msgstr "Current password"
+msgstr "Huidig wachtwoord"
 
 #: nl/default.csv:58
 msgid "Dashboard"
@@ -267,7 +267,7 @@ msgstr "days"
 
 #: nl/default.csv:62
 msgid "Default Languages"
-msgstr "Default Languages"
+msgstr "Standaard taal"
 
 #: nl/default.csv:63
 msgid "Delete"
@@ -291,7 +291,7 @@ msgstr "Bewerk"
 
 #: nl/default.csv:68
 msgid "Editing"
-msgstr "Editing"
+msgstr "Bewerken"
 
 #: nl/default.csv:69
 msgid "Email"
