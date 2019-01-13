@@ -103,3 +103,6 @@ msgstr "Bericht:"
 
 msgid "Minimum order:"
 msgstr "Minimale bestelling:"
+
+msgid "Option name:"
+msgstr "Optie naam:"
