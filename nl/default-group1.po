@@ -175,3 +175,6 @@ msgstr "Query verwijderd."
 
 msgid "The subscription is now active."
 msgstr "Dit abonnement is actief."
+
+msgid "This application does not belong to you."
+msgstr "Deze toepassing niet van jou is."
