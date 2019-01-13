@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:09+0000\n"
+"PO-Revision-Date: 2019-01-13 20:10+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -945,15 +945,15 @@ msgstr "Version %s"
 
 #: nl/default.csv:230
 msgid "View"
-msgstr "View"
+msgstr "Bekijk"
 
 #: nl/default.csv:231
 msgid "We are sorry but this address is already used."
-msgstr "We are sorry but this address is already used."
+msgstr "Het spijt ons maar dit adres wordt al gebruikt."
 
 #: nl/default.csv:232
 msgid "We are sorry but this email address already exists."
-msgstr "We are sorry but this email address already exists."
+msgstr "Het spijt ons maar dit e-mail adres bestaat al."
 
 #: nl/default.csv:233
 msgid "We are sorry but this feature is not available yet"
