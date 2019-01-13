@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:35+0000\n"
+"PO-Revision-Date: 2019-01-13 18:55+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/booking/nl/"
 ">\n"
@@ -32,7 +32,7 @@ msgstr "Opmerkingen:"
 
 #: nl/booking.csv:5
 msgid "Date and time"
-msgstr "Date and time"
+msgstr "Datum en tijd"
 
 #: nl/booking.csv:6
 msgid "Date and time:"
