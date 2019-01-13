@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:55+0000\n"
+"PO-Revision-Date: 2019-01-13 19:58+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -343,7 +343,9 @@ msgstr "Forgot your password ?"
 
 #: nl/default.csv:81
 msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
-msgstr "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
+msgstr ""
+"Wachtwoord vergeten? Geen zorgen! Vul  je  e-mailadres in en wij sturen u "
+"een nieuw wachtwoord."
 
 #: nl/default.csv:82
 msgid "General"
@@ -355,7 +357,7 @@ msgstr "Hallo"
 
 #: nl/default.csv:84
 msgid "Here is your new password:"
-msgstr "Here is your new password:"
+msgstr "Hier is uw nieuwe wachtwoord"
 
 #: nl/default.csv:85
 msgid "hour"
@@ -367,7 +369,9 @@ msgstr "hours"
 
 #: nl/default.csv:87
 msgid "How do you want to access the backoffice if you remove the only user remaining?"
-msgstr "How do you want to access the backoffice if you remove the only user remaining?"
+msgstr ""
+"Hoe wilt u toegang krijgen tot de backoffice als je de enige overgebleven "
+"gebruiker verwijdert?"
 
 #: nl/default.csv:88
 msgid "ID"
@@ -375,35 +379,37 @@ msgstr "ID"
 
 #: nl/default.csv:89
 msgid "Image not high enough, %spx minimum allowed."
-msgstr "Image not high enough, %spx minimum allowed."
+msgstr "Afbeelding niet hoog genoeg minimaal %spx is toegestaan."
 
 #: nl/default.csv:90
 msgid "Image not large enough, %spx minimum allowed."
-msgstr "Image not large enough, %spx minimum allowed."
+msgstr "Afbeelding niet groot genoeg minimaal %spx is toegestaan."
 
 #: nl/default.csv:91
 msgid "Image not large enough, '%s' allowed."
-msgstr "Image not large enough, '%s' allowed."
+msgstr "Afbeelding niet groot genoeg '%s' is toegestaan."
 
 #: nl/default.csv:92
 msgid "Image successfully saved"
-msgstr "Image successfully saved"
+msgstr "Afbeelding succesvol opgeslagen"
 
 #: nl/default.csv:93
 msgid "Image too high, %spx maximum allowed."
-msgstr "Image too high, %spx maximum allowed."
+msgstr "Afbeelding te hoog minimaal '%spx' toegestaan."
 
 #: nl/default.csv:94
 msgid "Image too large, %spx maximum allowed."
-msgstr "Image too large, %spx maximum allowed."
+msgstr "Afbeelding te groot maximaal %spx toegestaan."
 
 #: nl/default.csv:95
 msgid "Image too large, '%s' allowed."
-msgstr "Image too large, '%s' allowed."
+msgstr "Afbeelding te groot maximaal %s toegestaan."
 
 #: nl/default.csv:96
 msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
-msgstr "In order to fully enjoy our features, we encourage you to use at least:.<br />"
+msgstr ""
+"Om volledig  gebruik te maken van onze functies raden we u aan gebruik van "
+"ten minste:. <br />"
 
 #: nl/default.csv:97
 msgid "In order to publish your application, we need:<br />- "
@@ -411,7 +417,7 @@ msgstr "In order to publish your application, we need:<br />- "
 
 #: nl/default.csv:98
 msgid "Incorrect filetype."
-msgstr "Incorrect filetype."
+msgstr "Onjuist bestandstype."
 
 #: nl/default.csv:99
 msgid "Info successfully saved"
@@ -423,7 +429,7 @@ msgstr "Information"
 
 #: nl/default.csv:101
 msgid "Infos successfully saved"
-msgstr "Infos successfully saved"
+msgstr "Info succesvol opgeslagen"
 
 #: nl/default.csv:102
 msgid "Insert a <br /><span class=\"bold\">cover image</span>"
@@ -435,11 +441,11 @@ msgstr "Invoice %s"
 
 #: nl/default.csv:104
 msgid "Invoices"
-msgstr "Invoices"
+msgstr "Facturen"
 
 #: nl/default.csv:105
 msgid "Last Name"
-msgstr "Last Name"
+msgstr "Achternaam"
 
 #: nl/default.csv:106
 msgid "Lastname"
