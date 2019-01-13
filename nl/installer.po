@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:30+0000\n"
+"PO-Revision-Date: 2019-01-13 20:21+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/installer/"
 "nl/>\n"
@@ -128,11 +128,11 @@ msgstr "Dit proces kan enkele minuten duren pagina niet vernieuwen"
 
 #: nl/installer.csv:28
 msgid "Unable to extract the archive."
-msgstr "Kan archief niet uit pakken"
+msgstr "Kan archief niet uit pakken."
 
 #: nl/installer.csv:29
 msgid "Unable to open the archive."
-msgstr "Kan archief niet openen"
+msgstr "Kan archief niet openen."
 
 #: nl/installer.csv:30
 msgid "Unable to open the file. Please, make sure that you sent a valid archive."
@@ -151,3 +151,6 @@ msgstr "Acties"
 
 msgid "Size"
 msgstr "Grootte"
+
+msgid "The file %s is not writable."
+msgstr "Het bestand %s is niet beschrijfbaar."
