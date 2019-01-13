@@ -1083,3 +1083,6 @@ msgstr "Vul de volgende velden in"
 
 msgid "Podcast URL"
 msgstr "Podcast-URL"
+
+msgid "Video URL"
+msgstr "Video URL"
