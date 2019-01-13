@@ -70,3 +70,6 @@ msgstr "Kan de directory niet maken."
 
 msgid "Unable to delete the file %s"
 msgstr "Kan het bestand %s niet verwijderen"
+
+msgid "You don't have any previews yet"
+msgstr "Je hebt nog geen previews"
