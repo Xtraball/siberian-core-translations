@@ -251,3 +251,6 @@ msgstr "Kies een betaalmethode"
 
 msgid "Payment Method:"
 msgstr "Betalingsmethode:"
+
+msgid "Address 1"
+msgstr "Adres  1"
