@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 15:05+0000\n"
+"PO-Revision-Date: 2019-01-13 16:59+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -40,7 +40,7 @@ msgstr "Acties"
 
 #: nl/default.csv:7
 msgid "Add"
-msgstr "Add"
+msgstr "Bewerk"
 
 #: nl/default.csv:8
 msgid "Add a"
@@ -166,7 +166,7 @@ msgstr "Change password"
 
 #: nl/default.csv:38
 msgid "City"
-msgstr "City"
+msgstr "Woonplaats"
 
 #: nl/default.csv:39
 msgid "City:"
@@ -182,7 +182,7 @@ msgstr "sluit"
 
 #: nl/default.csv:42
 msgid "Comment"
-msgstr "Comment"
+msgstr "Reactie"
 
 #: nl/default.csv:43
 msgid "Comments"
@@ -202,7 +202,7 @@ msgstr "Coms"
 
 #: nl/default.csv:47
 msgid "Conditions"
-msgstr "Conditions"
+msgstr "Voorwaarden"
 
 #: nl/default.csv:48
 msgid "Confirm Password"
@@ -214,7 +214,7 @@ msgstr "Confirm new password"
 
 #: nl/default.csv:50
 msgid "Country"
-msgstr "Country"
+msgstr "Land"
 
 #: nl/default.csv:51
 msgid "Country:"
@@ -270,7 +270,7 @@ msgstr "Verwijder"
 
 #: nl/default.csv:64
 msgid "Description"
-msgstr "Description"
+msgstr "Omschrijving"
 
 #: nl/default.csv:65
 msgid "Description:"
@@ -326,7 +326,7 @@ msgstr "Facebook"
 
 #: nl/default.csv:78
 msgid "Firstname"
-msgstr "Firstname"
+msgstr "Voornam"
 
 #: nl/default.csv:79
 msgid "Firstname:"
@@ -438,7 +438,7 @@ msgstr "Last Name"
 
 #: nl/default.csv:106
 msgid "Lastname"
-msgstr "Lastname"
+msgstr "Achternaam"
 
 #: nl/default.csv:107
 msgid "Lastname:"
@@ -474,7 +474,7 @@ msgstr "loading"
 
 #: nl/default.csv:115
 msgid "Locate"
-msgstr "Locate"
+msgstr "Locatie"
 
 #: nl/default.csv:116
 msgid "Location:"
@@ -642,7 +642,7 @@ msgstr "Passwords don't match"
 
 #: nl/default.csv:157
 msgid "Phone"
-msgstr "Phone"
+msgstr "Telefoon"
 
 #: nl/default.csv:158
 msgid "Phone:"
@@ -674,7 +674,7 @@ msgstr "Please enter a password"
 
 #: nl/default.csv:165
 msgid "Please enter a valid email address"
-msgstr "Please enter a valid email address"
+msgstr "Vul een geldig e-mail adres in"
 
 #: nl/default.csv:166
 msgid "Please enter a valid url"
@@ -866,7 +866,7 @@ msgstr "This email address is already used"
 
 #: nl/default.csv:213
 msgid "This field is required"
-msgstr "This field is required"
+msgstr "Dit veld is verplicht"
 
 #: nl/default.csv:214
 msgid "This user does not exist."
@@ -902,7 +902,7 @@ msgstr "Updated at"
 
 #: nl/default.csv:222
 msgid "Use this coupon"
-msgstr "Use this coupon"
+msgstr "Gebruik deze kortingsbon"
 
 #: nl/default.csv:223
 msgid "User"
@@ -918,7 +918,7 @@ msgstr "Gebruikersnaam"
 
 #: nl/default.csv:226
 msgid "Users"
-msgstr "Users"
+msgstr "Gebruikers"
 
 #: nl/default.csv:227
 msgid "Validate"
@@ -926,7 +926,7 @@ msgstr "Validate"
 
 #: nl/default.csv:228
 msgid "VAT Number"
-msgstr "VAT Number"
+msgstr "BTW-nummer"
 
 #: nl/default.csv:229
 msgid "Version %s"
@@ -982,7 +982,7 @@ msgstr "Your browser is too old to view the content of our website.<br />"
 
 #: nl/default.csv:242
 msgid "Your comment"
-msgstr "Your comment"
+msgstr "Uw reactie"
 
 #: nl/default.csv:243
 msgid "Your email address"
@@ -1046,3 +1046,9 @@ msgstr "Voeg een afbeelding toe"
 
 msgid "Create an account"
 msgstr "Maak een account"
+
+msgid "Map"
+msgstr "Kaart"
+
+msgid "Previews"
+msgstr "Voorbeeldweergave"
