@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:00+0000\n"
+"PO-Revision-Date: 2019-01-13 20:01+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -625,11 +625,11 @@ msgstr "Nothing to display"
 
 #: nl/default.csv:150
 msgid "Number"
-msgstr "Number"
+msgstr "Nummer"
 
 #: nl/default.csv:151
 msgid "OK"
-msgstr "OK"
+msgstr "OKÉ"
 
 #: nl/default.csv:152
 msgid "OR"
@@ -637,7 +637,7 @@ msgstr "OF"
 
 #: nl/default.csv:153
 msgid "Ouch, this page doesn't exist"
-msgstr "Ouch, this page doesn't exist"
+msgstr "Oeps... pagina bestaat niet"
 
 #: nl/default.csv:154
 msgid "Password"
@@ -649,7 +649,7 @@ msgstr "Password:"
 
 #: nl/default.csv:156
 msgid "Passwords don't match"
-msgstr "Passwords don't match"
+msgstr "Wachtwoorden komen niet overeen"
 
 #: nl/default.csv:157
 msgid "Phone"
@@ -1156,3 +1156,6 @@ msgstr "WordPress"
 
 msgid "Number of people"
 msgstr "Het aantal personen"
+
+msgid "Newswall"
+msgstr "Nieuwswal"
