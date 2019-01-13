@@ -55,3 +55,6 @@ msgstr ""
 "Je staat op het punt het huidige applicatie sjabloon, kleuren en functies te "
 "vervangen.\n"
 "weet u het zeker ?"
+
+msgid "The subscription '%s' doesn't exists!"
+msgstr "Het abonnement '% s' bestaat niet!"
