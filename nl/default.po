@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:10+0000\n"
+"PO-Revision-Date: 2019-01-13 20:13+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -263,7 +263,7 @@ msgstr "day"
 
 #: nl/default.csv:61
 msgid "days"
-msgstr "days"
+msgstr "dagen"
 
 #: nl/default.csv:62
 msgid "Default Languages"
@@ -365,7 +365,7 @@ msgstr "uur"
 
 #: nl/default.csv:86
 msgid "hours"
-msgstr "hours"
+msgstr "uren"
 
 #: nl/default.csv:87
 msgid "How do you want to access the backoffice if you remove the only user remaining?"
@@ -965,11 +965,11 @@ msgstr "Ja"
 
 #: nl/default.csv:235
 msgid "You can upload a pem certificate only."
-msgstr "You can upload a pem certificate only."
+msgstr "Je kan alleen een PEM certificaat uploaden."
 
 #: nl/default.csv:236
 msgid "You can upload a zip archive only."
-msgstr "You can upload a zip archive only."
+msgstr "Je kan alleen een zip-archief uploaden."
 
 #: nl/default.csv:237
 msgid "You can upload an icon only (.ico and .png)."
@@ -977,19 +977,19 @@ msgstr "You can upload an icon only (.ico and .png)."
 
 #: nl/default.csv:238
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
-msgstr "You can upload an image only (.jpg, .jpeg, .gif and .png)."
+msgstr "Je kan alleen (.jpg .gif en .png) afbeeldingen uploaden."
 
 #: nl/default.csv:239
 msgid "You can't upload more than one file at a time."
-msgstr "You can't upload more than one file at a time."
+msgstr "Je kan niet meer dan één bestand niet tegelijk uploaden."
 
 #: nl/default.csv:240
 msgid "You must be logged in to post a comment"
-msgstr "You must be logged in to post a comment"
+msgstr "Je moet ingelogd zijn om een reactie te plaatsen"
 
 #: nl/default.csv:241
 msgid "Your browser is too old to view the content of our website.<br />"
-msgstr "Your browser is too old to view the content of our website.<br />"
+msgstr "Uw browser is te oud om de inhoud van onze website te bekijken. <br />"
 
 #: nl/default.csv:242
 msgid "Your comment"
@@ -997,11 +997,11 @@ msgstr "Uw reactie"
 
 #: nl/default.csv:243
 msgid "Your email address"
-msgstr "Your email address"
+msgstr "Uw e-mail adres"
 
 #: nl/default.csv:244
 msgid "Your email address does not exist"
-msgstr "Your email address does not exist"
+msgstr "Uw email adres bestaat niet"
 
 #: nl/default.csv:245
 msgid "Your name"
@@ -1009,11 +1009,11 @@ msgstr "Uw naam"
 
 #: nl/default.csv:246
 msgid "Your new password has been sent to the entered email address"
-msgstr "Your new password has been sent to the entered email address"
+msgstr "Uw nieuwe wachtwoord is naar het opgegeven e-mailadres verzonden"
 
 #: nl/default.csv:247
 msgid "Your password does not match the entered password."
-msgstr "Your password does not match the entered password."
+msgstr "Uw wachtwoord komt niet overeen met het ingevoerde wachtwoord."
 
 #: nl/default.csv:248
 msgid "Youtube"
