@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:56+0000\n"
+"PO-Revision-Date: 2019-01-13 14:57+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/media/nl/>"
 "\n"
@@ -214,7 +214,7 @@ msgstr "Geen nummer gevonden"
 
 #: nl/media.csv:50
 msgid "on"
-msgstr "op"
+msgstr "aan"
 
 #: nl/media.csv:51
 msgid "Parameter"
@@ -238,7 +238,7 @@ msgstr "Afbeeldingen%s"
 
 #: nl/media.csv:56
 msgid "play"
-msgstr "play"
+msgstr "speel"
 
 #: nl/media.csv:57
 msgid "PLAYER"
