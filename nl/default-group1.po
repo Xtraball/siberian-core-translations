@@ -121,3 +121,6 @@ msgstr "Verklein/vergroot uw afbeelding:"
 
 msgid "Scan this QR Code:"
 msgstr "Scan deze QR-Code:"
+
+msgid "Signature:"
+msgstr "Handtekening:"
