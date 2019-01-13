@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:25+0000\n"
+"PO-Revision-Date: 2019-01-13 13:28+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -284,7 +284,7 @@ msgstr "Extensie niet toegestaan, '%s' alleen"
 
 #: nl/application.csv:68
 msgid "Features"
-msgstr "Functies"
+msgstr "Kenmerken"
 
 #: nl/application.csv:69
 msgid "Fred W."
@@ -794,3 +794,9 @@ msgid "Export your application to a re-usable template & share it across Apps & 
 msgstr ""
 "Exporteer uw applicatie naar een herbruikbare sjabloon en deel deze via Apps "
 "& Platforms."
+
+msgid "Feature icons"
+msgstr "Toekomstige pictogrammen"
+
+msgid "Features Access Settings"
+msgstr "Functies Toegang tot instellingen"
