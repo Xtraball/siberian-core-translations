@@ -672,3 +672,6 @@ msgstr "Straat"
 
 msgid "An error occurred while proceeding your order:"
 msgstr "Er is een fout opgetreden bij het verwerken van uw bestelling:"
+
+msgid "Format:"
+msgstr "Formaat:"
