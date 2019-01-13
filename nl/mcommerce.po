@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:21+0000\n"
+"PO-Revision-Date: 2019-01-13 20:22+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mcommerce/"
 "nl/>\n"
@@ -690,3 +690,9 @@ msgstr "Opgeslagen winkelwagen gegevens."
 
 msgid "Use:"
 msgstr "Gebruik:"
+
+msgid "Use my points?"
+msgstr "Gebruik mijn punten?"
+
+msgid "You have to choose a delivery method."
+msgstr "Je moet kiezen voor een levering methode."
