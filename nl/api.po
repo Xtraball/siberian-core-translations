@@ -30,3 +30,6 @@ msgstr "Lijst van je gebruikers"
 
 msgid "You don't have any users yet"
 msgstr "U hebt nog geen gebruikers"
+
+msgid "Api Users"
+msgstr "Api-gebruikers"
