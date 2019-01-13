@@ -97,3 +97,6 @@ msgstr "Label:"
 
 msgid "Lastname:"
 msgstr "Achternaam:"
+
+msgid "Message:"
+msgstr "Bericht:"
