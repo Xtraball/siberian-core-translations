@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:27+0000\n"
+"PO-Revision-Date: 2019-01-13 14:00+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -761,7 +761,7 @@ msgstr "second"
 
 #: nl/default.csv:187
 msgid "seconds"
-msgstr "seconds"
+msgstr "seconden"
 
 #: nl/default.csv:188
 msgid "Select a country"
@@ -1024,3 +1024,18 @@ msgstr "Evenementen"
 
 msgid "Features"
 msgstr "Kenmerken"
+
+msgid "Event"
+msgstr "Evenement"
+
+msgid "Monetization"
+msgstr "Ten gelde maken"
+
+msgid "Installer"
+msgstr "installatieprogramma"
+
+msgid "LoyaltyCard"
+msgstr "Loyaliteitskaart"
+
+msgid "Mcommerce"
+msgstr "mCommerce"
