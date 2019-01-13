@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:40+0000\n"
+"PO-Revision-Date: 2019-01-13 15:41+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/preview/nl/"
 ">\n"
@@ -25,4 +25,10 @@ msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Bestands- type:</b> %s<br/>"
 
 msgid "Unable to copy the file."
+msgstr "Kan archief niet openen."
+
+msgid "Delete translation"
+msgstr "Vertaling verwijderen"
+
+msgid "Unable to delete the file."
 msgstr "Kan archief niet openen."
