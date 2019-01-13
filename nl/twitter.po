@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 12:35+0000\n"
+"PO-Revision-Date: 2019-01-13 14:04+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/twitter/nl/"
 ">\n"
@@ -20,3 +20,12 @@ msgstr ""
 
 msgid "Info successfully saved"
 msgstr "Info succesvol opgeslagen"
+
+msgid "Could not authenticate you."
+msgstr "Kon je niet verifiëren."
+
+msgid "Sorry, that page does not exist."
+msgstr "Sorry, die pagina bestaat niet."
+
+msgid "Twitter API token"
+msgstr "Twitter API-token"
