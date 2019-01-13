@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 19:05+0000\n"
+"PO-Revision-Date: 2019-01-13 19:06+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -148,3 +148,6 @@ msgstr "Website:"
 
 msgid "Zip Code:"
 msgstr "Zip Code:"
+
+msgid "An error occured while adding the block."
+msgstr "Er is een fout opgetreden tijdens het toevoegen van het blok."
