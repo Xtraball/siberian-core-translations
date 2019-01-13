@@ -16,7 +16,7 @@ msgstr ""
 
 #: nl/admin.csv:1
 msgid "%s - Your new password"
-msgstr "%s – Uw nieuwe wachtwoord"
+msgstr "%s - Uw nieuwe wachtwoord"
 
 #: nl/admin.csv:2
 msgid "A request to reset your password has been made to log in to your administration panel."
