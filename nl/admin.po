@@ -82,7 +82,7 @@ msgstr "Veel plezier"
 
 #: nl/admin.csv:17
 msgid "Find some advices here:"
-msgstr "Vind uitleg en advies hier bewaar ze goed"
+msgstr "Vind uitleg en advies hier:"
 
 #: nl/admin.csv:18
 msgid "Here are your credentials, keep them preciously:"
