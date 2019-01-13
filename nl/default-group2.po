@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:42+0000\n"
+"PO-Revision-Date: 2019-01-13 14:44+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/nl/>\n"
@@ -85,3 +85,6 @@ msgstr "Rasterweergave"
 
 msgid "Mail logs"
 msgstr "Maillogs"
+
+msgid "Sur quelles plateformes ?"
+msgstr "Op welke platforms?"
