@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:48+0000\n"
+"PO-Revision-Date: 2019-01-13 18:38+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/event/nl/>"
 "\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: nl/event.csv:1
 msgid "An error occurred while deleting the event"
-msgstr "Er is een fout opgetreden tijdens het verwijderen van dit evenement "
+msgstr "Er is een fout opgetreden tijdens het verwijderen van dit evenement"
 
 #: nl/event.csv:2
 msgid "An error occurred while loading this event"
-msgstr "Er is een fout opgetreden tijdens het laden van dit evenement "
+msgstr "Er is een fout opgetreden tijdens het laden van dit evenement"
 
 #: nl/event.csv:3
 msgid "Beginning date:"
@@ -52,11 +52,11 @@ msgstr "Aangepaste pagina"
 
 #: nl/event.csv:10
 msgid "Delete this calendar?"
-msgstr "Verwijder Kalender"
+msgstr "Deze kalender verwijderen?"
 
 #: nl/event.csv:11
 msgid "Delete this event?"
-msgstr "Verwijder evenement"
+msgstr "Dit evenement verwijderen?"
 
 #: nl/event.csv:12
 msgid "Ending date:"
@@ -64,7 +64,7 @@ msgstr "Eind datum:"
 
 #: nl/event.csv:13
 msgid "Enter your calendar's title"
-msgstr "Vul de titel van uw agenda in "
+msgstr "Vul de titel van uw kalender in"
 
 #: nl/event.csv:14
 msgid "Event"
@@ -80,7 +80,7 @@ msgstr "Evenement bewaard"
 
 #: nl/event.csv:17
 msgid "Event title:"
-msgstr "Evenement titel"
+msgstr "Evenement titel:"
 
 #: nl/event.csv:18
 msgid "Illustration"
@@ -120,3 +120,6 @@ msgstr "iCal"
 
 msgid "Address:"
 msgstr "Adres:"
+
+msgid "Ticket Shop URL:"
+msgstr "Ticket Shop-URL:"
