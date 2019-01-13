@@ -88,3 +88,6 @@ msgstr "Medewerker wachtwoord"
 
 msgid "Firstname:"
 msgstr "Voornaam:"
+
+msgid "Free delivery starting from:"
+msgstr "Gratis levering vanaf:"
