@@ -26,6 +26,11 @@ msgstr ""
 
 msgid "You are going to love it!<br />Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
 msgstr ""
-"Je gaat het prachtig vinden!<br>Dankzij onze efficiënte functies zult u in "
+"Je gaat het prachtig vinden!<br/>Dankzij onze efficiënte functies zult u in "
 "staat zijn om geweldige mobiele apps te creëren in uw naam binnen enkele "
 "minuten."
+
+msgid "You have exceeded the number of attempts to validate points.<br />Your card is locked for 24h"
+msgstr ""
+"Overschrijding van het aantal pogingen om te valideren punten.<br />Uw kaart "
+"is geblokkeerd voor 24 uur"
