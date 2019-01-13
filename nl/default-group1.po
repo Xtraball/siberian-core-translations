@@ -55,3 +55,6 @@ msgstr "Album:"
 
 msgid "Booking details:"
 msgstr "Reservering details:"
+
+msgid "City:"
+msgstr "Woonplaats:"
