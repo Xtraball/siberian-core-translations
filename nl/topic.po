@@ -19,3 +19,6 @@ msgstr "Omschrijving"
 
 msgid "Manage Topics"
 msgstr "Onderwerpen beheren"
+
+msgid "Are you sure you want to close without saving?"
+msgstr "Weet u zeker dat u wilt sluiten zonder op te bewaren?"
