@@ -18,3 +18,6 @@ msgstr "Acties"
 
 msgid "Edit"
 msgstr "Bewerk"
+
+msgid "Edit %s role"
+msgstr "Bewerk %s rol"
