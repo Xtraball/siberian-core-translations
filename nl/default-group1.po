@@ -43,3 +43,6 @@ msgstr "Referenties met succes opgeslagen!"
 
 msgid "This subscription does not exists!"
 msgstr "Dit abonnement bestaat niet!"
+
+msgid "Yes, Delete!"
+msgstr "Ja, Verwijderen!"
