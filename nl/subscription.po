@@ -244,3 +244,6 @@ msgstr "Prijs"
 
 msgid "Choose your Payment method"
 msgstr "Kies een betaalmethode"
+
+msgid "Payment Method:"
+msgstr "Betalingsmethode:"
