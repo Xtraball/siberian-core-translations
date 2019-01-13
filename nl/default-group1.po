@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 18:58+0000\n"
+"PO-Revision-Date: 2019-01-13 18:59+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -34,3 +34,6 @@ msgid "You have exceeded the number of attempts to validate points.<br />Your ca
 msgstr ""
 "Overschrijding van het aantal pogingen om te valideren punten.<br />Uw kaart "
 "is geblokkeerd voor 24 uur"
+
+msgid "A new user just registered!"
+msgstr "Een nieuwe gebruiker geregistreerd!"
