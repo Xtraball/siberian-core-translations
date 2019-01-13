@@ -138,7 +138,7 @@ msgstr "leeg"
 
 #: nl/media.csv:31
 msgid "Feed URL"
-msgstr "Url de votre flux"
+msgstr "Feed URL"
 
 #: nl/media.csv:32
 msgid "Feed URL <span class=\"required-entry\">*</span> :"
@@ -337,3 +337,6 @@ msgstr "Er is een fout opgetreden tijdens het laden van de media."
 
 msgid "An error occurred while loading the radio."
 msgstr "Er is een fout opgetreden tijdens het laden van de radio."
+
+msgid "Facebook page ID"
+msgstr "FaceBook pagina ID"
