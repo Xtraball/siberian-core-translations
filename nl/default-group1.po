@@ -76,3 +76,6 @@ msgstr "Levering straal:"
 
 msgid "Delivery time:"
 msgstr "Levertijd:"
+
+msgid "Description:"
+msgstr "Beschrijving:"
