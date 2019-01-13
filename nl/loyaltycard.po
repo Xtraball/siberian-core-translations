@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 15:10+0000\n"
+"PO-Revision-Date: 2019-01-13 15:22+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "loyaltycard/nl/>\n"
@@ -36,7 +36,9 @@ msgstr "1 goedgekeurd punt ="
 
 #: nl/loyaltycard.csv:6
 msgid "An error occurred while saving the password. Please try again later"
-msgstr "Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer het later opnieuw."
+msgstr ""
+"Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer "
+"het later opnieuw"
 
 #: nl/loyaltycard.csv:7
 msgid "An error occurred while saving the password. Please try again later."
@@ -68,7 +70,7 @@ msgstr "Huidige kaart"
 
 #: nl/loyaltycard.csv:14
 msgid "Delete this password?"
-msgstr "Verwijder dit wachtwoord"
+msgstr "Verwijder dit wachtwoord?"
 
 #: nl/loyaltycard.csv:15
 msgid "Employee's name:"
@@ -175,3 +177,9 @@ msgstr "punt"
 
 msgid "Use only once?"
 msgstr "Gebruik slechts één keer?"
+
+msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Verkeerd wachtwoord.<br/>Wees voorzichtig!<br/> %d nog %s resterende "
+"pogingen vóór vergrendeling van uw kaart.<br/>Vraag het winkelpersoneel om "
+"uw punt te valideren"
