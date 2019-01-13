@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 19:04+0000\n"
+"PO-Revision-Date: 2019-01-13 19:05+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/nl/>\n"
@@ -136,3 +136,6 @@ msgstr "Belasting naam:"
 
 msgid "Tax rate:"
 msgstr "Belastingtarief:"
+
+msgid "Title:"
+msgstr "Titel:"
