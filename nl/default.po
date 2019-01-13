@@ -1077,3 +1077,6 @@ msgstr "Betaald op"
 
 msgid "Paid at"
 msgstr "Betaald op"
+
+msgid "Please fill out the following fields"
+msgstr "Vul de volgende velden in"
