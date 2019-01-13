@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:59+0000\n"
+"PO-Revision-Date: 2019-01-13 15:37+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/tip/nl/>\n"
 "Language: nl\n"
@@ -12,3 +12,12 @@ msgstr ""
 
 msgid "Amount of bill"
 msgstr "Bedrag van de rekening"
+
+msgid "Percentage of tip"
+msgstr "Percentage van de fooi"
+
+msgid "This feature allows your users to calculate tips with their app."
+msgstr "Met deze functie kunnen uw gebruikers fooien met hun app berekenen."
+
+msgid "Tip for each:"
+msgstr "Fooi voor ieder:"
