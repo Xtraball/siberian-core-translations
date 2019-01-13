@@ -841,3 +841,6 @@ msgstr "App ontwerp"
 
 msgid "Enable Offline content ?"
 msgstr "Zet Offline content aan?"
+
+msgid "Enable custom SMTP"
+msgstr "Aangepaste SMTP inschakelen"
