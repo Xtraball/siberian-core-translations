@@ -1107,3 +1107,6 @@ msgstr "Vul een geldige URL in."
 
 msgid "Please enter a valid date (ISO)."
 msgstr "Vul een geldige datum in (ISO)."
+
+msgid "Please enter a valid number."
+msgstr "Vul een geldig nummer in."
