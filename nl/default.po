@@ -1065,3 +1065,6 @@ msgstr "Dank voor uw aanvraag.<br />zullen We antwoorden u zo spoedig mogelijk."
 
 msgid "Thank you"
 msgstr "Dankjewel"
+
+msgid "You must be logged in to like something!"
+msgstr "Je moet ingelogd zijn om punten te valideren!"
