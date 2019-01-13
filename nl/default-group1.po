@@ -118,3 +118,6 @@ msgstr "Productnaam:"
 
 msgid "Resize your picture:"
 msgstr "Verklein/vergroot uw afbeelding:"
+
+msgid "Scan this QR Code:"
+msgstr "Scan deze QR-Code:"
