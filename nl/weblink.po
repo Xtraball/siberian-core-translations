@@ -79,3 +79,6 @@ msgstr "Vul je WhooCommerce URL in"
 
 msgid "Prestashop"
 msgstr "Prestashop"
+
+msgid "Use external application"
+msgstr "Gebruik externe applicatie"
