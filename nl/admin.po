@@ -220,3 +220,6 @@ msgstr ""
 
 msgid "The account role is required"
 msgstr "Een account rol is verplicht"
+
+msgid "This admin can manage guided tour from editor"
+msgstr "Deze beheerder kan de rondleiding beheren"
