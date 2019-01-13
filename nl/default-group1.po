@@ -70,3 +70,6 @@ msgstr "Verzendkosten:"
 
 msgid "Delivery methods:"
 msgstr "Levering methoden:"
+
+msgid "Delivery radius:"
+msgstr "Levering straal:"
