@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:15+0000\n"
+"PO-Revision-Date: 2019-01-13 20:36+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -917,7 +917,7 @@ msgstr "Gebruik deze kortingsbon"
 
 #: nl/default.csv:223
 msgid "User"
-msgstr "Gebruiker"
+msgstr "Gebruikers"
 
 #: nl/default.csv:224
 msgid "User successfully saved"
