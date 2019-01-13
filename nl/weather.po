@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:53+0000\n"
+"PO-Revision-Date: 2019-01-13 15:55+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/weather/nl/"
 ">\n"
@@ -12,10 +12,24 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 msgid "Country:"
-msgstr "Land"
+msgstr "Land:"
 
 msgid "Postal code or city"
 msgstr "Postcode of woonplaats"
 
 msgid "Rising:"
 msgstr "Stijgend:"
+
+msgid "Chill:"
+msgstr "Afkoel factor:"
+
+msgid "Click here to view more details on current weather."
+msgstr "Klik hier voor meer informatie over het huidige weer."
+
+msgid "Sorry, but the weather service is not available for the moment. Please try again later."
+msgstr ""
+"Sorry, maar de weerdienst is momenteel niet beschikbaar. Probeer het later "
+"opnieuw."
+
+msgid "Use my location"
+msgstr "Gebruik mijn locatie"
