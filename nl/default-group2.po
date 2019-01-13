@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:34+0000\n"
+"PO-Revision-Date: 2019-01-13 14:38+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/nl/>\n"
@@ -44,3 +44,8 @@ msgstr "Omgeving is"
 
 msgid "Everything seems ok."
 msgstr "Alles lijkt oké."
+
+msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
+msgstr ""
+"De installatie van de module <span id=\"installation_failed_module_name\""
+"></span> is mislukt: <span id=\"installation_failed_because\"> </span>"
