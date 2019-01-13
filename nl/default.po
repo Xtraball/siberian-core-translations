@@ -1068,3 +1068,6 @@ msgstr "Dankjewel"
 
 msgid "You must be logged in to like something!"
 msgstr "Je moet ingelogd zijn om punten te valideren!"
+
+msgid "Alignment"
+msgstr "Uitlijnen"
