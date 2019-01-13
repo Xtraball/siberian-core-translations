@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 14:04+0000\n"
+"PO-Revision-Date: 2019-01-14 10:07+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/twitter/nl/"
 ">\n"
@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 msgid "An error occurred while saving."
-msgstr "Er is een fout opgetreden tijdens het opslaan"
+msgstr "Er is een fout opgetreden tijdens het opslaan."
 
 msgid "An error occurred while saving. Please try again later."
 msgstr ""
@@ -29,3 +29,6 @@ msgstr "Sorry, die pagina bestaat niet."
 
 msgid "Twitter API token"
 msgstr "Twitter API-token"
+
+msgid "was verified with success"
+msgstr "werd met succes geverifieerd"
