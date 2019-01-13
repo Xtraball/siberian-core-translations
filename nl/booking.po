@@ -115,3 +115,6 @@ msgstr "Vul alstublieft de volgende velden in:"
 
 msgid "Please fill out the following fields:<br/>"
 msgstr "Vul alstublieft de volgende velden in:<br>"
+
+msgid "Your name"
+msgstr "Uw naam"
