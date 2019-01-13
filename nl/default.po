@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 20:13+0000\n"
+"PO-Revision-Date: 2019-01-13 20:15+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -357,7 +357,7 @@ msgstr "Hallo"
 
 #: nl/default.csv:84
 msgid "Here is your new password:"
-msgstr "Hier is uw nieuwe wachtwoord"
+msgstr "Hier is uw nieuwe wachtwoord:"
 
 #: nl/default.csv:85
 msgid "hour"
@@ -481,7 +481,7 @@ msgstr "Load more"
 
 #: nl/default.csv:114
 msgid "loading"
-msgstr "loading"
+msgstr "laden"
 
 #: nl/default.csv:115
 msgid "Locate"
@@ -701,7 +701,7 @@ msgstr "Vul de volgende velden in:"
 
 #: nl/default.csv:169
 msgid "Please log in."
-msgstr "Log-in"
+msgstr "Log-in."
 
 #: nl/default.csv:170
 msgid "Please, enter a correct email address."
@@ -749,7 +749,7 @@ msgstr "Verplichte velden"
 
 #: nl/default.csv:181
 msgid "Resize your picture"
-msgstr "Verklein/vergroot uw afbeelding:"
+msgstr "Verklein/vergroot uw afbeelding"
 
 #: nl/default.csv:182
 msgid "Resize your picture:"
@@ -769,7 +769,7 @@ msgstr "Zoeken"
 
 #: nl/default.csv:186
 msgid "second"
-msgstr "second"
+msgstr "seconde"
 
 #: nl/default.csv:187
 msgid "seconds"
@@ -889,11 +889,11 @@ msgstr "Tijd zone"
 
 #: nl/default.csv:216
 msgid "title"
-msgstr "title"
+msgstr "titel"
 
 #: nl/default.csv:217
 msgid "titles"
-msgstr "titles"
+msgstr "titels"
 
 #: nl/default.csv:218
 msgid "Title"
@@ -1025,11 +1025,11 @@ msgstr "en"
 
 #: nl/default.csv:250
 msgid "picture"
-msgstr "picture"
+msgstr "afbeelding"
 
 #: nl/default.csv:251
 msgid "to add a subfolder."
-msgstr "to add a subfolder."
+msgstr "een submap toe voegen."
 
 msgid "Events"
 msgstr "Evenementen"
