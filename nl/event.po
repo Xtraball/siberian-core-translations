@@ -120,3 +120,6 @@ msgstr "iCal"
 
 msgid "Address:"
 msgstr "Adres:"
+
+msgid "Ticket Shop URL:"
+msgstr "Ticket Shop-URL:"
