@@ -19,3 +19,6 @@ msgstr "Titel"
 
 msgid "An error occurred while loading the media."
 msgstr "Er is een fout opgetreden tijdens het laden van de media."
+
+msgid "An error occurred while loading the radio."
+msgstr "Er is een fout opgetreden tijdens het laden van de radio."
