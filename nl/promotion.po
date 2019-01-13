@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 16:07+0000\n"
+"PO-Revision-Date: 2019-01-13 16:09+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/promotion/"
 "nl/>\n"
@@ -16,7 +16,8 @@ msgstr ""
 
 #: nl/promotion.csv:1
 msgid "An error occurred while saving your discount. Please fill in all fields"
-msgstr "Er is een fout opgetreden bij het opslaan van uw coupon. Vul alle velden in."
+msgstr ""
+"Er is een fout opgetreden bij het opslaan van uw coupon. Vul alle velden i"
 
 #: nl/promotion.csv:2
 msgid "Are you sure you want to use this discount?"
@@ -88,3 +89,15 @@ msgstr "Omschrijving"
 
 msgid "or unlimited"
 msgstr "of onbeperkt"
+
+msgid "Do you want to use this coupon?"
+msgstr "Wil je deze kortingsbon gebruiken?"
+
+msgid "Generate QRCode"
+msgstr "Genereer QRCode"
+
+msgid "Is unique?"
+msgstr "Is uniek?"
+
+msgid "Your QRCode"
+msgstr "Uw QRCode"
