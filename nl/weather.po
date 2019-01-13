@@ -13,3 +13,6 @@ msgstr ""
 
 msgid "Country:"
 msgstr "Land"
+
+msgid "Postal code or city"
+msgstr "Postcode of woonplaats"
