@@ -61,3 +61,6 @@ msgstr "Het abonnement '% s' bestaat niet!"
 
 msgid "Yes, delete!"
 msgstr "Ja, Verwijderen!"
+
+msgid "Field name:"
+msgstr "Veldnaam:"
