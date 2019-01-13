@@ -39,3 +39,6 @@ msgstr "Grand gebruiker"
 
 msgid "Rebuild manifest"
 msgstr "Het manifest opnieuw opbouwen"
+
+msgid "Revoke user"
+msgstr "Gebruiker intrekken"
