@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 14:54+0000\n"
+"PO-Revision-Date: 2019-01-13 14:56+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/media/nl/>"
 "\n"
@@ -246,11 +246,11 @@ msgstr "PLAYER"
 
 #: nl/media.csv:58
 msgid "Playlist"
-msgstr "Afspeellijst"
+msgstr "Speellijst"
 
 #: nl/media.csv:59
 msgid "Playlist title:"
-msgstr "Afspeellijst-titel:"
+msgstr "Speellijst-titel:"
 
 #: nl/media.csv:60
 msgid "Playlists"
@@ -258,7 +258,7 @@ msgstr "Afspeellijsten"
 
 #: nl/media.csv:61
 msgid "Playlist successfully saved."
-msgstr "Afspeellijst succesvol opgeslagen."
+msgstr "Speellijst succesvol opgeslagen."
 
 #: nl/media.csv:62
 msgid "Podcast"
@@ -274,7 +274,7 @@ msgstr "vorige"
 
 #: nl/media.csv:65
 msgid "Read all"
-msgstr "Lees alle"
+msgstr "Lees alles"
 
 #: nl/media.csv:66
 msgid "Required field"
@@ -365,3 +365,9 @@ msgstr "Geen straem om af te spelen."
 
 msgid "No valid Facebook API key and secret."
 msgstr "Geen geldige Facebook API-sleutel en geheim gevonden."
+
+msgid "Please specify the page ID"
+msgstr "Geef de pagina-ID op"
+
+msgid "Reload album list?"
+msgstr "Albumlijst opnieuw laden?"
