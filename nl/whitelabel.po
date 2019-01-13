@@ -16,3 +16,6 @@ msgstr "Kop tekst (header)"
 
 msgid "Phone"
 msgstr "Telefoon"
+
+msgid "Country"
+msgstr "Land"
