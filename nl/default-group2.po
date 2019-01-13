@@ -21,3 +21,6 @@ msgstr ""
 
 msgid "Add<br /><span class=\"bold\">Attachment</span>"
 msgstr "Voeg<br /><span class=\"bold\"> Bijlage toe </span>"
+
+msgid "An error occurred while processing the payment."
+msgstr "Er is een fout opgetreden tijdens het verwerken van de betaling."
