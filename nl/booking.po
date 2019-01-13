@@ -109,3 +109,6 @@ msgstr "U heeft een bericht van de boeking van de ontvangen"
 #: nl/booking.csv:24
 msgid "Your phone number or email address"
 msgstr "Uw telefoonnummer of emailadres"
+
+msgid "Please fill out the following fields:"
+msgstr "Vul alstublieft de volgende velden in:"
