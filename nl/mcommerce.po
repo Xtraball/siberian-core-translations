@@ -306,7 +306,7 @@ msgstr "Mijn belastingen"
 
 #: nl/mcommerce.csv:78
 msgid "Name of the options group:"
-msgstr "Naam opties groep"
+msgstr "Naam optiegroep"
 
 #: nl/mcommerce.csv:79
 msgid "New order from the application"
@@ -675,3 +675,6 @@ msgstr "Er is een fout opgetreden bij het verwerken van uw bestelling:"
 
 msgid "Format:"
 msgstr "Formaat:"
+
+msgid "Loading..."
+msgstr "Laden..."
