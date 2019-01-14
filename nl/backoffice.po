@@ -337,3 +337,6 @@ msgid "HTTPS support is in test, you should only try it on your development serv
 msgstr ""
 "HTTPS-ondersteuning is in test, je zou het alleen op je ontwikkelserver "
 "moeten proberen voordat je je voorbereid op verdere migratie."
+
+msgid "Hide"
+msgstr "Verberg"
