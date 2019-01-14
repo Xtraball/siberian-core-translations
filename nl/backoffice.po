@@ -437,3 +437,7 @@ msgstr ""
 
 msgid "Privacy policy URL"
 msgstr "Privacy Beleid URL"
+
+#, fuzzy
+msgid "Private"
+msgstr "Privé"
