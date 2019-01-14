@@ -660,3 +660,8 @@ msgstr ""
 "<b>Disclaimer:</b> u gebruikt het <b>preview-</b> updatekanaal, dit kanaal "
 "is bedoeld voor  <b> tests en voorbeelden </ b> van nieuwe functies, als u "
 "niet zeker weet of u op een <b> stabiel kanaal blijft  </ b>."
+
+msgid "<b>Note for Bug report:</b> give us a maximum of description of how you reached the bug, and possibly screenshots."
+msgstr ""
+"<b>Opmerking voor</b> bugrapport: geef ons een maximum aan beschrijving van "
+"hoe u de bug hebt bereikt en mogelijk schermafbeeldingen."
