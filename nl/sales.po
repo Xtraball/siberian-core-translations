@@ -110,3 +110,6 @@ msgstr "Factuur opties"
 
 msgid "Payment Method"
 msgstr "Betalingsmethode"
+
+msgid "Sales configuration"
+msgstr "Verkoop-configuratie"
