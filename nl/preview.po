@@ -85,3 +85,8 @@ msgstr "Bewerk"
 
 msgid "Language"
 msgstr "Taal"
+
+msgid "An error occurred while deleting your preview. Please try again later."
+msgstr ""
+"Er is een fout opgetreden bij het verwijderen van uw voorbeeld. Probeer het "
+"later opnieuw."
