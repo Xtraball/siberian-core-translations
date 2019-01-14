@@ -58,3 +58,6 @@ msgstr "Cache wissen"
 
 msgid "Clear logs"
 msgstr "Log wissen"
+
+msgid "Create a new user"
+msgstr "Maak een nieuwe gebruiker"
