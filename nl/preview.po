@@ -101,3 +101,6 @@ msgstr "Klik hier om uw afbeelding te uploaden"
 
 msgid "Create a new preview"
 msgstr "Maak een nieuwe voorvertoning"
+
+msgid "Delete image"
+msgstr "Afbeelding wissen"
