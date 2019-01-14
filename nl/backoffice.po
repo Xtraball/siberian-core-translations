@@ -327,3 +327,8 @@ msgstr "HTTPS-host is onbereikbaar."
 
 msgid "HTTPS is not available on your server."
 msgstr "HTTPS is niet beschikbaar op uw server."
+
+msgid "HTTPS support is in <b>Beta</b>, you should test it on your <b>development server</b> first & prepare for further migration."
+msgstr ""
+"HTTPS-ondersteuning bevindt zich in <b>Beta</b> , u moet deze eerst testen "
+"op uw <b>ontwikkelserver</b> en voorbereiden op verdere migratie."
