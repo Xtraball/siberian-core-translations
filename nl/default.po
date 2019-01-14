@@ -1292,3 +1292,6 @@ msgstr "Laden"
 
 msgid "Location"
 msgstr "Locatie"
+
+msgid "No items found"
+msgstr "Geen items gevonden"
