@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 08:09+0000\n"
+"PO-Revision-Date: 2019-01-14 13:45+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/admin/nl/>"
 "\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: nl/admin.csv:1
 msgid "%s - Your new password"
-msgstr "%s - Uw nieuwe wachtwoord"
+msgstr "%s - Je nieuwe wachtwoord"
 
 #: nl/admin.csv:2
 msgid "A request to reset your password has been made to log in to your administration panel."
@@ -173,19 +173,19 @@ msgstr "Je kunt het hoofd account niet verwijderen"
 
 #: nl/admin.csv:39
 msgid "You don't have any users yet"
-msgstr "U hebt nog geen gebruikers"
+msgstr "Je hebt nog geen gebruikers"
 
 #: nl/admin.csv:40
 msgid "Your credentials"
-msgstr "Uw gegevens"
+msgstr "Je gegevens"
 
 #: nl/admin.csv:41
 msgid "Your login:"
-msgstr "Uw inlog:"
+msgstr "Je inlog:"
 
 #: nl/admin.csv:42
 msgid "Your password:"
-msgstr "Uw wachtwoord:"
+msgstr "Je wachtwoord:"
 
 msgid "Role"
 msgstr "Rol"
@@ -232,3 +232,6 @@ msgstr "Deze gebruiker heeft nog geen applicaties."
 
 msgid "Show All Applications"
 msgstr "Toon Alle applicaties"
+
+msgid "Publication access type"
+msgstr "Publicatietoegangstype"
