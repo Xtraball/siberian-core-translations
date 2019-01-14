@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 08:46+0000\n"
+"PO-Revision-Date: 2019-01-14 08:49+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -156,7 +156,7 @@ msgstr "Wijzig uw"
 
 #: nl/application.csv:35
 msgid "Change your template"
-msgstr "Wijzig uw template"
+msgstr "Wijzig uw sjabloon"
 
 #: nl/application.csv:36
 msgid "Change your<br /><span>picture</span>"
@@ -196,11 +196,11 @@ msgstr "Kies uw lettertype stijl"
 
 #: nl/application.csv:45
 msgid "Choose your homepage image"
-msgstr "Kies de afbeelding voor uw homepagina"
+msgstr "Kies afbeelding voor uw homepagina"
 
 #: nl/application.csv:46
 msgid "Choose your icons color"
-msgstr "Kies uw pictogrammen kleur"
+msgstr "Kies uw icoon kleur"
 
 #: nl/application.csv:47
 msgid "Choose your layout"
@@ -208,7 +208,7 @@ msgstr "Kies uw lay-out"
 
 #: nl/application.csv:48
 msgid "Choose your template"
-msgstr "Kies uw template"
+msgstr "Kies uw sjabloon"
 
 #: nl/application.csv:49
 msgid "Click here to download the source code:"
@@ -997,3 +997,6 @@ msgstr "Agenda (kalender)"
 
 msgid "Catalogs"
 msgstr "Catalogus"
+
+msgid "Change your layout"
+msgstr "Wijzig uw lay-out"
