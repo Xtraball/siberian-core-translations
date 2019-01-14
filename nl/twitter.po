@@ -32,3 +32,6 @@ msgstr "Twitter API-token"
 
 msgid "was verified with success"
 msgstr "werd met succes geverifieerd"
+
+msgid "Twitter consumer key"
+msgstr "Twitter consumer key"
