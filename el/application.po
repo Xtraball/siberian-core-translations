@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 15:17+0000\n"
+"PO-Revision-Date: 2019-01-14 16:40+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/"
 "application/el/>\n"
@@ -672,7 +672,9 @@ msgstr "Το καταχωρισμένο Bundle ID είναι λάθος, θα π
 
 #: el/application.csv:165
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
-msgstr "Το καταχωρισμένο Bundle ID είναι λάθος, θα πρέπει να είναι π.χ.: gr.domain.onomaefarmogis"
+msgstr ""
+"Το καταχωρισμένο Bundle ID είναι λάθος, θα πρέπει να είναι π.χ.: "
+"com.siberiancms.app"
 
 #: el/application.csv:166
 msgid "The field is required"
