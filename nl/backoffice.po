@@ -292,3 +292,6 @@ msgstr "Voldoet niet aan de vereisten"
 
 msgid "Enable custom SMTP configuration"
 msgstr "Inschakelen van aangepaste SMTP-configuratie"
+
+msgid "Error, order already paid."
+msgstr "Fout, de bestelling is reeds betaald is."
