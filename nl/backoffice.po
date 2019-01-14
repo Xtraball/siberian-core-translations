@@ -605,3 +605,10 @@ msgstr "VestaCP (alleen php 5.6+)"
 
 msgid "Waiting for %s to reload, this can take a while..."
 msgstr "Wacht tot %s opnieuw is geladen, dit kan even duren ..."
+
+msgid "We recommned using <b>preview</b> on a testing or development server, we won't provide regular ticket support for these update channels, only bug reports via the form below."
+msgstr ""
+"We hebben aanbevolen om een <b>voorbeeld</b> van een test- of "
+"ontwikkelserver te gebruiken, we bieden geen reguliere ticketondersteuning "
+"voor deze updatekanalen, alleen foutenrapporten via het onderstaande "
+"formulier."
