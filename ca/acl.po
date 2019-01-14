@@ -12,3 +12,6 @@ msgstr "Funció"
 
 msgid "This role will be the default one for the whole platform."
 msgstr "Aquesta funció serà la predeterminada per a tota la plataforma."
+
+msgid "Actions"
+msgstr "Accions"
