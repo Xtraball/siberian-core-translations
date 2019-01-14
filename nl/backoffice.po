@@ -363,3 +363,6 @@ msgstr "Integriteitscontrole"
 
 msgid "Issued certificates"
 msgstr "Uitgegeven certificaten"
+
+msgid "Let's Encrypt certificates renewal"
+msgstr "Let's Encrypt certificering vernieuwen"
