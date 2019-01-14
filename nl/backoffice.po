@@ -387,3 +387,6 @@ msgstr "Berichten"
 
 msgid "Minute"
 msgstr "Minuut"
+
+msgid "Missing parameters for generation."
+msgstr "Ontbrekende parameters voor genereren."
