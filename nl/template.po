@@ -16,7 +16,7 @@ msgstr ""
 
 #: nl/template.csv:1
 msgid "TEMPLATES"
-msgstr "Template"
+msgstr "Sjablonen"
 
 msgid "Arts"
 msgstr "Kunst"
@@ -65,3 +65,6 @@ msgstr "Organisaties"
 
 msgid "Real Estate"
 msgstr "Vastgoed"
+
+msgid "Sports"
+msgstr "Sport"
