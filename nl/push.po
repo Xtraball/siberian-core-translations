@@ -151,3 +151,6 @@ msgstr "Aangepaste URL"
 
 msgid "No items."
 msgstr "Geen items."
+
+msgid "Send to all applications"
+msgstr "Verzenden naar alle applicaties"
