@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:33+0000\n"
+"PO-Revision-Date: 2019-01-14 13:44+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -216,7 +216,7 @@ msgstr "Klik hier om de broncode te downloaden:"
 
 #: nl/application.csv:50
 msgid "Click here to send your certificate"
-msgstr "Klik hier om uw certificaat te uploaden"
+msgstr "Klik hier om uw certificaat te versturen"
 
 #: nl/application.csv:51
 msgid "Colors"
@@ -839,6 +839,7 @@ msgstr "Genereer analytics voor bepaalde tijd"
 msgid "Generate builds"
 msgstr "Genereer builds"
 
+#, fuzzy
 msgid "Generate source"
 msgstr "Genereer de bron"
 
