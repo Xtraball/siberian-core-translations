@@ -229,3 +229,6 @@ msgstr "Deze beheerder kan de rondleiding beheren"
 
 msgid "This user has no applications yet."
 msgstr "Deze gebruiker heeft nog geen applicaties."
+
+msgid "Show All Applications"
+msgstr "Toon Alle applicaties"
