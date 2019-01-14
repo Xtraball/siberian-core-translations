@@ -1168,3 +1168,6 @@ msgstr "Tour-editie"
 
 msgid "Admin"
 msgstr "admin (beheerder)"
+
+msgid "Calendar"
+msgstr "Agenda (kalender)"
