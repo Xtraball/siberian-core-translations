@@ -1313,3 +1313,9 @@ msgstr "U moet ten minste één oriëntatie voor de iPhone selecteren!"
 
 msgid "Your CNAME is not properly set"
 msgstr "Je CNAME is niet correct ingesteld"
+
+msgid "Your administrator is using a custom smtp provider, if you don't want to use your own SMTP provider, you are invited to send a whitelist request via the button below"
+msgstr ""
+"Uw beheerder maakt gebruik van een aangepaste smtp-provider. Als u uw eigen "
+"SMTP-provider niet wilt gebruiken, kunt u via de onderstaande knop een "
+"whitelist-aanvraag verzenden"
