@@ -1009,3 +1009,6 @@ msgstr "Maak een nieuwe plaats"
 
 msgid "Custom SMTP"
 msgstr "Aangepaste SMTP"
+
+msgid "Display Border Circle"
+msgstr "Weergave border radius"
