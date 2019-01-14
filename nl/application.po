@@ -658,7 +658,7 @@ msgstr "URL Sleutel"
 
 #: nl/application.csv:159
 msgid "Use into all of your application's pages"
-msgstr "Gebruik in alle pagina's van uw App"
+msgstr "Gebruik in alle pagina's van uw applicatie"
 
 #: nl/application.csv:160
 msgid "Used points"
@@ -885,7 +885,7 @@ msgid "On!"
 msgstr "Aan!"
 
 msgid "User:"
-msgstr "Gebruikers:"
+msgstr "Gebruiker:"
 
 msgid "Monetization"
 msgstr "Ten gelde maken"
@@ -1266,3 +1266,6 @@ msgstr "Upload icoon"
 
 msgid "Use ads for platform owner"
 msgstr "Gebruik advertenties van platform eigenaar"
+
+msgid "Use background into all of your application's pages"
+msgstr "Gebruik de achtergrond in alle pagina's van uw applicatie"
