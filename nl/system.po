@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 20:14+0000\n"
+"PO-Revision-Date: 2019-01-14 20:16+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/system/nl/>"
 "\n"
@@ -56,15 +56,18 @@ msgstr "Verkoop"
 
 #: nl/system.csv:11
 msgid "Sales Email Address"
-msgstr "Verkoop – e-mailadres"
+msgstr "Verkoop e-mailadres"
 
 #: nl/system.csv:12
 msgid "Sender's email address of the emails sent by the site to your clients"
-msgstr "E-mail adres van de  e-mails die door de site word verzonden naar uw klanten"
+msgstr ""
+"Het e-mailadres van de afzender van de e-mails die door de site naar uw "
+"klanten zijn verzonden"
 
 #: nl/system.csv:13
 msgid "Sender's name of the emails sent by the site to your clients"
-msgstr "Naam van de afzender die door de site naar uw klanten word verzonden"
+msgstr ""
+"Naam afzender van de e-mails die door de site naar uw klanten zijn verzonden"
 
 #: nl/system.csv:14
 msgid "Support Email Address"
@@ -229,3 +232,6 @@ msgstr ""
 
 msgid "Number of typed characters:"
 msgstr "Aantal getypte tekens:"
+
+msgid "Privacy Settings"
+msgstr "Privacy-instellingen"
