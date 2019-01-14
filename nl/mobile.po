@@ -254,3 +254,6 @@ msgstr "EXP"
 
 msgid "Error"
 msgstr "Fout"
+
+msgid "First name / Last name"
+msgstr "Voornaam / Achternaam"
