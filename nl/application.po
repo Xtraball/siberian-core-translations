@@ -1208,3 +1208,8 @@ msgstr "Naam afzender / e-mail & Aangepaste SMTP"
 
 msgid "Social Sharing"
 msgstr "Sociaal delen"
+
+msgid "Specifies the reason for your app to access the device's accelerometer."
+msgstr ""
+"Geeft de reden aan voor uw app om toegang te krijgen tot de accelerometer "
+"van het apparaat."
