@@ -1111,3 +1111,6 @@ msgstr "Bericht voor beide vorige gebruiksmogelijkheden."
 
 msgid "My Invoices"
 msgstr "Mijn facturen"
+
+msgid "Name"
+msgstr "Naam"
