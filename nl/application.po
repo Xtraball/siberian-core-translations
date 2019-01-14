@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:29+0000\n"
+"PO-Revision-Date: 2019-01-14 09:31+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -1117,3 +1117,15 @@ msgstr "Naam"
 
 msgid "News"
 msgstr "Nieuws"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No data found"
+msgstr "Geen data gevonden"
+
+msgid "No message sent, there is no available applications."
+msgstr "Geen bericht is verzonden, er is geen beschikbare applicaties."
