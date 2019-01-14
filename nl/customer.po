@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 15:31+0000\n"
+"PO-Revision-Date: 2019-01-14 15:41+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/customer/"
 "nl/>\n"
@@ -160,11 +160,11 @@ msgstr "Deze gebruiker kan toegang krijgen tot de pagina's die vergrendeld zijn 
 
 #: nl/customer.csv:37
 msgid "This user is visible in ranking"
-msgstr "De gebruiker is zichtbaar in de ranking"
+msgstr "De gebruiker is zichtbaar in de ranglijst"
 
 #: nl/customer.csv:38
 msgid "User"
-msgstr "Gebruikers"
+msgstr "Gebruiker"
 
 #: nl/customer.csv:39
 msgid "Users"
@@ -176,7 +176,8 @@ msgstr "Gebruiker Informatie"
 
 #: nl/customer.csv:41
 msgid "We are sorry but the %s account is already linked to one of our customers"
-msgstr "Het spijt ons maar het %s-account is al gekoppeld aan een van onze klanten"
+msgstr ""
+"Het spijt ons maar het %s account is al gekoppeld aan een van onze klanten"
 
 #: nl/customer.csv:42
 msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
