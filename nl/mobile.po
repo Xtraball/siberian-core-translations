@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:51+0000\n"
+"PO-Revision-Date: 2019-01-14 20:52+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -275,3 +275,6 @@ msgstr "Identiteit"
 
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "Ik luister naar $1 van $2 op $3 app."
+
+msgid "I'm listening to $1 on $2 app."
+msgstr "Ik luister naar $1 op $2 app."
