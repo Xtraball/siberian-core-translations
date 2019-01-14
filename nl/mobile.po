@@ -278,3 +278,6 @@ msgstr "Ik luister naar $1 van $2 op $3 app."
 
 msgid "I'm listening to $1 on $2 app."
 msgstr "Ik luister naar $1 op $2 app."
+
+msgid "Info"
+msgstr "Info"
