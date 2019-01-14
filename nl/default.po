@@ -1229,3 +1229,6 @@ msgstr "Bevestiging"
 
 msgid "Monthly"
 msgstr "Maandelijks"
+
+msgid "Yearly"
+msgstr "Jaarlijks"
