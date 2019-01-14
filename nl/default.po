@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:33+0000\n"
+"PO-Revision-Date: 2019-01-14 13:24+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -1177,3 +1177,26 @@ msgstr "Volgende"
 
 msgid "Options"
 msgstr "Opties"
+
+msgid "This application does not exist"
+msgstr "Deze applicatie bestaat niet"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "You don't have any applications yet"
+msgstr "U heeft nog geen applicaties"
+
+msgid "Admin panel type"
+msgstr "Beheerderspaneeltype"
+
+msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr ""
+"Certificaat geldig en SSL bereikbaar is geldig tot en met: %s.<br />Uitgever:"
+" %s%s"
+
+msgid "Hide"
+msgstr "Verberg"
+
+msgid "Hostnames associated with this Certificate"
+msgstr "Hostnamen die aan dit certificaat zijn gekoppeld"
