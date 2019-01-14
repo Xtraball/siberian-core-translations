@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:44+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/preview/nl/"
 ">\n"
@@ -110,3 +110,6 @@ msgstr "Kenmerken"
 
 msgid "OR"
 msgstr "OF"
+
+msgid "Your image has been successfully saved"
+msgstr "Je afbeelding is met succes bewaard"
