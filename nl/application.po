@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:50+0000\n"
+"PO-Revision-Date: 2019-01-14 09:51+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -526,7 +526,7 @@ msgstr ""
 
 #: nl/application.csv:127
 msgid "Send you .pem certificate"
-msgstr "Stuur je .pem certificaat"
+msgstr "Verzend je .pem-certificaat"
 
 #: nl/application.csv:128
 msgid "Show the applications waiting for publication only."
@@ -1196,3 +1196,6 @@ msgstr "Zoek straal"
 
 msgid "Search settings"
 msgstr "Zoek instellingen"
+
+msgid "Send request"
+msgstr "Verzoek versturen"
