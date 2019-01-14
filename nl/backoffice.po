@@ -521,3 +521,6 @@ msgstr "Certificaat succesvol opgeslagen in %s"
 
 msgid "System Diagnostic"
 msgstr "Systeemdiagnostiek"
+
+msgid "System was unable to validate any HTTP Basic Auth call."
+msgstr "Het systeem kon geen HTTP Basic Auth-oproep valideren."
