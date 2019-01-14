@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:58+0000\n"
+"PO-Revision-Date: 2019-01-14 14:02+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "translation/nl/>\n"
@@ -16,3 +16,21 @@ msgstr "Kies alstublieft een bestand."
 
 msgid "Please, choose a language."
 msgstr "Kies alstublieft een taal."
+
+msgid "Edit the language: %s"
+msgstr "Bewerk de taal: %s"
+
+msgid "Translate all"
+msgstr "Vertaal alles"
+
+msgid "Translate missing entries"
+msgstr "Vertaal ontbrekende data"
+
+msgid "Translate the 'e.g.' between parentheses only."
+msgstr "Vertaal de 'bijv.' alleen wat tussen haakjes staat."
+
+msgid "Translation API is not available for the current language."
+msgstr "Vertaal-API is niet beschikbaar voor de huidige taal."
+
+msgid "Your translation"
+msgstr "Uw vertaling"
