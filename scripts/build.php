@@ -2,7 +2,7 @@
 
 chdir(__DIR__ . "/..");
 
-exec("npm version minor");
+exec("npm version patch");
 
 $locales = [
     "ca" => "Catalan",
