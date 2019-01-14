@@ -311,3 +311,6 @@ msgstr "Mevr."
 
 msgid "New Post"
 msgstr "Nieuw bericht"
+
+msgid "Nickname"
+msgstr "Bijnaam"
