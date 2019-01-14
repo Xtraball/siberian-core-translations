@@ -558,3 +558,8 @@ msgstr ""
 "Dit zal herstellen App bronnen 'iOS', 'Android', 'HTML5' & 'Overzicht' uit "
 "de meest recente versie van de iberian, dan is het herstel van het manifest "
 "te herstellen geïnstalleerd modules."
+
+msgid "This message will be displayed as an information message to describe which offline payment method you offer"
+msgstr ""
+"Dit bericht wordt weergegeven als een informatiebericht om te beschrijven "
+"welke offline betalingsmethode u aanbiedt"
