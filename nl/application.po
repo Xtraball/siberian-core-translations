@@ -1072,3 +1072,6 @@ msgstr "Afbeeldingsgrootte"
 
 msgid "Images height"
 msgstr "Afbeeldingshoogte"
+
+msgid "Import an application template or a single feature."
+msgstr "Een applicatiesjabloon of een enkele functie importeren."
