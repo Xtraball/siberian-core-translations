@@ -114,3 +114,6 @@ msgstr "Email"
 
 msgid "Enable White-Label"
 msgstr "Witte label inschakelen"
+
+msgid "Favicon"
+msgstr "Favicon"
