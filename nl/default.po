@@ -1322,3 +1322,6 @@ msgstr "Dit zal de codescan camera openen op uw apparaat."
 
 msgid "Website"
 msgstr "Website"
+
+msgid "Scan now to unlock"
+msgstr "Scan nu om te ontgrendelen"
