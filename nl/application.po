@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 08:39+0000\n"
+"PO-Revision-Date: 2019-01-14 08:43+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -120,7 +120,7 @@ msgstr "Apple's Informatie"
 
 #: nl/application.csv:26
 msgid "Application name"
-msgstr "App naam"
+msgstr "Applicatie naam"
 
 #: nl/application.csv:27
 msgid "Are you sure you want to remove this application?"
@@ -132,7 +132,7 @@ msgstr "Ten minste 200 tekens in de beschrijving"
 
 #: nl/application.csv:29
 msgid "At least, 4 pages in the application"
-msgstr "Ten minste 4 pagina's in de App"
+msgstr "Ten minste 4 pagina's in de Applicatie"
 
 #: nl/application.csv:30
 msgid "Average by customer"
@@ -979,3 +979,6 @@ msgstr "Analyse van opgehaalde gegevens ..."
 
 msgid "Android APK version"
 msgstr "Android APK-versie"
+
+msgid "Application icon"
+msgstr "Applicatie icoon"
