@@ -456,3 +456,6 @@ msgstr "Het opnieuw opbouwen van applicatie-manifestbestanden."
 
 msgid "Regular updates system"
 msgstr "Regelmatig updatesysteem"
+
+msgid "Remove locks now"
+msgstr "Verwijder sloten nu"
