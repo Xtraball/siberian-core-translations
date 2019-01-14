@@ -1370,3 +1370,6 @@ msgstr "iPad-oriëntatie-instellingen"
 
 msgid "Privacy policy URL"
 msgstr "Privacy Beleid URL"
+
+msgid "Display title and subtitle in page"
+msgstr "Toon titel en ondertitel in pagina"
