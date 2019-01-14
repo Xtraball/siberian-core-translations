@@ -64,3 +64,6 @@ msgstr "Maak een nieuwe gebruiker"
 
 msgid "Created At"
 msgstr "Gemaakt op"
+
+msgid "Exists"
+msgstr "Bestaat"
