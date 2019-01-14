@@ -1304,3 +1304,6 @@ msgstr "U moet de applicatie kopen voordat u de mobiele broncode downloadt."
 
 msgid "You must choose an ads type"
 msgstr "U moet een advertentietype kiezen"
+
+msgid "You must select at least one orientation for iPad!"
+msgstr "U moet ten minste één oriëntatie voor de iPad selecteren!"
