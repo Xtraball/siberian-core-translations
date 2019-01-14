@@ -945,3 +945,6 @@ msgstr "Plaats toevoegen"
 
 msgid "Add sections:"
 msgstr "Secties toevoegen:"
+
+msgid "Admin"
+msgstr "admin (beheerder)"
