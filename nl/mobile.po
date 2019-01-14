@@ -232,3 +232,6 @@ msgstr "Kopiëren"
 
 msgid "Create an account"
 msgstr "Maak een account"
+
+msgid "Delivery address"
+msgstr "Bezorgadres"
