@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:45+0000\n"
+"PO-Revision-Date: 2019-01-14 20:46+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -199,3 +199,6 @@ msgstr "Voeg afbeelding toe"
 
 msgid "Add to address book"
 msgstr "Voeg toe aan adressenboek"
+
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Er is een onverwachte fout opgetreden bij het berekenen van de route."
