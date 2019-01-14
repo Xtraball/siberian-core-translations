@@ -220,3 +220,6 @@ msgstr "Annuleer verwijderen"
 
 msgid "Cancel edit"
 msgstr "Bewerken Annuleren"
+
+msgid "Clear"
+msgstr "Wis"
