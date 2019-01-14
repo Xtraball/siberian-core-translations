@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 16:30+0000\n"
+"PO-Revision-Date: 2019-01-14 14:02+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -93,3 +93,6 @@ msgstr "Stap menu achtergrond"
 
 msgid "White-Label name"
 msgstr "White-label naam"
+
+msgid "Titles"
+msgstr "Titels"
