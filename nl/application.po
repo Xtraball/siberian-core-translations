@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:20+0000\n"
+"PO-Revision-Date: 2019-01-14 09:24+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -376,15 +376,15 @@ msgstr "Achternaam:"
 
 #: nl/application.csv:90
 msgid "Library icons"
-msgstr "bibliotheek pictogrammen"
+msgstr "bibliotheek iconen"
 
 #: nl/application.csv:91
 msgid "List of my applications"
-msgstr "Lijst van mijn App's"
+msgstr "Lijst van mijn applicaties"
 
 #: nl/application.csv:92
 msgid "List of your applications"
-msgstr "Lijst van uw App's"
+msgstr "Lijst van uw applicaties"
 
 #: nl/application.csv:93
 msgid "Loading"
@@ -392,11 +392,11 @@ msgstr "Laden"
 
 #: nl/application.csv:94
 msgid "Lock the entire application"
-msgstr "Vergrendel de gehele App"
+msgstr "Vergrendel de gehele applicatie"
 
 #: nl/application.csv:95
 msgid "Love it <3"
-msgstr "Love it ;)"
+msgstr "Love it <3"
 
 #: nl/application.csv:96
 msgid "Main"
@@ -1093,3 +1093,6 @@ msgstr "Invoegen en sluiten"
 
 msgid "Landscape Left"
 msgstr "Liggend Links"
+
+msgid "Landscape Right"
+msgstr "Liggend rechts"
