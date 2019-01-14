@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 15:12+0000\n"
+"PO-Revision-Date: 2019-01-14 15:40+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/catalog/nl/"
 ">\n"
@@ -108,7 +108,7 @@ msgstr "Product"
 
 #: nl/catalog.csv:24
 msgid "Product formats"
-msgstr "Product formaat"
+msgstr "Productformaten"
 
 #: nl/catalog.csv:25
 msgid "Product name"
@@ -128,7 +128,7 @@ msgstr "Menu met succes opgeslagen."
 
 #: nl/catalog.csv:29
 msgid "Sub-category"
-msgstr "sub categorie"
+msgstr "Sub categorie"
 
 #: nl/catalog.csv:30
 msgid "st"
@@ -146,3 +146,6 @@ msgstr "Weet u zeker dat u deze categorie wilt verwijderen?"
 
 msgid "Categories & Products"
 msgstr "Categorieën & Producten"
+
+msgid "Manage Catalog & Products"
+msgstr "Beheer catalogus en producten"
