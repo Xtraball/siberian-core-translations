@@ -1367,3 +1367,6 @@ msgstr "standaard, op aanmaakdatum"
 
 msgid "iPad orientation settings"
 msgstr "iPad-oriëntatie-instellingen"
+
+msgid "Privacy policy URL"
+msgstr "Privacy Beleid URL"
