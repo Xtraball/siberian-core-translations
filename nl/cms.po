@@ -142,3 +142,6 @@ msgstr "Toon afbeelding op pagina"
 
 msgid "Add attachement"
 msgstr "Voeg bijlage toe"
+
+msgid "Display title and subtitle in page"
+msgstr "Toon titel en ondertitel in pagina"
