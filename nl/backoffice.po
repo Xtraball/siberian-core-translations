@@ -512,3 +512,6 @@ msgstr "Dien een bugrapport of verbeteringsverzoek in voor bèta / preview"
 
 msgid "Successfully cleaned-up old certificate."
 msgstr "Oud certificaat goed opgeschoond."
+
+msgid "Successfully installed new certificate."
+msgstr "Met succes geïnstalleerd een nieuw certificaat."
