@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:16+0000\n"
+"PO-Revision-Date: 2019-01-14 10:17+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -702,7 +702,9 @@ msgstr "Je mag geen bibliotheek icoon verwijderen"
 
 #: nl/application.csv:170
 msgid "You must have published your application to access this feature"
-msgstr "U moet uw app gepubliceerd zijn, om deze functie te bekijken"
+msgstr ""
+"U moet uw applicatie hebben gepubliceerd om toegang tot deze functie te "
+"krijgen"
 
 #: nl/application.csv:171
 msgid "Your CNAME is properly set"
@@ -1299,3 +1301,6 @@ msgstr ""
 
 msgid "You have to purchase the application before downloading the mobile source code."
 msgstr "U moet de applicatie kopen voordat u de mobiele broncode downloadt."
+
+msgid "You must choose an ads type"
+msgstr "U moet een advertentietype kiezen"
