@@ -721,3 +721,6 @@ msgstr "Selecteer API-toegang"
 
 msgid "Update"
 msgstr "Update"
+
+msgid "OR"
+msgstr "OF"
