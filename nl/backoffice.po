@@ -691,3 +691,6 @@ msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
 
 msgid "Invoice options"
 msgstr "Factuur opties"
+
+msgid "Sales configuration"
+msgstr "Verkoop-configuratie"
