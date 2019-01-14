@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:55+0000\n"
+"PO-Revision-Date: 2019-01-14 15:06+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/booking/nl/"
 ">\n"
@@ -24,7 +24,7 @@ msgstr "Reserveringdetails:"
 
 #: nl/booking.csv:3
 msgid "Booking subject:"
-msgstr "Boeking betreft:"
+msgstr "Boekingsonderwerp:"
 
 #: nl/booking.csv:4
 msgid "Comment:"
@@ -44,7 +44,7 @@ msgstr "Emailadres:"
 
 #: nl/booking.csv:8
 msgid "Enter the location name and contact email:"
-msgstr "Voer de locatienaam en contact email in:"
+msgstr "Vul de locatienaam en contact email in:"
 
 #: nl/booking.csv:9
 msgid "First name / Last name"
@@ -52,7 +52,7 @@ msgstr "Voornaam / Achternaam"
 
 #: nl/booking.csv:10
 msgid "Here are his personal information:"
-msgstr "Voici ses informations personnelles :"
+msgstr "Hier zijn zijn persoonlijke gegevens:"
 
 #: nl/booking.csv:11
 msgid "Name:"
@@ -118,3 +118,12 @@ msgstr "Vul de volgende velden in:<br/>"
 
 msgid "Your name"
 msgstr "Uw naam"
+
+msgid "Number of people"
+msgstr "Het aantal personen"
+
+msgid "Booking location:"
+msgstr "Boekingslocatie:"
+
+msgid "Information"
+msgstr "informatie"
