@@ -1139,3 +1139,7 @@ msgstr "Optie succesvol opgeslagen"
 
 msgid "Options"
 msgstr "Opties"
+
+#, fuzzy
+msgid "Order places by distance:"
+msgstr "Bestelling plaatsen op afstand:"
