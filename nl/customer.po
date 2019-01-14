@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:56+0000\n"
+"PO-Revision-Date: 2019-01-14 15:31+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/customer/"
 "nl/>\n"
@@ -20,7 +20,7 @@ msgstr "%s - Account gemaakt"
 
 #: nl/customer.csv:2
 msgid "%s - Your new password"
-msgstr "%s - Uw nieuwe wachtwoord"
+msgstr "%s - Je nieuwe wachtwoord"
 
 #: nl/customer.csv:3
 msgid "A request to reset your password has been made."
@@ -44,7 +44,7 @@ msgstr "Gefeliciteerd,"
 
 #: nl/customer.csv:8
 msgid "Create"
-msgstr "Aanmaken"
+msgstr "Maak"
 
 #: nl/customer.csv:9
 msgid "Create a new user"
@@ -64,7 +64,7 @@ msgstr "Klanten"
 
 #: nl/customer.csv:13
 msgid "Disconnect"
-msgstr "Loskoppelen"
+msgstr "Ontkoppelen"
 
 #: nl/customer.csv:14
 msgid "Edit the user %s"
@@ -92,7 +92,7 @@ msgstr "Ik accepteer het <u>privacybeleid</ u>"
 
 #: nl/customer.csv:20
 msgid "If you encounter any problems, do not hesitate to contact us:"
-msgstr "Als u problemen ondervindt, aarzel dan niet om contact opte nemen:"
+msgstr "Als u problemen ondervindt, aarzel dan niet om contact op te nemen:"
 
 #: nl/customer.csv:21
 msgid "Last name"
@@ -120,7 +120,7 @@ msgstr "Mijn account"
 
 #: nl/customer.csv:27
 msgid "My application's users"
-msgstr "Mijn App gebruikers"
+msgstr "Mijn applicatie gebruikers"
 
 #: nl/customer.csv:28
 msgid "Old Password"
@@ -164,7 +164,7 @@ msgstr "De gebruiker is zichtbaar in de ranking"
 
 #: nl/customer.csv:38
 msgid "User"
-msgstr "Gebruiker"
+msgstr "Gebruikers"
 
 #: nl/customer.csv:39
 msgid "Users"
@@ -194,3 +194,9 @@ msgstr "Het spijt ons maar deze bijnaam is al in gebruik"
 
 msgid "No user for now."
 msgstr "Nog geen gebruikers."
+
+msgid "Civility"
+msgstr "Beleefdheid"
+
+msgid "No user match your request."
+msgstr "Geen enkele gebruiker komt overeen met uw verzoek."
