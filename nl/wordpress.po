@@ -138,3 +138,6 @@ msgstr "Auteur"
 
 msgid "Date"
 msgstr "Datum"
+
+msgid "Descending"
+msgstr "Aflopend"
