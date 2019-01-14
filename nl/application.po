@@ -1161,3 +1161,6 @@ msgstr ""
 #, fuzzy
 msgid "Please enter a number for the duration."
 msgstr "Vul een getal voor de duur."
+
+msgid "Please fill iTunes Connect Identifier."
+msgstr "Vul de iTunes Connect Identifier in."
