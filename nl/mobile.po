@@ -202,3 +202,6 @@ msgstr "Voeg toe aan adressenboek"
 
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Er is een onverwachte fout opgetreden bij het berekenen van de route."
+
+msgid "Buffering"
+msgstr "Bufferen"
