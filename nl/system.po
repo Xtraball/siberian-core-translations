@@ -221,3 +221,8 @@ msgstr "Ongeldige licentiesleutel"
 
 msgid "Ios"
 msgstr "Ios"
+
+msgid "None = no sign-up form, validation = admin must validate created account, full = free sign-up"
+msgstr ""
+"Geen = geen aanmeldingsformulier, validatie = admin moet aangemaakt account "
+"valideren, volledig = gratis aanmelden"
