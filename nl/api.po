@@ -70,3 +70,6 @@ msgstr "Bestaat"
 
 msgid "Select API access"
 msgstr "Selecteer API-toegang"
+
+msgid "Update"
+msgstr "Update"
