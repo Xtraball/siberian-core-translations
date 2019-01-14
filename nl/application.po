@@ -1199,3 +1199,6 @@ msgstr "Zoek instellingen"
 
 msgid "Send request"
 msgstr "Verzoek versturen"
+
+msgid "Sender name/e-mail"
+msgstr "E-mail afzender"
