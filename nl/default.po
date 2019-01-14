@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 14:12+0000\n"
+"PO-Revision-Date: 2019-01-14 15:41+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -227,7 +227,7 @@ msgstr "Country:"
 
 #: nl/default.csv:52
 msgid "Create"
-msgstr "Aanmaken"
+msgstr "Maak"
 
 #: nl/default.csv:53
 msgid "Create a new account"
@@ -425,7 +425,7 @@ msgstr "Info succesvol opgeslagen"
 
 #: nl/default.csv:100
 msgid "Information"
-msgstr "Information"
+msgstr "informatie"
 
 #: nl/default.csv:101
 msgid "Infos successfully saved"
@@ -917,7 +917,7 @@ msgstr "Gebruik deze kortingsbon"
 
 #: nl/default.csv:223
 msgid "User"
-msgstr "Gebruikers"
+msgstr "Gebruiker"
 
 #: nl/default.csv:224
 msgid "User successfully saved"
@@ -1155,7 +1155,7 @@ msgid "Wordpress"
 msgstr "WordPress"
 
 msgid "Number of people"
-msgstr "Het aantal personen"
+msgstr "Aantal personen"
 
 msgid "Newswall"
 msgstr "Nieuwswal"
@@ -1214,3 +1214,6 @@ msgstr ""
 
 msgid "Web space"
 msgstr "Webruimte"
+
+msgid "You are about to delete this certificate, Are you sure ?"
+msgstr "U staat op het punt dit certificaat te verwijderen. Weet u het zeker?"
