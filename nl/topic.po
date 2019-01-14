@@ -28,3 +28,7 @@ msgstr "Beschrijving succesvol opgeslagen."
 
 msgid "No topics for now."
 msgstr "Geen onderwerpen voor nu."
+
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr ""
+"Weet u zeker dat u deze categorie en alle subcategorieën wilt verwijderen?"
