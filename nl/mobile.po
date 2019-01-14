@@ -257,3 +257,6 @@ msgstr "Fout"
 
 msgid "First name / Last name"
 msgstr "Voornaam / Achternaam"
+
+msgid "Flag"
+msgstr "Markeer"
