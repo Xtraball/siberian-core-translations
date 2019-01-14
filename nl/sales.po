@@ -96,3 +96,8 @@ msgid "This message will be displayed as an information message to describe whic
 msgstr ""
 "Dit bericht wordt weergegeven als een informatiebericht om te beschrijven "
 "welke offline betalingsmethode u aanbiedt"
+
+msgid "This message will be displayed as a waiting message when your users chose an offline payment method"
+msgstr ""
+"Dit bericht wordt weergegeven als een wachtend bericht wanneer uw gebruikers "
+"een offline betaalmethode hebben gekozen"
