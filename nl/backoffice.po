@@ -381,3 +381,6 @@ msgstr "Logboek (var / log, logbestanden)"
 
 msgid "Mark all as read"
 msgstr "Markeren als gelezen"
+
+msgid "Messages"
+msgstr "Berichten"
