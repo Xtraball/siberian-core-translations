@@ -573,3 +573,6 @@ msgid "This message will be displayed as a waiting message when your users chose
 msgstr ""
 "Dit bericht wordt weergegeven als een wachtend bericht wanneer uw gebruikers "
 "een offline betaalmethode hebben gekozen"
+
+msgid "Total usage:"
+msgstr "Totaal verbruik:"
