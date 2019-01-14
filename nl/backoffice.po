@@ -535,3 +535,6 @@ msgid "The PHP executable guessed path <b>'%s'</b> may be incorrect, please doub
 msgstr ""
 "Het PHP-uitvoerbare geraden pad <b>'%s'</b> is mogelijk onjuist, controleer "
 "dit alstublieft."
+
+msgid "The default setting to run your production server."
+msgstr "De standaardinstelling voor het uitvoeren van uw productieserver."
