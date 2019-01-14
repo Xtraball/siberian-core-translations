@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 08:59+0000\n"
+"PO-Revision-Date: 2019-01-14 09:07+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -795,7 +795,7 @@ msgid "Events"
 msgstr "Evenementen"
 
 msgid "Export App & Selected features."
-msgstr "App & geselecteerde functies exporteren."
+msgstr "Export App & Geselecteerde functies."
 
 msgid "Export your application to a re-usable template & share it across Apps & Platforms."
 msgstr ""
@@ -806,7 +806,7 @@ msgid "Feature icons"
 msgstr "Toekomstige pictogrammen"
 
 msgid "Features Access Settings"
-msgstr "Functies Toegang tot instellingen"
+msgstr "Eigenschappen Toegangs instellingen"
 
 msgid "Fetching data from Facebook and creating your features. It can take a while, be patient!"
 msgstr ""
@@ -829,7 +829,7 @@ msgid "Games"
 msgstr "Spellen"
 
 msgid "Generate analytics for given period"
-msgstr "Genereer analyses voor een bepaalde periode"
+msgstr "Genereer analytics voor bepaalde tijd"
 
 msgid "Generate builds"
 msgstr "Genereer builds"
@@ -853,7 +853,7 @@ msgid "Enable custom SMTP"
 msgstr "Aangepaste SMTP inschakelen"
 
 msgid "Enter your Facebook page"
-msgstr "Vul hier uw Facebook in"
+msgstr "Vul hier uw Facebookpagina in"
 
 msgid "Event"
 msgstr "Evenement"
@@ -1036,3 +1036,6 @@ msgstr "Download app code"
 
 msgid "Download your QRCode"
 msgstr "Download uw QRCode"
+
+msgid "Edit the application %s"
+msgstr "Bewerk de applicatie %s"
