@@ -215,3 +215,6 @@ msgstr "Gratis proefperiode"
 
 msgid "Interstitial"
 msgstr "Interstitiële"
+
+msgid "Invalid license key"
+msgstr "Ongeldige licentiesleutel"
