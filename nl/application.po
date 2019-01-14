@@ -936,3 +936,6 @@ msgstr "Levensstijl"
 
 msgid "2. Insert the following code at the end of the %s tag of your page:"
 msgstr "2. Voeg de volgende code aan het einde van het %s tag van uw pagina:"
+
+msgid "Add an image"
+msgstr "Een afbeelding toevoegen"
