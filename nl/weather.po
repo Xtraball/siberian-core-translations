@@ -48,3 +48,6 @@ msgstr "Atmosfeer"
 
 msgid "Change location"
 msgstr "Verander locatie"
+
+msgid "Direction:"
+msgstr "Richting:"
