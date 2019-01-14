@@ -1357,3 +1357,6 @@ msgid "<b>Push image & Color</b> are dynamic and doesn't require the app to be r
 msgstr ""
 "<b>Afbeelding en kleur pushen</b> zijn dynamisch en vereisen niet dat de app "
 "opnieuw wordt gepubliceerd."
+
+msgid "by distance"
+msgstr "op afstand"
