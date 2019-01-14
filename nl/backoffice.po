@@ -324,3 +324,6 @@ msgstr "HTTP Basic Auth is geldig."
 
 msgid "HTTPS host is unreachable."
 msgstr "HTTPS-host is onbereikbaar."
+
+msgid "HTTPS is not available on your server."
+msgstr "HTTPS is niet beschikbaar op uw server."
