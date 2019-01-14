@@ -204,3 +204,6 @@ msgstr "Geen enkele gebruiker komt overeen met uw verzoek."
 
 msgid "I accept the privacy policy"
 msgstr "Ik ga akkoord met het Privacy Beleid"
+
+msgid "Log-in with Facebook"
+msgstr "Inloggen met Facebook"
