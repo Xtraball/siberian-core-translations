@@ -259,3 +259,6 @@ msgstr ""
 
 msgid "Cleared cron errors."
 msgstr "Cron-fouten gewist."
+
+msgid "Click here to send your CA certificate"
+msgstr "Klik hier om uw CA certificaat te verzenden"
