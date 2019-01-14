@@ -148,3 +148,6 @@ msgstr "Toon titel en ondertitel in pagina"
 
 msgid "Hide navbar"
 msgstr "Verberg navigatiebalk"
+
+msgid "Select a button type:"
+msgstr "Selecteer knop type:"
