@@ -197,3 +197,6 @@ msgstr "Nog geen gebruikers."
 
 msgid "Civility"
 msgstr "Beleefdheid"
+
+msgid "No user match your request."
+msgstr "Geen enkele gebruiker komt overeen met uw verzoek."
