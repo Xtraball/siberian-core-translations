@@ -462,3 +462,6 @@ msgstr "Verwijder sloten nu"
 
 msgid "Removing CRON Scheduler lock files."
 msgstr "Verwijderen van CRON Scheduler lock-bestanden."
+
+msgid "Removing domains: %s"
+msgstr "Verwijderen domeinen: %s"
