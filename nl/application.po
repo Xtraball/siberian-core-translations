@@ -973,3 +973,6 @@ msgid "An error occurred while sorting your slider images. Please try again late
 msgstr ""
 "Er is een fout opgetreden bij het sorteren van uw slider afbeeldingen. "
 "Probeer het later opnieuw."
+
+msgid "Analyzing fetched data..."
+msgstr "Analyse van opgehaalde gegevens ..."
