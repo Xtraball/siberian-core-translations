@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:06+0000\n"
+"PO-Revision-Date: 2019-01-14 10:07+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -554,7 +554,8 @@ msgstr "Winkel Info"
 
 #: nl/application.csv:134
 msgid "To be able to download source codes, please provide the following information:<br />"
-msgstr "Voor het downloaden broncodes, de volgende informatie te verstrekken:<br/>"
+msgstr ""
+"Geef de volgende informatie op om de broncodes te kunnen downloaden: <br />"
 
 #: nl/application.csv:135
 msgid "The application's name cannot start with a number"
@@ -1253,3 +1254,6 @@ msgstr "Deze applicatie is niet meer beschikbaar"
 
 msgid "This key is already used by system features."
 msgstr "Deze sleutel wordt gebruikt door systeemfuncties."
+
+msgid "Titles"
+msgstr "Titels"
