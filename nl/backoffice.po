@@ -715,3 +715,6 @@ msgstr "Gemaakt op"
 
 msgid "Exists"
 msgstr "Bestaat"
+
+msgid "Select API access"
+msgstr "Selecteer API-toegang"
