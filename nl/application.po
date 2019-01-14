@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 08:28+0000\n"
+"PO-Revision-Date: 2019-01-14 08:30+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -56,7 +56,7 @@ msgstr "Er is een fout opgetreden bij het toevoegen van de optie"
 
 #: nl/application.csv:11
 msgid "An error occurred while changing your layout."
-msgstr "Er is een fout opgetreden bij het lay-out veranderen."
+msgstr "Er is een fout opgetreden bij het veranderen van uw lay-out."
 
 #: nl/application.csv:12
 msgid "An error occurred while deleting the option"
