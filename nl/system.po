@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 20:16+0000\n"
+"PO-Revision-Date: 2019-01-14 20:17+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/system/nl/>"
 "\n"
@@ -75,7 +75,7 @@ msgstr "Helpdesk email adres"
 
 #: nl/system.csv:15
 msgid "The folder /images/default is not writable."
-msgstr "De map / images / default is niet beschrijfbaar."
+msgstr "De map / afbeeldingen / standaard is niet schrijfbaar."
 
 #: nl/system.csv:16
 msgid "Your Location"
@@ -143,9 +143,9 @@ msgstr "Aanmeldingsmodus"
 
 msgid "The european <b>General Data Protection Regulation (GDPR)</b> is applicable to your country, you must enable it in the privacy settings below."
 msgstr ""
-"De europese <b>algemene verordening gegevensbescherming (GDPR) </b> is van "
-"toepassing op uw land. U moet dit inschakelen in de onderstaande "
-"privacyinstellingen."
+"De Europese <b>Algemene Verordening Gegevensbescherming (GDPR)</b> is van "
+"toepassing op uw land, u moet dit inschakelen in de privacy-instellingen "
+"hieronder."
 
 msgid "This number will be used to switch between demo mode and real time mode for your analytics on your dashboard"
 msgstr ""
@@ -241,3 +241,6 @@ msgstr "Siberian CMS"
 
 msgid "Sign-up mode for your platform."
 msgstr "Inschrijf modus voor uw platform."
+
+msgid "The Application name"
+msgstr "De applicatie naam"
