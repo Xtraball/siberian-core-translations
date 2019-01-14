@@ -332,3 +332,6 @@ msgstr "Aantekeningen"
 
 msgid "Notification"
 msgstr "Meldingen"
+
+msgid "Offline mode"
+msgstr "Offlinemodus"
