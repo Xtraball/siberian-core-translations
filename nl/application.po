@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:14+0000\n"
+"PO-Revision-Date: 2019-01-14 10:15+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -682,7 +682,7 @@ msgstr "U kunt uw QRCode downloaden door"
 
 #: nl/application.csv:165
 msgid "You don't have any applications yet"
-msgstr "U heeft nog geen App's"
+msgstr "U heeft nog geen applicaties"
 
 #: nl/application.csv:166
 msgid "You have already sent a certificate"
@@ -1292,3 +1292,7 @@ msgstr ""
 "U kunt een licentie toevoegen of wijzigen in ( <strong>Instellingen / "
 "Algemeen</strong> ). <br/> <em>opmerking: builds worden alleen verbruikt als "
 "ze succesvol zijn.</em>"
+
+msgid "You can use <b>%s</b> as variable for your application name."
+msgstr ""
+"U kunt <b>% s gebruiken</b> als variabele voor de naam van uw applicatie."
