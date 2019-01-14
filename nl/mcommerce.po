@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 14:00+0000\n"
+"PO-Revision-Date: 2019-01-14 15:13+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mcommerce/"
 "nl/>\n"
@@ -702,3 +702,9 @@ msgstr "Volgende"
 
 msgid "Options"
 msgstr "Opties"
+
+msgid "Add a format"
+msgstr "Voeg een formaat toe"
+
+msgid "Product formats"
+msgstr "Productformaten"
