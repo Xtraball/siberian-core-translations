@@ -357,3 +357,6 @@ msgstr "Geïnstalleerd"
 
 msgid "Installed icon packs"
 msgstr "Geïnstalleerde, icoon pakketten"
+
+msgid "Integrity check"
+msgstr "Integriteitscontrole"
