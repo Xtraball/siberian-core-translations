@@ -1307,3 +1307,6 @@ msgstr "U moet een advertentietype kiezen"
 
 msgid "You must select at least one orientation for iPad!"
 msgstr "U moet ten minste één oriëntatie voor de iPad selecteren!"
+
+msgid "You must select at least one orientation for iPhone!"
+msgstr "U moet ten minste één oriëntatie voor de iPhone selecteren!"
