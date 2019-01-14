@@ -593,3 +593,6 @@ msgstr "Update kanaal"
 
 msgid "Updated At"
 msgstr "Bijgewerkt Op"
+
+msgid "Upload files or use existing certificates on my server"
+msgstr "Upload bestanden of gebruik bestaande certificaten op mijn server"
