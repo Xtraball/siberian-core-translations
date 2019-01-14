@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:50+0000\n"
+"PO-Revision-Date: 2019-01-14 20:42+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/preview/nl/"
 ">\n"
@@ -82,3 +82,11 @@ msgstr "Uw preview-vertaling is succesvol verwijderd."
 
 msgid "Add"
 msgstr "Bewerk"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "An error occurred while deleting your preview. Please try again later."
+msgstr ""
+"Er is een fout opgetreden bij het verwijderen van uw voorbeeld. Probeer het "
+"later opnieuw."
