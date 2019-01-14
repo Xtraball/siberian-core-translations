@@ -51,3 +51,6 @@ msgstr "Twitter-API-instellingen"
 
 msgid "Twitter consumer secret"
 msgstr "Twitter consument geheim"
+
+msgid "Verify"
+msgstr "Verifiëren"
