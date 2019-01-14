@@ -1200,3 +1200,6 @@ msgstr "Verberg"
 
 msgid "Hostnames associated with this Certificate"
 msgstr "Hostnamen die aan dit certificaat zijn gekoppeld"
+
+msgid "Note: Let's encrypt X1 is a staging certificate."
+msgstr "Opmerking: Laten we coderen X1 is een staging-certificaat."
