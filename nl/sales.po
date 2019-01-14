@@ -88,3 +88,6 @@ msgstr "U heeft nog geen facturen"
 
 msgid "Offline plans"
 msgstr "Offline plan"
+
+msgid "Activate VAT number check with VIES"
+msgstr "Activeren BTW-nummer, controleren met VIES"
