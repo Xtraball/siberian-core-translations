@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 14:01+0000\n"
+"PO-Revision-Date: 2019-01-14 15:44+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/tip/nl/>\n"
 "Language: nl\n"
@@ -23,4 +23,4 @@ msgid "Tip for each:"
 msgstr "Fooi voor ieder:"
 
 msgid "Number of people"
-msgstr "Het aantal personen"
+msgstr "Aantal personen"
