@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 13:53+0000\n"
+"PO-Revision-Date: 2019-01-14 13:54+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/backoffice/"
 "nl/>\n"
@@ -142,6 +142,7 @@ msgstr "Nog niet gegenereerd."
 msgid "Self-managed"
 msgstr "Zelf beheerd"
 
+#, fuzzy
 msgid "Staging"
 msgstr "Regie"
 
@@ -497,3 +498,6 @@ msgid "Something went wrong with the API Sync to %s, retry or check in your pane
 msgstr ""
 "Er is iets misgegaan met de API-synchronisatie naar% s, probeer het opnieuw "
 "of controleer uw paneel als uw SSL-certificaat correct is ingesteld."
+
+msgid "Source Queue status"
+msgstr "Status van bronwachtrij"
