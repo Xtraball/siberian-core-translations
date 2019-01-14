@@ -729,3 +729,6 @@ msgstr "Kortingscode"
 
 msgid "Done"
 msgstr "Klaar"
+
+msgid "Invoicing address"
+msgstr "Factuuradres"
