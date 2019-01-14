@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 10:03+0000\n"
+"PO-Revision-Date: 2019-01-14 10:12+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -172,4 +172,4 @@ msgid "Terms & Conditions"
 msgstr "Voorwaarden & Condities"
 
 msgid "This application is no longer available"
-msgstr "Deze aplicatie is niet meer beschikbaar"
+msgstr "Deze applicatie is niet meer beschikbaar"
