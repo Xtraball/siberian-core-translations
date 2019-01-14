@@ -434,3 +434,6 @@ msgstr "Pad naar uw privécertificaat"
 msgid "Permission, denied from Plesk, please use the admin account."
 msgstr ""
 "Toestemming, geweigerd door Plesk, gebruik alstublieft de beheerdersaccount."
+
+msgid "Privacy policy URL"
+msgstr "Privacy Beleid URL"
