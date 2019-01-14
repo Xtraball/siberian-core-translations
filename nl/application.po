@@ -982,3 +982,6 @@ msgstr "Android APK-versie"
 
 msgid "Application icon"
 msgstr "Applicatie icoon"
+
+msgid "Border shadow"
+msgstr "Rand schaduw"
