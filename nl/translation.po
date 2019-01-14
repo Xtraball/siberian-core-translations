@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 19:55+0000\n"
+"PO-Revision-Date: 2019-01-14 19:56+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "translation/nl/>\n"
@@ -49,3 +49,6 @@ msgstr "Taal succesvol opgeslagen"
 
 msgid "List of your languages"
 msgstr "Lijst met uw talen"
+
+msgid "Select a file"
+msgstr "Selecteer bestand"
