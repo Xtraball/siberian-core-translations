@@ -948,3 +948,6 @@ msgstr "Secties toevoegen:"
 
 msgid "Admin"
 msgstr "admin (beheerder)"
+
+msgid "Admin Account"
+msgstr "Beheerdersaccount"
