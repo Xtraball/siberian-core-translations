@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 19:57+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "translation/nl/>\n"
@@ -58,3 +58,8 @@ msgstr "Een taal selecteren"
 
 msgid "Text translation"
 msgstr "Tekst vertalen"
+
+msgid "Warning: translation API is experimental for the current language and may fail."
+msgstr ""
+"<b>Waarschuwing:</b> vertaling API is experimenteel voor de huidige taal en "
+"kan mislukken."
