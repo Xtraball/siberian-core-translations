@@ -396,3 +396,6 @@ msgstr "Mobiele broncodes en builds"
 
 msgid "No file has been sent"
 msgstr "Er is geen bestand verzonden"
+
+msgid "No layouts"
+msgstr "Geen lay-outs"
