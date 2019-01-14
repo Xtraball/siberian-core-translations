@@ -221,3 +221,6 @@ msgstr "Gemiddelde bronnen / apk-buildtijd:"
 
 msgid "Bearer Token Auth (API)"
 msgstr "Bearer Token Auth (API)"
+
+msgid "Beta"
+msgstr "Beta"
