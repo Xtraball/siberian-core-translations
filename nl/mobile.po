@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:58+0000\n"
+"PO-Revision-Date: 2019-01-14 20:59+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -392,3 +392,6 @@ msgstr "Het adres dat u zoekt bestaat niet."
 
 msgid "This will open the code scan camera on your device."
 msgstr "Dit zal de codescan camera openen op uw apparaat."
+
+msgid "Website"
+msgstr "Website"
