@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:18+0000\n"
+"PO-Revision-Date: 2019-01-14 09:20+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -360,7 +360,7 @@ msgstr "Als je bevestigt, worden uw App kleuren en achtergrond afbeelding vervan
 
 #: nl/application.csv:86
 msgid "Installed application"
-msgstr "Geïnstalleerde toepassing"
+msgstr "Geïnstalleerde applicatie"
 
 #: nl/application.csv:87
 msgid "Key Password"
@@ -1087,3 +1087,6 @@ msgstr ""
 msgid "Input your SCSS here, save to validate & preview"
 msgstr ""
 "Voer hier je SCSS in, bewaar om te valideren en een voorbeeld te bekijken"
+
+msgid "Insert & close"
+msgstr "Invoegen en sluiten"
