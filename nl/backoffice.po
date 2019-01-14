@@ -474,3 +474,6 @@ msgstr "Test uitvoeren"
 
 msgid "Select a panel type or self-managed"
 msgstr "Selecteer een paneeltype of zelfbeheer"
+
+msgid "Self-managed sync is not available for now."
+msgstr "Zelfbeheerde synchronisatie is voorlopig niet beschikbaar."
