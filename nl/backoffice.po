@@ -64,7 +64,7 @@ msgstr "Lijst van de berichten"
 
 #: nl/backoffice.csv:13
 msgid "Login to your backoffice interface"
-msgstr "Log in om naar uw  backoffice-interface te gaan"
+msgstr "Inloggen op uw backoffice-interface"
 
 #: nl/backoffice.csv:14
 msgid "People who are allowed to access the backoffice"
@@ -375,3 +375,6 @@ msgstr "[Let's Encrypt] vernieuwen van het certificaat."
 
 msgid "[Let's Encrypt] will add %s to SAN."
 msgstr "[Let's Encrypt] voegt% s toe aan SAN."
+
+msgid "Log (var/log, log files)"
+msgstr "Logboek (var / log, logbestanden)"
