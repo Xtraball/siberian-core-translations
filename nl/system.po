@@ -185,3 +185,6 @@ msgstr "Logo"
 
 msgid "60000 maximum allowed."
 msgstr "60000 maximaal toegestaan."
+
+msgid "Admob ID"
+msgstr "AdMob ID"
