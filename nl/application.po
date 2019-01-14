@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:04+0000\n"
+"PO-Revision-Date: 2019-01-14 10:06+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -638,14 +638,14 @@ msgstr "Deze applicatie is zichtbaar aan de voorkant"
 
 #: nl/application.csv:155
 msgid "This option enables you to set the currency used in your app"
-msgstr "Met deze optie kunt u de valuta die wordt gebruikt in uw app instellen"
+msgstr "Met deze optie kunt u de valuta instellen die in uw app wordt gebruikt"
 
 #: nl/application.csv:156
 msgid "This page will be displayed to mobile users to enable them to login and manage their account. It is automatically added when you use features which need user login."
 msgstr ""
 "Deze pagina wordt weergegeven aan mobiele gebruikers zodat ze kunnen "
 "inloggen en hun account kunnen beheren. Het wordt automatisch toegevoegd "
-"wanneer u functies gebruikt waarvoor gebruikersaanmelding nodig is."
+"wanneer u functies gebruikt waarvoor gebruikers aanmelding nodig is."
 
 #: nl/application.csv:157
 msgid "URL"
@@ -926,7 +926,7 @@ msgid "Title"
 msgstr "Titel"
 
 msgid "Title case"
-msgstr "titel case"
+msgstr "Titel case"
 
 msgid "Twitter API token"
 msgstr "Twitter API-token"
@@ -1250,3 +1250,6 @@ msgstr "Het bundel-ID"
 
 msgid "This application is no longer available"
 msgstr "Deze applicatie is niet meer beschikbaar"
+
+msgid "This key is already used by system features."
+msgstr "Deze sleutel wordt gebruikt door systeemfuncties."
