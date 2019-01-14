@@ -405,3 +405,6 @@ msgstr "Geen systeemtaken"
 
 msgid "Note: Let's encrypt X1 is a staging certificate."
 msgstr "Opmerking: Let's encrypt X1 is een staging-certificaat."
+
+msgid "Ok, you may consider upgrade to >=5.4"
+msgstr "Oké, Overweeg een upgrade naar> = 5,4"
