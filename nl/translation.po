@@ -52,3 +52,6 @@ msgstr "Lijst met uw talen"
 
 msgid "Select a file"
 msgstr "Selecteer bestand"
+
+msgid "Select a language"
+msgstr "Een taal selecteren"
