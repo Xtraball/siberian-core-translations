@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 14:47+0000\n"
+"PO-Revision-Date: 2019-01-14 16:40+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
 "default-group1/tr/>\n"
@@ -1038,7 +1038,7 @@ msgid "The data has been saved successfully"
 msgstr "Veri başarıyla kaydedildi"
 
 msgid "The entered package name is incorrect, it should be like: com.siberiancms.app"
-msgstr "Girilen paket adı yanlış, şöyle olmalıdır: com.mobilm.uygulama"
+msgstr "Girilen paket adı yanlış, şöyle olmalıdır: com.siberiancms.app"
 
 msgid "The feature you are trying to edit doesn't exists!"
 msgstr "Düzenlemeye çalıştığınız özellik mevcut değil!"
