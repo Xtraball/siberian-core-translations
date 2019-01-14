@@ -320,7 +320,7 @@ msgstr "Hier is onze nieuwste creatie. Wat vind je er van?"
 
 #: nl/application.csv:76
 msgid "Homepage preview"
-msgstr "Homepagina voorvertoning"
+msgstr "Thuispagina voorvertoning"
 
 #: nl/application.csv:77
 msgid "I don't have a Google developer account and I want to create one"
@@ -1039,3 +1039,6 @@ msgstr "Download uw QRCode"
 
 msgid "Edit the application %s"
 msgstr "Bewerk de applicatie %s"
+
+msgid "Hide Android status bar"
+msgstr "Verberg Android status bar"
