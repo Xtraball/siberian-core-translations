@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 13:48+0000\n"
+"PO-Revision-Date: 2019-01-14 08:09+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/admin/nl/>"
 "\n"
@@ -21,8 +21,8 @@ msgstr "%s - Uw nieuwe wachtwoord"
 #: nl/admin.csv:2
 msgid "A request to reset your password has been made to log in to your administration panel."
 msgstr ""
-"Er is verzoek gedaan om uw wachtwoord te resetten voor het platform admin "
-"panel."
+"Er is een verzoek gedaan om uw wachtwoord opnieuw in te stellen bij uw "
+"administratiepaneel."
 
 #: nl/admin.csv:3
 msgid "Admin successfully deleted"
@@ -90,7 +90,7 @@ msgstr "Hier zijn uw inloggegevens, bewaar ze goed:"
 
 #: nl/admin.csv:19
 msgid "List of admin accounts"
-msgstr "Lijst van admin accounts"
+msgstr "Lijst van beheerder accounts"
 
 #: nl/admin.csv:20
 msgid "List of my accounts"
@@ -194,7 +194,7 @@ msgid "Address:"
 msgstr "Adres:"
 
 msgid "Address 2:"
-msgstr "Adres  2:"
+msgstr "Adres 2:"
 
 msgid "Application"
 msgstr "Applicatie"
@@ -203,7 +203,7 @@ msgid "Application have been duplicated successfully."
 msgstr "Applicatie met succes gedupliceerd."
 
 msgid "Are you sure you want to duplicate this application?"
-msgstr "Weet u zeker dat u deze Applicatie  wilt verwijderen?"
+msgstr "Weet u zeker dat u deze applicatie wilt dupliceren?"
 
 msgid "Company:"
 msgstr "Bedrijf:"
