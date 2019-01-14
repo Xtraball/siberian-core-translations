@@ -42,3 +42,6 @@ msgstr "Vul je twitter-handle / url in"
 #, fuzzy
 msgid "Handle"
 msgstr "Handle"
+
+msgid "Twitter API secret"
+msgstr "Twitter API geheim"
