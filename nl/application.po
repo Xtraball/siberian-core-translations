@@ -1188,3 +1188,6 @@ msgstr "Resterende build"
 
 msgid "Return to current feature"
 msgstr "Keer terug naar de huidige functie"
+
+msgid "Search radius"
+msgstr "Zoek straal"
