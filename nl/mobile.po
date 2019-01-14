@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:54+0000\n"
+"PO-Revision-Date: 2019-01-14 20:55+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -323,3 +323,6 @@ msgstr "Geen afbeeldingen gevonden"
 
 msgid "No items found"
 msgstr "Geen items gevonden"
+
+msgid "No results for your request."
+msgstr "Geen resultaten voor uw aanvraag."
