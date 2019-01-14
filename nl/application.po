@@ -1061,3 +1061,8 @@ msgid "If your app is already published, changing the URL key or domain will bre
 msgstr ""
 "Als uw app al is gepubliceerd en je veranderd de URL Key!. Moet je de App "
 "opnieuw publiceren.. Toch veranderen?"
+
+msgid "If your messages do not comply with App Store Review Guidelines, %s, your app might be possibly refused after Apple's review."
+msgstr ""
+"Als uw berichten niet voldoen aan de richtlijnen voor beoordeling van de app "
+"store,% s, kan uw app mogelijk worden geweigerd na de beoordeling van Apple."
