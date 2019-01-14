@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 13:20+0000\n"
+"PO-Revision-Date: 2019-01-14 13:21+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/backoffice/"
 "nl/>\n"
@@ -109,6 +109,7 @@ msgstr "Gebruiker intrekken"
 msgid "Forgot password"
 msgstr "Wachtwoord vergeten"
 
+#, fuzzy
 msgid "Generate source"
 msgstr "Genereer de bron"
 
@@ -310,3 +311,6 @@ msgstr "Forceer re-generatie"
 
 msgid "Full path to use within your webserver."
 msgstr "Volledig pad om te gebruiken binnen uw webserver."
+
+msgid "Generate a certificate via Let's Encrypt."
+msgstr "Genereer een certificaat via Let's Encrypt."
