@@ -450,3 +450,6 @@ msgstr "Publicatietoegangstype"
 
 msgid "Read"
 msgstr "Lezen"
+
+msgid "Rebuilding application manifest files."
+msgstr "Het opnieuw opbouwen van applicatie-manifestbestanden."
