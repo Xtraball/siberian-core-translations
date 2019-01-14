@@ -119,3 +119,6 @@ msgstr "Details"
 
 msgid "Discount"
 msgstr "Korting"
+
+msgid "End at"
+msgstr "Eindigt op"
