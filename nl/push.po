@@ -157,3 +157,7 @@ msgstr "Verzenden naar alle applicaties"
 
 msgid "Send to no specific locations"
 msgstr "Verstuur naar een specifiek gebied"
+
+#, fuzzy
+msgid "Send to specific topics"
+msgstr "Verstuur naar specifieke onderwerpen"
