@@ -1045,3 +1045,6 @@ msgstr "Verberg Android status bar"
 
 msgid "Homepage slider options"
 msgstr "Thuispage slider opties"
+
+msgid "Icon"
+msgstr "Icoon"
