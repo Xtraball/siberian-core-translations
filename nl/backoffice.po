@@ -318,3 +318,6 @@ msgstr "Genereer een certificaat via Let's Encrypt."
 
 msgid "Generating"
 msgstr "Genereren"
+
+msgid "HTTP Basic Auth is valid."
+msgstr "HTTP Basic Auth is geldig."
