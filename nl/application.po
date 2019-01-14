@@ -1333,3 +1333,6 @@ msgid "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgstr ""
 "Uw bundel-ID is ongeldig, het formaat zou moeten lijken op "
 "com.mijndomein.iosid"
+
+msgid "Your customization has been applied to your white label panel."
+msgstr "Uw aanpassing is toegepast op uw white label-paneel."
