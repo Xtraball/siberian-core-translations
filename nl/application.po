@@ -1231,4 +1231,7 @@ msgid "Tags separated by commas"
 msgstr "tags (gescheiden door komma's):"
 
 msgid "Template description"
-msgstr "Template beschrijving"
+msgstr "Sjabloon beschrijving"
+
+msgid "Template preview"
+msgstr "Sjabloonvoorbeeld"
