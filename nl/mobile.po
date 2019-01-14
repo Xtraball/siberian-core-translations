@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 20:09+0000\n"
+"PO-Revision-Date: 2019-01-14 15:29+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -139,7 +139,7 @@ msgid "Date and time"
 msgstr "Datum en tijd"
 
 msgid "Number of people"
-msgstr "Het aantal personen"
+msgstr "Aantal personen"
 
 msgid "Albums"
 msgstr "Album"
@@ -167,3 +167,17 @@ msgstr "Verstuur"
 
 msgid "View"
 msgstr "Bekijk"
+
+msgid "Terms & Conditions"
+msgstr "Voorwaarden & Condities"
+
+msgid "This application is no longer available"
+msgstr "Deze applicatie is niet meer beschikbaar"
+
+msgid "We are sorry but this application has been deactivated and may not be re-activated."
+msgstr ""
+"Het spijt ons maar deze applicatie is uitgeschakeld en kan niet opnieuw "
+"worden geactiveerd."
+
+msgid "Civility"
+msgstr "Beleefdheid"
