@@ -295,3 +295,9 @@ msgstr "Inschakelen van aangepaste SMTP-configuratie"
 
 msgid "Error, order already paid."
 msgstr "Fout, de bestelling is reeds betaald is."
+
+msgid "Errors are displayed on page, outputs are more verbose, this is an option for debug purpose, use with care as it may output some critical informations about your server."
+msgstr ""
+"Fouten worden op de pagina weergegeven, uitgangen zijn meer uitgebreid, dit "
+"is een optie voor het opsporen van fouten, gebruik voorzichtig, omdat het "
+"mogelijk een aantal belangrijke informatie over uw server kan weergeven."
