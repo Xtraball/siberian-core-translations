@@ -703,3 +703,6 @@ msgstr "Autoriseren"
 
 msgid "Backoffice options"
 msgstr "Backoffice opties"
+
+msgid "Clear cache"
+msgstr "Cache wissen"
