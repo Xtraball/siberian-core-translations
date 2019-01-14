@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 15:17+0000\n"
+"PO-Revision-Date: 2019-01-14 15:19+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/cms/nl/>\n"
 "Language: nl\n"
@@ -67,7 +67,7 @@ msgstr "Afbeelding laden:"
 
 #: nl/cms.csv:14
 msgid "Make a search or enter the Youtube Url:"
-msgstr "Maak een zoekopdracht of voeg een Youtube Url in:"
+msgstr "Zoek of vul de YouTube-URL in:"
 
 #: nl/cms.csv:15
 msgid "Medium"
@@ -145,3 +145,6 @@ msgstr "Voeg bijlage toe"
 
 msgid "Display title and subtitle in page"
 msgstr "Toon titel en ondertitel in pagina"
+
+msgid "Hide navbar"
+msgstr "Verberg navigatiebalk"
