@@ -232,3 +232,6 @@ msgid "By clicking on link below, you will open your editor in tour editing mode
 msgstr ""
 "Door te klikken op onderstaande link opent u de editor in tour-modus voor "
 "het bewerken. Let op dat uw account moet worden gemaakt op de editor kant."
+
+msgid "CA certificate"
+msgstr "CA-certificaat"
