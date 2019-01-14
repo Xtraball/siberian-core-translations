@@ -480,3 +480,6 @@ msgstr "Zelfbeheerde synchronisatie is voorlopig niet beschikbaar."
 
 msgid "Send anonymous statistics to improve the apps builder."
 msgstr "Stuur anonieme statistieken om de apps builder te verbeteren."
+
+msgid "Services"
+msgstr "Diensten"
