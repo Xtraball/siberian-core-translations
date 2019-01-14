@@ -527,3 +527,6 @@ msgstr "Het systeem kon geen HTTP Basic Auth-oproep valideren."
 
 msgid "Temp (var/tmp, application sources & apk)"
 msgstr "Temp (var / tmp, toepassingsbronnen en apk)"
+
+msgid "Test SSL/HTTPS"
+msgstr "Test SSL / HTTPS"
