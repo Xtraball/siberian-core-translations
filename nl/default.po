@@ -1211,3 +1211,6 @@ msgid "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check
 msgstr ""
 "Kan geen verbinding maken via HTTPS of het SSL-certificaat valideren. <br /> "
 "Controleer of je niet in `Staging` bent"
+
+msgid "Web space"
+msgstr "Webruimte"
