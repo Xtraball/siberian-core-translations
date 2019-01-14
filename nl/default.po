@@ -1250,3 +1250,6 @@ msgstr "Zoeken ..."
 
 msgid "Thumbnail"
 msgstr "Miniatuur"
+
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Er is een onverwachte fout opgetreden bij het berekenen van de route."
