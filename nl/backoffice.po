@@ -304,3 +304,6 @@ msgstr ""
 
 msgid "File hash is different from manifest."
 msgstr "Bestandshash verschilt van manifest."
+
+msgid "Force re-generation"
+msgstr "Forceer re-generatie"
