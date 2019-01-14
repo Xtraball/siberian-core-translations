@@ -302,3 +302,6 @@ msgstr "Log-in"
 
 msgid "Login error"
 msgstr "Login fout"
+
+msgid "Log-in with Facebook"
+msgstr "Inloggen met Facebook"
