@@ -350,3 +350,6 @@ msgstr "Bestelling details"
 
 msgid "Overview"
 msgstr "Overzicht"
+
+msgid "Password"
+msgstr "Wachtwoord"
