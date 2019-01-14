@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:49+0000\n"
+"PO-Revision-Date: 2019-01-14 20:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -247,3 +247,7 @@ msgstr "Klaar"
 
 msgid "Downloading..."
 msgstr "Downloaden ..."
+
+#, fuzzy
+msgid "EXP"
+msgstr "EXP"
