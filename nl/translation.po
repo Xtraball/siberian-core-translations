@@ -43,3 +43,6 @@ msgstr "Standaardtekst"
 
 msgid "Language"
 msgstr "Taal"
+
+msgid "Language successfully saved"
+msgstr "Taal succesvol opgeslagen"
