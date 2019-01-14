@@ -1226,3 +1226,6 @@ msgstr ""
 
 msgid "Subtitle:"
 msgstr "Ondertitel:"
+
+msgid "Tags separated by commas"
+msgstr "tags (gescheiden door komma's):"
