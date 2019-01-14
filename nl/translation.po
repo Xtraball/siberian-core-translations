@@ -37,3 +37,6 @@ msgstr "Uw vertaling"
 
 msgid "Create a new language"
 msgstr "Maak een nieuwe taal"
+
+msgid "Default text"
+msgstr "Standaardtekst"
