@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 19:54+0000\n"
+"PO-Revision-Date: 2019-01-14 19:55+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "translation/nl/>\n"
@@ -12,10 +12,10 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 msgid "Please, choose a file."
-msgstr "Kies alstublieft een bestand."
+msgstr "Kies een bestand."
 
 msgid "Please, choose a language."
-msgstr "Kies alstublieft een taal."
+msgstr "Kies een taal."
 
 msgid "Edit the language: %s"
 msgstr "Bewerk de taal: %s"
@@ -46,3 +46,6 @@ msgstr "Taal"
 
 msgid "Language successfully saved"
 msgstr "Taal succesvol opgeslagen"
+
+msgid "List of your languages"
+msgstr "Lijst met uw talen"
