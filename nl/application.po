@@ -1126,3 +1126,6 @@ msgstr "Nee"
 
 msgid "No data found"
 msgstr "Geen data gevonden"
+
+msgid "No message sent, there is no available applications."
+msgstr "Geen bericht is verzonden, er is geen beschikbare applicaties."
