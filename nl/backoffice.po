@@ -685,3 +685,6 @@ msgstr "Ontwerp van de redactie"
 
 msgid "Number of typed characters:"
 msgstr "Aantal getypte tekens:"
+
+msgid "Add a custom text to the footer of your invoices"
+msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
