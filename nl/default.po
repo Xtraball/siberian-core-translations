@@ -1262,3 +1262,6 @@ msgstr "Kopiëren"
 
 msgid "Done"
 msgstr "Klaar"
+
+msgid "Downloading..."
+msgstr "Downloaden ..."
