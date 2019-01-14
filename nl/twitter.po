@@ -45,3 +45,6 @@ msgstr "Handle"
 
 msgid "Twitter API secret"
 msgstr "Twitter API geheim"
+
+msgid "Twitter API settings"
+msgstr "Twitter-API-instellingen"
