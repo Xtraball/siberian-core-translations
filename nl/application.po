@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 08:31+0000\n"
+"PO-Revision-Date: 2019-01-14 08:32+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -76,7 +76,9 @@ msgstr "Er is een fout opgetreden tijdens het laden"
 
 #: nl/application.csv:16
 msgid "An error occurred while saving the application. Please try again later."
-msgstr "Er is een fout opgetreden tijdens het opslaan van de App. Probeer het later opnieuw."
+msgstr ""
+"Er is een fout opgetreden tijdens het opslaan van de applicatie. Probeer het "
+"later opnieuw."
 
 #: nl/application.csv:17
 msgid "An error occurred while saving your colors."
@@ -88,7 +90,9 @@ msgstr "Er is een fout opgetreden bij het opslaan van de pagina naam."
 
 #: nl/application.csv:19
 msgid "An error occurred while saving. The selected icon is not valid."
-msgstr "Er is een fout opgetreden tijdens het opslaan. Het geselecteerde pictogram is niet geldig."
+msgstr ""
+"Er is een fout opgetreden tijdens het opslaan. Het geselecteerde pictogram "
+"(icoon) is niet geldig."
 
 #: nl/application.csv:20
 msgid "An error occurred while sorting your pages. Please try again later."
@@ -961,3 +965,6 @@ msgstr "Gereed!"
 msgid "An error occurred while generating. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het genereren. Probeer het later opnieuw."
+
+msgid "An error occurred while hidding the iOS Status Bar"
+msgstr "Er is een fout opgetreden tijdens het verbergen van de iOS Status Bar"
