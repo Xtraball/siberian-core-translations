@@ -299,3 +299,6 @@ msgstr "Locatie"
 
 msgid "Log-in"
 msgstr "Log-in"
+
+msgid "Login error"
+msgstr "Login fout"
