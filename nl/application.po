@@ -1030,3 +1030,6 @@ msgstr "Weergave titels"
 
 msgid "Don't order:"
 msgstr "Niet bestellen:"
+
+msgid "Download last build"
+msgstr "Download app code"
