@@ -1286,3 +1286,6 @@ msgstr "Ik luister naar $1 op $2 app."
 
 msgid "Info"
 msgstr "Info"
+
+msgid "Loading"
+msgstr "Laden"
