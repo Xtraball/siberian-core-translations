@@ -353,3 +353,6 @@ msgstr "Plaats"
 
 msgid "CVC"
 msgstr "CVC"
+
+msgid "Card number"
+msgstr "Kaart Nummer"
