@@ -49,3 +49,6 @@ msgstr "Wachtwoord vergeten"
 
 msgid "Authenticate"
 msgstr "Autoriseren"
+
+msgid "Backoffice options"
+msgstr "Backoffice opties"
