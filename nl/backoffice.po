@@ -465,3 +465,6 @@ msgstr "Verwijderen van CRON Scheduler lock-bestanden."
 
 msgid "Removing domains: %s"
 msgstr "Verwijderen domeinen: %s"
+
+msgid "Request the certificate via Let's Encrypt."
+msgstr "Het certificaat aanvragen via Let's Encrypt."
