@@ -351,3 +351,6 @@ msgid "If you are unable to install or run the cronjob on your hosting/server yo
 msgstr ""
 "Als u de cronjob niet op uw hosting / server kunt installeren of uitvoeren, "
 "kunt u deze uitschakelen."
+
+msgid "Installed"
+msgstr "Geïnstalleerd"
