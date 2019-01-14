@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 13:58+0000\n"
+"PO-Revision-Date: 2019-01-14 15:41+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/contact/nl/"
 ">\n"
@@ -28,7 +28,7 @@ msgstr "En zijn telefoonnummer:"
 
 #: nl/contact.csv:4
 msgid "Are you sure you want to remove the picture?"
-msgstr "Weet u zeker dat u wilt de afbeelding verwijderen?"
+msgstr "Weet u zeker dat u de afbeelding wilt verwijderen?"
 
 #: nl/contact.csv:5
 msgid "City"
@@ -68,7 +68,7 @@ msgstr "Uw email"
 
 #: nl/contact.csv:14
 msgid "Your message has been sent"
-msgstr "Uw bericht is verstuurd"
+msgstr "Je bericht is verzonden"
 
 #: nl/contact.csv:15
 msgid "Your request"
