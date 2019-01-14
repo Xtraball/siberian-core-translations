@@ -104,3 +104,6 @@ msgstr ""
 
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
+
+msgid "Invoice options"
+msgstr "Factuur opties"
