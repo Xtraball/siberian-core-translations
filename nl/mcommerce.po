@@ -723,3 +723,6 @@ msgstr "YYYY"
 
 msgid "Discount"
 msgstr "Korting"
+
+msgid "Discount code"
+msgstr "Kortingscode"
