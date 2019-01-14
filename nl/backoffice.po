@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 20:32+0000\n"
+"PO-Revision-Date: 2019-01-14 21:49+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/backoffice/"
 "nl/>\n"
@@ -97,9 +97,8 @@ msgstr "Uw wachtwoord"
 msgid "Actions"
 msgstr "Acties"
 
-#, fuzzy
 msgid "Grant user"
-msgstr "Grand gebruiker"
+msgstr "Subsidie gebruiker"
 
 msgid "Rebuild manifest"
 msgstr "Het manifest opnieuw opbouwen"
@@ -110,9 +109,8 @@ msgstr "Gebruiker intrekken"
 msgid "Forgot password"
 msgstr "Wachtwoord vergeten"
 
-#, fuzzy
 msgid "Generate source"
-msgstr "Genereer de bron"
+msgstr "Source aanmaken"
 
 msgid "Save"
 msgstr "Bewaar"
@@ -142,7 +140,6 @@ msgstr "Nog niet gegenereerd."
 msgid "Self-managed"
 msgstr "Zelf beheerd"
 
-#, fuzzy
 msgid "Staging"
 msgstr "Regie"
 
@@ -439,7 +436,6 @@ msgstr ""
 msgid "Privacy policy URL"
 msgstr "Privacy Beleid URL"
 
-#, fuzzy
 msgid "Private"
 msgstr "Privé"
 
@@ -718,3 +714,24 @@ msgstr "Bestaat"
 
 msgid "Select API access"
 msgstr "Selecteer API-toegang"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "OR"
+msgstr "OF"
+
+msgid "Clear"
+msgstr "Wis"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Ok"
+msgstr "Oké"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Success"
+msgstr "Succes"
