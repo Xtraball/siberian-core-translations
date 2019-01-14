@@ -55,3 +55,6 @@ msgstr "Backoffice opties"
 
 msgid "Clear cache"
 msgstr "Cache wissen"
+
+msgid "Clear logs"
+msgstr "Log wissen"
