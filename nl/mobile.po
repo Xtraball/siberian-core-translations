@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:44+0000\n"
+"PO-Revision-Date: 2019-01-14 20:45+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -193,3 +193,6 @@ msgstr "Geldig tot"
 
 msgid "Add a comment"
 msgstr "Voeg een reactie toe"
+
+msgid "Add image"
+msgstr "Voeg afbeelding toe"
