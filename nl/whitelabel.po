@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 19:38+0000\n"
+"PO-Revision-Date: 2019-01-14 19:39+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -120,3 +120,6 @@ msgstr "Favicon"
 
 msgid "Full address"
 msgstr "Volledig adres"
+
+msgid "General"
+msgstr "Algemeen"
