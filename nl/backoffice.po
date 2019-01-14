@@ -280,3 +280,6 @@ msgstr "Configuratie succesvol opgeslagen"
 
 msgid "Cron alerts"
 msgstr "Cron waarschuwingen"
+
+msgid "Cron scheduler help"
+msgstr "Cron Scheduler-help"
