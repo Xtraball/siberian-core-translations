@@ -1319,3 +1319,6 @@ msgstr ""
 "Uw beheerder maakt gebruik van een aangepaste smtp-provider. Als u uw eigen "
 "SMTP-provider niet wilt gebruiken, kunt u via de onderstaande knop een "
 "whitelist-aanvraag verzenden"
+
+msgid "Your analytics has been computed."
+msgstr "Uw analyses zijn berekend."
