@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:15+0000\n"
+"PO-Revision-Date: 2019-01-14 10:16+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -694,11 +694,11 @@ msgstr "Je hebt een certificaat verstuurd."
 
 #: nl/application.csv:168
 msgid "You haven't chosen any template yet"
-msgstr "U heeft nog geen template gekozen"
+msgstr "U heeft nog geen sjabloon gekozen"
 
 #: nl/application.csv:169
 msgid "You may not delete a library icon"
-msgstr "Je mag geen bibliotheek pictogram verwijderen"
+msgstr "Je mag geen bibliotheek icoon verwijderen"
 
 #: nl/application.csv:170
 msgid "You must have published your application to access this feature"
@@ -1296,3 +1296,6 @@ msgstr ""
 msgid "You can use <b>%s</b> as variable for your application name."
 msgstr ""
 "U kunt <b>% s gebruiken</b> als variabele voor de naam van uw applicatie."
+
+msgid "You have to purchase the application before downloading the mobile source code."
+msgstr "U moet de applicatie kopen voordat u de mobiele broncode downloadt."
