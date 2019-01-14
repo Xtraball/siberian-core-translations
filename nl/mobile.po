@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 20:57+0000\n"
+"PO-Revision-Date: 2019-01-14 20:58+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
@@ -386,3 +386,6 @@ msgstr "Zie details"
 
 msgid "Success"
 msgstr "Succes"
+
+msgid "The address you're looking for does not exists."
+msgstr "Het adres dat u zoekt bestaat niet."
