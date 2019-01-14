@@ -419,3 +419,8 @@ msgstr ""
 
 msgid "Open the tour editing mode"
 msgstr "Open de tour bewerkingsmodus"
+
+msgid "Otherwise install it manually, from your panel, or directly from your ssh access."
+msgstr ""
+"Installeer het anders handmatig, via uw paneel of rechtstreeks vanuit uw SSH-"
+"toegang."
