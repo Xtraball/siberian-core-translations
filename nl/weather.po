@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-13 15:56+0000\n"
+"PO-Revision-Date: 2019-01-14 14:02+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/weather/nl/"
 ">\n"
@@ -36,3 +36,6 @@ msgstr "Gebruik mijn locatie"
 
 msgid "Sunrise:"
 msgstr "Zonsopkomst:"
+
+msgid "Wind"
+msgstr "Windsnelheid"
