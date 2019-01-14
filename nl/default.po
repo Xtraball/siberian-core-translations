@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 20:21+0000\n"
+"PO-Revision-Date: 2019-01-14 20:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/default/nl/"
 ">\n"
@@ -307,7 +307,7 @@ msgstr "Email:"
 
 #: nl/default.csv:72
 msgid "End at"
-msgstr "End at"
+msgstr "Eindigt op"
 
 #: nl/default.csv:73
 msgid "Error : <br/>"
@@ -1053,7 +1053,7 @@ msgid "Mcommerce"
 msgstr "mCommerce"
 
 msgid "Add image"
-msgstr "Voeg een afbeelding toe"
+msgstr "Voeg afbeelding toe"
 
 msgid "Create an account"
 msgstr "Maak een account"
@@ -1226,3 +1226,48 @@ msgstr "Interstitiële"
 
 msgid "Confirmation"
 msgstr "Bevestiging"
+
+msgid "Monthly"
+msgstr "Maandelijks"
+
+msgid "Yearly"
+msgstr "Jaarlijks"
+
+msgid "Payment Method"
+msgstr "Betalingsmethode"
+
+msgid "Topics"
+msgstr "Onderwerpen"
+
+msgid "Discount"
+msgstr "Korting"
+
+msgid "Manage content"
+msgstr "Inhoud beheren"
+
+msgid "Search ..."
+msgstr "Zoeken ..."
+
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Er is een onverwachte fout opgetreden bij het berekenen van de route."
+
+msgid "Click here to log-in"
+msgstr "Klik hier om in te loggen"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Downloading..."
+msgstr "Downloaden ..."
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "First name / Last name"
+msgstr "Voornaam / Achternaam"
