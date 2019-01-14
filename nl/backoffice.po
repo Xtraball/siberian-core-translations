@@ -697,3 +697,6 @@ msgstr "Verkoop-configuratie"
 
 msgid "VAT check options"
 msgstr "Opties voor btw-controle"
+
+msgid "Authenticate"
+msgstr "Autoriseren"
