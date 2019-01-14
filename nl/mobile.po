@@ -235,3 +235,6 @@ msgstr "Maak een account"
 
 msgid "Delivery address"
 msgstr "Bezorgadres"
+
+msgid "Discount code"
+msgstr "Kortingscode"
