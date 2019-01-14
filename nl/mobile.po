@@ -214,3 +214,6 @@ msgstr "Koop Tickets"
 
 msgid "CVC ***"
 msgstr "CVC ***"
+
+msgid "Cancel delete"
+msgstr "Annuleer verwijderen"
