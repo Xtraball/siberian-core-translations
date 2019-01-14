@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:00+0000\n"
+"PO-Revision-Date: 2019-01-14 10:03+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -578,15 +578,15 @@ msgstr "De applicatie naam"
 
 #: nl/application.csv:140
 msgid "The description"
-msgstr "De beschrijving van de App"
+msgstr "De beschrijving"
 
 #: nl/application.csv:141
 msgid "The description must be at least 200 characters"
-msgstr "De beschrijving van de App moet minstens 200 tekens bevatten"
+msgstr "De beschrijving moet minstens 200 tekens bevatten"
 
 #: nl/application.csv:142
 msgid "The desktop icon"
-msgstr "Bureaublad icoon"
+msgstr "Het bureaublad icoon"
 
 #: nl/application.csv:143
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
@@ -598,7 +598,7 @@ msgstr "Dit veld is verplicht"
 
 #: nl/application.csv:145
 msgid "The file has been successfully uploaded"
-msgstr "Het bestand is geüpload"
+msgstr "Het bestand is met succes geüpload"
 
 #: nl/application.csv:146
 msgid "The following information are needed to download the source codes:<br />"
@@ -618,7 +618,7 @@ msgstr "De sleutel wordt al gebruikt door een andere toepassing."
 
 #: nl/application.csv:150
 msgid "The keywords"
-msgstr "Te trefwoorden"
+msgstr "De trefwoorden"
 
 #: nl/application.csv:151
 msgid "The main category"
@@ -630,7 +630,7 @@ msgstr "Opstart afbeelding"
 
 #: nl/application.csv:153
 msgid "This application does not exist"
-msgstr "Deze App bestaat niet"
+msgstr "Deze applicatie bestaat niet"
 
 #: nl/application.csv:154
 msgid "This application is visible on the front"
@@ -1244,3 +1244,6 @@ msgstr "Voorwaarden & Condities"
 
 msgid "The White-label you are trying to edit doesn't exists."
 msgstr "Het White-label dat u probeert te bewerken, bestaat niet."
+
+msgid "The bundle id"
+msgstr "Het bundel-ID"
