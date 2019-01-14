@@ -236,7 +236,7 @@ msgstr "Deze pagina verwijderen?"
 
 #: nl/application.csv:55
 msgid "Design"
-msgstr "Design"
+msgstr "Ontwerp"
 
 #: nl/application.csv:56
 msgid "Developer Accounts"
@@ -1393,3 +1393,6 @@ msgstr "Taal"
 
 msgid "All"
 msgstr "Alles"
+
+msgid "Choose a template to customize"
+msgstr "Kies een sjabloon om aan te passen"
