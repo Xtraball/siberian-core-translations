@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:03+0000\n"
+"PO-Revision-Date: 2019-01-14 10:04+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -634,7 +634,7 @@ msgstr "Deze applicatie bestaat niet"
 
 #: nl/application.csv:154
 msgid "This application is visible on the front"
-msgstr "Deze App is zichtbaar aan de voorkant"
+msgstr "Deze applicatie is zichtbaar aan de voorkant"
 
 #: nl/application.csv:155
 msgid "This option enables you to set the currency used in your app"
@@ -1247,3 +1247,6 @@ msgstr "Het White-label dat u probeert te bewerken, bestaat niet."
 
 msgid "The bundle id"
 msgstr "Het bundel-ID"
+
+msgid "This application is no longer available"
+msgstr "Deze applicatie is niet meer beschikbaar"
