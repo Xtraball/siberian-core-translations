@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 20:29+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/push/nl/>\n"
 "Language: nl\n"
@@ -158,12 +158,14 @@ msgstr "Verzenden naar alle applicaties"
 msgid "Send to no specific locations"
 msgstr "Verstuur naar een specifiek gebied"
 
-#, fuzzy
 msgid "Send to specific topics"
-msgstr "Verstuur naar specifieke onderwerpen"
+msgstr "Verstuur naar specifieke gebruikers"
 
 msgid "Send to specific users"
 msgstr "Verstuur naar specifieke gebruikers"
 
 msgid "Topics"
 msgstr "Onderwerpen"
+
+msgid "Users"
+msgstr "Gebruikers"
