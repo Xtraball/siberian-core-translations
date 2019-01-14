@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 10:24+0000\n"
+"PO-Revision-Date: 2019-01-14 10:31+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -748,7 +748,7 @@ msgstr "IPhone 6 :"
 
 #: nl/application.csv:181
 msgid "iPhone Version"
-msgstr "Version iPhone"
+msgstr "iPhone versie"
 
 #: nl/application.csv:182
 msgid "icon"
@@ -773,7 +773,7 @@ msgid "Edit"
 msgstr "Bewerk"
 
 msgid "Label"
-msgstr "label"
+msgstr "Label"
 
 msgid "API Keys"
 msgstr "API-sleutels"
@@ -1231,7 +1231,7 @@ msgid "Subtitle:"
 msgstr "Ondertitel:"
 
 msgid "Tags separated by commas"
-msgstr "tags (gescheiden door komma's):"
+msgstr "tags (gescheiden door komma's)"
 
 msgid "Template description"
 msgstr "Sjabloon beschrijving"
@@ -1363,3 +1363,6 @@ msgstr "op afstand"
 
 msgid "default, by creation date"
 msgstr "standaard, op aanmaakdatum"
+
+msgid "iPad orientation settings"
+msgstr "iPad-oriëntatie-instellingen"
