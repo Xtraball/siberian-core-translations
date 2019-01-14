@@ -266,3 +266,6 @@ msgstr "Wachtwoord vergeten?"
 
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr "Hoi. heb ik net gevonden: $1 op $2 app."
+
+msgid "I accept the privacy policy"
+msgstr "Ik ga akkoord met het Privacy Beleid"
