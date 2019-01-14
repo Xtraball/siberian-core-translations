@@ -272,3 +272,6 @@ msgstr "Ik ga akkoord met het Privacy Beleid"
 
 msgid "Identity"
 msgstr "Identiteit"
+
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "Ik luister naar $1 van $2 op $3 app."
