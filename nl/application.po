@@ -1012,3 +1012,6 @@ msgstr "Aangepaste SMTP"
 
 msgid "Display Border Circle"
 msgstr "Weergave border radius"
+
+msgid "Display Borders"
+msgstr "Weergave borders"
