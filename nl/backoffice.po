@@ -177,3 +177,6 @@ msgstr "PEM-test:"
 
 msgid "Show All Applications"
 msgstr "Toon Alle applicaties"
+
+msgid "My Invoices"
+msgstr "Mijn facturen"
