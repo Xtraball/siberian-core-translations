@@ -95,3 +95,6 @@ msgid "An error occurred while saving your previews. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van uw voorbeelden. Probeer "
 "het later opnieuw."
+
+msgid "Click here to send your image"
+msgstr "Klik hier om uw afbeelding te uploaden"
