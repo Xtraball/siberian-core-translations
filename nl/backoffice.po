@@ -343,3 +343,6 @@ msgstr "Verberg"
 
 msgid "Hostnames associated with this Certificate"
 msgstr "Hostnamen die aan dit certificaat zijn gekoppeld"
+
+msgid "Hour"
+msgstr "Uur"
