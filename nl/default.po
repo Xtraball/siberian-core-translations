@@ -1217,3 +1217,6 @@ msgstr "Webruimte"
 
 msgid "You are about to delete this certificate, Are you sure ?"
 msgstr "U staat op het punt dit certificaat te verwijderen. Weet u het zeker?"
+
+msgid "Banner"
+msgstr "Banner"
