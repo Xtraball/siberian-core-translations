@@ -518,3 +518,6 @@ msgstr "Met succes geïnstalleerd een nieuw certificaat."
 
 msgid "Successfully saved Certificate to %s"
 msgstr "Certificaat succesvol opgeslagen in %s"
+
+msgid "System Diagnostic"
+msgstr "Systeemdiagnostiek"
