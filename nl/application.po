@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:59+0000\n"
+"PO-Revision-Date: 2019-01-14 10:00+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -558,7 +558,7 @@ msgstr "Voor het downloaden broncodes, de volgende informatie te verstrekken:<br
 
 #: nl/application.csv:135
 msgid "The application's name cannot start with a number"
-msgstr "De naam van de App kan niet beginnen met een getal"
+msgstr "De naam van de applicatie kan niet beginnen met een getal"
 
 #: nl/application.csv:136
 msgid "The Bundle Id is required"
@@ -574,7 +574,7 @@ msgstr "De App is met succes opgeslagen"
 
 #: nl/application.csv:139
 msgid "The application name"
-msgstr "De naam van de App"
+msgstr "De applicatie naam"
 
 #: nl/application.csv:140
 msgid "The description"
@@ -1241,3 +1241,6 @@ msgstr "Sjabloon naam"
 
 msgid "Terms & Conditions"
 msgstr "Voorwaarden & Condities"
+
+msgid "The White-label you are trying to edit doesn't exists."
+msgstr "Het White-label dat u probeert te bewerken, bestaat niet."
