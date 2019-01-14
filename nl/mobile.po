@@ -173,3 +173,8 @@ msgstr "Voorwaarden & Condities"
 
 msgid "This application is no longer available"
 msgstr "Deze applicatie is niet meer beschikbaar"
+
+msgid "We are sorry but this application has been deactivated and may not be re-activated."
+msgstr ""
+"Het spijt ons maar deze applicatie is uitgeschakeld en kan niet opnieuw "
+"worden geactiveerd."
