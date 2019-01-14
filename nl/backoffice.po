@@ -733,3 +733,6 @@ msgstr "Info"
 
 msgid "Ok"
 msgstr "Oké"
+
+msgid "Password"
+msgstr "Wachtwoord"
