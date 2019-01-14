@@ -1066,3 +1066,6 @@ msgid "If your messages do not comply with App Store Review Guidelines, %s, your
 msgstr ""
 "Als uw berichten niet voldoen aan de richtlijnen voor beoordeling van de app "
 "store,% s, kan uw app mogelijk worden geweigerd na de beoordeling van Apple."
+
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
