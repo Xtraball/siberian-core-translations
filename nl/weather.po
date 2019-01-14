@@ -60,3 +60,6 @@ msgstr "Luchtvochtigheid:"
 
 msgid "Mon"
 msgstr "Maa"
+
+msgid "Pressure:"
+msgstr "Druk:"
