@@ -189,3 +189,6 @@ msgstr "Nee"
 
 msgid "Activate VAT number check with VIES"
 msgstr "Activeren BTW-nummer, controleren met VIES"
+
+msgid "Admin panel type"
+msgstr "Beheerderspaneeltype"
