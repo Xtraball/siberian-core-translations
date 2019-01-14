@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:15+0000\n"
-"PO-Revision-Date: 2019-01-13 13:15+0000\n"
+"PO-Revision-Date: 2019-01-14 13:57+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/acl/nl/>\n"
 "Language: nl\n"
@@ -26,7 +26,7 @@ msgid "Id"
 msgstr "id"
 
 msgid "Label"
-msgstr "label"
+msgstr "Label"
 
 msgid "List of your roles"
 msgstr "lijst van je rollen"
@@ -44,18 +44,21 @@ msgid "You don't have any role yet"
 msgstr "Je hebt nog geen rol"
 
 msgid "Your role has been successfully deleted"
-msgstr "Uw rol is met succes verwijderd"
+msgstr "Uw gegevens zijn succesvol verwijderd"
 
 msgid "Your role has been successfully saved"
 msgstr "Uw rol is met succes bewaard"
 
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
-"Er is een fout opgetreden bij het verwijderen van uw rol. Probeer het later "
-"opnieuw."
+"Er is een fout opgetreden tijdens het verwijderen van uw gegevens. Probeer "
+"het later opnieuw."
 
 msgid "Code"
 msgstr "Code"
 
 msgid "Create a new role"
 msgstr "Maak een nieuwe rol"
+
+msgid "Delete"
+msgstr "Verwijder"

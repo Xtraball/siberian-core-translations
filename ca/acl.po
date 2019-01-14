@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-14 13:57+0000\n"
+"PO-Revision-Date: 2019-01-14 13:57+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/acl/ca/>"
+"\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
 msgid "Create a new role"
 msgstr "Crear un nou camp"
 
@@ -12,3 +28,6 @@ msgstr "Funció"
 
 msgid "This role will be the default one for the whole platform."
 msgstr "Aquesta funció serà la predeterminada per a tota la plataforma."
+
+msgid "Actions"
+msgstr "Accions"
