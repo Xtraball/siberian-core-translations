@@ -541,3 +541,6 @@ msgstr "De standaardinstelling voor het uitvoeren van uw productieserver."
 
 msgid "The domain %s doesn't belong to you, or is not configured on your server."
 msgstr "Het domein % s hoort niet bij u of is niet geconfigureerd op uw server."
+
+msgid "The given CA certificate doesn't match the hostname."
+msgstr "Het gegeven CA-certificaat komt niet overeen met de hostnaam."
