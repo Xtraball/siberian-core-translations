@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 13:21+0000\n"
+"PO-Revision-Date: 2019-01-14 13:22+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/backoffice/"
 "nl/>\n"
@@ -97,6 +97,7 @@ msgstr "Uw wachtwoord"
 msgid "Actions"
 msgstr "Acties"
 
+#, fuzzy
 msgid "Grant user"
 msgstr "Grand gebruiker"
 
@@ -314,3 +315,6 @@ msgstr "Volledig pad om te gebruiken binnen uw webserver."
 
 msgid "Generate a certificate via Let's Encrypt."
 msgstr "Genereer een certificaat via Let's Encrypt."
+
+msgid "Generating"
+msgstr "Genereren"
