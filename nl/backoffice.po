@@ -709,3 +709,6 @@ msgstr "Cache wissen"
 
 msgid "Clear logs"
 msgstr "Log wissen"
+
+msgid "Created At"
+msgstr "Gemaakt op"
