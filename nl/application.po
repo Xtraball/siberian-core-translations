@@ -1378,3 +1378,6 @@ msgstr "Toon titel en ondertitel in pagina"
 
 msgid "E-mail"
 msgstr "Email"
+
+msgid "Twitter API secret"
+msgstr "Twitter API geheim"
