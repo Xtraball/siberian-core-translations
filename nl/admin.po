@@ -232,3 +232,6 @@ msgstr "Deze gebruiker heeft nog geen applicaties."
 
 msgid "Show All Applications"
 msgstr "Toon Alle applicaties"
+
+msgid "Publication access type"
+msgstr "Publicatietoegangstype"
