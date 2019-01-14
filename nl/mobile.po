@@ -217,3 +217,6 @@ msgstr "CVC ***"
 
 msgid "Cancel delete"
 msgstr "Annuleer verwijderen"
+
+msgid "Cancel edit"
+msgstr "Bewerken Annuleren"
