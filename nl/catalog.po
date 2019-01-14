@@ -140,3 +140,6 @@ msgstr "sub categorie"
 
 msgid "Prices"
 msgstr "Prijzen"
+
+msgid "Are you sure you want to delete this category?"
+msgstr "Weet u zeker dat u deze categorie wilt verwijderen?"
