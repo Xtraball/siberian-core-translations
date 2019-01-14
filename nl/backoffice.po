@@ -268,3 +268,6 @@ msgstr "Klik hier om uw privé certificaat te verzenden"
 
 msgid "Click here to send your certificate"
 msgstr "Klik hier om uw certificaat te versturen"
+
+msgid "Closed"
+msgstr "Gesloten"
