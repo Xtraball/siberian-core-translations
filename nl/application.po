@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 09:48+0000\n"
+"PO-Revision-Date: 2019-01-14 09:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
@@ -520,7 +520,9 @@ msgstr "Secundaire categorie <br/> (optioneel)"
 
 #: nl/application.csv:126
 msgid "Send here your iOS certificate to enable the push notifications for this application."
-msgstr "Plaats hier uw iOS-certificaat, om de push-notificaties voor deze App in te schakelen."
+msgstr ""
+"Plaats hier uw iOS-certificaat, om de pushmeldingen voor deze App in te "
+"schakelen."
 
 #: nl/application.csv:127
 msgid "Send you .pem certificate"
@@ -1191,3 +1193,6 @@ msgstr "Keer terug naar de huidige functie"
 
 msgid "Search radius"
 msgstr "Zoek straal"
+
+msgid "Search settings"
+msgstr "Zoek instellingen"
