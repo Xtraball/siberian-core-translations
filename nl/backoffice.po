@@ -447,3 +447,6 @@ msgstr "Privé certificaat"
 
 msgid "Publication access type"
 msgstr "Publicatietoegangstype"
+
+msgid "Read"
+msgstr "Lezen"
