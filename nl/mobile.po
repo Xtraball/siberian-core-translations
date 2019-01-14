@@ -389,3 +389,6 @@ msgstr "Succes"
 
 msgid "The address you're looking for does not exists."
 msgstr "Het adres dat u zoekt bestaat niet."
+
+msgid "This will open the code scan camera on your device."
+msgstr "Dit zal de codescan camera openen op uw apparaat."
