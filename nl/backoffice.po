@@ -489,3 +489,6 @@ msgstr "Toon meer"
 
 msgid "Siberian - Backoffice"
 msgstr "Siberië - Backoffice"
+
+msgid "[Siberian_Cpanel] Unable to update cPanel SSL Certificate for %s"
+msgstr "[Siberian_Cpanel] Kan cPanel SSL-certificaat niet bijwerken voor% s"
