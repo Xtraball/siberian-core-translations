@@ -38,3 +38,7 @@ msgstr "Twitter-consumentssleutel"
 
 msgid "Enter your twitter handle/url"
 msgstr "Vul je twitter-handle / url in"
+
+#, fuzzy
+msgid "Handle"
+msgstr "Handle"
