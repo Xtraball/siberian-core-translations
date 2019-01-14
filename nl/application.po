@@ -1096,3 +1096,6 @@ msgstr "Liggend Links"
 
 msgid "Landscape Right"
 msgstr "Liggend rechts"
+
+msgid "Manage Admins access feature by feature."
+msgstr "Beheer Beheerders toegang functie per functie."
