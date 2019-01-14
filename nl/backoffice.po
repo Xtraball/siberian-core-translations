@@ -246,3 +246,8 @@ msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: 
 msgstr ""
 "Certificaat geldig en SSL bereikbaar is geldig tot en met: %s.<br />Uitgever:"
 " %s%s"
+
+msgid "Certificate successfully generated. Please wait while %s is reloading configuration ..."
+msgstr ""
+"Certificaat met succes aangemaakt. Gelieve even te wachten terwijl %s is aan "
+"het herladen van de configuratie ..."
