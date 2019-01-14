@@ -1133,3 +1133,6 @@ msgstr "Geen bericht is verzonden, er is geen beschikbare applicaties."
 #, fuzzy
 msgid "Offset"
 msgstr "compenseren"
+
+msgid "Option successfully saved"
+msgstr "Optie succesvol opgeslagen"
