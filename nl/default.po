@@ -1189,3 +1189,8 @@ msgstr "U heeft nog geen applicaties"
 
 msgid "Admin panel type"
 msgstr "Beheerderspaneeltype"
+
+msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr ""
+"Certificaat geldig en SSL bereikbaar is geldig tot en met: %s.<br />Uitgever:"
+" %s%s"
