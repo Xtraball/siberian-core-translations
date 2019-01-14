@@ -1341,3 +1341,9 @@ msgid "Your package name is invalid, format should looks like com.mydomain.andro
 msgstr ""
 "Uw pakketnaam is ongeldig, het formaat zou moeten lijken op "
 "com.mijndomein.androidid"
+
+msgid "<b>Around you</b> option for the Overview & HTML5 will be displayed & work only when using HTTPS, however it works in Android & iOS apps without HTTPS."
+msgstr ""
+"<b>Om je heen wordt de</b> optie voor het overzicht en HTML5 weergegeven en "
+"werkt alleen als je HTTPS gebruikt, maar het werkt in Android- en iOS-apps "
+"zonder HTTPS."
