@@ -1384,3 +1384,6 @@ msgstr "Twitter API geheim"
 
 msgid "Twitter API settings"
 msgstr "Twitter-API-instellingen"
+
+msgid "Twitter consumer secret"
+msgstr "Twitter consument geheim"
