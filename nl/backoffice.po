@@ -547,3 +547,7 @@ msgstr "Het gegeven CA-certificaat komt niet overeen met de hostnaam."
 
 msgid "The given certificate doesn't match the hostname."
 msgstr "Het opgegeven certificaat komt niet overeen met de hostnaam."
+
+msgid "The given certificate doesn't match the hostname or wiSibldcard."
+msgstr ""
+"Het opgegeven certificaat komt niet overeen met de hostnaam of wiSibldcard."
