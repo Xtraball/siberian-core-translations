@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 18:16+0000\n"
+"PO-Revision-Date: 2019-01-14 10:33+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/cms/nl/>\n"
 "Language: nl\n"
@@ -23,7 +23,7 @@ msgstr "Toevoegen "
 
 #: nl/cms.csv:3
 msgid "Add sections:"
-msgstr "Secties toe te voegen:"
+msgstr "Secties toevoegen:"
 
 #: nl/cms.csv:4
 msgid "Address:"
@@ -51,7 +51,7 @@ msgstr "Toon locatie knop"
 
 #: nl/cms.csv:10
 msgid "Label"
-msgstr "label"
+msgstr "Label"
 
 #: nl/cms.csv:11
 msgid "Label:"
@@ -136,3 +136,6 @@ msgstr "Telefoon:"
 
 msgid "Size"
 msgstr "Grootte"
+
+msgid "Display image in page"
+msgstr "Weergave afbeelding in een pagina"
