@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 09:50+0000\n"
+"PO-Revision-Date: 2019-01-15 10:04+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
 "default-group2/fr/>\n"
@@ -61,3 +61,6 @@ msgstr ""
 
 msgid "#105: An error occurred while saving"
 msgstr "#105: Une erreur s'est produite durant la sauvegarde"
+
+msgid "#106: An error occurred while saving"
+msgstr "#106: Une erreur s'est produite durant la sauvegarde"
