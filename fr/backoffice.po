@@ -450,3 +450,6 @@ msgstr "Échec"
 
 msgid "File hash is different from manifest."
 msgstr "Fichier Hash est différent du manifeste"
+
+msgid "File is missing."
+msgstr "Le fichier est manquant."
