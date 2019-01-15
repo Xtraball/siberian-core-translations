@@ -489,3 +489,6 @@ msgstr "Basic auth HTTP est valide."
 
 msgid "HTTPS & SSL Certificates"
 msgstr "HTTPS ET des Certificats SSL"
+
+msgid "HTTPS host is unreachable."
+msgstr "Hôte HTTPS est inaccessible."
