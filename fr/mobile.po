@@ -392,3 +392,6 @@ msgstr "Ce champ est obligatoire"
 
 msgid "Use this coupon"
 msgstr "Utiliser cette promo"
+
+msgid "View"
+msgstr "Voir"
