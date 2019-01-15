@@ -405,3 +405,6 @@ msgstr "Désactiver les tâches cron"
 
 msgid "Disabled"
 msgstr "Désactivé"
+
+msgid "Disk usage & Cache:"
+msgstr "L'utilisation du disque et Cache:"
