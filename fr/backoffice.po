@@ -1200,3 +1200,9 @@ msgstr "Vos certificats sont enregistrés."
 
 msgid "<b>Actual preview version is Siberian 5.0</b>."
 msgstr "<b>La version actuelle est 5.0</b>."
+
+msgid "<b>Disclaimer:</b> You are using the <b>preview</b> update channel, this channel is intended for <b>tests & previews</b> of new features, if you are not sure stay with <b>stable channel</b>."
+msgstr ""
+"<b> Avertissement: </ b> Vous utilisez le <b> aperçu </ b> canal de mise à "
+"jour, ce canal est destiné aux <b> tests et prévisualisations </ b> des "
+"nouvelles fonctionnalités, si vous n'êtes pas sûr <b> canal stable </ b>."
