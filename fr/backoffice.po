@@ -725,3 +725,6 @@ msgstr "Aperçu - WebApp (var/apps/browser, overview & webapp cache)"
 
 msgid "Overview cache cleared."
 msgstr "Vue d'ensemble cache effacé."
+
+msgid "PEM test:"
+msgstr "PEM Test:"
