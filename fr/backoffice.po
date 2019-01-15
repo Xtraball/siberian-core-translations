@@ -319,3 +319,6 @@ msgid "Certificate successfully generated. Please wait while %s is reloading con
 msgstr ""
 "Certificat généré avec succès. Veuillez patienter pendant que% s recharge la "
 "configuration ..."
+
+msgid "Certificate successfully re-generated."
+msgstr "Le certificat a été recréé avec succès."
