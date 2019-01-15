@@ -371,3 +371,6 @@ msgstr "SVP, entrez une adresse email valide"
 
 msgid "Please enter your email address. We'll send you your password right now."
 msgstr "SVP, entrez votre adresse mail, nous vous enverrons votre mot de passe."
+
+msgid "Podcast"
+msgstr "Podcast"
