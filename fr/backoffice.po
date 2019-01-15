@@ -1129,3 +1129,6 @@ msgstr "Marques Blanches"
 
 msgid "Yes"
 msgstr "Oui"
+
+msgid "Yes, install the update."
+msgstr "Oui, installer la mise à jour ."
