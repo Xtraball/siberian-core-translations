@@ -420,3 +420,6 @@ msgstr "Ne répond pas aux exigences"
 
 msgid "Download latest source"
 msgstr "Télécharger la dernière source"
+
+msgid "Drop your certificate here"
+msgstr "Glissez votre certificat ici"
