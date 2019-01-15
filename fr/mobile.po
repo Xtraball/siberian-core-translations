@@ -293,3 +293,6 @@ msgstr "Titre"
 
 msgid "Delete"
 msgstr "Supprimer"
+
+msgid "Email"
+msgstr "E-mail"
