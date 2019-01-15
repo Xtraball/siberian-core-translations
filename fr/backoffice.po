@@ -348,3 +348,6 @@ msgstr "Fermé"
 
 msgid "Complete build log"
 msgstr "Journal de construction complète"
+
+msgid "Configuration"
+msgstr "Configuration"
