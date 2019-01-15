@@ -294,3 +294,6 @@ msgstr "Cache effacé"
 
 msgid "Cache (var/cache, system cache)"
 msgstr "Cache (var/cache, system cache)"
+
+msgid "Can generate APK"
+msgstr "Peut générer APK"
