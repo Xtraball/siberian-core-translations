@@ -2383,3 +2383,6 @@ msgstr "Port"
 
 msgid "Save"
 msgstr "Enregistrer"
+
+msgid "Status"
+msgstr "Statut"
