@@ -610,3 +610,6 @@ msgstr "Marquer tout comme lu"
 
 msgid "Mark as new"
 msgstr "Marquer comme nouveau"
+
+msgid "Mark as read"
+msgstr "Marquer comme lu"
