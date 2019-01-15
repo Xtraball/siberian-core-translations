@@ -288,3 +288,6 @@ msgstr "Accès CA :"
 
 msgid "CRON Scheduler interval"
 msgstr "Intervalle du planificateur CRON"
+
+msgid "Cache cleared"
+msgstr "Cache effacé"
