@@ -261,3 +261,6 @@ msgstr "Authentification par marque de support (API)"
 
 msgid "Bearer Token Auth is valid."
 msgstr "Titulaire de la marque d'Authentification est valide."
+
+msgid "Beta"
+msgstr "Beta"
