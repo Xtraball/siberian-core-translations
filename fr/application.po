@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:46+0000\n"
-"PO-Revision-Date: 2019-01-15 09:43+0000\n"
+"PO-Revision-Date: 2019-01-15 11:06+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/"
 "application/fr/>\n"
@@ -376,7 +376,7 @@ msgstr "Publication sur Google Play Store"
 
 #: fr/application.csv:91
 msgid "Header"
-msgstr "Fond en-tête"
+msgstr "Entête"
 
 #: fr/application.csv:92
 msgid "Health & Fitness"
@@ -1004,7 +1004,7 @@ msgstr "Id"
 
 #: base/application.csv:291
 msgid "Label"
-msgstr "Nom"
+msgstr "Titre"
 
 msgid "* If apple doesn't detect any ads configurate, your application will be refused"
 msgstr ""
@@ -2065,19 +2065,19 @@ msgid "Twitter API Keys"
 msgstr "Clés API Twitter"
 
 msgid "Twitter API secret"
-msgstr "L'API Twitter secret"
+msgstr "Clé secrète API Twitter"
 
 msgid "Twitter API settings"
-msgstr "Les paramètres de l'API Twitter"
+msgstr "Paramètres de l'API Twitter"
 
 msgid "Twitter API token"
-msgstr "Jeton d'API Twitter"
+msgstr "Token d'API Twitter"
 
 msgid "Twitter consumer key"
-msgstr "Clé de consommateur Twitter"
+msgstr "Clé d'utilisateur Twitter"
 
 msgid "Twitter consumer secret"
-msgstr "Secret de consommateur Twitter"
+msgstr "Code secret d'utilisateur Twitter"
 
 msgid "Type"
 msgstr "Type"
@@ -2323,7 +2323,7 @@ msgid "success"
 msgstr "succès"
 
 msgid "to"
-msgstr "à"
+msgstr "de"
 
 msgid "with image"
 msgstr "Avec image"
@@ -2335,18 +2335,18 @@ msgid "API Keys"
 msgstr "Clés API"
 
 msgid "APIs"
-msgstr "APIs"
+msgstr "API"
 
 msgid "Add sections:"
-msgstr "Ajouter sections:"
+msgstr "Ajouter des sections:"
 
 msgid "All"
-msgstr "Tous"
+msgstr "Toutes"
 
 msgid "An error occurred while saving. Please try again later."
 msgstr ""
-"Une erreur s'est produite pendant la sauvegarde. S'il vous plaît essayer à "
-"nouveau plus tard."
+"Une erreur est survenue lors de la sauvegarde. Veuillez réessayer "
+"ultérieurement."
 
 msgid "Calendar"
 msgstr "Calendrier"
@@ -2367,7 +2367,7 @@ msgid "Facebook"
 msgstr "Facebook"
 
 msgid "Info successfully saved"
-msgstr "Info enregistré avec succès"
+msgstr "Informations sauvegardées avec succès"
 
 msgid "Name"
 msgstr "Nom"
@@ -2385,10 +2385,13 @@ msgid "Save"
 msgstr "Enregistrer"
 
 msgid "Status"
-msgstr "Statut"
+msgstr "Status"
 
 msgid "Title"
 msgstr "Titre"
 
 msgid "Yes"
 msgstr "Oui"
+
+msgid "seconds"
+msgstr "secondes"
