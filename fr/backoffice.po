@@ -456,3 +456,6 @@ msgstr "Le fichier est manquant."
 
 msgid "Force re-generation"
 msgstr "Forcer la régénération"
+
+msgid "Full"
+msgstr "Plein"
