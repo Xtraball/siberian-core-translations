@@ -840,3 +840,6 @@ msgstr "SSL"
 
 msgid "Sales"
 msgstr "Ventes"
+
+msgid "Sales configuration"
+msgstr "Configuration des ventes"
