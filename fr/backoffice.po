@@ -1132,3 +1132,9 @@ msgstr "Oui"
 
 msgid "Yes, install the update."
 msgstr "Oui, installer la mise à jour ."
+
+msgid "You are about to clean all the cron lock files !\nAre you sure ?"
+msgstr ""
+"Vous êtes sur le point de nettoyer tous les fichiers de verrouillage cron !\\"
+"n"
+" Êtes-vous sûr ?"
