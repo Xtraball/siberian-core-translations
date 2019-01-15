@@ -743,3 +743,6 @@ msgstr "Accès vers votre Certificat"
 
 msgid "Path to your Private certificate"
 msgstr "Accès à votre certificat Privé"
+
+msgid "Path to your Private key"
+msgstr "Accès à votre clé Privée"
