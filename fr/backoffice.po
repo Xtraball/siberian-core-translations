@@ -894,3 +894,6 @@ msgstr "Source"
 
 msgid "Source Queue empty"
 msgstr "File d'attente source vide"
+
+msgid "Source Queue status"
+msgstr "Source de l'état de la file d'Attente"
