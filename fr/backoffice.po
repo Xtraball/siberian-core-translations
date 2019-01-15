@@ -1146,3 +1146,9 @@ msgstr ""
 
 msgid "You are about to delete this certificate, Are you sure ?"
 msgstr "Vous êtes sur le point de supprimer ce certificat, vous en Êtes sûr ?"
+
+msgid "You are about to wipe all your temporary files, this includes the generated sources & apk builds !\nAre you sure ?"
+msgstr ""
+"Vous êtes sur le point d' effacer tous vos fichiers temporaires , ce qui "
+"inclut les sources générées et apk construit !\\n"
+" Êtes-vous sûr ?"
