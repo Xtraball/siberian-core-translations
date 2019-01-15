@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 21:50+0000\n"
+"PO-Revision-Date: 2019-01-15 11:08+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -116,7 +116,7 @@ msgid "Enable White-Label"
 msgstr "Witte label inschakelen"
 
 msgid "Favicon"
-msgstr "Favicon"
+msgstr "favicon"
 
 msgid "Full address"
 msgstr "Volledig adres"
