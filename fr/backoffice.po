@@ -652,3 +652,6 @@ msgstr "Non"
 
 msgid "No file has been sent"
 msgstr "Aucun fichier n'a été envoyée"
+
+msgid "No icon packs"
+msgstr "Pas de packs d'icônes"
