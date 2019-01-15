@@ -903,3 +903,6 @@ msgstr "[Sources]"
 
 msgid "Sources code"
 msgstr "Source code"
+
+msgid "Stable"
+msgstr "Stable"
