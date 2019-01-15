@@ -453,3 +453,6 @@ msgstr "Fichier Hash est différent du manifeste"
 
 msgid "File is missing."
 msgstr "Le fichier est manquant."
+
+msgid "Force re-generation"
+msgstr "Forcer la régénération"
