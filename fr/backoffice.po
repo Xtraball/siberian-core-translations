@@ -679,3 +679,6 @@ msgstr "Ne travaille pas"
 
 msgid "Not yet generated."
 msgstr "Pas encore généré."
+
+msgid "Note:"
+msgstr "Note:"
