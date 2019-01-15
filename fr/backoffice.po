@@ -888,3 +888,6 @@ msgid "Something went wrong with the API Sync to %s, retry or check in your pane
 msgstr ""
 "Quelque chose s'est mal passé avec l'API Synchronisé avec% s, réessayer ou "
 "archiver votre panel si votre certificat SSL est correctement configuré."
+
+msgid "Source"
+msgstr "Source"
