@@ -362,3 +362,6 @@ msgstr "Audio"
 
 msgid "Podcast"
 msgstr "Podcast"
+
+msgid "Podcast URL (iTunes format)"
+msgstr "Podcast URL (format iTunes)"
