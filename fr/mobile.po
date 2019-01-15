@@ -308,3 +308,6 @@ msgstr "Ajouter une image"
 
 msgid "Address"
 msgstr "Addresse"
+
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
