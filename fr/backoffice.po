@@ -237,3 +237,6 @@ msgstr "Nom de l'application"
 
 msgid "Application settings"
 msgstr "Paramètres de l'application"
+
+msgid "Application successfully queued for generation."
+msgstr "Demande en file d'attente pour la génération."
