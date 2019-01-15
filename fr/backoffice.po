@@ -801,3 +801,6 @@ msgstr "File d'attente %s/%s"
 
 msgid "Read"
 msgstr "Lire"
+
+msgid "Rebuild"
+msgstr "Reconstruire"
