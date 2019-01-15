@@ -127,3 +127,6 @@ msgstr "Veuillez remplir les champs suivants:<br/>"
 
 msgid "Information"
 msgstr "Informations"
+
+msgid "Your name"
+msgstr "Votre nom"
