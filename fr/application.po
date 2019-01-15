@@ -2356,3 +2356,6 @@ msgstr "Afficher l'adresse"
 
 msgid "Display location button"
 msgstr "Afficher le bouton de localisation"
+
+msgid "Event"
+msgstr "Evénement"
