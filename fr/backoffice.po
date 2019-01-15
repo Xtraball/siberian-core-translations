@@ -524,3 +524,6 @@ msgstr "Les noms d'hôtes associée à ce Certificat"
 
 msgid "Hour"
 msgstr "Heure"
+
+msgid "ID"
+msgstr "Id"
