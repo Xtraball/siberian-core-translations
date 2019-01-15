@@ -940,3 +940,6 @@ msgstr "Installation réussi du nouveau certificat."
 
 msgid "Successfully removed the certificate."
 msgstr "Retirer le certificat avec succès."
+
+msgid "Successfully saved Certificate to %s"
+msgstr "Enregistrer le certificat avec succès à% s"
