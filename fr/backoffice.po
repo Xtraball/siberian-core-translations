@@ -495,3 +495,6 @@ msgstr "Hôte HTTPS est inaccessible."
 
 msgid "HTTPS is not available on your server."
 msgstr "HTTPS n'est pas disponible sur votre serveur."
+
+msgid "HTTPS not reachable"
+msgstr "HTTPS innaccessible"
