@@ -2359,3 +2359,6 @@ msgstr "Afficher le bouton de localisation"
 
 msgid "Event"
 msgstr "Evénement"
+
+msgid "Extension not allowed, '%s' only"
+msgstr "Extension non autorisée, '%s' seulement."
