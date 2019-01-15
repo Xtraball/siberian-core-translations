@@ -465,3 +465,6 @@ msgstr "Chemin d'accès complet à utiliser dans votre serveur web."
 
 msgid "General settings"
 msgstr "Paramètres généraux"
+
+msgid "Generate"
+msgstr "Générer"
