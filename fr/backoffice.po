@@ -1074,3 +1074,6 @@ msgstr "Téléchargez vos propres certificats"
 
 msgid "Use HTTPS"
 msgstr "Utiliser HTTPS"
+
+msgid "Use existing certificates on my server"
+msgstr "Utiliser les certificats existants sur mon serveur"
