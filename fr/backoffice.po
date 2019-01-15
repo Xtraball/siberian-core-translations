@@ -462,3 +462,6 @@ msgstr "Plein"
 
 msgid "Full path to use within your webserver."
 msgstr "Chemin d'accès complet à utiliser dans votre serveur web."
+
+msgid "General settings"
+msgstr "Paramètres généraux"
