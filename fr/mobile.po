@@ -386,3 +386,6 @@ msgstr "Je veux apparaître dans le classement"
 
 msgid "The address you're looking for does not exists."
 msgstr "L'adresse que vous recherchez n'existe pas."
+
+msgid "This field is required"
+msgstr "Ce champ est obligatoire"
