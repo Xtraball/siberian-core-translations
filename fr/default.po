@@ -1333,3 +1333,6 @@ msgstr "Evénement"
 
 msgid "Port"
 msgstr "Port"
+
+msgid "Date and time"
+msgstr "Date et heure"
