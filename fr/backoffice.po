@@ -977,3 +977,6 @@ msgid "The PHP executable guessed path <b>'%s'</b> may be incorrect, please doub
 msgstr ""
 "Le chemin de l'exécutable PHP <b> '% s' </ b> peut être incorrect, veuillez "
 "le vérifier."
+
+msgid "The default setting to run your production server."
+msgstr "Le paramètre par défaut pour exécuter votre serveur de production."
