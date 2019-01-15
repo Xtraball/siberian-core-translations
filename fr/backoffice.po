@@ -255,3 +255,6 @@ msgstr "Temps de construction moyen en secondes :"
 
 msgid "Average sources/apk build time:"
 msgstr "Moyen du temps de construction des fichiers source et APK"
+
+msgid "Bearer Token Auth (API)"
+msgstr "Authentification par marque de support (API)"
