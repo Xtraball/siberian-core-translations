@@ -509,3 +509,6 @@ msgid "HTTPS support is in test, you should only try it on your development serv
 msgstr ""
 "Le support HTTPS est en test, vous ne devriez l'essayer que sur votre "
 "serveur de développement avant de vous préparer à une migration ultérieure."
+
+msgid "Hide"
+msgstr "Masquer"
