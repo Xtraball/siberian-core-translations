@@ -697,3 +697,8 @@ msgstr "Ok , vous pouvez envisager de passer à >=5.4"
 
 msgid "Ok, you may upgrade to php 5.6"
 msgstr "Ok , vous pouvez passer à php 5.6"
+
+msgid "One of the three given Certificates path is not readable, please make sure they have the good rights."
+msgstr ""
+"L'un des trois accès de certificats n'est pas lisible, assurez-vous qu'ils "
+"ont les bons droits."
