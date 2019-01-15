@@ -530,3 +530,8 @@ msgstr "Id"
 
 msgid "If inactive, your customer won't see the tour."
 msgstr "En cas d'inactivité, votre client ne verra pas la visite."
+
+msgid "If you are unable to install or run the cronjob on your hosting/server you can disable it."
+msgstr ""
+"Si vous ne parvenez pas à installer ou exécuter le cron sur votre "
+"hébergement / serveur, vous pouvez le désactiver ."
