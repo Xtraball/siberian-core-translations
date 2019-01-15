@@ -417,3 +417,6 @@ msgstr "Afficher"
 
 msgid "Doesn't meet the requirements"
 msgstr "Ne répond pas aux exigences"
+
+msgid "Download latest source"
+msgstr "Télécharger la dernière source"
