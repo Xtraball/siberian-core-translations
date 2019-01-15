@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-11 14:47+0000\n"
+"PO-Revision-Date: 2019-01-15 09:42+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
 "application/tr/>\n"
@@ -664,7 +664,7 @@ msgstr "Desktop ikonu"
 
 #: tr/application.csv:163
 msgid "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
-msgstr "Girilen paket kimliği yanlış, com.turkapp.appo gibi olmalı"
+msgstr "Girilen paket kimliği yanlış, com.siberiancms.app gibi olmalı"
 
 #: tr/application.csv:164
 msgid "The field is required"
