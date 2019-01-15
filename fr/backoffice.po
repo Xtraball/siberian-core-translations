@@ -1108,3 +1108,6 @@ msgstr ""
 "ou de développement, nous ne fournirons pas de support de tickets régulier "
 "pour ces canaux de mise à jour, uniquement des rapports de bug via le "
 "formulaire ci-dessous."
+
+msgid "Web space"
+msgstr "Espace Web"
