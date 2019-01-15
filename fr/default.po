@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 10:29+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
@@ -20,7 +20,7 @@ msgstr "404, page non trouvée"
 
 #: fr/default.csv:2
 msgid "APIs"
-msgstr "APIs"
+msgstr "API"
 
 #: fr/default.csv:3
 msgid "Accounts"
@@ -272,7 +272,7 @@ msgstr "Supprimer"
 
 #: fr/default.csv:65
 msgid "Description"
-msgstr "Descriptif"
+msgstr "Description"
 
 #: fr/default.csv:66
 msgid "Description:"
@@ -816,7 +816,7 @@ msgstr "ENVOYER"
 
 #: fr/default.csv:201
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Enregistrer"
 
 #: fr/default.csv:202
 msgid "Search"
@@ -1327,3 +1327,6 @@ msgstr "De:"
 
 msgid "Number of people"
 msgstr "Nombre de personnes"
+
+msgid "Event"
+msgstr "Evénement"
