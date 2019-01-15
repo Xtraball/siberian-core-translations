@@ -804,3 +804,6 @@ msgstr "Lire"
 
 msgid "Rebuild"
 msgstr "Reconstruire"
+
+msgid "Rebuilding application manifest files."
+msgstr "Reconstruire l'application des fichiers manifestes ."
