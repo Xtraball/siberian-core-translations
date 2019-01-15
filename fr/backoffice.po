@@ -711,3 +711,6 @@ msgstr "Ouvrez le mode d'édition tour"
 
 msgid "Optional binaries"
 msgstr "Bibliothèques optionnelles"
+
+msgid "Optional libraries"
+msgstr "Bibliothèques optionnelles"
