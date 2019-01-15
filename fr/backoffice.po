@@ -1224,3 +1224,6 @@ msgstr "Client"
 
 msgid "for the bundle id:"
 msgstr "Pour le bundle ID:"
+
+msgid "letsencrypt"
+msgstr "letsencrypt"
