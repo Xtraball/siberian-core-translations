@@ -1022,3 +1022,6 @@ msgstr ""
 "Ce test est destiné à l'utilisation du développement et du support, cela ne "
 "fait que mettre en évidence les fichiers manquants et / ou modifiés "
 "potentiels, les résultats doivent être interprétés."
+
+msgid "Tools"
+msgstr "Outils"
