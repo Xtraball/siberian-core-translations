@@ -734,3 +734,6 @@ msgstr "La version de PHP %s:"
 
 msgid "Password"
 msgstr "Mot de passe"
+
+msgid "Path to your CA certificate"
+msgstr "Chemin d'accès à votre certificat CA"
