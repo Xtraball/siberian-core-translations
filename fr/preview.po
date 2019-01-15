@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 10:31+0000\n"
+"PO-Revision-Date: 2019-01-15 10:32+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/preview/"
 "fr/>\n"
@@ -100,3 +100,6 @@ msgstr "Description"
 
 msgid "Title"
 msgstr "Titre"
+
+msgid "Add"
+msgstr "Ajouter"
