@@ -267,3 +267,6 @@ msgstr "Beta"
 
 msgid "Build status"
 msgstr "Statut de construction"
+
+msgid "Build time (in seconds)"
+msgstr "Temps de constructions (en secondes)"
