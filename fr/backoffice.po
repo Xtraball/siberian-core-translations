@@ -342,3 +342,6 @@ msgstr "Cliquez ici pour envoyer votre certificat Privé"
 
 msgid "Click here to send your certificate"
 msgstr "Cliquez ici pour envoyer votre certificat"
+
+msgid "Closed"
+msgstr "Fermé"
