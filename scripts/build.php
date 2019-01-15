@@ -73,6 +73,17 @@ foreach ($locales as $folder => $human) {
 
     foreach ($files as $file) {
         if (!$file->isDot() && $file->getExtension() === "po") {
+            // Clean-up msgctxt
+            $newContent = [];
+            foreach(file($file->getPathname()) as $line) {
+                if (preg_match("/^msgctxt/i", $line)) {
+                    // Skip
+                } else {
+                    $newContent[] = $line;
+                }
+            }
+            file_put_contents($file->getPathname(), implode("", $newContent));
+
             // Copy
             $moName = str_replace(".po", ".mo", $file->getPathname());
             echo "msgfmt -o {$name}/resources/translations/{$moName} {$file->getPathname()} \n";
