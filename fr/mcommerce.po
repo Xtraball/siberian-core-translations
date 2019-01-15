@@ -1091,3 +1091,6 @@ msgstr "Supprimer"
 
 msgid "Discount"
 msgstr "Promotion"
+
+msgid "Email"
+msgstr "E-mail"
