@@ -477,3 +477,6 @@ msgstr "Générer la source"
 
 msgid "Generating"
 msgstr "Générateur"
+
+msgid "[Global]"
+msgstr "[Global]"
