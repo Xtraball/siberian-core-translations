@@ -1043,3 +1043,8 @@ msgstr "Statut de la visite sauvegardée avec succès."
 
 msgid "UID"
 msgstr "UID"
+
+msgid "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if your are not in `Staging`"
+msgstr ""
+"Impossible de se connecter à HTTPS ou de valider le certificat SSL. <br /> "
+"Vérifiez si vous n'êtes pas dans «Plate-forme\" (Staging)"
