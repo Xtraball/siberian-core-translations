@@ -243,3 +243,6 @@ msgstr "Demande en file d'attente pour la génération."
 
 msgid "Applications/Previewer manifest for automatic updates."
 msgstr "Applications / Previewer manifeste pour les mises à jour automatiques ."
+
+msgid "Are you sure ?"
+msgstr "Etes vous certain?"
