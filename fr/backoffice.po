@@ -931,3 +931,6 @@ msgstr ""
 
 msgid "Success"
 msgstr "Succès"
+
+msgid "Successfully cleaned-up old certificate."
+msgstr "Ancien certificat nettoyé avec succès."
