@@ -76,9 +76,16 @@ foreach ($locales as $folder => $human) {
             // Clean-up msgctxt
             $newContent = [];
             foreach(file($file->getPathname()) as $line) {
-                if (preg_match("/^msgctxt/i", $line)) {
+                if (preg_match("/^msgctxt /i", $line)) {
                     // Skip
-                } else {
+                    $keep = false;
+                }
+                if (preg_match("/^msgid /i", $line)) {
+                    // Skip
+                    $keep = true;
+                }
+
+                if ($keep) {
                     $newContent[] = $line;
                 }
             }

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"POT-Creation-Date: 2019-01-15 16:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/event/ca/"
@@ -14,158 +14,119 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a Website"
 msgid "Add a Website"
 msgstr ""
 
-msgctxt "Address:"
 msgid "Address:"
 msgstr "direcció:"
 
-msgctxt "An error occurred while deleting the event"
 msgid "An error occurred while deleting the event"
 msgstr "Produït un error en suprimir l'esdeveniment"
 
-msgctxt "An error occurred while loading this event"
 msgid "An error occurred while loading this event"
 msgstr "S'ha produït un error mentre carrega aquest esdeveniment"
 
-msgctxt "Beginning date:"
 msgid "Beginning date:"
 msgstr "Data de començament:"
 
-msgctxt "Beginning time:"
 msgid "Beginning time:"
 msgstr "Data de començament:"
 
-msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr ""
 
-msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr ""
 
-msgctxt "Calendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Calendari correctament"
 
-msgctxt "Calendar's URL"
 msgid "Calendar's URL"
 msgstr "URL del calendari"
 
-msgctxt "Calendar's title"
 msgid "Calendar's title"
 msgstr "Títol del calendari"
 
-msgctxt "Change picture"
 msgid "Change picture"
 msgstr "Canvia la imatge"
 
-msgctxt "Create a new event"
 msgid "Create a new event"
 msgstr "Crear un nou esdeveniment"
 
-msgctxt "Custom Calendar"
 msgid "Custom Calendar"
 msgstr ""
 
-msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "Costum pàgina"
 
-msgctxt "Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Voleu suprimir aquest calendari?"
 
-msgctxt "Delete this event?"
 msgid "Delete this event?"
 msgstr "Voleu suprimir aquest esdeveniment?"
 
-msgctxt "Ending date:"
 msgid "Ending date:"
 msgstr "Data d'acabament:"
 
-msgctxt "Enter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Introdueixi el títol del calendari"
 
-msgctxt "Entrance:"
 msgid "Entrance:"
 msgstr ""
 
-msgctxt "Entrance: %s"
 msgid "Entrance: %s"
 msgstr ""
 
-msgctxt "Event"
 msgid "Event"
 msgstr "Esdeveniment"
 
-msgctxt "Event successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Esdeveniment correctament"
 
-msgctxt "Event successfully saved"
 msgid "Event successfully saved"
 msgstr "Esdeveniment salvat correctament"
 
-msgctxt "Event title:"
 msgid "Event title:"
 msgstr "Títol de l'esdeveniment:"
 
-msgctxt "Illustration:"
 msgid "Illustration:"
 msgstr ""
 
-msgctxt "Location:"
 msgid "Location:"
 msgstr ""
 
-msgctxt "Max size: 2000x2000px - allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Mida de Max: 2000x2000px - permesos els formats de: jpg & png"
 
-msgctxt "Modify the event"
 msgid "Modify the event"
 msgstr "Modificar l'esdeveniment"
 
-msgctxt "RSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
-msgctxt "RSVP URL:"
 msgid "RSVP URL:"
 msgstr "URL DE CONFIRMAR LA SEVA ASSISTÈNCIA:"
 
-msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr ""
 
-msgctxt "Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr ""
 
-msgctxt "To:"
 msgid "To:"
 msgstr ""
 
-msgctxt "Your Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "El vostre ID de pàgina de Facebook"
 
-msgctxt "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr ""
 
-msgctxt "Your calendar is empty"
 msgid "Your calendar is empty"
 msgstr "El calendari està buit"
 
-msgctxt "iCal"
 msgid "iCal"
 msgstr "iCal"
 
-msgctxt "to"
 msgid "to"
 msgstr ""

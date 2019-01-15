@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"POT-Creation-Date: 2019-01-15 16:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/"
+"Language-Team: Catalan <http://translate.siberiancms.com/projects/siberian/"
 "socialgaming/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -14,66 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A month"
 msgid "A month"
 msgstr "Un mes"
 
-msgctxt "A week"
 msgid "A week"
 msgstr "Una setmana"
 
-msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Rivals"
 
-msgctxt "Current game"
 msgid "Current game"
 msgstr "Joc actual"
 
-msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Actualment no hi ha rivals"
 
-msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Nom del joc"
 
-msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Joc salvat correctament"
 
-msgctxt "Next game"
 msgid "Next game"
 msgstr "Pròxim partit"
 
-msgctxt "On the"
 msgid "On the"
 msgstr "En la"
 
-msgctxt "Period"
 msgid "Period"
 msgstr "Període"
 
-msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Periodicitat"
 
-msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Data de publicació"
 
-msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Rang del mes"
 
-msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Rang de la setmana"
 
-msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "Líder d'equip"
 
-msgctxt "%s point%s"
 msgid "%s point%s"
 msgstr "%s punt de %s"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"POT-Creation-Date: 2019-01-15 16:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/acl/de/>\n"
@@ -12,3 +12,74 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
+
+msgctxt "ActionsActions"
+msgid "Actions"
+msgstr ""
+
+msgctxt ""
+"An error occurred while deleting your role. Please, try again later.An "
+"error occurred while deleting your role. Please, try again later."
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr ""
+
+msgctxt "CodeCode"
+msgid "Code"
+msgstr ""
+
+msgctxt "Create a new roleCreate a new role"
+msgid "Create a new role"
+msgstr ""
+
+msgctxt "DeleteDelete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "EditEdit"
+msgid "Edit"
+msgstr ""
+
+msgctxt "Edit %s roleEdit %s role"
+msgid "Edit %s role"
+msgstr ""
+
+msgctxt "IdId"
+msgid "Id"
+msgstr ""
+
+msgctxt "LabelLabel"
+msgid "Label"
+msgstr ""
+
+msgctxt "List of your rolesList of your roles"
+msgid "List of your roles"
+msgstr ""
+
+msgctxt "RoleRole"
+msgid "Role"
+msgstr ""
+
+msgctxt "SearchSearch"
+msgid "Search"
+msgstr ""
+
+msgctxt ""
+"This role will be the default one for the whole platform.This role will be "
+"the default one for the whole platform."
+msgid "This role will be the default one for the whole platform."
+msgstr ""
+
+msgctxt "You don't have any role yetYou don't have any role yet"
+msgid "You don't have any role yet"
+msgstr ""
+
+msgctxt ""
+"Your role has been successfully deletedYour role has been successfully "
+"deleted"
+msgid "Your role has been successfully deleted"
+msgstr ""
+
+msgctxt ""
+"Your role has been successfully savedYour role has been successfully saved"
+msgid "Your role has been successfully saved"
+msgstr ""
