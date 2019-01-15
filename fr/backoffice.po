@@ -1077,3 +1077,6 @@ msgstr "Utiliser HTTPS"
 
 msgid "Use existing certificates on my server"
 msgstr "Utiliser les certificats existants sur mon serveur"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
