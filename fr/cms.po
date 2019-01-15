@@ -183,3 +183,6 @@ msgstr "Utiliser une application externe"
 
 msgid "Description"
 msgstr "Description"
+
+msgid "Text"
+msgstr "Texte"
