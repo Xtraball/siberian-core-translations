@@ -586,3 +586,6 @@ msgstr "Let's Encrypt environnement"
 
 msgid "[Let's Encrypt] renewing certificate."
 msgstr "[Let's Encrypt] renouvellement du certificat."
+
+msgid "[Let's Encrypt] will add %s to SAN."
+msgstr "[Let's Encrypt] s'ajoutera %s à SAN."
