@@ -810,3 +810,6 @@ msgstr "Reconstruire l'application des fichiers manifestes ."
 
 msgid "Regular updates system"
 msgstr "Système de mises à jour régulières"
+
+msgid "Remove locks"
+msgstr "Déverouiller"
