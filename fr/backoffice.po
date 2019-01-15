@@ -527,3 +527,6 @@ msgstr "Heure"
 
 msgid "ID"
 msgstr "Id"
+
+msgid "If inactive, your customer won't see the tour."
+msgstr "En cas d'inactivité, votre client ne verra pas la visite."
