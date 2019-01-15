@@ -1177,3 +1177,8 @@ msgstr "Vous n'avez pas de certificat encore."
 
 msgid "You have no new messages."
 msgstr "Vous n'avez pas de nouveaux messages."
+
+msgid "You must select an Admin panel type before requesting a Certificate."
+msgstr ""
+"Vous devez sélectionner un type de panneau d'administration avant de "
+"demander un Certificat."
