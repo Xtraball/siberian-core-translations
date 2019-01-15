@@ -1100,3 +1100,6 @@ msgstr "Prénom"
 
 msgid "Label"
 msgstr "Titre"
+
+msgid "Last Name"
+msgstr "Nom de famille"
