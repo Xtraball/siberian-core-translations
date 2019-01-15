@@ -1188,3 +1188,6 @@ msgstr ""
 "Votre certificat HTTPS / SSL est sur le point d'expirer dans <b>% s jour% s "
 "</ b>, n'oubliez pas de le renouveler sur la page <a href=\"%s\"\"> "
 "configuration </a> suivante .\""
+
+msgid "Your certificate is invalid"
+msgstr "Votre certificat est invalide."
