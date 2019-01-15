@@ -625,3 +625,6 @@ msgstr "Paramètres pour la génération manquante ."
 
 msgid "Mobile Source Codes & Builds"
 msgstr "Codes Source mobiles et Builds"
+
+msgid "Module/User tasks"
+msgstr "Module / tâches Utilisateur"
