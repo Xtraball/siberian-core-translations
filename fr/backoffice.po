@@ -556,3 +556,6 @@ msgstr "Installé, version"
 
 msgid "Integrity check"
 msgstr "Vérification de l'intégrité"
+
+msgid "Invoice options"
+msgstr "Options de facturation"
