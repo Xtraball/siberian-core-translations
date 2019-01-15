@@ -345,3 +345,6 @@ msgstr "Cliquez ici pour envoyer votre certificat"
 
 msgid "Closed"
 msgstr "Fermé"
+
+msgid "Complete build log"
+msgstr "Journal de construction complète"
