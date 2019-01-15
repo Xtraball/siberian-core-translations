@@ -866,3 +866,6 @@ msgstr "Serveur"
 
 msgid "Services"
 msgstr "Services"
+
+msgid "Show All Applications"
+msgstr "Afficher toutes les applications"
