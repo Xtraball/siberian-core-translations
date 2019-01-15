@@ -214,3 +214,6 @@ msgid "An entry already exists for this hostname, remove it first if you need to
 msgstr ""
 "Une entrée existe déjà pour ce nom d'hôte, supprimez-la d'abord si vous "
 "devez modifier vos certificats."
+
+msgid "An error occured"
+msgstr "Une erreur s'est produite"
