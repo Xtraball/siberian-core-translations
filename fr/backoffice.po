@@ -357,3 +357,6 @@ msgstr "Configuration enregistrée"
 
 msgid "Core modules"
 msgstr "modules de base"
+
+msgid "Creation date"
+msgstr "Date de création"
