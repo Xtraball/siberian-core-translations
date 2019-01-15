@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-15 10:29+0000\n"
+"PO-Revision-Date: 2019-01-15 10:30+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
@@ -588,7 +588,7 @@ msgstr "Mur d'actu"
 
 #: fr/default.csv:144
 msgid "Next"
-msgstr "Next"
+msgstr "Suivant"
 
 #: fr/default.csv:145
 msgid "No"
