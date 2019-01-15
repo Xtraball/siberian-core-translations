@@ -97,3 +97,6 @@ msgstr "<b>Types de fichier:</b> %s<br />"
 
 msgid "Description"
 msgstr "Description"
+
+msgid "Title"
+msgstr "Titre"
