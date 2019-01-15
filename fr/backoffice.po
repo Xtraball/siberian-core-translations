@@ -643,3 +643,6 @@ msgstr "Nom"
 
 msgid "New messages"
 msgstr "Nouveaux messages"
+
+msgid "New users"
+msgstr "nouvelle inscription"
