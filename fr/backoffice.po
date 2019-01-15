@@ -441,3 +441,6 @@ msgstr ""
 "Les erreurs sont affichées sur la page, les sorties sont plus détaillées, "
 "c'est une option pour le débugage, à utiliser avec précaution car elle peut "
 "générer des informations critiques sur votre serveur."
+
+msgid "External extensions"
+msgstr "Extensions externes"
