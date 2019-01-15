@@ -303,3 +303,8 @@ msgstr "Cert"
 
 msgid "Certificate"
 msgstr "Certificat"
+
+msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr ""
+"Le certificat est valide et SSL est accessible, valable jusqu'au: %s.<br "
+"/>l'émetteur: %s%s"
