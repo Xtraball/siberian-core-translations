@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 10:06+0000\n"
-"PO-Revision-Date: 2019-01-11 10:48+0000\n"
+"PO-Revision-Date: 2019-01-15 11:06+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/admin/fr/>"
 "\n"
@@ -300,7 +300,7 @@ msgstr "Rôle utilisateur"
 
 #: base/admin.csv:5
 msgid "Address:"
-msgstr "Adresse"
+msgstr "Adresse:"
 
 #: base/admin.csv:6
 msgid "Address 2:"
@@ -400,4 +400,4 @@ msgid "Zip Code"
 msgstr "Code postal"
 
 msgid "to"
-msgstr "à"
+msgstr "de"
