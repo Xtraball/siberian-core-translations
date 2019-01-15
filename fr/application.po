@@ -2380,3 +2380,6 @@ msgstr "Non"
 
 msgid "Port"
 msgstr "Port"
+
+msgid "Save"
+msgstr "Enregistrer"
