@@ -384,3 +384,6 @@ msgstr "Jour du mois"
 
 msgid "Day of week"
 msgstr "Le jour de la semaine"
+
+msgid "Deactivate user"
+msgstr "Désactiver utilisateur"
