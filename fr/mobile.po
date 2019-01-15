@@ -299,3 +299,6 @@ msgstr "E-mail"
 
 msgid "Firstname"
 msgstr "Prénom"
+
+msgid "Lastname"
+msgstr "Nom"
