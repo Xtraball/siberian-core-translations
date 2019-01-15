@@ -314,3 +314,8 @@ msgstr "Chemin d'accès du certificat:"
 
 msgid "Certificate successfully generated."
 msgstr "Certificat généré avec succès."
+
+msgid "Certificate successfully generated. Please wait while %s is reloading configuration ..."
+msgstr ""
+"Certificat généré avec succès. Veuillez patienter pendant que% s recharge la "
+"configuration ..."
