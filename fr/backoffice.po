@@ -746,3 +746,6 @@ msgstr "Accès à votre certificat Privé"
 
 msgid "Path to your Private key"
 msgstr "Accès à votre clé Privée"
+
+msgid "Payment received"
+msgstr "Paiement reçu"
