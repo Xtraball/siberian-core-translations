@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-15 10:37+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mcommerce/"
 "fr/>\n"
@@ -352,7 +352,7 @@ msgstr "payé"
 
 #: fr/mcommerce.csv:85
 msgid "Password"
-msgstr "mot de passe"
+msgstr "Mot de passe"
 
 #: fr/mcommerce.csv:86
 msgid "Password:"
@@ -1112,3 +1112,6 @@ msgstr "Code Postal"
 
 msgid "Product formats"
 msgstr "Formats du produit"
+
+msgid "Street"
+msgstr "Rue"
