@@ -900,3 +900,6 @@ msgstr "Source de l'état de la file d'Attente"
 
 msgid "[Sources]"
 msgstr "[Sources]"
+
+msgid "Sources code"
+msgstr "Source code"
