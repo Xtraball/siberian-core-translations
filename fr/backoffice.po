@@ -714,3 +714,8 @@ msgstr "Bibliothèques optionnelles"
 
 msgid "Optional libraries"
 msgstr "Bibliothèques optionnelles"
+
+msgid "Otherwise install it manually, from your panel, or directly from your ssh access."
+msgstr ""
+"Sinon installer manuellement , à partir de votre panneau , ou directement à "
+"partir de votre accès ssh."
