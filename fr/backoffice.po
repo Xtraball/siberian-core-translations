@@ -351,3 +351,6 @@ msgstr "Journal de construction complète"
 
 msgid "Configuration"
 msgstr "Configuration"
+
+msgid "Configuration successfully saved"
+msgstr "Configuration enregistrée"
