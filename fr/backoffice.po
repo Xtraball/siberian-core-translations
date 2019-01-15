@@ -789,3 +789,6 @@ msgstr "Avancée"
 
 msgid "Publication access type"
 msgstr "Type d'accès de publication"
+
+msgid "Push messages:"
+msgstr "Les messages Push:"
