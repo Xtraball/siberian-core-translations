@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-15 10:42+0000\n"
+"PO-Revision-Date: 2019-01-15 10:43+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
@@ -452,7 +452,7 @@ msgstr "Nom de Famille :"
 
 #: fr/default.csv:110
 msgid "Like"
-msgstr "Aimez"
+msgstr "J'aime"
 
 #: fr/default.csv:111
 msgid "Likes"
@@ -1336,3 +1336,6 @@ msgstr "Port"
 
 msgid "Date and time"
 msgstr "Date et heure"
+
+msgid "First name / Last name"
+msgstr "Prénom / Nom"
