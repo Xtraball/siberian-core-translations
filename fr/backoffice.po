@@ -969,3 +969,6 @@ msgstr "Modèles"
 
 msgid "Test SSL/HTTPS"
 msgstr "Test SSL/HTTPS"
+
+msgid "Testing: %s"
+msgstr "Test: %s"
