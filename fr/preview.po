@@ -103,3 +103,8 @@ msgstr "Titre"
 
 msgid "Add"
 msgstr "Ajouter"
+
+msgid "An error occurred during the process. Please try again later."
+msgstr ""
+"Une erreur est survenue lors du traitement. Veuillez réessayer "
+"ultérieurement."
