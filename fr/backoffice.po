@@ -411,3 +411,6 @@ msgstr "L'utilisation du disque et Cache:"
 
 msgid "Dismiss & install later"
 msgstr "Rejeter et installer ultérieurement"
+
+msgid "Display"
+msgstr "Afficher"
