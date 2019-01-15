@@ -266,3 +266,6 @@ msgstr "Votre système est à jour."
 
 msgid "Name"
 msgstr "Nom"
+
+msgid "Status"
+msgstr "Status"
