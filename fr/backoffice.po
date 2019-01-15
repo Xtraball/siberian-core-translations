@@ -1060,3 +1060,8 @@ msgstr "Mis à Jour à"
 
 msgid "Upload"
 msgstr "Télécharger"
+
+msgid "Upload files or use existing certificates on my server"
+msgstr ""
+"Télécharger des fichiers ou utiliser des certificats existants sur mon "
+"serveur"
