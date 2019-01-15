@@ -1040,3 +1040,6 @@ msgstr "Statut du Tour"
 
 msgid "Tour status successfully saved."
 msgstr "Statut de la visite sauvegardée avec succès."
+
+msgid "UID"
+msgstr "UID"
