@@ -387,3 +387,6 @@ msgstr "Le jour de la semaine"
 
 msgid "Deactivate user"
 msgstr "Désactiver utilisateur"
+
+msgid "Default (no)"
+msgstr "Par défaut (aucune)"
