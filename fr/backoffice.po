@@ -369,3 +369,6 @@ msgstr "Alertes cron"
 
 msgid "Cron interval"
 msgstr "Intervalle cron"
+
+msgid "Cron scheduler"
+msgstr "Cron planificateur"
