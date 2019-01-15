@@ -568,3 +568,6 @@ msgstr "JAVA:"
 
 msgid "Last cron error"
 msgstr "Erreur du dernier cron"
+
+msgid "Last failure"
+msgstr "Dernier échec"
