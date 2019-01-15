@@ -1221,3 +1221,6 @@ msgstr ""
 
 msgid "customer"
 msgstr "Client"
+
+msgid "for the bundle id:"
+msgstr "Pour le bundle ID:"
