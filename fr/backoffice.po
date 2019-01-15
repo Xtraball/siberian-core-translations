@@ -291,3 +291,6 @@ msgstr "Intervalle du planificateur CRON"
 
 msgid "Cache cleared"
 msgstr "Cache effacé"
+
+msgid "Cache (var/cache, system cache)"
+msgstr "Cache (var/cache, system cache)"
