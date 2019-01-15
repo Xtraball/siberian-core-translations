@@ -323,3 +323,6 @@ msgstr "Commentaire"
 
 msgid "Date and time"
 msgstr "Date et Heure"
+
+msgid "First name / Last name"
+msgstr "Prénom / NOM"
