@@ -792,3 +792,6 @@ msgstr "Type d'accès de publication"
 
 msgid "Push messages:"
 msgstr "Les messages Push:"
+
+msgid "Queued"
+msgstr "File d'attente"
