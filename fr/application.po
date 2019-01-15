@@ -2347,3 +2347,6 @@ msgid "An error occurred while saving. Please try again later."
 msgstr ""
 "Une erreur s'est produite pendant la sauvegarde. S'il vous plaît essayer à "
 "nouveau plus tard."
+
+msgid "Calendar"
+msgstr "Calendrier"
