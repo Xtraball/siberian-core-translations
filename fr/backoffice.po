@@ -637,3 +637,6 @@ msgstr "Mes Factures"
 
 msgid "My tour is active"
 msgstr "Mon Tour est active"
+
+msgid "Name"
+msgstr "Nom"
