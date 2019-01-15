@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:46+0000\n"
-"PO-Revision-Date: 2019-01-15 09:58+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/cms/fr/>\n"
 "Language: fr\n"
@@ -23,11 +23,11 @@ msgstr "Ajoutez des"
 
 #: fr/cms.csv:3
 msgid "Add sections:"
-msgstr "Ajouter des éléments :"
+msgstr "Ajouter des sections:"
 
 #: fr/cms.csv:4
 msgid "Address:"
-msgstr "Adresse :"
+msgstr "Adresse:"
 
 #: fr/cms.csv:5
 msgid "Alignment:"
@@ -51,7 +51,7 @@ msgstr "Afficher le bouton de localisation"
 
 #: fr/cms.csv:10
 msgid "Label"
-msgstr "Nom"
+msgstr "Titre"
 
 #: fr/cms.csv:11
 msgid "Label:"
