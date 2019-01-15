@@ -228,3 +228,6 @@ msgstr ""
 msgid "An unknown error occured while issueing your certificate."
 msgstr ""
 "Une erreur inconnue s'est produite lors de l'émission de votre certificat."
+
+msgid "Android SDK:"
+msgstr "Android SDK:"
