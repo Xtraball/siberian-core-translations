@@ -432,3 +432,6 @@ msgstr "Activer les messages de configuration SMTP"
 
 msgid "Environment"
 msgstr "Environnement"
+
+msgid "Error, order already paid."
+msgstr "Erreur, commande déjà payée."
