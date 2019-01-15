@@ -389,3 +389,6 @@ msgstr "L'adresse que vous recherchez n'existe pas."
 
 msgid "This field is required"
 msgstr "Ce champ est obligatoire"
+
+msgid "Use this coupon"
+msgstr "Utiliser cette promo"
