@@ -224,3 +224,7 @@ msgstr "Une erreur est survenue lors de l'enregistrement du certificat dans %s."
 msgid "An error occurred during the process. Please try again later."
 msgstr ""
 "Une erreur est survenue au cours du processus . Veuillez réessayer plus tard."
+
+msgid "An unknown error occured while issueing your certificate."
+msgstr ""
+"Une erreur inconnue s'est produite lors de l'émission de votre certificat."
