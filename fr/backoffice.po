@@ -1101,3 +1101,10 @@ msgstr "WHM cPanel"
 
 msgid "Waiting for %s to reload, this can take a while..."
 msgstr "En attente de% s pour recharger, cela peut prendre un certain temps ..."
+
+msgid "We recommned using <b>preview</b> on a testing or development server, we won't provide regular ticket support for these update channels, only bug reports via the form below."
+msgstr ""
+"Nous vous recommandons d'utiliser <b> preview </ b> sur un serveur de test "
+"ou de développement, nous ne fournirons pas de support de tickets régulier "
+"pour ces canaux de mise à jour, uniquement des rapports de bug via le "
+"formulaire ci-dessous."
