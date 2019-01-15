@@ -740,3 +740,6 @@ msgstr "Chemin d'accès à votre certificat CA"
 
 msgid "Path to your Certificate"
 msgstr "Accès vers votre Certificat"
+
+msgid "Path to your Private certificate"
+msgstr "Accès à votre certificat Privé"
