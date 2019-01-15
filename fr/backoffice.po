@@ -688,3 +688,6 @@ msgstr "Remarque: Let's encrypt X1 est un certificat de mise en scène."
 
 msgid "Number of typed characters:"
 msgstr "Nombre de caractères tapés:"
+
+msgid "Ok"
+msgstr "Ok"
