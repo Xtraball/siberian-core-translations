@@ -694,3 +694,6 @@ msgstr "Ok"
 
 msgid "Ok, you may consider upgrade to >=5.4"
 msgstr "Ok , vous pouvez envisager de passer à >=5.4"
+
+msgid "Ok, you may upgrade to php 5.6"
+msgstr "Ok , vous pouvez passer à php 5.6"
