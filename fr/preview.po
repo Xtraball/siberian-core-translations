@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/preview/"
 "fr/>\n"
@@ -94,3 +94,23 @@ msgstr "Votre traduction de prévisualisation a été supprimé avec succès."
 
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Types de fichier:</b> %s<br />"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "An error occurred during the process. Please try again later."
+msgstr ""
+"Une erreur est survenue lors du traitement. Veuillez réessayer "
+"ultérieurement."
+
+msgid "OR"
+msgstr "Ou"
+
+msgid "Search"
+msgstr "Rechercher"

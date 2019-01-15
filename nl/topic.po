@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 14:02+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/topic/nl/>"
 "\n"
@@ -21,10 +21,20 @@ msgid "Manage Topics"
 msgstr "Onderwerpen beheren"
 
 msgid "Are you sure you want to close without saving?"
-msgstr "Weet u zeker dat u wilt sluiten zonder op te bewaren?"
+msgstr "Weet u zeker dat u wilt sluiten zonder te bewaren?"
 
 msgid "Description successfully saved."
 msgstr "Beschrijving succesvol opgeslagen."
 
 msgid "No topics for now."
 msgstr "Geen onderwerpen voor nu."
+
+msgid "Are you sure you want to delete this category and all its subcategories?"
+msgstr ""
+"Weet u zeker dat u deze categorie en alle subcategorieën wilt verwijderen?"
+
+msgid "Page description"
+msgstr "Pagina beschrijving"
+
+msgid "Subscribe"
+msgstr "Inschrijven"

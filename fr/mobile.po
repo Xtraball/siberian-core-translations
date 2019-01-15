@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mobile/fr/"
 ">\n"
@@ -271,13 +271,135 @@ msgstr ""
 "SSL."
 
 msgid "followers"
-msgstr "les adeptes"
+msgstr "abonnés"
 
 msgid "following"
-msgstr "Suivant"
+msgstr "abonnements"
 
 msgid "track"
 msgstr "piste"
 
 msgid "tracks"
 msgstr "piste"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "Lastname"
+msgstr "Nom"
+
+msgid "Add image"
+msgstr "Ajouter une image"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Date and time"
+msgstr "Date et heure"
+
+msgid "First name / Last name"
+msgstr "Prénom / Nom"
+
+msgid "Like"
+msgstr "J'aime"
+
+msgid "Loading"
+msgstr "Chargement"
+
+msgid "Locate"
+msgstr "Localiser"
+
+msgid "Log-in"
+msgstr "Connexion"
+
+msgid "Map"
+msgstr "Carte"
+
+msgid "Miss"
+msgstr "Mlle"
+
+msgid "Mr"
+msgstr "Mr"
+
+msgid "Mrs"
+msgstr "Mme"
+
+msgid "My account"
+msgstr "Mon compte"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Or with your account"
+msgstr "Ou avec votre compte"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Photos"
+msgstr "Photos"
+
+msgid "Please enter a valid email address"
+msgstr "Veuillez entrer une adresse email valide"
+
+msgid "Please enter your email address. We'll send you your password right now."
+msgstr ""
+"Veuillez indiquer votre adresse email. Nous vous envoyons un nouveau mot de "
+"passe."
+
+msgid "Podcast"
+msgstr "Podcast"
+
+msgid "RSVP"
+msgstr "RSVP"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Show me in ranking"
+msgstr "Apparaître dans le classement"
+
+msgid "The address you're looking for does not exists."
+msgstr "L'adresse que vous recherchez n'existe pas."
+
+msgid "This field is required"
+msgstr "Ce champ est obligatoire"
+
+msgid "Use this coupon"
+msgstr "Utiliser cette promotion"
+
+msgid "View"
+msgstr "Afficher"
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Your comment"
+msgstr "Votre commentaire"

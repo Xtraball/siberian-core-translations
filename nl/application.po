@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 16:40+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"PO-Revision-Date: 2019-01-15 09:02+0000\n"
+"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "application/nl/>\n"
 "Language: nl\n"
@@ -841,9 +841,8 @@ msgstr "Genereer analytics voor bepaalde tijd"
 msgid "Generate builds"
 msgstr "Genereer builds"
 
-#, fuzzy
 msgid "Generate source"
-msgstr "Genereer de bron"
+msgstr "Source aanmaken"
 
 msgid "Generation successfully queued."
 msgstr "Code bouw in de wachtrij geplaatst."
@@ -1138,7 +1137,6 @@ msgstr "Geen data gevonden"
 msgid "No message sent, there is no available applications."
 msgstr "Geen bericht is verzonden, er is geen beschikbare applicaties."
 
-#, fuzzy
 msgid "Offset"
 msgstr "compenseren"
 
@@ -1148,9 +1146,8 @@ msgstr "Optie succesvol opgeslagen"
 msgid "Options"
 msgstr "Opties"
 
-#, fuzzy
 msgid "Order places by distance:"
-msgstr "Bestelling plaatsen op afstand:"
+msgstr "Bestelling plaatsen door op afstand:"
 
 msgid "Order results alphebetically:"
 msgstr "Orden de resultaten alfabetisch:"
@@ -1166,7 +1163,6 @@ msgstr ""
 "de iOS Auto Publish-service gebruikt: als uw app wordt geweigerd na "
 "beoordeling, wordt één build verbruikt."
 
-#, fuzzy
 msgid "Please enter a number for the duration."
 msgstr "Vul een getal voor de duur."
 
@@ -1375,3 +1371,42 @@ msgstr "Privacy Beleid URL"
 
 msgid "Display title and subtitle in page"
 msgstr "Toon titel en ondertitel in pagina"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Twitter API secret"
+msgstr "Twitter API geheim"
+
+msgid "Twitter API settings"
+msgstr "Twitter-API-instellingen"
+
+msgid "Twitter consumer secret"
+msgstr "Twitter consument geheim"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "Choose a template to customize"
+msgstr "Kies een sjabloon om aan te passen"
+
+msgid "Education"
+msgstr "Educatie"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Android"
+msgstr "Android"
+
+msgid "Banner"
+msgstr "Banner"
+
+msgid "Use Owner AdMob"
+msgstr "Gebruik Eigenaar AdMob"
+
+msgid "Custom"
+msgstr "Aangepast"

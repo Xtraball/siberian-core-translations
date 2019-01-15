@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mcommerce/"
 "fr/>\n"
@@ -200,7 +200,7 @@ msgstr "Délai de livraison:"
 
 #: fr/mcommerce.csv:47
 msgid "Details"
-msgstr "détails"
+msgstr "Détails"
 
 #: fr/mcommerce.csv:48
 msgid "Edit a store"
@@ -352,7 +352,7 @@ msgstr "payé"
 
 #: fr/mcommerce.csv:85
 msgid "Password"
-msgstr "mot de passe"
+msgstr "Mot de passe"
 
 #: fr/mcommerce.csv:86
 msgid "Password:"
@@ -1067,3 +1067,51 @@ msgstr "Indiquez le prix Hors taxe"
 
 msgid "your choice"
 msgstr "Votre choix"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Add a format"
+msgstr "Ajouter un format"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Date of birth"
+msgstr "Date d'anniversaire"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Discount"
+msgstr "Promotion"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "Label"
+msgstr "Titre"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Lastname"
+msgstr "Nom"
+
+msgid "Postcode"
+msgstr "Code Postal"
+
+msgid "Product formats"
+msgstr "Formats du produit"
+
+msgid "Street"
+msgstr "Rue"

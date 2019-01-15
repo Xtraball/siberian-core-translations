@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 14:02+0000\n"
+"PO-Revision-Date: 2019-01-15 11:08+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/weblink/nl/"
 ">\n"
@@ -63,7 +63,7 @@ msgid "Your links"
 msgstr "Uw links"
 
 msgid "Enter your Magento URL"
-msgstr "Vulr je Magento URL in"
+msgstr "Vul je Magento URL in"
 
 msgid "Enter your Prestashop URL"
 msgstr "Vul je Prestaschop URL in"
@@ -78,22 +78,22 @@ msgid "Enter your WooCommerce URL"
 msgstr "Vul je WhooCommerce URL in"
 
 msgid "Prestashop"
-msgstr "Prestashop"
+msgstr "prestashop"
 
 msgid "Use external application"
 msgstr "Gebruik externe applicatie"
 
 msgid "Volusion"
-msgstr "Volusion"
+msgstr "volusion"
 
 msgid "Without navbar"
-msgstr "Zonder navigatie"
+msgstr "Zonder navigatiebalk"
 
 msgid "Magento"
-msgstr "magento taak"
+msgstr "magento"
 
 msgid "Shopify"
-msgstr "Shopify"
+msgstr "shopify"
 
 msgid "WooCommerce"
-msgstr "Webwinkel"
+msgstr "wooCommerce"

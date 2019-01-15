@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 15:40+0000\n"
+"PO-Revision-Date: 2019-01-15 09:46+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/backoffice/"
 "nl/>\n"
@@ -97,9 +97,8 @@ msgstr "Uw wachtwoord"
 msgid "Actions"
 msgstr "Acties"
 
-#, fuzzy
 msgid "Grant user"
-msgstr "Grand gebruiker"
+msgstr "Subsidie gebruiker"
 
 msgid "Rebuild manifest"
 msgstr "Het manifest opnieuw opbouwen"
@@ -110,9 +109,8 @@ msgstr "Gebruiker intrekken"
 msgid "Forgot password"
 msgstr "Wachtwoord vergeten"
 
-#, fuzzy
 msgid "Generate source"
-msgstr "Genereer de bron"
+msgstr "Source aanmaken"
 
 msgid "Save"
 msgstr "Bewaar"
@@ -142,7 +140,6 @@ msgstr "Nog niet gegenereerd."
 msgid "Self-managed"
 msgstr "Zelf beheerd"
 
-#, fuzzy
 msgid "Staging"
 msgstr "Regie"
 
@@ -439,7 +436,6 @@ msgstr ""
 msgid "Privacy policy URL"
 msgstr "Privacy Beleid URL"
 
-#, fuzzy
 msgid "Private"
 msgstr "Privé"
 
@@ -630,7 +626,7 @@ msgstr "U staat op het punt dit certificaat te verwijderen. Weet u het zeker?"
 msgid "You can use <b>%s</b> as a dynamic variable for your application name."
 msgstr ""
 "U kunt <b>%s gebruiken</b> als een dynamische variabele voor uw "
-"applicatienaam."
+"toepassingsnaam."
 
 msgid "You have a Source generation stuck for more than 1 hour, please check in <b>Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further builds you can remove locks from the button below."
 msgstr ""
@@ -670,3 +666,75 @@ msgid "<b>Note</b>: sources & push will be sent immediately after their creation
 msgstr ""
 "<b> Opmerking </ b>: bronnen & push zullen onmiddellijk worden verstuurd, "
 "geplande push zal niet werken & media optimalisatie is uitgeschakeld."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Templates"
+msgstr "Sjablonen"
+
+msgid "60000 maximum allowed."
+msgstr "60000 maximaal toegestaan."
+
+msgid "Editor's Design"
+msgstr "Ontwerp van de redactie"
+
+msgid "Number of typed characters:"
+msgstr "Aantal getypte tekens:"
+
+msgid "Add a custom text to the footer of your invoices"
+msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
+
+msgid "Invoice options"
+msgstr "Factuur opties"
+
+msgid "Sales configuration"
+msgstr "Verkoop-configuratie"
+
+msgid "VAT check options"
+msgstr "Opties voor btw-controle"
+
+msgid "Authenticate"
+msgstr "Autoriseren"
+
+msgid "Backoffice options"
+msgstr "Backoffice opties"
+
+msgid "Clear cache"
+msgstr "Cache wissen"
+
+msgid "Clear logs"
+msgstr "Log wissen"
+
+msgid "Created At"
+msgstr "Gemaakt op"
+
+msgid "Exists"
+msgstr "Bestaat"
+
+msgid "Select API access"
+msgstr "Selecteer API-toegang"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "OR"
+msgstr "OF"
+
+msgid "Clear"
+msgstr "Wis"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Ok"
+msgstr "Oké"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Success"
+msgstr "Succes"
+
+msgid "Creation date"
+msgstr "Aanmaakdatum"

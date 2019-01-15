@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 14:02+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/twitter/nl/"
 ">\n"
@@ -35,3 +35,27 @@ msgstr "werd met succes geverifieerd"
 
 msgid "Twitter consumer key"
 msgstr "Twitter-consumentssleutel"
+
+msgid "Enter your twitter handle/url"
+msgstr "Vul je twitter-handle / url in"
+
+msgid "Handle"
+msgstr "Handle"
+
+msgid "Twitter API secret"
+msgstr "Twitter API geheim"
+
+msgid "Twitter API settings"
+msgstr "Twitter-API-instellingen"
+
+msgid "Twitter consumer secret"
+msgstr "Twitter consument geheim"
+
+msgid "Verify"
+msgstr "Verifiëren"
+
+msgid "followers"
+msgstr "volgers"
+
+msgid "following"
+msgstr "volgend"

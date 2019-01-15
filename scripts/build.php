@@ -2,6 +2,8 @@
 
 chdir(__DIR__ . "/..");
 
+exec("npm version patch");
+
 $locales = [
     "ca" => "Catalan",
     "cs" => "Czech",
@@ -80,5 +82,5 @@ foreach ($locales as $folder => $human) {
     }
 
     $version = $package["version"];
-    exec("cd ./builds/Locale{$human}/; zip -r -9 -x@../../scripts/exclude.list ../Locale{$human}-{$version}.zip ./ ; cd ../../");
+    exec("cd ./builds/Locale{$human}/; zip -r -9 -x@../../scripts/exclude.list ../Locale{$human}.zip ./ ; cd ../../");
 }

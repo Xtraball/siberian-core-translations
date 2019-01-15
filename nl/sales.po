@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 14:06+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/sales/nl/>"
 "\n"
@@ -101,3 +101,18 @@ msgid "This message will be displayed as a waiting message when your users chose
 msgstr ""
 "Dit bericht wordt weergegeven als een wachtend bericht wanneer uw gebruikers "
 "een offline betaalmethode hebben gekozen"
+
+msgid "Add a custom text to the footer of your invoices"
+msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
+
+msgid "Invoice options"
+msgstr "Factuur opties"
+
+msgid "Payment Method"
+msgstr "Betalingsmethode"
+
+msgid "Sales configuration"
+msgstr "Verkoop-configuratie"
+
+msgid "VAT check options"
+msgstr "Opties voor btw-controle"

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 13:58+0000\n"
+"PO-Revision-Date: 2019-01-14 21:49+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/codescan/"
 "nl/>\n"
@@ -13,3 +13,6 @@ msgstr ""
 
 msgid "An error occurred while reading the code"
 msgstr "Er is een fout opgetreden tijdens het lezen van de code"
+
+msgid "Scan result"
+msgstr "Scan resultaat"

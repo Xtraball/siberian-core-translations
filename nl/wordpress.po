@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 14:02+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/wordpress/"
 "nl/>\n"
@@ -123,3 +123,39 @@ msgid "You can mix posts & pages in the queries if needed, however it's not reco
 msgstr ""
 "U kunt indien nodig berichten en pagina's in de query's mixen, maar het "
 "wordt niet aanbevolen en kan leiden tot willekeurige sortering."
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "Ascending"
+msgstr "Oplopend"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Descending"
+msgstr "Aflopend"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "Relevance"
+msgstr "Relevantie"
+
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgid "Sort order"
+msgstr "Sorteervolgorde"
+
+msgid "WordPress URL"
+msgstr "Wordpress URL"

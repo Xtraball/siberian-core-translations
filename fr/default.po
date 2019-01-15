@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 11:02+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
@@ -20,7 +20,7 @@ msgstr "404, page non trouvée"
 
 #: fr/default.csv:2
 msgid "APIs"
-msgstr "APIs"
+msgstr "API"
 
 #: fr/default.csv:3
 msgid "Accounts"
@@ -256,7 +256,7 @@ msgstr "Dashboard"
 
 #: fr/default.csv:61
 msgid "Date of birth"
-msgstr "Date de naissance"
+msgstr "Date d'anniversaire"
 
 #: fr/default.csv:62
 msgid "Date of birth:"
@@ -272,7 +272,7 @@ msgstr "Supprimer"
 
 #: fr/default.csv:65
 msgid "Description"
-msgstr "Descriptif"
+msgstr "Description"
 
 #: fr/default.csv:66
 msgid "Description:"
@@ -284,7 +284,7 @@ msgstr "Détails"
 
 #: fr/default.csv:68
 msgid "Discount"
-msgstr "Promo"
+msgstr "Promotion"
 
 #: fr/default.csv:69
 msgid "Edit"
@@ -296,7 +296,7 @@ msgstr "Création"
 
 #: fr/default.csv:71
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: fr/default.csv:72
 msgid "Email address"
@@ -440,7 +440,7 @@ msgstr "Factures"
 
 #: fr/default.csv:107
 msgid "Last Name"
-msgstr "Nom"
+msgstr "Nom de famille"
 
 #: fr/default.csv:108
 msgid "Lastname"
@@ -452,7 +452,7 @@ msgstr "Nom de Famille :"
 
 #: fr/default.csv:110
 msgid "Like"
-msgstr "Aimez"
+msgstr "J'aime"
 
 #: fr/default.csv:111
 msgid "Likes"
@@ -540,7 +540,7 @@ msgstr "Gérer"
 
 #: fr/default.csv:132
 msgid "Map"
-msgstr "Map"
+msgstr "Carte"
 
 #: fr/default.csv:133
 msgid "Maps"
@@ -588,7 +588,7 @@ msgstr "Mur d'actu"
 
 #: fr/default.csv:144
 msgid "Next"
-msgstr "Next"
+msgstr "Suivant"
 
 #: fr/default.csv:145
 msgid "No"
@@ -624,7 +624,7 @@ msgstr "OK"
 
 #: fr/default.csv:153
 msgid "OR"
-msgstr "OU"
+msgstr "Ou"
 
 #: fr/default.csv:154
 msgid "Ouch, this page doesn't exist"
@@ -696,7 +696,7 @@ msgstr "SVP entrer une date valide."
 
 #: fr/default.csv:171
 msgid "Please enter a valid email address"
-msgstr "Veuillez saisir une adresse email valide"
+msgstr "Veuillez entrer une adresse email valide"
 
 #: fr/default.csv:172
 msgid "Please enter a valid email address."
@@ -776,7 +776,7 @@ msgstr "Podcast"
 
 #: fr/default.csv:191
 msgid "Podcast URL (iTunes format)"
-msgstr "URL Podcast (en format iTunes)"
+msgstr "Podcast URL (format iTunes)"
 
 #: fr/default.csv:192
 msgid "Podcast type is invalid or can't be found"
@@ -816,7 +816,7 @@ msgstr "ENVOYER"
 
 #: fr/default.csv:201
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Enregistrer"
 
 #: fr/default.csv:202
 msgid "Search"
@@ -852,7 +852,7 @@ msgstr "Taille :"
 
 #: fr/default.csv:210
 msgid "Street"
-msgstr "rue"
+msgstr "Rue"
 
 #: fr/default.csv:211
 msgid "Street:"
@@ -888,7 +888,7 @@ msgstr "Le compte a été sauvegardé avec succès"
 
 #: fr/default.csv:219
 msgid "The address you're looking for does not exists."
-msgstr "L'adresse que vous cherchez n'existe pas."
+msgstr "L'adresse que vous recherchez n'existe pas."
 
 #: fr/default.csv:220
 msgid "The email is required"
@@ -980,7 +980,7 @@ msgstr "Mise à jour le"
 
 #: fr/default.csv:242
 msgid "Use this coupon"
-msgstr "Utiliser cette promo"
+msgstr "Utiliser cette promotion"
 
 #: fr/default.csv:243
 msgid "User"
@@ -1012,7 +1012,7 @@ msgstr "Version %s"
 
 #: fr/default.csv:250
 msgid "View"
-msgstr "Voir"
+msgstr "Afficher"
 
 #: fr/default.csv:251
 msgid "We are sorry but this address is already used."
@@ -1028,7 +1028,7 @@ msgstr "Nous sommes désolé mais cette fonctionnalité n'est pas encore disponi
 
 #: fr/default.csv:254
 msgid "Website"
-msgstr "Site Web"
+msgstr "Site web"
 
 #: fr/default.csv:255
 msgid "Yes"
@@ -1108,7 +1108,7 @@ msgstr "Youtube"
 
 #: fr/default.csv:274
 msgid "close"
-msgstr "Fermer"
+msgstr "fermer"
 
 #: fr/default.csv:275
 msgid "day"
@@ -1327,3 +1327,18 @@ msgstr "De:"
 
 msgid "Number of people"
 msgstr "Nombre de personnes"
+
+msgid "Event"
+msgstr "Evénement"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Date and time"
+msgstr "Date et heure"
+
+msgid "First name / Last name"
+msgstr "Prénom / Nom"
+
+msgid "Loading"
+msgstr "Chargement"

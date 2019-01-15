@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 14:02+0000\n"
+"PO-Revision-Date: 2019-01-15 11:08+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
 "nl/>\n"
@@ -63,7 +63,7 @@ msgid "Content background"
 msgstr "Inhoud achtergrond"
 
 msgid "Content color"
-msgstr "Inhoud kleur"
+msgstr "Kleur inhoud"
 
 msgid "Customize My Editor"
 msgstr "Pas mijn editor aan"
@@ -96,3 +96,42 @@ msgstr "White-label naam"
 
 msgid "Titles"
 msgstr "Titels"
+
+msgid "App Name"
+msgstr "App naam"
+
+msgid "Area"
+msgstr "Gebied"
+
+msgid "Contact e-mail"
+msgstr "Contact email"
+
+msgid "Drop Down"
+msgstr "Dropdown"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Enable White-Label"
+msgstr "Witte label inschakelen"
+
+msgid "Favicon"
+msgstr "favicon"
+
+msgid "Full address"
+msgstr "Volledig adres"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Page"
+msgstr "Pagina"
+
+msgid "Sidebar background"
+msgstr "Zijbalk achtergrond"

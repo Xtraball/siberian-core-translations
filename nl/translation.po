@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-14 14:02+0000\n"
+"PO-Revision-Date: 2019-01-14 21:50+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
 "translation/nl/>\n"
@@ -12,10 +12,10 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 msgid "Please, choose a file."
-msgstr "Kies alstublieft een bestand."
+msgstr "Kies een bestand."
 
 msgid "Please, choose a language."
-msgstr "Kies alstublieft een taal."
+msgstr "Kies een taal."
 
 msgid "Edit the language: %s"
 msgstr "Bewerk de taal: %s"
@@ -34,3 +34,32 @@ msgstr "Vertaal-API is niet beschikbaar voor de huidige taal."
 
 msgid "Your translation"
 msgstr "Uw vertaling"
+
+msgid "Create a new language"
+msgstr "Maak een nieuwe taal"
+
+msgid "Default text"
+msgstr "Standaardtekst"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Language successfully saved"
+msgstr "Taal succesvol opgeslagen"
+
+msgid "List of your languages"
+msgstr "Lijst met uw talen"
+
+msgid "Select a file"
+msgstr "Selecteer bestand"
+
+msgid "Select a language"
+msgstr "Een taal selecteren"
+
+msgid "Text translation"
+msgstr "Tekst vertalen"
+
+msgid "Warning: translation API is experimental for the current language and may fail."
+msgstr ""
+"<b>Waarschuwing:</b> vertaling API is experimenteel voor de huidige taal en "
+"kan mislukken."

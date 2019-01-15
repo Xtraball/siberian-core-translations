@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-13 19:40+0000\n"
+"PO-Revision-Date: 2019-01-15 10:38+0000\n"
 "Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/media/nl/>"
 "\n"
@@ -138,7 +138,7 @@ msgstr "leeg"
 
 #: nl/media.csv:31
 msgid "Feed URL"
-msgstr "Feed URL"
+msgstr "Feed-URL"
 
 #: nl/media.csv:32
 msgid "Feed URL <span class=\"required-entry\">*</span> :"
@@ -174,7 +174,7 @@ msgstr "Fotoalbum met succes opgeslagen"
 
 #: nl/media.csv:40
 msgid "Instagram"
-msgstr "Instagram"
+msgstr "instagram"
 
 #: nl/media.csv:41
 msgid "Last update:"
@@ -262,11 +262,11 @@ msgstr "Speellijst succesvol opgeslagen."
 
 #: nl/media.csv:62
 msgid "Podcast"
-msgstr "Podcast"
+msgstr "podcast"
 
 #: nl/media.csv:63
 msgid "Podcast URL (iTunes format)"
-msgstr "Podcast URL (iTunes format)"
+msgstr "Podcast URL (iTunes formaat)"
 
 #: nl/media.csv:64
 msgid "previous"
@@ -330,7 +330,7 @@ msgstr "Video galerij is met succes opgeslagen"
 
 #: nl/media.csv:79
 msgid "Vimeo"
-msgstr "Vimeo"
+msgstr "vimeo"
 
 msgid "An error occurred while loading the media."
 msgstr "Er is een fout opgetreden tijdens het laden van de media."
@@ -374,5 +374,14 @@ msgstr "Albumlijst opnieuw laden?"
 
 msgid "An error occurred while retrieving your page. Please check your page id."
 msgstr ""
-"Er is een fout opgetreden bij het ophalen van uw pagina. Controleer "
-"alstublieft uw pagina-ID."
+"Er is een fout opgetreden bij het ophalen van uw pagina. Controleer uw "
+"pagina-ID."
+
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "Ik luister naar $1 van $2 op $3 app."
+
+msgid "I'm listening to $1 on $2 app."
+msgstr "Ik luister naar $1 op $2 app."
+
+msgid "Flickr"
+msgstr "flickr"
