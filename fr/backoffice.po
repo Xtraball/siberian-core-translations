@@ -984,3 +984,6 @@ msgstr "Le paramètre par défaut pour exécuter votre serveur de production."
 msgid "The domain %s doesn't belong to you, or is not configured on your server."
 msgstr ""
 "Le domaine ne vous appartient pas ou n'est pas configuré à votre serveur"
+
+msgid "The given CA certificate doesn't match the hostname."
+msgstr "Le certificat CA donné ne correspond pas au nom d'hôte."
