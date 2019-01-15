@@ -282,3 +282,6 @@ msgstr "CA"
 
 msgid "CA certificate"
 msgstr "Certificat CA"
+
+msgid "CA path:"
+msgstr "Accès CA :"
