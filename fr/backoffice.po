@@ -240,3 +240,6 @@ msgstr "Paramètres de l'application"
 
 msgid "Application successfully queued for generation."
 msgstr "Demande en file d'attente pour la génération."
+
+msgid "Applications/Previewer manifest for automatic updates."
+msgstr "Applications / Previewer manifeste pour les mises à jour automatiques ."
