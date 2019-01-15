@@ -708,3 +708,6 @@ msgstr "Ouvert"
 
 msgid "Open the tour editing mode"
 msgstr "Ouvrez le mode d'édition tour"
+
+msgid "Optional binaries"
+msgstr "Bibliothèques optionnelles"
