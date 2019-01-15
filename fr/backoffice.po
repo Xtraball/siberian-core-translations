@@ -336,3 +336,6 @@ msgstr "Effacer erreurs cron"
 
 msgid "Click here to send your CA certificate"
 msgstr "Cliquez ici pour envoyer votre certificat CA"
+
+msgid "Click here to send your Private certificate"
+msgstr "Cliquez ici pour envoyer votre certificat Privé"
