@@ -946,3 +946,6 @@ msgstr "Enregistrer le certificat avec succès à% s"
 
 msgid "Sync files"
 msgstr "Synchronisation de fichiers"
+
+msgid "System Diagnostic"
+msgstr "Diagnostic du système"
