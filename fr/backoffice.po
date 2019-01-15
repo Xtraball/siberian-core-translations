@@ -1152,3 +1152,8 @@ msgstr ""
 "Vous êtes sur le point d' effacer tous vos fichiers temporaires , ce qui "
 "inclut les sources générées et apk construit !\\n"
 " Êtes-vous sûr ?"
+
+msgid "You can use <b>%s</b> as a dynamic variable for your application name."
+msgstr ""
+"Vous pouvez utiliser <b>% s </ b> comme variable dynamique pour le nom de "
+"votre application."
