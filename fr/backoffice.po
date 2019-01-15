@@ -960,3 +960,6 @@ msgstr ""
 
 msgid "System was unable to validate any HTTP Basic Auth call."
 msgstr "Le système n'a pu valider un appel HTTP Basic Aut."
+
+msgid "Temp (var/tmp, application sources & apk)"
+msgstr "Temp (var/tmp, application sources & apk)"
