@@ -749,3 +749,7 @@ msgstr "Accès à votre clé Privée"
 
 msgid "Payment received"
 msgstr "Paiement reçu"
+
+msgid "Permission, denied from Plesk, please use the admin account."
+msgstr ""
+"Autorisation refusée à partir du Plesk, veuillez utiliser le compte admin."
