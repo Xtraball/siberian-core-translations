@@ -308,3 +308,6 @@ msgid "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: 
 msgstr ""
 "Le certificat est valide et SSL est accessible, valable jusqu'au: %s.<br "
 "/>l'émetteur: %s%s"
+
+msgid "Certificate path:"
+msgstr "Chemin d'accès du certificat:"
