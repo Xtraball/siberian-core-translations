@@ -928,3 +928,6 @@ msgid "Submit a bug report or improvement request for beta/preview"
 msgstr ""
 "Soumettre un rapport de bug ou une demande d'amélioration pour la version bê"
 "ta/Aperçu"
+
+msgid "Success"
+msgstr "Succès"
