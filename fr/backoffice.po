@@ -577,3 +577,6 @@ msgstr "Dernier succès"
 
 msgid "Last trigger"
 msgstr "Dernier déclencheur"
+
+msgid "Let's Encrypt certificates renewal"
+msgstr "\"Let's Encrypt\" le renouvellement de certificats"
