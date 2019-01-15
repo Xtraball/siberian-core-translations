@@ -598,3 +598,6 @@ msgstr "Chargé"
 
 msgid "Log"
 msgstr "Journal"
+
+msgid "Log (var/log, log files)"
+msgstr "Log (var/log, log files)"
