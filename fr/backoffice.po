@@ -444,3 +444,6 @@ msgstr ""
 
 msgid "External extensions"
 msgstr "Extensions externes"
+
+msgid "Failed"
+msgstr "Échec"
