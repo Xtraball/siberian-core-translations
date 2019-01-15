@@ -124,3 +124,6 @@ msgstr "Utiliser la conception de la carte"
 
 msgid "Add feature"
 msgstr "Ajouter une fonctionnalité"
+
+msgid "Cancel"
+msgstr "Annuler"
