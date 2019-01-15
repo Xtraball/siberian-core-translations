@@ -399,3 +399,6 @@ msgstr "DirectAdmin"
 
 msgid "DirectAdmin (beta)"
 msgstr "DirectAdmin (beta)"
+
+msgid "Disable cron jobs"
+msgstr "Désactiver les tâches cron"
