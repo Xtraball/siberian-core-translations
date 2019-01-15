@@ -957,3 +957,6 @@ msgid "System was unable to validate any Bearer Token Auth call."
 msgstr ""
 "Le système n'a pas pu valider un appel d'authentification de marque de "
 "support."
+
+msgid "System was unable to validate any HTTP Basic Auth call."
+msgstr "Le système n'a pu valider un appel HTTP Basic Aut."
