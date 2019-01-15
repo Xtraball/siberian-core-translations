@@ -849,3 +849,6 @@ msgstr "Enregistrer"
 
 msgid "Select a panel type or self-managed"
 msgstr "Sélectionnez un type de panneau ou autogéré"
+
+msgid "Self-managed"
+msgstr "Auto-géré"
