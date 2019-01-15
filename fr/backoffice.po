@@ -607,3 +607,6 @@ msgstr "Logs effacés"
 
 msgid "Mark all as read"
 msgstr "Marquer tout comme lu"
+
+msgid "Mark as new"
+msgstr "Marquer comme nouveau"
