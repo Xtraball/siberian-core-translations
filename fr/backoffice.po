@@ -390,3 +390,6 @@ msgstr "Désactiver utilisateur"
 
 msgid "Default (no)"
 msgstr "Par défaut (aucune)"
+
+msgid "Development"
+msgstr "Développement"
