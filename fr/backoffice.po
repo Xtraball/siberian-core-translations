@@ -1117,3 +1117,6 @@ msgstr "Marque Blanche"
 
 msgid "Whitelabel"
 msgstr "Marque Blanche"
+
+msgid "Whitelabel hostnames associated with this Certificate"
+msgstr "noms d'hôte de la Marque Blanche associée à ce Certificat"
