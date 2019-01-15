@@ -258,3 +258,6 @@ msgstr "Moyen du temps de construction des fichiers source et APK"
 
 msgid "Bearer Token Auth (API)"
 msgstr "Authentification par marque de support (API)"
+
+msgid "Bearer Token Auth is valid."
+msgstr "Titulaire de la marque d'Authentification est valide."
