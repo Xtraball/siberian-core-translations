@@ -480,3 +480,6 @@ msgstr "Générateur"
 
 msgid "[Global]"
 msgstr "[Global]"
+
+msgid "HTTP Basic Auth (API)"
+msgstr "Authentification HTTP Basic (API)"
