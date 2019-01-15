@@ -737,3 +737,6 @@ msgstr "Mot de passe"
 
 msgid "Path to your CA certificate"
 msgstr "Chemin d'accès à votre certificat CA"
+
+msgid "Path to your Certificate"
+msgstr "Accès vers votre Certificat"
