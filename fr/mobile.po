@@ -380,3 +380,6 @@ msgstr "Réponse SVP"
 
 msgid "Send"
 msgstr "Envoyer"
+
+msgid "Show me in ranking"
+msgstr "Je veux apparaître dans le classement"
