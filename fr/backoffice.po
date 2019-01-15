@@ -731,3 +731,6 @@ msgstr "PEM Test:"
 
 msgid "PHP version %s:"
 msgstr "La version de PHP %s:"
+
+msgid "Password"
+msgstr "Mot de passe"
