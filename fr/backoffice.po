@@ -622,3 +622,6 @@ msgstr "Minutes"
 
 msgid "Missing parameters for generation."
 msgstr "Paramètres pour la génération manquante ."
+
+msgid "Mobile Source Codes & Builds"
+msgstr "Codes Source mobiles et Builds"
