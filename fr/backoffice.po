@@ -1051,3 +1051,6 @@ msgstr ""
 
 msgid "Unknown - Self-managed"
 msgstr "Inconnu - Autogéré"
+
+msgid "Update channel"
+msgstr "Mise à jour de canal"
