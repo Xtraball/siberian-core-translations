@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 10:40+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mobile/fr/"
 ">\n"
@@ -307,7 +307,7 @@ msgid "Add image"
 msgstr "Ajouter une image"
 
 msgid "Address"
-msgstr "Addresse"
+msgstr "Adresse"
 
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
@@ -322,13 +322,13 @@ msgid "Comment"
 msgstr "Commentaire"
 
 msgid "Date and time"
-msgstr "Date et Heure"
+msgstr "Date et heure"
 
 msgid "First name / Last name"
-msgstr "Prénom / NOM"
+msgstr "Prénom / Nom"
 
 msgid "Like"
-msgstr "Like"
+msgstr "J'aime"
 
 msgid "Loading"
 msgstr "Chargement"
@@ -337,10 +337,10 @@ msgid "Locate"
 msgstr "Localiser"
 
 msgid "Log-in"
-msgstr "S'identifier"
+msgstr "Connexion"
 
 msgid "Map"
-msgstr "Map"
+msgstr "Carte"
 
 msgid "Miss"
 msgstr "Mlle"
@@ -355,7 +355,7 @@ msgid "My account"
 msgstr "Mon compte"
 
 msgid "OK"
-msgstr "Ok"
+msgstr "OK"
 
 msgid "Or with your account"
 msgstr "Ou avec votre compte"
@@ -367,22 +367,24 @@ msgid "Photos"
 msgstr "Photos"
 
 msgid "Please enter a valid email address"
-msgstr "SVP, entrez une adresse email valide"
+msgstr "Veuillez entrer une adresse email valide"
 
 msgid "Please enter your email address. We'll send you your password right now."
-msgstr "SVP, entrez votre adresse mail, nous vous enverrons votre mot de passe."
+msgstr ""
+"Veuillez indiquer votre adresse email. Nous vous envoyons un nouveau mot de "
+"passe."
 
 msgid "Podcast"
 msgstr "Podcast"
 
 msgid "RSVP"
-msgstr "Réponse SVP"
+msgstr "RSVP"
 
 msgid "Send"
 msgstr "Envoyer"
 
 msgid "Show me in ranking"
-msgstr "Je veux apparaître dans le classement"
+msgstr "Apparaître dans le classement"
 
 msgid "The address you're looking for does not exists."
 msgstr "L'adresse que vous recherchez n'existe pas."
@@ -391,10 +393,13 @@ msgid "This field is required"
 msgstr "Ce champ est obligatoire"
 
 msgid "Use this coupon"
-msgstr "Utiliser cette promo"
+msgstr "Utiliser cette promotion"
 
 msgid "View"
-msgstr "Voir"
+msgstr "Afficher"
 
 msgid "Website"
-msgstr "Site Web"
+msgstr "Site web"
+
+msgid "Your comment"
+msgstr "Votre commentaire"
