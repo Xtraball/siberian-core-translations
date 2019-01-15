@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-15 10:30+0000\n"
+"PO-Revision-Date: 2019-01-15 10:42+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
@@ -256,7 +256,7 @@ msgstr "Dashboard"
 
 #: fr/default.csv:61
 msgid "Date of birth"
-msgstr "Date de naissance"
+msgstr "Date d'anniversaire"
 
 #: fr/default.csv:62
 msgid "Date of birth:"
@@ -284,7 +284,7 @@ msgstr "Détails"
 
 #: fr/default.csv:68
 msgid "Discount"
-msgstr "Promo"
+msgstr "Promotion"
 
 #: fr/default.csv:69
 msgid "Edit"
@@ -296,7 +296,7 @@ msgstr "Création"
 
 #: fr/default.csv:71
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: fr/default.csv:72
 msgid "Email address"
@@ -440,7 +440,7 @@ msgstr "Factures"
 
 #: fr/default.csv:107
 msgid "Last Name"
-msgstr "Nom"
+msgstr "Nom de famille"
 
 #: fr/default.csv:108
 msgid "Lastname"
@@ -624,7 +624,7 @@ msgstr "OK"
 
 #: fr/default.csv:153
 msgid "OR"
-msgstr "OU"
+msgstr "Ou"
 
 #: fr/default.csv:154
 msgid "Ouch, this page doesn't exist"
@@ -776,7 +776,7 @@ msgstr "Podcast"
 
 #: fr/default.csv:191
 msgid "Podcast URL (iTunes format)"
-msgstr "URL Podcast (en format iTunes)"
+msgstr "Podcast URL (format iTunes)"
 
 #: fr/default.csv:192
 msgid "Podcast type is invalid or can't be found"
@@ -852,7 +852,7 @@ msgstr "Taille :"
 
 #: fr/default.csv:210
 msgid "Street"
-msgstr "rue"
+msgstr "Rue"
 
 #: fr/default.csv:211
 msgid "Street:"
@@ -1108,7 +1108,7 @@ msgstr "Youtube"
 
 #: fr/default.csv:274
 msgid "close"
-msgstr "Fermer"
+msgstr "fermer"
 
 #: fr/default.csv:275
 msgid "day"
@@ -1333,3 +1333,6 @@ msgstr "Evénement"
 
 msgid "Port"
 msgstr "Port"
+
+msgid "Date and time"
+msgstr "Date et heure"
