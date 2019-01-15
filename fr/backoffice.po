@@ -691,3 +691,6 @@ msgstr "Nombre de caractères tapés:"
 
 msgid "Ok"
 msgstr "Ok"
+
+msgid "Ok, you may consider upgrade to >=5.4"
+msgstr "Ok , vous pouvez envisager de passer à >=5.4"
