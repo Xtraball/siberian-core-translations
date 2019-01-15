@@ -987,3 +987,6 @@ msgstr ""
 
 msgid "The given CA certificate doesn't match the hostname."
 msgstr "Le certificat CA donné ne correspond pas au nom d'hôte."
+
+msgid "The given certificate doesn't match the hostname."
+msgstr "Le certificat donné ne correspond pas au nom d'hôte."
