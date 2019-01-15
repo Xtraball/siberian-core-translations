@@ -759,3 +759,6 @@ msgstr "Parallels Plesk panel"
 
 msgid "Plesk 12+"
 msgstr "Plesk 12+"
+
+msgid "[Plesk] Unknown error."
+msgstr "[Plesk] erreur Inconnue."
