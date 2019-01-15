@@ -2362,3 +2362,6 @@ msgstr "Evénement"
 
 msgid "Extension not allowed, '%s' only"
 msgstr "Extension non autorisée, '%s' seulement."
+
+msgid "Facebook"
+msgstr "Facebook"
