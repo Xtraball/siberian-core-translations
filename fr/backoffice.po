@@ -798,3 +798,6 @@ msgstr "File d'attente"
 
 msgid "Queued %s/%s"
 msgstr "File d'attente %s/%s"
+
+msgid "Read"
+msgstr "Lire"
