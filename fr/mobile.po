@@ -383,3 +383,6 @@ msgstr "Envoyer"
 
 msgid "Show me in ranking"
 msgstr "Je veux apparaître dans le classement"
+
+msgid "The address you're looking for does not exists."
+msgstr "L'adresse que vous recherchez n'existe pas."
