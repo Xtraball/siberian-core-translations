@@ -1,125 +1,210 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-14 17:36+0000\n"
-"Last-Translator: Suggestion API <dev@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/cms/ru/>"
 "\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/cms.csv:1
-msgid ".mp4 or .3gp format"
-msgstr "mp4 или 3gp формат"
-
-#: ru/cms.csv:2
+msgctxt "Add "
 msgid "Add "
 msgstr "Добавить"
 
-#: ru/cms.csv:3
-msgid "Add sections:"
-msgstr "Добавить разделы:"
-
-#: ru/cms.csv:4
-msgid "Address:"
-msgstr "Адрес:"
-
-#: ru/cms.csv:5
-msgid "Alignment:"
-msgstr "Выравнивание:"
-
-#: ru/cms.csv:6
-msgid "An error occurred while saving your page."
-msgstr "Произошла ошибка при сохранении вашей страницы."
-
-#: ru/cms.csv:7
-msgid "Are you sure you want to delete this page?"
-msgstr "Вы уверены, что хотите удалить эту страницу?"
-
-#: ru/cms.csv:8
-msgid "Display address"
-msgstr "Показать адрес"
-
-#: ru/cms.csv:9
-msgid "Display location button"
-msgstr "Показать кнопку расположения"
-
-#: ru/cms.csv:10
-msgid "Label"
-msgstr "Этикетка"
-
-#: ru/cms.csv:11
-msgid "Label:"
-msgstr "Этикетка:"
-
-#: ru/cms.csv:12
-msgid "Large"
-msgstr "Большой"
-
-#: ru/cms.csv:13
-msgid "Loading picture:"
-msgstr "Загрузка изображения:"
-
-#: ru/cms.csv:14
-msgid "Make a search or enter the Youtube Url:"
-msgstr "Сделайте поиск или введите ссылку на Youtube:"
-
-#: ru/cms.csv:15
-msgid "Medium"
-msgstr "Способ"
-
-#: ru/cms.csv:16
-msgid "My Youtube video:"
-msgstr "Моё Youtube видео:"
-
-#: ru/cms.csv:17
-msgid "My video"
-msgstr "Мое видео"
-
-#: ru/cms.csv:18
-msgid "No videos matching your selection"
-msgstr "Видео не соответствует выбору"
-
-#: ru/cms.csv:19
-msgid "Page successfully deleted"
-msgstr "Страница успешно удалена"
-
-#: ru/cms.csv:20
-msgid "Page successfully saved"
-msgstr "Страница успешно сохранена"
-
-#: ru/cms.csv:21
-msgid "Podcast URL:"
-msgstr "Ссылка на Подкаст:"
-
-#: ru/cms.csv:22
-msgid "Select a button type:"
-msgstr "Выберите тип кнопки:"
-
-#: ru/cms.csv:23
-msgid "Select a video type:"
-msgstr "Выберите тип видео:"
-
-#: ru/cms.csv:24
-msgid "Small"
-msgstr "Небольшой"
-
-#: ru/cms.csv:25
-msgid "Video URL:"
-msgstr "Ссылка на видео:"
-
-#: ru/cms.csv:26
-msgid "Your Podcast:"
-msgstr "Ваш Подкаст:"
-
+msgctxt "Add attachement"
 msgid "Add attachement"
 msgstr "Добавить вложении"
 
+msgctxt "Add cover"
 msgid "Add cover"
 msgstr "Добавить крышка"
+
+msgctxt "Add sections:"
+msgid "Add sections:"
+msgstr "Добавить разделы:"
+
+msgctxt "Add to address book"
+msgid "Add to address book"
+msgstr ""
+
+msgctxt "Address:"
+msgid "Address:"
+msgstr "Адрес:"
+
+msgctxt "Alignment:"
+msgid "Alignment:"
+msgstr "Выравнивание:"
+
+msgctxt "An error occured."
+msgid "An error occured."
+msgstr ""
+
+msgctxt "An error occurred while saving your page."
+msgid "An error occurred while saving your page."
+msgstr "Произошла ошибка при сохранении вашей страницы."
+
+msgctxt "Are you sure you want to delete this page?"
+msgid "Are you sure you want to delete this page?"
+msgstr "Вы уверены, что хотите удалить эту страницу?"
+
+msgctxt "At least one section is required to save."
+msgid "At least one section is required to save."
+msgstr "По крайней мере, один параметр является обязательным:"
+
+msgctxt "Attachement"
+msgid "Attachement"
+msgstr "Добавить вложении"
+
+msgctxt "Attachment:"
+msgid "Attachment:"
+msgstr ""
+
+msgctxt "Custom icon"
+msgid "Custom icon"
+msgstr ""
+
+msgctxt "Custom page"
+msgid "Custom page"
+msgstr "Свой"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Описание"
+
+msgctxt "Display address"
+msgid "Display address"
+msgstr "Показать адрес"
+
+msgctxt "Display image in page"
+msgid "Display image in page"
+msgstr ""
+
+msgctxt "Display location button"
+msgid "Display location button"
+msgstr "Показать кнопку расположения"
+
+msgctxt "Display title and subtitle in page"
+msgid "Display title and subtitle in page"
+msgstr ""
+
+msgctxt "Email:"
+msgid "Email:"
+msgstr "Email:"
+
+msgctxt "Hide navbar"
+msgid "Hide navbar"
+msgstr ""
+
+msgctxt "Label"
+msgid "Label"
+msgstr "Этикетка"
+
+msgctxt "Large"
+msgid "Large"
+msgstr "Большой"
+
+msgctxt "Latitude:"
+msgid "Latitude:"
+msgstr ""
+
+msgctxt "Link:"
+msgid "Link:"
+msgstr "Ссылка:"
+
+msgctxt "Loading picture:"
+msgid "Loading picture:"
+msgstr "Загрузка изображения:"
+
+msgctxt "Longitude:"
+msgid "Longitude:"
+msgstr ""
+
+msgctxt "Make a search or enter the Youtube Url:"
+msgid "Make a search or enter the Youtube Url:"
+msgstr "Сделайте поиск или введите ссылку на Youtube:"
+
+msgctxt "Medium"
+msgid "Medium"
+msgstr "Способ"
+
+msgctxt "My Youtube video:"
+msgid "My Youtube video:"
+msgstr "Моё Youtube видео:"
+
+msgctxt "My video"
+msgid "My video"
+msgstr "Мое видео"
+
+msgctxt "No videos matching your selection"
+msgid "No videos matching your selection"
+msgstr "Видео не соответствует выбору"
+
+msgctxt "Page successfully deleted"
+msgid "Page successfully deleted"
+msgstr "Страница успешно удалена"
+
+msgctxt "Page successfully saved"
+msgid "Page successfully saved"
+msgstr "Страница успешно сохранена"
+
+msgctxt "Phone:"
+msgid "Phone:"
+msgstr "Телефон:"
+
+msgctxt "Podcast URL:"
+msgid "Podcast URL:"
+msgstr "Ссылка на Подкаст:"
+
+msgctxt "Select a button type:"
+msgid "Select a button type:"
+msgstr "Выберите тип кнопки:"
+
+msgctxt "Select a video type:"
+msgid "Select a video type:"
+msgstr "Выберите тип видео:"
+
+msgctxt "Size"
+msgid "Size"
+msgstr "Размер:"
+
+msgctxt "Slider"
+msgid "Slider"
+msgstr ""
+
+msgctxt "Small"
+msgid "Small"
+msgstr "Небольшой"
+
+msgctxt "Text"
+msgid "Text"
+msgstr "Текст"
+
+msgctxt ""
+"The block N°%s, %s was not saved, the block was either empty or invalid."
+msgid ""
+"The block N°%s, %s was not saved, the block was either empty or invalid."
+msgstr ""
+
+msgctxt "Use external app"
+msgid "Use external app"
+msgstr ""
+
+msgctxt "Video URL:"
+msgid "Video URL:"
+msgstr "Ссылка на видео:"
+
+msgctxt "Your Podcast:"
+msgid "Your Podcast:"
+msgstr "Ваш Подкаст:"
+
+msgctxt ".mp4 or .3gp format"
+msgid ".mp4 or .3gp format"
+msgstr "mp4 или 3gp формат"

@@ -1,7 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 11:07+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Project-Id-Version: French (Siberian)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mobile/fr/"
 ">\n"
 "Language: fr\n"
@@ -11,395 +14,535 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Access my personal data"
 msgid "Access my personal data"
 msgstr "Accéder à mes données personnelles"
 
+msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr "Ajouter un commentaire"
 
+msgctxt "Add image"
+msgid "Add image"
+msgstr "Ajouter une image"
+
+msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr "Ajouter au carnet d'adresses"
 
+msgctxt "Address"
+msgid "Address"
+msgstr "Adresse"
+
+msgctxt "Albums"
 msgid "Albums"
 msgstr "Albums"
 
+msgctxt "An error occurred while loading the media."
 msgid "An error occurred while loading the media."
 msgstr "Une erreur est survenue lors du chargement des médias."
 
+msgctxt "An error occurred while loading the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Une erreur est survenue lors du chargement de la radio."
 
+msgctxt "An error occurred while reading the code."
 msgid "An error occurred while reading the code."
 msgstr "Une erreur est survenue lors de la lecture du code."
 
+msgctxt "An unexpected error occurred while calculating the route."
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
+
+msgctxt "Application is Locked"
 msgid "Application is Locked"
 msgstr "L'application est Verrouillé"
 
+msgctxt "Buffering"
 msgid "Buffering"
 msgstr "Mise en mémoire tampon"
 
+msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr "Acheter des billets"
 
+msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr "Acheter"
 
+msgctxt "CVC ***"
 msgid "CVC ***"
 msgstr "CVC ***"
 
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+msgctxt "Cancel delete"
 msgid "Cancel delete"
 msgstr "Annuler supprimer"
 
+msgctxt "Cancel edit"
 msgid "Cancel edit"
 msgstr "Annuler modifier"
 
+msgctxt "Civility"
 msgid "Civility"
 msgstr "Civilité"
 
+msgctxt "Clear"
 msgid "Clear"
 msgstr "Effacer"
 
+msgctxt "Click here to log-in"
 msgid "Click here to log-in"
 msgstr "Cliquez ici pour vous identifier"
 
+msgctxt "Close"
+msgid "Close"
+msgstr "Fermer"
+
+msgctxt "Comment"
+msgid "Comment"
+msgstr "Commentaire"
+
+msgctxt "Copy"
 msgid "Copy"
 msgstr "Copie"
 
+msgctxt "Create an account"
 msgid "Create an account"
 msgstr "Créer un compte"
 
+msgctxt "Date and time"
+msgid "Date and time"
+msgstr "Date et heure"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Supprimer"
+
+msgctxt "Delivery address"
 msgid "Delivery address"
 msgstr "Adresse de livraison"
 
+msgctxt "Description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "Discount code"
 msgid "Discount code"
 msgstr "Code de réduction"
 
+msgctxt "Dismiss"
 msgid "Dismiss"
 msgstr "Rejeter"
 
+msgctxt "Done"
 msgid "Done"
 msgstr "Terminé"
 
+msgctxt "Downloading..."
 msgid "Downloading..."
 msgstr "Téléchargement en cours..."
 
+msgctxt "EXP"
 msgid "EXP"
 msgstr "EXP"
 
+msgctxt "Email"
+msgid "Email"
+msgstr "E-mail"
+
+msgctxt "Error"
 msgid "Error"
 msgstr "Erreur"
 
+msgctxt "First name / Last name"
+msgid "First name / Last name"
+msgstr "Prénom / Nom"
+
+msgctxt "Firstname"
+msgid "Firstname"
+msgstr "Prénom"
+
+msgctxt "Flag"
 msgid "Flag"
 msgstr "Drapeau"
 
+msgctxt "Forgot your password?"
 msgid "Forgot your password?"
 msgstr "Mot de passe oublié"
 
+msgctxt "Hi. I just found: $1 in the $2 app."
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr "Bonjour! Je viens de trouver: $1 dans l'application $2."
 
+msgctxt "I accept the privacy policy"
 msgid "I accept the privacy policy"
 msgstr "J'accepte la politique de confidentialité"
 
+msgctxt "I just found this discount $1 in $2 app."
 msgid "I just found this discount $1 in $2 app."
 msgstr "Je viens de trouver cette promotion $1 sur l'app $2."
 
+msgctxt "Identity"
 msgid "Identity"
 msgstr "Identité"
 
+msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "Je suis à l'écoute de $1 $2 sur l'application $3."
 
+msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr "Je suis en train d'écouter $1 sur l'application $2."
 
+msgctxt "Info"
 msgid "Info"
 msgstr "Info"
 
+msgctxt "Informations"
 msgid "Informations"
 msgstr "Informations"
 
+msgctxt "Invoicing address"
 msgid "Invoicing address"
 msgstr "Adresse de facturation"
 
+msgctxt "Lastname"
+msgid "Lastname"
+msgstr "Nom"
+
+msgctxt "Like"
+msgid "Like"
+msgstr "J'aime"
+
+msgctxt "Loading"
+msgid "Loading"
+msgstr "Chargement"
+
+msgctxt "Locate"
+msgid "Locate"
+msgstr "Localiser"
+
+msgctxt "Location"
 msgid "Location"
 msgstr "Emplacement"
 
+msgctxt "Log-in"
+msgid "Log-in"
+msgstr "Connexion"
+
+msgctxt "Login error"
 msgid "Login error"
 msgstr "Erreur de connexion"
 
+msgctxt "Log-in with Facebook"
 msgid "Log-in with Facebook"
 msgstr "Connectez-vous avec Facebook"
 
+msgctxt "Map"
+msgid "Map"
+msgstr "Carte"
+
+msgctxt "Miss"
+msgid "Miss"
+msgstr "Mlle"
+
+msgctxt "Mr"
+msgid "Mr"
+msgstr "Mr"
+
+msgctxt "Mrs"
+msgid "Mrs"
+msgstr "Mme"
+
+msgctxt "My account"
+msgid "My account"
+msgstr "Mon compte"
+
+msgctxt "New Post"
 msgid "New Post"
 msgstr "Nouveau poste"
 
+msgctxt "Nickname"
 msgid "Nickname"
 msgstr "Pseudo"
 
+msgctxt "No comments for now."
 msgid "No comments for now."
 msgstr "Pas de commentaires pour l'instant."
 
+msgctxt "No form available"
 msgid "No form available"
 msgstr "Aucun formulaire disponible"
 
+msgctxt "No images found"
 msgid "No images found"
 msgstr "Aucune image trouvé"
 
+msgctxt "No items found"
 msgid "No items found"
 msgstr "Aucun élément trouvé"
 
+msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr "Pas de résultats à votre demande."
 
+msgctxt "Notes"
 msgid "Notes"
 msgstr "Commentaires"
 
+msgctxt "Notification"
 msgid "Notification"
 msgstr "Notification"
 
+msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Nombre de personnes"
 
+msgctxt "OK"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "Offline mode"
 msgid "Offline mode"
 msgstr "Mode hors-ligne"
 
+msgctxt "Ok"
 msgid "Ok"
 msgstr "Ok"
 
+msgctxt "Open link"
 msgid "Open link"
 msgstr "Ouvrir le lien"
 
+msgctxt "Or with your account"
+msgid "Or with your account"
+msgstr "Ou avec votre compte"
+
+msgctxt "Order Details"
 msgid "Order Details"
 msgstr "Détails de la Commande"
 
+msgctxt "Overview"
 msgid "Overview"
 msgstr "Aperçu"
 
+msgctxt "Password"
+msgid "Password"
+msgstr "Mot de passe"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Téléphone"
+
+msgctxt "Photos"
+msgid "Photos"
+msgstr "Photos"
+
+msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Playlists"
 
+msgctxt "Please enter a valid email address"
+msgid "Please enter a valid email address"
+msgstr "Veuillez entrer une adresse email valide"
+
+msgctxt "Please enter your email address."
 msgid "Please enter your email address."
 msgstr "Veuillez entrer votre adresse e-mail."
 
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
+msgstr ""
+"Veuillez indiquer votre adresse email. Nous vous envoyons un nouveau mot de "
+"passe."
+
+msgctxt "Please wait..."
 msgid "Please wait..."
 msgstr "Patienter svp..."
 
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "Podcast"
+
+msgctxt "Prices"
 msgid "Prices"
 msgstr "Prix"
 
+msgctxt "Privacy"
 msgid "Privacy"
 msgstr "Vie privée"
 
+msgctxt "Privacy Policy"
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
+msgctxt "Pull to refresh..."
 msgid "Pull to refresh..."
 msgstr "Tirer pour rafraîchir..."
 
+msgctxt "RSVP"
+msgid "RSVP"
+msgstr "RSVP"
+
+msgctxt "Read all"
 msgid "Read all"
 msgstr "Lire tout"
 
+msgctxt "Scan result"
 msgid "Scan result"
 msgstr "résultat d'analyse"
 
+msgctxt "See details"
 msgid "See details"
 msgstr "Voir les détails"
 
+msgctxt "Send"
+msgid "Send"
+msgstr "Envoyer"
+
+msgctxt "Send contact request"
 msgid "Send contact request"
 msgstr "Envoyer une demande de contact"
 
+msgctxt "Show me in ranking"
+msgid "Show me in ranking"
+msgstr "Apparaître dans le classement"
+
+msgctxt "Success"
 msgid "Success"
 msgstr "Succès"
 
+msgctxt "Tap to download in background"
 msgid "Tap to download in background"
 msgstr "Appuyez pour télécharger en arrière-plan"
 
+msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr "Termes et conditions"
 
+msgctxt "The address you're looking for does not exists."
+msgid "The address you're looking for does not exists."
+msgstr "L'adresse que vous recherchez n'existe pas."
+
+msgctxt "The sign in flow was canceled"
 msgid "The sign in flow was canceled"
 msgstr "Le flux de signature a été annulé"
 
+msgctxt "There is no route available with these informations."
 msgid "There is no route available with these informations."
 msgstr "Il n'y a pas de route avec ces informations."
 
+msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr "Cette application n'est plus disponible!"
 
+msgctxt "This feature is disabled in this preview"
 msgid "This feature is disabled in this preview"
 msgstr "Cette fonctionnalité est désactivée dans cette aperçu"
 
+msgctxt "This feature is not available in offline mode!"
 msgid "This feature is not available in offline mode!"
 msgstr "Cette fonctionnalité n'est pas disponible en mode hors ligne!"
 
+msgctxt "This field is required"
+msgid "This field is required"
+msgstr "Ce champ est obligatoire"
+
+msgctxt "This will open the code scan camera on your device."
 msgid "This will open the code scan camera on your device."
 msgstr "cela va ouvrir la caméra pour scanner le code"
 
+msgctxt "Title"
+msgid "Title"
+msgstr "Titre"
+
+msgctxt "Tracks"
 msgid "Tracks"
 msgstr "Piste"
 
+msgctxt "Triple tap to close the preview"
 msgid "Triple tap to close the preview"
 msgstr "Appuyez trois fois pour fermer l&#39;aperçu"
 
+msgctxt "Use this coupon"
+msgid "Use this coupon"
+msgstr "Utiliser cette promotion"
+
+msgctxt "Valid Until"
 msgid "Valid Until"
 msgstr "Valable jusqu'au"
 
-msgid "We are sorry but this application has been deactivated and may not be re-activated."
+msgctxt "View"
+msgid "View"
+msgstr "Afficher"
+
+msgctxt ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgid ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
 msgstr ""
 "Nous sommes désolés, mais cette demande a été désactivé et ne peut être "
 "réactivé"
 
+msgctxt "Website"
+msgid "Website"
+msgstr "Site web"
+
+msgctxt "We'll send you your password right now."
 msgid "We'll send you your password right now."
 msgstr "Nous vous enverrons votre mot de passe dès maintenant."
 
-msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgid ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
 msgstr ""
 "Mot de passe erroné. <br /> Faites attention! <br />% d tentative restante% "
 "s avant de verrouiller votre carte. <br /> Demandez à la personne du magasin "
 "de valider votre point"
 
+msgctxt "XXXX XXXX XXXX"
 msgid "XXXX XXXX XXXX"
 msgstr "XXXX XXXX XXXX"
 
+msgctxt "You must fill at least one field!"
 msgid "You must fill at least one field!"
 msgstr "Vous devez renseigner au moins un champ!"
 
-msgid "Your location could not be found because your application doesn't use SSL."
+msgctxt "Your comment"
+msgid "Your comment"
+msgstr "Votre commentaire"
+
+msgctxt ""
+"Your location could not be found because your application doesn't use SSL."
+msgid ""
+"Your location could not be found because your application doesn't use SSL."
 msgstr ""
 "Votre emplacement n'a pas pu être trouvé car votre application n'utilise pas "
 "SSL."
 
+msgctxt "followers"
 msgid "followers"
 msgstr "abonnés"
 
+msgctxt "following"
 msgid "following"
 msgstr "abonnements"
 
+msgctxt "track"
 msgid "track"
 msgstr "piste"
 
+msgctxt "tracks"
 msgid "tracks"
 msgstr "piste"
-
-msgid "Description"
-msgstr "Description"
-
-msgid "Phone"
-msgstr "Téléphone"
-
-msgid "Title"
-msgstr "Titre"
-
-msgid "Delete"
-msgstr "Supprimer"
-
-msgid "Email"
-msgstr "E-mail"
-
-msgid "Firstname"
-msgstr "Prénom"
-
-msgid "Lastname"
-msgstr "Nom"
-
-msgid "Add image"
-msgstr "Ajouter une image"
-
-msgid "Address"
-msgstr "Adresse"
-
-msgid "An unexpected error occurred while calculating the route."
-msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
-
-msgid "Cancel"
-msgstr "Annuler"
-
-msgid "Close"
-msgstr "Fermer"
-
-msgid "Comment"
-msgstr "Commentaire"
-
-msgid "Date and time"
-msgstr "Date et heure"
-
-msgid "First name / Last name"
-msgstr "Prénom / Nom"
-
-msgid "Like"
-msgstr "J'aime"
-
-msgid "Loading"
-msgstr "Chargement"
-
-msgid "Locate"
-msgstr "Localiser"
-
-msgid "Log-in"
-msgstr "Connexion"
-
-msgid "Map"
-msgstr "Carte"
-
-msgid "Miss"
-msgstr "Mlle"
-
-msgid "Mr"
-msgstr "Mr"
-
-msgid "Mrs"
-msgstr "Mme"
-
-msgid "My account"
-msgstr "Mon compte"
-
-msgid "OK"
-msgstr "OK"
-
-msgid "Or with your account"
-msgstr "Ou avec votre compte"
-
-msgid "Password"
-msgstr "Mot de passe"
-
-msgid "Photos"
-msgstr "Photos"
-
-msgid "Please enter a valid email address"
-msgstr "Veuillez entrer une adresse email valide"
-
-msgid "Please enter your email address. We'll send you your password right now."
-msgstr ""
-"Veuillez indiquer votre adresse email. Nous vous envoyons un nouveau mot de "
-"passe."
-
-msgid "Podcast"
-msgstr "Podcast"
-
-msgid "RSVP"
-msgstr "RSVP"
-
-msgid "Send"
-msgstr "Envoyer"
-
-msgid "Show me in ranking"
-msgstr "Apparaître dans le classement"
-
-msgid "The address you're looking for does not exists."
-msgstr "L'adresse que vous recherchez n'existe pas."
-
-msgid "This field is required"
-msgstr "Ce champ est obligatoire"
-
-msgid "Use this coupon"
-msgstr "Utiliser cette promotion"
-
-msgid "View"
-msgstr "Afficher"
-
-msgid "Website"
-msgstr "Site web"
-
-msgid "Your comment"
-msgstr "Votre commentaire"

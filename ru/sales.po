@@ -1,86 +1,72 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/sales/ru/"
+">\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/sales.csv:1
-msgid "Action"
-msgstr "Действие"
+msgctxt "Activate VAT number check with VIES"
+msgid "Activate VAT number check with VIES"
+msgstr ""
 
-#: ru/sales.csv:2
-msgid "App Name"
-msgstr "Имя App"
+msgctxt "Add a custom text to the footer of your invoices"
+msgid "Add a custom text to the footer of your invoices"
+msgstr ""
 
-#: ru/sales.csv:3
-msgid "Client"
-msgstr "Клиент"
+msgctxt "Invoice options"
+msgid "Invoice options"
+msgstr ""
 
-#: ru/sales.csv:4
-msgid "Date"
-msgstr "Дата"
+msgctxt "Offline plans"
+msgid "Offline plans"
+msgstr ""
 
-#: ru/sales.csv:5
-msgid "Invoice"
-msgstr "Счет-фактура"
-
-#: ru/sales.csv:6
-msgid "Invoice %s"
-msgstr "Счет-фактура %s"
-
-#: ru/sales.csv:7
-msgid "Invoice N°"
-msgstr "N° счета"
-
-#: ru/sales.csv:8
-msgid "List of your invoices"
-msgstr "Список ваших счетов"
-
-#: ru/sales.csv:9
-msgid "My Invoices"
-msgstr "Мои счета"
-
-#: ru/sales.csv:10
-msgid "Order"
-msgstr "Заказ"
-
-#: ru/sales.csv:11
-msgid "Orders"
-msgstr "Заказы"
-
-#: ru/sales.csv:12
-msgid "Paid At"
-msgstr "Оплата по адресу"
-
-#: ru/sales.csv:13
+msgctxt "Paid at:"
 msgid "Paid at:"
 msgstr "Оплата по адресу:"
 
-#: ru/sales.csv:14
+msgctxt "Payment Method"
+msgid "Payment Method"
+msgstr "Способ Оплаты"
+
+msgctxt "Price Excl. Tax"
 msgid "Price Excl. Tax"
 msgstr "Цена без учета налога"
 
-#: ru/sales.csv:15
-msgid "Qty"
-msgstr "Кол-во"
+msgctxt "Sales configuration"
+msgid "Sales configuration"
+msgstr ""
 
-#: ru/sales.csv:16
-msgid "This feature is not ready yet. Please try again later."
-msgstr "Эта функция пока не готова. Пожалуйста, повторите попытку позже."
+msgctxt ""
+"This message will be displayed as a waiting message when your users chose an "
+"offline payment method"
+msgid ""
+"This message will be displayed as a waiting message when your users chose an "
+"offline payment method"
+msgstr ""
 
-#: ru/sales.csv:17
+msgctxt ""
+"This message will be displayed as an information message to describe which "
+"offline payment method you offer"
+msgid ""
+"This message will be displayed as an information message to describe which "
+"offline payment method you offer"
+msgstr ""
+
+msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Цена без налога"
 
-#: ru/sales.csv:18
-msgid "You don't have any invoices yet"
-msgstr "Вы ещё не имеете никаких счетов. "
+msgctxt "VAT check options"
+msgid "VAT check options"
+msgstr ""

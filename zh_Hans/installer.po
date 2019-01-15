@@ -1,141 +1,302 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/siberian/installer/zh_Hans/>\n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/installer/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-09 09:38+0000\n"
-"PO-Revision-Date: 2019-01-09 09:38+0000\n"
-"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/installer.csv:1
+msgctxt "Action"
+msgid "Action"
+msgstr "行动"
+
+msgctxt "Actions"
+msgid "Actions"
+msgstr "行动"
+
+msgctxt "All of your modules are up to date"
 msgid "All of your modules are up to date"
 msgstr "Todos los módulos están al día"
 
-#: zh/installer.csv:2
+msgctxt "An update is available. Click here to download it."
+msgid "An update is available. Click here to download it."
+msgstr ""
+
+msgctxt "Check for updates"
+msgid "Check for updates"
+msgstr ""
+
+msgctxt "Click here to see the release notes"
+msgid "Click here to see the release notes"
+msgstr ""
+
+msgctxt "Click here to send your module"
 msgid "Click here to send your module"
 msgstr "Haga clic aquí para enviar su módulo"
 
-#: zh/installer.csv:3
+msgctxt "Details"
+msgid "Details"
+msgstr "详细信息"
+
+msgctxt "Drop your module here"
 msgid "Drop your module here"
 msgstr "Deje su módulo de aquí"
 
-#: zh/installer.csv:4
-msgid "Installing module <em><span id=\"label_module\"></span></em>"
-msgstr "Instalando el módulo <em><span id=\"label_module\"></span></em>"
+msgctxt "Host"
+msgid "Host"
+msgstr ""
 
-#: zh/installer.csv:5
+msgctxt "Install"
+msgid "Install"
+msgstr ""
+
+msgctxt "Installing"
 msgid "Installing"
 msgstr "Instalando"
 
-#: zh/installer.csv:6
+msgctxt "Installing your module"
 msgid "Installing your module"
 msgstr "Instalando tu módulo"
 
-#: zh/installer.csv:7
+msgctxt "Module successfully installed"
 msgid "Module successfully installed"
 msgstr "Módulo instalado con éxito"
 
-#: zh/installer.csv:8
+msgctxt "Module to upload"
 msgid "Module to upload"
 msgstr "Módulo para cargar"
 
-#: zh/installer.csv:9
+msgctxt "Modules Installation"
 msgid "Modules Installation"
 msgstr "Módulos de instalación"
 
-#: zh/installer.csv:10
+msgctxt "Modules successfully installed!"
 msgid "Modules successfully installed!"
 msgstr "Módulos instalado con éxito!"
 
-#: zh/installer.csv:11
+msgctxt "Name"
+msgid "Name"
+msgstr "名字"
+
+msgctxt "No directory provided"
 msgid "No directory provided"
 msgstr "No directorio proporcionado"
 
-#: zh/installer.csv:12
+msgctxt "No module to install"
 msgid "No module to install"
 msgstr "No hay módulo para instalar"
 
-#: zh/installer.csv:13
+msgctxt "No modules uploaded yet"
 msgid "No modules uploaded yet"
 msgstr "No hay módulos subidos aún"
 
-#: zh/installer.csv:14
-msgid "Please wait, we're installing your module"
-msgstr "Por favor espere, estamos instalando su módulo"
+msgctxt ""
+"Or set the correct permissions to the following files and folders and try "
+"again:"
+msgid ""
+"Or set the correct permissions to the following files and folders and try "
+"again:"
+msgstr ""
 
-#: zh/installer.csv:15
+msgctxt "Package"
+msgid "Package"
+msgstr ""
+
+msgctxt "Package Details"
+msgid "Package Details"
+msgstr ""
+
+msgctxt "Path to your system"
+msgid "Path to your system"
+msgstr ""
+
+msgctxt "Please, enter a name"
 msgid "Please, enter a name"
 msgstr "Por favor, introduzca un nombre"
 
-#: zh/installer.csv:16
+msgctxt "Please, fill out all fields"
 msgid "Please, fill out all fields"
 msgstr "Por favor, rellene todos los campos"
 
-#: zh/installer.csv:17
+msgctxt ""
+"Please update the module to the %s version before installing this update."
+msgid ""
+"Please update the module to the %s version before installing this update."
+msgstr ""
+
+msgctxt ""
+"Please update your system to the %s version before installing this update."
+msgid ""
+"Please update your system to the %s version before installing this update."
+msgstr ""
+
+msgctxt "Please wait, we're installing your module"
+msgid "Please wait, we're installing your module"
+msgstr "Por favor espere, estamos instalando su módulo"
+
+msgctxt "Port"
+msgid "Port"
+msgstr ""
+
+msgctxt "Processing the installation"
 msgid "Processing the installation"
 msgstr "Procesamiento de la instalación"
 
-#: zh/installer.csv:18
+msgctxt "Progress"
+msgid "Progress"
+msgstr ""
+
+msgctxt "Retry"
 msgid "Retry"
 msgstr "Vuelva a intentarlo"
 
-#: zh/installer.csv:19
+msgctxt "Select a module to upload"
 msgid "Select a module to upload"
 msgstr "Seleccione un módulo para cargar"
 
-#: zh/installer.csv:20
+msgctxt "Size"
+msgid "Size"
+msgstr "尺寸："
+
+msgctxt ""
+"Some files and folder are not writable. You can either provide your FTP "
+"access to install this update:"
+msgid ""
+"Some files and folder are not writable. You can either provide your FTP "
+"access to install this update:"
+msgstr ""
+
+msgctxt "Some files don't have the right permissions and can't be updated"
+msgid "Some files don't have the right permissions and can't be updated"
+msgstr ""
+
+msgctxt "Status"
+msgid "Status"
+msgstr "状态"
+
+msgctxt "The database connection failed. Please, check the entered information."
 msgid "The database connection failed. Please, check the entered information."
-msgstr "La conexión de base de datos falló. Por favor, verifique la información introducida."
+msgstr ""
+"La conexión de base de datos falló. Por favor, verifique la información "
+"introducida."
 
-#: zh/installer.csv:21
+msgctxt "The entered password confirmation does not match the entered password."
 msgid "The entered password confirmation does not match the entered password."
-msgstr "La confirmación de la contraseña introducida no coincide con la contraseña introducida."
+msgstr ""
+"La confirmación de la contraseña introducida no coincide con la contraseña "
+"introducida."
 
-#: zh/installer.csv:22
+msgctxt "The file %s does not exist"
 msgid "The file %s does not exist"
 msgstr "El archivo %s no existe"
 
-#: zh/installer.csv:23
+msgctxt "The file %s is not writable."
+msgid "The file %s is not writable."
+msgstr ""
+
+msgctxt "The folder %s is not writable. Please fix this issue and try again."
 msgid "The folder %s is not writable. Please fix this issue and try again."
-msgstr "La carpeta %s no se puede escribir. Por favor, corrija este problema y vuelva a intentarlo."
+msgstr ""
+"La carpeta %s no se puede escribir. Por favor, corrija este problema y "
+"vuelva a intentarlo."
 
-#: zh/installer.csv:24
-msgid "The folder %s is not writable."
-msgstr "La carpeta %s no se puede escribir."
+msgctxt "The following files and folders are not writable:"
+msgid "The following files and folders are not writable:"
+msgstr ""
 
-#: zh/installer.csv:25
-msgid "The following folders are not writable: <br /> - %s"
-msgstr "Las siguientes carpetas no se pueden escribir: <br /> -%s"
+msgctxt "The following files and folders are not writable: <br /> - %s"
+msgid "The following files and folders are not writable: <br /> - %s"
+msgstr ""
 
-#: zh/installer.csv:26
-msgid "The installation of the module <span id=\"installation_failed_module_name\"></span> has failed: <span id=\"installation_failed_because\"></span>"
-msgstr "La instalación del módulo <span id=\"installation_failed_module_name\"></span> ha fallado: <span id=\"installation_failed_because\"></span>"
+msgctxt "The package you have uploaded is invalid."
+msgid "The package you have uploaded is invalid."
+msgstr ""
 
-#: zh/installer.csv:27
+msgctxt "There is no CMS license key set."
+msgid "There is no CMS license key set."
+msgstr ""
+
+msgctxt "This process may take few minutes, please do not refresh the page"
 msgid "This process may take few minutes, please do not refresh the page"
-msgstr "Este proceso puede tardar unos minutos, por favor no actualice la página"
+msgstr ""
+"Este proceso puede tardar unos minutos, por favor no actualice la página"
 
-#: zh/installer.csv:28
+msgctxt "This update is designed for the %s, you can't install it in your %s."
+msgid "This update is designed for the %s, you can't install it in your %s."
+msgstr ""
+
+msgctxt "Unable to check for updates now. Please, try again later."
+msgid "Unable to check for updates now. Please, try again later."
+msgstr ""
+
+msgctxt "Unable to connect to your FTP. Please check the connection information."
+msgid "Unable to connect to your FTP. Please check the connection information."
+msgstr ""
+
+msgctxt ""
+"Unable to detect your site. Please make sure the entered path is correct."
+msgid ""
+"Unable to detect your site. Please make sure the entered path is correct."
+msgstr ""
+
+msgctxt "Unable to extract the archive."
 msgid "Unable to extract the archive."
 msgstr "No se puede extraer el archivo."
 
-#: zh/installer.csv:29
+msgctxt "Unable to fetch the update. Please, try again later."
+msgid "Unable to fetch the update. Please, try again later."
+msgstr ""
+
+msgctxt "Unable to open the archive."
 msgid "Unable to open the archive."
 msgstr "No se puede abrir el archivo."
 
-#: zh/installer.csv:30
+msgctxt ""
+"Unable to open the file. Please, make sure that you sent a valid archive."
+msgid ""
+"Unable to open the file. Please, make sure that you sent a valid archive."
+msgstr ""
+
+msgctxt "Upload a module"
 msgid "Upload a module"
 msgstr "Sube un módulo"
 
-#: zh/installer.csv:31
+msgctxt "Upload your modules"
 msgid "Upload your modules"
 msgstr "Sube tus módulos"
 
-msgid "Actions"
-msgstr "行动"
+msgctxt "Username"
+msgid "Username"
+msgstr "用户名"
+
+msgctxt "Version"
+msgid "Version"
+msgstr "版本"
+
+msgctxt "We are checking for updates. Please, do not refresh the page."
+msgid "We are checking for updates. Please, do not refresh the page."
+msgstr ""
+
+msgctxt "You already have installed this template."
+msgid "You already have installed this template."
+msgstr ""
+
+msgctxt "You already have installed this update."
+msgid "You already have installed this update."
+msgstr ""
+
+msgctxt "Your system is up to date."
+msgid "Your system is up to date."
+msgstr ""
+
+msgctxt "%s Update"
+msgid "%s Update"
+msgstr ""

@@ -1,174 +1,238 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/"
+"loyaltycard/el/>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/loyaltycard.csv:1
-msgid " is now yours!"
-msgstr ": σας ανήκει!"
-
-#: el/loyaltycard.csv:2
-msgid "%d validated points = "
-msgstr "%d επικυρωμένοι πόντοι ="
-
-#: el/loyaltycard.csv:3
+msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1 πόντος πίστεως ="
 
-#: el/loyaltycard.csv:4
+msgctxt "1 point"
 msgid "1 point"
 msgstr "1 πόντος"
 
-#: el/loyaltycard.csv:5
-msgid "1 validated point = "
-msgstr "1 επικυρωμένος πόντος ="
+msgctxt "1 validated point ="
+msgid "1 validated point ="
+msgstr ""
 
-#: el/loyaltycard.csv:6
+msgctxt "An error occurred while retrieving QRCode. Please try again later"
+msgid "An error occurred while retrieving QRCode. Please try again later"
+msgstr ""
+"Ha ocurrido un error guardando los cambios. Por favor, inténtelo más tarde."
+
+msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
-msgstr "Υπήρξε σφάλμα κατά την αποθήκευση του Κωδικού. Παρακαλούμε δοκιμάστε ξανά αργότερα"
+msgstr ""
+"Υπήρξε σφάλμα κατά την αποθήκευση του Κωδικού. Παρακαλούμε δοκιμάστε ξανά "
+"αργότερα"
 
-#: el/loyaltycard.csv:7
-msgid "An error occurred while saving the password. Please try again later."
-msgstr "Υπήρξε σφάλμα κατά την αποθήκευση του Κωδικού. Παρακαλούμε δοκιμάστε ξανά αργότερα."
-
-#: el/loyaltycard.csv:8
+msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της Κάρτας Πίστεως."
 
-#: el/loyaltycard.csv:9
-msgid "An error occurred while saving your loyalty card. Please fill all fields in."
-msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της Κάρτας Πίστεως. Παρακαλούμε συμληρώστε όλα τα πεδία."
+msgctxt ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
+msgid ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
+msgstr ""
+"Υπήρξε σφάλμα κατά την αποθήκευση της Κάρτας Πίστεως. Παρακαλούμε συμληρώστε "
+"όλα τα πεδία."
 
-#: el/loyaltycard.csv:10
+msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
-msgstr "Υπήρξε σφάλμα κατά την επικύρωση των πόντων. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+msgstr ""
+"Υπήρξε σφάλμα κατά την επικύρωση των πόντων. Παρακαλούμε δοκιμάστε ξανά "
+"αργότερα."
 
-#: el/loyaltycard.csv:11
+msgctxt "An error occurred with your QRCode."
+msgid "An error occurred with your QRCode."
+msgstr ""
+
+msgctxt "Card name"
 msgid "Card name"
 msgstr "Όνομα κάρτας"
 
-#: el/loyaltycard.csv:12
+msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "Συγχαρητήρια"
 
-#: el/loyaltycard.csv:13
+msgctxt "Current card"
 msgid "Current card"
 msgstr "Τρέχουσα Κάρτα"
 
-#: el/loyaltycard.csv:14
+msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "Διαγραφή του Κωδικού?"
 
-#: el/loyaltycard.csv:15
-msgid "Employee's name"
-msgstr "Όνομα συνεργάτη"
-
-#: el/loyaltycard.csv:16
+msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "Όνομα συνεργάτη:"
 
-#: el/loyaltycard.csv:17
-msgid "Employee's password"
-msgstr "Κωδικός συνεργάτη"
-
-#: el/loyaltycard.csv:18
+msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "Κωδικός συνεργάτη:"
 
-#: el/loyaltycard.csv:19
+msgctxt "Enter password"
+msgid "Enter password"
+msgstr "Συμπληρώστε τον Κωδικό"
+
+msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "Συμπληρώστε τον Κωδικό"
 
-#: el/loyaltycard.csv:20
+msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "Η νέα Κάρτα Πίστεώς μου"
 
-#: el/loyaltycard.csv:21
+msgctxt "My passwords"
 msgid "My passwords"
 msgstr "Οι κωδικοί μου"
 
-#: el/loyaltycard.csv:22
+msgctxt "No cards available"
+msgid "No cards available"
+msgstr ""
+
+msgctxt "Number of points"
 msgid "Number of points"
 msgstr "Αριθμός πόντων"
 
-#: el/loyaltycard.csv:23
+msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Παρακαλούμε συμπληρώστε ένα Όνομα"
 
-#: el/loyaltycard.csv:24
+msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "Παρακαλούμε συμπληρώστε τον Κωδικό"
 
-#: el/loyaltycard.csv:25
-msgid "Please show your phone to the store person so that he enters his password"
-msgstr "Παρακαλούμε δείξτε το τηλέφωνό σας στον συνεργάτη μας, για να συμπληρώσει τον Κωδικό"
+msgctxt ""
+"Please show your phone to the store person so that he enters his password"
+msgid ""
+"Please show your phone to the store person so that he enters his password"
+msgstr ""
+"Παρακαλούμε δείξτε το τηλέφωνό σας στον συνεργάτη μας, για να συμπληρώσει "
+"τον Κωδικό"
 
-#: el/loyaltycard.csv:26
+msgctxt "Point active"
+msgid "Point active"
+msgstr ""
+
+msgctxt "Point inactive"
+msgid "Point inactive"
+msgstr ""
+
+msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Οι πόντοι επικυρώθηκαν επιτυχώς"
 
-#: el/loyaltycard.csv:27
+msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "Προηγούμενες Κάρτες"
 
-#: el/loyaltycard.csv:28
+msgctxt "Reward"
 msgid "Reward"
 msgstr "Αμοιβή"
 
-#: el/loyaltycard.csv:29
+msgctxt "Rewards"
+msgid "Rewards"
+msgstr "Αμοιβή"
+
+msgctxt "Scan QRCode"
+msgid "Scan QRCode"
+msgstr ""
+
+msgctxt "This card is uniq:"
+msgid "This card is uniq:"
+msgstr ""
+
+msgctxt "Unlock by QRCode"
+msgid "Unlock by QRCode"
+msgstr ""
+
+msgctxt "Unreadable QRCode, sorry."
+msgid "Unreadable QRCode, sorry."
+msgstr ""
+
+msgctxt "Use only once?"
+msgid "Use only once?"
+msgstr "χρησιμοποιήστε μόνο μία φορά"
+
+msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Συγνώμη αλλά αυτή η Κάρτα είναι προσωρινά μπλοκαρισμένη"
 
-#: el/loyaltycard.csv:30
-msgid "Wrong password. Be carefull! %d remaining attempt%s before locking your card. Ask the store person for validating your point"
-msgstr "Λάθος κωδικός. Προσοχή!! Απομένουν %d προσπάθειες πριν κλειδωθεί η Κάρτα σας. Ζητήστε από τον συνεργάτη να επικυρώσει τους πόντους σας"
+msgctxt ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
+msgid ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
+msgstr ""
+"Λάθος κωδικός. Προσοχή!! Απομένουν %d προσπάθειες πριν κλειδωθεί η Κάρτα "
+"σας. Ζητήστε από τον συνεργάτη να επικυρώσει τους πόντους σας"
 
-#: el/loyaltycard.csv:31
-msgid "Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point"
-msgstr "Λάθος κωδικός. <br />Προσοχή!! Απομένουν %d προσπάθειες πριν κλειδωθεί η Κάρτα σας.<br />Ζητήστε από τον συνεργάτη να επικυρώσει τους πόντους σας"
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgid ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Λάθος κωδικός. Προσοχή!! Απομένουν %d προσπάθειες πριν κλειδωθεί η Κάρτα "
+"σας. Ζητήστε από τον συνεργάτη να επικυρώσει τους πόντους σας"
 
-#: el/loyaltycard.csv:32
-msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
-msgstr "Έχετε υπερβεί τον αριθμό προσπαθειών για την επικύρωση πόντων. Η Κάρτα σας έχει κλειδωθεί για 24 ώρες"
+msgctxt ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
+msgid ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
+msgstr ""
+"Έχετε υπερβεί τον αριθμό προσπαθειών για την επικύρωση πόντων. Η Κάρτα σας "
+"έχει κλειδωθεί για 24 ώρες"
 
-#: el/loyaltycard.csv:33
+msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "Μόλις ολοκληρώσατε την Κάρτα σας"
 
-#: el/loyaltycard.csv:34
+msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "Πρέπει να είστε συνδεδεμένοι για να επικυρώσετε πόντους"
 
-#: el/loyaltycard.csv:35
+msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "Η Κάρτα Πίστεώς σας αποθηκεύτηκε επιτυχώς"
 
-#: el/loyaltycard.csv:36
+msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "Ο κωδικός σας πρέπει να αποτελείται από 4 ψηφία"
 
-#: el/loyaltycard.csv:37
+msgctxt "is now yours!"
+msgid "is now yours!"
+msgstr ""
+
+msgctxt "point"
 msgid "point"
 msgstr "πόντος"
 
-#: el/loyaltycard.csv:38
+msgctxt "point to validate"
 msgid "point to validate"
 msgstr "πόντος για επικύρωση"
 
-#: el/loyaltycard.csv:39
+msgctxt "points to validate"
 msgid "points to validate"
 msgstr "πόντοι για επικύρωση"
 
-#: el/loyaltycard.csv:40
-msgid "validated points = "
-msgstr "επικυρωμένοι πόντοι ="
+msgctxt "validated points ="
+msgid "validated points ="
+msgstr ""

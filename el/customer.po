@@ -1,194 +1,231 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/customer/"
+"el/>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/customer.csv:1
-msgid "%s - Account creation"
-msgstr "%s - Δημιουργία Λογαριασμού"
-
-#: el/customer.csv:2
-msgid "%s - Your new password"
-msgstr "%s - Ο νέος σας κωδικός"
-
-#: el/customer.csv:3
-msgid "%s – Account creation"
-msgstr "%s – Δημιουργία Λογαριασμού"
-
-#: el/customer.csv:4
-msgid "%s – Your new password"
-msgstr "%s – Ο νέος σας κωδικός"
-
-#: el/customer.csv:5
+msgctxt "A request to reset your password has been made."
 msgid "A request to reset your password has been made."
 msgstr "Η αίτηση για την επαναφορά του κωδικού πρόσβασής σας έχει γίνει."
 
-#: el/customer.csv:6
-msgid "An error occurred while connecting to your Facebook account. Please try again later"
-msgstr "Παρουσιάστηκε σφάλμα κατά τη σύνδεση στο λογαριασμό σας στο Facebook. Παρακαλώ δοκιμάστε ξανά αργότερα"
+msgctxt ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgid ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgstr ""
+"Παρουσιάστηκε σφάλμα κατά τη σύνδεση στο λογαριασμό σας στο Facebook. "
+"Παρακαλώ δοκιμάστε ξανά αργότερα"
 
-#: el/customer.csv:7
+msgctxt "Are you sure you want to remove this user?"
 msgid "Are you sure you want to remove this user?"
 msgstr "Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτόν τον χρήστη?"
 
-#: el/customer.csv:8
+msgctxt "Change Password"
 msgid "Change Password"
 msgstr "Αλλαγή Κωδικού"
 
-#: el/customer.csv:9
+msgctxt "Civility"
+msgid "Civility"
+msgstr ""
+
+msgctxt "Congratulations,"
 msgid "Congratulations,"
 msgstr "Συγχαρητήρια,"
 
-#: el/customer.csv:10
+msgctxt "Create"
 msgid "Create"
 msgstr "Δημιουργώ"
 
-#: el/customer.csv:11
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Δημιουργήστε έναν νέο χρήστη"
 
-#: el/customer.csv:12
-msgid "Create an account"
-msgstr "Δημιουργήστε έναν λογαριασμό"
-
-#: el/customer.csv:13
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Πελάτης"
 
-#: el/customer.csv:14
+msgctxt "Customers"
 msgid "Customers"
 msgstr "Πελάτες"
 
-#: el/customer.csv:15
+msgctxt "Disconnect"
 msgid "Disconnect"
 msgstr "Αποσύνδεση"
 
-#: el/customer.csv:16
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Επεξεργαστείτε το χρήστη%s"
 
-#: el/customer.csv:17
+msgctxt "First name"
 msgid "First name"
 msgstr "Όνομα"
 
-#: el/customer.csv:18
-msgid "Forgot your password?"
-msgstr "Ξεχάσατε τον κωδικό σας?"
-
-#: el/customer.csv:19
-msgid "Gender"
-msgstr "Φύλλο"
-
-#: el/customer.csv:20
+msgctxt "Here are your credentials:"
 msgid "Here are your credentials:"
 msgstr "Εδώ είναι τα διαπιστευτήριά σας:"
 
-#: el/customer.csv:21
-msgid "I accept the <u>privacy policy</u>"
-msgstr "Αποδέχομαι την <u> Πολιτική Προστασίας Προσωπικών Δεδομένων </ u>"
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
+msgstr ""
 
-#: el/customer.csv:22
+msgctxt "If you encounter any problems, do not hesitate to contact us:"
 msgid "If you encounter any problems, do not hesitate to contact us:"
-msgstr "Αν αντιμετωπίσετε κάποιο πρόβλημα, μην διστάσετε να επικοινωνήσετε μαζί μας:"
+msgstr ""
+"Αν αντιμετωπίσετε κάποιο πρόβλημα, μην διστάσετε να επικοινωνήσετε μαζί μας:"
 
-#: el/customer.csv:23
+msgctxt "Last name"
 msgid "Last name"
 msgstr "Επώνυμο"
 
-#: el/customer.csv:24
+msgctxt "Login:"
 msgid "Login:"
 msgstr "Σύνδεση :"
 
-#: el/customer.csv:25
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr ""
+
+msgctxt "Miss"
 msgid "Miss"
 msgstr "Δεσποινίς"
 
-#: el/customer.csv:26
+msgctxt "Mr"
 msgid "Mr"
 msgstr "Κύριος"
 
-#: el/customer.csv:27
+msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Κυρία"
 
-#: el/customer.csv:28
+msgctxt "My Account"
 msgid "My Account"
 msgstr "Ο Λογαριασμός μου"
 
-#: el/customer.csv:29
+msgctxt "My application's users"
 msgid "My application's users"
 msgstr "Οι χρήστες των εφαρμογών μου"
 
-#: el/customer.csv:30
-msgid "Old Password"
-msgstr "Παλιός Κωδικός"
+msgctxt "No user for now."
+msgid "No user for now."
+msgstr ""
 
-#: el/customer.csv:31
+msgctxt "No user match your request."
+msgid "No user match your request."
+msgstr ""
+
+msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "Ή με το λογαριασμό σας"
 
-#: el/customer.csv:32
-msgid "Please enter your email address. We'll send you your password right now."
-msgstr "Παρακαλώ εισάγετε τη διεύθυνση email σας. Θα σας στείλουμε τον κωδικό πρόσβασής σας τώρα."
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
+msgstr ""
+"Παρακαλώ εισάγετε τη διεύθυνση email σας. Θα σας στείλουμε τον κωδικό "
+"πρόσβασής σας τώρα."
 
-#: el/customer.csv:33
+msgctxt "Please log in with your mobile phone"
 msgid "Please log in with your mobile phone"
 msgstr "Παρακαλώ συνδεθείτε με το κινητό σας τηλέφωνο"
 
-#: el/customer.csv:34
-msgid "Privacy Policy"
-msgstr "Πολιτική Προστασίας Προσωπικών Δεδομένων"
-
-#: el/customer.csv:35
+msgctxt "See you soon,"
 msgid "See you soon,"
 msgstr "Θα σε δώ σύντομα,"
 
-#: el/customer.csv:36
+msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Δείξε μου την κατάταξη"
 
-#: el/customer.csv:37
+msgctxt "The old email address does not match the entered email address."
 msgid "The old email address does not match the entered email address."
-msgstr "Η παλιά διεύθυνση ηλεκτρονικού ταχυδρομείου δεν ταιριάζει με την καταχωρημένη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+msgstr ""
+"Η παλιά διεύθυνση ηλεκτρονικού ταχυδρομείου δεν ταιριάζει με την "
+"καταχωρημένη διεύθυνση ηλεκτρονικού ταχυδρομείου."
 
-#: el/customer.csv:38
-msgid "This user can access the pages locked by the \"Locker\" feature"
-msgstr "Αυτός ο χρήστης μπορεί να έχει πρόσβαση στις κλειδωμένες σελίδες από το χαρακτηριστικό \"Locker\""
-
-#: el/customer.csv:39
+msgctxt "This user is visible in ranking"
 msgid "This user is visible in ranking"
 msgstr "Αυτός ο χρήστης είναι ορατός στην κατάταξη"
 
-#: el/customer.csv:40
+msgctxt "Title"
+msgid "Title"
+msgstr "Τίτλος"
+
+msgctxt "User"
 msgid "User"
 msgstr "Χρήστης"
 
-#: el/customer.csv:41
+msgctxt "User Information"
 msgid "User Information"
 msgstr "Πληροφορίες Χρήστη"
 
-#: el/customer.csv:42
+msgctxt "Users"
 msgid "Users"
 msgstr "Χρήστες"
 
-#: el/customer.csv:43
-msgid "We are sorry but the %s account is already linked to one of our customers"
-msgstr "Λυπούμαστε, αλλά ο λογαριασμός %s είναι ήδη συνδεδεμένος με έναν από τους πελάτες μας"
+msgctxt ""
+"We are sorry but the %s account is already linked to one of our customers"
+msgid ""
+"We are sorry but the %s account is already linked to one of our customers"
+msgstr ""
+"Λυπούμαστε, αλλά ο λογαριασμός %s είναι ήδη συνδεδεμένος με έναν από τους "
+"πελάτες μας"
 
-#: el/customer.csv:44
-msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
-msgstr "Έχετε δημιουργήσει το λογαριασμό σας. Με αυτόν τον λογαριασμό, θα είστε σε θέση να απολαύσετε τις υπέροχες προσφορές που είναι διαθέσιμες στην εφαρμογή μας."
+msgctxt "We are sorry but this nickname is already used"
+msgid "We are sorry but this nickname is already used"
+msgstr "Συγνώμη, αλλά αυτή η διεύθυνση χρησιμοποιείται ήδη."
 
-#: el/customer.csv:45
+msgctxt ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgid ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgstr ""
+
+msgctxt ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgid ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgstr ""
+"Έχετε δημιουργήσει το λογαριασμό σας. Με αυτόν τον λογαριασμό, θα είστε σε "
+"θέση να απολαύσετε τις υπέροχες προσφορές που είναι διαθέσιμες στην εφαρμογή "
+"μας."
+
+msgctxt "You must agree to our privacy policy to create an account."
+msgid "You must agree to our privacy policy to create an account."
+msgstr ""
+
+msgctxt "You must fill firstname and lastname fields."
+msgid "You must fill firstname and lastname fields."
+msgstr ""
+
+msgctxt "Your account has been successfully saved"
 msgid "Your account has been successfully saved"
 msgstr "Ο λογαριασμός σας έχει αποθηκευτεί επιτυχώς"
+
+msgctxt "Your points"
+msgid "Your points"
+msgstr ""
+
+msgctxt "%s - Account creation"
+msgid "%s - Account creation"
+msgstr "%s - Δημιουργία Λογαριασμού"
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr "%s - Ο νέος σας κωδικός"

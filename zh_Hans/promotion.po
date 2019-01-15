@@ -1,70 +1,171 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/promotion/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: zh_Hans\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/promotion.csv:1
+msgctxt "An error occurred while saving your discount. Please fill in all fields"
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "有一个错误保存您的折扣。请填写所有领域"
 
-#: zh/promotion.csv:2
+msgctxt "Are you sure you want to use this discount?"
 msgid "Are you sure you want to use this discount?"
 msgstr "你确定要使用这个折扣？"
 
-#: zh/promotion.csv:3
+msgctxt "Closed discounts"
 msgid "Closed discounts"
 msgstr "折扣关闭"
 
-#: zh/promotion.csv:4
+msgctxt "Conditions"
+msgid "Conditions"
+msgstr "条款"
+
+msgctxt "Create a new Discount"
+msgid "Create a new Discount"
+msgstr "创建新帐号"
+
+msgctxt "Create a new discount"
+msgid "Create a new discount"
+msgstr "创建新帐号"
+
+msgctxt "Delete this discount?"
 msgid "Delete this discount?"
 msgstr "删除这个折扣？"
 
-#: zh/promotion.csv:5
+msgctxt "Description"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "Design"
+msgid "Design"
+msgstr "设计"
+
+msgctxt "Details"
+msgid "Details"
+msgstr "详细信息"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "折扣"
+
+msgctxt "Discount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "折扣正确移除"
 
-#: zh/promotion.csv:6
+msgctxt "Discount successfully saved"
 msgid "Discount successfully saved"
 msgstr "折扣保存成功"
 
-#: zh/promotion.csv:7
+msgctxt "Do you want to use this coupon?"
+msgid "Do you want to use this coupon?"
+msgstr ""
+
+msgctxt "End at"
+msgid "End at"
+msgstr "在结果"
+
+msgctxt "Generate QRCode"
+msgid "Generate QRCode"
+msgstr ""
+
+msgctxt "Is unique?"
+msgid "Is unique?"
+msgstr ""
+
+msgctxt "Manage content"
+msgid "Manage content"
+msgstr ""
+
+msgctxt "No"
+msgid "No"
+msgstr "别"
+
+msgctxt "On"
+msgid "On"
+msgstr ""
+
+msgctxt "Picture"
+msgid "Picture"
+msgstr "图像"
+
+msgctxt "Please select an end date greater than the current date."
 msgid "Please select an end date greater than the current date."
 msgstr "请选择日期大于当前的日期的完成。"
 
-#: zh/promotion.csv:8
+msgctxt "QR Coupon"
+msgid "QR Coupon"
+msgstr ""
+
+msgctxt "Search ..."
+msgid "Search ..."
+msgstr ""
+
+msgctxt "This discount is now used"
 msgid "This discount is now used"
 msgstr "这个折扣现在使用"
 
-#: zh/promotion.csv:9
-msgid "Valid until"
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "Title"
+msgid "Title"
+msgstr "称号"
+
+msgctxt "Unlimited"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "Use only once?"
+msgid "Use only once?"
+msgstr "仅使用一次"
+
+msgctxt "Valid Until"
+msgid "Valid Until"
 msgstr "有效期至"
 
-#: zh/promotion.csv:10
+msgctxt "Yes"
+msgid "Yes"
+msgstr "是的"
+
+msgctxt "You have already use this code"
+msgid "You have already use this code"
+msgstr "你已经使用这个折扣"
+
+msgctxt "You have already use this discount"
 msgid "You have already use this discount"
 msgstr "你已经使用这个折扣"
 
-#: zh/promotion.csv:11
+msgctxt "You must be logged in to use a discount"
 msgid "You must be logged in to use a discount"
 msgstr "你必须注册，才能使用折扣"
 
-#: zh/promotion.csv:12
-msgid "or illimited"
-msgstr "或无限"
+msgctxt "(You'll be able to remove this promotion later)"
+msgid "(You'll be able to remove this promotion later)"
+msgstr "您可以稍后删除此促销"
 
-#: zh/promotion.csv:13
+msgctxt "Your QRCode"
+msgid "Your QRCode"
+msgstr ""
+
+msgctxt "or unlimited"
+msgid "or unlimited"
+msgstr ""
+
+msgctxt "use only once"
 msgid "use only once"
 msgstr "仅使用一次"
 
-#: zh/promotion.csv:14
+msgctxt "you'll be able to remove this promotion later"
 msgid "you'll be able to remove this promotion later"
 msgstr "您可以稍后删除此促销"

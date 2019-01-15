@@ -1,138 +1,193 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: German <http://yvain.xtraball.com/projects/siberian/push/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: de/push.csv:1
-msgid "<a href=\"%s\">Click here to provide the required information to send push notifications</a>"
-msgstr "<a href=\"%s\"> Klicken Sie hier, um die erforderlichen Informationen zur Verfügung stellen, um Push-Benachrichtigungen senden </a>"
-
-#: de/push.csv:2
+msgctxt "Additionnal Information"
 msgid "Additionnal Information"
 msgstr "Zusätzliche Informationen"
 
-#: de/push.csv:3
+msgctxt "An error occurred while deleting the push. Please try again later."
+msgid "An error occurred while deleting the push. Please try again later."
+msgstr ""
+"Ein Fehler beim Speichern der PushNachricht ist aufgetreten. Bitte versuchen "
+"Sie es zu einem späteren Zeitpunkt noch einmal"
+
+msgctxt "And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "Und ein Radius (in Km):"
 
-#: de/push.csv:4
+msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-#: de/push.csv:5
+msgctxt "Creation date"
 msgid "Creation date"
 msgstr "Erstellungsdatum"
 
-#: de/push.csv:6
+msgctxt "Custom URL"
+msgid "Custom URL"
+msgstr "Eigene URL"
+
+msgctxt "Enter a location:"
 msgid "Enter a location:"
 msgstr "Geben Sie einen Ort ein:"
 
-#: de/push.csv:7
+msgctxt "GCM Key"
 msgid "GCM Key"
 msgstr "GCM Key "
 
-#: de/push.csv:8
+msgctxt "I want to send it"
 msgid "I want to send it"
 msgstr "Ich möchte es senden"
 
-#: de/push.csv:9
+msgctxt "Keys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Schlüssel erfolgreich gespeichert"
 
-#: de/push.csv:10
+msgctxt "Message"
 msgid "Message"
 msgstr "Nachricht"
 
-#: de/push.csv:11
-msgid "Message:"
-msgstr "Nachricht:"
+msgctxt "No device found for this user"
+msgid "No device found for this user"
+msgstr "Kein Gerät für diesen Benutzer gefunden"
 
-#: de/push.csv:12
+msgctxt "No items."
+msgid "No items."
+msgstr "Keine Gegenstände"
+
+msgctxt "Open a feature or a custom URL"
+msgid "Open a feature or a custom URL"
+msgstr "Ein Modul oder eine Seite öffnen"
+
+msgctxt "Pending"
 msgid "Pending"
 msgstr "anstehend"
 
-#: de/push.csv:13
+msgctxt "Please enter an expiration date for your message:"
+msgid "Please enter an expiration date for your message:"
+msgstr "Bitte ein Ablaufdatum für deine Nachricht eingeben:"
+
+msgctxt "Project Number"
+msgid "Project Number"
+msgstr "Projektnummer"
+
+msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "Push-Benachrichtigungen"
 
-#: de/push.csv:14
+msgctxt "Push Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Push-Benachrichtigungen Einstellungen "
 
-#: de/push.csv:15
+msgctxt "Push successfully deleted."
+msgid "Push successfully deleted."
+msgstr "Push Nachricht erfolgreich gelöscht"
+
+msgctxt "Radius"
 msgid "Radius"
 msgstr "RADIUS"
 
-#: de/push.csv:16
+msgctxt "Send to a specific location"
 msgid "Send to a specific location"
 msgstr "Senden Sie es an einen bestimmten Ort"
 
-#: de/push.csv:17
+msgctxt "Send to all applications"
+msgid "Send to all applications"
+msgstr "An alle Anwendungen senden"
+
+msgctxt "Send to all my users"
 msgid "Send to all my users"
 msgstr "Senden an alle meine Benutzer"
 
-#: de/push.csv:18
-msgid "Send you .pem certificate"
-msgstr "Senden Sie. Pem Zertifikat "
+msgctxt "Send to no specific locations"
+msgid "Send to no specific locations"
+msgstr "Senden an alle"
 
-#: de/push.csv:19
-msgid "Sender ID"
-msgstr "Sender ID"
+msgctxt "Send to specific topics"
+msgid "Send to specific topics"
+msgstr "zu einem bestimmten Topic öffnen"
 
-#: de/push.csv:20
+msgctxt "Send to specific users"
+msgid "Send to specific users"
+msgstr "Senden Sie an bestimmte Benutzer"
+
+msgctxt "Sending date"
 msgid "Sending date"
 msgstr "Sendedatum"
 
-#: de/push.csv:21
+msgctxt "The duration limit must be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "Die Dauer Grenze muss höher als die Sendedatum sein"
 
-#: de/push.csv:22
-msgid "Title:"
-msgstr "Titel:"
+msgctxt "Topics"
+msgid "Topics"
+msgstr "Überschrift"
 
-#: de/push.csv:23
-msgid "You don't have any push notifications"
-msgstr "Sie haben noch keine Push-Benachrichtigungen erhalten."
+msgctxt "Users"
+msgid "Users"
+msgstr "Benutzer"
 
-#: de/push.csv:24
-msgid "You have already sent a certificate"
-msgstr "Sie haben bereits ein Zertifikat gesendet "
+msgctxt "You must choose a topic before sending your message."
+msgid "You must choose a topic before sending your message."
+msgstr "Sie müssen eine Überschrift eintragen um fortfahren zu können."
 
-#: de/push.csv:25
+msgctxt "You must choose at least one user before sending your message."
+msgid "You must choose at least one user before sending your message."
+msgstr ""
+"Du musst mindestens einen Benutzer auswählen, bevor du deine Nachricht "
+"senden kannst."
+
+msgctxt "Your app must be published to send a push notification."
 msgid "Your app must be published to send a push notification."
-msgstr "Ihre Anwendung muss veröffentlicht werden, um eine Push-Benachrichtigung zu senden."
+msgstr ""
+"Ihre Anwendung muss veröffentlicht werden, um eine Push-Benachrichtigung zu "
+"senden."
 
-#: de/push.csv:26
-msgid "Your message has been saved successfully and will be sent at the entered date"
-msgstr "Ihre Nachricht wurde erfolgreich gespeichert und wird am eingegebenen Datum gesendet werden"
+msgctxt "Your message has been saved successfully."
+msgid "Your message has been saved successfully."
+msgstr "Ihre Nachricht wurde erfolgreich gespeichert."
 
-#: de/push.csv:27
-msgid "Your message has been saved successfully and will be sent in a few minutes"
-msgstr "Ihre Nachricht wurde erfolgreich gespeichert und wird in wenigen Minuten gesendet werden"
+msgctxt ""
+"Your message has been saved successfully and will be sent at the entered date"
+msgid ""
+"Your message has been saved successfully and will be sent at the entered date"
+msgstr ""
+"Ihre Nachricht wurde erfolgreich gespeichert und wird am eingegebenen Datum "
+"gesendet werden"
 
-#: de/push.csv:28
+msgctxt ""
+"Your message has been saved successfully and will be sent in a few minutes"
+msgid ""
+"Your message has been saved successfully and will be sent in a few minutes"
+msgstr ""
+"Ihre Nachricht wurde erfolgreich gespeichert und wird in wenigen Minuten "
+"gesendet werden"
+
+msgctxt "and users entering the area"
 msgid "and users entering the area"
 msgstr "und Anwender im Bereich"
 
-#: de/push.csv:29
+msgctxt "for a limited period"
 msgid "for a limited period"
 msgstr "für einen begrenzten Zeitraum"
 
-#: de/push.csv:30
+msgctxt "now"
 msgid "now"
 msgstr "jetzt"
 
-#: de/push.csv:31
+msgctxt "on a specific date"
 msgid "on a specific date"
 msgstr "an einem bestimmten Datum"

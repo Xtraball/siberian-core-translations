@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 11:06+0000\n"
-"PO-Revision-Date: 2019-01-15 11:06+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/acl/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,66 +13,66 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: base/acl.csv:1
+msgctxt "Actions"
 msgid "Actions"
 msgstr "Actions"
 
-#: base/acl.csv:2
+msgctxt "An error occurred while deleting your role. Please, try again later."
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr "Une erreur est survenue durant l'édition. Merci de réessayer plus tard."
 
-#: base/acl.csv:3
+msgctxt "Code"
 msgid "Code"
 msgstr "Code"
 
-#: base/acl.csv:4
+msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr "Ajouter un rôle"
 
-#: base/acl.csv:5
+msgctxt "Delete"
 msgid "Delete"
 msgstr "Supprimer"
 
-#: base/acl.csv:6
+msgctxt "Edit"
 msgid "Edit"
 msgstr "Editer"
 
-#: base/acl.csv:7
+msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr "Edition de %s"
 
-#: base/acl.csv:8
+msgctxt "Id"
 msgid "Id"
 msgstr "Id"
 
-#: base/acl.csv:9
+msgctxt "Label"
 msgid "Label"
 msgstr "Titre"
 
-#: base/acl.csv:10
+msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr "Liste des rôles"
 
-#: base/acl.csv:11
+msgctxt "Role"
 msgid "Role"
 msgstr "Rôle"
 
-#: base/acl.csv:12
+msgctxt "Search"
 msgid "Search"
 msgstr "Rechercher"
 
-#: base/acl.csv:13
+msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr "Définir comme rôle par défaut pour toute nouvelle inscription."
 
-#: base/acl.csv:14
+msgctxt "You don't have any role yet"
 msgid "You don't have any role yet"
 msgstr "Aucun rôle"
 
-#: base/acl.csv:15
+msgctxt "Your role has been successfully deleted"
 msgid "Your role has been successfully deleted"
 msgstr "Le rôle à bien été supprimé"
 
-#: base/acl.csv:16
+msgctxt "Your role has been successfully saved"
 msgid "Your role has been successfully saved"
 msgstr "Le rôle à bien été sauvegardé"

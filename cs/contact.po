@@ -1,82 +1,79 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/contact/cs/"
+">\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/contact.csv:1
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Při ukládání kontaktních informací došlo k chybě."
 
-#: cs/contact.csv:2
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr "Při odesílání Vaší zprávy došlo k chybě. Zkuste to prosím později."
 
-#: cs/contact.csv:3
+msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "Telefonní číslo:"
 
-#: cs/contact.csv:4
+msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Opravdu chcete odstranit obrázek?"
 
-#: cs/contact.csv:5
+msgctxt "City"
 msgid "City"
 msgstr "Město"
 
-#: cs/contact.csv:6
+msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Kontaktní informace"
 
-#: cs/contact.csv:7
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Kontaktní email:"
 
-#: cs/contact.csv:8
+msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Zde je zpráva/dotaz:"
 
-#: cs/contact.csv:9
+msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Vyplňte prosím následující údaje: <br />"
 
-#: cs/contact.csv:10
+msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: cs/contact.csv:11
+msgctxt "Website"
 msgid "Website"
 msgstr "Webová stránka"
 
-#: cs/contact.csv:12
+msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Obdželi jste zprávu od:"
 
-#: cs/contact.csv:13
+msgctxt "Your email"
 msgid "Your email"
 msgstr "Váš e-mail"
 
-#: cs/contact.csv:14
+msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Vaše zpráva byla odeslána"
 
-#: cs/contact.csv:15
+msgctxt "Your request"
 msgid "Your request"
 msgstr "Zpráva"
 
-#: cs/contact.csv:16
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "PSČ"
-
-#: cs/contact.csv:17
-msgid "﻿An error occurred while saving your contact informations."
-msgstr "Při ukládání kontaktních informací došlo k chybě."

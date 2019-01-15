@@ -1,58 +1,71 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/padlock/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: zh_Hans\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/padlock.csv:1
-msgid "Lock the entire application?"
-msgstr "锁定整个应用程序？"
-
-#: zh/padlock.csv:2
-msgid "Choose the features to lock:"
-msgstr "选择的阻断功能："
-
-#: zh/padlock.csv:3
-msgid "Restrict Access"
-msgstr "限制访问"
-
-#: zh/padlock.csv:4
-msgid "Allow all the users by default:"
-msgstr "默认允许所有用户："
-
-#: zh/padlock.csv:5
-msgid "the gender"
-msgstr "性别"
-
-#: zh/padlock.csv:6
-msgid "the first name"
-msgstr "名字"
-
-#: zh/padlock.csv:7
-msgid "the last name"
-msgstr "姓"
-
-#: zh/padlock.csv:8
-msgid "the email address"
-msgstr "电子邮件"
-
-#: zh/padlock.csv:9
-msgid "the password"
-msgstr "密码"
-
-#: zh/padlock.csv:10
+msgctxt "Access restricted to authorized members only"
 msgid "Access restricted to authorized members only"
 msgstr "只允许授权用户访问"
 
-#: zh/padlock.csv:11
-msgid "We are sorry but your account does not have enough permissions to access this page"
+msgctxt "Allow all the users by default:"
+msgid "Allow all the users by default:"
+msgstr "默认允许所有用户："
+
+msgctxt "Choose the features to lock:"
+msgid "Choose the features to lock:"
+msgstr "选择的阻断功能："
+
+msgctxt "Lock the entire application?"
+msgid "Lock the entire application?"
+msgstr "锁定整个应用程序？"
+
+msgctxt "Restrict Access"
+msgid "Restrict Access"
+msgstr "限制访问"
+
+msgctxt "Scan now to unlock"
+msgid "Scan now to unlock"
+msgstr ""
+
+msgctxt "Unlock by:"
+msgid "Unlock by:"
+msgstr ""
+
+msgctxt ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
+msgid ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
 msgstr "很抱歉，您的帐户中有足够的权限访问该页面"
+
+msgctxt "the email address"
+msgid "the email address"
+msgstr "电子邮件"
+
+msgctxt "the first name"
+msgid "the first name"
+msgstr "名字"
+
+msgctxt "the gender"
+msgid "the gender"
+msgstr "性别"
+
+msgctxt "the last name"
+msgid "the last name"
+msgstr "姓"
+
+msgctxt "the password"
+msgid "the password"
+msgstr "密码"

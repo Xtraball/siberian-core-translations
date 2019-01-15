@@ -1,134 +1,175 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/comment/cs/"
+">\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/comment.csv:1
-msgid "'Near me' radius (in km):"
-msgstr "Okruh \"V okolí\" (v Km)"
+msgctxt "Add a comment"
+msgid "Add a comment"
+msgstr "Přidat komentář"
 
-#: cs/comment.csv:2
+msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "Při mazání odpovědi došlo k chybě. Zkuste to prosím později."
 
-#: cs/comment.csv:3
-msgid "Create a news:"
-msgstr "Vytvořte zprávu:"
+msgctxt "COMMENTS"
+msgid "COMMENTS"
+msgstr "Komentáře"
 
-#: cs/comment.csv:4
+msgctxt "Create a news"
+msgid "Create a news"
+msgstr "Vytvořit zprávu"
+
+msgctxt "Delete this info"
+msgid "Delete this info"
+msgstr "Odstranit tuto událost?"
+
+msgctxt "Flag"
+msgid "Flag"
+msgstr "Označit"
+
+msgctxt "Flag as inappropriate"
+msgid "Flag as inappropriate"
+msgstr "Označit za nevhodné"
+
+msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Skrýt tuto informaci"
 
-#: cs/comment.csv:5
+msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Informace byla úspěšně smazána"
 
-#: cs/comment.csv:6
+msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Informace byla úspěšně skryta"
 
-#: cs/comment.csv:7
+msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Informace byla úspěšně uložena"
 
-#: cs/comment.csv:8
+msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Informace byla úspěšně zobrazena"
 
-#: cs/comment.csv:9
+msgctxt "Insert a"
 msgid "Insert a"
 msgstr "Vložit"
 
-#: cs/comment.csv:10
+msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Toto bude viditelné až po našem schválení"
 
-#: cs/comment.csv:11
+msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Odpovědi uživatelů"
 
-#: cs/comment.csv:12
+msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Uživatelské komentáře"
 
-#: cs/comment.csv:13
+msgctxt "Near me"
 msgid "Near me"
 msgstr "V okolí"
 
-#: cs/comment.csv:14
+msgctxt "'Near me' radius (in km):"
+msgid "'Near me' radius (in km):"
+msgstr "Okruh \"V okolí\" (v Km)"
+
+msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Nastavení \"V okolí\""
 
-#: cs/comment.csv:15
+msgctxt "New post"
+msgid "New post"
+msgstr "Nová zpráva"
+
+msgctxt "No comment for now"
+msgid "No comment for now"
+msgstr "Zatím žádné komentáře"
+
+msgctxt "No comments for now"
+msgid "No comments for now"
+msgstr "Zatím žádné komentáře"
+
+msgctxt "Post"
 msgid "Post"
 msgstr "Příspěvek"
 
-#: cs/comment.csv:16
+msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "Publikováno"
 
-#: cs/comment.csv:17
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Okruh"
 
-#: cs/comment.csv:18
+msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Okruh musí  být číslo"
 
-#: cs/comment.csv:19
+msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Okruh musí  být k dispozici"
 
-#: cs/comment.csv:20
+msgctxt "Read More"
+msgid "Read More"
+msgstr "Více"
+
+msgctxt "Recent"
 msgid "Recent"
 msgstr "Aktuální"
 
-#: cs/comment.csv:21
+msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Zobrazit tuto informaci"
 
-#: cs/comment.csv:22
+msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Zpráva je zatím bez komentářů"
 
-#: cs/comment.csv:23
+msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "Bylo označeno jako nevhodné"
 
-#: cs/comment.csv:24
+msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Nelze přidat další Like pro stejnou zprávu"
 
-#: cs/comment.csv:25
+msgctxt "You have to enter a text message."
+msgid "You have to enter a text message."
+msgstr "Musíte napsat zprávu"
+
+msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Musíte být připojeni k vytvoření příspěvku"
 
-#: cs/comment.csv:26
+msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "Vaše označení bylo úspěšně uloženo"
 
-#: cs/comment.csv:27
+msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Váš Like byl přidán"
 
-#: cs/comment.csv:28
+msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "Vaše zpráva byla úspěšně uložena."
 
-#: cs/comment.csv:29
+msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Váš příspěvek byl úspěšně uložen"
 
-#: cs/comment.csv:30
-msgid "﻿An error occurred while deleting this answer. Please try again later."
-msgstr "Při mazání odpovědi došlo k chybě. Zkuste to prosím později."
+msgctxt "en"
+msgid "en"
+msgstr "cz"

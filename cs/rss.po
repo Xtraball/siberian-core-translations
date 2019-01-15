@@ -1,62 +1,54 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/rss/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/rss.csv:1
-msgid "%s ago"
-msgstr "%s před"
-
-#: cs/rss.csv:2
+msgctxt "An error occurred while saving your RSS feed"
 msgid "An error occurred while saving your RSS feed"
 msgstr "Při ukládání RSS zdroje došlo k chybě"
 
-#: cs/rss.csv:3
+msgctxt "Display feed pictures whenever possible"
 msgid "Display feed pictures whenever possible"
 msgstr "Zobrazit obrázky, když jsou k dispozici"
 
-#: cs/rss.csv:4
+msgctxt "Enter the URL of this RSS feed"
 msgid "Enter the URL of this RSS feed"
 msgstr "Zadejte URL adresu tohoto RSS kanálu"
 
-#: cs/rss.csv:5
+msgctxt "Found feeds"
 msgid "Found feeds"
 msgstr "Nalezené zdroje"
 
-#: cs/rss.csv:6
+msgctxt "No RSS feed could be found"
 msgid "No RSS feed could be found"
 msgstr "Žádný RSS zdroj nenalezen"
 
-#: cs/rss.csv:7
+msgctxt "RSS feed successfully saved"
 msgid "RSS feed successfully saved"
 msgstr "RSS zdroj úspěšně uložen"
 
-#: cs/rss.csv:8
+msgctxt "Show article"
 msgid "Show article"
 msgstr "Zobrazit článek"
 
-#: cs/rss.csv:9
+msgctxt "day"
 msgid "day"
 msgstr "den"
 
-#: cs/rss.csv:10
+msgctxt "hour"
 msgid "hour"
 msgstr "hodina"
 
-#: cs/rss.csv:11
+msgctxt "minute"
 msgid "minute"
 msgstr "minuta"
-
-#: cs/rss.csv:12
-msgid "﻿%s ago"
-msgstr "%s před"

@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-11 14:47+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/admin/tr/"
 ">\n"
 "Language: tr\n"
@@ -14,250 +14,312 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/admin.csv:1
-msgid "%s - Your new password"
-msgstr "%s – Yeni şifreniz"
-
-#: tr/admin.csv:2
-msgid "A request to reset your password has been made to log in to your administration panel."
+msgctxt ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
+msgid ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
 msgstr "Yönetim paneli şifrenizi sifirlamak için bir istek yapılmıştır."
 
-#: tr/admin.csv:3
-msgid "Admin successfully deleted"
-msgstr "Yönetici silindi"
-
-#: tr/admin.csv:4
-msgid "An error occurred while saving. The country is not valid."
-msgstr "Kaydedilirken bir hata oluştu. Ülke geçerli değil."
-
-#: tr/admin.csv:5
-msgid "Are you sure you want to delete this application?"
-msgstr "Bu aplikasyonu silmek istediğinize eminmisiniz?"
-
-#: tr/admin.csv:6
-msgid "Can add pages"
-msgstr "Sayfa eklenebilir mi"
-
-#: tr/admin.csv:7
-msgid "Change my password"
-msgstr "Şifremi değiştir"
-
-#: tr/admin.csv:8
-msgid "Confirm your password"
-msgstr "Şifrenizi doğrulayın"
-
-#: tr/admin.csv:9
-msgid "Create a new application"
-msgstr "Yeni aplikasyon oluşturun"
-
-#: tr/admin.csv:10
-msgid "Create a new user"
-msgstr "Yeni kullanıcı oluşturun"
-
-#: tr/admin.csv:11
-msgid "Created At"
-msgstr "De Oluşturuldu"
-
-#: tr/admin.csv:12
-msgid "Created at %s"
-msgstr "%s te oluşturuldu"
-
-#: tr/admin.csv:13
-msgid "Do not hesitate to give us your feedback by sharing your needs:"
-msgstr "İsteklerinizi paylaşarak bize geribildirim göndermek için tereddüt etmeyin:"
-
-#: tr/admin.csv:14
-msgid "Edit the account \"%s\""
-msgstr "\"%s\" hesabı güncelle"
-
-#: tr/admin.csv:15
-msgid "Edit the user %s"
-msgstr "%s kullanıcını düzenle"
-
-#: tr/admin.csv:16
-msgid "Enjoy!"
-msgstr "Keyfine bak!"
-
-#: tr/admin.csv:17
-msgid "Find some advices here:"
-msgstr "Burada bazı tavsiyeler bulun:"
-
-#: tr/admin.csv:18
-msgid "Here are your credentials, keep them preciously:"
-msgstr "İşte kimlik bilgileri, lütfen gizli tunun:"
-
-#: tr/admin.csv:19
-msgid "List of admin accounts"
-msgstr "Yönetici hesapları listesi"
-
-#: tr/admin.csv:20
-msgid "List of my accounts"
-msgstr "Hesaplarımın listesi"
-
-#: tr/admin.csv:21
-msgid "List of your users"
-msgstr "Kullanıcılarınızın listesi"
-
-#: tr/admin.csv:22
-msgid "Log-in As"
-msgstr "Olarak giriş yapın"
-
-#: tr/admin.csv:23
-msgid "Manage access"
-msgstr "Erişimi yönet"
-
-#: tr/admin.csv:24
-msgid "My Applications"
-msgstr "Uygulamalarım"
-
-#: tr/admin.csv:25
-msgid "My information"
-msgstr "Bilgilerim"
-
-#: tr/admin.csv:26
-msgid "Need some help?"
-msgstr "Yardıma ihtiyacınız var mı?"
-
-#: tr/admin.csv:27
-msgid "Please enter a valid email address."
-msgstr "Lütfen geçerli bir email adresi girin."
-
-#: tr/admin.csv:28
-msgid "Please, enter an application name"
-msgstr "Lütfen bir aplikasyon ismi girin"
-
-#: tr/admin.csv:29
-msgid "Ready to create your own apps?"
-msgstr "Kendi aplikasyonunuzu oluşturmaya hazır mısınız?"
-
-#: tr/admin.csv:30
-msgid "Sign up"
-msgstr "Kaydol"
-
-#: tr/admin.csv:31
-msgid "Thanks for choosing us!"
-msgstr "Bizi seçtiğiniz için teşekkür ederiz."
-
-#: tr/admin.csv:32
-msgid "The Support Team"
-msgstr "Destek ekibi"
-
-#: tr/admin.csv:33
-msgid "The password and the confirmation does not match."
-msgstr "Doğrulam şifreniz uyuşmuyor."
-
-#: tr/admin.csv:34
-msgid "The password must be at least 6 characters."
-msgstr "Şifre en az 6 karekter olmalıdır."
-
-#: tr/admin.csv:35
-msgid "We are sorry but this email address is already used."
-msgstr "Üzgünüz ancak bu email adresi kullanılıyor."
-
-#: tr/admin.csv:36
-msgid "Welcome!"
-msgstr "Hoşgeldiniz."
-
-#: tr/admin.csv:37
-msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
-msgstr "Bunu seveceksiniz,birçok profosyonel aplikasyon özelliğimiz sayesinde kendi cep telefonu app nizi  birkaç dakika içinde kendi adınızla oluşturabileceksiniz. "
-
-#: tr/admin.csv:38
-msgid "You can't delete the main account"
-msgstr "Ana hesabı silemezsiniz"
-
-#: tr/admin.csv:39
-msgid "You don't have any users yet"
-msgstr "Henüz bir kullanıcınız bulunmuyor"
-
-#: tr/admin.csv:40
-msgid "Your credentials"
-msgstr "Kimlik bilgileriniz"
-
-#: tr/admin.csv:41
-msgid "Your login:"
-msgstr "Girişiniz:"
-
-#: tr/admin.csv:42
-msgid "Your password:"
-msgstr "Şifreniz:"
-
-msgid "Role"
-msgstr "Rol"
-
+msgctxt "Access"
 msgid "Access"
 msgstr "Erişim"
 
+msgctxt "Account Role"
 msgid "Account Role"
 msgstr "Hesap Rolü"
 
+msgctxt "Account role"
 msgid "Account role"
 msgstr "Hesap Biçimi"
 
+msgctxt "Address:"
+msgid "Address:"
+msgstr ""
+
+msgctxt "Address 2:"
+msgid "Address 2:"
+msgstr ""
+
+msgctxt "Administrator : full access"
 msgid "Administrator : full access"
 msgstr "Yönetici : tam erişim"
 
+msgctxt "Administrator: full access"
 msgid "Administrator: full access"
 msgstr "Yönetici: Tam Yetkili"
 
+msgctxt "An error occurred while saving. The country is not valid."
+msgid "An error occurred while saving. The country is not valid."
+msgstr "Kaydedilirken bir hata oluştu. Ülke geçerli değil."
+
+msgctxt "Application"
+msgid "Application"
+msgstr ""
+
+msgctxt "Application have been duplicated successfully."
 msgid "Application have been duplicated successfully."
 msgstr "Uygulama Başarıyla kopyalandı"
 
+msgctxt "Are you sure you want to delete this application?"
+msgid "Are you sure you want to delete this application?"
+msgstr "Bu aplikasyonu silmek istediğinize eminmisiniz?"
+
+msgctxt "Are you sure you want to duplicate this application?"
+msgid "Are you sure you want to duplicate this application?"
+msgstr ""
+
+msgctxt "Can add pages"
+msgid "Can add pages"
+msgstr "Sayfa eklenebilir mi"
+
+msgctxt "Can generate APK"
 msgid "Can generate APK"
 msgstr "Olabilir oluşturmak MUAYENE"
 
+msgctxt "Can manage guided tour"
 msgid "Can manage guided tour"
 msgstr "Rehber turu yönetebilir"
 
+msgctxt "Change my password"
+msgid "Change my password"
+msgstr "Şifremi değiştir"
+
+msgctxt "Company:"
+msgid "Company:"
+msgstr ""
+
+msgctxt "Confirm your password"
+msgid "Confirm your password"
+msgstr "Şifrenizi doğrulayın"
+
+msgctxt "Connect to your backoffice to validate this account."
 msgid "Connect to your backoffice to validate this account."
 msgstr "Bu hesabı doğrulamak için BackOffice bağlanın ."
 
+msgctxt "Create a new application"
+msgid "Create a new application"
+msgstr "Yeni aplikasyon oluşturun"
+
+msgctxt "Create a new user"
+msgid "Create a new user"
+msgstr "Yeni kullanıcı oluşturun"
+
+msgctxt "Created At"
+msgid "Created At"
+msgstr "De Oluşturuldu"
+
+msgctxt "Created at %s"
+msgid "Created at %s"
+msgstr "%s te oluşturuldu"
+
+msgctxt "Do not hesitate to give us your feedback by sharing your needs:"
+msgid "Do not hesitate to give us your feedback by sharing your needs:"
+msgstr ""
+"İsteklerinizi paylaşarak bize geribildirim göndermek için tereddüt etmeyin:"
+
+msgctxt "Edit the account %s"
+msgid "Edit the account %s"
+msgstr ""
+
+msgctxt "Edit the user %s"
+msgid "Edit the user %s"
+msgstr "%s kullanıcını düzenle"
+
+msgctxt "Enjoy!"
+msgid "Enjoy!"
+msgstr "Keyfine bak!"
+
+msgctxt "Filter your apps..."
 msgid "Filter your apps..."
 msgstr "Uygulamanız filitreleniyor..."
 
+msgctxt "Find some advices here:"
+msgid "Find some advices here:"
+msgstr "Burada bazı tavsiyeler bulun:"
+
+msgctxt "From"
 msgid "From"
 msgstr "Gönderici"
 
+msgctxt "Hello, a new user has registered on your platform : %s."
 msgid "Hello, a new user has registered on your platform : %s."
 msgstr "Merhaba , yeni bir kullanıcı platforma kayıt oldu: % s ."
 
+msgctxt "Here are your credentials, keep them preciously:"
+msgid "Here are your credentials, keep them preciously:"
+msgstr "İşte kimlik bilgileri, lütfen gizli tunun:"
+
+msgctxt "List of admin accounts"
+msgid "List of admin accounts"
+msgstr "Yönetici hesapları listesi"
+
+msgctxt "List of my accounts"
+msgid "List of my accounts"
+msgstr "Hesaplarımın listesi"
+
+msgctxt "List of your users"
+msgid "List of your users"
+msgstr "Kullanıcılarınızın listesi"
+
+msgctxt "Log-in As"
+msgid "Log-in As"
+msgstr "Olarak giriş yapın"
+
+msgctxt "Manage access"
+msgid "Manage access"
+msgstr "Erişimi yönet"
+
+msgctxt "My Applications"
+msgid "My Applications"
+msgstr "Uygulamalarım"
+
+msgctxt "My information"
+msgid "My information"
+msgstr "Bilgilerim"
+
+msgctxt "Need some help?"
+msgid "Need some help?"
+msgstr "Yardıma ihtiyacınız var mı?"
+
+msgctxt "New user registration on your platform"
 msgid "New user registration on your platform"
 msgstr "Platformda yeni kullanıcı kaydı"
 
+msgctxt "No account for now."
 msgid "No account for now."
 msgstr "Hiçbir hesap bulunamadı."
 
+msgctxt "Please enter a valid email address."
+msgid "Please enter a valid email address."
+msgstr "Lütfen geçerli bir email adresi girin."
+
+msgctxt "Please, enter an application name"
+msgid "Please, enter an application name"
+msgstr "Lütfen bir aplikasyon ismi girin"
+
+msgctxt "Publication access type"
 msgid "Publication access type"
 msgstr "Yayın erişim tipi"
 
+msgctxt "Ready to create your own apps?"
+msgid "Ready to create your own apps?"
+msgstr "Kendi aplikasyonunuzu oluşturmaya hazır mısınız?"
+
+msgctxt "Role"
+msgid "Role"
+msgstr "Rol"
+
+msgctxt "Show All Applications"
 msgid "Show All Applications"
 msgstr "Tüm Uygulamaları Göster"
 
+msgctxt "Sign up"
+msgid "Sign up"
+msgstr "Kaydol"
+
+msgctxt "Sorry but an error occured while duplicating your application."
 msgid "Sorry but an error occured while duplicating your application."
 msgstr "Üzgünüz, Uygulamanız kopyalanırken bir hata oluştu."
 
+msgctxt "State/Province"
 msgid "State/Province"
 msgstr "Eyalet / İl"
 
+msgctxt "Thanks for choosing us!"
+msgid "Thanks for choosing us!"
+msgstr "Bizi seçtiğiniz için teşekkür ederiz."
+
+msgctxt "The Support Team"
+msgid "The Support Team"
+msgstr "Destek ekibi"
+
+msgctxt "The account role is required"
 msgid "The account role is required"
 msgstr "Hesap biçimi gereklidir"
 
+msgctxt "The password and the confirmation does not match."
+msgid "The password and the confirmation does not match."
+msgstr "Doğrulam şifreniz uyuşmuyor."
+
+msgctxt "The password must be at least 6 characters."
+msgid "The password must be at least 6 characters."
+msgstr "Şifre en az 6 karekter olmalıdır."
+
+msgctxt "This account is not activated yet. Please contact an administrator."
 msgid "This account is not activated yet. Please contact an administrator."
 msgstr "Bu hesap henüz aktif değildir. Platform yöneticisine başvurun."
 
+msgctxt "This admin can manage guided tour from editor"
 msgid "This admin can manage guided tour from editor"
 msgstr "Bu yönetici editör rehberli tur yönetebilir"
 
+msgctxt "This user has no applications yet."
 msgid "This user has no applications yet."
 msgstr "Bu kullanıcının henüz hiçbir uygulaması mevcut değil"
 
+msgctxt "User successfully deleted"
+msgid "User successfully deleted"
+msgstr ""
+
+msgctxt "View my current data"
 msgid "View my current data"
 msgstr "Mevcut verilerimi görüntüle"
 
+msgctxt "We are sorry but this email address is already used."
+msgid "We are sorry but this email address is already used."
+msgstr "Üzgünüz ancak bu email adresi kullanılıyor."
+
+msgctxt "Welcome!"
+msgid "Welcome!"
+msgstr "Hoşgeldiniz."
+
+msgctxt ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
+msgid ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
+msgstr ""
+"Bunu seveceksiniz,birçok profosyonel aplikasyon özelliğimiz sayesinde kendi "
+"cep telefonu app nizi  birkaç dakika içinde kendi adınızla "
+"oluşturabileceksiniz. "
+
+msgctxt "You can't delete the main account"
+msgid "You can't delete the main account"
+msgstr "Ana hesabı silemezsiniz"
+
+msgctxt "You don't have any users yet"
+msgid "You don't have any users yet"
+msgstr "Henüz bir kullanıcınız bulunmuyor"
+
+msgctxt "Your account have been created successfully. It will be activated soon."
 msgid "Your account have been created successfully. It will be activated soon."
 msgstr ""
 "Hesabınız başarıyla oluşturuldu. Yakında yönetici tarafından aktif "
 "edilecektir."
 
+msgctxt "Your credentials"
+msgid "Your credentials"
+msgstr "Kimlik bilgileriniz"
+
+msgctxt "Your login:"
+msgid "Your login:"
+msgstr "Girişiniz:"
+
+msgctxt "Your password:"
+msgid "Your password:"
+msgstr "Şifreniz:"
+
+msgctxt "Zip Code"
+msgid "Zip Code"
+msgstr ""
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr "%s – Yeni şifreniz"
+
+msgctxt "to"
 msgid "to"
 msgstr "ve"

@@ -1,26 +1,91 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Italian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian <http://yvain.xtraball.com/projects/siberian/api/it/>"
+"\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/api.csv:1
+msgctxt "API Keys"
 msgid "API Keys"
 msgstr "API Keys"
 
-#: it/api.csv:2
+msgctxt "Api Keys"
 msgid "Api Keys"
 msgstr "API Keys"
 
-#: it/api.csv:3
+msgctxt "Api Keys successfully saved"
 msgid "Api Keys successfully saved"
 msgstr "Api Keys salvata correttamente"
+
+msgctxt "Api Users"
+msgid "Api Users"
+msgstr "Api utente"
+
+msgctxt "Authenticate"
+msgid "Authenticate"
+msgstr "Autenticati"
+
+msgctxt "Backoffice options"
+msgid "Backoffice options"
+msgstr "Opzioni Backoffice"
+
+msgctxt "Clear cache"
+msgid "Clear cache"
+msgstr "Cancella la cache"
+
+msgctxt "Clear logs"
+msgid "Clear logs"
+msgstr "Cancella i registri"
+
+msgctxt "Create a new user"
+msgid "Create a new user"
+msgstr "Crea un nuovo utente"
+
+msgctxt "Created At"
+msgid "Created At"
+msgstr "Creato il"
+
+msgctxt "Exists"
+msgid "Exists"
+msgstr "Esiste"
+
+msgctxt "Forgot password"
+msgid "Forgot password"
+msgstr "Password dimenticata"
+
+msgctxt "Grant user"
+msgid "Grant user"
+msgstr "Concedi utente"
+
+msgctxt "List of your users"
+msgid "List of your users"
+msgstr "Lista dei tuoi users"
+
+msgctxt "Rebuild manifest"
+msgid "Rebuild manifest"
+msgstr "Ricostruire manifesto"
+
+msgctxt "Revoke user"
+msgid "Revoke user"
+msgstr "Revoca utente"
+
+msgctxt "Select API access"
+msgid "Select API access"
+msgstr "Seleziona accesso APi"
+
+msgctxt "Update"
+msgid "Update"
+msgstr "Aggiorna"
+
+msgctxt "You don't have any users yet"
+msgid "You don't have any users yet"
+msgstr "Non hai ancora nessun user"

@@ -1,240 +1,332 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 14:48+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/system/"
 "tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/system.csv:1
-msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
-msgstr "<b>Dosya çeşidi:</b> %s<br /><b>Grekli alan:</b> %s"
-
-#: tr/system.csv:2
-msgid "Click here to send your favicon"
-msgstr "Favicon göndermek için buraya tıklayın"
-
-#: tr/system.csv:3
-msgid "Click here to send your logo"
-msgstr "Logonuzu göndermek için buraya tıklayın"
-
-#: tr/system.csv:4
-msgid "Communications"
-msgstr "İletişim"
-
-#: tr/system.csv:5
-msgid "Current favicon"
-msgstr "Güncel favicon"
-
-#: tr/system.csv:6
-msgid "Current logo"
-msgstr "Güncel logos"
-
-#: tr/system.csv:7
-msgid "Display a link to your clients to your support platform"
-msgstr "Destek platformu için müşterilerine bir bağlantı görüntüler"
-
-#: tr/system.csv:8
-msgid "Drop your favicon here"
-msgstr "Buraya favicon bırakın"
-
-#: tr/system.csv:9
-msgid "Drop your logo here"
-msgstr "Buraya logo bırakın"
-
-#: tr/system.csv:10
-msgid "Sales"
-msgstr "Satışlar"
-
-#: tr/system.csv:11
-msgid "Sales Email Address"
-msgstr "Satış E-posta Adresi"
-
-#: tr/system.csv:12
-msgid "Sender's email address of the emails sent by the site to your clients"
-msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin e-posta adresi"
-
-#: tr/system.csv:13
-msgid "Sender's name of the emails sent by the site to your clients"
-msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin ismi"
-
-#: tr/system.csv:14
-msgid "Support Email Address"
-msgstr "Destek E-posta Adresi"
-
-#: tr/system.csv:15
-msgid "The folder /images/default is not writable."
-msgstr "Klasör / resimler / varsayılan yazılabilir değil."
-
-#: tr/system.csv:16
-msgid "Your Location"
-msgstr "Lokasyonunuz"
-
-#: tr/system.csv:17
-msgid "Your Platform"
-msgstr "Platformunuz"
-
-#: tr/system.csv:18
-msgid "Your company"
-msgstr "Şirketiniz"
-
+msgctxt "60000 maximum allowed."
 msgid "60000 maximum allowed."
 msgstr "Izin verilen maksimum 60000."
 
+msgctxt "Admob ID"
 msgid "Admob ID"
 msgstr "Admob Kimliği"
 
+msgctxt "Admob type"
 msgid "Admob type"
 msgstr "Admib türü"
 
+msgctxt "Android"
+msgid "Android"
+msgstr "Android"
+
+msgctxt "App limit for displaying real data"
 msgid "App limit for displaying real data"
 msgstr "Görüntüleme gerçek veriler için uygulama sınırı"
 
+msgctxt "Banner"
 msgid "Banner"
 msgstr "Banner"
 
+msgctxt "Below are variables you can use to be replaced in the extent."
 msgid "Below are variables you can use to be replaced in the extent."
 msgstr ""
 "Aşağıda, değiştirilmek üzere kullanabileceğiniz değişkenler verilmiştir."
 
+msgctxt "Click here to force analytics computing"
 msgid "Click here to force analytics computing"
 msgstr "Analitik hesaplamayı  zorlamak için tıklayın"
 
+msgctxt "Click here to send your favicon"
+msgid "Click here to send your favicon"
+msgstr "Favicon göndermek için buraya tıklayın"
+
+msgctxt "Click here to send your logo"
+msgid "Click here to send your logo"
+msgstr "Logonuzu göndermek için buraya tıklayın"
+
+msgctxt "Communications"
+msgid "Communications"
+msgstr "İletişim"
+
+msgctxt "Current favicon"
+msgid "Current favicon"
+msgstr "Güncel favicon"
+
+msgctxt "Current logo"
+msgid "Current logo"
+msgstr "Güncel logos"
+
+msgctxt "Default privacy policy"
 msgid "Default privacy policy"
 msgstr "Varsayılan gizlilik politikası"
 
+msgctxt "Default privacy policy section for GDPR"
 msgid "Default privacy policy section for GDPR"
 msgstr "GDPR için varsayılan Gizlilik Politikası bölümü"
 
-msgid "Duration of the free trial period of your platform (in days, 0 for no free trial)."
+msgctxt "Display a link to your clients to your support platform"
+msgid "Display a link to your clients to your support platform"
+msgstr "Destek platformu için müşterilerine bir bağlantı görüntüler"
+
+msgctxt "Drop your favicon here"
+msgid "Drop your favicon here"
+msgstr "Buraya favicon bırakın"
+
+msgctxt "Drop your logo here"
+msgid "Drop your logo here"
+msgstr "Buraya logo bırakın"
+
+msgctxt ""
+"Duration of the free trial period of your platform (in days, 0 for no free "
+"trial)."
+msgid ""
+"Duration of the free trial period of your platform (in days, 0 for no free "
+"trial)."
 msgstr ""
 "Platformun ücretsiz deneme dönemi ( gün kadar, ücretsiz deneme olmasını "
 "istemiyorsanız 0)."
 
+msgctxt "Editor's Design"
 msgid "Editor's Design"
 msgstr "Editörün Tasarım"
 
+msgctxt "Enter here your terms & conditions"
 msgid "Enter here your terms & conditions"
 msgstr "Buraya size ait şartlar ve koşulları girin"
 
-msgid "Enter the javascript code provided by your Chat provider in order to display a Chat from the editor."
+msgctxt ""
+"Enter the javascript code provided by your Chat provider in order to display "
+"a Chat from the editor."
+msgid ""
+"Enter the javascript code provided by your Chat provider in order to display "
+"a Chat from the editor."
 msgstr ""
 "Sohbet görüntülemek için Sohbet sağlayıcınız tarafından sağlanan javascript "
 "kodu girin."
 
+msgctxt "European <b>General Data Protection Regulation (GDPR)</b>."
 msgid "European <b>General Data Protection Regulation (GDPR)</b>."
 msgstr "Avrupa <b>Genel Veri Koruma Yönetmeliği(GDPR)</b>."
 
+msgctxt "Favicon"
 msgid "Favicon"
 msgstr "Favicon"
 
+msgctxt "Flat"
 msgid "Flat"
 msgstr "Düz"
 
+msgctxt "Force all app to use Owner AdMob"
 msgid "Force all app to use Owner AdMob"
 msgstr "Tüm Uygulamaları Ana AdMob hesabını Kullanma zorla"
 
+msgctxt "Free trial period"
 msgid "Free trial period"
 msgstr "Ücretsiz deneme"
 
+msgctxt "Full platform owner contact"
 msgid "Full platform owner contact"
 msgstr "Tam platform sahibi iletişim"
 
+msgctxt "Interstitial"
 msgid "Interstitial"
 msgstr "Interstitial"
 
+msgctxt "Invalid license key"
 msgid "Invalid license key"
 msgstr "Geçersiz lisans anahtarı"
 
+msgctxt "Ios"
 msgid "Ios"
 msgstr "iOS"
 
+msgctxt "License has no more activation left"
 msgid "License has no more activation left"
 msgstr "Lisans kalmadı aktivasyon vardır"
 
+msgctxt "License is valid"
 msgid "License is valid"
 msgstr "Lisans geçerlidir"
 
-msgid "None = no sign-up form, validation = admin must validate created account, full = free sign-up"
+msgctxt "Logo"
+msgid "Logo"
+msgstr "Logo"
+
+msgctxt ""
+"None = no sign-up form, validation = admin must validate created account, "
+"full = free sign-up"
+msgid ""
+"None = no sign-up form, validation = admin must validate created account, "
+"full = free sign-up"
 msgstr ""
 "None = -form doğrulama = admin oluşturuldu hesabı doğrulamak gerekir, iz "
 "yok, tam = ücretsiz kaydolun"
 
+msgctxt "Number of typed characters:"
 msgid "Number of typed characters:"
 msgstr "Girilen karakter sayısı:"
 
+msgctxt "Online Chat"
 msgid "Online Chat"
 msgstr "Online Sohbet"
 
+msgctxt "Platform or Whitelabel Company name"
 msgid "Platform or Whitelabel Company name"
 msgstr "Platform veya White label Şirket adı"
 
+msgctxt "Platform or Whitelabel name"
 msgid "Platform or Whitelabel name"
 msgstr "Platform veya White label adı"
 
+msgctxt "Privacy Settings"
 msgid "Privacy Settings"
 msgstr "Gizlilik Ayarları"
 
+msgctxt "Publication access type"
 msgid "Publication access type"
 msgstr "Yayın erişim tipi"
 
+msgctxt "Sales"
+msgid "Sales"
+msgstr "Satışlar"
+
+msgctxt "Sales Email Address"
+msgid "Sales Email Address"
+msgstr "Satış E-posta Adresi"
+
+msgctxt "Sender's email address of the emails sent by the site to your clients"
+msgid "Sender's email address of the emails sent by the site to your clients"
+msgstr ""
+"Müşterilerinize site tarafından gönderilen e-postaların Gönderenin e-posta "
+"adresi"
+
+msgctxt "Sender's name of the emails sent by the site to your clients"
+msgid "Sender's name of the emails sent by the site to your clients"
+msgstr "Müşterilerinize site tarafından gönderilen e-postaların Gönderenin ismi"
+
+msgctxt "Siberian"
 msgid "Siberian"
 msgstr "Sibirya"
 
+msgctxt "Sign-up mode"
 msgid "Sign-up mode"
 msgstr "Üyelik modu"
 
+msgctxt "Sign-up mode for your platform."
 msgid "Sign-up mode for your platform."
 msgstr "Platformunuz için kayıt modu."
 
-msgid "The european <b>General Data Protection Regulation (GDPR)</b> is applicable to your country, you must enable it in the privacy settings below."
+msgctxt "Support Email Address"
+msgid "Support Email Address"
+msgstr "Destek E-posta Adresi"
+
+msgctxt "The Application name"
+msgid "The Application name"
+msgstr "Uygulama adı"
+
+msgctxt ""
+"The european <b>General Data Protection Regulation (GDPR)</b> is applicable "
+"to your country, you must enable it in the privacy settings below."
+msgid ""
+"The european <b>General Data Protection Regulation (GDPR)</b> is applicable "
+"to your country, you must enable it in the privacy settings below."
 msgstr ""
 "Avrupa <b>Genel Veri Koruma Tüzüğü(GDPR) </b> ülkeniz için uygun, aşağıdaki "
 "gizlilik ayarlarını etkinleştirmeniz gerekir."
 
-msgid "This number will be used to switch between demo mode and real time mode for your analytics on your dashboard"
+msgctxt "The folder /images/default is not writable."
+msgid "The folder /images/default is not writable."
+msgstr "Klasör / resimler / varsayılan yazılabilir değil."
+
+msgctxt ""
+"This number will be used to switch between demo mode and real time mode for "
+"your analytics on your dashboard"
+msgid ""
+"This number will be used to switch between demo mode and real time mode for "
+"your analytics on your dashboard"
 msgstr ""
 "Bu numara, demo Modu ve gerçek zamanlı modu arasında analytics için pano "
 "açmak için kullanılır"
 
-msgid "This privacy policy will be used for every new Application created as a template."
+msgctxt ""
+"This privacy policy will be used for every new Application created as a "
+"template."
+msgid ""
+"This privacy policy will be used for every new Application created as a "
+"template."
 msgstr ""
 "Bu Gizlilik Politikası şablonu oluşturulan her yeni Uygulama için "
 "kullanılacaktır."
 
-msgid "This section of the privacy policy is added when the GDPR settings are active."
+msgctxt ""
+"This section of the privacy policy is added when the GDPR settings are "
+"active."
+msgid ""
+"This section of the privacy policy is added when the GDPR settings are "
+"active."
 msgstr "Gizlilik Politikası Bu bölümde GDPR ayarları aktif olduğunda eklenir."
 
+msgctxt "This text will appear in the checkout page. 65,000 characters max."
 msgid "This text will appear in the checkout page. 65,000 characters max."
 msgstr "Bu metin ödeme sayfasında görünür. 65.000 karakter max."
 
+msgctxt "Users can download application sources code."
 msgid "Users can download application sources code."
 msgstr "Kullanıcılar uygulama kaynak kodunu indirebilir."
 
+msgctxt "Users can generate APK"
 msgid "Users can generate APK"
 msgstr "Kullanıcılar APK oluşturabilir"
 
+msgctxt "Users can not generate APK."
 msgid "Users can not generate APK."
 msgstr "Kullanıcılar APK oluşturamaz"
 
+msgctxt "Users give you the required information to publish applications."
 msgid "Users give you the required information to publish applications."
 msgstr "Kullanıcılar size uygulamaları yayınlamak için gerekli bilgileri verir."
 
+msgctxt "We cannot get your license information"
 msgid "We cannot get your license information"
 msgstr "Lisans bilginize ulaşamadık"
 
+msgctxt "You can use <b>%s</b> as a dynamic variable for your application name."
 msgid "You can use <b>%s</b> as a dynamic variable for your application name."
 msgstr ""
 "<b>%s</b> değerini uygulama adınız için dinamik bir değişken olarak "
 "kullanabilirsiniz"
 
+msgctxt "Your Applications"
+msgid "Your Applications"
+msgstr "Uygulamalarınız"
+
+msgctxt "Your CMS License Key"
 msgid "Your CMS License Key"
 msgstr "CMS Lisans anahtarınızı"
+
+msgctxt "Your Location"
+msgid "Your Location"
+msgstr "Lokasyonunuz"
+
+msgctxt "Your Platform"
+msgid "Your Platform"
+msgstr "Platformunuz"
+
+msgctxt "Your company"
+msgid "Your company"
+msgstr "Şirketiniz"
+
+msgctxt "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Dosya çeşidi:</b> %s<br /><b>Grekli alan:</b> %s"

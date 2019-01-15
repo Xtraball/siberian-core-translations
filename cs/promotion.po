@@ -1,78 +1,171 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/promotion/"
+"cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/promotion.csv:1
+msgctxt "An error occurred while saving your discount. Please fill in all fields"
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"
 
-#: cs/promotion.csv:2
+msgctxt "Are you sure you want to use this discount?"
 msgid "Are you sure you want to use this discount?"
 msgstr "Opravdu chcete využít tuto slevu?"
 
-#: cs/promotion.csv:3
+msgctxt "Closed discounts"
 msgid "Closed discounts"
 msgstr "Ukončené slevy"
 
-#: cs/promotion.csv:4
+msgctxt "Conditions"
+msgid "Conditions"
+msgstr "Podmínky"
+
+msgctxt "Create a new Discount"
+msgid "Create a new Discount"
+msgstr "Vytvořit novou slevu"
+
+msgctxt "Create a new discount"
 msgid "Create a new discount"
 msgstr "Vytvořit novou slevu"
 
-#: cs/promotion.csv:5
+msgctxt "Delete this discount?"
 msgid "Delete this discount?"
 msgstr "Odstranit tuto slevu?"
 
-#: cs/promotion.csv:6
+msgctxt "Description"
+msgid "Description"
+msgstr "Popis"
+
+msgctxt "Design"
+msgid "Design"
+msgstr "Design"
+
+msgctxt "Details"
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Slevy"
+
+msgctxt "Discount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "Sleva úspěšně smazána"
 
-#: cs/promotion.csv:7
+msgctxt "Discount successfully saved"
 msgid "Discount successfully saved"
 msgstr "Sleva byla úspěšně uložena"
 
-#: cs/promotion.csv:8
+msgctxt "Do you want to use this coupon?"
+msgid "Do you want to use this coupon?"
+msgstr "Opravdu chcete použít tento kupón?"
+
+msgctxt "End at"
+msgid "End at"
+msgstr "Platnost do"
+
+msgctxt "Generate QRCode"
+msgid "Generate QRCode"
+msgstr "Vygenerovat QR kód"
+
+msgctxt "Is unique?"
+msgid "Is unique?"
+msgstr ""
+
+msgctxt "Manage content"
+msgid "Manage content"
+msgstr ""
+
+msgctxt "No"
+msgid "No"
+msgstr "Ne"
+
+msgctxt "On"
+msgid "On"
+msgstr ""
+
+msgctxt "Picture"
+msgid "Picture"
+msgstr "Obrázek"
+
+msgctxt "Please select an end date greater than the current date."
 msgid "Please select an end date greater than the current date."
 msgstr "Datum ukončení musí být větší než aktuální datum"
 
-#: cs/promotion.csv:9
+msgctxt "QR Coupon"
+msgid "QR Coupon"
+msgstr ""
+
+msgctxt "Search ..."
+msgid "Search ..."
+msgstr ""
+
+msgctxt "This discount is now used"
 msgid "This discount is now used"
 msgstr "Tato sleva je právě používána"
 
-#: cs/promotion.csv:10
-msgid "Valid until"
-msgstr "Platí do:"
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr ""
 
-#: cs/promotion.csv:11
+msgctxt "Title"
+msgid "Title"
+msgstr "Oslovení"
+
+msgctxt "Unlimited"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "Use only once?"
+msgid "Use only once?"
+msgstr "Použít jen jednou?"
+
+msgctxt "Valid Until"
+msgid "Valid Until"
+msgstr "Platí do"
+
+msgctxt "Yes"
+msgid "Yes"
+msgstr "Ano"
+
+msgctxt "You have already use this code"
+msgid "You have already use this code"
+msgstr "Tento kupón jste již použili"
+
+msgctxt "You have already use this discount"
 msgid "You have already use this discount"
 msgstr "Tuto slevu jste již použili"
 
-#: cs/promotion.csv:12
+msgctxt "You must be logged in to use a discount"
 msgid "You must be logged in to use a discount"
 msgstr "Pro využití slevy musíte být přihlášeni"
 
-#: cs/promotion.csv:13
-msgid "or illimited"
-msgstr "nebo stálá sleva"
+msgctxt "(You'll be able to remove this promotion later)"
+msgid "(You'll be able to remove this promotion later)"
+msgstr "můžete ji však kdykoliv smazat"
 
-#: cs/promotion.csv:14
+msgctxt "Your QRCode"
+msgid "Your QRCode"
+msgstr ""
+
+msgctxt "or unlimited"
+msgid "or unlimited"
+msgstr ""
+
+msgctxt "use only once"
 msgid "use only once"
 msgstr "použít jen jednou"
 
-#: cs/promotion.csv:15
+msgctxt "you'll be able to remove this promotion later"
 msgid "you'll be able to remove this promotion later"
 msgstr "můžete ji však kdykoliv smazat"
-
-#: cs/promotion.csv:16
-msgid "﻿An error occurred while saving your discount. Please fill in all fields"
-msgstr "Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"

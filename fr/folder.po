@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-15 10:33+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/folder/fr/"
 ">\n"
 "Language: fr\n"
@@ -14,116 +14,130 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/folder.csv:1
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Ajouter une page"
 
-#: fr/folder.csv:2
-msgid "Click on"
-msgstr "Cliquez sur"
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr "Ajouter une fonctionnalité"
 
-#: fr/folder.csv:3
-msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-msgstr "Cliquez sur une page pour l'ajouter au dossier <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-
-#: fr/folder.csv:4
-msgid "Click on a page to add it to the folder"
-msgstr "Cliquez sur une page pour l'ajouter au dossier"
-
-#: fr/folder.csv:5
-msgid "Close mobile display"
-msgstr "Fermer l'affichage mobile"
-
-#: fr/folder.csv:6
-msgid "Delete this folder and all its subfolders?"
-msgstr "Etes-vous sûr de vouloir supprimer ce dossier et tous ses sous-dossiers ?"
-
-#: fr/folder.csv:7
-msgid "Folder title is required"
-msgstr "Le titre du dossier est obligatoire."
-
-#: fr/folder.csv:8
-msgid "Folders"
-msgstr "Dossiers"
-
-#: fr/folder.csv:9
-msgid "Mobile display"
-msgstr "Affichage mobile"
-
-#: fr/folder.csv:10
-msgid "New folder"
-msgstr "Nouveau dossier"
-
-#: fr/folder.csv:11
-msgid "Subtitle"
-msgstr "Sous-titre"
-
-#: fr/folder.csv:12
-msgid "You cannot add this feature"
-msgstr "Vous ne pouvez pas ajouter cette fonctionnalité."
-
-#: fr/folder.csv:13
-msgid "You must first complete the current category creation process"
-msgstr "Vous devez d'abord terminer la création de cette catégorie"
-
-#: fr/folder.csv:14
-msgid "You will lose all unsaved changes, continue?"
-msgstr "Vous allez perdre les modifications en cours, voulez-vous continuer ?"
-
-#: fr/folder.csv:15
-msgid "to add a folder."
-msgstr "pour ajouter un dossier."
-
+msgctxt "Allow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr "Permettre le retour à la ligne dans les titres & sous-titres"
 
+msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 "En cochant cette case, un champ de recherche apparaîtra dans votre dossier"
 
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+msgctxt "Click on"
+msgid "Click on"
+msgstr "Cliquez sur"
+
+msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Cliquez sur une fonctionnalité pour l'ajouter au dossier"
 
-msgid "Click on a page to add it to the folder <span id='folder_name' class='folder_name'>%s</span>"
+msgctxt "Click on a page to add it to the folder"
+msgid "Click on a page to add it to the folder"
+msgstr "Cliquez sur une page pour l'ajouter au dossier"
+
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgid ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
 msgstr ""
 "Cliquez sur une page pour l'ajouter au dossier <span id='<' "
 "class='<'>%s</span>"
 
+msgctxt "Close mobile display"
+msgid "Close mobile display"
+msgstr "Fermer l'affichage mobile"
+
+msgctxt "Delete this folder and all its subfolders?"
+msgid "Delete this folder and all its subfolders?"
+msgstr ""
+"Etes-vous sûr de vouloir supprimer ce dossier et tous ses sous-dossiers ?"
+
+msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr "Modifier le nom du dossier"
 
+msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr "Activer la recherche dans les dossiers"
 
+msgctxt "Folder title is required"
+msgid "Folder title is required"
+msgstr "Le titre du dossier est obligatoire."
+
+msgctxt "Folders"
+msgid "Folders"
+msgstr "Dossiers"
+
+msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr "Hériter de la mise en page globale"
 
+msgctxt "Mobile display"
+msgid "Mobile display"
+msgstr "Affichage mobile"
+
+msgctxt "New folder"
+msgid "New folder"
+msgstr "Nouveau dossier"
+
+msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr "Pas de résultats à votre demande."
 
+msgctxt "Override layout"
 msgid "Override layout"
 msgstr "Remplacer la mise en page"
 
+msgctxt "Search results"
 msgid "Search results"
 msgstr "Résultats de recherche"
 
+msgctxt "Show cover"
 msgid "Show cover"
 msgstr "Afficher la couverture"
 
+msgctxt "Show search field"
 msgid "Show search field"
 msgstr "Afficher le champ de recherche"
 
+msgctxt "Show title"
 msgid "Show title"
 msgstr "Afficher le titre"
 
+msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr "Miniature"
 
+msgctxt "Use card design"
 msgid "Use card design"
 msgstr "Utiliser la conception de la carte"
 
-msgid "Add feature"
-msgstr "Ajouter une fonctionnalité"
+msgctxt "You cannot add this feature"
+msgid "You cannot add this feature"
+msgstr "Vous ne pouvez pas ajouter cette fonctionnalité."
 
-msgid "Cancel"
-msgstr "Annuler"
+msgctxt "You must first complete the current category creation process"
+msgid "You must first complete the current category creation process"
+msgstr "Vous devez d'abord terminer la création de cette catégorie"
+
+msgctxt "You will lose all unsaved changes, continue?"
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Vous allez perdre les modifications en cours, voulez-vous continuer ?"
+
+msgctxt "to add a folder."
+msgid "to add a folder."
+msgstr "pour ajouter un dossier."

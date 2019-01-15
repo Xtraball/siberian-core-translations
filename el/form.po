@@ -1,138 +1,169 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/form/el/>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/form.csv:1
-msgid "<strong>%s</strong> must be a numerical value<br />"
-msgstr "Το πεδίο <strong>%s</strong> πρέπει να έχει αριθμούς<br />"
-
-#: el/form.csv:2
-msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
-msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία (π.χ. ηη/ΜΜ/ΕΕΕΕ)<br />"
-
-#: el/form.csv:3
-msgid "<strong>%s</strong> must be a valid date<br />"
-msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία<br />"
-
-#: el/form.csv:4
-msgid "<strong>%s</strong> must be a valid email address<br />"
-msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι ένα έγκυρο E-mail<br />"
-
-#: el/form.csv:5
-msgid "<strong>%s</strong> must be filled<br />"
-msgstr "Το πεδίο <strong>%s</strong> πρέπει να συμπληρωθεί<br />"
-
-#: el/form.csv:6
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Προσθήκη πεδίου"
 
-#: el/form.csv:7
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Προσθήκη ενότητας"
 
-#: el/form.csv:8
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Προσθήκη επιλογής"
 
-#: el/form.csv:9
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
-msgstr "Υπήρξε σφάλμα κατά την αποθήκευση. Κάθε πεδίο πρέπει να είναι προσδιορισμένο."
+msgstr ""
+"Υπήρξε σφάλμα κατά την αποθήκευση. Κάθε πεδίο πρέπει να είναι προσδιορισμένο."
 
-#: el/form.csv:10
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το πεδίο?"
 
-#: el/form.csv:11
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ενότητα?"
 
-#: el/form.csv:12
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Κουτάκι επιλογής"
 
-#: el/form.csv:13
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Επιλογή τύπου πεδίου:"
 
-#: el/form.csv:14
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Δημιουργία νέου πεδίου"
 
-#: el/form.csv:15
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Ημ/νία / ώρα"
 
-#: el/form.csv:16
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Λίστα επιλογής"
 
-#: el/form.csv:17
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "Επεξεργασία πεδίου %s"
 
-#: el/form.csv:18
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Όνομα πεδίου"
 
-#: el/form.csv:19
-msgid "Field name:"
-msgstr "Όνομα πεδίου:"
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
+msgid ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
+msgstr ""
 
-#: el/form.csv:20
+msgctxt "Geolocation"
 msgid "Geolocation"
 msgstr "Geolocation"
 
-#: el/form.csv:21
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Γειά σας,"
 
-#: el/form.csv:22
+msgctxt "Import a picture"
+msgid "Import a picture"
+msgstr ""
+
+msgctxt "Import from Library"
+msgid "Import from Library"
+msgstr ""
+
+msgctxt "Manage fields"
 msgid "Manage fields"
 msgstr "Διαχείριση πεδίων"
 
-#: el/form.csv:23
+msgctxt "Manage options:"
 msgid "Manage options:"
 msgstr "Διαχείριση επιλογών:"
 
-#: el/form.csv:24
+msgctxt "Multiline text"
 msgid "Multiline text"
 msgstr "Πεδίο κειμένου πολλαπλών γραμμών"
 
-#: el/form.csv:25
+msgctxt "Option"
 msgid "Option"
 msgstr "Επιλογή"
 
-#: el/form.csv:26
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Radio"
 
-#: el/form.csv:27
-msgid "Recipient email:"
-msgstr "E-mail παραλήπτη:"
+msgctxt "Recipient email"
+msgid "Recipient email"
+msgstr ""
 
-#: el/form.csv:28
+msgctxt "Take a picture"
+msgid "Take a picture"
+msgstr ""
+
+msgctxt "The form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "Το μήνυμά σας εστάλει επιτυχώς"
 
-#: el/form.csv:29
+msgctxt "You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Πρέπει να επιλέξετε έναν τύπο πεδίου."
 
-#: el/form.csv:30
+msgctxt "Your app's form"
 msgid "Your app's form"
 msgstr "Φόρμα Επικοινωνίας από App"
 
-#: el/form.csv:31
+msgctxt "Your form has been filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Η φόρμα σας συμπληρώθηκε επιτυχώς, δείτε τις απαντήσεις:"
+
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
+msgid "<strong>%s</strong> is not a numerical value<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να έχει αριθμούς<br />"
+
+msgctxt "<strong>%s</strong> is not valid email address<br />"
+msgid "<strong>%s</strong> is not valid email address<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι ένα έγκυρο E-mail<br />"
+
+msgctxt "<strong>%s</strong> is required<br />"
+msgid "<strong>%s</strong> is required<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να συμπληρωθεί<br />"
+
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να έχει αριθμούς<br />"
+
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgstr ""
+"Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία (π.χ. "
+"ηη/ΜΜ/ΕΕΕΕ)<br />"
+
+msgctxt "<strong>%s</strong> must be a valid date<br />"
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία<br />"
+
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι ένα έγκυρο E-mail<br />"
+
+msgctxt "<strong>%s</strong> must be filled<br />"
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "Το πεδίο <strong>%s</strong> πρέπει να συμπληρωθεί<br />"

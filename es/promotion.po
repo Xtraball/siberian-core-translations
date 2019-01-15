@@ -1,74 +1,173 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/"
+"promotion/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/promotion.csv:1
-msgid "On"
-msgstr "El"
+msgctxt "An error occurred while saving your discount. Please fill in all fields"
+msgid "An error occurred while saving your discount. Please fill in all fields"
+msgstr ""
+"Se ha producido un error al guardar su descuento. Es obligatorio rellenar "
+"todos los campos"
 
-#: es/promotion.csv:2
-msgid "Details"
-msgstr "Descripción"
+msgctxt "Are you sure you want to use this discount?"
+msgid "Are you sure you want to use this discount?"
+msgstr "¿Seguro que quieres utilizar este descuento?"
 
-#: es/promotion.csv:3
-msgid "End at"
-msgstr "Se termina"
-
-#: es/promotion.csv:4
+msgctxt "Closed discounts"
 msgid "Closed discounts"
 msgstr "Descuentos terminados"
 
-#: es/promotion.csv:5
+msgctxt "Conditions"
+msgid "Conditions"
+msgstr "Condiciones"
+
+msgctxt "Create a new Discount"
+msgid "Create a new Discount"
+msgstr "Crear un nuevo descuento"
+
+msgctxt "Create a new discount"
+msgid "Create a new discount"
+msgstr "Crear un nuevo descuento"
+
+msgctxt "Delete this discount?"
 msgid "Delete this discount?"
 msgstr "¿ Está seguro que desea eliminar este cupón de descuento ?"
 
-#: es/promotion.csv:6
-msgid "Valid until"
-msgstr "Válido hasta el"
+msgctxt "Description"
+msgid "Description"
+msgstr "Descripción"
 
-#: es/promotion.csv:7
-msgid "Use this coupon"
-msgstr "Utilice este cupón de descuento"
+msgctxt "Design"
+msgid "Design"
+msgstr "Diseño"
 
-#: es/promotion.csv:8
-msgid "Can only be used once"
-msgstr "Solo se puede utilizar una vez"
+msgctxt "Details"
+msgid "Details"
+msgstr "Descripción"
 
-#: es/promotion.csv:9
-msgid "Please log in."
-msgstr "Inicie su sesión ..."
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Descuento"
 
-#: es/promotion.csv:10
-msgid "An error occurred while saving your discount. Please fill in all fields"
-msgstr "Se ha producido un error al guardar su descuento. Es obligatorio rellenar todos los campos"
-
-#: es/promotion.csv:11
-msgid "Please select an end date greater than the current date."
-msgstr "Por favor seleccione una fecha de fin posterior a la fecha actual."
-
-#: es/promotion.csv:12
-msgid "Discount successfully saved"
-msgstr "Descuento guardado correctamente"
-
-#: es/promotion.csv:13
+msgctxt "Discount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "Descuento eliminado correctamente"
 
-#: es/promotion.csv:14
+msgctxt "Discount successfully saved"
+msgid "Discount successfully saved"
+msgstr "Descuento guardado correctamente"
+
+msgctxt "Do you want to use this coupon?"
+msgid "Do you want to use this coupon?"
+msgstr "¿Quieres usar este descuento?"
+
+msgctxt "End at"
+msgid "End at"
+msgstr "Se termina"
+
+msgctxt "Generate QRCode"
+msgid "Generate QRCode"
+msgstr "Generar codigo QR"
+
+msgctxt "Is unique?"
+msgid "Is unique?"
+msgstr ""
+
+msgctxt "Manage content"
+msgid "Manage content"
+msgstr "Gestionar contenido"
+
+msgctxt "No"
+msgid "No"
+msgstr "No"
+
+msgctxt "On"
+msgid "On"
+msgstr "El"
+
+msgctxt "Picture"
+msgid "Picture"
+msgstr "Imagen"
+
+msgctxt "Please select an end date greater than the current date."
+msgid "Please select an end date greater than the current date."
+msgstr "Por favor seleccione una fecha de fin posterior a la fecha actual."
+
+msgctxt "QR Coupon"
+msgid "QR Coupon"
+msgstr "Cupón QR"
+
+msgctxt "Search ..."
+msgid "Search ..."
+msgstr "Buscar ..."
+
+msgctxt "This discount is now used"
+msgid "This discount is now used"
+msgstr "Este cupón de descuento está siendo utilizado"
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgctxt "Title"
+msgid "Title"
+msgstr "Título"
+
+msgctxt "Unlimited"
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+msgctxt "Use only once?"
+msgid "Use only once?"
+msgstr "¿Usar solo una vez?"
+
+msgctxt "Valid Until"
+msgid "Valid Until"
+msgstr "Válido hasta"
+
+msgctxt "Yes"
+msgid "Yes"
+msgstr "Si"
+
+msgctxt "You have already use this code"
+msgid "You have already use this code"
+msgstr "Ya has usado este código."
+
+msgctxt "You have already use this discount"
+msgid "You have already use this discount"
+msgstr "Usted ya ha utilizado este cupón de descuento"
+
+msgctxt "You must be logged in to use a discount"
 msgid "You must be logged in to use a discount"
 msgstr "Usted debe estar conectado para utilizar un cupón de descuento"
 
-#: es/promotion.csv:15
-msgid "You have already use this discount"
-msgstr "Usted ya ha utilizado este cupón de descuento"
+msgctxt "(You'll be able to remove this promotion later)"
+msgid "(You'll be able to remove this promotion later)"
+msgstr "(Podrás eliminar esta promo más tarde)"
+
+msgctxt "Your QRCode"
+msgid "Your QRCode"
+msgstr "Tu Código QR"
+
+msgctxt "or unlimited"
+msgid "or unlimited"
+msgstr "o ilimitado"
+
+msgctxt "use only once"
+msgid "use only once"
+msgstr "utilizar sólo una vez"
+
+msgctxt "you'll be able to remove this promotion later"
+msgid "you'll be able to remove this promotion later"
+msgstr "Podrá eliminar esta promoción más tarde"

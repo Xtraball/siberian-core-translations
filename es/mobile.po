@@ -1,13 +1,544 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/mobile/"
+"es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-09 09:49+0000\n"
-"PO-Revision-Date: 2019-01-09 09:49+0000\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Access my personal data"
+msgid "Access my personal data"
+msgstr "Acceder a mis datos personales"
+
+msgctxt "Add a comment"
+msgid "Add a comment"
+msgstr "Añadir un comentario"
+
+msgctxt "Add image"
+msgid "Add image"
+msgstr "Añadir imagen"
+
+msgctxt "Add to address book"
+msgid "Add to address book"
+msgstr "Añadir a libreta"
+
+msgctxt "Address"
+msgid "Address"
+msgstr "Dirección"
+
+msgctxt "Albums"
+msgid "Albums"
+msgstr "Albums"
+
+msgctxt "An error occurred while loading the media."
+msgid "An error occurred while loading the media."
+msgstr "Error mientras se cargaba el elemento."
+
+msgctxt "An error occurred while loading the radio."
+msgid "An error occurred while loading the radio."
+msgstr "Error mientras se cargaba la radio."
+
+msgctxt "An error occurred while reading the code."
+msgid "An error occurred while reading the code."
+msgstr "Error mientras se leía el código."
+
+msgctxt "An unexpected error occurred while calculating the route."
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Un error desconocido ha ocurrido mientras se calculaba la ruta."
+
+msgctxt "Application is Locked"
+msgid "Application is Locked"
+msgstr "Aplicación BLOQUEADA"
+
+msgctxt "Buffering"
+msgid "Buffering"
+msgstr "Cacheando"
+
+msgctxt "Buy Tickets"
+msgid "Buy Tickets"
+msgstr "Comprar Tickets"
+
+msgctxt "Buy tickets"
+msgid "Buy tickets"
+msgstr "Comprar entradas"
+
+msgctxt "CVC ***"
+msgid "CVC ***"
+msgstr "CVC ***"
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "Cancel delete"
+msgid "Cancel delete"
+msgstr "Cancelar eliminar"
+
+msgctxt "Cancel edit"
+msgid "Cancel edit"
+msgstr "Cancelar edición"
+
+msgctxt "Civility"
+msgid "Civility"
+msgstr "Cortesia"
+
+msgctxt "Clear"
+msgid "Clear"
+msgstr "Limpio"
+
+msgctxt "Click here to log-in"
+msgid "Click here to log-in"
+msgstr "Click aquí para entrar"
+
+msgctxt "Close"
+msgid "Close"
+msgstr "Cerrar"
+
+msgctxt "Comment"
+msgid "Comment"
+msgstr "Comentario"
+
+msgctxt "Copy"
+msgid "Copy"
+msgstr "Copiar"
+
+msgctxt "Create an account"
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+msgctxt "Date and time"
+msgid "Date and time"
+msgstr "Fecha y hora"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Borrar"
+
+msgctxt "Delivery address"
+msgid "Delivery address"
+msgstr "Dirección envios"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Descripción"
+
+msgctxt "Discount code"
+msgid "Discount code"
+msgstr "Código descuento"
+
+msgctxt "Dismiss"
+msgid "Dismiss"
+msgstr "Saltar"
+
+msgctxt "Done"
+msgid "Done"
+msgstr "Hecho"
+
+msgctxt "Downloading..."
+msgid "Downloading..."
+msgstr "Descargando..."
+
+msgctxt "EXP"
+msgid "EXP"
+msgstr "EXP"
+
+msgctxt "Email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "Error"
+msgid "Error"
+msgstr "Error"
+
+msgctxt "First name / Last name"
+msgid "First name / Last name"
+msgstr "Nombre / Apellidos"
+
+msgctxt "Firstname"
+msgid "Firstname"
+msgstr "Nombre"
+
+msgctxt "Flag"
+msgid "Flag"
+msgstr "Marcar"
+
+msgctxt "Forgot your password?"
+msgid "Forgot your password?"
+msgstr "Olvidó su password ?"
+
+msgctxt "Hi. I just found: $1 in the $2 app."
+msgid "Hi. I just found: $1 in the $2 app."
+msgstr "Hola, acabo de encontrar: $1 en la app $2 ."
+
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
+msgstr "Acepto la política de privacidad"
+
+msgctxt "I just found this discount $1 in $2 app."
+msgid "I just found this discount $1 in $2 app."
+msgstr ""
+
+msgctxt "Identity"
+msgid "Identity"
+msgstr "Identidad"
+
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "Estoy escuchando a $1 de $2 en la app $3 ."
+
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr "Estoy escuchando a $1 en la app $2 ."
+
+msgctxt "Info"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "Informations"
+msgid "Informations"
+msgstr "Informaciones"
+
+msgctxt "Invoicing address"
+msgid "Invoicing address"
+msgstr "Dirección facturación"
+
+msgctxt "Lastname"
+msgid "Lastname"
+msgstr "Apellidos"
+
+msgctxt "Like"
+msgid "Like"
+msgstr "Me gusta"
+
+msgctxt "Loading"
+msgid "Loading"
+msgstr "Cargando"
+
+msgctxt "Locate"
+msgid "Locate"
+msgstr "Localizar"
+
+msgctxt "Location"
+msgid "Location"
+msgstr "Ubicación"
+
+msgctxt "Log-in"
+msgid "Log-in"
+msgstr "Acceso a su cuenta"
+
+msgctxt "Login error"
+msgid "Login error"
+msgstr "Error de acceso"
+
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr "Entrar con Facebook"
+
+msgctxt "Map"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "Miss"
+msgid "Miss"
+msgstr "Srta."
+
+msgctxt "Mr"
+msgid "Mr"
+msgstr "Sr."
+
+msgctxt "Mrs"
+msgid "Mrs"
+msgstr "Sra."
+
+msgctxt "My account"
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgctxt "New Post"
+msgid "New Post"
+msgstr "Nuevo post"
+
+msgctxt "Nickname"
+msgid "Nickname"
+msgstr "Nick"
+
+msgctxt "No comments for now."
+msgid "No comments for now."
+msgstr "Sin comentarios por ahora."
+
+msgctxt "No form available"
+msgid "No form available"
+msgstr "Sin formulario disponible"
+
+msgctxt "No images found"
+msgid "No images found"
+msgstr "Imágenes no encontradas"
+
+msgctxt "No items found"
+msgid "No items found"
+msgstr "Elementos no encontrados"
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr "Sin resultados."
+
+msgctxt "Notes"
+msgid "Notes"
+msgstr "Notas"
+
+msgctxt "Notification"
+msgid "Notification"
+msgstr "Notificación"
+
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "Número de personas"
+
+msgctxt "OK"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "Offline mode"
+msgid "Offline mode"
+msgstr "Modo Offline"
+
+msgctxt "Ok"
+msgid "Ok"
+msgstr "Ok"
+
+msgctxt "Open link"
+msgid "Open link"
+msgstr "Abrir enlace"
+
+msgctxt "Or with your account"
+msgid "Or with your account"
+msgstr "O con su cuenta"
+
+msgctxt "Order Details"
+msgid "Order Details"
+msgstr "Detalles pedido"
+
+msgctxt "Overview"
+msgid "Overview"
+msgstr "Vista general"
+
+msgctxt "Password"
+msgid "Password"
+msgstr "Clave"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Teléfono"
+
+msgctxt "Photos"
+msgid "Photos"
+msgstr "Fotos"
+
+msgctxt "Playlists"
+msgid "Playlists"
+msgstr "Listas"
+
+msgctxt "Please enter a valid email address"
+msgid "Please enter a valid email address"
+msgstr "Por favor introduzca un email válido"
+
+msgctxt "Please enter your email address."
+msgid "Please enter your email address."
+msgstr "Por favor introduce tu email."
+
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
+msgstr ""
+"Ingrese su dirección de correo electrónico, donde recibirá su contraseña."
+
+msgctxt "Please wait..."
+msgid "Please wait..."
+msgstr "Por favor espere..."
+
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "Podcast"
+
+msgctxt "Prices"
+msgid "Prices"
+msgstr "Precios"
+
+msgctxt "Privacy"
+msgid "Privacy"
+msgstr "Privacidad"
+
+msgctxt "Privacy Policy"
+msgid "Privacy Policy"
+msgstr "Política de Privacidad"
+
+msgctxt "Pull to refresh..."
+msgid "Pull to refresh..."
+msgstr "Tire para actualizar..."
+
+msgctxt "RSVP"
+msgid "RSVP"
+msgstr "RSVP"
+
+msgctxt "Read all"
+msgid "Read all"
+msgstr "Leer todos"
+
+msgctxt "Scan result"
+msgid "Scan result"
+msgstr "Resultado de escaneo"
+
+msgctxt "See details"
+msgid "See details"
+msgstr "Ver detalles"
+
+msgctxt "Send"
+msgid "Send"
+msgstr "Enviar"
+
+msgctxt "Send contact request"
+msgid "Send contact request"
+msgstr "Enviar solicitud de contacto"
+
+msgctxt "Show me in ranking"
+msgid "Show me in ranking"
+msgstr "Aparecer en el ranking"
+
+msgctxt "Success"
+msgid "Success"
+msgstr "Exito"
+
+msgctxt "Tap to download in background"
+msgid "Tap to download in background"
+msgstr "Toca para descargar en segundo plano"
+
+msgctxt "Terms & Conditions"
+msgid "Terms & Conditions"
+msgstr "Términos y condiciones"
+
+msgctxt "The address you're looking for does not exists."
+msgid "The address you're looking for does not exists."
+msgstr "La dirección que estas buscando no existe."
+
+msgctxt "The sign in flow was canceled"
+msgid "The sign in flow was canceled"
+msgstr "El registro ha sido cancelado"
+
+msgctxt "There is no route available with these informations."
+msgid "There is no route available with these informations."
+msgstr "No hay ruta disponible con esta información."
+
+msgctxt "This application is no longer available"
+msgid "This application is no longer available"
+msgstr "Esta aplicación no está disponible"
+
+msgctxt "This feature is disabled in this preview"
+msgid "This feature is disabled in this preview"
+msgstr "Esta función está deshabilitada en esta vista previa"
+
+msgctxt "This feature is not available in offline mode!"
+msgid "This feature is not available in offline mode!"
+msgstr "¡Esta característica no está disponible en modo Offline!"
+
+msgctxt "This field is required"
+msgid "This field is required"
+msgstr "El campo es obligatorio"
+
+msgctxt "This will open the code scan camera on your device."
+msgid "This will open the code scan camera on your device."
+msgstr "Esto abrirá el scanner en la cámara de tu dispositivo."
+
+msgctxt "Title"
+msgid "Title"
+msgstr "Título"
+
+msgctxt "Tracks"
+msgid "Tracks"
+msgstr "pistas"
+
+msgctxt "Triple tap to close the preview"
+msgid "Triple tap to close the preview"
+msgstr ""
+
+msgctxt "Use this coupon"
+msgid "Use this coupon"
+msgstr "Usar este cupón / promoción"
+
+msgctxt "Valid Until"
+msgid "Valid Until"
+msgstr "Válido hasta"
+
+msgctxt "View"
+msgid "View"
+msgstr "Ver"
+
+msgctxt ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgid ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgstr ""
+"Lo sentimos pero esta aplicación ha sido desactivada y no ha sido reactivada."
+
+msgctxt "Website"
+msgid "Website"
+msgstr "Sitio Web"
+
+msgctxt "We'll send you your password right now."
+msgid "We'll send you your password right now."
+msgstr "Te enviaremos tu clave ahora."
+
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgid ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Contraseña incorrecta.<br />Tenga cuidado !<br />%d intentos restantes de %"
+"s, antes del bloqueo de su tarjeta.<br />Pregunte en la tienda para validar "
+"su punto"
+
+msgctxt "XXXX XXXX XXXX"
+msgid "XXXX XXXX XXXX"
+msgstr "XXXX XXXX XXXX"
+
+msgctxt "You must fill at least one field!"
+msgid "You must fill at least one field!"
+msgstr "Debes rellenar al menos un campo!"
+
+msgctxt "Your comment"
+msgid "Your comment"
+msgstr "Su comentario"
+
+msgctxt ""
+"Your location could not be found because your application doesn't use SSL."
+msgid ""
+"Your location could not be found because your application doesn't use SSL."
+msgstr "Tu ubicación no puede ser encontrada porque tu aplicación no usa SSL."
+
+msgctxt "followers"
+msgid "followers"
+msgstr "seguidores"
+
+msgctxt "following"
+msgid "following"
+msgstr "siguiendo"
+
+msgctxt "track"
+msgid "track"
+msgstr "pista"
+
+msgctxt "tracks"
+msgid "tracks"
+msgstr "pistas"

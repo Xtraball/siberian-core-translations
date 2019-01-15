@@ -1,7 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 10:50+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Project-Id-Version: German (Siberian)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/"
 "whitelabel/de/>\n"
 "Language: de\n"
@@ -11,11 +14,170 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "App Name"
+msgid "App Name"
+msgstr "Appname"
+
+msgctxt "Area"
+msgid "Area"
+msgstr ""
+
+msgctxt "Border Blue"
+msgid "Border Blue"
+msgstr ""
+
+msgctxt "Border Green"
+msgid "Border Green"
+msgstr ""
+
+msgctxt "Border Grey"
+msgid "Border Grey"
+msgstr ""
+
+msgctxt "Border Purple"
+msgid "Border Purple"
+msgstr ""
+
+msgctxt "Border Red"
+msgid "Border Red"
+msgstr ""
+
+msgctxt "Border Yellow"
+msgid "Border Yellow"
+msgstr ""
+
+msgctxt "Buttons"
+msgid "Buttons"
+msgstr "Button"
+
+msgctxt "Color blue"
+msgid "Color blue"
+msgstr ""
+
+msgctxt "Color green"
+msgid "Color green"
+msgstr ""
+
+msgctxt "Color purple"
+msgid "Color purple"
+msgstr ""
+
+msgctxt "Color red"
+msgid "Color red"
+msgstr ""
+
+msgctxt "Color yellow"
+msgid "Color yellow"
+msgstr ""
+
+msgctxt "Company or Fullname"
+msgid "Company or Fullname"
+msgstr ""
+
+msgctxt "Contact e-mail"
+msgid "Contact e-mail"
+msgstr ""
+
+msgctxt "Content background"
+msgid "Content background"
+msgstr ""
+
+msgctxt "Content color"
+msgid "Content color"
+msgstr ""
+
+msgctxt "Country"
+msgid "Country"
+msgstr "Land"
+
+msgctxt "Customize My Editor"
+msgid "Customize My Editor"
+msgstr "Meinen Editor bearbeiten"
+
+msgctxt "Delete/Cancel buttons"
+msgid "Delete/Cancel buttons"
+msgstr ""
+
+msgctxt "Drop Down"
+msgid "Drop Down"
+msgstr "DropDown"
+
+msgctxt "E-mail"
 msgid "E-mail"
 msgstr "E-mail"
 
+msgctxt "Enable GDPR features & rules"
+msgid "Enable GDPR features & rules"
+msgstr ""
+
+msgctxt "Enable White-Label"
+msgid "Enable White-Label"
+msgstr ""
+
+msgctxt "Favicon"
+msgid "Favicon"
+msgstr "Favicon"
+
+msgctxt "Font Color blue"
+msgid "Font Color blue"
+msgstr ""
+
+msgctxt "Full address"
+msgid "Full address"
+msgstr ""
+
+msgctxt "General"
+msgid "General"
+msgstr "General"
+
+msgctxt "Grey buttons"
+msgid "Grey buttons"
+msgstr ""
+
+msgctxt "Header"
 msgid "Header"
 msgstr "Kopfzeile"
 
+msgctxt ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
+msgid ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
+msgstr ""
+
+msgctxt "Input flat"
+msgid "Input flat"
+msgstr ""
+
+msgctxt "Logo"
+msgid "Logo"
+msgstr "Logo"
+
+msgctxt "Menu"
+msgid "Menu"
+msgstr ""
+
+msgctxt "Page"
 msgid "Page"
 msgstr "Page"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Telefon"
+
+msgctxt "Sidebar background"
+msgid "Sidebar background"
+msgstr ""
+
+msgctxt "Step menu background"
+msgid "Step menu background"
+msgstr ""
+
+msgctxt "Titles"
+msgid "Titles"
+msgstr "Titel"
+
+msgctxt "White-Label name"
+msgid "White-Label name"
+msgstr ""

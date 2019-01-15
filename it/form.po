@@ -1,142 +1,172 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Italian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian <http://yvain.xtraball.com/projects/siberian/form/it/>"
+"\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/form.csv:1
-msgid "<strong>%s</strong> must be a numerical value<br />"
-msgstr "<strong>%s</ strong>deve essere un valore numerico<br />"
-
-#: it/form.csv:2
-msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
-msgstr "<strong>%s</ strong>deve essere una data valida (ad esempio gg/mm/aaaa)<br />"
-
-#: it/form.csv:3
-msgid "<strong>%s</strong> must be a valid date<br />"
-msgstr "<strong>%s</ strong>deve essere una data valida<br />"
-
-#: it/form.csv:4
-msgid "<strong>%s</strong> must be a valid email address<br />"
-msgstr "<strong>%s</ strong>deve essere un indirizzo email valido<br />"
-
-#: it/form.csv:5
-msgid "<strong>%s</strong> must be filled<br />"
-msgstr "<strong>%s</ strong>deve essere compilato<br />"
-
-#: it/form.csv:6
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Aggiungi un campo"
 
-#: it/form.csv:7
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Aggiungi una sezione"
 
-#: it/form.csv:8
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Aggiungi un opzione"
 
-#: it/form.csv:9
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
-msgstr "Si è verificato un errore durante il salvataggio. Un campo non può essere identificato."
+msgstr ""
+"Si è verificato un errore durante il salvataggio. Un campo non può essere "
+"identificato."
 
-#: it/form.csv:10
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Sei sicuro di voler rimuovere questo campo?"
 
-#: it/form.csv:11
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Sei sicuro di voler rimuovere questa sezione?"
 
-#: it/form.csv:12
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Checkbox"
 
-#: it/form.csv:13
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Scegli il tipo di campo:"
 
-#: it/form.csv:14
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Crea un nuovo campo"
 
-#: it/form.csv:15
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Data/ora"
 
-#: it/form.csv:16
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Tendina"
 
-#: it/form.csv:17
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "Modifica campo %s"
 
-#: it/form.csv:18
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Nome del campo"
 
-#: it/form.csv:19
-msgid "Field name:"
-msgstr "Nome del campo:"
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
+msgid ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
+msgstr ""
+"Il modulo dati verrà inviato a questa email. Fino a quando non si compila "
+"questo campo, il modulo non verrà visualizzato sul lato cliente."
 
-#: it/form.csv:20
+msgctxt "Geolocation"
 msgid "Geolocation"
 msgstr "Geolocalizzazione"
 
-#: it/form.csv:21
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Ciao,"
 
-#: it/form.csv:22
+msgctxt "Import a picture"
+msgid "Import a picture"
+msgstr "Importa un immagine"
+
+msgctxt "Import from Library"
+msgid "Import from Library"
+msgstr "Importa dalla Libreria"
+
+msgctxt "Manage fields"
 msgid "Manage fields"
 msgstr "Gestisci campi"
 
-#: it/form.csv:23
+msgctxt "Manage options:"
 msgid "Manage options:"
 msgstr "Gestisci opzioni:"
 
-#: it/form.csv:24
+msgctxt "Multiline text"
 msgid "Multiline text"
 msgstr "Testo multilinea"
 
-#: it/form.csv:25
+msgctxt "Option"
 msgid "Option"
 msgstr "Opzioni"
 
-#: it/form.csv:26
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Radiobutton"
 
-#: it/form.csv:27
+msgctxt "Recipient email"
 msgid "Recipient email"
 msgstr "Destinatario mail"
 
-#: it/form.csv:28
-msgid "Recipient email:"
-msgstr "Email destinatario"
+msgctxt "Take a picture"
+msgid "Take a picture"
+msgstr "Scatta una foto"
 
-#: it/form.csv:29
+msgctxt "The form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "Il Form è stato inviato con successo"
 
-#: it/form.csv:30
+msgctxt "You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Devi scegliere un tipo di campo."
 
-#: it/form.csv:31
+msgctxt "Your app's form"
 msgid "Your app's form"
 msgstr "Il form della tua app"
 
-#: it/form.csv:32
+msgctxt "Your form has been filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Il modulo è stato compilato, ecco le risposte:"
+
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
+msgid "<strong>%s</strong> is not a numerical value<br />"
+msgstr "<strong>%s</strong> non è un valore numerico<br />"
+
+msgctxt "<strong>%s</strong> is not valid email address<br />"
+msgid "<strong>%s</strong> is not valid email address<br />"
+msgstr "<strong>%s</strong> non è un indirizzo email valido<br />"
+
+msgctxt "<strong>%s</strong> is required<br />"
+msgid "<strong>%s</strong> is required<br />"
+msgstr "<strong>%s</strong> è richiesto<br />"
+
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "<strong>%s</ strong>deve essere un valore numerico<br />"
+
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgstr ""
+"<strong>%s</ strong>deve essere una data valida (ad esempio gg/mm/aaaa)<br />"
+
+msgctxt "<strong>%s</strong> must be a valid date<br />"
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "<strong>%s</ strong>deve essere una data valida<br />"
+
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "<strong>%s</ strong>deve essere un indirizzo email valido<br />"
+
+msgctxt "<strong>%s</strong> must be filled<br />"
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "<strong>%s</ strong>deve essere compilato<br />"

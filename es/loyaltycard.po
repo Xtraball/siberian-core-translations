@@ -1,154 +1,239 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/"
+"loyaltycard/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/loyaltycard.csv:1
-msgid "My passwords"
-msgstr "Mis contraseñas"
-
-#: es/loyaltycard.csv:2
-msgid "Current card"
-msgstr "Tarjeta actual"
-
-#: es/loyaltycard.csv:3
-msgid "Card name"
-msgstr "Nombre de la tarjeta"
-
-#: es/loyaltycard.csv:4
-msgid "Number of points"
-msgstr "Número de puntos"
-
-#: es/loyaltycard.csv:5
-msgid "Reward"
-msgstr "Recompensa"
-
-#: es/loyaltycard.csv:6
-msgid "point"
-msgstr "punto"
-
-#: es/loyaltycard.csv:7
-msgid "Conditions"
-msgstr "Condiciones"
-
-#: es/loyaltycard.csv:8
-msgid "Previous cards"
-msgstr "Tarjetas anteriores"
-
-#: es/loyaltycard.csv:9
-msgid "My new loyalty card"
-msgstr "Mi nueva tarjeta de fidelidad"
-
-#: es/loyaltycard.csv:10
-msgid "Employee's name"
-msgstr "Nombre del empleado"
-
-#: es/loyaltycard.csv:11
-msgid "Employee's password"
-msgstr "Contraseña del empleado"
-
-#: es/loyaltycard.csv:12
-msgid "Delete this password?"
-msgstr "¿ Esta seguro que desea eliminar esta contraseña ?"
-
-#: es/loyaltycard.csv:13
-msgid "1 validated point = "
-msgstr "1 punto validado ="
-
-#: es/loyaltycard.csv:14
-msgid "validated points = "
-msgstr "Puntos Validados ="
-
-#: es/loyaltycard.csv:15
+msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1 punto de fidelidad ="
 
-#: es/loyaltycard.csv:16
-msgid "We are sorry but this card is temporarily blocked"
-msgstr "Lo sentimos, la tarjeta ha sido bloqueada temporalmente"
+msgctxt "1 point"
+msgid "1 point"
+msgstr "1 punto"
 
-#: es/loyaltycard.csv:17
-msgid "Please log in."
-msgstr "Debe iniciar sesión …"
+msgctxt "1 validated point ="
+msgid "1 validated point ="
+msgstr "1 punto validado="
 
-#: es/loyaltycard.csv:18
-msgid "Congratulations"
-msgstr "Felicidades"
+msgctxt "An error occurred while retrieving QRCode. Please try again later"
+msgid "An error occurred while retrieving QRCode. Please try again later"
+msgstr "Error mientras se recibía QR. Pruebe más tarde"
 
-#: es/loyaltycard.csv:19
-msgid "You have unlocked %d loyalty card%s"
-msgstr "Usted ha validado %d tarjeta %s de lealtad"
+msgctxt "An error occurred while saving the password. Please try again later"
+msgid "An error occurred while saving the password. Please try again later"
+msgstr ""
+"Se ha producido un error al guardar el password. Por favor inténtelo de "
+"nuevo más tarde"
 
-#: es/loyaltycard.csv:20
-msgid "You own:"
-msgstr "Tiene : "
-
-#: es/loyaltycard.csv:21
-msgid "You're gonna validate <span id=\"number_of_points\">1 point</span>"
-msgstr "Va a validar<span id=\"number_of_points\">1 punto</span>"
-
-#: es/loyaltycard.csv:22
-msgid "Please enter the password"
-msgstr "Por favor ingrese la contraseña"
-
-#: es/loyaltycard.csv:23
-msgid "Your loyalty card has been saved successfully"
-msgstr "Su tarjeta de fidelidad ha sido guardada correctamente"
-
-#: es/loyaltycard.csv:24
-msgid "An error occurred while saving your loyalty card. Please fill all fields in."
-msgstr "Se ha producido un error al guardar tu tarjeta de fidelidad. Por favor rellene todos los campos."
-
-#: es/loyaltycard.csv:25
+msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "Se ha producido un error al guardar tu tarjeta de fidelidad."
 
-#: es/loyaltycard.csv:26
-msgid "An error occurred while saving the password. Please try again later."
-msgstr "Se ha producido un error al guardar la contraseña. Por favor inténtelo de nuevo más tarde."
+msgctxt ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
+msgid ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
+msgstr ""
+"Se ha producido un error al guardar tu tarjeta de fidelidad. Por favor "
+"rellene todos los campos."
 
-#: es/loyaltycard.csv:27
-msgid "Your password must be 4 digits"
-msgstr "La contraseña debe tener 4 dígitos"
+msgctxt "An error occurred while validating point. Please try again later."
+msgid "An error occurred while validating point. Please try again later."
+msgstr ""
+"Se produjo un error al validar el punto. Por favor inténtelo de nuevo más "
+"tarde."
 
-#: es/loyaltycard.csv:28
+msgctxt "An error occurred with your QRCode."
+msgid "An error occurred with your QRCode."
+msgstr "Error con tu código QR"
+
+msgctxt "Card name"
+msgid "Card name"
+msgstr "Nombre de la tarjeta"
+
+msgctxt "Congratulations"
+msgid "Congratulations"
+msgstr "Felicidades"
+
+msgctxt "Current card"
+msgid "Current card"
+msgstr "Tarjeta actual"
+
+msgctxt "Delete this password?"
+msgid "Delete this password?"
+msgstr "¿ Esta seguro que desea eliminar esta contraseña ?"
+
+msgctxt "Employee's name:"
+msgid "Employee's name:"
+msgstr "Nombre del empleado:"
+
+msgctxt "Employee's password:"
+msgid "Employee's password:"
+msgstr "Contraseña del empleado:"
+
+msgctxt "Enter password"
+msgid "Enter password"
+msgstr "Introduzca la contraseña"
+
+msgctxt "Enter the password"
+msgid "Enter the password"
+msgstr "Ingrese la contraseña"
+
+msgctxt "My new loyalty card"
+msgid "My new loyalty card"
+msgstr "Mi nueva tarjeta de fidelidad"
+
+msgctxt "My passwords"
+msgid "My passwords"
+msgstr "Mis contraseñas"
+
+msgctxt "No cards available"
+msgid "No cards available"
+msgstr "No hay tarjetas disponibles"
+
+msgctxt "Number of points"
+msgid "Number of points"
+msgstr "Número de puntos"
+
+msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Por favor ingrese un nombre"
 
-#: es/loyaltycard.csv:29
-msgid "You must be logged in to validate points"
-msgstr "Usted debe iniciar sesión para validar los puntos"
+msgctxt "Please enter the password"
+msgid "Please enter the password"
+msgstr "Por favor ingrese la contraseña"
 
-#: es/loyaltycard.csv:30
-msgid "An error occurred while validating point. Please try again later."
-msgstr "Se produjo un error al validar el punto. Por favor inténtelo de nuevo más tarde."
+msgctxt ""
+"Please show your phone to the store person so that he enters his password"
+msgid ""
+"Please show your phone to the store person so that he enters his password"
+msgstr ""
+"Por favor muestre su teléfono a la persona encargada de la tienda a fin de "
+"que él ingrese su contraseña"
 
-#: es/loyaltycard.csv:31
-msgid "Wrong password.<br />Be carefull! %d remaining attempt%s before locking your card.<br /> Ask the store person for validating your point"
-msgstr "La contraseña no es valida.<br />Cuidado, Attention, plus que %d intentos%s  que le quedan antes de bloquear su tarjeta.<br />Pregunte al responsable de la app para validar su punto"
+msgctxt "Point active"
+msgid "Point active"
+msgstr "Punto Activo"
 
-#: es/loyaltycard.csv:32
-msgid "You have exceeded the number of attempts to validate points. Your card is locked for 24h"
-msgstr "Usted ha excedido el número de intentos para validar puntos. Su tarjeta estará bloqueada durante 24 horas"
+msgctxt "Point inactive"
+msgid "Point inactive"
+msgstr "Punto Inactivo"
 
-#: es/loyaltycard.csv:33
+msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Punto %s validado%s correctamente"
 
-#: es/loyaltycard.csv:34
+msgctxt "Previous cards"
+msgid "Previous cards"
+msgstr "Tarjetas anteriores"
+
+msgctxt "Reward"
+msgid "Reward"
+msgstr "Recompensa"
+
+msgctxt "Rewards"
+msgid "Rewards"
+msgstr "Recompensas"
+
+msgctxt "Scan QRCode"
+msgid "Scan QRCode"
+msgstr "Scanear Código QR"
+
+msgctxt "This card is uniq:"
+msgid "This card is uniq:"
+msgstr "Esta tarjeta es unica:"
+
+msgctxt "Unlock by QRCode"
+msgid "Unlock by QRCode"
+msgstr "Desbloquear por QR"
+
+msgctxt "Unreadable QRCode, sorry."
+msgid "Unreadable QRCode, sorry."
+msgstr "Código QR ilegible, lo sentimos."
+
+msgctxt "Use only once?"
+msgid "Use only once?"
+msgstr "¿Usar solo una vez?"
+
+msgctxt "We are sorry but this card is temporarily blocked"
+msgid "We are sorry but this card is temporarily blocked"
+msgstr "Lo sentimos, la tarjeta ha sido bloqueada temporalmente"
+
+msgctxt ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
+msgid ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
+msgstr ""
+"Password no válido. Tenga cuidado !!, quedan %d intentos%s antes de que "
+"bloqueemos su tarjeta. Pregunte a la persona encargada en tienda para "
+"validar su punto"
+
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgid ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Contraseña incorrecta.<br />Tenga cuidado !<br />%d intentos restantes de %"
+"s, antes del bloqueo de su tarjeta.<br />Pregunte en la tienda para validar "
+"su punto"
+
+msgctxt ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
+msgid ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
+msgstr ""
+"Usted ha excedido el número de intentos para validar puntos. Su tarjeta "
+"estará bloqueada durante 24 horas"
+
+msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "Usted acaba de terminar su tarjeta"
 
-#: es/loyaltycard.csv:35
-msgid "We are sorry, your card is temporarily blocked"
-msgstr "Lo sentimos, la tarjeta ha sido bloqueada temporalmente"
+msgctxt "You must be logged in to validate points"
+msgid "You must be logged in to validate points"
+msgstr "Usted debe iniciar sesión para validar los puntos"
+
+msgctxt "Your loyalty card has been saved successfully"
+msgid "Your loyalty card has been saved successfully"
+msgstr "Su tarjeta de fidelidad ha sido guardada correctamente"
+
+msgctxt "Your password must be 4 digits"
+msgid "Your password must be 4 digits"
+msgstr "La contraseña debe tener 4 dígitos"
+
+msgctxt "is now yours!"
+msgid "is now yours!"
+msgstr "ahora es tuyo!"
+
+msgctxt "point"
+msgid "point"
+msgstr "punto"
+
+msgctxt "point to validate"
+msgid "point to validate"
+msgstr "punto a validar"
+
+msgctxt "points to validate"
+msgid "points to validate"
+msgstr "puntos a validar"
+
+msgctxt "validated points ="
+msgid "validated points ="
+msgstr "Puntos validados="

@@ -1,99 +1,109 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-15 11:08+0000\n"
-"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
+"POT-Creation-Date: 2019-01-15 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/weblink/nl/"
 ">\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/weblink.csv:1
+msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Voeg een link toe"
 
-#: nl/weblink.csv:2
+msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
-msgstr "Er is een fout opgetreden bij het opslaan van uw pictogram. Probeert u het later nog een keer."
+msgstr ""
+"Er is een fout opgetreden bij het opslaan van uw pictogram. Probeert u het "
+"later nog een keer."
 
-#: nl/weblink.csv:3
+msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Weet u zeker dat u deze link wilt verwijderen?"
 
-#: nl/weblink.csv:4
+msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Weet u zeker dat u deze afbeelding wilt verwijderen?"
 
-#: nl/weblink.csv:5
-msgid "Link"
-msgstr "Link"
-
-#: nl/weblink.csv:6
-msgid "Link has been successfully deleted"
-msgstr "Link is succesvol verwijderd"
-
-#: nl/weblink.csv:7
-msgid "Link has been successfully saved"
-msgstr "Link is succesvol opgeslagen"
-
-#: nl/weblink.csv:8
-msgid "Link:"
-msgstr "Link:"
-
-#: nl/weblink.csv:9
-msgid "Picto"
-msgstr "picto"
-
-#: nl/weblink.csv:10
-msgid "The image has been successfully deleted"
-msgstr "De afbeelding is met succes verwijderd"
-
-#: nl/weblink.csv:11
-msgid "The image has been successfully saved"
-msgstr "De afbeelding is met succes bewaard"
-
-#: nl/weblink.csv:12
-msgid "Your links"
-msgstr "Uw links"
-
+msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr "Vul je Magento URL in"
 
+msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr "Vul je Prestaschop URL in"
 
+msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr "Vul je Shopify URL in"
 
+msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr "Vul je Volusion URL in"
 
+msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr "Vul je WhooCommerce URL in"
 
-msgid "Prestashop"
-msgstr "prestashop"
+msgctxt "Link"
+msgid "Link"
+msgstr "Link"
 
-msgid "Use external application"
-msgstr "Gebruik externe applicatie"
+msgctxt "Link has been successfully deleted"
+msgid "Link has been successfully deleted"
+msgstr "Link is succesvol verwijderd"
 
-msgid "Volusion"
-msgstr "volusion"
+msgctxt "Link has been successfully saved"
+msgid "Link has been successfully saved"
+msgstr "Link is succesvol opgeslagen"
 
-msgid "Without navbar"
-msgstr "Zonder navigatiebalk"
-
+msgctxt "Magento"
 msgid "Magento"
 msgstr "magento"
 
+msgctxt "Picto"
+msgid "Picto"
+msgstr "picto"
+
+msgctxt "Prestashop"
+msgid "Prestashop"
+msgstr "prestashop"
+
+msgctxt "Shopify"
 msgid "Shopify"
 msgstr "shopify"
 
+msgctxt "The image has been successfully deleted"
+msgid "The image has been successfully deleted"
+msgstr "De afbeelding is met succes verwijderd"
+
+msgctxt "The image has been successfully saved"
+msgid "The image has been successfully saved"
+msgstr "De afbeelding is met succes bewaard"
+
+msgctxt "Use external application"
+msgid "Use external application"
+msgstr "Gebruik externe applicatie"
+
+msgctxt "Volusion"
+msgid "Volusion"
+msgstr "volusion"
+
+msgctxt "Without navbar"
+msgid "Without navbar"
+msgstr "Zonder navigatiebalk"
+
+msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr "wooCommerce"
+
+msgctxt "Your links"
+msgid "Your links"
+msgstr "Uw links"

@@ -1,7 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 14:48+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Project-Id-Version: Turkish (Siberian)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
 "whitelabel/tr/>\n"
 "Language: tr\n"
@@ -11,109 +14,172 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "App Name"
 msgid "App Name"
 msgstr "Uygulama adı"
 
+msgctxt "Area"
 msgid "Area"
 msgstr "Alan"
 
+msgctxt "Border Blue"
 msgid "Border Blue"
 msgstr "Sınır Mavi"
 
+msgctxt "Border Green"
 msgid "Border Green"
 msgstr "Sınır Yeşil"
 
+msgctxt "Border Grey"
 msgid "Border Grey"
 msgstr "Sınır Gri"
 
+msgctxt "Border Purple"
 msgid "Border Purple"
 msgstr "Kenarlık Mor"
 
+msgctxt "Border Red"
 msgid "Border Red"
 msgstr "Sınır Kırmızı"
 
+msgctxt "Border Yellow"
 msgid "Border Yellow"
 msgstr "Sınır Sarı"
 
+msgctxt "Buttons"
 msgid "Buttons"
 msgstr "Düğmeler"
 
+msgctxt "Color blue"
 msgid "Color blue"
 msgstr "Renk mavi"
 
+msgctxt "Color green"
 msgid "Color green"
 msgstr "Renk yeşil"
 
+msgctxt "Color purple"
 msgid "Color purple"
 msgstr "Mor renk"
 
+msgctxt "Color red"
 msgid "Color red"
 msgstr "Renk kırmızı"
 
+msgctxt "Color yellow"
 msgid "Color yellow"
 msgstr "Renk sarı"
 
+msgctxt "Company or Fullname"
 msgid "Company or Fullname"
 msgstr "Şirket veya Tam Adınız"
 
+msgctxt "Contact e-mail"
 msgid "Contact e-mail"
 msgstr "İletişim e-posta"
 
+msgctxt "Content background"
 msgid "Content background"
 msgstr "İçerik arka plan"
 
+msgctxt "Content color"
 msgid "Content color"
 msgstr "İçerik renği"
 
+msgctxt "Country"
+msgid "Country"
+msgstr "Ülke"
+
+msgctxt "Customize My Editor"
 msgid "Customize My Editor"
 msgstr "Editörü Özelleştir"
 
+msgctxt "Delete/Cancel buttons"
 msgid "Delete/Cancel buttons"
 msgstr "Silme/İptal düğmeleri"
 
+msgctxt "Drop Down"
+msgid "Drop Down"
+msgstr "Açılır/Kapanır"
+
+msgctxt "E-mail"
 msgid "E-mail"
 msgstr "E-posta"
 
+msgctxt "Enable GDPR features & rules"
 msgid "Enable GDPR features & rules"
 msgstr "GDPR özellikleri ve kuralları etkinleştir "
 
+msgctxt "Enable White-Label"
 msgid "Enable White-Label"
 msgstr "White-Label  Etkinleştir"
 
+msgctxt "Favicon"
 msgid "Favicon"
 msgstr "Favicon"
 
+msgctxt "Font Color blue"
 msgid "Font Color blue"
 msgstr "Yazı tipi Rengi mavi"
 
+msgctxt "Full address"
 msgid "Full address"
 msgstr "Tam adres"
 
+msgctxt "General"
+msgid "General"
+msgstr "Genel"
+
+msgctxt "Grey buttons"
 msgid "Grey buttons"
 msgstr "Gri düğmeleri"
 
+msgctxt "Header"
 msgid "Header"
 msgstr "Başlık"
 
-msgid "In application of the GDPR regulation text, you must fullfill legal contact informations, whether you are a Company or an Individual."
+msgctxt ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
+msgid ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
 msgstr ""
 "GDPR  düzenleme metninin uygulanmasında, bir Şirket veya Bireyseniz, yasal "
 "iletişim bilgilerini doldurmanız gerekir."
 
+msgctxt "Input flat"
 msgid "Input flat"
 msgstr "Giriş düz"
 
+msgctxt "Logo"
+msgid "Logo"
+msgstr "Logo"
+
+msgctxt "Menu"
 msgid "Menu"
 msgstr "Menü"
 
+msgctxt "Page"
 msgid "Page"
 msgstr "Sayfa"
 
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Telefon"
+
+msgctxt "Sidebar background"
 msgid "Sidebar background"
 msgstr "Kenar Çubuğu arkaplan"
 
+msgctxt "Step menu background"
 msgid "Step menu background"
 msgstr "Menü arka plan adım"
 
+msgctxt "Titles"
+msgid "Titles"
+msgstr "Başlıklar"
+
+msgctxt "White-Label name"
 msgid "White-Label name"
 msgstr "White-Label adı"

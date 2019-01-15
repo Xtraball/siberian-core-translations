@@ -1,78 +1,141 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/folder/"
+"es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/folder.csv:1
-msgid "Folders"
-msgstr "Carpetas"
-
-#: es/folder.csv:2
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Agregar una página"
 
-#: es/folder.csv:3
-msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-msgstr "Haga clic en una página para agregarla a la carpeta <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr "Añadir función"
 
-#: es/folder.csv:4
+msgctxt "Allow line return in Title & Subtitles"
+msgid "Allow line return in Title & Subtitles"
+msgstr ""
+
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr "Marcando esto, un campo de búsqueda aparecerá en tu carpeta"
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Clic en"
 
-#: es/folder.csv:5
-msgid "to add a folder."
-msgstr "para agregar una carpeta."
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Click en la función para añadirla a la carpeta"
 
-#: es/folder.csv:6
-msgid "to add a subfolder."
-msgstr "añadir una subcarpeta."
+msgctxt "Click on a page to add it to the folder"
+msgid "Click on a page to add it to the folder"
+msgstr "Haga clic en una página para agregarla a la carpeta"
 
-#: es/folder.csv:7
-msgid "New folder"
-msgstr "Nueva carpeta"
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgid ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgstr ""
+"Click en la función para añadirla a la carpeta <span id='folder_name' "
+"class='folder_name'>%s</span>"
 
-#: es/folder.csv:8
-msgid "Delete this folder and all its subfolders?"
-msgstr "¿ Eliminar esta carpeta y todas las subcarpetas ?"
-
-#: es/folder.csv:9
-msgid "You will lose all unsaved changes, continue?"
-msgstr "¿Perderá todos los cambios no guardados, desea continuar?"
-
-#: es/folder.csv:10
-msgid "You must first complete the current category creation process"
-msgstr "Tiene que finalizar la creación de esta categoría primero"
-
-#: es/folder.csv:11
-msgid "Subtitle"
-msgstr "Subtítulo"
-
-#: es/folder.csv:12
-msgid "Add a"
-msgstr "Añadir una"
-
-#: es/folder.csv:13
-msgid "Mobile display"
-msgstr "Visualización móvil"
-
-#: es/folder.csv:14
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Cerrar visualización móvil"
 
-#: es/folder.csv:15
+msgctxt "Delete this folder and all its subfolders?"
+msgid "Delete this folder and all its subfolders?"
+msgstr "¿ Eliminar esta carpeta y todas las subcarpetas ?"
+
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr "Editar carpeta"
+
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr "Activar búsqueda en carpetas"
+
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Se requiere el título de la carpeta"
 
-#: es/folder.csv:16
+msgctxt "Folders"
+msgid "Folders"
+msgstr "Carpetas"
+
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr "Heredar diseño global"
+
+msgctxt "Mobile display"
+msgid "Mobile display"
+msgstr "Visualización móvil"
+
+msgctxt "New folder"
+msgid "New folder"
+msgstr "Nueva carpeta"
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr "Sin resultados."
+
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr "Sobreescribir diseño"
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr "Resultados de búsqueda"
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr "Mostrar cubierta"
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr "Mostrar campo buscar"
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Mostrar título"
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr "Usar diseño de tarjeta"
+
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "No se puede agregar esta función"
+
+msgctxt "You must first complete the current category creation process"
+msgid "You must first complete the current category creation process"
+msgstr "Tiene que finalizar la creación de esta categoría primero"
+
+msgctxt "You will lose all unsaved changes, continue?"
+msgid "You will lose all unsaved changes, continue?"
+msgstr "¿Perderá todos los cambios no guardados, desea continuar?"
+
+msgctxt "to add a folder."
+msgid "to add a folder."
+msgstr "para agregar una carpeta."

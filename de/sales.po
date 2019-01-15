@@ -1,90 +1,71 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 10:50+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/sales/de/>"
 "\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: de/sales.csv:1
-msgid "Action"
-msgstr "Aktion"
+msgctxt "Activate VAT number check with VIES"
+msgid "Activate VAT number check with VIES"
+msgstr ""
 
-#: de/sales.csv:2
-msgid "App Name"
-msgstr "App-Name"
+msgctxt "Add a custom text to the footer of your invoices"
+msgid "Add a custom text to the footer of your invoices"
+msgstr ""
 
-#: de/sales.csv:3
-msgid "Client"
-msgstr "Client"
+msgctxt "Invoice options"
+msgid "Invoice options"
+msgstr ""
 
-#: de/sales.csv:4
-msgid "Date"
-msgstr "Datum"
+msgctxt "Offline plans"
+msgid "Offline plans"
+msgstr ""
 
-#: de/sales.csv:5
-msgid "Invoice"
-msgstr "Rechnung"
-
-#: de/sales.csv:6
-msgid "Invoice %s"
-msgstr "Rechnung %s"
-
-#: de/sales.csv:7
-msgid "Invoice N°"
-msgstr "Rechnung N °"
-
-#: de/sales.csv:8
-msgid "List of your invoices"
-msgstr "Liste der Rechnungen"
-
-#: de/sales.csv:9
-msgid "My Invoices"
-msgstr "Meine Rechnungen"
-
-#: de/sales.csv:10
-msgid "Order"
-msgstr "Bestellung"
-
-#: de/sales.csv:11
-msgid "Orders"
-msgstr "Bestellungen"
-
-#: de/sales.csv:12
-msgid "Paid At"
-msgstr "Gezahlt"
-
-#: de/sales.csv:13
+msgctxt "Paid at:"
 msgid "Paid at:"
 msgstr "Gezahlt"
 
-#: de/sales.csv:14
+msgctxt "Payment Method"
+msgid "Payment Method"
+msgstr "Zahlungsmethode"
+
+msgctxt "Price Excl. Tax"
 msgid "Price Excl. Tax"
 msgstr "Preis ohne MwSt."
 
-#: de/sales.csv:15
-msgid "Qty"
-msgstr "Qty"
+msgctxt "Sales configuration"
+msgid "Sales configuration"
+msgstr "Karten-Konfiguration"
 
-#: de/sales.csv:16
-msgid "This feature is not ready yet. Please try again later."
-msgstr "Diese Funktion ist noch nicht bereit. Bitte versuchen Sie es später erneut."
+msgctxt ""
+"This message will be displayed as a waiting message when your users chose an "
+"offline payment method"
+msgid ""
+"This message will be displayed as a waiting message when your users chose an "
+"offline payment method"
+msgstr ""
 
-#: de/sales.csv:17
+msgctxt ""
+"This message will be displayed as an information message to describe which "
+"offline payment method you offer"
+msgid ""
+"This message will be displayed as an information message to describe which "
+"offline payment method you offer"
+msgstr ""
+
+msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Total exkl. USt."
 
-#: de/sales.csv:18
-msgid "You don't have any invoices yet"
-msgstr "Sie noch alle Rechnungen nicht"
-
-msgid "Sales configuration"
-msgstr "Karten-Konfiguration"
+msgctxt "VAT check options"
+msgid "VAT check options"
+msgstr ""

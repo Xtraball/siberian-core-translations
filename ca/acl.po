@@ -1,31 +1,81 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 10:48+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/acl/ca/>"
+"\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Actions"
+msgid "Actions"
+msgstr "Accions"
+
+msgctxt "An error occurred while deleting your role. Please, try again later."
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr ""
+"S'ha produït un error en pujar el fitxer. Si us plau, torneu a intentar-ho "
+"més tard."
+
+msgctxt "Code"
+msgid "Code"
+msgstr ""
+
+msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr "Crear un nou camp"
 
+msgctxt "Delete"
+msgid "Delete"
+msgstr "esborrar"
+
+msgctxt "Edit"
+msgid "Edit"
+msgstr "Edita"
+
+msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr "Edita la funció %s"
 
+msgctxt "Id"
+msgid "Id"
+msgstr "Identificació"
+
+msgctxt "Label"
+msgid "Label"
+msgstr "etiqueta"
+
+msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr "Llista dels vostres papers"
 
+msgctxt "Role"
 msgid "Role"
 msgstr "Funció"
 
+msgctxt "Search"
+msgid "Search"
+msgstr "Cerca"
+
+msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr "Aquesta funció serà la predeterminada per a tota la plataforma."
 
-msgid "Actions"
-msgstr "Accions"
+msgctxt "You don't have any role yet"
+msgid "You don't have any role yet"
+msgstr "No té cap usuari encara"
+
+msgctxt "Your role has been successfully deleted"
+msgid "Your role has been successfully deleted"
+msgstr "El teu com ha estat afegit amb èxit"
+
+msgctxt "Your role has been successfully saved"
+msgid "Your role has been successfully saved"
+msgstr "El seu compte ha estat guardat amb èxit"

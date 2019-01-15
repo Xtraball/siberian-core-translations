@@ -1,117 +1,111 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 14:47+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/booking/"
 "tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/booking.csv:1
+msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Rezervasyon detayları"
 
-#: tr/booking.csv:2
-msgid "Booking details:"
-msgstr "Rezervasyon detayları:"
-
-#: tr/booking.csv:3
-msgid "Booking subject:"
-msgstr "Rezervasyon konusu:"
-
-#: tr/booking.csv:4
-msgid "Comment:"
-msgstr "Yorum:"
-
-#: tr/booking.csv:5
-msgid "Date and time"
-msgstr "Tarih ve zaman"
-
-#: tr/booking.csv:6
-msgid "Date and time:"
-msgstr "Tarih ve zaman:"
-
-#: tr/booking.csv:7
-msgid "Email address:"
-msgstr "Email adres:"
-
-#: tr/booking.csv:8
-msgid "Enter the location name and contact email:"
-msgstr "Konumu adını ve iletişim e-posta girin:"
-
-#: tr/booking.csv:9
-msgid "First name / Last name"
-msgstr "İsim / Soyisim"
-
-#: tr/booking.csv:10
-msgid "Here are his personal information:"
-msgstr "Kişisel bilgileri:"
-
-#: tr/booking.csv:11
-msgid "Name:"
-msgstr "İsim:"
-
-#: tr/booking.csv:12
-msgid "Nom du lieu :"
-msgstr "Yer Adı:"
-
-#: tr/booking.csv:13
-msgid "People number:"
-msgstr "Kişi No:"
-
-#: tr/booking.csv:14
-msgid "Phone number:"
-msgstr "Tel No:"
-
-#: tr/booking.csv:15
-msgid "Please fill out the following fields: "
-msgstr "Aşağıdaki alanları eksiksiz doldurunuz:"
-
-#: tr/booking.csv:16
-msgid "Please fill out the following fields:<br />"
-msgstr "Aşağıdaki alanları eksiksiz doldurunuz:<br />"
-
-#: tr/booking.csv:17
-msgid "Please, choose a store"
-msgstr "Lütfen bir mağza seçin"
-
-#: tr/booking.csv:18
-msgid "Thank you for your request. We'll answer you as soon as possible."
-msgstr "İsteğiniz için teşekkür ederiz. En kısa sürede size cevap vereceğiz."
-
-#: tr/booking.csv:19
-msgid "The booking information"
-msgstr "Rezervasyon bilgisi"
-
-#: tr/booking.csv:20
-msgid "The booking informations"
-msgstr "Rezervasyon bilgileri"
-
-#: tr/booking.csv:21
-msgid "The date and time of the booking"
-msgstr "Rezervasyon tarih ve saati"
-
-#: tr/booking.csv:22
-msgid "The number of people"
-msgstr "Insan sayısı"
-
-#: tr/booking.csv:23
-msgid "You have received a message for the booking of"
-msgstr "Rezervasyon için bir mesaj aldınız"
-
-#: tr/booking.csv:24
-msgid "Your phone number or email address"
-msgstr "Telefon numarası veya e-posta adresi"
-
+msgctxt "Booking location:"
 msgid "Booking location:"
 msgstr "Rezervasyon konumu:"
 
+msgctxt "Booking subject:"
+msgid "Booking subject:"
+msgstr "Rezervasyon konusu:"
+
+msgctxt "Comment:"
+msgid "Comment:"
+msgstr "Yorum:"
+
+msgctxt "Date and time"
+msgid "Date and time"
+msgstr "Tarih ve zaman"
+
+msgctxt "Email address:"
+msgid "Email address:"
+msgstr "Email adres:"
+
+msgctxt "Enter the location name and contact email:"
+msgid "Enter the location name and contact email:"
+msgstr "Konumu adını ve iletişim e-posta girin:"
+
+msgctxt "First name / Last name"
+msgid "First name / Last name"
+msgstr "İsim / Soyisim"
+
+msgctxt "Here are his personal information:"
+msgid "Here are his personal information:"
+msgstr "Kişisel bilgileri:"
+
+msgctxt "Information"
+msgid "Information"
+msgstr "Bilgi"
+
+msgctxt "Location"
 msgid "Location"
 msgstr "Lokasyon"
+
+msgctxt "Name:"
+msgid "Name:"
+msgstr "İsim:"
+
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "Kişi sayısı"
+
+msgctxt "Phone number:"
+msgid "Phone number:"
+msgstr "Tel No:"
+
+msgctxt "Please, choose a store"
+msgid "Please, choose a store"
+msgstr "Lütfen bir mağza seçin"
+
+msgctxt "Please fill out the following fields:"
+msgid "Please fill out the following fields:"
+msgstr "Lütfen aşağıdaki alanları doldurun:"
+
+msgctxt "Please fill out the following fields:<br/>"
+msgid "Please fill out the following fields:<br/>"
+msgstr "Lütfen aşağıdaki alanları doldurun:<br/>"
+
+msgctxt "Thank you for your request. We'll answer you as soon as possible."
+msgid "Thank you for your request. We'll answer you as soon as possible."
+msgstr "İsteğiniz için teşekkür ederiz. En kısa sürede size cevap vereceğiz."
+
+msgctxt "The booking information"
+msgid "The booking information"
+msgstr "Rezervasyon bilgisi"
+
+msgctxt "The date and time of the booking"
+msgid "The date and time of the booking"
+msgstr "Rezervasyon tarih ve saati"
+
+msgctxt "The number of people"
+msgid "The number of people"
+msgstr "Insan sayısı"
+
+msgctxt "You have received a message for the booking of"
+msgid "You have received a message for the booking of"
+msgstr "Rezervasyon için bir mesaj aldınız"
+
+msgctxt "Your name"
+msgid "Your name"
+msgstr "Adınız"
+
+msgctxt "Your phone number or email address"
+msgid "Your phone number or email address"
+msgstr "Telefon numarası veya e-posta adresi"

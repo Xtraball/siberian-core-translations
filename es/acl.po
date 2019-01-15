@@ -1,13 +1,80 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/acl/es/>"
+"\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-09 09:49+0000\n"
-"PO-Revision-Date: 2019-01-09 09:49+0000\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Actions"
+msgid "Actions"
+msgstr "Acciones"
+
+msgctxt "An error occurred while deleting your role. Please, try again later."
+msgid "An error occurred while deleting your role. Please, try again later."
+msgstr ""
+"Ha ocurrido un error mientras se borraba tu rol. Por favor, prueba de nuevo."
+
+msgctxt "Code"
+msgid "Code"
+msgstr "Codigo"
+
+msgctxt "Create a new role"
+msgid "Create a new role"
+msgstr "Crear un nuevo rol"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Borrar"
+
+msgctxt "Edit"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "Edit %s role"
+msgid "Edit %s role"
+msgstr "Editar rol %s"
+
+msgctxt "Id"
+msgid "Id"
+msgstr "Id"
+
+msgctxt "Label"
+msgid "Label"
+msgstr "Etiqueta"
+
+msgctxt "List of your roles"
+msgid "List of your roles"
+msgstr "Lista de tus roles"
+
+msgctxt "Role"
+msgid "Role"
+msgstr "Rol"
+
+msgctxt "Search"
+msgid "Search"
+msgstr "Buscar"
+
+msgctxt "This role will be the default one for the whole platform."
+msgid "This role will be the default one for the whole platform."
+msgstr "Este rol será el utilizado por defecto para la plataforma."
+
+msgctxt "You don't have any role yet"
+msgid "You don't have any role yet"
+msgstr "No tienes un rol aún"
+
+msgctxt "Your role has been successfully deleted"
+msgid "Your role has been successfully deleted"
+msgstr "Tu rol ha sido borrado correctamente"
+
+msgctxt "Your role has been successfully saved"
+msgid "Your role has been successfully saved"
+msgstr "Tu rol ha sido guardado correctamente"

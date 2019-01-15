@@ -1,74 +1,141 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/folder/el/>"
+"\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/folder.csv:1
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Προσθέστε μια σελίδα"
 
-#: el/folder.csv:2
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr ""
+
+msgctxt "Allow line return in Title & Subtitles"
+msgid "Allow line return in Title & Subtitles"
+msgstr ""
+
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr ""
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Πατήστε κλίκ"
 
-#: el/folder.csv:3
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Κάντε σε μία σελίδα για να την προσθέσετε στον φάκελο"
+
+msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Κάντε σε μία σελίδα για να την προσθέσετε στον φάκελο"
 
-#: el/folder.csv:4
-msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-msgstr "Κάντε σε μία σελίδα για να την προσθέσετε στον φάκελο <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgid ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgstr ""
 
-#: el/folder.csv:5
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Κλείσιμο mobile προβολής"
 
-#: el/folder.csv:6
+msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Διαγραφή αυτού του φακέλου και των περιεχομένων του?"
 
-#: el/folder.csv:7
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr ""
+
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr ""
+
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Είναι υποχρεωτικός ένας τίτλος φακέλου"
 
-#: el/folder.csv:8
+msgctxt "Folders"
 msgid "Folders"
 msgstr "Φάκελοι"
 
-#: el/folder.csv:9
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr ""
+
+msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Mobile προβολή"
 
-#: el/folder.csv:10
+msgctxt "New folder"
 msgid "New folder"
 msgstr "Νέος Φάκελος"
 
-#: el/folder.csv:11
-msgid "Subtitle"
-msgstr "Υπότιτλος"
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr ""
 
-#: el/folder.csv:12
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr ""
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr ""
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr ""
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr ""
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Προβολή άρθρου"
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr ""
+
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Δεν μπορείτε να προσθέσετε αυτό το χαρακτηριστικό"
 
-#: el/folder.csv:13
+msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
-msgstr "Πρέπει πρώτα να ολοκληρώσετε την διαδικασία δημιουργίας της τρέχουσας κατηγορίας"
+msgstr ""
+"Πρέπει πρώτα να ολοκληρώσετε την διαδικασία δημιουργίας της τρέχουσας "
+"κατηγορίας"
 
-#: el/folder.csv:14
+msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Θα χάσετε όλες τις μη-αποθηκευμένες αλλαγές. Συνέχεια?"
 
-#: el/folder.csv:15
+msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "για να προσθέσετε έναν φάκελο."

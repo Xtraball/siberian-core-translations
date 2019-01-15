@@ -1,334 +1,413 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/media/ca/"
+">\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ca\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/media.csv:1
-msgid "%s by %s"
-msgstr "%s de %s"
-
-#: ca/media.csv:2
+msgctxt "+ Add a track"
 msgid "+ Add a track"
 msgstr "+ Afegir una pista"
 
-#: ca/media.csv:3
+msgctxt "Add albums and tracks to the playlist:"
 msgid "Add albums and tracks to the playlist:"
 msgstr "Afegir àlbums i pistes a la llista de reproducció:"
 
-#: ca/media.csv:4
+msgctxt "Album"
 msgid "Album"
 msgstr "Àlbum"
 
-#: ca/media.csv:5
+msgctxt "Albums"
 msgid "Albums"
 msgstr "Àlbums"
 
-#: ca/media.csv:6
-msgid "Albums:"
-msgstr "Àlbums:"
+msgctxt ""
+"An error occurred while deleting you images gallery. Please try again later."
+msgid ""
+"An error occurred while deleting you images gallery. Please try again later."
+msgstr ""
+"S'ha produït un error en suprimir vostè galeria d'imatges. Si us plau provar "
+"una altra vegada més tard."
 
-#: ca/media.csv:7
-msgid "An error occurred while deleting you images gallery. Please try again later."
-msgstr "S'ha produït un error en suprimir vostè galeria d'imatges. Si us plau provar una altra vegada més tard."
-
-#: ca/media.csv:8
+msgctxt "An error occurred while deleting your album. Thanks for trying later."
 msgid "An error occurred while deleting your album. Thanks for trying later."
-msgstr "S'ha produït un error en suprimir el teu àlbum. Gràcies per provar més tard."
+msgstr ""
+"S'ha produït un error en suprimir el teu àlbum. Gràcies per provar més tard."
 
-#: ca/media.csv:9
-msgid "An error occurred while deleting your playlist. Thanks for trying later."
-msgstr "S'ha produït un error en suprimir el seu playlist. Gràcies per provar més tard."
+msgctxt ""
+"An error occurred while deleting your playlist. Thanks for trying later."
+msgid ""
+"An error occurred while deleting your playlist. Thanks for trying later."
+msgstr ""
+"S'ha produït un error en suprimir el seu playlist. Gràcies per provar més "
+"tard."
 
-#: ca/media.csv:10
+msgctxt "An error occurred while deleting your track. Thanks for trying later."
 msgid "An error occurred while deleting your track. Thanks for trying later."
-msgstr "S'ha produït un error en suprimir la pista. Gràcies per provar més tard."
+msgstr ""
+"S'ha produït un error en suprimir la pista. Gràcies per provar més tard."
 
-#: ca/media.csv:11
+msgctxt "An error occurred while loading pictures. Please try later."
 msgid "An error occurred while loading pictures. Please try later."
 msgstr "S'ha produït un error en carregar imatges. Si us plau provar més tard."
 
-#: ca/media.csv:12
+msgctxt "An error occurred while loading the media."
+msgid "An error occurred while loading the media."
+msgstr "S'ha produït un error mentre carrega aquest esdeveniment"
+
+msgctxt "An error occurred while loading the radio."
+msgid "An error occurred while loading the radio."
+msgstr "S'ha produït un error en afegir l'opció"
+
+msgctxt "An error occurred while loading videos. Please try later."
 msgid "An error occurred while loading videos. Please try later."
 msgstr "S'ha produït un error en carregar vídeos. Si us plau provar més tard."
 
-#: ca/media.csv:13
-msgid "An error occurred while saving your images gallery. Please try again later."
-msgstr "S'ha produït un error mentre es desava la seva galeria d'imatges. Si us plau provar una altra vegada més tard."
+msgctxt ""
+"An error occurred while retrieving your page. Please check your page id."
+msgid ""
+"An error occurred while retrieving your page. Please check your page id."
+msgstr ""
 
-#: ca/media.csv:14
+msgctxt ""
+"An error occurred while saving your images gallery. Please try again later."
+msgid ""
+"An error occurred while saving your images gallery. Please try again later."
+msgstr ""
+"S'ha produït un error mentre es desava la seva galeria d'imatges. Si us plau "
+"provar una altra vegada més tard."
+
+msgctxt "An error occurred while saving your playlist. Thanks for trying later."
 msgid "An error occurred while saving your playlist. Thanks for trying later."
-msgstr "S'ha produït un error mentre es desava el seu playlist. Gràcies per provar més tard."
+msgstr ""
+"S'ha produït un error mentre es desava el seu playlist. Gràcies per provar "
+"més tard."
 
-#: ca/media.csv:15
-msgid "An error occurred while saving your videos gallery. Please try again later."
-msgstr "S'ha produït un error mentre es desava la seva galeria de vídeos. Si us plau provar una altra vegada més tard."
+msgctxt ""
+"An error occurred while saving your videos gallery. Please try again later."
+msgid ""
+"An error occurred while saving your videos gallery. Please try again later."
+msgstr ""
+"S'ha produït un error mentre es desava la seva galeria de vídeos. Si us plau "
+"provar una altra vegada més tard."
 
-#: ca/media.csv:16
+msgctxt "Are you sure you don't want to create an album for these tracks?"
 msgid "Are you sure you don't want to create an album for these tracks?"
 msgstr "Esteu segur que no voleu crear un àlbum per a aquests temes?"
 
-#: ca/media.csv:17
+msgctxt "Are you sure you don't want to create an album for this track?"
 msgid "Are you sure you don't want to create an album for this track?"
 msgstr "Esteu segur que no voleu crear un àlbum per aquest circuit?"
 
-#: ca/media.csv:18
-msgid "Are you sure you want to delete this album (this won't delete tracks)?"
-msgstr "Esteu segur que voleu suprimir aquest àlbum (això no suprimeix pistes)?"
-
-#: ca/media.csv:19
+msgctxt "Are you sure you want to delete this album?"
 msgid "Are you sure you want to delete this album?"
 msgstr "Esteu segur que voleu suprimir aquest àlbum?"
 
-#: ca/media.csv:20
+msgctxt "Are you sure you want to delete this album (this won't delete tracks)?"
+msgid "Are you sure you want to delete this album (this won't delete tracks)?"
+msgstr "Esteu segur que voleu suprimir aquest àlbum (això no suprimeix pistes)?"
+
+msgctxt "Are you sure you want to delete this playlist?"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Esteu segur que voleu suprimir aquesta llista de reproducció?"
 
-#: ca/media.csv:21
+msgctxt "Are you sure you want to delete this track?"
 msgid "Are you sure you want to delete this track?"
 msgstr "Esteu segur que voleu suprimir aquesta pista?"
 
-#: ca/media.csv:22
-msgid "Artist"
-msgstr "Artista"
-
-#: ca/media.csv:23
+msgctxt "Artist:"
 msgid "Artist:"
 msgstr "Artista:"
 
-#: ca/media.csv:24
+msgctxt "Audio"
 msgid "Audio"
 msgstr "Àudio"
 
-#: ca/media.csv:25
+msgctxt "Channel"
 msgid "Channel"
 msgstr "Canal"
 
-#: ca/media.csv:26
+msgctxt "Choose an album"
 msgid "Choose an album"
 msgstr "Triar un àlbum"
 
-#: ca/media.csv:27
+msgctxt "Custom"
 msgid "Custom"
 msgstr "Costum"
 
-#: ca/media.csv:28
+msgctxt "Delete this gallery?"
 msgid "Delete this gallery?"
 msgstr "Voleu suprimir aquesta galeria?"
 
-#: ca/media.csv:29
+msgctxt "Facebook page ID"
+msgid "Facebook page ID"
+msgstr "El vostre ID de pàgina de Facebook"
+
+msgctxt "Feed URL"
 msgid "Feed URL"
 msgstr "URL de menjar"
 
-#: ca/media.csv:30
-msgid "Feed URL <span class=\"required-entry\">*</span> :"
-msgstr "URL <span class=\"required-entry\"> *</span> de menjar:"
+msgctxt "Flickr"
+msgid "Flickr"
+msgstr ""
 
-#: ca/media.csv:31
+msgctxt "Flickr API settings can't be found."
+msgid "Flickr API settings can't be found."
+msgstr ""
+
+msgctxt "Flickr user"
+msgid "Flickr user"
+msgstr ""
+
+msgctxt "Gallery Name"
 msgid "Gallery Name"
 msgstr "Nom de la galeria"
 
-#: ca/media.csv:32
-msgid "Gallery Name <span class=\"required-entry\">*</span> :"
-msgstr "Nom de la galeria <span class=\"required-entry\"> *</span>:"
-
-#: ca/media.csv:33
+msgctxt "Group"
 msgid "Group"
 msgstr "Grup"
 
-#: ca/media.csv:34
+msgctxt "If set, will appear instead of the Facebook page Id in app."
+msgid "If set, will appear instead of the Facebook page Id in app."
+msgstr ""
+
+msgctxt "I'm listening to"
 msgid "I'm listening to"
 msgstr "Estic escoltant"
 
-#: ca/media.csv:35
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr ""
+
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr ""
+
+msgctxt "Images gallery has been saved successfully"
 msgid "Images gallery has been saved successfully"
 msgstr "Galeria d'imatges s'ha desat correctament"
 
-#: ca/media.csv:36
+msgctxt "Instagram"
 msgid "Instagram"
 msgstr "Instagram"
 
-#: ca/media.csv:37
+msgctxt "Instagram API settings can't be found."
+msgid "Instagram API settings can't be found."
+msgstr ""
+
+msgctxt "Last update:"
 msgid "Last update:"
 msgstr "Última actualització:"
 
-#: ca/media.csv:38
+msgctxt "Login"
+msgid "Login"
+msgstr "Iniciar Sessió:"
+
+msgctxt "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgstr "Mida màxima: 2000 * 2000 px - permès filetypes: jpg i png"
 
-#: ca/media.csv:39
-msgid "My pictures"
-msgstr "Meus quadres"
+msgctxt "My images"
+msgid "My images"
+msgstr ""
 
-#: ca/media.csv:40
+msgctxt "No album found"
 msgid "No album found"
 msgstr "Cap àlbum trobat"
 
-#: ca/media.csv:41
+msgctxt "No artist found"
 msgid "No artist found"
 msgstr "Cap artista trobat"
 
-#: ca/media.csv:42
+msgctxt "No current stream to play so far."
+msgid "No current stream to play so far."
+msgstr ""
+
+msgctxt "No track found"
 msgid "No track found"
 msgstr "Cap pista trobades"
 
-#: ca/media.csv:43
+msgctxt "No valid Facebook API key and secret."
+msgid "No valid Facebook API key and secret."
+msgstr ""
+
+msgctxt "PLAYER"
 msgid "PLAYER"
 msgstr "Player"
 
-#: ca/media.csv:44
+msgctxt "Page ID"
+msgid "Page ID"
+msgstr ""
+
+msgctxt "Page not found"
+msgid "Page not found"
+msgstr ""
+
+msgctxt "Parameter"
 msgid "Parameter"
 msgstr "Paràmetre"
 
-#: ca/media.csv:45
+msgctxt "Parameter/Feed Url"
 msgid "Parameter/Feed Url"
 msgstr "Alimentació/paràmetre Url"
 
-#: ca/media.csv:46
+msgctxt "Picasa"
 msgid "Picasa"
 msgstr "Picasa"
 
-#: ca/media.csv:47
-msgid "Picture%s"
-msgstr "Imatge %s"
-
-#: ca/media.csv:48
+msgctxt "Playlist"
 msgid "Playlist"
 msgstr "Llista de reproducció"
 
-#: ca/media.csv:49
+msgctxt "Playlist successfully saved."
 msgid "Playlist successfully saved."
 msgstr "Playlist salvat correctament."
 
-#: ca/media.csv:50
+msgctxt "Playlist title:"
 msgid "Playlist title:"
 msgstr "Títol de la llista de reproducció:"
 
-#: ca/media.csv:51
+msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Llistes de reproducció"
 
-#: ca/media.csv:52
+msgctxt "Please specify the page ID"
+msgid "Please specify the page ID"
+msgstr ""
+
+msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Podcast"
 
-#: ca/media.csv:53
+msgctxt "Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (format de iTunes)"
 
-#: ca/media.csv:54
+msgctxt "Read all"
 msgid "Read all"
 msgstr "Llegir tots"
 
-#: ca/media.csv:55
+msgctxt "Reload album list?"
+msgid "Reload album list?"
+msgstr ""
+
+msgctxt "Required field"
 msgid "Required field"
 msgstr "els Camp obligatori"
 
-#: ca/media.csv:56
+msgctxt "Search/Url"
 msgid "Search/Url"
 msgstr "Cerca/Url"
 
-#: ca/media.csv:57
+msgctxt "The entered name is not a valid Instagram user."
 msgid "The entered name is not a valid Instagram user."
 msgstr "El nom introduït no és un usuari d'Instagram vàlid."
 
-#: ca/media.csv:58
+msgctxt "This element is not an album."
 msgid "This element is not an album."
 msgstr "Aquest element no és un àlbum."
 
-#: ca/media.csv:59
+msgctxt "Track"
 msgid "Track"
 msgstr "Pista"
 
-#: ca/media.csv:60
+msgctxt "Tracks"
 msgid "Tracks"
 msgstr "Pistes"
 
-#: ca/media.csv:61
+msgctxt "Type"
 msgid "Type"
 msgstr "Tipus"
 
-#: ca/media.csv:62
+msgctxt "URL (.mp3):"
 msgid "URL (.mp3):"
 msgstr "URL (. mp3):"
 
-#: ca/media.csv:63
+msgctxt "Videos gallery has been saved successfully"
 msgid "Videos gallery has been saved successfully"
 msgstr "Galeria de vídeos s'ha desat correctament"
 
-#: ca/media.csv:64
+msgctxt "Vimeo"
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: ca/media.csv:65
+msgctxt "buy"
 msgid "buy"
 msgstr "comprar"
 
-#: ca/media.csv:66
+msgctxt "by"
+msgid "by"
+msgstr ""
+
+msgctxt "close"
 msgid "close"
 msgstr "tancar"
 
-#: ca/media.csv:67
+msgctxt "empty"
 msgid "empty"
 msgstr "Buit"
 
-#: ca/media.csv:68
+msgctxt "from"
 msgid "from"
 msgstr "des de"
 
-#: ca/media.csv:69
+msgctxt "hide"
 msgid "hide"
 msgstr "amagar"
 
-#: ca/media.csv:70
+msgctxt "loop"
 msgid "loop"
 msgstr "bucle"
 
-#: ca/media.csv:71
+msgctxt "music"
 msgid "music"
 msgstr "música"
 
-#: ca/media.csv:72
+msgctxt "next"
 msgid "next"
 msgstr "següent"
 
-#: ca/media.csv:73
+msgctxt "on"
 msgid "on"
 msgstr "en"
 
-#: ca/media.csv:74
+msgctxt "pause"
 msgid "pause"
 msgstr "pausa"
 
-#: ca/media.csv:75
+msgctxt "play"
 msgid "play"
 msgstr "Play"
 
-#: ca/media.csv:76
+msgctxt "previous"
 msgid "previous"
 msgstr "anterior"
 
-#: ca/media.csv:77
+msgctxt "%s by %s"
+msgid "%s by %s"
+msgstr "%s de %s"
+
+msgctxt "share"
 msgid "share"
 msgstr "compartir"
 
-#: ca/media.csv:78
+msgctxt "shuffle"
 msgid "shuffle"
 msgstr "remenar"
 
-#: ca/media.csv:79
+msgctxt "track"
 msgid "track"
 msgstr "pista"
 
-#: ca/media.csv:80
+msgctxt "tracks"
 msgid "tracks"
 msgstr "pistes"

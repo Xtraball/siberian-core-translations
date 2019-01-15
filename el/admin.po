@@ -1,194 +1,325 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/admin/el/>"
+"\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/admin.csv:1
-msgid "%s - Your new password"
-msgstr "%s - Ο νέος σας Κωδικός"
+msgctxt ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
+msgid ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
+msgstr ""
+"Η αίτηση για την επαναφορά του Κωδικού σας έχει γίνει για να συνδεθείτε στον "
+"πίνακα διαχείρισης."
 
-#: el/admin.csv:2
-msgid "%s – Your new password"
-msgstr "%s – Ο νέος σας Κωδικός"
+msgctxt "Access"
+msgid "Access"
+msgstr ""
 
-#: el/admin.csv:3
-msgid "A request to reset your password has been made to log in to your administration panel."
-msgstr "Η αίτηση για την επαναφορά του Κωδικού σας έχει γίνει για να συνδεθείτε στον πίνακα διαχείρισης."
+msgctxt "Account Role"
+msgid "Account Role"
+msgstr ""
 
-#: el/admin.csv:4
-msgid "Admin successfully deleted"
-msgstr "Ο διαχειριστής διεγράφη επιτυχώς"
+msgctxt "Account role"
+msgid "Account role"
+msgstr ""
 
-#: el/admin.csv:5
+msgctxt "Address:"
+msgid "Address:"
+msgstr ""
+
+msgctxt "Address 2:"
+msgid "Address 2:"
+msgstr ""
+
+msgctxt "Administrator : full access"
+msgid "Administrator : full access"
+msgstr ""
+
+msgctxt "Administrator: full access"
+msgid "Administrator: full access"
+msgstr ""
+
+msgctxt "An error occurred while saving. The country is not valid."
 msgid "An error occurred while saving. The country is not valid."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αποθήκευση. Η χώρα δεν είναι έγκυρη."
 
-#: el/admin.csv:6
+msgctxt "Application"
+msgid "Application"
+msgstr ""
+
+msgctxt "Application have been duplicated successfully."
+msgid "Application have been duplicated successfully."
+msgstr ""
+
+msgctxt "Are you sure you want to delete this application?"
 msgid "Are you sure you want to delete this application?"
 msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την εφαρμογή?"
 
-#: el/admin.csv:7
+msgctxt "Are you sure you want to duplicate this application?"
+msgid "Are you sure you want to duplicate this application?"
+msgstr ""
+
+msgctxt "Can add pages"
 msgid "Can add pages"
 msgstr "Μπορεί να προσθέσει σελίδες"
 
-#: el/admin.csv:8
+msgctxt "Can generate APK"
+msgid "Can generate APK"
+msgstr ""
+
+msgctxt "Can manage guided tour"
+msgid "Can manage guided tour"
+msgstr ""
+
+msgctxt "Change my password"
 msgid "Change my password"
 msgstr "Αλλαγή του Κωδικού μου"
 
-#: el/admin.csv:9
+msgctxt "Company:"
+msgid "Company:"
+msgstr ""
+
+msgctxt "Confirm your password"
 msgid "Confirm your password"
 msgstr "Επιβεβαίωση Κωδικού σας"
 
-#: el/admin.csv:10
+msgctxt "Connect to your backoffice to validate this account."
+msgid "Connect to your backoffice to validate this account."
+msgstr ""
+
+msgctxt "Create a new application"
 msgid "Create a new application"
 msgstr "Δημιουργήστε μια καινούργια εφαρμογή"
 
-#: el/admin.csv:11
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Δημιουργήστε έναν καινούριο χρήστη"
 
-#: el/admin.csv:12
+msgctxt "Created At"
 msgid "Created At"
 msgstr "Δημιουργήθηκε"
 
-#: el/admin.csv:13
+msgctxt "Created at %s"
 msgid "Created at %s"
 msgstr "Δημιουργήθηκε %s"
 
-#: el/admin.csv:14
+msgctxt "Do not hesitate to give us your feedback by sharing your needs:"
 msgid "Do not hesitate to give us your feedback by sharing your needs:"
-msgstr "Μην διστάσσετε να μας στείλετε τα σχόλιά σας, μοιράζοντας τις ανάγκες σας μαζί μας:"
+msgstr ""
+"Μην διστάσσετε να μας στείλετε τα σχόλιά σας, μοιράζοντας τις ανάγκες σας "
+"μαζί μας:"
 
-#: el/admin.csv:15
-msgid "Edit the account \"%s\""
-msgstr "Επεξεργασία λογαριασμού \"%s\""
+msgctxt "Edit the account %s"
+msgid "Edit the account %s"
+msgstr ""
 
-#: el/admin.csv:16
-msgid "Edit the account \"%s”"
-msgstr "Επεξεργασία λογαριασμού \"%s\""
-
-#: el/admin.csv:17
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Επεξεργασία  χρήστη %s"
 
-#: el/admin.csv:18
+msgctxt "Enjoy!"
 msgid "Enjoy!"
 msgstr "Απολαύστε!"
 
-#: el/admin.csv:19
+msgctxt "Filter your apps..."
+msgid "Filter your apps..."
+msgstr ""
+
+msgctxt "Find some advices here:"
 msgid "Find some advices here:"
 msgstr "Βρείτε κάποιες συμβουλές εδώ:"
 
-#: el/admin.csv:20
+msgctxt "From"
+msgid "From"
+msgstr ""
+
+msgctxt "Hello, a new user has registered on your platform : %s."
+msgid "Hello, a new user has registered on your platform : %s."
+msgstr ""
+
+msgctxt "Here are your credentials, keep them preciously:"
 msgid "Here are your credentials, keep them preciously:"
 msgstr "Εδώ είναι τα στοιχεία πρόσβασής σας, φυλάξτε τα:"
 
-#: el/admin.csv:21
+msgctxt "List of admin accounts"
 msgid "List of admin accounts"
 msgstr "Λίστα Λογαριασμών Διαχειριστή"
 
-#: el/admin.csv:22
+msgctxt "List of my accounts"
 msgid "List of my accounts"
 msgstr "Λίστα των λογαριασμών μου"
 
-#: el/admin.csv:23
+msgctxt "List of your users"
 msgid "List of your users"
 msgstr "Λίστα των χρηστών σας"
 
-#: el/admin.csv:24
+msgctxt "Log-in As"
 msgid "Log-in As"
 msgstr "Συνδεθείτε ώς"
 
-#: el/admin.csv:25
+msgctxt "Manage access"
 msgid "Manage access"
 msgstr "Διαχείριση πρόσβασης"
 
-#: el/admin.csv:26
+msgctxt "My Applications"
 msgid "My Applications"
 msgstr "Οι εφαρμογές μου"
 
-#: el/admin.csv:27
+msgctxt "My information"
 msgid "My information"
 msgstr "Οι πληροφορίες μου"
 
-#: el/admin.csv:28
-msgid "My informations"
-msgstr "Οι πληροφορίες μου"
-
-#: el/admin.csv:29
+msgctxt "Need some help?"
 msgid "Need some help?"
 msgstr "Χρειάζεστε κάποια βοήθεια?"
 
-#: el/admin.csv:30
+msgctxt "New user registration on your platform"
+msgid "New user registration on your platform"
+msgstr ""
+
+msgctxt "No account for now."
+msgid "No account for now."
+msgstr ""
+
+msgctxt "Please enter a valid email address."
 msgid "Please enter a valid email address."
 msgstr "Παρακαλώ εισάγετε ένα έγκυρο E-mail."
 
-#: el/admin.csv:31
+msgctxt "Please, enter an application name"
 msgid "Please, enter an application name"
 msgstr "Παρακαλώ, εισάγετε όνομα εφαρμογής"
 
-#: el/admin.csv:32
+msgctxt "Publication access type"
+msgid "Publication access type"
+msgstr ""
+
+msgctxt "Ready to create your own apps?"
 msgid "Ready to create your own apps?"
 msgstr "Είστε έτοιμοι να δημιουργήσετε τις δικές σας εφαρμογές?"
 
-#: el/admin.csv:33
+msgctxt "Role"
+msgid "Role"
+msgstr ""
+
+msgctxt "Show All Applications"
+msgid "Show All Applications"
+msgstr ""
+
+msgctxt "Sign up"
 msgid "Sign up"
 msgstr "Εγγραφή"
 
-#: el/admin.csv:34
+msgctxt "Sorry but an error occured while duplicating your application."
+msgid "Sorry but an error occured while duplicating your application."
+msgstr ""
+
+msgctxt "State/Province"
+msgid "State/Province"
+msgstr ""
+
+msgctxt "Thanks for choosing us!"
 msgid "Thanks for choosing us!"
 msgstr "Ευχαριστούμε που μας επιλέξατε!"
 
-#: el/admin.csv:35
+msgctxt "The Support Team"
 msgid "The Support Team"
 msgstr "Ομάδα Υποστήριξης"
 
-#: el/admin.csv:36
+msgctxt "The account role is required"
+msgid "The account role is required"
+msgstr ""
+
+msgctxt "The password and the confirmation does not match."
 msgid "The password and the confirmation does not match."
 msgstr "Ο Κωδικός και η επιβεβαίωση Κωδικού δεν ταιριάζουν."
 
-#: el/admin.csv:37
+msgctxt "The password must be at least 6 characters."
 msgid "The password must be at least 6 characters."
 msgstr "Ο Κωδικός σας πρέπει να περιλαμβάνει τουλάχιστον 6 χαρακτήρες."
 
-#: el/admin.csv:38
+msgctxt "This account is not activated yet. Please contact an administrator."
+msgid "This account is not activated yet. Please contact an administrator."
+msgstr ""
+
+msgctxt "This admin can manage guided tour from editor"
+msgid "This admin can manage guided tour from editor"
+msgstr ""
+
+msgctxt "This user has no applications yet."
+msgid "This user has no applications yet."
+msgstr ""
+
+msgctxt "User successfully deleted"
+msgid "User successfully deleted"
+msgstr ""
+
+msgctxt "View my current data"
+msgid "View my current data"
+msgstr ""
+
+msgctxt "We are sorry but this email address is already used."
 msgid "We are sorry but this email address is already used."
 msgstr "Λυπούμαστε, αλλά αυτό το E-mail χρησιμοποιείται ήδη."
 
-#: el/admin.csv:39
+msgctxt "Welcome!"
 msgid "Welcome!"
 msgstr "Καλώς ήρθατε!"
 
-#: el/admin.csv:40
-msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
-msgstr "Θα το αγαπήσετε! Χάρη στα αποτελεσματικά μας χαρακτηριστικά, θα είστε σε θέση να δημιουργήσετε σπουδαίες εφαρμογές για κινητά, μέσα σε λίγα λεπτά."
+msgctxt ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
+msgid ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
+msgstr ""
+"Θα το αγαπήσετε! Χάρη στα αποτελεσματικά μας χαρακτηριστικά, θα είστε σε "
+"θέση να δημιουργήσετε σπουδαίες εφαρμογές για κινητά, μέσα σε λίγα λεπτά."
 
-#: el/admin.csv:41
+msgctxt "You can't delete the main account"
 msgid "You can't delete the main account"
 msgstr "Δεν μπορείτε να διαγράψετε τον κύριο λογαριασμό"
 
-#: el/admin.csv:42
+msgctxt "You don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Δεν έχετε ακόμη χρήστες"
 
-#: el/admin.csv:43
+msgctxt "Your account have been created successfully. It will be activated soon."
+msgid "Your account have been created successfully. It will be activated soon."
+msgstr ""
+
+msgctxt "Your credentials"
 msgid "Your credentials"
 msgstr "Τα στοιχεία εισόδου σας"
 
-#: el/admin.csv:44
+msgctxt "Your login:"
 msgid "Your login:"
 msgstr "Είσοδος:"
 
-#: el/admin.csv:45
+msgctxt "Your password:"
 msgid "Your password:"
 msgstr "Κωδικός:"
+
+msgctxt "Zip Code"
+msgid "Zip Code"
+msgstr ""
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr "%s - Ο νέος σας Κωδικός"
+
+msgctxt "to"
+msgid "to"
+msgstr ""

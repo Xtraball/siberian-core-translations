@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10 16:54+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/sales/fr/>"
 "\n"
 "Language: fr\n"
@@ -14,105 +14,62 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/sales.csv:1
-msgid "Action"
-msgstr "Action"
-
-#: fr/sales.csv:2
-msgid "App Name"
-msgstr "Nom Application"
-
-#: fr/sales.csv:3
-msgid "Client"
-msgstr "Client"
-
-#: fr/sales.csv:4
-msgid "Date"
-msgstr "Date"
-
-#: fr/sales.csv:5
-msgid "Invoice"
-msgstr "Facture"
-
-#: fr/sales.csv:6
-msgid "Invoice %s"
-msgstr "Facture %s"
-
-#: fr/sales.csv:7
-msgid "Invoice N°"
-msgstr "Facture N°"
-
-#: fr/sales.csv:8
-msgid "List of your invoices"
-msgstr "Liste de vos factures"
-
-#: fr/sales.csv:9
-msgid "My Invoices"
-msgstr "Mes Factures"
-
-#: fr/sales.csv:10
-msgid "Order"
-msgstr "Commande"
-
-#: fr/sales.csv:11
-msgid "Orders"
-msgstr "Commandes"
-
-#: fr/sales.csv:12
-msgid "Paid At"
-msgstr "Payé à"
-
-#: fr/sales.csv:13
-msgid "Paid at:"
-msgstr "Payé à :"
-
-#: fr/sales.csv:14
-msgid "Price Excl. Tax"
-msgstr "Prix HT"
-
-#: fr/sales.csv:15
-msgid "Qty"
-msgstr "Qte"
-
-#: fr/sales.csv:16
-msgid "This feature is not ready yet. Please try again later."
-msgstr "Cette fonctionnalité n'est pas encore prête. Merci de réessayer plus tard."
-
-#: fr/sales.csv:17
-msgid "Total Excl. Tax"
-msgstr "Total HT"
-
-#: fr/sales.csv:18
-msgid "You don't have any invoices yet"
-msgstr "Vous n'avez pas encore de factures"
-
+msgctxt "Activate VAT number check with VIES"
 msgid "Activate VAT number check with VIES"
 msgstr "Activer la vérification du numéro de TVA avec VIES"
 
+msgctxt "Add a custom text to the footer of your invoices"
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Ajouter un texte personnalisé au pied de page de vos factures"
 
+msgctxt "Invoice options"
 msgid "Invoice options"
 msgstr "Options de facturation"
 
+msgctxt "Offline plans"
 msgid "Offline plans"
 msgstr "Plans hors ligne"
 
+msgctxt "Paid at:"
+msgid "Paid at:"
+msgstr "Payé à :"
+
+msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Mode de paiement"
 
+msgctxt "Price Excl. Tax"
+msgid "Price Excl. Tax"
+msgstr "Prix HT"
+
+msgctxt "Sales configuration"
 msgid "Sales configuration"
 msgstr "Configuration des ventes"
 
-msgid "This message will be displayed as a waiting message when your users chose an offline payment method"
+msgctxt ""
+"This message will be displayed as a waiting message when your users chose an "
+"offline payment method"
+msgid ""
+"This message will be displayed as a waiting message when your users chose an "
+"offline payment method"
 msgstr ""
 "Ce message sera affiché en tant que message d'attente lorsque vos "
 "utilisateurs ont choisi une méthode de paiement hors ligne"
 
-msgid "This message will be displayed as an information message to describe which offline payment method you offer"
+msgctxt ""
+"This message will be displayed as an information message to describe which "
+"offline payment method you offer"
+msgid ""
+"This message will be displayed as an information message to describe which "
+"offline payment method you offer"
 msgstr ""
 "Ce message sera affiché comme un message d'information pour décrire le mode "
 "de paiement hors ligne que vous offrez"
 
+msgctxt "Total Excl. Tax"
+msgid "Total Excl. Tax"
+msgstr "Total HT"
+
+msgctxt "VAT check options"
 msgid "VAT check options"
 msgstr "Options de vérification de la TVA"

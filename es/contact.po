@@ -1,90 +1,81 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/contact/"
+"es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/contact.csv:1
-msgid "Contact informations"
-msgstr "Información de contacto"
-
-#: es/contact.csv:2
-msgid "Website"
-msgstr "Página Web"
-
-#: es/contact.csv:3
-msgid "Insert a <br /><span class=\"bold\">cover image</span>"
-msgstr "insertar una <br /><span class=\"bold\">imagen de la portada</span>"
-
-#: es/contact.csv:4
-msgid "Are you sure you want to remove the picture?"
-msgstr "¿Está seguro de eliminar la imagen?"
-
-#: es/contact.csv:5
-msgid "SEND"
-msgstr "ENVIAR"
-
-#: es/contact.csv:6
-msgid "Your name"
-msgstr "Su Nombre"
-
-#: es/contact.csv:7
-msgid "Your email"
-msgstr "Su e-mail"
-
-#: es/contact.csv:8
-msgid "Your request"
-msgstr "Su pedido"
-
-#: es/contact.csv:9
-msgid "Your request:"
-msgstr "Su pedido :"
-
-#: es/contact.csv:10
-msgid "Thank you for your request. We'll answer you as soon as possible."
-msgstr "Muchas gracias por su mensaje, le responderemos lo más pronto posible."
-
-#: es/contact.csv:11
-msgid "An error occurred while sending your message. We apologize and ask you to try later."
-msgstr "Se produjo un error al enviar su mensaje. Por favor inténtelo de nuevo más tarde."
-
-#: es/contact.csv:12
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Un error ha surgido al guardar sus datos de contacto."
 
-#: es/contact.csv:13
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
-msgstr "Un error ha surgido durante el envío de su pregunta Por favor inténtelo de nuevo más tarde."
+msgstr ""
+"Un error ha surgido durante el envío de su pregunta Por favor inténtelo de "
+"nuevo más tarde."
 
-#: es/contact.csv:14
-msgid "Please enter properly the following fields: <br />"
-msgstr "Por favor introduzca correctamente estos campos : <br />"
+msgctxt "And his phone number:"
+msgid "And his phone number:"
+msgstr "O por teléfono a"
 
-#: es/contact.csv:15
-msgid "Message from your app %s"
-msgstr "Mensaje desde su app %s"
+msgctxt "Are you sure you want to remove the picture?"
+msgid "Are you sure you want to remove the picture?"
+msgstr "¿Está seguro de eliminar la imagen?"
 
-#: es/contact.csv:16
-msgid "You have received a message from a contact:"
-msgstr "Usted recibió un mensaje de"
+msgctxt "City"
+msgid "City"
+msgstr "Ciudad"
 
-#: es/contact.csv:17
-msgid "Here is his message:"
-msgstr "Esto es su mensaje:"
+msgctxt "Contact information"
+msgid "Contact information"
+msgstr "Información de contacto"
 
-#: es/contact.csv:18
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Usted puede responderle a la dirección siguiente"
 
-#: es/contact.csv:19
-msgid "And his phone number:"
-msgstr "O por teléfono a"
+msgctxt "Here is his message:"
+msgid "Here is his message:"
+msgstr "Esto es su mensaje:"
+
+msgctxt "Please enter properly the following fields: <br />"
+msgid "Please enter properly the following fields: <br />"
+msgstr "Por favor introduzca correctamente estos campos : <br />"
+
+msgctxt "Twitter"
+msgid "Twitter"
+msgstr "Twitter"
+
+msgctxt "Website"
+msgid "Website"
+msgstr "Página Web"
+
+msgctxt "You have received a message from a contact:"
+msgid "You have received a message from a contact:"
+msgstr "Usted recibió un mensaje de"
+
+msgctxt "Your email"
+msgid "Your email"
+msgstr "Su e-mail"
+
+msgctxt "Your message has been sent"
+msgid "Your message has been sent"
+msgstr "Su mensaje ha sido enviado"
+
+msgctxt "Your request"
+msgid "Your request"
+msgstr "Su pedido"
+
+msgctxt "Zip code"
+msgid "Zip code"
+msgstr "Código Postal"

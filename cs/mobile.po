@@ -1,15 +1,541 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/mobile/cs/>"
+"\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Access my personal data"
+msgid "Access my personal data"
+msgstr ""
+
+msgctxt "Add a comment"
+msgid "Add a comment"
+msgstr "Přidat komentář"
+
+msgctxt "Add image"
+msgid "Add image"
+msgstr "Přidat obrázek"
+
+msgctxt "Add to address book"
+msgid "Add to address book"
+msgstr "Přidat do kontaktů"
+
+msgctxt "Address"
+msgid "Address"
+msgstr "Adresa"
+
+msgctxt "Albums"
+msgid "Albums"
+msgstr "Alba"
+
+msgctxt "An error occurred while loading the media."
+msgid "An error occurred while loading the media."
+msgstr "Při nahrávání došlo k chybě"
+
+msgctxt "An error occurred while loading the radio."
+msgid "An error occurred while loading the radio."
+msgstr "Při nahrávání došlo k chybě"
+
+msgctxt "An error occurred while reading the code."
+msgid "An error occurred while reading the code."
+msgstr "Při nahrávání došlo k chybě"
+
+msgctxt "An unexpected error occurred while calculating the route."
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Při vypočítávání cesty došlo k chybě"
+
+msgctxt "Application is Locked"
+msgid "Application is Locked"
+msgstr ""
+
+msgctxt "Buffering"
+msgid "Buffering"
+msgstr ""
+
+msgctxt "Buy Tickets"
+msgid "Buy Tickets"
+msgstr "Koupit vstupenku"
+
+msgctxt "Buy tickets"
+msgid "Buy tickets"
+msgstr "Koupit vstupenku"
+
+msgctxt "CVC ***"
+msgid "CVC ***"
+msgstr ""
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgctxt "Cancel delete"
+msgid "Cancel delete"
+msgstr ""
+
+msgctxt "Cancel edit"
+msgid "Cancel edit"
+msgstr ""
+
+msgctxt "Civility"
+msgid "Civility"
+msgstr "Oslovení"
+
+msgctxt "Clear"
+msgid "Clear"
+msgstr ""
+
+msgctxt "Click here to log-in"
+msgid "Click here to log-in"
+msgstr "Klikněte zde pro přihlášení"
+
+msgctxt "Close"
+msgid "Close"
+msgstr "Zavřít"
+
+msgctxt "Comment"
+msgid "Comment"
+msgstr "Komentář"
+
+msgctxt "Copy"
+msgid "Copy"
+msgstr "Kopie"
+
+msgctxt "Create an account"
+msgid "Create an account"
+msgstr "Vytvořit účet"
+
+msgctxt "Date and time"
+msgid "Date and time"
+msgstr "Datum a čas"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Smazat"
+
+msgctxt "Delivery address"
+msgid "Delivery address"
+msgstr "Oblast pro doručení"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Popis"
+
+msgctxt "Discount code"
+msgid "Discount code"
+msgstr ""
+
+msgctxt "Dismiss"
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "Done"
+msgid "Done"
+msgstr "Hotovo"
+
+msgctxt "Downloading..."
+msgid "Downloading..."
+msgstr "Stahování..."
+
+msgctxt "EXP"
+msgid "EXP"
+msgstr ""
+
+msgctxt "Email"
+msgid "Email"
+msgstr "E-mail"
+
+msgctxt "Error"
+msgid "Error"
+msgstr "Chyba"
+
+msgctxt "First name / Last name"
+msgid "First name / Last name"
+msgstr "Jméno, Příjmení"
+
+msgctxt "Firstname"
+msgid "Firstname"
+msgstr "Jméno"
+
+msgctxt "Flag"
+msgid "Flag"
+msgstr "Označit"
+
+msgctxt "Forgot your password?"
+msgid "Forgot your password?"
+msgstr "Zapomněli jste heslo?"
+
+msgctxt "Hi. I just found: $1 in the $2 app."
+msgid "Hi. I just found: $1 in the $2 app."
+msgstr ""
+
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
+msgstr "Souhlasím s Ochranou osobních údajů"
+
+msgctxt "I just found this discount $1 in $2 app."
+msgid "I just found this discount $1 in $2 app."
+msgstr ""
+
+msgctxt "Identity"
+msgid "Identity"
+msgstr ""
+
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr ""
+
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr ""
+
+msgctxt "Info"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "Informations"
+msgid "Informations"
+msgstr "Informace"
+
+msgctxt "Invoicing address"
+msgid "Invoicing address"
+msgstr ""
+
+msgctxt "Lastname"
+msgid "Lastname"
+msgstr "Příjmení"
+
+msgctxt "Like"
+msgid "Like"
+msgstr "Like"
+
+msgctxt "Loading"
+msgid "Loading"
+msgstr "Nahrávám"
+
+msgctxt "Locate"
+msgid "Locate"
+msgstr "MAPA"
+
+msgctxt "Location"
+msgid "Location"
+msgstr "Místo"
+
+msgctxt "Log-in"
+msgid "Log-in"
+msgstr "Přihlásit se"
+
+msgctxt "Login error"
+msgid "Login error"
+msgstr ""
+
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr "Přihlásit přes Facebook"
+
+msgctxt "Map"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "Miss"
+msgid "Miss"
+msgstr "Slečna"
+
+msgctxt "Mr"
+msgid "Mr"
+msgstr "Pan"
+
+msgctxt "Mrs"
+msgid "Mrs"
+msgstr "Paní"
+
+msgctxt "My account"
+msgid "My account"
+msgstr "Můj účet"
+
+msgctxt "New Post"
+msgid "New Post"
+msgstr "Nová zpráva"
+
+msgctxt "Nickname"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "No comments for now."
+msgid "No comments for now."
+msgstr "Zatím žádné komentáře"
+
+msgctxt "No form available"
+msgid "No form available"
+msgstr "Nemáte žádnou věrností kartu"
+
+msgctxt "No images found"
+msgid "No images found"
+msgstr "Nic nenalezeno"
+
+msgctxt "No items found"
+msgid "No items found"
+msgstr "Nic nenalezeno"
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr ""
+
+msgctxt "Notes"
+msgid "Notes"
+msgstr ""
+
+msgctxt "Notification"
+msgid "Notification"
+msgstr "Oznámení"
+
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "Počet lidí"
+
+msgctxt "OK"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "Offline mode"
+msgid "Offline mode"
+msgstr ""
+
+msgctxt "Ok"
+msgid "Ok"
+msgstr ""
+
+msgctxt "Open link"
+msgid "Open link"
+msgstr ""
+
+msgctxt "Or with your account"
+msgid "Or with your account"
+msgstr "Nebo pomocí Vašeho účtu"
+
+msgctxt "Order Details"
+msgid "Order Details"
+msgstr "Detail objednávky"
+
+msgctxt "Overview"
+msgid "Overview"
+msgstr ""
+
+msgctxt "Password"
+msgid "Password"
+msgstr "Heslo"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Telefon"
+
+msgctxt "Photos"
+msgid "Photos"
+msgstr "Fotografie"
+
+msgctxt "Playlists"
+msgid "Playlists"
+msgstr "Seznam skladeb"
+
+msgctxt "Please enter a valid email address"
+msgid "Please enter a valid email address"
+msgstr "Zadejte prosím platnou e-mailovou adresu"
+
+msgctxt "Please enter your email address."
+msgid "Please enter your email address."
+msgstr "Prosím, zadejte svou e-mailovou adresu"
+
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
+msgstr "Prosím, zadejte svou e-mailovou adresu. Zašleme Vám nové heslo"
+
+msgctxt "Please wait..."
+msgid "Please wait..."
+msgstr "Čekejte prosím"
+
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "Podcast"
+
+msgctxt "Prices"
+msgid "Prices"
+msgstr "Ceny"
+
+msgctxt "Privacy"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "Privacy Policy"
+msgid "Privacy Policy"
+msgstr "Ochrana osobních údajů"
+
+msgctxt "Pull to refresh..."
+msgid "Pull to refresh..."
+msgstr ""
+
+msgctxt "RSVP"
+msgid "RSVP"
+msgstr "RSVP"
+
+msgctxt "Read all"
+msgid "Read all"
+msgstr "Zobrazit vše"
+
+msgctxt "Scan result"
+msgid "Scan result"
+msgstr "Výsledky"
+
+msgctxt "See details"
+msgid "See details"
+msgstr ""
+
+msgctxt "Send"
+msgid "Send"
+msgstr "ODESLAT"
+
+msgctxt "Send contact request"
+msgid "Send contact request"
+msgstr ""
+
+msgctxt "Show me in ranking"
+msgid "Show me in ranking"
+msgstr "Ukázat v žebříčku"
+
+msgctxt "Success"
+msgid "Success"
+msgstr ""
+
+msgctxt "Tap to download in background"
+msgid "Tap to download in background"
+msgstr ""
+
+msgctxt "Terms & Conditions"
+msgid "Terms & Conditions"
+msgstr "Podmínky použití"
+
+msgctxt "The address you're looking for does not exists."
+msgid "The address you're looking for does not exists."
+msgstr "Adresa, kterou hledáte, neexistuje"
+
+msgctxt "The sign in flow was canceled"
+msgid "The sign in flow was canceled"
+msgstr ""
+
+msgctxt "There is no route available with these informations."
+msgid "There is no route available with these informations."
+msgstr ""
+
+msgctxt "This application is no longer available"
+msgid "This application is no longer available"
+msgstr "Aplikace již není dostupná"
+
+msgctxt "This feature is disabled in this preview"
+msgid "This feature is disabled in this preview"
+msgstr ""
+
+msgctxt "This feature is not available in offline mode!"
+msgid "This feature is not available in offline mode!"
+msgstr ""
+
+msgctxt "This field is required"
+msgid "This field is required"
+msgstr "Toto pole je povinné"
+
+msgctxt "This will open the code scan camera on your device."
+msgid "This will open the code scan camera on your device."
+msgstr ""
+
+msgctxt "Title"
+msgid "Title"
+msgstr "Oslovení"
+
+msgctxt "Tracks"
+msgid "Tracks"
+msgstr "Skladby"
+
+msgctxt "Triple tap to close the preview"
+msgid "Triple tap to close the preview"
+msgstr ""
+
+msgctxt "Use this coupon"
+msgid "Use this coupon"
+msgstr "Použijte tento kupón"
+
+msgctxt "Valid Until"
+msgid "Valid Until"
+msgstr "Platí do"
+
+msgctxt "View"
+msgid "View"
+msgstr "Náhled"
+
+msgctxt ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgid ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgstr "Omlouváme se. Tato aplikace byla vypnuta."
+
+msgctxt "Website"
+msgid "Website"
+msgstr "Webová stránka"
+
+msgctxt "We'll send you your password right now."
+msgid "We'll send you your password right now."
+msgstr ""
+
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgid ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgstr ""
+"Chybné heslo.<br />Buďte opatrní! %d zbývající pokusy%s před zablokováním "
+"karty.<br /> Požádejte personál o zadání hesla k ověření bodu"
+
+msgctxt "XXXX XXXX XXXX"
+msgid "XXXX XXXX XXXX"
+msgstr ""
+
+msgctxt "You must fill at least one field!"
+msgid "You must fill at least one field!"
+msgstr ""
+
+msgctxt "Your comment"
+msgid "Your comment"
+msgstr "Váš komentář"
+
+msgctxt ""
+"Your location could not be found because your application doesn't use SSL."
+msgid ""
+"Your location could not be found because your application doesn't use SSL."
+msgstr ""
+
+msgctxt "followers"
+msgid "followers"
+msgstr ""
+
+msgctxt "following"
+msgid "following"
+msgstr ""
+
+msgctxt "track"
+msgid "track"
+msgstr "skladba"
+
+msgctxt "tracks"
+msgid "tracks"
+msgstr "skladby"

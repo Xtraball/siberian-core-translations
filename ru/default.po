@@ -1,1110 +1,4091 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/default/"
+"ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/default.csv:1
-msgid "%s ago"
-msgstr "%s назад"
+msgctxt "10 seconds"
+msgid "10 seconds"
+msgstr "секунд"
 
-#: ru/default.csv:2
+msgctxt "15 seconds"
+msgid "15 seconds"
+msgstr "секунд"
+
+msgctxt "20 seconds"
+msgid "20 seconds"
+msgstr "секунд"
+
+msgctxt "2Checkout"
+msgid "2Checkout"
+msgstr ""
+
+msgctxt "30 seconds"
+msgid "30 seconds"
+msgstr "секунд"
+
+msgctxt "404, page not found"
 msgid "404, page not found"
 msgstr "404, страница не найдена"
 
-#: ru/default.csv:3
+msgctxt "A step requires at least a title and a text."
+msgid "A step requires at least a title and a text."
+msgstr ""
+
+msgctxt "API"
+msgid "API"
+msgstr "APIs"
+
+msgctxt "APIs"
 msgid "APIs"
 msgstr "APIs"
 
-#: ru/default.csv:4
+msgctxt "APK Generator Service"
+msgid "APK Generator Service"
+msgstr ""
+
+msgctxt "APK Generator advanced settings"
+msgid "APK Generator advanced settings"
+msgstr ""
+
+msgctxt "APK Generator for builds from the Editor (Local or Service)"
+msgid "APK Generator for builds from the Editor (Local or Service)"
+msgstr ""
+
+msgctxt "Access Management"
+msgid "Access Management"
+msgstr ""
+
+msgctxt "Account"
+msgid "Account"
+msgstr "Аккаунт"
+
+msgctxt "Accounts"
 msgid "Accounts"
 msgstr "Аккаунт"
 
-#: ru/default.csv:5
+msgctxt "Acl"
+msgid "Acl"
+msgstr ""
+
+msgctxt "Actions"
 msgid "Actions"
 msgstr "Действие"
 
-#: ru/default.csv:6
+msgctxt "Activate"
+msgid "Activate"
+msgstr "Активен"
+
+msgctxt "Activity"
+msgid "Activity"
+msgstr ""
+
+msgctxt "AdMob Banner ID"
+msgid "AdMob Banner ID"
+msgstr ""
+
+msgctxt "AdMob Interstitial ID"
+msgid "AdMob Interstitial ID"
+msgstr ""
+
+msgctxt "Add"
 msgid "Add"
 msgstr "Добавлять"
 
-#: ru/default.csv:7
+msgctxt "Add Image"
+msgid "Add Image"
+msgstr "Добавить фото"
+
+msgctxt "Add a"
 msgid "Add a"
 msgstr "Добавить"
 
-#: ru/default.csv:8
+msgctxt "Add a page"
+msgid "Add a page"
+msgstr "Добавить страницу"
+
+msgctxt "Add a picture"
+msgid "Add a picture"
+msgstr "Добавить фотографию"
+
+msgctxt "Add content"
+msgid "Add content"
+msgstr ""
+
+msgctxt "Add extension"
+msgid "Add extension"
+msgstr ""
+
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr ""
+
+msgctxt "Add image"
 msgid "Add image"
 msgstr "Добавить фото"
 
-#: ru/default.csv:9
+msgctxt "Add new upload extensions."
+msgid "Add new upload extensions."
+msgstr ""
+
+msgctxt "Address"
 msgid "Address"
 msgstr "Адрес"
 
-#: ru/default.csv:10
+msgctxt "Address (more)"
+msgid "Address (more)"
+msgstr ""
+
+msgctxt "Addresses"
+msgid "Addresses"
+msgstr ""
+
+msgctxt "Admin"
+msgid "Admin"
+msgstr ""
+
+msgctxt "Admin panel type"
+msgid "Admin panel type"
+msgstr ""
+
+msgctxt "Admob Banner ID"
+msgid "Admob Banner ID"
+msgstr ""
+
+msgctxt "Admob Interstitial ID"
+msgid "Admob Interstitial ID"
+msgstr ""
+
+msgctxt "Advanced options"
+msgid "Advanced options"
+msgstr ""
+
+msgctxt ""
+"After validating, you will be redirected to the 2Checkout checkout page."
+msgid ""
+"After validating, you will be redirected to the 2Checkout checkout page."
+msgstr ""
+
+msgctxt "After validating, you will be redirected to the PayPal checkout page."
+msgid "After validating, you will be redirected to the PayPal checkout page."
+msgstr ""
+
+msgctxt "Alert: The SSL Certificate %s automatic renewal failed."
+msgid "Alert: The SSL Certificate %s automatic renewal failed."
+msgstr ""
+
+msgctxt "Alignment"
+msgid "Alignment"
+msgstr "Выравнивание:"
+
+msgctxt "All data"
+msgid "All data"
+msgstr ""
+
+msgctxt "All items"
 msgid "All items"
 msgstr "Все детали"
 
-#: ru/default.csv:11
+msgctxt "All user list"
+msgid "All user list"
+msgstr ""
+
+msgctxt "Allow users to export features"
+msgid "Allow users to export features"
+msgstr ""
+
+msgctxt "Allow users to import features"
+msgid "Allow users to import features"
+msgstr ""
+
+msgctxt "Allowed upload extensions."
+msgid "Allowed upload extensions."
+msgstr ""
+
+msgctxt "An error occurred during process. Please try again later."
 msgid "An error occurred during process. Please try again later."
-msgstr "Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
+msgstr ""
+"Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
 
-#: ru/default.csv:12
+msgctxt "An error occurred during process.<br />Please try again later."
+msgid "An error occurred during process.<br />Please try again later."
+msgstr ""
+"Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
+
+msgctxt "An error occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
-msgstr "Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
+msgstr ""
+"Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
 
-#: ru/default.csv:13
-msgid "An error occurred while loading places."
-msgstr "Произошла ошибка при загрузке места."
+msgctxt "An error occurred while editing your invoice : can't find order"
+msgid "An error occurred while editing your invoice : can't find order"
+msgstr ""
 
-#: ru/default.csv:14
+msgctxt "An error occurred while loading. Please try again later."
 msgid "An error occurred while loading. Please try again later."
 msgstr "Произошла ошибка при загрузке. Пожалуйста, повторите попытку позже."
 
-#: ru/default.csv:15
-msgid "An error occurred while loading. Please, try again later."
-msgstr "Произошла ошибка при загрузке. Пожалуйста, повторите попытку позже."
+msgctxt "An error occurred while loading places."
+msgid "An error occurred while loading places."
+msgstr "Произошла ошибка при загрузке места."
 
-#: ru/default.csv:16
+msgctxt "An error occurred while processing your payment."
+msgid "An error occurred while processing your payment."
+msgstr "Произошла ошибка при удалении события"
+
+msgctxt "An error occurred while saving"
 msgid "An error occurred while saving"
 msgstr "Произошла ошибка при сохранении"
 
-#: ru/default.csv:17
-msgid "An error occurred while saving your account. Please try again later."
-msgstr "Произошла ошибка при сохранении вашего аккаунта. Пожалуйста, повторите попытку позже."
-
-#: ru/default.csv:18
-msgid "An error occurred while saving your picture. Please try againg later."
-msgstr "Произошла ошибка при сохранении вашего аккаунта. Пожалуйста, повторите попытку позже."
-
-#: ru/default.csv:19
+msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
 
-#: ru/default.csv:20
-msgid "An error occurred while saving. Please, try again later."
-msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
+msgctxt "An error occurred while saving your account. Please try again later."
+msgid "An error occurred while saving your account. Please try again later."
+msgstr ""
+"Произошла ошибка при сохранении вашего аккаунта. Пожалуйста, повторите "
+"попытку позже."
 
-#: ru/default.csv:21
+msgctxt "An error occurred while saving your picture. Please try again later."
+msgid "An error occurred while saving your picture. Please try again later."
+msgstr ""
+"Произошла ошибка при сохранении вашего аккаунта. Пожалуйста, повторите "
+"попытку позже."
+
+msgctxt "An error occurred while uploading your file. Please, try again later."
 msgid "An error occurred while uploading your file. Please, try again later."
-msgstr "Произошла ошибка при загрузке файла. Пожалуйста, повторите попытку позже."
+msgstr ""
+"Произошла ошибка при загрузке файла. Пожалуйста, повторите попытку позже."
 
-#: ru/default.csv:22
+msgctxt "An unexpected error occurred while calculating the route."
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Произошла непредвиденная ошибка при расчете маршрута."
 
-#: ru/default.csv:23
+msgctxt "An unknown error occurred while creating the push notification."
+msgid "An unknown error occurred while creating the push notification."
+msgstr ""
+
+msgctxt "An unknown error occurred while issue-ing your certificate."
+msgid "An unknown error occurred while issue-ing your certificate."
+msgstr ""
+
+msgctxt "An unknown error occurred while loading the page."
+msgid "An unknown error occurred while loading the page."
+msgstr ""
+
+msgctxt "Android APK"
+msgid "Android APK"
+msgstr ""
+
+msgctxt "Android SDK is not installed"
+msgid "Android SDK is not installed"
+msgstr ""
+
+msgctxt "Android Source"
+msgid "Android Source"
+msgstr ""
+
+msgctxt "Android Spinner"
+msgid "Android Spinner"
+msgstr ""
+
+msgctxt "Android base Package Name can't be empty."
+msgid "Android base Package Name can't be empty."
+msgstr ""
+
+msgctxt "Android base Package Name must contain only letters, dots & minus."
+msgid "Android base Package Name must contain only letters, dots & minus."
+msgstr ""
+
+msgctxt ""
+"Android base Package Name must contain only letters, dots & minus with at "
+"least two dots.<br />Example: com.mydomain.admin"
+msgid ""
+"Android base Package Name must contain only letters, dots & minus with at "
+"least two dots.<br />Example: com.mydomain.admin"
+msgstr ""
+
+msgctxt "Android only"
+msgid "Android only"
+msgstr ""
+
+msgctxt "Answers"
+msgid "Answers"
+msgstr ""
+
+msgctxt "App"
+msgid "App"
+msgstr ""
+
+msgctxt "App analytics"
+msgid "App analytics"
+msgstr ""
+
+msgctxt "App id"
+msgid "App id"
+msgstr ""
+
+msgctxt "Appearance"
 msgid "Appearance"
 msgstr "Логотип"
 
-#: ru/default.csv:24
+msgctxt "Apple Development teams"
+msgid "Apple Development teams"
+msgstr ""
+
+msgctxt "Application"
 msgid "Application"
 msgstr "Приложение"
 
-#: ru/default.csv:25
+msgctxt "Application Name"
 msgid "Application Name"
 msgstr "Имя приложения"
 
-#: ru/default.csv:26
+msgctxt "Application base Bundle ID (iOS)"
+msgid "Application base Bundle ID (iOS)"
+msgstr ""
+
+msgctxt "Application base Package Name (Android)"
+msgid "Application base Package Name (Android)"
+msgstr ""
+
+msgctxt "Applications"
 msgid "Applications"
 msgstr "Приложения"
 
-#: ru/default.csv:27
+msgctxt "Are you sure you want to delete this admin?"
+msgid "Are you sure you want to delete this admin?"
+msgstr "Вы уверены, что хотите удалить этот альбом?"
+
+msgctxt "Are you sure you want to delete this element?"
 msgid "Are you sure you want to delete this element?"
 msgstr "Вы уверены, что хотите удалить этот элемент?"
 
-#: ru/default.csv:28
+msgctxt "Are you sure you want to delete this invoice?"
+msgid "Are you sure you want to delete this invoice?"
+msgstr "Вы уверены, что хотите удалить этот магазин?"
+
+msgctxt "Are you sure you want to delete this subscription?"
+msgid "Are you sure you want to delete this subscription?"
+msgstr "Вы уверены, что хотите удалить это приложение?"
+
+msgctxt "Are you sure you want to remove this account?"
 msgid "Are you sure you want to remove this account?"
 msgstr "Вы уверены, что хотите удалить этот аккаунт?"
 
-#: ru/default.csv:29
-msgid "Authentication failed. Please check your email and/or your password"
-msgstr "Ошибка аутентификации. Пожалуйста, проверьте свою электронную почту или пароль"
+msgctxt "Artist"
+msgid "Artist"
+msgstr "Исполнитель"
 
-#: ru/default.csv:30
+msgctxt "At least, 1 page in the application"
+msgid "At least, 1 page in the application"
+msgstr "По крайней мере должны быть 4 страницы в приложении"
+
+msgctxt ""
+"At least one <b>published</b> application is required in order to use global "
+"push notifications."
+msgid ""
+"At least one <b>published</b> application is required in order to use global "
+"push notifications."
+msgstr ""
+
+msgctxt "Attachment"
+msgid "Attachment"
+msgstr ""
+
+msgctxt "Audio"
+msgid "Audio"
+msgstr "Аудио"
+
+msgctxt "Authentication failed"
+msgid "Authentication failed"
+msgstr ""
+
+msgctxt "Authentication failed. Please, check the username and/or the password"
+msgid "Authentication failed. Please, check the username and/or the password"
+msgstr ""
+"Ошибка аутентификации. Пожалуйста, проверьте свою электронную почту или "
+"пароль"
+
+msgctxt "Authentication failed. Please check your email and/or your password"
+msgid "Authentication failed. Please check your email and/or your password"
+msgstr ""
+"Ошибка аутентификации. Пожалуйста, проверьте свою электронную почту или "
+"пароль"
+
+msgctxt "Autocomplete & Suggestions ..."
+msgid "Autocomplete & Suggestions ..."
+msgstr ""
+
+msgctxt "Average cart"
+msgid "Average cart"
+msgstr ""
+
+msgctxt "Average for active users"
+msgid "Average for active users"
+msgstr ""
+
+msgctxt "Average for all users"
+msgid "Average for all users"
+msgstr ""
+
+msgctxt "Back"
 msgid "Back"
 msgstr "Назад"
 
-#: ru/default.csv:31
+msgctxt "Back button icon"
+msgid "Back button icon"
+msgstr ""
+
+msgctxt "Background"
 msgid "Background"
 msgstr "Фон"
 
-#: ru/default.csv:32
+msgctxt "Background (landscape)"
+msgid "Background (landscape)"
+msgstr ""
+
+msgctxt "Background (portrait)"
+msgid "Background (portrait)"
+msgstr ""
+
+msgctxt "Backoffice"
+msgid "Backoffice"
+msgstr ""
+
+msgctxt "Bad settings can break your APK Generator, leave empty to use defaults."
+msgid "Bad settings can break your APK Generator, leave empty to use defaults."
+msgstr ""
+
+msgctxt "Banner"
+msgid "Banner"
+msgstr ""
+
+msgctxt "Banner & Interstitial"
+msgid "Banner & Interstitial"
+msgstr ""
+
+msgctxt "Be careful you are working in"
+msgid "Be careful you are working in"
+msgstr ""
+
+msgctxt "Bearer Token"
+msgid "Bearer Token"
+msgstr ""
+
+msgctxt ""
+"Before you can send push notification, you must have at least one of iOS or "
+"Android application in a published state."
+msgid ""
+"Before you can send push notification, you must have at least one of iOS or "
+"Android application in a published state."
+msgstr ""
+
+msgctxt "Booking"
+msgid "Booking"
+msgstr ""
+
+msgctxt "Booking details"
+msgid "Booking details"
+msgstr "Детали бронирования"
+
+msgctxt "Booking::findAction An unknown error occurred, please try again later."
+msgid "Booking::findAction An unknown error occurred, please try again later."
+msgstr ""
+
+msgctxt "Bottom"
+msgid "Bottom"
+msgstr ""
+
+msgctxt "Browse"
 msgid "Browse"
 msgstr "Смотреть"
 
-#: ru/default.csv:33
+msgctxt "Button"
+msgid "Button"
+msgstr ""
+
+msgctxt "Button assertive"
+msgid "Button assertive"
+msgstr ""
+
+msgctxt "Button balanced"
+msgid "Button balanced"
+msgstr ""
+
+msgctxt "Button calm"
+msgid "Button calm"
+msgstr ""
+
+msgctxt "Button dark"
+msgid "Button dark"
+msgstr ""
+
+msgctxt "Button energized"
+msgid "Button energized"
+msgstr ""
+
+msgctxt "Button light"
+msgid "Button light"
+msgstr ""
+
+msgctxt "Button positive"
+msgid "Button positive"
+msgstr ""
+
+msgctxt "Button royal"
+msgid "Button royal"
+msgstr ""
+
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr ""
+
+msgctxt ""
+"By default, popups steps try to use a smart placement. You can force this "
+"placement if needed."
+msgid ""
+"By default, popups steps try to use a smart placement. You can force this "
+"placement if needed."
+msgstr ""
+
+msgctxt "Cache"
+msgid "Cache"
+msgstr ""
+
+msgctxt "Calendar"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "Callback URIs"
+msgid "Callback URIs"
+msgstr ""
+
+msgctxt "Can only be used once"
 msgid "Can only be used once"
 msgstr "Это предложение может быть использовано только один раз."
 
-#: ru/default.csv:34
+msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Отменить"
 
-#: ru/default.csv:35
+msgctxt "Card"
+msgid "Card"
+msgstr "Корзина"
+
+msgctxt "Card Item"
+msgid "Card Item"
+msgstr ""
+
+msgctxt "Careful, someone else is working on this application."
+msgid "Careful, someone else is working on this application."
+msgstr ""
+
+msgctxt "Cart"
 msgid "Cart"
 msgstr "Корзина"
 
-#: ru/default.csv:36
+msgctxt "Catalog"
+msgid "Catalog"
+msgstr "Каталог"
+
+msgctxt ""
+"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgid ""
+"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr ""
+
+msgctxt "Change password"
 msgid "Change password"
 msgstr "Сменить пароль"
 
-#: ru/default.csv:37
+msgctxt "Change your<br /><span class='bold'>picture</span>"
+msgid "Change your<br /><span class='bold'>picture</span>"
+msgstr "Выберите <br /><span class=\"bold\">картинку</span>"
+
+msgctxt "Changing the Application icon requires a rebuild / republication."
+msgid "Changing the Application icon requires a rebuild / republication."
+msgstr ""
+
+msgctxt "Changing this option requires you to republish your iOS application."
+msgid "Changing this option requires you to republish your iOS application."
+msgstr ""
+
+msgctxt "Checkbox"
+msgid "Checkbox"
+msgstr "Флажок"
+
+msgctxt "Checkbox off"
+msgid "Checkbox off"
+msgstr ""
+
+msgctxt "Checkbox on"
+msgid "Checkbox on"
+msgstr "Флажок"
+
+msgctxt "Checking Permissions"
+msgid "Checking Permissions"
+msgstr ""
+
+msgctxt "Choose a file to import:"
+msgid "Choose a file to import:"
+msgstr ""
+
+msgctxt "Choose an object to import:"
+msgid "Choose an object to import:"
+msgstr ""
+
+msgctxt "City"
 msgid "City"
 msgstr "Город"
 
-#: ru/default.csv:38
-msgid "City:"
-msgstr "Город:"
+msgctxt "ClamAV is an optional anti-virus, you can enable it up below."
+msgid "ClamAV is an optional anti-virus, you can enable it up below."
+msgstr ""
 
-#: ru/default.csv:39
+msgctxt "ClamAV settings"
+msgid "ClamAV settings"
+msgstr ""
+
+msgctxt "ClamAV settings have been saved."
+msgid "ClamAV settings have been saved."
+msgstr ""
+
+msgctxt "Click here to log-in"
+msgid "Click here to log-in"
+msgstr ""
+
+msgctxt "Click here to open the application"
+msgid "Click here to open the application"
+msgstr ""
+
+msgctxt "Click on"
+msgid "Click on"
+msgstr "Нажмите на"
+
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Нажмите на странице, чтобы добавить его в папку"
+
+msgctxt "Click on a feature to add it to the folder %s"
+msgid "Click on a feature to add it to the folder %s"
+msgstr "Нажмите на странице, чтобы добавить его в папку"
+
+msgctxt "Click to import your file"
+msgid "Click to import your file"
+msgstr ""
+
+msgctxt "Close"
 msgid "Close"
 msgstr "Закрыть"
 
-#: ru/default.csv:40
+msgctxt "Close mobile display"
+msgid "Close mobile display"
+msgstr "Закрыть моб. дисплей"
+
+msgctxt "CloudFlare is not supported, please use a CNAME."
+msgid "CloudFlare is not supported, please use a CNAME."
+msgstr ""
+
+msgctxt ""
+"CloudFlare is not supported, you must use a CNAME targeting your main domain."
+msgid ""
+"CloudFlare is not supported, you must use a CNAME targeting your main domain."
+msgstr ""
+
+msgctxt "Cms"
+msgid "Cms"
+msgstr "Coms"
+
+msgctxt "Codescan"
+msgid "Codescan"
+msgstr ""
+
+msgctxt "Comment"
 msgid "Comment"
 msgstr "Комментарий"
 
-#: ru/default.csv:41
+msgctxt "Comments"
 msgid "Comments"
 msgstr "Комментарии"
 
-#: ru/default.csv:42
+msgctxt "Commerce"
+msgid "Commerce"
+msgstr ""
+
+msgctxt "Communication"
 msgid "Communication"
 msgstr "Связи"
 
-#: ru/default.csv:43
+msgctxt "Company"
 msgid "Company"
 msgstr "Компания"
 
-#: ru/default.csv:44
+msgctxt "Coms"
 msgid "Coms"
 msgstr "Coms"
 
-#: ru/default.csv:45
+msgctxt "Conditions"
 msgid "Conditions"
 msgstr "Условия"
 
-#: ru/default.csv:46
+msgctxt "Configuration partially saved"
+msgid "Configuration partially saved"
+msgstr ""
+
+msgctxt "Confirm"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "Confirm Password"
 msgid "Confirm Password"
 msgstr "Подтвердите пароль"
 
-#: ru/default.csv:47
+msgctxt "Confirm new password"
 msgid "Confirm new password"
 msgstr "Подтвердите новый пароль"
 
-#: ru/default.csv:48
+msgctxt "Confirmation"
+msgid "Confirmation"
+msgstr ""
+
+msgctxt "Confirmation required"
+msgid "Confirmation required"
+msgstr ""
+
+msgctxt "Connection type"
+msgid "Connection type"
+msgstr ""
+
+msgctxt "Contact"
+msgid "Contact"
+msgstr ""
+
+msgctxt "Contact successfully added to your address book"
 msgid "Contact successfully added to your address book"
 msgstr "Обратный адрес успешно добавлен в вашу адресную книгу"
 
-#: ru/default.csv:49
+msgctxt "Contact us"
+msgid "Contact us"
+msgstr ""
+
+msgctxt "Contest"
+msgid "Contest"
+msgstr ""
+
+msgctxt "Coordinates"
+msgid "Coordinates"
+msgstr ""
+
+msgctxt "Copy"
+msgid "Copy"
+msgstr ""
+
+msgctxt "Copying"
+msgid "Copying"
+msgstr ""
+
+msgctxt "Core"
+msgid "Core"
+msgstr ""
+
+msgctxt "Country"
 msgid "Country"
 msgstr "Страна"
 
-#: ru/default.csv:50
+msgctxt "Cover"
+msgid "Cover"
+msgstr ""
+
+msgctxt "Create"
 msgid "Create"
 msgstr "Создать"
 
-#: ru/default.csv:51
+msgctxt "Create / Edit a User"
+msgid "Create / Edit a User"
+msgstr ""
+
+msgctxt "Create a new account"
 msgid "Create a new account"
 msgstr "Создать новую учетную запись"
 
-#: ru/default.csv:52
+msgctxt "Create an account"
+msgid "Create an account"
+msgstr "Создать аккаунт"
+
+msgctxt "Created at"
 msgid "Created at"
 msgstr "Создано "
 
-#: ru/default.csv:53
+msgctxt "Creator Email"
+msgid "Creator Email"
+msgstr ""
+
+msgctxt "Currency"
 msgid "Currency"
 msgstr "Валюта"
 
-#: ru/default.csv:54
+msgctxt "Current load is"
+msgid "Current load is"
+msgstr ""
+
+msgctxt "Current password"
 msgid "Current password"
 msgstr "Текущий пароль"
 
-#: ru/default.csv:55
+msgctxt "Current status is"
+msgid "Current status is"
+msgstr ""
+
+msgctxt "Custom Page"
+msgid "Custom Page"
+msgstr "Свой"
+
+msgctxt "Customization"
+msgid "Customization"
+msgstr ""
+
+msgctxt "Customization mode activated"
+msgid "Customization mode activated"
+msgstr ""
+
+msgctxt "Customize your app's colors"
+msgid "Customize your app's colors"
+msgstr ""
+
+msgctxt "DEFAULT"
+msgid "DEFAULT"
+msgstr ""
+
+msgctxt "DELETE"
+msgid "DELETE"
+msgstr ""
+
+msgctxt "(DEMO)"
+msgid "(DEMO)"
+msgstr ""
+
+msgctxt "Dashboard"
 msgid "Dashboard"
 msgstr "Панель упр."
 
-#: ru/default.csv:56
+msgctxt "Data saved successfully."
+msgid "Data saved successfully."
+msgstr ""
+
+msgctxt "Date"
+msgid "Date"
+msgstr "Дата"
+
+msgctxt "Date and time"
+msgid "Date and time"
+msgstr "Дата и время"
+
+msgctxt "Date of birth"
 msgid "Date of birth"
 msgstr "Дата рождения"
 
-#: ru/default.csv:57
-msgid "Date of birth:"
-msgstr "Дата рождения:"
+msgctxt "Deactivate"
+msgid "Deactivate"
+msgstr "Не активен"
 
-#: ru/default.csv:58
+msgctxt "Debug"
+msgid "Debug"
+msgstr ""
+
+msgctxt "Debug output"
+msgid "Debug output"
+msgstr ""
+
+msgctxt "Default Languages"
 msgid "Default Languages"
 msgstr "Язык по умолчанию"
 
-#: ru/default.csv:59
+msgctxt "Default role for all new users"
+msgid "Default role for all new users"
+msgstr ""
+
+msgctxt "Default search distance"
+msgid "Default search distance"
+msgstr ""
+
+msgctxt "Delete"
 msgid "Delete"
 msgstr "Удалить"
 
-#: ru/default.csv:60
+msgctxt "Delete a feature"
+msgid "Delete a feature"
+msgstr ""
+
+msgctxt "Delete the Application"
+msgid "Delete the Application"
+msgstr ""
+
+msgctxt "Delete this folder and all its subfolders?"
+msgid "Delete this folder and all its subfolders?"
+msgstr "Удалить эту папку и все вложенные папки?"
+
+msgctxt "Delivered"
+msgid "Delivered"
+msgstr ""
+
+msgctxt "Delivery Cost"
+msgid "Delivery Cost"
+msgstr "Стоимость доставки:"
+
+msgctxt "Delivery method"
+msgid "Delivery method"
+msgstr "Способ доставки"
+
+msgctxt "Description"
 msgid "Description"
 msgstr "Описание"
 
-#: ru/default.csv:61
-msgid "Description:"
-msgstr "Описание:"
-
-#: ru/default.csv:62
+msgctxt "Details"
 msgid "Details"
 msgstr "Подробности"
 
-#: ru/default.csv:63
+msgctxt "Development"
+msgid "Development"
+msgstr ""
+
+msgctxt "Dialog"
+msgid "Dialog"
+msgstr ""
+
+msgctxt "Dialog background"
+msgid "Dialog background"
+msgstr ""
+
+msgctxt "Dialog button"
+msgid "Dialog button"
+msgstr ""
+
+msgctxt "Dialog text"
+msgid "Dialog text"
+msgstr ""
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr ""
+
+msgctxt "Discounts"
+msgid "Discounts"
+msgstr ""
+
+msgctxt "Display pictogram instead of image in map"
+msgid "Display pictogram instead of image in map"
+msgstr ""
+
+msgctxt "Distance unit"
+msgid "Distance unit"
+msgstr ""
+
+msgctxt "Do not export"
+msgid "Do not export"
+msgstr ""
+
+msgctxt ""
+"Do you want to download all the contents now to access it when offline? If "
+"you do, we recommend you to use a WiFi connection."
+msgid ""
+"Do you want to download all the contents now to access it when offline? If "
+"you do, we recommend you to use a WiFi connection."
+msgstr ""
+
+msgctxt "Do you want to return to the homepage?"
+msgid "Do you want to return to the homepage?"
+msgstr ""
+
+msgctxt "Done"
+msgid "Done"
+msgstr ""
+
+msgctxt "Don't close the app while downloading. This may take a while."
+msgid "Don't close the app while downloading. This may take a while."
+msgstr ""
+
+msgctxt "Download APK"
+msgid "Download APK"
+msgstr "Скачать"
+
+msgctxt "Download a copy of my data"
+msgid "Download a copy of my data"
+msgstr ""
+
+msgctxt "Download as zip"
+msgid "Download as zip"
+msgstr ""
+
+msgctxt "Download complete list for this metric"
+msgid "Download complete list for this metric"
+msgstr ""
+
+msgctxt "Download current search as CSV"
+msgid "Download current search as CSV"
+msgstr ""
+
+msgctxt "Download file is not available in DEMO mode."
+msgid "Download file is not available in DEMO mode."
+msgstr ""
+
+msgctxt "Download latest APK"
+msgid "Download latest APK"
+msgstr ""
+
+msgctxt "Download latest sources"
+msgid "Download latest sources"
+msgstr ""
+
+msgctxt "Download list of user who used this discount"
+msgid "Download list of user who used this discount"
+msgstr ""
+
+msgctxt "Download list of user who used this loyalty card"
+msgid "Download list of user who used this loyalty card"
+msgstr ""
+
+msgctxt "Download list of user who used this scratch card"
+msgid "Download list of user who used this scratch card"
+msgstr ""
+
+msgctxt "Download only winner list for this scratch card"
+msgid "Download only winner list for this scratch card"
+msgstr ""
+
+msgctxt "Download the APK"
+msgid "Download the APK"
+msgstr ""
+
+msgctxt "Download the Source code"
+msgid "Download the Source code"
+msgstr ""
+
+msgctxt "Downloading..."
+msgid "Downloading..."
+msgstr ""
+
+msgctxt "Drop your json here"
+msgid "Drop your json here"
+msgstr "Оставьте ваш логотип здесь"
+
+msgctxt "EDIT"
+msgid "EDIT"
+msgstr ""
+
+msgctxt "Edit"
 msgid "Edit"
 msgstr "Редактировать"
 
-#: ru/default.csv:64
+msgctxt "Edit an invoice for this plan"
+msgid "Edit an invoice for this plan"
+msgstr ""
+
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr ""
+
+msgctxt "Edit step for this element"
+msgid "Edit step for this element"
+msgstr ""
+
+msgctxt "Editing"
 msgid "Editing"
 msgstr "Редактирование"
 
-#: ru/default.csv:65
+msgctxt "Editor"
+msgid "Editor"
+msgstr "Редактор"
+
+msgctxt ""
+"Editor note: A user with a given role can only assign Self role (if the role "
+"is SELF-ASSIGNABLE) & Child roles."
+msgid ""
+"Editor note: A user with a given role can only assign Self role (if the role "
+"is SELF-ASSIGNABLE) & Child roles."
+msgstr ""
+
+msgctxt ""
+"Editor note: A user with a given role can only assign self & child roles."
+msgid ""
+"Editor note: A user with a given role can only assign self & child roles."
+msgstr ""
+
+msgctxt "Element n°"
+msgid "Element n°"
+msgstr ""
+
+msgctxt "Email"
 msgid "Email"
 msgstr "Email"
 
-#: ru/default.csv:66
+msgctxt "Email address"
 msgid "Email address"
 msgstr "Адрес электронной почты"
 
-#: ru/default.csv:67
-msgid "Email:"
-msgstr "Email:"
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr ""
 
-#: ru/default.csv:68
+msgctxt "Enable test API ?"
+msgid "Enable test API ?"
+msgstr ""
+
+msgctxt "End at"
 msgid "End at"
 msgstr "Окончание действия"
 
-#: ru/default.csv:69
+msgctxt "End tour"
+msgid "End tour"
+msgstr ""
+
+msgctxt "Enter your twitter handle"
+msgid "Enter your twitter handle"
+msgstr ""
+
+msgctxt "Error"
+msgid "Error"
+msgstr ""
+
+msgctxt "Error : <br/>"
 msgid "Error : <br/>"
 msgstr "Ошибка: <br/>"
 
-#: ru/default.csv:70
+msgctxt "Error on import configuration."
+msgid "Error on import configuration."
+msgstr ""
+
+msgctxt "Errors : <br/>"
 msgid "Errors : <br/>"
 msgstr "Ошибки: <br/>"
 
-#: ru/default.csv:71
+msgctxt "European <b>General Data Protection Regulation (GDPR)</b>"
+msgid "European <b>General Data Protection Regulation (GDPR)</b>"
+msgstr ""
+
+msgctxt "Event"
+msgid "Event"
+msgstr "Событие"
+
+msgctxt "Events"
+msgid "Events"
+msgstr "Событие"
+
+msgctxt "Export / Import"
+msgid "Export / Import"
+msgstr ""
+
+msgctxt ""
+"Export / Import of features is currently in beta and available only with "
+"some features."
+msgid ""
+"Export / Import of features is currently in beta and available only with "
+"some features."
+msgstr ""
+
+msgctxt "Export your customers"
 msgid "Export your customers"
 msgstr "Экспорт клиентов"
 
-#: ru/default.csv:72
+msgctxt "Extension"
+msgid "Extension"
+msgstr ""
+
+msgctxt "Extension can't be empty."
+msgid "Extension can't be empty."
+msgstr ""
+
+msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "Расширение не допускается, '%s' только"
 
-#: ru/default.csv:73
+msgctxt "Extension %s is strictly forbidden."
+msgid "Extension %s is strictly forbidden."
+msgstr ""
+
+msgctxt "Extension: txt, png, jpeg, avi, etc..."
+msgid "Extension: txt, png, jpeg, avi, etc..."
+msgstr ""
+
+msgctxt "Facebook"
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ru/default.csv:74
+msgctxt "Fan Wall"
+msgid "Fan Wall"
+msgstr ""
+
+msgctxt "Fanwall"
+msgid "Fanwall"
+msgstr ""
+
+msgctxt "Feature Analytics"
+msgid "Feature Analytics"
+msgstr ""
+
+msgctxt "Feature Top 5 visits"
+msgid "Feature Top 5 visits"
+msgstr ""
+
+msgctxt "Features"
+msgid "Features"
+msgstr "Функции"
+
+msgctxt "Filter metrics"
+msgid "Filter metrics"
+msgstr ""
+
+msgctxt "Firewall"
+msgid "Firewall"
+msgstr ""
+
+msgctxt "First Name"
+msgid "First Name"
+msgstr "Имя"
+
+msgctxt "First name"
+msgid "First name"
+msgstr "Имя"
+
+msgctxt "First name / Last name"
+msgid "First name / Last name"
+msgstr "Имя / Фамилия"
+
+msgctxt "Firstname"
 msgid "Firstname"
 msgstr "Имя"
 
-#: ru/default.csv:75
-msgid "Firstname:"
-msgstr "Имя:"
+msgctxt "Folder"
+msgid "Folder"
+msgstr "Папки"
 
-#: ru/default.csv:76
-msgid "Forgot your password ?"
+msgctxt "Folder title is required"
+msgid "Folder title is required"
+msgstr "Требуется дать название папки"
+
+msgctxt "Folders"
+msgid "Folders"
+msgstr "Папки"
+
+msgctxt "Folders (v2)"
+msgid "Folders (v2)"
+msgstr ""
+
+msgctxt "Forbidden image format"
+msgid "Forbidden image format"
+msgstr ""
+
+msgctxt "Force request & Upload to panel"
+msgid "Force request & Upload to panel"
+msgstr ""
+
+msgctxt "Forgot your password?"
+msgid "Forgot your password?"
 msgstr "Забыли пароль?"
 
-#: ru/default.csv:77
-msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
-msgstr "Забыли пароль? Не волнуйтесь! Просто введите свой адрес электронной почты, и мы вышлем вам новый прямо сейчас."
+msgctxt ""
+"Forgot your password? Don't worry! Simply enter your email address and we'll "
+"send you a new one right now."
+msgid ""
+"Forgot your password? Don't worry! Simply enter your email address and we'll "
+"send you a new one right now."
+msgstr ""
+"Забыли пароль? Не волнуйтесь! Просто введите свой адрес электронной почты, и "
+"мы вышлем вам новый прямо сейчас."
 
-#: ru/default.csv:78
+msgctxt "Form"
+msgid "Form"
+msgstr ""
+
+msgctxt "Form has the following errors"
+msgid "Form has the following errors"
+msgstr ""
+
+msgctxt "Free until"
+msgid "Free until"
+msgstr ""
+
+msgctxt "From:"
+msgid "From:"
+msgstr ""
+
+msgctxt "Front"
+msgid "Front"
+msgstr ""
+
+msgctxt "GCM settings saved."
+msgid "GCM settings saved."
+msgstr ""
+
+msgctxt "GRADLE extended options"
+msgid "GRADLE extended options"
+msgstr ""
+
+msgctxt "General"
 msgid "General"
 msgstr "Главная"
 
-#: ru/default.csv:79
+msgctxt "Generate"
+msgid "Generate"
+msgstr ""
+
+msgctxt "Generate an invoice for this offline plan by using the form below."
+msgid "Generate an invoice for this offline plan by using the form below."
+msgstr ""
+
+msgctxt "Generate build"
+msgid "Generate build"
+msgstr ""
+
+msgctxt "Generate sources"
+msgid "Generate sources"
+msgstr ""
+
+msgctxt "Global push"
+msgid "Global push"
+msgstr ""
+
+msgctxt "Global push notifications"
+msgid "Global push notifications"
+msgstr ""
+
+msgctxt "Go back"
+msgid "Go back"
+msgstr ""
+
+msgctxt "Google Maps settings"
+msgid "Google Maps settings"
+msgstr ""
+
+msgctxt "HH:mm a"
+msgid "HH:mm a"
+msgstr ""
+
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Привет,"
 
-#: ru/default.csv:80
+msgctxt "Here is your new password:"
 msgid "Here is your new password:"
 msgstr "Вот ваш новый пароль:"
 
-#: ru/default.csv:81
-msgid "How do you want to access the backoffice if you remove the only user remaining?"
-msgstr "Как вы хотите получить доступ к бэк-офис, нужно чтобы остался хотя бы один пользователь?"
+msgctxt "Hi. I just found: $1 in the $2 app."
+msgid "Hi. I just found: $1 in the $2 app."
+msgstr ""
 
-#: ru/default.csv:82
+msgctxt "Hide"
+msgid "Hide"
+msgstr "скрыть"
+
+msgctxt "Hide iOS status bar"
+msgid "Hide iOS status bar"
+msgstr ""
+
+msgctxt "Hint"
+msgid "Hint"
+msgstr ""
+
+msgctxt "Home"
+msgid "Home"
+msgstr ""
+
+msgctxt "Homepage"
+msgid "Homepage"
+msgstr ""
+
+msgctxt "Host"
+msgid "Host"
+msgstr "Хостинг"
+
+msgctxt "Hostnames associated with this Certificate"
+msgid "Hostnames associated with this Certificate"
+msgstr ""
+
+msgctxt ""
+"How do you want to access the backoffice if you remove the only user "
+"remaining?"
+msgid ""
+"How do you want to access the backoffice if you remove the only user "
+"remaining?"
+msgstr ""
+"Как вы хотите получить доступ к бэк-офис, нужно чтобы остался хотя бы один "
+"пользователь?"
+
+msgctxt "ID"
 msgid "ID"
 msgstr "ID"
 
-#: ru/default.csv:83
+msgctxt "IP"
+msgid "IP"
+msgstr ""
+
+msgctxt "IP, example: 127.0.0.1"
+msgid "IP, example: 127.0.0.1"
+msgstr ""
+
+msgctxt "Icons size"
+msgid "Icons size"
+msgstr ""
+
+msgctxt "If user doesn't use AdMob, split revenue will default to 100."
+msgid "If user doesn't use AdMob, split revenue will default to 100."
+msgstr ""
+
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr ""
+
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr ""
+
+msgctxt "Image"
+msgid "Image"
+msgstr ""
+
+msgctxt "Image not high enough, %spx minimum allowed."
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "Изображение не достаточно высокое, %spx минимально допустимое."
 
-#: ru/default.csv:84
-msgid "Image not large enough, %spx minimum allowed."
-msgstr "Изображение не достаточно большое %spx минимально допустимое."
-
-#: ru/default.csv:85
+msgctxt "Image not large enough, '%s' allowed."
 msgid "Image not large enough, '%s' allowed."
 msgstr "Изображение не достаточно большое, '%s' допускается."
 
-#: ru/default.csv:86
+msgctxt "Image not large enough, %spx minimum allowed."
+msgid "Image not large enough, %spx minimum allowed."
+msgstr "Изображение не достаточно большое %spx минимально допустимое."
+
+msgctxt "Image successfully saved"
+msgid "Image successfully saved"
+msgstr "Страница успешно сохранена"
+
+msgctxt "Image too high, %spx maximum allowed."
 msgid "Image too high, %spx maximum allowed."
 msgstr "Изображение слишком высокое, %spx максимально допустимое."
 
-#: ru/default.csv:87
-msgid "Image too large, %spx maximum allowed."
-msgstr "Снимок слишком большой, %spx  максимально допустимое значение."
-
-#: ru/default.csv:88
+msgctxt "Image too large, '%s' allowed."
 msgid "Image too large, '%s' allowed."
 msgstr "Снимок слишком большой, '%s' допускается."
 
-#: ru/default.csv:89
-msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
-msgstr "Для того, чтобы в полной мере насладиться нашими возможностями, мы рекомендуем вам использовать по крайней мере :. <br />"
+msgctxt "Image too large, %spx maximum allowed."
+msgid "Image too large, %spx maximum allowed."
+msgstr "Снимок слишком большой, %spx  максимально допустимое значение."
 
-#: ru/default.csv:90
-msgid "In order to publish your application, we need:<br />- "
+msgctxt "Images"
+msgid "Images"
+msgstr ""
+
+msgctxt "Images opacity"
+msgid "Images opacity"
+msgstr ""
+
+msgctxt "Import"
+msgid "Import"
+msgstr ""
+
+msgctxt "Import a background image"
+msgid "Import a background image"
+msgstr ""
+
+msgctxt "Import a cover image"
+msgid "Import a cover image"
+msgstr ""
+
+msgctxt "Import a single feature."
+msgid "Import a single feature."
+msgstr ""
+
+msgctxt "Import a thumbnail"
+msgid "Import a thumbnail"
+msgstr ""
+
+msgctxt "Import a thumbnail image"
+msgid "Import a thumbnail image"
+msgstr ""
+
+msgctxt "Import yml"
+msgid "Import yml"
+msgstr ""
+
+msgctxt ""
+"In order to fully enjoy our features, we encourage you to use at least:.<br "
+"/>"
+msgid ""
+"In order to fully enjoy our features, we encourage you to use at least:.<br "
+"/>"
+msgstr ""
+"Для того, чтобы в полной мере насладиться нашими возможностями, мы "
+"рекомендуем вам использовать по крайней мере :. <br />"
+
+msgctxt "In order to publish your application, we need:"
+msgid "In order to publish your application, we need:"
 msgstr "Для того, чтобы опубликовать свое приложение, нам понадобится: <br /> -"
 
-#: ru/default.csv:91
+msgctxt "In order to use global push notifications your app must be published."
+msgid "In order to use global push notifications your app must be published."
+msgstr ""
+
+msgctxt "Incorrect filetype."
 msgid "Incorrect filetype."
 msgstr "Неправильный тип файла."
 
-#: ru/default.csv:92
+msgctxt "Info"
+msgid "Info"
+msgstr ""
+
+msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "Информация успешно сохранена"
 
-#: ru/default.csv:93
+msgctxt "Information"
 msgid "Information"
 msgstr "Информация"
 
-#: ru/default.csv:94
+msgctxt "Infos successfully saved"
 msgid "Infos successfully saved"
 msgstr "Информация успешно сохранена"
 
-#: ru/default.csv:95
-msgid "Insert a <br /><span class=\"bold\">cover image</span>"
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr ""
+
+msgctxt "Insert a <br /><span class'bold'>cover image</span>"
+msgid "Insert a <br /><span class'bold'>cover image</span>"
 msgstr "Вставьте <br /><span class=\"bold\">баннер обложки</span>"
 
-#: ru/default.csv:96
+msgctxt "Insert a cover image"
+msgid "Insert a cover image"
+msgstr ""
+
+msgctxt "Insert a picture"
+msgid "Insert a picture"
+msgstr ""
+
+msgctxt "Installer"
+msgid "Installer"
+msgstr ""
+
+msgctxt "Installs"
+msgid "Installs"
+msgstr ""
+
+msgctxt "Integration"
+msgid "Integration"
+msgstr ""
+
+msgctxt "Interstitial"
+msgid "Interstitial"
+msgstr ""
+
+msgctxt "Invalid place"
 msgid "Invalid place"
 msgstr "Неверное место"
 
-#: ru/default.csv:97
+msgctxt "Invoice creation date"
+msgid "Invoice creation date"
+msgstr ""
+
+msgctxt "Invoice payment date"
+msgid "Invoice payment date"
+msgstr ""
+
+msgctxt "Invoices"
 msgid "Invoices"
 msgstr "Счета"
 
-#: ru/default.csv:98
+msgctxt "Issuer"
+msgid "Issuer"
+msgstr ""
+
+msgctxt ""
+"It seems that the renewal of the following SSL Certificate %s is failing, "
+"please check in <b>Settings > Advanced > Configuration</b> for the specified "
+"certificate."
+msgid ""
+"It seems that the renewal of the following SSL Certificate %s is failing, "
+"please check in <b>Settings > Advanced > Configuration</b> for the specified "
+"certificate."
+msgstr ""
+
+msgctxt "JAVA Extended options"
+msgid "JAVA Extended options"
+msgstr ""
+
+msgctxt "Landscape"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "Last Name"
 msgid "Last Name"
 msgstr "Фамилия"
 
-#: ru/default.csv:99
+msgctxt "Last action"
+msgid "Last action"
+msgstr ""
+
+msgctxt "Last error"
+msgid "Last error"
+msgstr ""
+
+msgctxt "Last login"
+msgid "Last login"
+msgstr ""
+
+msgctxt "Last name"
+msgid "Last name"
+msgstr "Фамилия"
+
+msgctxt "Last update date"
+msgid "Last update date"
+msgstr ""
+
+msgctxt "Lastname"
 msgid "Lastname"
 msgstr "Фамилия"
 
-#: ru/default.csv:100
-msgid "Lastname:"
-msgstr "Фамилия:"
+msgctxt "Layout #1"
+msgid "Layout #1"
+msgstr ""
 
-#: ru/default.csv:101
+msgctxt "Layout #2"
+msgid "Layout #2"
+msgstr ""
+
+msgctxt "Layout #3"
+msgid "Layout #3"
+msgstr ""
+
+msgctxt "Layout #4"
+msgid "Layout #4"
+msgstr ""
+
+msgctxt "Layout #5"
+msgid "Layout #5"
+msgstr ""
+
+msgctxt "Layout #6"
+msgid "Layout #6"
+msgstr ""
+
+msgctxt "Leave blank if your web space is the current domain."
+msgid "Leave blank if your web space is the current domain."
+msgstr ""
+
+msgctxt "Left"
+msgid "Left"
+msgstr ""
+
+msgctxt "Let your users know what is locked"
+msgid "Let your users know what is locked"
+msgstr ""
+
+msgctxt "Like"
 msgid "Like"
 msgstr "Нравится"
 
-#: ru/default.csv:102
+msgctxt "Likes"
 msgid "Likes"
 msgstr "Нравятся"
 
-#: ru/default.csv:103
+msgctxt "Link"
 msgid "Link"
 msgstr "Ссылка"
 
-#: ru/default.csv:104
+msgctxt "Links"
+msgid "Links"
+msgstr "Ссылка"
+
+msgctxt "Links are now re-ordered!"
+msgid "Links are now re-ordered!"
+msgstr ""
+
+msgctxt "List"
+msgid "List"
+msgstr ""
+
+msgctxt "List Item"
+msgid "List Item"
+msgstr ""
+
+msgctxt "List of your invoices"
+msgid "List of your invoices"
+msgstr "Список ваших счетов"
+
+msgctxt "Load More"
 msgid "Load More"
 msgstr "Загрузить еще"
 
-#: ru/default.csv:105
+msgctxt "Loading"
+msgid "Loading"
+msgstr "Загрузка"
+
+msgctxt "Loading picture"
+msgid "Loading picture"
+msgstr "Загрузка изображения:"
+
+msgctxt "Local APK Generator"
+msgid "Local APK Generator"
+msgstr ""
+
+msgctxt "Local APK build"
+msgid "Local APK build"
+msgstr ""
+
+msgctxt "Locate"
 msgid "Locate"
 msgstr "Навигация по карте"
 
-#: ru/default.csv:106
-msgid "Location:"
+msgctxt "Location"
+msgid "Location"
 msgstr "Места"
 
-#: ru/default.csv:107
+msgctxt "Location: %s"
+msgid "Location: %s"
+msgstr "Места"
+
+msgctxt "Log in"
 msgid "Log in"
 msgstr "Войти"
 
-#: ru/default.csv:108
-msgid "Log-in"
-msgstr "Авторизоваться"
-
-#: ru/default.csv:109
-msgid "Log-out"
-msgstr "Выход"
-
-#: ru/default.csv:110
+msgctxt "Logged in as"
 msgid "Logged in as"
 msgstr "Вы вошли как"
 
-#: ru/default.csv:111
-msgid "MM,d yy"
-msgstr "MM,d yy"
+msgctxt "Log-in"
+msgid "Log-in"
+msgstr "Авторизоваться"
 
-#: ru/default.csv:112
-msgid "MM/dd/y"
-msgstr "MM/dd/y"
+msgctxt "Login to access your data"
+msgid "Login to access your data"
+msgstr ""
 
-#: ru/default.csv:113
-msgid "MM/dd/y 'at' hh:mm a"
-msgstr "MM/dd/y 'at' hh:mm a"
+msgctxt "Login to your admin interface"
+msgid "Login to your admin interface"
+msgstr "Войдите в свой интерфейс Бэк-офис"
 
-#: ru/default.csv:114
-msgid "MM/dd/y hh:mm a"
-msgstr "MM/dd/y hh:mm a"
+msgctxt "Log-out"
+msgid "Log-out"
+msgstr "Выход"
 
-#: ru/default.csv:115
-msgid "MM/dd/yy"
-msgstr "MM/dd/yy"
+msgctxt "Loyalty Card"
+msgid "Loyalty Card"
+msgstr ""
 
-#: ru/default.csv:116
-msgid "MM/dd/yyyy"
-msgstr "MM/dd/yyyy"
+msgctxt "LoyaltyCard"
+msgid "LoyaltyCard"
+msgstr ""
 
-#: ru/default.csv:117
+msgctxt "MMMM dd y"
 msgid "MMMM dd y"
 msgstr "MMMM dd y"
 
-#: ru/default.csv:118
+msgctxt "MM,d yy"
+msgid "MM,d yy"
+msgstr "MM,d yy"
+
+msgctxt "MM.dd.y"
+msgid "MM.dd.y"
+msgstr ""
+
+msgctxt "MM.dd.y 'at' HH:mm a"
+msgid "MM.dd.y 'at' HH:mm a"
+msgstr "MM/dd/y 'at' hh:mm a"
+
+msgctxt "MM/dd/y 'at' hh:mm a"
+msgid "MM/dd/y 'at' hh:mm a"
+msgstr "MM/dd/y 'at' hh:mm a"
+
+msgctxt "MM/dd/y hh:mm a"
+msgid "MM/dd/y hh:mm a"
+msgstr "MM/dd/y hh:mm a"
+
+msgctxt "MM/dd/yy"
+msgid "MM/dd/yy"
+msgstr "MM/dd/yy"
+
+msgctxt "MM/dd/yyyy"
+msgid "MM/dd/yyyy"
+msgstr "MM/dd/yyyy"
+
+msgctxt "Main Platform"
+msgid "Main Platform"
+msgstr ""
+
+msgctxt "Main category"
 msgid "Main category"
 msgstr "Главная категория"
 
-#: ru/default.csv:119
+msgctxt "Main domain"
+msgid "Main domain"
+msgstr ""
+
+msgctxt "Main domain (without https?://) is required for services, and tools."
+msgid "Main domain (without https?://) is required for services, and tools."
+msgstr ""
+
+msgctxt "Main hostname"
+msgid "Main hostname"
+msgstr ""
+
+msgctxt "Make this image colorizable"
 msgid "Make this image colorizable"
 msgstr "Сделать изображение с нормальными цветами"
 
-#: ru/default.csv:120
+msgctxt "Manage"
 msgid "Manage"
 msgstr "Управлять"
 
-#: ru/default.csv:121
+msgctxt "Manage Folders"
+msgid "Manage Folders"
+msgstr ""
+
+msgctxt "Manage Places"
+msgid "Manage Places"
+msgstr ""
+
+msgctxt "Manage Tour"
+msgid "Manage Tour"
+msgstr ""
+
+msgctxt "Manage content"
+msgid "Manage content"
+msgstr ""
+
+msgctxt "Map"
 msgid "Map"
 msgstr "Карта"
 
-#: ru/default.csv:122
+msgctxt "Maps"
 msgid "Maps"
 msgstr "Карты"
 
-#: ru/default.csv:123
+msgctxt "Mcommerce"
+msgid "Mcommerce"
+msgstr ""
+
+msgctxt "Media"
+msgid "Media"
+msgstr "Медиа"
+
+msgctxt "Message"
+msgid "Message"
+msgstr "Сообщение"
+
+msgctxt "Message from your app %s"
 msgid "Message from your app %s"
 msgstr "Сообщение из вашего приложения %s"
 
-#: ru/default.csv:124
+msgctxt "Messages"
 msgid "Messages"
 msgstr "Сообщения"
 
-#: ru/default.csv:125
+msgctxt "Metadata"
+msgid "Metadata"
+msgstr ""
+
+msgctxt "Method"
+msgid "Method"
+msgstr ""
+
+msgctxt "Middle"
+msgid "Middle"
+msgstr ""
+
+msgctxt "Migrate sessions"
+msgid "Migrate sessions"
+msgstr ""
+
+msgctxt "Migrate sessions to Redis"
+msgid "Migrate sessions to Redis"
+msgstr ""
+
+msgctxt "Misc"
+msgid "Misc"
+msgstr "Мисс"
+
+msgctxt "Missing appId"
+msgid "Missing appId"
+msgstr ""
+
+msgctxt "Missing gallery_id"
+msgid "Missing gallery_id"
+msgstr ""
+
+msgctxt "Missing parameters."
+msgid "Missing parameters."
+msgstr ""
+
+msgctxt "Missing params"
+msgid "Missing params"
+msgstr ""
+
+msgctxt "Missing status"
+msgid "Missing status"
+msgstr ""
+
+msgctxt "Missing value"
+msgid "Missing value"
+msgstr ""
+
+msgctxt "Missing values"
+msgid "Missing values"
+msgstr ""
+
+msgctxt "Mobile display"
+msgid "Mobile display"
+msgstr "Моб. дисплей"
+
+msgctxt "Modal"
+msgid "Modal"
+msgstr ""
+
+msgctxt "Modules"
 msgid "Modules"
 msgstr "Модули"
 
-#: ru/default.csv:126
+msgctxt "Monetization"
+msgid "Monetization"
+msgstr ""
+
+msgctxt "Month"
+msgid "Month"
+msgstr ""
+
+msgctxt "Monthly"
+msgid "Monthly"
+msgstr ""
+
+msgctxt "More"
 msgid "More"
 msgstr "Ещё"
 
-#: ru/default.csv:127
+msgctxt "My Users List"
+msgid "My Users List"
+msgstr ""
+
+msgctxt "My account"
 msgid "My account"
 msgstr "Мой аккаунт"
 
-#: ru/default.csv:128
+msgctxt "My custom template"
+msgid "My custom template"
+msgstr ""
+
+msgctxt "My invoices"
 msgid "My invoices"
 msgstr "Мои счета"
 
-#: ru/default.csv:129
+msgctxt "MyTemplate"
+msgid "MyTemplate"
+msgstr ""
+
+msgctxt "NSCameraUsageDescription"
+msgid "NSCameraUsageDescription"
+msgstr ""
+
+msgctxt "NSLocationAlwaysAndWhenInUseUsageDescription"
+msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
+msgstr ""
+
+msgctxt "NSLocationAlwaysUsageDescription"
+msgid "NSLocationAlwaysUsageDescription"
+msgstr ""
+
+msgctxt "NSLocationWhenInUseUsageDescription"
+msgid "NSLocationWhenInUseUsageDescription"
+msgstr ""
+
+msgctxt "NSMotionUsageDescription"
+msgid "NSMotionUsageDescription"
+msgstr ""
+
+msgctxt "NSPhotoLibraryUsageDescription"
+msgid "NSPhotoLibraryUsageDescription"
+msgstr ""
+
+msgctxt "Name"
 msgid "Name"
 msgstr "Имя"
 
-#: ru/default.csv:130
+msgctxt "Never"
 msgid "Never"
 msgstr "Никогда "
 
-#: ru/default.csv:131
+msgctxt "New"
 msgid "New"
 msgstr "Новый"
 
-#: ru/default.csv:132
+msgctxt "New folder"
+msgid "New folder"
+msgstr "Новая папка"
+
+msgctxt "New format"
+msgid "New format"
+msgstr ""
+
+msgctxt "New password"
+msgid "New password"
+msgstr "пароль"
+
+msgctxt "New positions are missing."
+msgid "New positions are missing."
+msgstr ""
+
+msgctxt "New subfolder"
+msgid "New subfolder"
+msgstr "Новая папка"
+
+msgctxt "Newswall"
+msgid "Newswall"
+msgstr ""
+
+msgctxt "Next"
 msgid "Next"
 msgstr "Далее"
 
-#: ru/default.csv:133
+msgctxt "No"
 msgid "No"
 msgstr "Нет"
 
-#: ru/default.csv:134
+msgctxt "No Results"
+msgid "No Results"
+msgstr "Нет результатов"
+
+msgctxt "No address to display on map."
 msgid "No address to display on map."
 msgstr "Адрес не будет отображаться на карте."
 
-#: ru/default.csv:135
+msgctxt "No data for this metrics for now."
+msgid "No data for this metrics for now."
+msgstr ""
+
+msgctxt "No features"
+msgid "No features"
+msgstr ""
+
+msgctxt "No invoice for now."
+msgid "No invoice for now."
+msgstr ""
+
+msgctxt "No items found"
+msgid "No items found"
+msgstr ""
+
+msgctxt "No linkable element found on this page."
+msgid "No linkable element found on this page."
+msgstr ""
+
+msgctxt "No logs"
+msgid "No logs"
+msgstr ""
+
+msgctxt "No modules"
+msgid "No modules"
+msgstr ""
+
+msgctxt "No place to display on map."
 msgid "No place to display on map."
 msgstr "Нет этого места для отображения на карте."
 
-#: ru/default.csv:136
-msgid "No results"
+msgctxt "No profile found. Please create one in Settings tab."
+msgid "No profile found. Please create one in Settings tab."
+msgstr ""
+
+msgctxt "No published applications available."
+msgid "No published applications available."
+msgstr ""
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr ""
+
+msgctxt "No rules"
+msgid "No rules"
 msgstr "Нет результатов"
 
-#: ru/default.csv:137
+msgctxt "No uploaded image"
 msgid "No uploaded image"
 msgstr "Нет загруженного изображения"
 
-#: ru/default.csv:138
-msgid "Nothing to display"
+msgctxt "Not available offline."
+msgid "Not available offline."
+msgstr ""
+
+msgctxt "Note"
+msgid "Note"
+msgstr "Ни одной"
+
+msgctxt ""
+"Note: A disabled feature is not removed from published applications & can "
+"still be edited, but users can't add it anymore!"
+msgid ""
+"Note: A disabled feature is not removed from published applications & can "
+"still be edited, but users can't add it anymore!"
+msgstr ""
+
+msgctxt "Note: Let's encrypt X1 is a staging certificate."
+msgid "Note: Let's encrypt X1 is a staging certificate."
+msgstr ""
+
+msgctxt "Nothing to display."
+msgid "Nothing to display."
 msgstr "Ничего не отображать"
 
-#: ru/default.csv:139
+msgctxt "Number"
 msgid "Number"
 msgstr "Количество"
 
-#: ru/default.csv:140
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "Количество людей"
+
+msgctxt "Number of reward used"
+msgid "Number of reward used"
+msgstr ""
+
+msgctxt "OK"
 msgid "OK"
 msgstr "ДА"
 
-#: ru/default.csv:141
+msgctxt "OR"
 msgid "OR"
 msgstr "ИЛИ"
 
-#: ru/default.csv:142
+msgctxt "Offline Payment"
+msgid "Offline Payment"
+msgstr ""
+
+msgctxt "Offline content"
+msgid "Offline content"
+msgstr ""
+
+msgctxt "Old Password"
+msgid "Old Password"
+msgstr "Старый пароль"
+
+msgctxt "Only active"
+msgid "Only active"
+msgstr ""
+
+msgctxt "Only inactive"
+msgid "Only inactive"
+msgstr ""
+
+msgctxt "Only offline"
+msgid "Only offline"
+msgstr ""
+
+msgctxt "Only published application are available for global push notifications."
+msgid "Only published application are available for global push notifications."
+msgstr ""
+
+msgctxt "Open custom URL"
+msgid "Open custom URL"
+msgstr ""
+
+msgctxt "Open settings"
+msgid "Open settings"
+msgstr ""
+
+msgctxt "Options"
+msgid "Options"
+msgstr "Опция"
+
+msgctxt "Or do you want to return to editor?"
+msgid "Or do you want to return to editor?"
+msgstr ""
+
+msgctxt "Order"
+msgid "Order"
+msgstr "Заказ"
+
+msgctxt "Order date"
+msgid "Order date"
+msgstr ""
+
+msgctxt "Origin"
+msgid "Origin"
+msgstr ""
+
+msgctxt "Ouch, this page doesn't exist"
 msgid "Ouch, this page doesn't exist"
 msgstr "Ой, этой страницы не существует"
 
-#: ru/default.csv:143
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr ""
+
+msgctxt "PHP Version"
+msgid "PHP Version"
+msgstr ""
+
+msgctxt "Package name"
+msgid "Package name"
+msgstr ""
+
+msgctxt "Padlock"
+msgid "Padlock"
+msgstr ""
+
+msgctxt "Page settings"
+msgid "Page settings"
+msgstr ""
+
+msgctxt "Paid At"
+msgid "Paid At"
+msgstr "Оплата по адресу"
+
+msgctxt "Paid amount"
+msgid "Paid amount"
+msgstr ""
+
+msgctxt "Paid at"
+msgid "Paid at"
+msgstr "Оплата по адресу:"
+
+msgctxt "Parent"
+msgid "Parent"
+msgstr ""
+
+msgctxt "Password"
 msgid "Password"
 msgstr "Пароль"
 
-#: ru/default.csv:144
-msgid "Password:"
-msgstr "Пароль:"
+msgctxt "Password (clear)"
+msgid "Password (clear)"
+msgstr ""
 
-#: ru/default.csv:145
+msgctxt "Password (hashed)"
+msgid "Password (hashed)"
+msgstr ""
+
+msgctxt "Passwords don't match"
 msgid "Passwords don't match"
 msgstr "Пароли не совпадают"
 
-#: ru/default.csv:146
+msgctxt "PayPal Express Checkout"
+msgid "PayPal Express Checkout"
+msgstr ""
+
+msgctxt "Payment"
 msgid "Payment"
 msgstr "Оплата"
 
-#: ru/default.csv:147
+msgctxt "Payment ID"
+msgid "Payment ID"
+msgstr "Платежи"
+
+msgctxt "Payment Method"
+msgid "Payment Method"
+msgstr "Способ Оплаты"
+
+msgctxt "Payment method"
+msgid "Payment method"
+msgstr "Способ Оплаты"
+
+msgctxt "Payments"
+msgid "Payments"
+msgstr "Платежи"
+
+msgctxt "Permissions"
+msgid "Permissions"
+msgstr ""
+
+msgctxt "Personal data"
+msgid "Personal data"
+msgstr ""
+
+msgctxt "Phone"
 msgid "Phone"
 msgstr "Телефон"
 
-#: ru/default.csv:148
-msgid "Phone:"
-msgstr "Телефон:"
+msgctxt "Phone and/or E-mail"
+msgid "Phone and/or E-mail"
+msgstr ""
 
-#: ru/default.csv:149
+msgctxt "Photos"
 msgid "Photos"
 msgstr "Фото"
 
-#: ru/default.csv:150
+msgctxt "Place disabled"
+msgid "Place disabled"
+msgstr ""
+
+msgctxt "Places"
+msgid "Places"
+msgstr ""
+
+msgctxt "Plain"
+msgid "Plain"
+msgstr ""
+
+msgctxt "Plans"
 msgid "Plans"
 msgstr "Тариф"
 
-#: ru/default.csv:151
+msgctxt "Platform"
+msgid "Platform"
+msgstr ""
+
+msgctxt "Platform Name"
 msgid "Platform Name"
 msgstr "Имя платформы"
 
-#: ru/default.csv:152
+msgctxt "Platform hostname"
+msgid "Platform hostname"
+msgstr "Имя платформы"
+
+msgctxt "Player"
 msgid "Player"
 msgstr "Воспроизвести"
 
-#: ru/default.csv:153
-msgid "Please enter a password"
-msgstr "Пожалуйста, введите пароль"
+msgctxt "Please create the API keys to enable this feature."
+msgid "Please create the API keys to enable this feature."
+msgstr ""
 
-#: ru/default.csv:154
-msgid "Please enter a valid URL."
-msgstr "Пожалуйста, введите URL-адрес."
-
-#: ru/default.csv:155
-msgid "Please enter a valid credit card number."
-msgstr "Пожалуйста, введите действительный номер кредитной карты."
-
-#: ru/default.csv:156
-msgid "Please enter a valid date (ISO)."
-msgstr "Пожалуйста, введите дату (ISO)."
-
-#: ru/default.csv:157
-msgid "Please enter a valid date."
-msgstr "Пожалуйста, введите дату."
-
-#: ru/default.csv:158
-msgid "Please enter a valid email address"
-msgstr "Пожалуйста, введите верный адрес"
-
-#: ru/default.csv:159
-msgid "Please enter a valid email address."
-msgstr "Пожалуйста, введите действительный адрес электронной почты."
-
-#: ru/default.csv:160
-msgid "Please enter a valid number."
-msgstr "Пожалуйста, введите правильный номер."
-
-#: ru/default.csv:161
-msgid "Please enter a valid url"
-msgstr "Пожалуйста, введите правильный URL"
-
-#: ru/default.csv:162
-msgid "Please enter a value between {0} and {1} characters long."
-msgstr "Пожалуйста, введите значение между {0} и {1} символов."
-
-#: ru/default.csv:163
-msgid "Please enter a value between {0} and {1}."
-msgstr "Пожалуйста, введите значение между {0} и {1}."
-
-#: ru/default.csv:164
-msgid "Please enter a value greater than or equal to {0}."
-msgstr "Пожалуйста, введите значение, большее или равное {0}."
-
-#: ru/default.csv:165
-msgid "Please enter a value less than or equal to {0}."
-msgstr "Пожалуйста, введите значение, которое меньше или равно {0}."
-
-#: ru/default.csv:166
-msgid "Please enter at least {0} characters."
-msgstr "Пожалуйста, введите по крайней мере {0} символов."
-
-#: ru/default.csv:167
-msgid "Please enter no more than {0} characters."
-msgstr "Пожалуйста, введите не более {0} символов."
-
-#: ru/default.csv:168
-msgid "Please enter only digits."
-msgstr "Пожалуйста, введите только цифры."
-
-#: ru/default.csv:169
-msgid "Please enter the same value again."
-msgstr "Пожалуйста, введите то же значение снова."
-
-#: ru/default.csv:170
-msgid "Please enter your email address"
-msgstr "Пожалуйста, введите ваш адрес электронной почты"
-
-#: ru/default.csv:171
-msgid "Please fill in the following fields:"
-msgstr "Пожалуйста, заполните следующие поля:"
-
-#: ru/default.csv:172
-msgid "Please fix this field."
-msgstr "Пожалуйста, исправьте это поле."
-
-#: ru/default.csv:173
-msgid "Please log in."
-msgstr "Пожалуйста, войдите."
-
-#: ru/default.csv:174
+msgctxt "Please, enter a correct email address."
 msgid "Please, enter a correct email address."
 msgstr "Пожалуйста, введите правильный адрес электронной почты."
 
-#: ru/default.csv:175
-msgid "Please, enter a password."
-msgstr "Пожалуйста, введите пароль."
+msgctxt "Please enter a password"
+msgid "Please enter a password"
+msgstr "Пожалуйста, введите пароль"
 
-#: ru/default.csv:176
+msgctxt "Please enter a valid URL."
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите URL-адрес."
+
+msgctxt "Please enter a valid credit card number."
+msgid "Please enter a valid credit card number."
+msgstr "Пожалуйста, введите действительный номер кредитной карты."
+
+msgctxt "Please, enter a valid date"
 msgid "Please, enter a valid date"
 msgstr "Пожалуйста, введите правильную дату"
 
-#: ru/default.csv:177
+msgctxt "Please enter a valid date (ISO)."
+msgid "Please enter a valid date (ISO)."
+msgstr "Пожалуйста, введите дату (ISO)."
+
+msgctxt "Please enter a valid email address"
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста, введите верный адрес"
+
+msgctxt "Please enter a valid number."
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите правильный номер."
+
+msgctxt "Please enter a valid url"
+msgid "Please enter a valid url"
+msgstr "Пожалуйста, введите правильный URL"
+
+msgctxt "Please enter a value between {0} and {1}."
+msgid "Please enter a value between {0} and {1}."
+msgstr "Пожалуйста, введите значение между {0} и {1}."
+
+msgctxt "Please enter a value between {0} and {1} characters long."
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Пожалуйста, введите значение между {0} и {1} символов."
+
+msgctxt "Please enter a value greater than or equal to {0}."
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Пожалуйста, введите значение, большее или равное {0}."
+
+msgctxt "Please enter a value less than or equal to {0}."
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Пожалуйста, введите значение, которое меньше или равно {0}."
+
+msgctxt "Please enter at least {0} characters."
+msgid "Please enter at least {0} characters."
+msgstr "Пожалуйста, введите по крайней мере {0} символов."
+
+msgctxt "Please enter no more than {0} characters."
+msgid "Please enter no more than {0} characters."
+msgstr "Пожалуйста, введите не более {0} символов."
+
+msgctxt "Please enter only digits."
+msgid "Please enter only digits."
+msgstr "Пожалуйста, введите только цифры."
+
+msgctxt "Please enter the same value again."
+msgid "Please enter the same value again."
+msgstr "Пожалуйста, введите то же значение снова."
+
+msgctxt "Please enter your email address"
+msgid "Please enter your email address"
+msgstr "Пожалуйста, введите ваш адрес электронной почты"
+
+msgctxt "Please fill in the following fields:"
+msgid "Please fill in the following fields:"
+msgstr "Пожалуйста, заполните следующие поля:"
+
+msgctxt "Please fill out the following fields"
+msgid "Please fill out the following fields"
+msgstr "Пожалуйста, заполните следующие поля:"
+
+msgctxt "Please fix this field."
+msgid "Please fix this field."
+msgstr "Пожалуйста, исправьте это поле."
+
+msgctxt "Please log in."
+msgid "Please log in."
+msgstr "Пожалуйста, войдите."
+
+msgctxt ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when the %s applications limit is reached."
+msgid ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when the %s applications limit is reached."
+msgstr ""
+
+msgctxt ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when your application is published."
+msgid ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when your application is published."
+msgstr ""
+
+msgctxt "Please provide a certificate."
+msgid "Please provide a certificate."
+msgstr ""
+
+msgctxt "Please select at least one application."
+msgid "Please select at least one application."
+msgstr ""
+
+msgctxt "Please wait..."
+msgid "Please wait..."
+msgstr ""
+
+msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Подкаст"
 
-#: ru/default.csv:178
+msgctxt "Podcast URL"
+msgid "Podcast URL"
+msgstr "Ссылка на Подкаст:"
+
+msgctxt "Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "Подкаст URL (формат Itunes)"
 
-#: ru/default.csv:179
+msgctxt "Podcast type is invalid or can't be found"
 msgid "Podcast type is invalid or can't be found"
 msgstr "Этот тип подкаста является недействительным или не может быть найден"
 
-#: ru/default.csv:180
+msgctxt "Port"
+msgid "Port"
+msgstr "Порт"
+
+msgctxt "Port, example: 3310"
+msgid "Port, example: 3310"
+msgstr ""
+
+msgctxt "Position Menu"
+msgid "Position Menu"
+msgstr ""
+
+msgctxt "Postcode"
 msgid "Postcode"
 msgstr "Почтовый индекс"
 
-#: ru/default.csv:181
-msgid "Postcode:"
-msgstr "Почтовый индекс:"
+msgctxt "Previewer"
+msgid "Previewer"
+msgstr ""
 
-#: ru/default.csv:182
+msgctxt "Previews"
+msgid "Previews"
+msgstr "Предварительный просмотр"
+
+msgctxt "Privacy"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "Privacy Policy"
+msgid "Privacy Policy"
+msgstr "Политика Конфиденциальности"
+
+msgctxt "Privacy policy"
+msgid "Privacy policy"
+msgstr "Политика Конфиденциальности"
+
+msgctxt "Privacy policy section for GDPR"
+msgid "Privacy policy section for GDPR"
+msgstr ""
+
+msgctxt "Privacy policy successfully saved"
+msgid "Privacy policy successfully saved"
+msgstr ""
+
+msgctxt "Privacy settings"
+msgid "Privacy settings"
+msgstr ""
+
+msgctxt "Products"
+msgid "Products"
+msgstr "Продукт"
+
+msgctxt "Profile"
+msgid "Profile"
+msgstr ""
+
+msgctxt "Promotion"
+msgid "Promotion"
+msgstr ""
+
+msgctxt "Publication settings"
+msgid "Publication settings"
+msgstr ""
+
+msgctxt "Publish your app"
+msgid "Publish your app"
+msgstr ""
+
+msgctxt "Publishable Key"
+msgid "Publishable Key"
+msgstr ""
+
+msgctxt "Push"
 msgid "Push"
 msgstr "Push"
 
-#: ru/default.csv:183
+msgctxt "Push Notifications"
+msgid "Push Notifications"
+msgstr "Push-сообщения"
+
+msgctxt "Push message"
+msgid "Push message"
+msgstr ""
+
+msgctxt "Push message is sent."
+msgid "Push message is sent."
+msgstr ""
+
+msgctxt "Push notification"
+msgid "Push notification"
+msgstr "Push-сообщения"
+
+msgctxt "Push notifications"
+msgid "Push notifications"
+msgstr "Push-сообщения"
+
+msgctxt ""
+"Push notifications Your account doesn't exists on editor side. Please create "
+"it before using tour edition."
+msgid ""
+"Push notifications Your account doesn't exists on editor side. Please create "
+"it before using tour edition."
+msgstr ""
+
+msgctxt "QR Code"
+msgid "QR Code"
+msgstr ""
+
+msgctxt "QRCode"
+msgid "QRCode"
+msgstr ""
+
+msgctxt "Qty"
+msgid "Qty"
+msgstr "Кол-во"
+
+msgctxt "Query"
+msgid "Query"
+msgstr ""
+
+msgctxt "RSS Feed"
+msgid "RSS Feed"
+msgstr ""
+
+msgctxt "Radio"
+msgid "Radio"
+msgstr "Радио"
+
+msgctxt "Redis AUTH KEY"
+msgid "Redis AUTH KEY"
+msgstr ""
+
+msgctxt "Registration date"
+msgid "Registration date"
+msgstr "Дата окончания"
+
+msgctxt "Release"
+msgid "Release"
+msgstr ""
+
+msgctxt "Remove"
+msgid "Remove"
+msgstr "Удалить"
+
+msgctxt "Remove this page from this folder?"
+msgid "Remove this page from this folder?"
+msgstr "Удалить эту страницу из этой папки?"
+
+msgctxt "Remove this step"
+msgid "Remove this step"
+msgstr ""
+
+msgctxt "Request & Upload to panel"
+msgid "Request & Upload to panel"
+msgstr ""
+
+msgctxt "Request APK generation"
+msgid "Request APK generation"
+msgstr ""
+
+msgctxt "Request or renew the certificate via Let's Encrypt."
+msgid "Request or renew the certificate via Let's Encrypt."
+msgstr ""
+
+msgctxt "Requested by"
+msgid "Requested by"
+msgstr ""
+
+msgctxt "Required fields"
 msgid "Required fields"
 msgstr "Обязательные для заполнения поля"
 
-#: ru/default.csv:184
+msgctxt "Reset to default Privacy Policy."
+msgid "Reset to default Privacy Policy."
+msgstr ""
+
+msgctxt "Resize your picture"
 msgid "Resize your picture"
 msgstr "Изменение размера изображения"
 
-#: ru/default.csv:185
-msgid "Resize your picture:"
-msgstr "Изменение размера изображения:"
+msgctxt "Restart"
+msgid "Restart"
+msgstr ""
 
-#: ru/default.csv:186
+msgctxt "Restore Apps"
+msgid "Restore Apps"
+msgstr ""
+
+msgctxt "Restore Apps sources"
+msgid "Restore Apps sources"
+msgstr ""
+
+msgctxt "Right"
+msgid "Right"
+msgstr ""
+
+msgctxt "Roles"
+msgid "Roles"
+msgstr "Правила"
+
+msgctxt "Rss"
+msgid "Rss"
+msgstr ""
+
+msgctxt "Rule have been added."
+msgid "Rule have been added."
+msgstr ""
+
+msgctxt "Rule have been removed."
+msgid "Rule have been removed."
+msgstr ""
+
+msgctxt "Run Android SDK update"
+msgid "Run Android SDK update"
+msgstr ""
+
+msgctxt "SCSS successfully saved"
+msgid "SCSS successfully saved"
+msgstr "Магазин успешно сохранен"
+
+msgctxt "SELF-ASSIGNABLE"
+msgid "SELF-ASSIGNABLE"
+msgstr ""
+
+msgctxt "SEND"
 msgid "SEND"
 msgstr "ОТПРАВИТЬ"
 
-#: ru/default.csv:187
+msgctxt "SMTP"
+msgid "SMTP"
+msgstr ""
+
+msgctxt ""
+"SMTP - Whitelist: An administrator sent a request for white-listing his "
+"domain."
+msgid ""
+"SMTP - Whitelist: An administrator sent a request for white-listing his "
+"domain."
+msgstr ""
+
+msgctxt "SMTP Credentials (Affiliated to the White-Label %s)"
+msgid "SMTP Credentials (Affiliated to the White-Label %s)"
+msgstr ""
+
+msgctxt "Sales by Categories (TOP 10)"
+msgid "Sales by Categories (TOP 10)"
+msgstr ""
+
+msgctxt "Sales by Payment method"
+msgid "Sales by Payment method"
+msgstr ""
+
+msgctxt "Sales by Store"
+msgid "Sales by Store"
+msgstr ""
+
+msgctxt "Sales by product (TOP 20)"
+msgid "Sales by product (TOP 20)"
+msgstr ""
+
+msgctxt "Sample"
+msgid "Sample"
+msgstr ""
+
+msgctxt "Save"
 msgid "Save"
 msgstr "Сохранить"
 
-#: ru/default.csv:188
+msgctxt "Save GCM settings"
+msgid "Save GCM settings"
+msgstr ""
+
+msgctxt "Save iTunes credentials"
+msgid "Save iTunes credentials"
+msgstr ""
+
+msgctxt "Save sender id & key"
+msgid "Save sender id & key"
+msgstr ""
+
+msgctxt "Scan it."
+msgid "Scan it."
+msgstr ""
+
+msgctxt "Scan now to unlock"
+msgid "Scan now to unlock"
+msgstr ""
+
+msgctxt "Scheduled for"
+msgid "Scheduled for"
+msgstr ""
+
+msgctxt "Scheduled for <i>%s</i>"
+msgid "Scheduled for <i>%s</i>"
+msgstr ""
+
+msgctxt "Scratchcard Users"
+msgid "Scratchcard Users"
+msgstr ""
+
+msgctxt "Search"
 msgid "Search"
 msgstr "Поиск"
 
-#: ru/default.csv:189
+msgctxt "Search ..."
+msgid "Search ..."
+msgstr ""
+
+msgctxt "Search / Filter"
+msgid "Search / Filter"
+msgstr ""
+
+msgctxt "Search, filter ..."
+msgid "Search, filter ..."
+msgstr ""
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr ""
+
+msgctxt "See"
+msgid "See"
+msgstr ""
+
+msgctxt "Select a Development team"
+msgid "Select a Development team"
+msgstr ""
+
+msgctxt "Select a country"
 msgid "Select a country"
 msgstr "Выберите страну"
 
-#: ru/default.csv:190
+msgctxt "Select a hostname"
+msgid "Select a hostname"
+msgstr ""
+
+msgctxt "Select a panel type or self-managed"
+msgid "Select a panel type or self-managed"
+msgstr ""
+
+msgctxt "Select all"
 msgid "Select all"
 msgstr "Выбрать все"
 
-#: ru/default.csv:191
+msgctxt "Select an album"
+msgid "Select an album"
+msgstr ""
+
+msgctxt "Select an iTunes Connect provider"
+msgid "Select an iTunes Connect provider"
+msgstr ""
+
+msgctxt "Select target applications"
+msgid "Select target applications"
+msgstr ""
+
+msgctxt "Select your back button appearance"
+msgid "Select your back button appearance"
+msgstr ""
+
+msgctxt "Selected hostname"
+msgid "Selected hostname"
+msgstr ""
+
+msgctxt "Selected main hostname"
+msgid "Selected main hostname"
+msgstr ""
+
+msgctxt "Send"
 msgid "Send"
 msgstr "ОТПРАВИТЬ"
 
-#: ru/default.csv:192
+msgctxt "Send a cover image"
+msgid "Send a cover image"
+msgstr ""
+
+msgctxt "Send push"
+msgid "Send push"
+msgstr ""
+
+msgctxt "Send report"
+msgid "Send report"
+msgstr ""
+
+msgctxt "Send to all applications."
+msgid "Send to all applications."
+msgstr ""
+
+msgctxt "Send your pictures"
 msgid "Send your pictures"
 msgstr "Вставьте свои фотографии"
 
-#: ru/default.csv:193
+msgctxt "Sender ID"
+msgid "Sender ID"
+msgstr "ID отправителя"
+
+msgctxt "Sender email"
+msgid "Sender email"
+msgstr ""
+
+msgctxt "Sender name"
+msgid "Sender name"
+msgstr ""
+
+msgctxt "Server key"
+msgid "Server key"
+msgstr ""
+
+msgctxt "Service APK Generator"
+msgid "Service APK Generator"
+msgstr ""
+
+msgctxt "Service APK generator"
+msgid "Service APK generator"
+msgstr ""
+
+msgctxt "Service notes"
+msgid "Service notes"
+msgstr ""
+
+msgctxt "Session settings"
+msgid "Session settings"
+msgstr ""
+
+msgctxt "Set Meal"
+msgid "Set Meal"
+msgstr ""
+
+msgctxt "Settings"
 msgid "Settings"
 msgstr "Настройки"
 
-#: ru/default.csv:194
+msgctxt "Show"
+msgid "Show"
+msgstr ""
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr ""
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr ""
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Показать статью"
+
+msgctxt "Siberian current installation path"
+msgid "Siberian current installation path"
+msgstr ""
+
+msgctxt "Siberian domain"
+msgid "Siberian domain"
+msgstr ""
+
+msgctxt "Siberian informations"
+msgid "Siberian informations"
+msgstr "Общая информация"
+
+msgctxt ""
+"Siberian uses it to scan all uploaded files that have passed the soft "
+"Firewall."
+msgid ""
+"Siberian uses it to scan all uploaded files that have passed the soft "
+"Firewall."
+msgstr ""
+
+msgctxt "Size:"
 msgid "Size:"
 msgstr "Размер:"
 
-#: ru/default.csv:195
+msgctxt "Size on disk"
+msgid "Size on disk"
+msgstr ""
+
+msgctxt "Slack notification settings"
+msgid "Slack notification settings"
+msgstr "Настройки Push-сообщения"
+
+msgctxt "Slider"
+msgid "Slider"
+msgstr ""
+
+msgctxt "Social"
+msgid "Social"
+msgstr ""
+
+msgctxt "Socialgaming"
+msgid "Socialgaming"
+msgstr ""
+
+msgctxt "Socket"
+msgid "Socket"
+msgstr ""
+
+msgctxt "Soundcloud"
+msgid "Soundcloud"
+msgstr ""
+
+msgctxt "Source code"
+msgid "Source code"
+msgstr "Исходный код"
+
+msgctxt ""
+"Source code generation is not configured, ask your administrator for more "
+"informations."
+msgid ""
+"Source code generation is not configured, ask your administrator for more "
+"informations."
+msgstr ""
+
+msgctxt "Sourcecode"
+msgid "Sourcecode"
+msgstr ""
+
+msgctxt "Sources"
+msgid "Sources"
+msgstr ""
+
+msgctxt "Spinner"
+msgid "Spinner"
+msgstr ""
+
+msgctxt "Split Ad revenue (percent for you)"
+msgid "Split Ad revenue (percent for you)"
+msgstr ""
+
+msgctxt "Start date must be lower than end date."
+msgid "Start date must be lower than end date."
+msgstr ""
+
+msgctxt "State / Province"
+msgid "State / Province"
+msgstr ""
+
+msgctxt "Step placement (optional)"
+msgid "Step placement (optional)"
+msgstr ""
+
+msgctxt "Step saved successfully."
+msgid "Step saved successfully."
+msgstr ""
+
+msgctxt "Step text"
+msgid "Step text"
+msgstr ""
+
+msgctxt "Step title"
+msgid "Step title"
+msgstr ""
+
+msgctxt "Street"
 msgid "Street"
 msgstr "Улица"
 
-#: ru/default.csv:196
-msgid "Street:"
-msgstr "Улица:"
-
-#: ru/default.csv:197
+msgctxt "Subscriptions"
 msgid "Subscriptions"
 msgstr "Подписки"
 
-#: ru/default.csv:198
+msgctxt "Subtitle"
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+msgctxt "Success"
+msgid "Success"
+msgstr ""
+
+msgctxt "Support"
 msgid "Support"
 msgstr "Поддержка"
 
-#: ru/default.csv:199
+msgctxt "Support Link"
 msgid "Support Link"
 msgstr "Ссылка поддержки"
 
-#: ru/default.csv:200
+msgctxt "Support link"
+msgid "Support link"
+msgstr "Ссылка поддержки"
+
+msgctxt "Switch to Ionic design"
+msgid "Switch to Ionic design"
+msgstr ""
+
+msgctxt "System"
+msgid "System"
+msgstr ""
+
+msgctxt "TLS"
+msgid "TLS"
+msgstr ""
+
+msgctxt "Target applications"
+msgid "Target applications"
+msgstr ""
+
+msgctxt "Target devices"
+msgid "Target devices"
+msgstr ""
+
+msgctxt "Target specific devices"
+msgid "Target specific devices"
+msgstr ""
+
+msgctxt "Tax"
 msgid "Tax"
 msgstr "Налог"
 
-#: ru/default.csv:201
+msgctxt "Taxes"
 msgid "Taxes"
 msgstr "Налоги"
 
-#: ru/default.csv:202
+msgctxt "Template"
+msgid "Template"
+msgstr ""
+
+msgctxt "Test SMTP"
+msgid "Test SMTP"
+msgstr ""
+
+msgctxt "Text"
 msgid "Text"
 msgstr "Текст"
 
-#: ru/default.csv:203
+msgctxt "Thank you"
+msgid "Thank you"
+msgstr "Спасибо!"
+
+msgctxt "Thank you for your request.<br />We'll answer you as soon as possible."
+msgid "Thank you for your request.<br />We'll answer you as soon as possible."
+msgstr "Спасибо за ваш запрос. Мы ответим вам как можно скорее."
+
+msgctxt "The account has been successfully saved"
 msgid "The account has been successfully saved"
 msgstr "Учетная запись была успешно сохранена"
 
-#: ru/default.csv:204
+msgctxt "The address you're looking for does not exists."
 msgid "The address you're looking for does not exists."
 msgstr "Адрес, который вы ищете не существует."
 
-#: ru/default.csv:205
+msgctxt "The admin_id is required"
+msgid "The admin_id is required"
+msgstr "Требуется Email "
+
+msgctxt "The admin_id parameter is required"
+msgid "The admin_id parameter is required"
+msgstr ""
+
+msgctxt "The app_id is required"
+msgid "The app_id is required"
+msgstr "Требуется Email "
+
+msgctxt "The app_id parameter is required"
+msgid "The app_id parameter is required"
+msgstr ""
+
+msgctxt ""
+"The certificate request failed 3 times, please check the certificate "
+"information, your panel credentials, and everything else.<br />If your "
+"certificate is valid, you can try to upload to panel only."
+msgid ""
+"The certificate request failed 3 times, please check the certificate "
+"information, your panel credentials, and everything else.<br />If your "
+"certificate is valid, you can try to upload to panel only."
+msgstr ""
+
+msgctxt "The email is required"
 msgid "The email is required"
 msgstr "Требуется Email "
 
-#: ru/default.csv:206
+msgctxt "The entered text mismatch"
+msgid "The entered text mismatch"
+msgstr ""
+
+msgctxt "The file '%s' does not exist"
 msgid "The file '%s' does not exist"
 msgstr "Файл '%s' не существует"
 
-#: ru/default.csv:207
+msgctxt "The image '%s' does not exist"
 msgid "The image '%s' does not exist"
 msgstr "Изображение %s не существует"
 
-#: ru/default.csv:208
+msgctxt "The image size '%s' could not be detected."
 msgid "The image size '%s' could not be detected."
 msgstr "Размер изображения '%s' не соответствует"
 
-#: ru/default.csv:209
+msgctxt "The name is required"
+msgid "The name is required"
+msgstr "Требуется Email "
+
+msgctxt "The old password does not match the entered password."
 msgid "The old password does not match the entered password."
 msgstr "Старый пароль не соответствует введенному паролю."
 
-#: ru/default.csv:210
+msgctxt "The password is required"
 msgid "The password is required"
 msgstr "Требуется пароль"
 
-#: ru/default.csv:211
+msgctxt "The password must be at least 6 characters"
 msgid "The password must be at least 6 characters"
 msgstr "Пароль должен быть не менее 6 символов"
 
-#: ru/default.csv:212
-msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
-msgstr "Оплата была отменена, что то не так произошло? Не стесняйтесь обращаться к нам."
+msgctxt ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us."
+msgid ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us."
+msgstr ""
+"Оплата была отменена, что то не так произошло? Не стесняйтесь обращаться к "
+"нам."
 
-#: ru/default.csv:213
+msgctxt "The sent request is empty."
+msgid "The sent request is empty."
+msgstr ""
+
+msgctxt "The user_id is required"
+msgid "The user_id is required"
+msgstr "Требуется Email "
+
+msgctxt "The value_id is required."
+msgid "The value_id is required."
+msgstr "Требуется пароль"
+
+msgctxt "This URL is already used"
+msgid "This URL is already used"
+msgstr ""
+
+msgctxt "This admin can generate APK"
+msgid "This admin can generate APK"
+msgstr ""
+
+msgctxt "This admin does not exist"
+msgid "This admin does not exist"
+msgstr "Этот администратор не существует"
+
+msgctxt "This admin gives you the required information to publish applications"
+msgid "This admin gives you the required information to publish applications"
+msgstr ""
+
+msgctxt "This administrator does not exist"
 msgid "This administrator does not exist"
 msgstr "Этот администратор не существует"
 
-#: ru/default.csv:214
+msgctxt "This application does not exist"
+msgid "This application does not exist"
+msgstr "Это приложение не существует"
+
+msgctxt "This block type doesn't exist"
+msgid "This block type doesn't exist"
+msgstr ""
+
+msgctxt "This code is unrecognized"
+msgid "This code is unrecognized"
+msgstr ""
+
+msgctxt "This email address does not exist"
+msgid "This email address does not exist"
+msgstr "Ваш адрес электронной почты не существует"
+
+msgctxt "This email address is already used"
 msgid "This email address is already used"
 msgstr "Этот адрес электронной почты уже используется"
 
-#: ru/default.csv:215
+msgctxt "This feature is available from the application only"
+msgid "This feature is available from the application only"
+msgstr ""
+
+msgctxt ""
+"This feature is disabled by default since update 4.12.24 and is deprecated "
+"in favor of Folders v2."
+msgid ""
+"This feature is disabled by default since update 4.12.24 and is deprecated "
+"in favor of Folders v2."
+msgstr ""
+
+msgctxt "This feature opens the Code Scan camera"
+msgid "This feature opens the Code Scan camera"
+msgstr ""
+
+msgctxt "This field is required"
 msgid "This field is required"
 msgstr "Заполнение данного поля обязательно"
 
-#: ru/default.csv:216
-msgid "This field is required."
-msgstr "Это поле обязательно к заполнению."
+msgctxt "This layout has no option."
+msgid "This layout has no option."
+msgstr ""
 
-#: ru/default.csv:217
+msgctxt "This option doesn't exists."
+msgid "This option doesn't exists."
+msgstr ""
+
+msgctxt ""
+"This option is not compatible with applications using Forms and/or features "
+"with Keyboard."
+msgid ""
+"This option is not compatible with applications using Forms and/or features "
+"with Keyboard."
+msgstr ""
+
+msgctxt "This plan is an offline plan."
+msgid "This plan is an offline plan."
+msgstr ""
+
+msgctxt "This section is unlocked for mobile users only"
 msgid "This section is unlocked for mobile users only"
 msgstr "Этот раздел разблокирован для мобильных пользователей"
 
-#: ru/default.csv:218
+msgctxt "This will open the code scan camera on your device."
+msgid "This will open the code scan camera on your device."
+msgstr ""
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "Time spent in application"
+msgid "Time spent in application"
+msgstr ""
+
+msgctxt "Timezone"
 msgid "Timezone"
 msgstr "Временная зона"
 
-#: ru/default.csv:219
+msgctxt "Tip"
+msgid "Tip"
+msgstr ""
+
+msgctxt "Title"
 msgid "Title"
 msgstr "название"
 
-#: ru/default.csv:220
-msgid "Title:"
-msgstr "Заголовок:"
+msgctxt "Title & Message are both required."
+msgid "Title & Message are both required."
+msgstr ""
 
-#: ru/default.csv:221
+msgctxt "Title's Card"
+msgid "Title's Card"
+msgstr ""
+
+msgctxt "Title's List"
+msgid "Title's List"
+msgstr ""
+
+msgctxt ""
+"To be able to use ClamAV you must have it installed on your server and "
+"configured accordingly to our documentation."
+msgid ""
+"To be able to use ClamAV you must have it installed on your server and "
+"configured accordingly to our documentation."
+msgstr ""
+
+msgctxt "Toggle"
+msgid "Toggle"
+msgstr ""
+
+msgctxt "Toggle off"
+msgid "Toggle off"
+msgstr ""
+
+msgctxt "Toggle on"
+msgid "Toggle on"
+msgstr ""
+
+msgctxt "Toggle's Handle off"
+msgid "Toggle's Handle off"
+msgstr ""
+
+msgctxt "Toggle's Handle on"
+msgid "Toggle's Handle on"
+msgstr ""
+
+msgctxt "Token"
+msgid "Token"
+msgstr ""
+
+msgctxt "Tooltip"
+msgid "Tooltip"
+msgstr ""
+
+msgctxt "Top"
+msgid "Top"
+msgstr ""
+
+msgctxt "Top installs"
+msgid "Top installs"
+msgstr ""
+
+msgctxt "Top position"
+msgid "Top position"
+msgstr ""
+
+msgctxt "Top visits"
+msgid "Top visits"
+msgstr ""
+
+msgctxt "Topic"
+msgid "Topic"
+msgstr ""
+
+msgctxt "Topics"
+msgid "Topics"
+msgstr ""
+
+msgctxt "Total"
 msgid "Total"
 msgstr "Общий"
 
-#: ru/default.csv:222
+msgctxt "Total Excl. Tax"
+msgid "Total Excl. Tax"
+msgstr "Всего без налогов"
+
+msgctxt "Total installs"
+msgid "Total installs"
+msgstr ""
+
+msgctxt "Total sales"
+msgid "Total sales"
+msgstr ""
+
+msgctxt "Total visits"
+msgid "Total visits"
+msgstr "Глобальные посещения"
+
+msgctxt "Tour"
+msgid "Tour"
+msgstr ""
+
+msgctxt "Tour Edition"
+msgid "Tour Edition"
+msgstr ""
+
+msgctxt "Translation"
+msgid "Translation"
+msgstr "Переводы"
+
+msgctxt "Translations"
 msgid "Translations"
 msgstr "Переводы"
 
-#: ru/default.csv:223
+msgctxt "URL"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "Unable to add the contact to your address book"
 msgid "Unable to add the contact to your address book"
 msgstr "Невозможно добавить контакт в адресную книгу"
 
-#: ru/default.csv:224
+msgctxt "Unable to calculate the route."
 msgid "Unable to calculate the route."
 msgstr "Невозможно рассчитать маршрут."
 
-#: ru/default.csv:225
+msgctxt ""
+"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
+"your are not in `Staging`"
+msgid ""
+"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
+"your are not in `Staging`"
+msgstr ""
+
+msgctxt "Unable to find TC with id %s."
+msgid "Unable to find TC with id %s."
+msgstr ""
+
+msgctxt "Unable to save image"
 msgid "Unable to save image"
 msgstr "Невозможно сохранить изображение"
 
-#: ru/default.csv:226
+msgctxt "Unrecognized image format"
 msgid "Unrecognized image format"
 msgstr "Неизвестный формат изображения"
 
-#: ru/default.csv:227
+msgctxt "Until:"
+msgid "Until:"
+msgstr ""
+
+msgctxt "Updated at"
 msgid "Updated at"
 msgstr "Обновлено"
 
-#: ru/default.csv:228
+msgctxt "Upload to panel"
+msgid "Upload to panel"
+msgstr ""
+
+msgctxt "Upload your json here"
+msgid "Upload your json here"
+msgstr ""
+
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr ""
+
+msgctxt "Use the homepage image as background in all features"
+msgid "Use the homepage image as background in all features"
+msgstr ""
+
+msgctxt "Use this coupon"
 msgid "Use this coupon"
 msgstr "Используйте этот купон"
 
-#: ru/default.csv:229
+msgctxt "User"
 msgid "User"
 msgstr "Пользователь"
 
-#: ru/default.csv:230
+msgctxt "User successfully saved"
 msgid "User successfully saved"
 msgstr "Пользователь успешно сохранен"
 
-#: ru/default.csv:231
+msgctxt "Username"
 msgid "Username"
 msgstr "Имя пользователя"
 
-#: ru/default.csv:232
+msgctxt "Users"
 msgid "Users"
 msgstr "Пользователи"
 
-#: ru/default.csv:233
+msgctxt "Users activity"
+msgid "Users activity"
+msgstr ""
+
+msgctxt "Users localization"
+msgid "Users localization"
+msgstr ""
+
+msgctxt "VAT Number"
 msgid "VAT Number"
 msgstr "ИНН"
 
-#: ru/default.csv:234
+msgctxt "Valid until"
+msgid "Valid until"
+msgstr "Действует до"
+
+msgctxt "Validate"
 msgid "Validate"
 msgstr "Утвердить"
 
-#: ru/default.csv:235
+msgctxt "Validated points"
+msgid "Validated points"
+msgstr "погашенные метки ="
+
+msgctxt "Validated points by Loyalty card Analytics"
+msgid "Validated points by Loyalty card Analytics"
+msgstr ""
+
+msgctxt "Validations by Discount Analytics"
+msgid "Validations by Discount Analytics"
+msgstr ""
+
+msgctxt "Version %s"
 msgid "Version %s"
 msgstr "Версия %s"
 
-#: ru/default.csv:236
+msgctxt "Video"
+msgid "Video"
+msgstr "Vimeo"
+
+msgctxt "Video URL"
+msgid "Video URL"
+msgstr "Ссылка на видео:"
+
+msgctxt "Videos"
+msgid "Videos"
+msgstr ""
+
+msgctxt "View"
 msgid "View"
 msgstr "Вид"
 
-#: ru/default.csv:237
+msgctxt "View full article"
+msgid "View full article"
+msgstr ""
+
+msgctxt "View my actual data"
+msgid "View my actual data"
+msgstr ""
+
+msgctxt "Visits"
+msgid "Visits"
+msgstr ""
+
+msgctxt "Visits by feature (All)"
+msgid "Visits by feature (All)"
+msgstr ""
+
+msgctxt "Visits by feature (Top 5)"
+msgid "Visits by feature (Top 5)"
+msgstr ""
+
+msgctxt "Visits by product (TOP 20)"
+msgid "Visits by product (TOP 20)"
+msgstr ""
+
+msgctxt "We are sorry but this address is already used."
 msgid "We are sorry but this address is already used."
 msgstr "Мы сожалеем, но этот адрес уже используется."
 
-#: ru/default.csv:238
+msgctxt "We are sorry but this email address already exists."
 msgid "We are sorry but this email address already exists."
 msgstr "Мы сожалеем, но этот адрес уже существует."
 
-#: ru/default.csv:239
-msgid "We are sorry but this feature is not available yet"
-msgstr "Мы сожалеем, но эта функция пока не доступна"
+msgctxt "We are sorry but this username already exists."
+msgid "We are sorry but this username already exists."
+msgstr "Мы сожалеем, но этот адрес уже существует."
 
-#: ru/default.csv:240
+msgctxt "Web folder Owner"
+msgid "Web folder Owner"
+msgstr ""
+
+msgctxt "Web space"
+msgid "Web space"
+msgstr ""
+
+msgctxt "Webhook"
+msgid "Webhook"
+msgstr ""
+
+msgctxt "Weblink"
+msgid "Weblink"
+msgstr ""
+
+msgctxt "Website"
 msgid "Website"
 msgstr "Сайт"
 
-#: ru/default.csv:241
+msgctxt "We've sent you an e-mail with your access token."
+msgid "We've sent you an e-mail with your access token."
+msgstr ""
+
+msgctxt ""
+"When selecting 'Enable test API' in a payment method, be sure to create test "
+"credentials, check the documentation of your payment method."
+msgid ""
+"When selecting 'Enable test API' in a payment method, be sure to create test "
+"credentials, check the documentation of your payment method."
+msgstr ""
+
+msgctxt "White Label Editor"
+msgid "White Label Editor"
+msgstr ""
+
+msgctxt "Who is online"
+msgid "Who is online"
+msgstr ""
+
+msgctxt "Winners list"
+msgid "Winners list"
+msgstr ""
+
+msgctxt "WordPress"
+msgid "WordPress"
+msgstr "Wordpress"
+
+msgctxt "Wordpress"
+msgid "Wordpress"
+msgstr "Wordpress"
+
+msgctxt "Year"
+msgid "Year"
+msgstr ""
+
+msgctxt "Yearly"
+msgid "Yearly"
+msgstr ""
+
+msgctxt "Yes"
 msgid "Yes"
 msgstr "ДА"
 
-#: ru/default.csv:242
+msgctxt "You already have this user in your contact"
 msgid "You already have this user in your contact"
 msgstr "У вас уже есть этот пользователь с таким контактом"
 
-#: ru/default.csv:243
+msgctxt "You are about to delete this certificate, Are you sure ?"
+msgid "You are about to delete this certificate, Are you sure ?"
+msgstr ""
+
+msgctxt "You are gone offline"
 msgid "You are gone offline"
 msgstr "Вы вышли из интернета"
 
-#: ru/default.csv:244
+msgctxt "You are not allowed to delete a feature!"
+msgid "You are not allowed to delete a feature!"
+msgstr ""
+
+msgctxt ""
+"You are using a custom SMTP configuration, and the following white-label "
+"administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
+"listed.<br /><br />You can add his domain in your SMTP provider panel and "
+"send him the instructions to configure it for his domain."
+msgid ""
+"You are using a custom SMTP configuration, and the following white-label "
+"administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
+"listed.<br /><br />You can add his domain in your SMTP provider panel and "
+"send him the instructions to configure it for his domain."
+msgstr ""
+
+msgctxt ""
+"You can add allowed extensions, please note that .php, .js & .ico are "
+"strictly forbidden and can't be added"
+msgid ""
+"You can add allowed extensions, please note that .php, .js & .ico are "
+"strictly forbidden and can't be added"
+msgstr ""
+
+msgctxt ""
+"You can extend JAVA & GRADLE options to better fit your server hardware."
+msgid ""
+"You can extend JAVA & GRADLE options to better fit your server hardware."
+msgstr ""
+
+msgctxt "You can follow the URL below to access your data report"
+msgid "You can follow the URL below to access your data report"
+msgstr ""
+
+msgctxt "You can globally disable a feature!"
+msgid "You can globally disable a feature!"
+msgstr ""
+
+msgctxt "You can upload a pem certificate only."
 msgid "You can upload a pem certificate only."
 msgstr "Вы можете загрузить только сертификат pem"
 
-#: ru/default.csv:245
+msgctxt "You can upload a png only (.png)."
+msgid "You can upload a png only (.png)."
+msgstr ""
+
+msgctxt "You can upload a zip archive only."
 msgid "You can upload a zip archive only."
 msgstr "Вы можете загрузить только ZIP архив."
 
-#: ru/default.csv:246
+msgctxt "You can upload an icon only (.ico and .png)."
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "Вы можете загрузить иконку только в формате (.ico и .png)."
 
-#: ru/default.csv:247
+msgctxt "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
-msgstr "Вы можете загрузить изображение только в формате (.jpg, .jpeg, .gif и .png)."
+msgstr ""
+"Вы можете загрузить изображение только в формате (.jpg, .jpeg, .gif и .png)."
 
-#: ru/default.csv:248
+msgctxt "You cannot add this feature"
+msgid "You cannot add this feature"
+msgstr "Вы не можете добавить эту функцию"
+
+msgctxt "You can't upload more than one file at a time."
 msgid "You can't upload more than one file at a time."
 msgstr "Вы не можете загрузить более одного файла одновременно."
 
-#: ru/default.csv:249
+msgctxt "You current working environment is"
+msgid "You current working environment is"
+msgstr ""
+
+msgctxt "You don't have any applications yet"
+msgid "You don't have any applications yet"
+msgstr "Вы ещё не имеют никаких приложений"
+
+msgctxt "You don't have any invoices yet"
+msgid "You don't have any invoices yet"
+msgstr "Вы ещё не имеете никаких счетов. "
+
+msgctxt "You have gone offline"
+msgid "You have gone offline"
+msgstr "Вы вышли из интернета"
+
+msgctxt "You have to chose a start and an end date."
+msgid "You have to chose a start and an end date."
+msgstr ""
+
+msgctxt "You must be logged in to like something!"
+msgid "You must be logged in to like something!"
+msgstr "Вы должны войти в систему для проверки меток"
+
+msgctxt "You must be logged in to post a comment"
 msgid "You must be logged in to post a comment"
 msgstr "Вы должны быть зарегистрированы, чтобы оставить комментарий."
 
-#: ru/default.csv:250
-msgid "You must give the permission to the app to add a contact to your address book"
-msgstr "Вы должны дать разрешение приложению, чтобы добавить контакт в адресную книгу"
+msgctxt "You must fill ip & port."
+msgid "You must fill ip & port."
+msgstr ""
 
-#: ru/default.csv:251
+msgctxt "You must first complete the current category creation process"
+msgid "You must first complete the current category creation process"
+msgstr "Вы должны сначала завершить текущий процесс по созданию категории"
+
+msgctxt ""
+"You must give the permission to the app to add a contact to your address book"
+msgid ""
+"You must give the permission to the app to add a contact to your address book"
+msgstr ""
+"Вы должны дать разрешение приложению, чтобы добавить контакт в адресную книгу"
+
+msgctxt "You must share your location to access this page."
 msgid "You must share your location to access this page."
 msgstr "Вы должны сообщить свое местоположение для доступа к этой странице."
 
-#: ru/default.csv:252
-msgid "Your browser is too old to view the content of our website.<br />"
-msgstr "Ваш браузер слишком стар, чтобы просмотреть содержимое нашего сайта. <br />"
+msgctxt "You will lose all unsaved changes, continue?"
+msgid "You will lose all unsaved changes, continue?"
+msgstr "Вы можете потерять все не сохраненные изменения!"
 
-#: ru/default.csv:253
+msgctxt "Your PHP version is too old, please upgrade to PHP 5.4+."
+msgid "Your PHP version is too old, please upgrade to PHP 5.4+."
+msgstr ""
+
+msgctxt "Your access token is"
+msgid "Your access token is"
+msgstr ""
+
+msgctxt "Your analytics will be computed and available soon"
+msgid "Your analytics will be computed and available soon"
+msgstr ""
+
+msgctxt "Your are not allowed to assign this role."
+msgid "Your are not allowed to assign this role."
+msgstr ""
+
+msgctxt "Your browser is too old to view the content of our website.<br />"
+msgid "Your browser is too old to view the content of our website.<br />"
+msgstr ""
+"Ваш браузер слишком стар, чтобы просмотреть содержимое нашего сайта. <br />"
+
+msgctxt "Your build should be ready"
+msgid "Your build should be ready"
+msgstr ""
+
+msgctxt "Your comment"
 msgid "Your comment"
 msgstr "Ваш комментарий"
 
-#: ru/default.csv:254
+msgctxt "Your email address"
 msgid "Your email address"
 msgstr "Ваш адрес электронной почты "
 
-#: ru/default.csv:255
+msgctxt "Your email address does not exist"
 msgid "Your email address does not exist"
 msgstr "Ваш адрес электронной почты не существует"
 
-#: ru/default.csv:256
+msgctxt "Your invoice has been edited successfully."
+msgid "Your invoice has been edited successfully."
+msgstr ""
+
+msgctxt "Your name"
 msgid "Your name"
 msgstr "Ваше имя"
 
-#: ru/default.csv:257
+msgctxt "Your new password has been sent to the entered email address"
 msgid "Your new password has been sent to the entered email address"
 msgstr "Ваш новый пароль был отправлен к введенному адресу электронной почты"
 
-#: ru/default.csv:258
+msgctxt "Your password does not match the entered password."
 msgid "Your password does not match the entered password."
 msgstr "Ваш пароль не соответствует введенному паролю."
 
-#: ru/default.csv:259
+msgctxt ""
+"Your request has been successfully sent, please wait for your administrator "
+"to answer."
+msgid ""
+"Your request has been successfully sent, please wait for your administrator "
+"to answer."
+msgstr ""
+
+msgctxt "Your subscription has been deleted successfully."
+msgid "Your subscription has been deleted successfully."
+msgstr ""
+
+msgctxt "Your subscription status has been changed successfully."
+msgid "Your subscription status has been changed successfully."
+msgstr ""
+
+msgctxt "Youtube"
 msgid "Youtube"
 msgstr "Youtube"
 
-#: ru/default.csv:260
+msgctxt "Zip code"
+msgid "Zip code"
+msgstr "Почтовый индекс"
+
+msgctxt "average"
+msgid "average"
+msgstr ""
+
+msgctxt "be careful or set it back to"
+msgid "be careful or set it back to"
+msgstr ""
+
+msgctxt "close"
 msgid "close"
 msgstr "закрытие"
 
-#: ru/default.csv:261
+msgctxt "confirm action, deletion, etc ..."
+msgid "confirm action, deletion, etc ..."
+msgstr ""
+
+msgctxt "contextual, depends on module/layout"
+msgid "contextual, depends on module/layout"
+msgstr ""
+
+msgctxt "day"
 msgid "day"
 msgstr "день"
 
-#: ru/default.csv:262
+msgctxt "days"
 msgid "days"
 msgstr "дней"
 
-#: ru/default.csv:263
+msgctxt "disabled"
+msgid "disabled"
+msgstr ""
+
+msgctxt "en"
 msgid "en"
 msgstr "en"
 
-#: ru/default.csv:264
+msgctxt "enabled"
+msgid "enabled"
+msgstr ""
+
+msgctxt "form submit, search, validation, confirmation"
+msgid "form submit, search, validation, confirmation"
+msgstr ""
+
+msgctxt "hh:mm a"
+msgid "hh:mm a"
+msgstr ""
+
+msgctxt "high"
+msgid "high"
+msgstr ""
+
+msgctxt "hour"
 msgid "hour"
 msgstr "час"
 
-#: ru/default.csv:265
+msgctxt "hours"
 msgid "hours"
 msgstr "часов"
 
-#: ru/default.csv:266
+msgctxt "iOS & Android"
+msgid "iOS & Android"
+msgstr ""
+
+msgctxt "iOS Source"
+msgid "iOS Source"
+msgstr ""
+
+msgctxt "iOS Spinner"
+msgid "iOS Spinner"
+msgstr ""
+
+msgctxt "iOS base Bundle ID  must contain only letters, dots & minus."
+msgid "iOS base Bundle ID  must contain only letters, dots & minus."
+msgstr ""
+
+msgctxt ""
+"iOS base Bundle ID  must contain only letters, dots & minus with at least "
+"two dots.<br />Example: com.mydomain.admin"
+msgid ""
+"iOS base Bundle ID  must contain only letters, dots & minus with at least "
+"two dots.<br />Example: com.mydomain.admin"
+msgstr ""
+
+msgctxt "iOS base Bundle ID can't be empty."
+msgid "iOS base Bundle ID can't be empty."
+msgstr ""
+
+msgctxt "iOS only"
+msgid "iOS only"
+msgstr ""
+
+msgctxt "iPhone"
+msgid "iPhone"
+msgstr ""
+
+msgctxt "iTunes"
+msgid "iTunes"
+msgstr ""
+
+msgctxt "iTunes Connect providers"
+msgid "iTunes Connect providers"
+msgstr ""
+
+msgctxt "idle"
+msgid "idle"
+msgstr ""
+
+msgctxt "informative, modal"
+msgid "informative, modal"
+msgstr ""
+
+msgctxt "is updated once a day"
+msgid "is updated once a day"
+msgstr ""
+
+msgctxt "loading"
 msgid "loading"
 msgstr "Загрузка"
 
-#: ru/default.csv:267
+msgctxt "low"
+msgid "low"
+msgstr ""
+
+msgctxt "maintenance"
+msgid "maintenance"
+msgstr ""
+
+msgctxt "minute"
 msgid "minute"
 msgstr "минут"
 
-#: ru/default.csv:268
+msgctxt "minutes"
 msgid "minutes"
 msgstr "минут"
 
-#: ru/default.csv:269
+msgctxt "nd"
+msgid "nd"
+msgstr ""
+
+msgctxt "never"
+msgid "never"
+msgstr "Никогда "
+
+msgctxt "online"
+msgid "online"
+msgstr ""
+
+msgctxt "phone, locate, facebook, email, etc.."
+msgid "phone, locate, facebook, email, etc.."
+msgstr ""
+
+msgctxt "picture"
 msgid "picture"
 msgstr "картинку"
 
-#: ru/default.csv:270
+msgctxt "posts"
+msgid "posts"
+msgstr ""
+
+msgctxt "remaining characters"
+msgid "remaining characters"
+msgstr ""
+
+msgctxt "%s / Month"
+msgid "%s / Month"
+msgstr ""
+
+msgctxt "%s / Year"
+msgid "%s / Year"
+msgstr ""
+
+msgctxt "%s An unknown error occurred, please try again later."
+msgid "%s An unknown error occurred, please try again later."
+msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
+
+msgctxt "%s Image"
+msgid "%s Image"
+msgstr ""
+
+msgctxt "%s Images"
+msgid "%s Images"
+msgstr ""
+
+msgctxt "%s, No params sent."
+msgid "%s, No params sent."
+msgstr ""
+
+msgctxt "%s ago"
+msgid "%s ago"
+msgstr "%s назад"
+
+msgctxt "second"
 msgid "second"
 msgstr "секунда"
 
-#: ru/default.csv:271
+msgctxt "seconds"
 msgid "seconds"
 msgstr "секунд"
 
-#: ru/default.csv:272
+msgctxt "this feature is globally disabled!"
+msgid "this feature is globally disabled!"
+msgstr ""
+
+msgctxt "title"
 msgid "title"
 msgstr "название"
 
-#: ru/default.csv:273
+msgctxt "titles"
 msgid "titles"
 msgstr "названия"
 
-#: ru/default.csv:274
+msgctxt "to add a folder."
+msgid "to add a folder."
+msgstr "добавить папку."
+
+msgctxt "to add a subfolder."
 msgid "to add a subfolder."
 msgstr "добавить во вложенную папку."
+
+msgctxt "twitter"
+msgid "twitter"
+msgstr "Twitter"
+
+msgctxt "unreachable"
+msgid "unreachable"
+msgstr ""

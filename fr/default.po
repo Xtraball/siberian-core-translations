@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-15 11:02+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
 "Language: fr\n"
@@ -14,1331 +14,4219 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/default.csv:1
-msgid "404, page not found"
-msgstr "404, page non trouvée"
-
-#: fr/default.csv:2
-msgid "APIs"
-msgstr "API"
-
-#: fr/default.csv:3
-msgid "Accounts"
-msgstr "Comptes"
-
-#: fr/default.csv:4
-msgid "Actions"
-msgstr "Actions"
-
-#: fr/default.csv:5
-msgid "Add"
-msgstr "Ajouter"
-
-#: fr/default.csv:6
-msgid "Add a"
-msgstr "Ajoutez une"
-
-#: fr/default.csv:7
-msgid "Add image"
-msgstr "Ajouter une image"
-
-#: fr/default.csv:8
-msgid "Address"
-msgstr "Adresse"
-
-#: fr/default.csv:9
-msgid "All items"
-msgstr "Tout"
-
-#: fr/default.csv:10
-msgid "Allow all the users by default: "
-msgstr "Autoriser tous les utilisateurs par défaut:"
-
-#: fr/default.csv:11
-msgid "An error occurred during process. Please try again later."
-msgstr "Une erreur est survenue lors du traitement. Veuillez réessayer ultérieurement."
-
-#: fr/default.csv:12
-msgid "An error occurred during the process. Please try again later."
-msgstr "Une erreur est survenue lors du traitement. Veuillez réessayer ultérieurement."
-
-#: fr/default.csv:13
-msgid "An error occurred while loading places."
-msgstr "Une erreur s'est produite lors du chargement de lieux ."
-
-#: fr/default.csv:14
-msgid "An error occurred while loading. Please try again later."
-msgstr "Une erreur est survenue lors du chargement. Veuillez de réessayer ultérieurement."
-
-#: fr/default.csv:15
-msgid "An error occurred while loading. Please, try again later."
-msgstr "Une erreur est survenue lors du chargement. Veuillez de réessayer ultérieurement."
-
-#: fr/default.csv:16
-msgid "An error occurred while saving"
-msgstr "Une erreur est survenue lors de la sauvegarde."
-
-#: fr/default.csv:17
-msgid "An error occurred while saving your account. Please try again later."
-msgstr "Une erreur est survenue lors de la sauvegarde du compte. Merci de réessayer ultérieurement"
-
-#: fr/default.csv:18
-msgid "An error occurred while saving your picture. Please try againg later."
-msgstr "Une erreur est survenue lors de l'enregistrement de votre image. Merci de réessayer ultérieurement."
-
-#: fr/default.csv:19
-msgid "An error occurred while saving. Please try again later."
-msgstr "Une erreur est survenue lors de la sauvegarde. Veuillez réessayer ultérieurement."
-
-#: fr/default.csv:20
-msgid "An error occurred while saving. Please, try again later."
-msgstr "Une erreur est survenue lors de la sauvegarde. Veuillez réessayer ultérieurement."
-
-#: fr/default.csv:21
-msgid "An error occurred while uploading your file. Please, try again later."
-msgstr "Une erreur est survenue lors du téléchargement du fichier. Veuillez réessayer ultérieurement."
-
-#: fr/default.csv:22
-msgid "An unexpected error occurred while calculating the route."
-msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
-
-#: fr/default.csv:23
-msgid "Appearance"
-msgstr "Apparence"
-
-#: fr/default.csv:24
-msgid "Application"
-msgstr "Application"
-
-#: fr/default.csv:25
-msgid "Application Name"
-msgstr "Nom de l'application"
-
-#: fr/default.csv:26
-msgid "Applications"
-msgstr "Applications"
-
-#: fr/default.csv:27
-msgid "Are you sure you want to delete this element?"
-msgstr "Êtes-vous sûr de vouloir supprimer cet élément ?"
-
-#: fr/default.csv:28
-msgid "Are you sure you want to remove this account?"
-msgstr "tes-vous sûr de vouloir supprimer ce compte ?"
-
-#: fr/default.csv:29
-msgid "Authentication failed. Please check your email and/or your password"
-msgstr "Authentification impossible. Merci de vérifier votre email et/ou votre mot de passe"
-
-#: fr/default.csv:30
-msgid "Back"
-msgstr "Retour"
-
-#: fr/default.csv:31
-msgid "Background"
-msgstr "Fond"
-
-#: fr/default.csv:32
-msgid "Booking"
-msgstr "Réservation"
-
-#: fr/default.csv:33
-msgid "Browse"
-msgstr "Parcourir"
-
-#: fr/default.csv:34
-msgid "Calendar"
-msgstr "Calendrier"
-
-#: fr/default.csv:35
-msgid "Can only be used once"
-msgstr "Utilisable une seule fois"
-
-#: fr/default.csv:36
-msgid "Cancel"
-msgstr "Annuler"
-
-#: fr/default.csv:37
-msgid "Cart"
-msgstr "Panier"
-
-#: fr/default.csv:38
-msgid "Change password"
-msgstr "Modifier le mot de passe"
-
-#: fr/default.csv:39
-msgid "City"
-msgstr "Ville"
-
-#: fr/default.csv:40
-msgid "City:"
-msgstr "Ville :"
-
-#: fr/default.csv:41
-msgid "Close"
-msgstr "Fermer"
-
-#: fr/default.csv:42
-msgid "Comment"
-msgstr "Commentaire"
-
-#: fr/default.csv:43
-msgid "Comments"
-msgstr "Commentaires"
-
-#: fr/default.csv:44
-msgid "Communication"
-msgstr "Communication"
-
-#: fr/default.csv:45
-msgid "Company"
-msgstr "Société"
-
-#: fr/default.csv:46
-msgid "Coms"
-msgstr "Coms"
-
-#: fr/default.csv:47
-msgid "Conditions"
-msgstr "Conditions"
-
-#: fr/default.csv:48
-msgid "Confirm Password"
-msgstr "Confirmer le mot de passe"
-
-#: fr/default.csv:49
-msgid "Confirm new password"
-msgstr "Confirmer le nouveau mot de passe"
-
-#: fr/default.csv:50
-msgid "Contact successfully added to your address book"
-msgstr "Contact ajouté à votre carnet d'adresses"
-
-#: fr/default.csv:51
-msgid "Contest"
-msgstr "Concours"
-
-#: fr/default.csv:52
-msgid "Country"
-msgstr "Pays"
-
-#: fr/default.csv:53
-msgid "Create"
-msgstr "Créer"
-
-#: fr/default.csv:54
-msgid "Create a new account"
-msgstr "Création d'un compte"
-
-#: fr/default.csv:55
-msgid "Created at"
-msgstr "Créé le"
-
-#: fr/default.csv:56
-msgid "Currency"
-msgstr "Devise"
-
-#: fr/default.csv:57
-msgid "Current password"
-msgstr "Ancien mot de passe"
-
-#: fr/default.csv:58
-msgid "Custom Page"
-msgstr "Page"
-
-#: fr/default.csv:59
-msgid "Custon Page"
-msgstr "Page"
-
-#: fr/default.csv:60
-msgid "Dashboard"
-msgstr "Dashboard"
-
-#: fr/default.csv:61
-msgid "Date of birth"
-msgstr "Date d'anniversaire"
-
-#: fr/default.csv:62
-msgid "Date of birth:"
-msgstr "Date de naissance :"
-
-#: fr/default.csv:63
-msgid "Default Languages"
-msgstr "Langue par défaut"
-
-#: fr/default.csv:64
-msgid "Delete"
-msgstr "Supprimer"
-
-#: fr/default.csv:65
-msgid "Description"
-msgstr "Description"
-
-#: fr/default.csv:66
-msgid "Description:"
-msgstr "Description :"
-
-#: fr/default.csv:67
-msgid "Details"
-msgstr "Détails"
-
-#: fr/default.csv:68
-msgid "Discount"
-msgstr "Promotion"
-
-#: fr/default.csv:69
-msgid "Edit"
-msgstr "Editer"
-
-#: fr/default.csv:70
-msgid "Editing"
-msgstr "Création"
-
-#: fr/default.csv:71
-msgid "Email"
-msgstr "E-mail"
-
-#: fr/default.csv:72
-msgid "Email address"
-msgstr "Adresse email"
-
-#: fr/default.csv:73
-msgid "Email:"
-msgstr "Email :"
-
-#: fr/default.csv:74
-msgid "End at"
-msgstr "Se termine"
-
-#: fr/default.csv:75
-msgid "Error : <br/>"
-msgstr "Erreur : <br/>"
-
-#: fr/default.csv:76
-msgid "Errors : <br/>"
-msgstr "Erreurs : <br/>"
-
-#: fr/default.csv:77
-msgid "Export your customers"
-msgstr "Exportez vos clients"
-
-#: fr/default.csv:78
-msgid "Extension not allowed, '%s' only"
-msgstr "Extension non autorisée, '%s' seulement."
-
-#: fr/default.csv:79
-msgid "Facebook"
-msgstr "Facebook"
-
-#: fr/default.csv:80
-msgid "Firstname"
-msgstr "Prénom"
-
-#: fr/default.csv:81
-msgid "Firstname:"
-msgstr "Prénom :"
-
-#: fr/default.csv:82
-msgid "Folder"
-msgstr "Dossier"
-
-#: fr/default.csv:83
-msgid "Forgot your password ?"
-msgstr "Mot de passe oublié ?"
-
-#: fr/default.csv:84
-msgid "Forgot your password? Don't worry! Simply enter your email address and we'll send you a new one right now."
-msgstr "Vous avez oublié votre mot passe ? Ne vous inquiétez pas ! Saisissez votre adresse email, nous vous en renverrons un immédiatement."
-
-#: fr/default.csv:85
-msgid "Form"
-msgstr "Formulaire"
-
-#: fr/default.csv:86
-msgid "General"
-msgstr "Général"
-
-#: fr/default.csv:87
-msgid "Hello,"
-msgstr "Bonjour,"
-
-#: fr/default.csv:88
-msgid "Here is your new password:"
-msgstr "Voici votre nouveau mot de passe :"
-
-#: fr/default.csv:89
-msgid "How do you want to access the backoffice if you remove the only user remaining?"
-msgstr "Comment voulez-vous accéder à l'administration si vous supprimez le seul utilisateur restant ?"
-
-#: fr/default.csv:90
-msgid "ID"
-msgstr "Id"
-
-#: fr/default.csv:91
-msgid "Image not high enough, %spx minimum allowed."
-msgstr "Image pas assez grande, %spx minimum authorisé."
-
-#: fr/default.csv:92
-msgid "Image not large enough, %spx minimum allowed."
-msgstr "Image pas assez large, %spx minimum authorisé."
-
-#: fr/default.csv:93
-msgid "Image not large enough, '%s' allowed."
-msgstr "Image pas assez large, '%s' autorisé."
-
-#: fr/default.csv:94
-msgid "Image too high, %spx maximum allowed."
-msgstr "Image trop grande, %spx maximum authorisé."
-
-#: fr/default.csv:95
-msgid "Image too large, %spx maximum allowed."
-msgstr "Image trop large, %spx maximum authorisé."
-
-#: fr/default.csv:96
-msgid "Image too large, '%s' allowed."
-msgstr "Image trop large, '%s' maximum authorisé."
-
-#: fr/default.csv:97
-msgid "In order to fully enjoy our features, we encourage you to use at least:.<br />"
-msgstr "Pour profiter pleinement de nos fonctionnalités, nous vous encourageons à utiliser au minimum :<br />"
-
-#: fr/default.csv:98
-msgid "In order to publish your application, we need:<br />- "
-msgstr "Afin de publier votre application, nous avons besoin de :<br />"
-
-#: fr/default.csv:99
-msgid "Incorrect filetype."
-msgstr "Type de fichier incorrect."
-
-#: fr/default.csv:100
-msgid "Info successfully saved"
-msgstr "Informations sauvegardées avec succès"
-
-#: fr/default.csv:101
-msgid "Information"
-msgstr "Informations"
-
-#: fr/default.csv:102
-msgid "Informations"
-msgstr "Informations"
-
-#: fr/default.csv:103
-msgid "Infos successfully saved"
-msgstr "Informations sauvegardées avec succès"
-
-#: fr/default.csv:104
-msgid "Insert a <br /><span class=\"bold\">cover image</span>"
-msgstr "Insérez une <br /><span class=\"bold\">image de couverture</span>"
-
-#: fr/default.csv:105
-msgid "Invalid place"
-msgstr "lieu non valide"
-
-#: fr/default.csv:106
-msgid "Invoices"
-msgstr "Factures"
-
-#: fr/default.csv:107
-msgid "Last Name"
-msgstr "Nom de famille"
-
-#: fr/default.csv:108
-msgid "Lastname"
-msgstr "Nom"
-
-#: fr/default.csv:109
-msgid "Lastname:"
-msgstr "Nom de Famille :"
-
-#: fr/default.csv:110
-msgid "Like"
-msgstr "J'aime"
-
-#: fr/default.csv:111
-msgid "Likes"
-msgstr "Likes"
-
-#: fr/default.csv:112
-msgid "Link"
-msgstr "Lien"
-
-#: fr/default.csv:113
-msgid "Links"
-msgstr "Liens"
-
-#: fr/default.csv:114
-msgid "Load More"
-msgstr "Chargez Plus"
-
-#: fr/default.csv:115
-msgid "Locate"
-msgstr "Localiser"
-
-#: fr/default.csv:116
-msgid "Location:"
-msgstr "Lieu :"
-
-#: fr/default.csv:117
-msgid "Log in"
-msgstr "Connexion"
-
-#: fr/default.csv:118
-msgid "Log-in"
-msgstr "Connexion"
-
-#: fr/default.csv:119
-msgid "Log-out"
-msgstr "Déconnexion"
-
-#: fr/default.csv:120
-msgid "Logged in as"
-msgstr "Connecté en tant que"
-
-#: fr/default.csv:121
-msgid "Loyalty Card"
-msgstr "Fidélité"
-
-#: fr/default.csv:122
-msgid "MM,d yy"
-msgstr "d MM yy"
-
-#: fr/default.csv:123
-msgid "MM/dd/y"
-msgstr "dd/MM/y"
-
-#: fr/default.csv:124
-msgid "MM/dd/y 'at' hh:mm a"
-msgstr "dd/MM/y à hh'h'mm"
-
-#: fr/default.csv:125
-msgid "MM/dd/y hh:mm a"
-msgstr "dd/MM/y hh:mm"
-
-#: fr/default.csv:126
-msgid "MM/dd/yy"
-msgstr "dd/MM/yy"
-
-#: fr/default.csv:127
-msgid "MM/dd/yyyy"
-msgstr "dd/MM/yyyy"
-
-#: fr/default.csv:128
-msgid "MMMM dd y"
-msgstr "dd MMMM y"
-
-#: fr/default.csv:129
-msgid "Main category"
-msgstr "Catégorie principale"
-
-#: fr/default.csv:130
-msgid "Make this image colorizable"
-msgstr "Rendre cette image colorisable"
-
-#: fr/default.csv:131
-msgid "Manage"
-msgstr "Gérer"
-
-#: fr/default.csv:132
-msgid "Map"
-msgstr "Carte"
-
-#: fr/default.csv:133
-msgid "Maps"
-msgstr "Carte"
-
-#: fr/default.csv:134
-msgid "Message from your app %s"
-msgstr "Message en provenance de votre application %s"
-
-#: fr/default.csv:135
-msgid "Messages"
-msgstr "Messages"
-
-#: fr/default.csv:136
-msgid "Modules"
-msgstr "Modules"
-
-#: fr/default.csv:137
-msgid "More"
-msgstr "Plus d'infos"
-
-#: fr/default.csv:138
-msgid "My account"
-msgstr "Mon compte"
-
-#: fr/default.csv:139
-msgid "My invoices"
-msgstr "Mes factures"
-
-#: fr/default.csv:140
-msgid "Name"
-msgstr "Nom"
-
-#: fr/default.csv:141
-msgid "Never"
-msgstr "Jamais"
-
-#: fr/default.csv:142
-msgid "New"
-msgstr "Nouveau"
-
-#: fr/default.csv:143
-msgid "Newswall"
-msgstr "Mur d'actu"
-
-#: fr/default.csv:144
-msgid "Next"
-msgstr "Suivant"
-
-#: fr/default.csv:145
-msgid "No"
-msgstr "Non"
-
-#: fr/default.csv:146
-msgid "No address to display on map."
-msgstr "Aucune adresse pour afficher sur la carte."
-
-#: fr/default.csv:147
-msgid "No place to display on map."
-msgstr "Pas de POI pour afficher sur la carte."
-
-#: fr/default.csv:148
-msgid "No results"
-msgstr "Aucun résultat"
-
-#: fr/default.csv:149
-msgid "No uploaded image"
-msgstr "Aucune image téléchargée"
-
-#: fr/default.csv:150
-msgid "Nothing to display"
-msgstr "Rien à afficher"
-
-#: fr/default.csv:151
-msgid "Number"
-msgstr "Nombre"
-
-#: fr/default.csv:152
-msgid "OK"
-msgstr "OK"
-
-#: fr/default.csv:153
-msgid "OR"
-msgstr "Ou"
-
-#: fr/default.csv:154
-msgid "Ouch, this page doesn't exist"
-msgstr "Oups, cette page n'existe pas"
-
-#: fr/default.csv:155
-msgid "Padlock"
-msgstr "Privé"
-
-#: fr/default.csv:156
-msgid "Password"
-msgstr "Mot de passe"
-
-#: fr/default.csv:157
-msgid "Password:"
-msgstr "Mot de passe :"
-
-#: fr/default.csv:158
-msgid "Passwords don't match"
-msgstr "Les mots de passe ne sont pas identiques"
-
-#: fr/default.csv:159
-msgid "Payment"
-msgstr "Paiement"
-
-#: fr/default.csv:160
-msgid "Phone"
-msgstr "Téléphone"
-
-#: fr/default.csv:161
-msgid "Phone:"
-msgstr "Téléphone"
-
-#: fr/default.csv:162
-msgid "Photos"
-msgstr "Photos"
-
-#: fr/default.csv:163
-msgid "Plans"
-msgstr "Plans"
-
-#: fr/default.csv:164
-msgid "Platform Name"
-msgstr "Nom de la plate-forme"
-
-#: fr/default.csv:165
-msgid "Player"
-msgstr "Lecteur"
-
-#: fr/default.csv:166
-msgid "Please enter a password"
-msgstr "Veuillez saisir un mot de passe."
-
-#: fr/default.csv:167
-msgid "Please enter a valid URL."
-msgstr "SVP entrer une URL valide."
-
-#: fr/default.csv:168
-msgid "Please enter a valid credit card number."
-msgstr "SVP entrez un numéro de carte de crédit valide."
-
-#: fr/default.csv:169
-msgid "Please enter a valid date (ISO)."
-msgstr "Se il vous plaît entrer une date valide (ISO)."
-
-#: fr/default.csv:170
-msgid "Please enter a valid date."
-msgstr "SVP entrer une date valide."
-
-#: fr/default.csv:171
-msgid "Please enter a valid email address"
-msgstr "Veuillez entrer une adresse email valide"
-
-#: fr/default.csv:172
-msgid "Please enter a valid email address."
-msgstr "SVP entrer une adresse email valide."
-
-#: fr/default.csv:173
-msgid "Please enter a valid number."
-msgstr "SVP entrer un numéro valide."
-
-#: fr/default.csv:174
-msgid "Please enter a valid url"
-msgstr "Veuillez saisir une url correcte"
-
-#: fr/default.csv:175
-msgid "Please enter a value between {0} and {1} characters long."
-msgstr "SVP entrer une valeur comprise entre {0} et {1} caractères."
-
-#: fr/default.csv:176
-msgid "Please enter a value between {0} and {1}."
-msgstr "SVP entrer une valeur comprise entre {0} et {1}."
-
-#: fr/default.csv:177
-msgid "Please enter a value greater than or equal to {0}."
-msgstr "SVP entrer une valeur supérieure ou égale à {0}."
-
-#: fr/default.csv:178
-msgid "Please enter a value less than or equal to {0}."
-msgstr "Se il vous plaît entrer une valeur inférieure ou égale à {0}."
-
-#: fr/default.csv:179
-msgid "Please enter at least {0} characters."
-msgstr "SVP entrer au moins {0} caractères."
-
-#: fr/default.csv:180
-msgid "Please enter no more than {0} characters."
-msgstr "Se il vous plaît entrez pas plus de {0} caractères."
-
-#: fr/default.csv:181
-msgid "Please enter only digits."
-msgstr "SVP saisir que des chiffres."
-
-#: fr/default.csv:182
-msgid "Please enter the same value again."
-msgstr "SVP entrer de nouveau la même valeur."
-
-#: fr/default.csv:183
-msgid "Please enter your email address"
-msgstr "Veuillez saisir votre adresse email"
-
-#: fr/default.csv:184
-msgid "Please fill in the following fields:"
-msgstr "SVP remplir les champs suivants :"
-
-#: fr/default.csv:185
-msgid "Please fix this field."
-msgstr "SVP corriger ce domaine."
-
-#: fr/default.csv:186
-msgid "Please log in."
-msgstr "Veuillez vous connecter..."
-
-#: fr/default.csv:187
-msgid "Please, enter a correct email address."
-msgstr "Veuillez saisir une adresse email valide."
-
-#: fr/default.csv:188
-msgid "Please, enter a password."
-msgstr "Veuillez entrer un mot de passe"
-
-#: fr/default.csv:189
-msgid "Please, enter a valid date"
-msgstr "Veuillez saisir une date correcte"
-
-#: fr/default.csv:190
-msgid "Podcast"
-msgstr "Podcast"
-
-#: fr/default.csv:191
-msgid "Podcast URL (iTunes format)"
-msgstr "Podcast URL (format iTunes)"
-
-#: fr/default.csv:192
-msgid "Podcast type is invalid or can't be found"
-msgstr "Type Podcast est invalide ou ne peut pas être trouvé"
-
-#: fr/default.csv:193
-msgid "Postcode"
-msgstr "Code Postal"
-
-#: fr/default.csv:194
-msgid "Postcode:"
-msgstr "Code Postal :"
-
-#: fr/default.csv:195
-msgid "Push"
-msgstr "Push"
-
-#: fr/default.csv:196
-msgid "Push Notifications"
-msgstr "Push"
-
-#: fr/default.csv:197
-msgid "Required fields"
-msgstr "Champs obligatoire"
-
-#: fr/default.csv:198
-msgid "Resize your picture"
-msgstr "Redimensionnez votre image"
-
-#: fr/default.csv:199
-msgid "Resize your picture:"
-msgstr "Redimensionnez votre image :"
-
-#: fr/default.csv:200
-msgid "SEND"
-msgstr "ENVOYER"
-
-#: fr/default.csv:201
-msgid "Save"
-msgstr "Enregistrer"
-
-#: fr/default.csv:202
-msgid "Search"
-msgstr "Rechercher"
-
-#: fr/default.csv:203
-msgid "Select a country"
-msgstr "Sélectionnez un pays"
-
-#: fr/default.csv:204
-msgid "Select all"
-msgstr "sélectionner tous"
-
-#: fr/default.csv:205
-msgid "Send"
-msgstr "Envoyer"
-
-#: fr/default.csv:206
-msgid "Send your pictures"
-msgstr "Envoyez vos images"
-
-#: fr/default.csv:207
-msgid "Set Meal"
-msgstr "Produit"
-
-#: fr/default.csv:208
-msgid "Settings"
-msgstr "Paramètres"
-
-#: fr/default.csv:209
-msgid "Size:"
-msgstr "Taille :"
-
-#: fr/default.csv:210
-msgid "Street"
-msgstr "Rue"
-
-#: fr/default.csv:211
-msgid "Street:"
-msgstr "rue :"
-
-#: fr/default.csv:212
-msgid "Subscriptions"
-msgstr "Abonnements"
-
-#: fr/default.csv:213
-msgid "Support"
-msgstr "Support"
-
-#: fr/default.csv:214
-msgid "Support Link"
-msgstr "Lien du support"
-
-#: fr/default.csv:215
-msgid "Tax"
-msgstr "Taxe"
-
-#: fr/default.csv:216
-msgid "Taxes"
-msgstr "Taxes"
-
-#: fr/default.csv:217
-msgid "Text"
-msgstr "Texte"
-
-#: fr/default.csv:218
-msgid "The account has been successfully saved"
-msgstr "Le compte a été sauvegardé avec succès"
-
-#: fr/default.csv:219
-msgid "The address you're looking for does not exists."
-msgstr "L'adresse que vous recherchez n'existe pas."
-
-#: fr/default.csv:220
-msgid "The email is required"
-msgstr "L'email est requis"
-
-#: fr/default.csv:221
-msgid "The file '%s' does not exist"
-msgstr "Le fichier '%s' n'existe pas"
-
-#: fr/default.csv:222
-msgid "The image '%s' does not exist"
-msgstr "L'image '%s' n'existe pas"
-
-#: fr/default.csv:223
-msgid "The image size '%s' could not be detected."
-msgstr "La taille de l'image '%s' ne peut pas être détectée."
-
-#: fr/default.csv:224
-msgid "The old password does not match the entered password."
-msgstr "L'ancien mot de passe ne correspond pas au mot de passe saisi."
-
-#: fr/default.csv:225
-msgid "The password is required"
-msgstr "Le mot de passe est requis"
-
-#: fr/default.csv:226
-msgid "The password must be at least 6 characters"
-msgstr "Le mot de passe doit comporter au minimum 6 caractères"
-
-#: fr/default.csv:227
-msgid "The payment has been cancelled, something wrong happened? Feel free to contact us."
-msgstr "Le paiement a été annulé, n'hésitez pas à nous contacter."
-
-#: fr/default.csv:228
-msgid "This administrator does not exist"
-msgstr "Cette administrateur n'existe pas"
-
-#: fr/default.csv:229
-msgid "This email address is already used"
-msgstr "Cette adresse email est déjà utilisée"
-
-#: fr/default.csv:230
-msgid "This field is required"
-msgstr "Ce champ est obligatoire"
-
-#: fr/default.csv:231
-msgid "This field is required."
-msgstr "Ce champ est obligatoire."
-
-#: fr/default.csv:232
-msgid "This section is unlocked for mobile users only"
-msgstr "Cette section est débloqué pour les utilisateurs de mobiles"
-
-#: fr/default.csv:233
-msgid "Timezone"
-msgstr "Fuseau horaire"
-
-#: fr/default.csv:234
-msgid "Title"
-msgstr "Titre"
-
-#: fr/default.csv:235
-msgid "Title:"
-msgstr "Titre :"
-
-#: fr/default.csv:236
-msgid "Total"
-msgstr "Total"
-
-#: fr/default.csv:237
-msgid "Unable to add the contact to your address book"
-msgstr "Impossible d'ajouter le contact à votre carnet d'adresses"
-
-#: fr/default.csv:238
-msgid "Unable to calculate the route."
-msgstr "Impossible de calculer l'itinéraire."
-
-#: fr/default.csv:239
-msgid "Unable to save image"
-msgstr "Impossible d'enregistrer l'image"
-
-#: fr/default.csv:240
-msgid "Unrecognized image format"
-msgstr "Format d'image non reconnu"
-
-#: fr/default.csv:241
-msgid "Updated at"
-msgstr "Mise à jour le"
-
-#: fr/default.csv:242
-msgid "Use this coupon"
-msgstr "Utiliser cette promotion"
-
-#: fr/default.csv:243
-msgid "User"
-msgstr "Utilisateur"
-
-#: fr/default.csv:244
-msgid "User successfully saved"
-msgstr "Utilisateur correctement sauvegardé"
-
-#: fr/default.csv:245
-msgid "Username"
-msgstr "Nom d'utilisateur"
-
-#: fr/default.csv:246
-msgid "Users"
-msgstr "Utilisateurs"
-
-#: fr/default.csv:247
-msgid "VAT Number"
-msgstr "Numéro de TVA"
-
-#: fr/default.csv:248
-msgid "Validate"
-msgstr "Valider"
-
-#: fr/default.csv:249
-msgid "Version %s"
-msgstr "Version %s"
-
-#: fr/default.csv:250
-msgid "View"
-msgstr "Afficher"
-
-#: fr/default.csv:251
-msgid "We are sorry but this address is already used."
-msgstr "Nous sommes désolés mais cette adresse est déjà utilisée."
-
-#: fr/default.csv:252
-msgid "We are sorry but this email address already exists."
-msgstr "Nous sommes désolés mais cette adresse existe déjà."
-
-#: fr/default.csv:253
-msgid "We are sorry but this feature is not available yet"
-msgstr "Nous sommes désolé mais cette fonctionnalité n'est pas encore disponible"
-
-#: fr/default.csv:254
-msgid "Website"
-msgstr "Site web"
-
-#: fr/default.csv:255
-msgid "Yes"
-msgstr "Oui"
-
-#: fr/default.csv:256
-msgid "You already have this user in your contact"
-msgstr "Vous avez déjà cet utilisateur dans vos contacts"
-
-#: fr/default.csv:257
-msgid "You are gone offline"
-msgstr "Vous êtes déconnecté"
-
-#: fr/default.csv:258
-msgid "You can upload a pem certificate only."
-msgstr "Vous ne pouvez seulement envoyer qu'un certificat .pem"
-
-#: fr/default.csv:259
-msgid "You can upload a zip archive only."
-msgstr "Vous ne pouvez seulement envoyer qu'une archive .zip"
-
-#: fr/default.csv:260
-msgid "You can upload an icon only (.ico and .png)."
-msgstr "Vous ne pouvez seulement envoyer qu'une icone (.ico et .png)."
-
-#: fr/default.csv:261
-msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
-msgstr "Vous ne pouvez seulement envoyer qu'une image (.jpg, .jpeg, .gif et .png)."
-
-#: fr/default.csv:262
-msgid "You can't upload more than one file at a time."
-msgstr "Vous ne pouvez pas envoyer plusieurs fichiers en même temps"
-
-#: fr/default.csv:263
-msgid "You must be logged in to post a comment"
-msgstr "Vous devez être connecté pour poster un commentaire"
-
-#: fr/default.csv:264
-msgid "You must give the permission to the app to add a contact to your address book"
-msgstr "Vous devez donner la permission à l'application pour ajouter un contact à votre carnet d'adresses"
-
-#: fr/default.csv:265
-msgid "You must share your location to access this page."
-msgstr "Vous devez partager votre position pour accéder à cette page."
-
-#: fr/default.csv:266
-msgid "Your browser is too old to view the content of our website.<br />"
-msgstr "Votre navigateur est trop ancien pour voir le contenu de notre site web.<br />"
-
-#: fr/default.csv:267
-msgid "Your comment"
-msgstr "Votre commentaire"
-
-#: fr/default.csv:268
-msgid "Your email address"
-msgstr "Votre email"
-
-#: fr/default.csv:269
-msgid "Your email address does not exist"
-msgstr "Votre adresse email n'existe pas"
-
-#: fr/default.csv:270
-msgid "Your name"
-msgstr "Votre nom"
-
-#: fr/default.csv:271
-msgid "Your new password has been sent to the entered email address"
-msgstr "Un nouveau mot de passe vous a été envoyé à l'adresse email saisie"
-
-#: fr/default.csv:272
-msgid "Your password does not match the entered password."
-msgstr "Votre mot de passe ne correspond pas au mot de passe entré dans la confirmation."
-
-#: fr/default.csv:273
-msgid "Youtube"
-msgstr "Youtube"
-
-#: fr/default.csv:274
-msgid "close"
-msgstr "fermer"
-
-#: fr/default.csv:275
-msgid "day"
-msgstr "jour"
-
-#: fr/default.csv:276
-msgid "days"
-msgstr "journées"
-
-#: fr/default.csv:277
-msgid "en"
-msgstr "fr"
-
-#: fr/default.csv:278
-msgid "hour"
-msgstr "heure"
-
-#: fr/default.csv:279
-msgid "hours"
-msgstr "heures"
-
-#: fr/default.csv:280
-msgid "loading"
-msgstr "chargement"
-
-#: fr/default.csv:281
-msgid "minute"
-msgstr "minute"
-
-#: fr/default.csv:282
-msgid "minutes"
-msgstr "minutes"
-
-#: fr/default.csv:283
-msgid "picture"
-msgstr "illustration"
-
-#: fr/default.csv:284
-msgid "second"
-msgstr "deuxième"
-
-#: fr/default.csv:285
-msgid "seconds"
-msgstr "secondes"
-
-#: fr/default.csv:286
-msgid "title"
-msgstr "Titre"
-
-#: fr/default.csv:287
-msgid "titles"
-msgstr "titres"
-
-#: fr/default.csv:288
-msgid "to add a subfolder."
-msgstr "pour ajouter un sous-dossier."
-
-#: base/default.csv:1
+msgctxt "10 seconds"
 msgid "10 seconds"
 msgstr "10 secondes"
 
-#: base/default.csv:2
+msgctxt "15 seconds"
 msgid "15 seconds"
 msgstr "15 secondes"
 
-#: base/default.csv:3
+msgctxt "20 seconds"
 msgid "20 seconds"
 msgstr "20 secondes"
 
-#: base/default.csv:4
+msgctxt "2Checkout"
 msgid "2Checkout"
 msgstr "2Checkout"
 
-#: base/default.csv:5
+msgctxt "30 seconds"
 msgid "30 seconds"
 msgstr "30 secondes"
 
-#: base/default.csv:7
+msgctxt "404, page not found"
+msgid "404, page not found"
+msgstr "404, page non trouvée"
+
+msgctxt "A step requires at least a title and a text."
 msgid "A step requires at least a title and a text."
 msgstr "Un titre et du texte son requis"
 
-#: base/default.csv:8
+msgctxt "API"
 msgid "API"
 msgstr "API"
 
-#: base/default.csv:10
+msgctxt "APIs"
+msgid "APIs"
+msgstr "API"
+
+msgctxt "APK Generator Service"
 msgid "APK Generator Service"
 msgstr "Service de génération APK"
 
-#: base/default.csv:11
+msgctxt "APK Generator advanced settings"
 msgid "APK Generator advanced settings"
 msgstr "Paramètres avancés du générateur APK"
 
-#: base/default.csv:12
+msgctxt "APK Generator for builds from the Editor (Local or Service)"
 msgid "APK Generator for builds from the Editor (Local or Service)"
 msgstr "Selection du générateur APK, Local ou Service"
 
-#: base/default.csv:13
+msgctxt "Access Management"
 msgid "Access Management"
 msgstr "Gestion des accès"
 
-#: base/default.csv:14
+msgctxt "Account"
 msgid "Account"
 msgstr "Compte"
 
-#: base/default.csv:16
+msgctxt "Accounts"
+msgid "Accounts"
+msgstr "Comptes"
+
+msgctxt "Acl"
 msgid "Acl"
 msgstr "ACL"
 
-#: base/default.csv:18
+msgctxt "Actions"
+msgid "Actions"
+msgstr "Actions"
+
+msgctxt "Activate"
 msgid "Activate"
 msgstr "Activer"
 
-#: base/default.csv:19
+msgctxt "Activity"
 msgid "Activity"
 msgstr "Activité"
 
-#: base/default.csv:20
+msgctxt "AdMob Banner ID"
 msgid "AdMob Banner ID"
 msgstr "ID Bannière AdMob"
 
-#: base/default.csv:21
+msgctxt "AdMob Interstitial ID"
 msgid "AdMob Interstitial ID"
 msgstr "ID Interstitielle AdMob"
 
-#: base/default.csv:23
+msgctxt "Add"
+msgid "Add"
+msgstr "Ajouter"
+
+msgctxt "Add Image"
 msgid "Add Image"
 msgstr "Ajouter un image"
 
-#: base/default.csv:25
+msgctxt "Add a"
+msgid "Add a"
+msgstr "Ajoutez une"
+
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Ajouter un page"
 
-#: base/default.csv:26
+msgctxt "Add a picture"
 msgid "Add a picture"
 msgstr "Ajouter une image"
 
-#: base/default.csv:27
+msgctxt "Add content"
 msgid "Add content"
 msgstr "Ajouter du contenu"
 
-#: base/default.csv:28
+msgctxt "Add extension"
 msgid "Add extension"
 msgstr "Ajouter une extension"
 
-#: base/default.csv:29
+msgctxt "Add feature"
 msgid "Add feature"
 msgstr "Ajouter une fonctionalité"
 
-#: base/default.csv:31
+msgctxt "Add image"
+msgid "Add image"
+msgstr "Ajouter une image"
+
+msgctxt "Add new upload extensions."
 msgid "Add new upload extensions."
 msgstr "Ajouter des extensions."
 
-#: base/default.csv:33
+msgctxt "Address"
+msgid "Address"
+msgstr "Adresse"
+
+msgctxt "Address (more)"
 msgid "Address (more)"
 msgstr "Adresse (plus)"
 
-#: base/default.csv:34
+msgctxt "Addresses"
 msgid "Addresses"
 msgstr "Adresses"
 
-#: base/default.csv:35
+msgctxt "Admin"
 msgid "Admin"
 msgstr "Administrateur"
 
-#: base/default.csv:36
+msgctxt "Admin panel type"
 msgid "Admin panel type"
 msgstr "Nom de votre interface d'administration"
 
-#: base/default.csv:39
+msgctxt "Admob Banner ID"
+msgid "Admob Banner ID"
+msgstr "ID Bannière Admob"
+
+msgctxt "Admob Interstitial ID"
+msgid "Admob Interstitial ID"
+msgstr "ID Admob Interstitielle"
+
+msgctxt "Advanced options"
 msgid "Advanced options"
 msgstr "Options avancées"
 
-#: base/default.csv:40
-msgid "After validating, you will be redirected to the 2Checkout checkout page."
-msgstr "Après la validation vous serez redirigé vers la page de paiement de 2Checkout."
+msgctxt ""
+"After validating, you will be redirected to the 2Checkout checkout page."
+msgid ""
+"After validating, you will be redirected to the 2Checkout checkout page."
+msgstr ""
+"Après la validation vous serez redirigé vers la page de paiement de "
+"2Checkout."
 
-#: base/default.csv:41
+msgctxt "After validating, you will be redirected to the PayPal checkout page."
 msgid "After validating, you will be redirected to the PayPal checkout page."
-msgstr "Après la validation vous serez redirigé version la page de paiement de PayPal."
+msgstr ""
+"Après la validation vous serez redirigé version la page de paiement de "
+"PayPal."
 
-#: base/default.csv:42
+msgctxt "Alert: The SSL Certificate %s automatic renewal failed."
 msgid "Alert: The SSL Certificate %s automatic renewal failed."
-msgstr "Information: Le renouvellement du certificat SSL/HTTPS pour le domaine %s a échoué."
+msgstr ""
+"Information: Le renouvellement du certificat SSL/HTTPS pour le domaine %s a "
+"échoué."
 
-#: base/default.csv:43
+msgctxt "Alignment"
 msgid "Alignment"
 msgstr "Alignement"
 
-#: base/default.csv:44
+msgctxt "All data"
 msgid "All data"
 msgstr "Toutes les données"
 
-#: base/default.csv:46
+msgctxt "All items"
+msgid "All items"
+msgstr "Tout"
+
+msgctxt "All user list"
 msgid "All user list"
 msgstr "Tous les utilisateurs"
 
-#: base/default.csv:47
+msgctxt "Allow users to export features"
 msgid "Allow users to export features"
 msgstr "Autoriser les utilisateurs à exporter les fonctionnalités"
 
-#: base/default.csv:48
+msgctxt "Allow users to import features"
 msgid "Allow users to import features"
 msgstr "Autoriser les utilisateurs à importer les fonctionnalités"
 
-#: base/default.csv:49
+msgctxt "Allowed upload extensions."
 msgid "Allowed upload extensions."
 msgstr "Extensions autorisés."
 
-#: base/default.csv:51
+msgctxt "An error occurred during process. Please try again later."
+msgid "An error occurred during process. Please try again later."
+msgstr ""
+"Une erreur est survenue lors du traitement. Veuillez réessayer "
+"ultérieurement."
+
+msgctxt "An error occurred during process.<br />Please try again later."
 msgid "An error occurred during process.<br />Please try again later."
 msgstr "Une erreur est survenue.<br />Merci d'essayer à nouveau plus tard."
 
-msgid "From:"
-msgstr "De:"
+msgctxt "An error occurred during the process. Please try again later."
+msgid "An error occurred during the process. Please try again later."
+msgstr ""
+"Une erreur est survenue lors du traitement. Veuillez réessayer "
+"ultérieurement."
 
-msgid "Number of people"
-msgstr "Nombre de personnes"
+msgctxt "An error occurred while editing your invoice : can't find order"
+msgid "An error occurred while editing your invoice : can't find order"
+msgstr ""
+"Une erreur s'est produite lors de l'édition de votre facture : vous ne "
+"pouvez pas trouver l'ordre"
 
-msgid "Event"
-msgstr "Evénement"
+msgctxt "An error occurred while loading. Please try again later."
+msgid "An error occurred while loading. Please try again later."
+msgstr ""
+"Une erreur est survenue lors du chargement. Veuillez de réessayer "
+"ultérieurement."
 
-msgid "Port"
-msgstr "Port"
+msgctxt "An error occurred while loading places."
+msgid "An error occurred while loading places."
+msgstr "Une erreur s'est produite lors du chargement de lieux ."
 
+msgctxt "An error occurred while processing your payment."
+msgid "An error occurred while processing your payment."
+msgstr "Une erreur est survenue lors du traitement de votre paiement ."
+
+msgctxt "An error occurred while saving"
+msgid "An error occurred while saving"
+msgstr "Une erreur est survenue lors de la sauvegarde."
+
+msgctxt "An error occurred while saving. Please try again later."
+msgid "An error occurred while saving. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de la sauvegarde. Veuillez réessayer "
+"ultérieurement."
+
+msgctxt "An error occurred while saving your account. Please try again later."
+msgid "An error occurred while saving your account. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de la sauvegarde du compte. Merci de réessayer "
+"ultérieurement"
+
+msgctxt "An error occurred while saving your picture. Please try again later."
+msgid "An error occurred while saving your picture. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de l'enregistrement de votre image . Veuillez "
+"réessayer plus tard."
+
+msgctxt "An error occurred while uploading your file. Please, try again later."
+msgid "An error occurred while uploading your file. Please, try again later."
+msgstr ""
+"Une erreur est survenue lors du téléchargement du fichier. Veuillez "
+"réessayer ultérieurement."
+
+msgctxt "An unexpected error occurred while calculating the route."
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Une erreur inattendue s'est produite lors du calcul de l'itinéraire."
+
+msgctxt "An unknown error occurred while creating the push notification."
+msgid "An unknown error occurred while creating the push notification."
+msgstr ""
+"Une erreur inconnue s'est produite lors de la création de la notification "
+"push."
+
+msgctxt "An unknown error occurred while issue-ing your certificate."
+msgid "An unknown error occurred while issue-ing your certificate."
+msgstr ""
+"Une erreur inconnue s'est produite tout en question-ing de votre certificat."
+
+msgctxt "An unknown error occurred while loading the page."
+msgid "An unknown error occurred while loading the page."
+msgstr "Une erreur inconnue s'est produite lors du chargement de la page."
+
+msgctxt "Android APK"
+msgid "Android APK"
+msgstr "Android APK"
+
+msgctxt "Android SDK is not installed"
+msgid "Android SDK is not installed"
+msgstr "Android SDK est pas installé"
+
+msgctxt "Android Source"
+msgid "Android Source"
+msgstr "Source Android"
+
+msgctxt "Android Spinner"
+msgid "Android Spinner"
+msgstr "Android Spinner"
+
+msgctxt "Android base Package Name can't be empty."
+msgid "Android base Package Name can't be empty."
+msgstr "Le package de base Android ne peut pas être vide."
+
+msgctxt "Android base Package Name must contain only letters, dots & minus."
+msgid "Android base Package Name must contain only letters, dots & minus."
+msgstr ""
+"Le Package Android de base doit contenir uniquement des lettres, des points "
+"et tirets."
+
+msgctxt ""
+"Android base Package Name must contain only letters, dots & minus with at "
+"least two dots.<br />Example: com.mydomain.admin"
+msgid ""
+"Android base Package Name must contain only letters, dots & minus with at "
+"least two dots.<br />Example: com.mydomain.admin"
+msgstr ""
+"Package Android de base doit contenir uniquement des lettres, des points et "
+"tirets avec au moins deux points.<br />Exemple: com.mydomain.admin"
+
+msgctxt "Android only"
+msgid "Android only"
+msgstr "Android uniquement"
+
+msgctxt "Answers"
+msgid "Answers"
+msgstr "Réponses"
+
+msgctxt "App"
+msgid "App"
+msgstr "App"
+
+msgctxt "App analytics"
+msgid "App analytics"
+msgstr "Statistiques de l'application"
+
+msgctxt "App id"
+msgid "App id"
+msgstr "L'ID de l'application"
+
+msgctxt "Appearance"
+msgid "Appearance"
+msgstr "Apparence"
+
+msgctxt "Apple Development teams"
+msgid "Apple Development teams"
+msgstr "Equipes de Développement Apple"
+
+msgctxt "Application"
+msgid "Application"
+msgstr "Application"
+
+msgctxt "Application Name"
+msgid "Application Name"
+msgstr "Nom de l'application"
+
+msgctxt "Application base Bundle ID (iOS)"
+msgid "Application base Bundle ID (iOS)"
+msgstr "Base de l'application ID du Bundle (iOS)"
+
+msgctxt "Application base Package Name (Android)"
+msgid "Application base Package Name (Android)"
+msgstr "L'Application de base Nom du Package (Android)"
+
+msgctxt "Applications"
+msgid "Applications"
+msgstr "Applications"
+
+msgctxt "Are you sure you want to delete this admin?"
+msgid "Are you sure you want to delete this admin?"
+msgstr "Etes vous sur de supprimer cet administrateur?"
+
+msgctxt "Are you sure you want to delete this element?"
+msgid "Are you sure you want to delete this element?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet élément ?"
+
+msgctxt "Are you sure you want to delete this invoice?"
+msgid "Are you sure you want to delete this invoice?"
+msgstr "Etes vous sur? Voulez vous vraiment supprimer cette facture?"
+
+msgctxt "Are you sure you want to delete this subscription?"
+msgid "Are you sure you want to delete this subscription?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet abonnement?"
+
+msgctxt "Are you sure you want to remove this account?"
+msgid "Are you sure you want to remove this account?"
+msgstr "tes-vous sûr de vouloir supprimer ce compte ?"
+
+msgctxt "Artist"
+msgid "Artist"
+msgstr "Artiste"
+
+msgctxt "At least, 1 page in the application"
+msgid "At least, 1 page in the application"
+msgstr "Au moins, 1 page de l'application"
+
+msgctxt ""
+"At least one <b>published</b> application is required in order to use global "
+"push notifications."
+msgid ""
+"At least one <b>published</b> application is required in order to use global "
+"push notifications."
+msgstr ""
+"Au moins une application <b> publiée </ b> est nécessaire pour utiliser les "
+"notifications push globales."
+
+msgctxt "Attachment"
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+msgctxt "Audio"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "Authentication failed"
+msgid "Authentication failed"
+msgstr "Échec de l'authentification"
+
+msgctxt "Authentication failed. Please, check the username and/or the password"
+msgid "Authentication failed. Please, check the username and/or the password"
+msgstr ""
+"Impossible de vous identifier! Vérifiez votre Login et/ou votre mot de passe"
+
+msgctxt "Authentication failed. Please check your email and/or your password"
+msgid "Authentication failed. Please check your email and/or your password"
+msgstr ""
+"Authentification impossible. Merci de vérifier votre email et/ou votre mot "
+"de passe"
+
+msgctxt "Autocomplete & Suggestions ..."
+msgid "Autocomplete & Suggestions ..."
+msgstr "La Saisie Semi-Automatique Et Suggestions ..."
+
+msgctxt "Average cart"
+msgid "Average cart"
+msgstr "PANNIER MOYEN"
+
+msgctxt "Average for active users"
+msgid "Average for active users"
+msgstr "Moyenne par utilisateur actif"
+
+msgctxt "Average for all users"
+msgid "Average for all users"
+msgstr "Moyenne de l'ensemble des utilisateurs"
+
+msgctxt "Back"
+msgid "Back"
+msgstr "Retour"
+
+msgctxt "Back button icon"
+msgid "Back button icon"
+msgstr "Icône du bouton de retour"
+
+msgctxt "Background"
+msgid "Background"
+msgstr "Fond"
+
+msgctxt "Background (landscape)"
+msgid "Background (landscape)"
+msgstr "Arrière-plan (paysage)"
+
+msgctxt "Background (portrait)"
+msgid "Background (portrait)"
+msgstr "Arrière-plan (portrait)"
+
+msgctxt "Backoffice"
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgctxt "Bad settings can break your APK Generator, leave empty to use defaults."
+msgid "Bad settings can break your APK Generator, leave empty to use defaults."
+msgstr ""
+"De mauvais réglages peuvent briser votre APK Générateur, laisser vide pour "
+"utiliser les valeurs par défaut."
+
+msgctxt "Banner"
+msgid "Banner"
+msgstr "Bannière"
+
+msgctxt "Banner & Interstitial"
+msgid "Banner & Interstitial"
+msgstr "Bannière et Interstitielle"
+
+msgctxt "Be careful you are working in"
+msgid "Be careful you are working in"
+msgstr "Faites attention que vous travaillez dans"
+
+msgctxt "Bearer Token"
+msgid "Bearer Token"
+msgstr "Porteur Du Jeton"
+
+msgctxt ""
+"Before you can send push notification, you must have at least one of iOS or "
+"Android application in a published state."
+msgid ""
+"Before you can send push notification, you must have at least one of iOS or "
+"Android application in a published state."
+msgstr ""
+"Avant de pouvoir envoyer des notifications push, vous devez avoir au moins "
+"un de iOS ou Android de l'application dans un état publié."
+
+msgctxt "Booking"
+msgid "Booking"
+msgstr "Réservation"
+
+msgctxt "Booking details"
+msgid "Booking details"
+msgstr "Les détails de la réservation"
+
+msgctxt "Booking::findAction An unknown error occurred, please try again later."
+msgid "Booking::findAction An unknown error occurred, please try again later."
+msgstr "Réservation :: Une erreur inconnue s'est produite, réessayez plus tard."
+
+msgctxt "Bottom"
+msgid "Bottom"
+msgstr "Bas"
+
+msgctxt "Browse"
+msgid "Browse"
+msgstr "Parcourir"
+
+msgctxt "Button"
+msgid "Button"
+msgstr "Bouton"
+
+msgctxt "Button assertive"
+msgid "Button assertive"
+msgstr "Bouton affirmé"
+
+msgctxt "Button balanced"
+msgid "Button balanced"
+msgstr "Bouton équilibré"
+
+msgctxt "Button calm"
+msgid "Button calm"
+msgstr "Bouton calme"
+
+msgctxt "Button dark"
+msgid "Button dark"
+msgstr "Bouton foncé"
+
+msgctxt "Button energized"
+msgid "Button energized"
+msgstr "Bouton excité"
+
+msgctxt "Button light"
+msgid "Button light"
+msgstr "Bouton de la lumière"
+
+msgctxt "Button positive"
+msgid "Button positive"
+msgstr "Bouton positif"
+
+msgctxt "Button royal"
+msgid "Button royal"
+msgstr "Bouton royal"
+
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr ""
+"En cochant cette case, un champ de recherche apparaîtra dans votre dossier"
+
+msgctxt ""
+"By default, popups steps try to use a smart placement. You can force this "
+"placement if needed."
+msgid ""
+"By default, popups steps try to use a smart placement. You can force this "
+"placement if needed."
+msgstr ""
+"Par défaut, les pop-up essaient d'utiliser un emplacement intelligent. Vous "
+"pouvez forcer ce placement si nécessaire."
+
+msgctxt "Cache"
+msgid "Cache"
+msgstr "Cache"
+
+msgctxt "Calendar"
+msgid "Calendar"
+msgstr "Calendrier"
+
+msgctxt "Callback URIs"
+msgid "Callback URIs"
+msgstr "Rappel Des Uri"
+
+msgctxt "Can only be used once"
+msgid "Can only be used once"
+msgstr "Utilisable une seule fois"
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+msgctxt "Card"
+msgid "Card"
+msgstr "Carte"
+
+msgctxt "Card Item"
+msgid "Card Item"
+msgstr "Article de la carte"
+
+msgctxt "Careful, someone else is working on this application."
+msgid "Careful, someone else is working on this application."
+msgstr "Attention, quelqu'un d'autre travaille sur cette application"
+
+msgctxt "Cart"
+msgid "Cart"
+msgstr "Panier"
+
+msgctxt "Catalog"
+msgid "Catalog"
+msgstr "Catalogue"
+
+msgctxt ""
+"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgid ""
+"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
+msgstr ""
+"Le certificat est valide et SSL est accessible, valable jusqu'au: %s.<br "
+"/>l'émetteur: %s%s"
+
+msgctxt "Change password"
+msgid "Change password"
+msgstr "Modifier le mot de passe"
+
+msgctxt "Change your<br /><span class='bold'>picture</span>"
+msgid "Change your<br /><span class='bold'>picture</span>"
+msgstr "Changer votre<br /><span class='bold'>photo</span>"
+
+msgctxt "Changing the Application icon requires a rebuild / republication."
+msgid "Changing the Application icon requires a rebuild / republication."
+msgstr ""
+"La modification de l'icône de l'Application nécessite une recompilation / "
+"republication."
+
+msgctxt "Changing this option requires you to republish your iOS application."
+msgid "Changing this option requires you to republish your iOS application."
+msgstr ""
+"La modification de cette option nécessite que vous republier votre "
+"application iOS."
+
+msgctxt "Checkbox"
+msgid "Checkbox"
+msgstr "Case"
+
+msgctxt "Checkbox off"
+msgid "Checkbox off"
+msgstr "Case à cocher OFF"
+
+msgctxt "Checkbox on"
+msgid "Checkbox on"
+msgstr "Case à cocher ON"
+
+msgctxt "Checking Permissions"
+msgid "Checking Permissions"
+msgstr "La Vérification Des Autorisations"
+
+msgctxt "Choose a file to import:"
+msgid "Choose a file to import:"
+msgstr "Choisissez un fichier à importer"
+
+msgctxt "Choose an object to import:"
+msgid "Choose an object to import:"
+msgstr "Choisissez un objet à importer:"
+
+msgctxt "City"
+msgid "City"
+msgstr "Ville"
+
+msgctxt "ClamAV is an optional anti-virus, you can enable it up below."
+msgid "ClamAV is an optional anti-virus, you can enable it up below."
+msgstr ""
+"ClamAV est une option anti-virus, vous pouvez l'activer en place ci-dessous."
+
+msgctxt "ClamAV settings"
+msgid "ClamAV settings"
+msgstr "ClamAV paramètres"
+
+msgctxt "ClamAV settings have been saved."
+msgid "ClamAV settings have been saved."
+msgstr "ClamAV paramètres ont été enregistrés."
+
+msgctxt "Click here to log-in"
+msgid "Click here to log-in"
+msgstr "Cliquez ici pour vous connecter"
+
+msgctxt "Click here to open the application"
+msgid "Click here to open the application"
+msgstr "Cliquez ici pour ouvrir l'application"
+
+msgctxt "Click on"
+msgid "Click on"
+msgstr "Cliquez sur"
+
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Cliquez sur une fonctionnalité pour l'ajouter au dossier"
+
+msgctxt "Click on a feature to add it to the folder %s"
+msgid "Click on a feature to add it to the folder %s"
+msgstr "Cliquez sur une fonctionnalité l'ajouter au dossier %s"
+
+msgctxt "Click to import your file"
+msgid "Click to import your file"
+msgstr "Cliquer pour importer votre fichier"
+
+msgctxt "Close"
+msgid "Close"
+msgstr "Fermer"
+
+msgctxt "Close mobile display"
+msgid "Close mobile display"
+msgstr "Fermer l'affichage mobile"
+
+msgctxt "CloudFlare is not supported, please use a CNAME."
+msgid "CloudFlare is not supported, please use a CNAME."
+msgstr "CloudFlare est pas pris en charge, veuillez utiliser un CNAME."
+
+msgctxt ""
+"CloudFlare is not supported, you must use a CNAME targeting your main domain."
+msgid ""
+"CloudFlare is not supported, you must use a CNAME targeting your main domain."
+msgstr ""
+"CloudFlare n'est pas pris en charge, vous devez utiliser un CNAME ciblant "
+"votre domaine principal."
+
+msgctxt "Cms"
+msgid "Cms"
+msgstr "Cms"
+
+msgctxt "Codescan"
+msgid "Codescan"
+msgstr "Codescan"
+
+msgctxt "Comment"
+msgid "Comment"
+msgstr "Commentaire"
+
+msgctxt "Comments"
+msgid "Comments"
+msgstr "Commentaires"
+
+msgctxt "Commerce"
+msgid "Commerce"
+msgstr "Shop en ligne"
+
+msgctxt "Communication"
+msgid "Communication"
+msgstr "Communication"
+
+msgctxt "Company"
+msgid "Company"
+msgstr "Société"
+
+msgctxt "Coms"
+msgid "Coms"
+msgstr "Coms"
+
+msgctxt "Conditions"
+msgid "Conditions"
+msgstr "Conditions"
+
+msgctxt "Configuration partially saved"
+msgid "Configuration partially saved"
+msgstr "Configuration partiellement enregistré"
+
+msgctxt "Confirm"
+msgid "Confirm"
+msgstr "confirmer "
+
+msgctxt "Confirm Password"
+msgid "Confirm Password"
+msgstr "Confirmer le mot de passe"
+
+msgctxt "Confirm new password"
+msgid "Confirm new password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgctxt "Confirmation"
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgctxt "Confirmation required"
+msgid "Confirmation required"
+msgstr "Demande de Confirmation"
+
+msgctxt "Connection type"
+msgid "Connection type"
+msgstr "Type de connexion"
+
+msgctxt "Contact"
+msgid "Contact"
+msgstr "Contact"
+
+msgctxt "Contact successfully added to your address book"
+msgid "Contact successfully added to your address book"
+msgstr "Contact ajouté à votre carnet d'adresses"
+
+msgctxt "Contact us"
+msgid "Contact us"
+msgstr "Contactez nous"
+
+msgctxt "Contest"
+msgid "Contest"
+msgstr "Concours"
+
+msgctxt "Coordinates"
+msgid "Coordinates"
+msgstr "Coordonnées"
+
+msgctxt "Copy"
+msgid "Copy"
+msgstr "Copie"
+
+msgctxt "Copying"
+msgid "Copying"
+msgstr "La copie"
+
+msgctxt "Core"
+msgid "Core"
+msgstr "De base"
+
+msgctxt "Country"
+msgid "Country"
+msgstr "Pays"
+
+msgctxt "Cover"
+msgid "Cover"
+msgstr "Couverture"
+
+msgctxt "Create"
+msgid "Create"
+msgstr "Créer"
+
+msgctxt "Create / Edit a User"
+msgid "Create / Edit a User"
+msgstr "Créer / Modifier un Utilisateur"
+
+msgctxt "Create a new account"
+msgid "Create a new account"
+msgstr "Création d'un compte"
+
+msgctxt "Create an account"
+msgid "Create an account"
+msgstr "Créer un compte"
+
+msgctxt "Created at"
+msgid "Created at"
+msgstr "Créé le"
+
+msgctxt "Creator Email"
+msgid "Creator Email"
+msgstr "Créateur E-Mail"
+
+msgctxt "Currency"
+msgid "Currency"
+msgstr "Devise"
+
+msgctxt "Current load is"
+msgid "Current load is"
+msgstr "Le chargement actuel est"
+
+msgctxt "Current password"
+msgid "Current password"
+msgstr "Ancien mot de passe"
+
+msgctxt "Current status is"
+msgid "Current status is"
+msgstr "L'état actuel est"
+
+msgctxt "Custom Page"
+msgid "Custom Page"
+msgstr "Page"
+
+msgctxt "Customization"
+msgid "Customization"
+msgstr "Personnalisation"
+
+msgctxt "Customization mode activated"
+msgid "Customization mode activated"
+msgstr "Mode de personnalisation activé"
+
+msgctxt "Customize your app's colors"
+msgid "Customize your app's colors"
+msgstr "Personnalisez les couleurs de votre application"
+
+msgctxt "DEFAULT"
+msgid "DEFAULT"
+msgstr "Par défaut"
+
+msgctxt "DELETE"
+msgid "DELETE"
+msgstr "SUPPRIMER"
+
+msgctxt "(DEMO)"
+msgid "(DEMO)"
+msgstr "(DÉMO)"
+
+msgctxt "Dashboard"
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgctxt "Data saved successfully."
+msgid "Data saved successfully."
+msgstr "Les informations sont enregistré avec succès!"
+
+msgctxt "Date"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Date et heure"
 
+msgctxt "Date of birth"
+msgid "Date of birth"
+msgstr "Date d'anniversaire"
+
+msgctxt "Deactivate"
+msgid "Deactivate"
+msgstr "Désactiver"
+
+msgctxt "Debug"
+msgid "Debug"
+msgstr "Debug"
+
+msgctxt "Debug output"
+msgid "Debug output"
+msgstr "La sortie de débogage"
+
+msgctxt "Default Languages"
+msgid "Default Languages"
+msgstr "Langue par défaut"
+
+msgctxt "Default role for all new users"
+msgid "Default role for all new users"
+msgstr "Rôle par défaut pour tous les nouveaux utilisateurs"
+
+msgctxt "Default search distance"
+msgid "Default search distance"
+msgstr "Distance de recherche par défaut"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Supprimer"
+
+msgctxt "Delete a feature"
+msgid "Delete a feature"
+msgstr "Supprimer une fonctionnalité"
+
+msgctxt "Delete the Application"
+msgid "Delete the Application"
+msgstr "Supprimer l'Application"
+
+msgctxt "Delete this folder and all its subfolders?"
+msgid "Delete this folder and all its subfolders?"
+msgstr ""
+"Etes-vous sûr de vouloir supprimer ce dossier et tous ses sous-dossiers ?"
+
+msgctxt "Delivered"
+msgid "Delivered"
+msgstr "Livré"
+
+msgctxt "Delivery Cost"
+msgid "Delivery Cost"
+msgstr "Frais De Livraison"
+
+msgctxt "Delivery method"
+msgid "Delivery method"
+msgstr "Mode de livraison"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "Details"
+msgid "Details"
+msgstr "Détails"
+
+msgctxt "Development"
+msgid "Development"
+msgstr "Développement"
+
+msgctxt "Dialog"
+msgid "Dialog"
+msgstr "Dialogue"
+
+msgctxt "Dialog background"
+msgid "Dialog background"
+msgstr "Arrière-plan de la boîte de dialogue"
+
+msgctxt "Dialog button"
+msgid "Dialog button"
+msgstr "Bouton de boîte de dialogue"
+
+msgctxt "Dialog text"
+msgid "Dialog text"
+msgstr "Texte de dialogue"
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr "Promotion"
+
+msgctxt "Discounts"
+msgid "Discounts"
+msgstr "Réductions"
+
+msgctxt "Display pictogram instead of image in map"
+msgid "Display pictogram instead of image in map"
+msgstr "Affichage du pictogramme de la place de l'image dans la carte"
+
+msgctxt "Distance unit"
+msgid "Distance unit"
+msgstr "Unité de distance"
+
+msgctxt "Do not export"
+msgid "Do not export"
+msgstr "Ne pas exporter"
+
+msgctxt ""
+"Do you want to download all the contents now to access it when offline? If "
+"you do, we recommend you to use a WiFi connection."
+msgid ""
+"Do you want to download all the contents now to access it when offline? If "
+"you do, we recommend you to use a WiFi connection."
+msgstr ""
+"Voulez-vous télécharger tout le contenu maintenant afin d'y accéder quand "
+"vous serez déconnecté ? Nous vous recommandons d'utiliser une connexion WiFi."
+
+msgctxt "Do you want to return to the homepage?"
+msgid "Do you want to return to the homepage?"
+msgstr "Voulez-vous revenir à la page d'accueil?"
+
+msgctxt "Done"
+msgid "Done"
+msgstr "Ok"
+
+msgctxt "Don't close the app while downloading. This may take a while."
+msgid "Don't close the app while downloading. This may take a while."
+msgstr ""
+"Ne fermez pas l'application pendant le téléchargement . Cela peut prendre "
+"quelques secondes."
+
+msgctxt "Download APK"
+msgid "Download APK"
+msgstr "Télécharger APK"
+
+msgctxt "Download a copy of my data"
+msgid "Download a copy of my data"
+msgstr "Télécharger une copie de mes données"
+
+msgctxt "Download as zip"
+msgid "Download as zip"
+msgstr "Télécharger en tant que zip"
+
+msgctxt "Download complete list for this metric"
+msgid "Download complete list for this metric"
+msgstr "Télécharger la liste complète de cette métrique"
+
+msgctxt "Download current search as CSV"
+msgid "Download current search as CSV"
+msgstr "Téléchargement de recherche en cours au format CSV"
+
+msgctxt "Download file is not available in DEMO mode."
+msgid "Download file is not available in DEMO mode."
+msgstr "Le téléchargement du fichier n'est pas possible en mode DEMO"
+
+msgctxt "Download latest APK"
+msgid "Download latest APK"
+msgstr "Téléchargez la dernière version de l'APK"
+
+msgctxt "Download latest sources"
+msgid "Download latest sources"
+msgstr "Téléchargez la dernière version des sources"
+
+msgctxt "Download list of user who used this discount"
+msgid "Download list of user who used this discount"
+msgstr "Télécharger la liste des utilisateurs qui ont utilisé cette remise."
+
+msgctxt "Download list of user who used this loyalty card"
+msgid "Download list of user who used this loyalty card"
+msgstr ""
+"Télécharger la liste des utilisateurs qui ont utilisé cette carte de fidélité"
+
+msgctxt "Download list of user who used this scratch card"
+msgid "Download list of user who used this scratch card"
+msgstr ""
+"Télécharger la liste des utilisateurs qui ont utilisé cette carte à gratter"
+
+msgctxt "Download only winner list for this scratch card"
+msgid "Download only winner list for this scratch card"
+msgstr "Télécharger seulement la liste des gagnants pour cette carte à gratter"
+
+msgctxt "Download the APK"
+msgid "Download the APK"
+msgstr "Télécharger l'APK"
+
+msgctxt "Download the Source code"
+msgid "Download the Source code"
+msgstr "Télécharger le code Source"
+
+msgctxt "Downloading..."
+msgid "Downloading..."
+msgstr "Télécharger..."
+
+msgctxt "Drop your json here"
+msgid "Drop your json here"
+msgstr "Déposez votre json ici"
+
+msgctxt "EDIT"
+msgid "EDIT"
+msgstr "MODIFIER"
+
+msgctxt "Edit"
+msgid "Edit"
+msgstr "Editer"
+
+msgctxt "Edit an invoice for this plan"
+msgid "Edit an invoice for this plan"
+msgstr "Modifier une facture pour ce plan"
+
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr "Modifier le nom du dossier"
+
+msgctxt "Edit step for this element"
+msgid "Edit step for this element"
+msgstr "Modifier l'étape pour cet élément"
+
+msgctxt "Editing"
+msgid "Editing"
+msgstr "Création"
+
+msgctxt "Editor"
+msgid "Editor"
+msgstr "L'éditeur"
+
+msgctxt ""
+"Editor note: A user with a given role can only assign Self role (if the role "
+"is SELF-ASSIGNABLE) & Child roles."
+msgid ""
+"Editor note: A user with a given role can only assign Self role (if the role "
+"is SELF-ASSIGNABLE) & Child roles."
+msgstr ""
+"Note de l'éditeur: Un utilisateur avec un rôle donné ne peut assigner que "
+"son propre rôle (si le rôle est SELF-ASSIGNABLE) et les rôles enfants."
+
+msgctxt ""
+"Editor note: A user with a given role can only assign self & child roles."
+msgid ""
+"Editor note: A user with a given role can only assign self & child roles."
+msgstr ""
+"Note de l'éditeur: Un utilisateur avec un rôle donné ne peut assigner que "
+"son propre rôle et les rôles enfants."
+
+msgctxt "Element n°"
+msgid "Element n°"
+msgstr "Élément n°"
+
+msgctxt "Email"
+msgid "Email"
+msgstr "E-mail"
+
+msgctxt "Email address"
+msgid "Email address"
+msgstr "Adresse email"
+
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr "Activer la recherche dans les dossiers"
+
+msgctxt "Enable test API ?"
+msgid "Enable test API ?"
+msgstr "Activer le test de l'API ?"
+
+msgctxt "End at"
+msgid "End at"
+msgstr "Se termine"
+
+msgctxt "End tour"
+msgid "End tour"
+msgstr "Fin de la tournée"
+
+msgctxt "Enter your twitter handle"
+msgid "Enter your twitter handle"
+msgstr "Entrez votre identifiant twitter"
+
+msgctxt "Error"
+msgid "Error"
+msgstr "Erreur"
+
+msgctxt "Error : <br/>"
+msgid "Error : <br/>"
+msgstr "Erreur : <br/>"
+
+msgctxt "Error on import configuration."
+msgid "Error on import configuration."
+msgstr "Erreur sur la configuration de l'importation"
+
+msgctxt "Errors : <br/>"
+msgid "Errors : <br/>"
+msgstr "Erreurs : <br/>"
+
+msgctxt "European <b>General Data Protection Regulation (GDPR)</b>"
+msgid "European <b>General Data Protection Regulation (GDPR)</b>"
+msgstr "Européenne <b>Protection des Données Générales le Règlement (GDPR)</b>"
+
+msgctxt "Event"
+msgid "Event"
+msgstr "Evénement"
+
+msgctxt "Events"
+msgid "Events"
+msgstr "Evènement"
+
+msgctxt "Export / Import"
+msgid "Export / Import"
+msgstr "Exportation / Importation"
+
+msgctxt ""
+"Export / Import of features is currently in beta and available only with "
+"some features."
+msgid ""
+"Export / Import of features is currently in beta and available only with "
+"some features."
+msgstr ""
+"Exportation / Importation de fonctions est actuellement en version bêta et "
+"disponible uniquement avec certaines fonctions."
+
+msgctxt "Export your customers"
+msgid "Export your customers"
+msgstr "Exportez vos clients"
+
+msgctxt "Extension"
+msgid "Extension"
+msgstr "Extension"
+
+msgctxt "Extension can't be empty."
+msgid "Extension can't be empty."
+msgstr "L'Extension ne peut pas être vide."
+
+msgctxt "Extension not allowed, '%s' only"
+msgid "Extension not allowed, '%s' only"
+msgstr "Extension non autorisée, '%s' seulement."
+
+msgctxt "Extension %s is strictly forbidden."
+msgid "Extension %s is strictly forbidden."
+msgstr "L'Extension de %s est strictement interdite."
+
+msgctxt "Extension: txt, png, jpeg, avi, etc..."
+msgid "Extension: txt, png, jpeg, avi, etc..."
+msgstr "Extension: txt, png, jpeg, avi, etc..."
+
+msgctxt "Facebook"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "Fan Wall"
+msgid "Fan Wall"
+msgstr "Page Fans"
+
+msgctxt "Fanwall"
+msgid "Fanwall"
+msgstr "Fanwall"
+
+msgctxt "Feature Analytics"
+msgid "Feature Analytics"
+msgstr "Statistiques des fonctionnalités"
+
+msgctxt "Feature Top 5 visits"
+msgid "Feature Top 5 visits"
+msgstr "Top 5 des visites"
+
+msgctxt "Features"
+msgid "Features"
+msgstr "Caractéristiques"
+
+msgctxt "Filter metrics"
+msgid "Filter metrics"
+msgstr "Paramètres de Filtre"
+
+msgctxt "Firewall"
+msgid "Firewall"
+msgstr "Pare-feu"
+
+msgctxt "First Name"
+msgid "First Name"
+msgstr "Prénom"
+
+msgctxt "First name"
+msgid "First name"
+msgstr "NOM"
+
+msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Prénom / Nom"
 
+msgctxt "Firstname"
+msgid "Firstname"
+msgstr "Prénom"
+
+msgctxt "Folder"
+msgid "Folder"
+msgstr "Dossier"
+
+msgctxt "Folder title is required"
+msgid "Folder title is required"
+msgstr "Le titre du dossier est obligatoire."
+
+msgctxt "Folders"
+msgid "Folders"
+msgstr "Dossiers"
+
+msgctxt "Folders (v2)"
+msgid "Folders (v2)"
+msgstr "Les dossiers (v2)"
+
+msgctxt "Forbidden image format"
+msgid "Forbidden image format"
+msgstr "Interdit de format d'image"
+
+msgctxt "Force request & Upload to panel"
+msgid "Force request & Upload to panel"
+msgstr "Forcer la demande et télécharger sur le panneau"
+
+msgctxt "Forgot your password?"
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié?"
+
+msgctxt ""
+"Forgot your password? Don't worry! Simply enter your email address and we'll "
+"send you a new one right now."
+msgid ""
+"Forgot your password? Don't worry! Simply enter your email address and we'll "
+"send you a new one right now."
+msgstr ""
+"Vous avez oublié votre mot passe ? Ne vous inquiétez pas ! Saisissez votre "
+"adresse email, nous vous en renverrons un immédiatement."
+
+msgctxt "Form"
+msgid "Form"
+msgstr "Formulaire"
+
+msgctxt "Form has the following errors"
+msgid "Form has the following errors"
+msgstr "Le formulaire comporte les erreurs suivantes"
+
+msgctxt "Free until"
+msgid "Free until"
+msgstr "Gratuit jusqu'au"
+
+msgctxt "From:"
+msgid "From:"
+msgstr "De:"
+
+msgctxt "Front"
+msgid "Front"
+msgstr "Avant"
+
+msgctxt "GCM settings saved."
+msgid "GCM settings saved."
+msgstr "GCM paramètres enregistrés."
+
+msgctxt "GRADLE extended options"
+msgid "GRADLE extended options"
+msgstr "GRADLE options étendues"
+
+msgctxt "General"
+msgid "General"
+msgstr "Général"
+
+msgctxt "Generate"
+msgid "Generate"
+msgstr "Générer"
+
+msgctxt "Generate an invoice for this offline plan by using the form below."
+msgid "Generate an invoice for this offline plan by using the form below."
+msgstr ""
+"Générer une facture pour ce plan hors ligne en utilisant le formulaire ci-"
+"dessous."
+
+msgctxt "Generate build"
+msgid "Generate build"
+msgstr "Générer construire"
+
+msgctxt "Generate sources"
+msgid "Generate sources"
+msgstr "De générer des sources"
+
+msgctxt "Global push"
+msgid "Global push"
+msgstr "Mondial de pousser"
+
+msgctxt "Global push notifications"
+msgid "Global push notifications"
+msgstr "Notifications push globales"
+
+msgctxt "Go back"
+msgid "Go back"
+msgstr "Précédent"
+
+msgctxt "Google Maps settings"
+msgid "Google Maps settings"
+msgstr "Google Maps paramètres"
+
+msgctxt "HH:mm a"
+msgid "HH:mm a"
+msgstr "à HH:mm"
+
+msgctxt "Hello,"
+msgid "Hello,"
+msgstr "Bonjour,"
+
+msgctxt "Here is your new password:"
+msgid "Here is your new password:"
+msgstr "Voici votre nouveau mot de passe :"
+
+msgctxt "Hi. I just found: $1 in the $2 app."
+msgid "Hi. I just found: $1 in the $2 app."
+msgstr "Salut! Je viens de découvrir: $1 dans l'application $2."
+
+msgctxt "Hide"
+msgid "Hide"
+msgstr "Masquer"
+
+msgctxt "Hide iOS status bar"
+msgid "Hide iOS status bar"
+msgstr "Masquer iOS barre d'état"
+
+msgctxt "Hint"
+msgid "Hint"
+msgstr "Soupçon"
+
+msgctxt "Home"
+msgid "Home"
+msgstr "La maison"
+
+msgctxt "Homepage"
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+msgctxt "Host"
+msgid "Host"
+msgstr "Hôte"
+
+msgctxt "Hostnames associated with this Certificate"
+msgid "Hostnames associated with this Certificate"
+msgstr "Les noms d'hôtes associée à ce Certificat"
+
+msgctxt ""
+"How do you want to access the backoffice if you remove the only user "
+"remaining?"
+msgid ""
+"How do you want to access the backoffice if you remove the only user "
+"remaining?"
+msgstr ""
+"Comment voulez-vous accéder à l'administration si vous supprimez le seul "
+"utilisateur restant ?"
+
+msgctxt "ID"
+msgid "ID"
+msgstr "Id"
+
+msgctxt "IP"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "IP, example: 127.0.0.1"
+msgid "IP, example: 127.0.0.1"
+msgstr "IP, exemple: 127.0.0.1"
+
+msgctxt "Icons size"
+msgid "Icons size"
+msgstr "Icônes de taille"
+
+msgctxt "If user doesn't use AdMob, split revenue will default to 100."
+msgid "If user doesn't use AdMob, split revenue will default to 100."
+msgstr ""
+"Si l'utilisateur n'utilise pas AdMob, les revenus fractionnés seront par "
+"défaut à 100."
+
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "Je suis à l'écoute de $1 $2 sur l'application $3."
+
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr "J'écoute $1 sur $2 app"
+
+msgctxt "Image"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "Image not high enough, %spx minimum allowed."
+msgid "Image not high enough, %spx minimum allowed."
+msgstr "Image pas assez grande, %spx minimum authorisé."
+
+msgctxt "Image not large enough, '%s' allowed."
+msgid "Image not large enough, '%s' allowed."
+msgstr "Image pas assez large, '%s' autorisé."
+
+msgctxt "Image not large enough, %spx minimum allowed."
+msgid "Image not large enough, %spx minimum allowed."
+msgstr "Image pas assez large, %spx minimum authorisé."
+
+msgctxt "Image successfully saved"
+msgid "Image successfully saved"
+msgstr "Image enregistrée avec succès"
+
+msgctxt "Image too high, %spx maximum allowed."
+msgid "Image too high, %spx maximum allowed."
+msgstr "Image trop grande, %spx maximum authorisé."
+
+msgctxt "Image too large, '%s' allowed."
+msgid "Image too large, '%s' allowed."
+msgstr "Image trop large, '%s' maximum authorisé."
+
+msgctxt "Image too large, %spx maximum allowed."
+msgid "Image too large, %spx maximum allowed."
+msgstr "Image trop large, %spx maximum authorisé."
+
+msgctxt "Images"
+msgid "Images"
+msgstr "Images"
+
+msgctxt "Images opacity"
+msgid "Images opacity"
+msgstr "Opacité des images"
+
+msgctxt "Import"
+msgid "Import"
+msgstr "Importer"
+
+msgctxt "Import a background image"
+msgid "Import a background image"
+msgstr "Importer une image de fond"
+
+msgctxt "Import a cover image"
+msgid "Import a cover image"
+msgstr "Importer une image de couverture"
+
+msgctxt "Import a single feature."
+msgid "Import a single feature."
+msgstr "L'importation d'une seule fonction."
+
+msgctxt "Import a thumbnail"
+msgid "Import a thumbnail"
+msgstr "Importer une vignette"
+
+msgctxt "Import a thumbnail image"
+msgid "Import a thumbnail image"
+msgstr "Importer une image miniature"
+
+msgctxt "Import yml"
+msgid "Import yml"
+msgstr "Importation yml"
+
+msgctxt ""
+"In order to fully enjoy our features, we encourage you to use at least:.<br "
+"/>"
+msgid ""
+"In order to fully enjoy our features, we encourage you to use at least:.<br "
+"/>"
+msgstr ""
+"Pour profiter pleinement de nos fonctionnalités, nous vous encourageons à "
+"utiliser au minimum :<br />"
+
+msgctxt "In order to publish your application, we need:"
+msgid "In order to publish your application, we need:"
+msgstr "Afin de publier votre application, nous avons besoin de:"
+
+msgctxt "In order to use global push notifications your app must be published."
+msgid "In order to use global push notifications your app must be published."
+msgstr ""
+"Pour utiliser les notifications push globales, votre application doit être "
+"publiée."
+
+msgctxt "Incorrect filetype."
+msgid "Incorrect filetype."
+msgstr "Type de fichier incorrect."
+
+msgctxt "Info"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "Info successfully saved"
+msgid "Info successfully saved"
+msgstr "Informations sauvegardées avec succès"
+
+msgctxt "Information"
+msgid "Information"
+msgstr "Informations"
+
+msgctxt "Infos successfully saved"
+msgid "Infos successfully saved"
+msgstr "Informations sauvegardées avec succès"
+
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr "Hériter de la mise en page globale"
+
+msgctxt "Insert a <br /><span class'bold'>cover image</span>"
+msgid "Insert a <br /><span class'bold'>cover image</span>"
+msgstr "Insérer un <br /><span class'bold'>image</span>"
+
+msgctxt "Insert a cover image"
+msgid "Insert a cover image"
+msgstr "Insérer une image de couverture"
+
+msgctxt "Insert a picture"
+msgid "Insert a picture"
+msgstr "Insérer une image"
+
+msgctxt "Installer"
+msgid "Installer"
+msgstr "Installateur"
+
+msgctxt "Installs"
+msgid "Installs"
+msgstr "Installations"
+
+msgctxt "Integration"
+msgid "Integration"
+msgstr "INTEGRAtion"
+
+msgctxt "Interstitial"
+msgid "Interstitial"
+msgstr "Interstitielle"
+
+msgctxt "Invalid place"
+msgid "Invalid place"
+msgstr "lieu non valide"
+
+msgctxt "Invoice creation date"
+msgid "Invoice creation date"
+msgstr "Date de création de la facture"
+
+msgctxt "Invoice payment date"
+msgid "Invoice payment date"
+msgstr "Date de paiement de la facture"
+
+msgctxt "Invoices"
+msgid "Invoices"
+msgstr "Factures"
+
+msgctxt "Issuer"
+msgid "Issuer"
+msgstr "Émetteur"
+
+msgctxt ""
+"It seems that the renewal of the following SSL Certificate %s is failing, "
+"please check in <b>Settings > Advanced > Configuration</b> for the specified "
+"certificate."
+msgid ""
+"It seems that the renewal of the following SSL Certificate %s is failing, "
+"please check in <b>Settings > Advanced > Configuration</b> for the specified "
+"certificate."
+msgstr ""
+"Il semble que le renouvellement du certificat SSL% s en cours est "
+"défectueux, veuillez vérifier <b> Paramètres> Avancé> Configuration </ b> "
+"pour le certificat spécifié."
+
+msgctxt "JAVA Extended options"
+msgid "JAVA Extended options"
+msgstr "JAVA des options Étendues"
+
+msgctxt "Landscape"
+msgid "Landscape"
+msgstr "Paysage"
+
+msgctxt "Last Name"
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgctxt "Last action"
+msgid "Last action"
+msgstr "Dernière action"
+
+msgctxt "Last error"
+msgid "Last error"
+msgstr "Dernière erreur"
+
+msgctxt "Last login"
+msgid "Last login"
+msgstr "Dernière connexion"
+
+msgctxt "Last name"
+msgid "Last name"
+msgstr "Prénom"
+
+msgctxt "Last update date"
+msgid "Last update date"
+msgstr "Dernière date de mise à jour"
+
+msgctxt "Lastname"
+msgid "Lastname"
+msgstr "Nom"
+
+msgctxt "Layout #1"
+msgid "Layout #1"
+msgstr "Mise en page #1"
+
+msgctxt "Layout #2"
+msgid "Layout #2"
+msgstr "Mise en page #2"
+
+msgctxt "Layout #3"
+msgid "Layout #3"
+msgstr "Mise en page #3"
+
+msgctxt "Layout #4"
+msgid "Layout #4"
+msgstr "Mise en page #4"
+
+msgctxt "Layout #5"
+msgid "Layout #5"
+msgstr "Mise en page #5"
+
+msgctxt "Layout #6"
+msgid "Layout #6"
+msgstr "Mise en page #6"
+
+msgctxt "Leave blank if your web space is the current domain."
+msgid "Leave blank if your web space is the current domain."
+msgstr "Laisser vide si votre espace web est le domaine actuel."
+
+msgctxt "Left"
+msgid "Left"
+msgstr "De gauche"
+
+msgctxt "Let your users know what is locked"
+msgid "Let your users know what is locked"
+msgstr "Laissez vos utilisateurs savoir ce qui est verrouillé"
+
+msgctxt "Like"
+msgid "Like"
+msgstr "J'aime"
+
+msgctxt "Likes"
+msgid "Likes"
+msgstr "Likes"
+
+msgctxt "Link"
+msgid "Link"
+msgstr "Lien"
+
+msgctxt "Links"
+msgid "Links"
+msgstr "Liens"
+
+msgctxt "Links are now re-ordered!"
+msgid "Links are now re-ordered!"
+msgstr "Les liens sont maintenant re-commandé!"
+
+msgctxt "List"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "List Item"
+msgid "List Item"
+msgstr "liste article"
+
+msgctxt "List of your invoices"
+msgid "List of your invoices"
+msgstr "Liste de vos factures"
+
+msgctxt "Load More"
+msgid "Load More"
+msgstr "Chargez Plus"
+
+msgctxt "Loading"
 msgid "Loading"
 msgstr "Chargement"
+
+msgctxt "Loading picture"
+msgid "Loading picture"
+msgstr "Le chargement de l'image"
+
+msgctxt "Local APK Generator"
+msgid "Local APK Generator"
+msgstr "Local APK Générateur"
+
+msgctxt "Local APK build"
+msgid "Local APK build"
+msgstr "Local APK construire"
+
+msgctxt "Locate"
+msgid "Locate"
+msgstr "Localiser"
+
+msgctxt "Location"
+msgid "Location"
+msgstr "Emplacement"
+
+msgctxt "Location: %s"
+msgid "Location: %s"
+msgstr "Localisation: %s"
+
+msgctxt "Log in"
+msgid "Log in"
+msgstr "Connexion"
+
+msgctxt "Logged in as"
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+msgctxt "Log-in"
+msgid "Log-in"
+msgstr "Connexion"
+
+msgctxt "Login to access your data"
+msgid "Login to access your data"
+msgstr "Connectez-vous pour accéder à vos données"
+
+msgctxt "Login to your admin interface"
+msgid "Login to your admin interface"
+msgstr "Connectez-vous à votre interface d'administration"
+
+msgctxt "Log-out"
+msgid "Log-out"
+msgstr "Déconnexion"
+
+msgctxt "Loyalty Card"
+msgid "Loyalty Card"
+msgstr "Fidélité"
+
+msgctxt "LoyaltyCard"
+msgid "LoyaltyCard"
+msgstr "Carte de fidélité"
+
+msgctxt "MMMM dd y"
+msgid "MMMM dd y"
+msgstr "dd MMMM y"
+
+msgctxt "MM,d yy"
+msgid "MM,d yy"
+msgstr "d MM yy"
+
+msgctxt "MM.dd.y"
+msgid "MM.dd.y"
+msgstr "dd.MM.y"
+
+msgctxt "MM.dd.y 'at' HH:mm a"
+msgid "MM.dd.y 'at' HH:mm a"
+msgstr "dd.MM.y 'at' HH:mm a"
+
+msgctxt "MM/dd/y 'at' hh:mm a"
+msgid "MM/dd/y 'at' hh:mm a"
+msgstr "dd/MM/y à hh'h'mm"
+
+msgctxt "MM/dd/y hh:mm a"
+msgid "MM/dd/y hh:mm a"
+msgstr "dd/MM/y hh:mm"
+
+msgctxt "MM/dd/yy"
+msgid "MM/dd/yy"
+msgstr "dd/MM/yy"
+
+msgctxt "MM/dd/yyyy"
+msgid "MM/dd/yyyy"
+msgstr "dd/MM/yyyy"
+
+msgctxt "Main Platform"
+msgid "Main Platform"
+msgstr "Plate-Forme principale"
+
+msgctxt "Main category"
+msgid "Main category"
+msgstr "Catégorie principale"
+
+msgctxt "Main domain"
+msgid "Main domain"
+msgstr "Domaine principal"
+
+msgctxt "Main domain (without https?://) is required for services, and tools."
+msgid "Main domain (without https?://) is required for services, and tools."
+msgstr ""
+"Domaine principal (sans https?://) est requis pour les services, et des "
+"outils."
+
+msgctxt "Main hostname"
+msgid "Main hostname"
+msgstr "Nom d'hôte principal"
+
+msgctxt "Make this image colorizable"
+msgid "Make this image colorizable"
+msgstr "Rendre cette image colorisable"
+
+msgctxt "Manage"
+msgid "Manage"
+msgstr "Gérer"
+
+msgctxt "Manage Folders"
+msgid "Manage Folders"
+msgstr "Gérer les dossiers"
+
+msgctxt "Manage Places"
+msgid "Manage Places"
+msgstr "Gérer Les Lieux"
+
+msgctxt "Manage Tour"
+msgid "Manage Tour"
+msgstr "Gérer la visite"
+
+msgctxt "Manage content"
+msgid "Manage content"
+msgstr "Gérer le contenu"
+
+msgctxt "Map"
+msgid "Map"
+msgstr "Carte"
+
+msgctxt "Maps"
+msgid "Maps"
+msgstr "Carte"
+
+msgctxt "Mcommerce"
+msgid "Mcommerce"
+msgstr "Mcommerce"
+
+msgctxt "Media"
+msgid "Media"
+msgstr "media"
+
+msgctxt "Message"
+msgid "Message"
+msgstr "Message"
+
+msgctxt "Message from your app %s"
+msgid "Message from your app %s"
+msgstr "Message en provenance de votre application %s"
+
+msgctxt "Messages"
+msgid "Messages"
+msgstr "Messages"
+
+msgctxt "Metadata"
+msgid "Metadata"
+msgstr "Les métadonnées"
+
+msgctxt "Method"
+msgid "Method"
+msgstr "Méthode"
+
+msgctxt "Middle"
+msgid "Middle"
+msgstr "Moyen"
+
+msgctxt "Migrate sessions"
+msgid "Migrate sessions"
+msgstr "Migrer des séances"
+
+msgctxt "Migrate sessions to Redis"
+msgid "Migrate sessions to Redis"
+msgstr "Migrer des séances de Redis"
+
+msgctxt "Misc"
+msgid "Misc"
+msgstr "Divers"
+
+msgctxt "Missing appId"
+msgid "Missing appId"
+msgstr "Manquant appId"
+
+msgctxt "Missing gallery_id"
+msgid "Missing gallery_id"
+msgstr "Manquant gallery_id"
+
+msgctxt "Missing parameters."
+msgid "Missing parameters."
+msgstr "Paramètres manquants."
+
+msgctxt "Missing params"
+msgid "Missing params"
+msgstr "Manquant params"
+
+msgctxt "Missing status"
+msgid "Missing status"
+msgstr "L'état est manquant"
+
+msgctxt "Missing value"
+msgid "Missing value"
+msgstr "Valeur manquante"
+
+msgctxt "Missing values"
+msgid "Missing values"
+msgstr "Les valeurs manquantes"
+
+msgctxt "Mobile display"
+msgid "Mobile display"
+msgstr "Affichage mobile"
+
+msgctxt "Modal"
+msgid "Modal"
+msgstr "Modal"
+
+msgctxt "Modules"
+msgid "Modules"
+msgstr "Modules"
+
+msgctxt "Monetization"
+msgid "Monetization"
+msgstr "MONETISATION"
+
+msgctxt "Month"
+msgid "Month"
+msgstr "Mois"
+
+msgctxt "Monthly"
+msgid "Monthly"
+msgstr "Mensuel"
+
+msgctxt "More"
+msgid "More"
+msgstr "Plus d'infos"
+
+msgctxt "My Users List"
+msgid "My Users List"
+msgstr "Ma Liste d'utilisateurs"
+
+msgctxt "My account"
+msgid "My account"
+msgstr "Mon compte"
+
+msgctxt "My custom template"
+msgid "My custom template"
+msgstr "Mon modèle personnalisé"
+
+msgctxt "My invoices"
+msgid "My invoices"
+msgstr "Mes factures"
+
+msgctxt "MyTemplate"
+msgid "MyTemplate"
+msgstr "MyTemplate"
+
+msgctxt "NSCameraUsageDescription"
+msgid "NSCameraUsageDescription"
+msgstr "NSCameraUsageDescription"
+
+msgctxt "NSLocationAlwaysAndWhenInUseUsageDescription"
+msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
+msgstr "NSLocationAlwaysAndWhenInUseUsagedescription"
+
+msgctxt "NSLocationAlwaysUsageDescription"
+msgid "NSLocationAlwaysUsageDescription"
+msgstr "NSLocationAlwaysUsageDescription"
+
+msgctxt "NSLocationWhenInUseUsageDescription"
+msgid "NSLocationWhenInUseUsageDescription"
+msgstr "NSLocationWhenInUseUsageDescription"
+
+msgctxt "NSMotionUsageDescription"
+msgid "NSMotionUsageDescription"
+msgstr "NSMotionUsageDescription"
+
+msgctxt "NSPhotoLibraryUsageDescription"
+msgid "NSPhotoLibraryUsageDescription"
+msgstr "NSPhotoLibraryUsageDescription"
+
+msgctxt "Name"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "Never"
+msgid "Never"
+msgstr "Jamais"
+
+msgctxt "New"
+msgid "New"
+msgstr "Nouveau"
+
+msgctxt "New folder"
+msgid "New folder"
+msgstr "Nouveau dossier"
+
+msgctxt "New format"
+msgid "New format"
+msgstr "Nouveau format"
+
+msgctxt "New password"
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgctxt "New positions are missing."
+msgid "New positions are missing."
+msgstr "De nouveaux postes sont manquantes."
+
+msgctxt "New subfolder"
+msgid "New subfolder"
+msgstr "Nouveau sous-dossier"
+
+msgctxt "Newswall"
+msgid "Newswall"
+msgstr "Mur d'actu"
+
+msgctxt "Next"
+msgid "Next"
+msgstr "Suivant"
+
+msgctxt "No"
+msgid "No"
+msgstr "Non"
+
+msgctxt "No Results"
+msgid "No Results"
+msgstr "Pas de résultat."
+
+msgctxt "No address to display on map."
+msgid "No address to display on map."
+msgstr "Aucune adresse pour afficher sur la carte."
+
+msgctxt "No data for this metrics for now."
+msgid "No data for this metrics for now."
+msgstr "Aucune donnée pour cette statistique pour le moment."
+
+msgctxt "No features"
+msgid "No features"
+msgstr "Pas de fonctionnalités"
+
+msgctxt "No invoice for now."
+msgid "No invoice for now."
+msgstr "Aucune facture pour le moment"
+
+msgctxt "No items found"
+msgid "No items found"
+msgstr "Pas de message"
+
+msgctxt "No linkable element found on this page."
+msgid "No linkable element found on this page."
+msgstr "Aucun élément de liaison trouvé sur cette page."
+
+msgctxt "No logs"
+msgid "No logs"
+msgstr "Pas de journaux"
+
+msgctxt "No modules"
+msgid "No modules"
+msgstr "Pas de modules"
+
+msgctxt "No place to display on map."
+msgid "No place to display on map."
+msgstr "Pas de POI pour afficher sur la carte."
+
+msgctxt "No profile found. Please create one in Settings tab."
+msgid "No profile found. Please create one in Settings tab."
+msgstr "Aucun profil trouvé, SVP créez en un dans l'onglet Paramètres"
+
+msgctxt "No published applications available."
+msgid "No published applications available."
+msgstr "Aucune application publiée disponible."
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr "Aucun résultat pour votre demande."
+
+msgctxt "No rules"
+msgid "No rules"
+msgstr "Pas de règle"
+
+msgctxt "No uploaded image"
+msgid "No uploaded image"
+msgstr "Aucune image téléchargée"
+
+msgctxt "Not available offline."
+msgid "Not available offline."
+msgstr "Non disponible en mode hors connexion."
+
+msgctxt "Note"
+msgid "Note"
+msgstr "Note"
+
+msgctxt ""
+"Note: A disabled feature is not removed from published applications & can "
+"still be edited, but users can't add it anymore!"
+msgid ""
+"Note: A disabled feature is not removed from published applications & can "
+"still be edited, but users can't add it anymore!"
+msgstr ""
+"Remarque: désactivé la fonctionnalité n'est pas supprimé de demandes "
+"publiées et peut encore être modifié, mais les utilisateurs ne peuvent pas "
+"ajouter de plus!"
+
+msgctxt "Note: Let's encrypt X1 is a staging certificate."
+msgid "Note: Let's encrypt X1 is a staging certificate."
+msgstr "Remarque: Let's encrypt X1 est un certificat de mise en scène."
+
+msgctxt "Nothing to display."
+msgid "Nothing to display."
+msgstr "Rien à afficher."
+
+msgctxt "Number"
+msgid "Number"
+msgstr "Nombre"
+
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "Nombre de personnes"
+
+msgctxt "Number of reward used"
+msgid "Number of reward used"
+msgstr "Nombre de points utilisés"
+
+msgctxt "OK"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "OR"
+msgid "OR"
+msgstr "Ou"
+
+msgctxt "Offline Payment"
+msgid "Offline Payment"
+msgstr "Paiement Hors Ligne"
+
+msgctxt "Offline content"
+msgid "Offline content"
+msgstr "Le contenu hors connexion"
+
+msgctxt "Old Password"
+msgid "Old Password"
+msgstr "Ancien mot de passe"
+
+msgctxt "Only active"
+msgid "Only active"
+msgstr "Actif uniquement"
+
+msgctxt "Only inactive"
+msgid "Only inactive"
+msgstr "Seulement inactif"
+
+msgctxt "Only offline"
+msgid "Only offline"
+msgstr "Uniquement en mode hors connexion"
+
+msgctxt "Only published application are available for global push notifications."
+msgid "Only published application are available for global push notifications."
+msgstr ""
+"Seule une application publiée est disponible pour les notifications push "
+"globales."
+
+msgctxt "Open custom URL"
+msgid "Open custom URL"
+msgstr "Ouvrir une URL personnalisée"
+
+msgctxt "Open settings"
+msgid "Open settings"
+msgstr "Ouvrez les paramètres de"
+
+msgctxt "Options"
+msgid "Options"
+msgstr "Options"
+
+msgctxt "Or do you want to return to editor?"
+msgid "Or do you want to return to editor?"
+msgstr "Ou voulez-vous retourner à l'éditeur?"
+
+msgctxt "Order"
+msgid "Order"
+msgstr "Commande"
+
+msgctxt "Order date"
+msgid "Order date"
+msgstr "Date de commande"
+
+msgctxt "Origin"
+msgid "Origin"
+msgstr "Origine"
+
+msgctxt "Ouch, this page doesn't exist"
+msgid "Ouch, this page doesn't exist"
+msgstr "Oups, cette page n'existe pas"
+
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr "Remplacer la mise en page"
+
+msgctxt "PHP Version"
+msgid "PHP Version"
+msgstr "La Version de PHP"
+
+msgctxt "Package name"
+msgid "Package name"
+msgstr "Nom du Package"
+
+msgctxt "Padlock"
+msgid "Padlock"
+msgstr "Privé"
+
+msgctxt "Page settings"
+msgid "Page settings"
+msgstr "Les paramètres de la Page"
+
+msgctxt "Paid At"
+msgid "Paid At"
+msgstr "Payé à"
+
+msgctxt "Paid amount"
+msgid "Paid amount"
+msgstr "Montant payé"
+
+msgctxt "Paid at"
+msgid "Paid at"
+msgstr "Payé à"
+
+msgctxt "Parent"
+msgid "Parent"
+msgstr "Parent"
+
+msgctxt "Password"
+msgid "Password"
+msgstr "Mot de passe"
+
+msgctxt "Password (clear)"
+msgid "Password (clear)"
+msgstr "Mot de passe (Effacer)"
+
+msgctxt "Password (hashed)"
+msgid "Password (hashed)"
+msgstr "Mot de passe (crypté)"
+
+msgctxt "Passwords don't match"
+msgid "Passwords don't match"
+msgstr "Les mots de passe ne sont pas identiques"
+
+msgctxt "PayPal Express Checkout"
+msgid "PayPal Express Checkout"
+msgstr "PayPal Express Checkout"
+
+msgctxt "Payment"
+msgid "Payment"
+msgstr "Paiement"
+
+msgctxt "Payment ID"
+msgid "Payment ID"
+msgstr "Paiement ID"
+
+msgctxt "Payment Method"
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+msgctxt "Payment method"
+msgid "Payment method"
+msgstr "Méthode de paiement:"
+
+msgctxt "Payments"
+msgid "Payments"
+msgstr "Paiements"
+
+msgctxt "Permissions"
+msgid "Permissions"
+msgstr "Les autorisations"
+
+msgctxt "Personal data"
+msgid "Personal data"
+msgstr "Données personnelles"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Téléphone"
+
+msgctxt "Phone and/or E-mail"
+msgid "Phone and/or E-mail"
+msgstr "Téléphone et/ou E-mail"
+
+msgctxt "Photos"
+msgid "Photos"
+msgstr "Photos"
+
+msgctxt "Place disabled"
+msgid "Place disabled"
+msgstr "Lieu désactivé"
+
+msgctxt "Places"
+msgid "Places"
+msgstr "Emplois"
+
+msgctxt "Plain"
+msgid "Plain"
+msgstr "Plaine"
+
+msgctxt "Plans"
+msgid "Plans"
+msgstr "Plans"
+
+msgctxt "Platform"
+msgid "Platform"
+msgstr "Plate-forme"
+
+msgctxt "Platform Name"
+msgid "Platform Name"
+msgstr "Nom de la plate-forme"
+
+msgctxt "Platform hostname"
+msgid "Platform hostname"
+msgstr "Plate-forme de nom d'hôte"
+
+msgctxt "Player"
+msgid "Player"
+msgstr "Lecteur"
+
+msgctxt "Please create the API keys to enable this feature."
+msgid "Please create the API keys to enable this feature."
+msgstr ""
+"S'il vous plaît créer les clés de l'API pour activer cette fonctionnalité ."
+
+msgctxt "Please, enter a correct email address."
+msgid "Please, enter a correct email address."
+msgstr "Veuillez saisir une adresse email valide."
+
+msgctxt "Please enter a password"
+msgid "Please enter a password"
+msgstr "Veuillez saisir un mot de passe."
+
+msgctxt "Please enter a valid URL."
+msgid "Please enter a valid URL."
+msgstr "SVP entrer une URL valide."
+
+msgctxt "Please enter a valid credit card number."
+msgid "Please enter a valid credit card number."
+msgstr "SVP entrez un numéro de carte de crédit valide."
+
+msgctxt "Please, enter a valid date"
+msgid "Please, enter a valid date"
+msgstr "Veuillez saisir une date correcte"
+
+msgctxt "Please enter a valid date (ISO)."
+msgid "Please enter a valid date (ISO)."
+msgstr "Se il vous plaît entrer une date valide (ISO)."
+
+msgctxt "Please enter a valid email address"
+msgid "Please enter a valid email address"
+msgstr "Veuillez entrer une adresse email valide"
+
+msgctxt "Please enter a valid number."
+msgid "Please enter a valid number."
+msgstr "SVP entrer un numéro valide."
+
+msgctxt "Please enter a valid url"
+msgid "Please enter a valid url"
+msgstr "Veuillez saisir une url correcte"
+
+msgctxt "Please enter a value between {0} and {1}."
+msgid "Please enter a value between {0} and {1}."
+msgstr "SVP entrer une valeur comprise entre {0} et {1}."
+
+msgctxt "Please enter a value between {0} and {1} characters long."
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "SVP entrer une valeur comprise entre {0} et {1} caractères."
+
+msgctxt "Please enter a value greater than or equal to {0}."
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "SVP entrer une valeur supérieure ou égale à {0}."
+
+msgctxt "Please enter a value less than or equal to {0}."
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Se il vous plaît entrer une valeur inférieure ou égale à {0}."
+
+msgctxt "Please enter at least {0} characters."
+msgid "Please enter at least {0} characters."
+msgstr "SVP entrer au moins {0} caractères."
+
+msgctxt "Please enter no more than {0} characters."
+msgid "Please enter no more than {0} characters."
+msgstr "Se il vous plaît entrez pas plus de {0} caractères."
+
+msgctxt "Please enter only digits."
+msgid "Please enter only digits."
+msgstr "SVP saisir que des chiffres."
+
+msgctxt "Please enter the same value again."
+msgid "Please enter the same value again."
+msgstr "SVP entrer de nouveau la même valeur."
+
+msgctxt "Please enter your email address"
+msgid "Please enter your email address"
+msgstr "Veuillez saisir votre adresse email"
+
+msgctxt "Please fill in the following fields:"
+msgid "Please fill in the following fields:"
+msgstr "SVP remplir les champs suivants :"
+
+msgctxt "Please fill out the following fields"
+msgid "Please fill out the following fields"
+msgstr "Veuillez remplir les champs suivants"
+
+msgctxt "Please fix this field."
+msgid "Please fix this field."
+msgstr "SVP corriger ce domaine."
+
+msgctxt "Please log in."
+msgid "Please log in."
+msgstr "Veuillez vous connecter..."
+
+msgctxt ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when the %s applications limit is reached."
+msgid ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when the %s applications limit is reached."
+msgstr ""
+"Veuillez noter que cette page affiche actuellement des données DEMO. Les "
+"données réelles seront affichées lorsque la limite des applications% s est "
+"atteinte."
+
+msgctxt ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when your application is published."
+msgid ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when your application is published."
+msgstr ""
+"S'il vous plaît notez que cette page affiche actuellement des données DEMO. "
+"Les données réelles seront affichées lorsque votre application sera publiée."
+
+msgctxt "Please provide a certificate."
+msgid "Please provide a certificate."
+msgstr "S'il vous plaît fournissez un certificat"
+
+msgctxt "Please select at least one application."
+msgid "Please select at least one application."
+msgstr "Veuillez sélectionner au moins une application."
+
+msgctxt "Please wait..."
+msgid "Please wait..."
+msgstr "Veuillez patienter..."
+
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "Podcast"
+
+msgctxt "Podcast URL"
+msgid "Podcast URL"
+msgstr "Podcast URL"
+
+msgctxt "Podcast URL (iTunes format)"
+msgid "Podcast URL (iTunes format)"
+msgstr "Podcast URL (format iTunes)"
+
+msgctxt "Podcast type is invalid or can't be found"
+msgid "Podcast type is invalid or can't be found"
+msgstr "Type Podcast est invalide ou ne peut pas être trouvé"
+
+msgctxt "Port"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "Port, example: 3310"
+msgid "Port, example: 3310"
+msgstr "Port, exemple: 3310"
+
+msgctxt "Position Menu"
+msgid "Position Menu"
+msgstr "Menu Position"
+
+msgctxt "Postcode"
+msgid "Postcode"
+msgstr "Code Postal"
+
+msgctxt "Previewer"
+msgid "Previewer"
+msgstr "Previewer"
+
+msgctxt "Previews"
+msgid "Previews"
+msgstr "Les aperçus"
+
+msgctxt "Privacy"
+msgid "Privacy"
+msgstr "Vie privée"
+
+msgctxt "Privacy Policy"
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgctxt "Privacy policy"
+msgid "Privacy policy"
+msgstr "Politique de confidentialité"
+
+msgctxt "Privacy policy section for GDPR"
+msgid "Privacy policy section for GDPR"
+msgstr "Section politique de confidentialité pour GDPR"
+
+msgctxt "Privacy policy successfully saved"
+msgid "Privacy policy successfully saved"
+msgstr "Politique de confidentialité enregistrée avec succès"
+
+msgctxt "Privacy settings"
+msgid "Privacy settings"
+msgstr "Les paramètres de confidentialité"
+
+msgctxt "Products"
+msgid "Products"
+msgstr "Produits"
+
+msgctxt "Profile"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "Promotion"
+msgid "Promotion"
+msgstr "Promotion"
+
+msgctxt "Publication settings"
+msgid "Publication settings"
+msgstr "Les paramètres de la Publication"
+
+msgctxt "Publish your app"
+msgid "Publish your app"
+msgstr "Publier votre application"
+
+msgctxt "Publishable Key"
+msgid "Publishable Key"
+msgstr "Clé Publiable"
+
+msgctxt "Push"
+msgid "Push"
+msgstr "Push"
+
+msgctxt "Push Notifications"
+msgid "Push Notifications"
+msgstr "Push"
+
+msgctxt "Push message"
+msgid "Push message"
+msgstr "Message Push"
+
+msgctxt "Push message is sent."
+msgid "Push message is sent."
+msgstr "Le message Push est envoyé."
+
+msgctxt "Push notification"
+msgid "Push notification"
+msgstr "Notification Push"
+
+msgctxt "Push notifications"
+msgid "Push notifications"
+msgstr "Notifications Push"
+
+msgctxt ""
+"Push notifications Your account doesn't exists on editor side. Please create "
+"it before using tour edition."
+msgid ""
+"Push notifications Your account doesn't exists on editor side. Please create "
+"it before using tour edition."
+msgstr ""
+"Les notifications Push de votre compte n'existe pas du coté de l'éditeur. "
+"Veuillez la créer avant d'utiliser la tour d'édition."
+
+msgctxt "QR Code"
+msgid "QR Code"
+msgstr "QR Code"
+
+msgctxt "QRCode"
+msgid "QRCode"
+msgstr "QRCode"
+
+msgctxt "Qty"
+msgid "Qty"
+msgstr "Qt"
+
+msgctxt "Query"
+msgid "Query"
+msgstr "Requête"
+
+msgctxt "RSS Feed"
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+msgctxt "Radio"
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt "Redis AUTH KEY"
+msgid "Redis AUTH KEY"
+msgstr "Redis CLÉ AUTH"
+
+msgctxt "Registration date"
+msgid "Registration date"
+msgstr "Date d'enregistrement"
+
+msgctxt "Release"
+msgid "Release"
+msgstr "Libération"
+
+msgctxt "Remove"
+msgid "Remove"
+msgstr "Supprimer"
+
+msgctxt "Remove this page from this folder?"
+msgid "Remove this page from this folder?"
+msgstr "Supprimer cette page de ce dossier?"
+
+msgctxt "Remove this step"
+msgid "Remove this step"
+msgstr "Supprimer cette étape"
+
+msgctxt "Request & Upload to panel"
+msgid "Request & Upload to panel"
+msgstr "La demande et la Télécharger sur panneau"
+
+msgctxt "Request APK generation"
+msgid "Request APK generation"
+msgstr "Demande APK génération"
+
+msgctxt "Request or renew the certificate via Let's Encrypt."
+msgid "Request or renew the certificate via Let's Encrypt."
+msgstr "Demander ou renouveler le certificat via un Let's Encrypt."
+
+msgctxt "Requested by"
+msgid "Requested by"
+msgstr "Demandé par"
+
+msgctxt "Required fields"
+msgid "Required fields"
+msgstr "Champs obligatoire"
+
+msgctxt "Reset to default Privacy Policy."
+msgid "Reset to default Privacy Policy."
+msgstr "Réinitialiser la politique de confidentialité par défaut."
+
+msgctxt "Resize your picture"
+msgid "Resize your picture"
+msgstr "Redimensionnez votre image"
+
+msgctxt "Restart"
+msgid "Restart"
+msgstr "Redémarrer"
+
+msgctxt "Restore Apps"
+msgid "Restore Apps"
+msgstr "Restaurer Les Applications"
+
+msgctxt "Restore Apps sources"
+msgid "Restore Apps sources"
+msgstr "Restaurer les Applications de sources d'"
+
+msgctxt "Right"
+msgid "Right"
+msgstr "Droit"
+
+msgctxt "Roles"
+msgid "Roles"
+msgstr "Rôles"
+
+msgctxt "Rss"
+msgid "Rss"
+msgstr "Rss"
+
+msgctxt "Rule have been added."
+msgid "Rule have been added."
+msgstr "La règle ont été ajoutés."
+
+msgctxt "Rule have been removed."
+msgid "Rule have been removed."
+msgstr "La règle a été supprimée."
+
+msgctxt "Run Android SDK update"
+msgid "Run Android SDK update"
+msgstr "Exécutez Android SDK de mise à jour"
+
+msgctxt "SCSS successfully saved"
+msgid "SCSS successfully saved"
+msgstr "SCSS enregistré avec succès"
+
+msgctxt "SELF-ASSIGNABLE"
+msgid "SELF-ASSIGNABLE"
+msgstr "AUTO-PROGRAMMABLES"
+
+msgctxt "SEND"
+msgid "SEND"
+msgstr "ENVOYER"
+
+msgctxt "SMTP"
+msgid "SMTP"
+msgstr "SMTP"
+
+msgctxt ""
+"SMTP - Whitelist: An administrator sent a request for white-listing his "
+"domain."
+msgid ""
+"SMTP - Whitelist: An administrator sent a request for white-listing his "
+"domain."
+msgstr ""
+"SMTP - Whitelist: Un administrateur a envoyé une demande d'inscription de "
+"liste blanche de son domaine."
+
+msgctxt "SMTP Credentials (Affiliated to the White-Label %s)"
+msgid "SMTP Credentials (Affiliated to the White-Label %s)"
+msgstr "SMTP informations d'Identification (Affilié à le Blanc-Étiquette %s)"
+
+msgctxt "Sales by Categories (TOP 10)"
+msgid "Sales by Categories (TOP 10)"
+msgstr "Ventes par catégories (TOP10)"
+
+msgctxt "Sales by Payment method"
+msgid "Sales by Payment method"
+msgstr "Ventes par mode de Paiements"
+
+msgctxt "Sales by Store"
+msgid "Sales by Store"
+msgstr "Ventes par magasin"
+
+msgctxt "Sales by product (TOP 20)"
+msgid "Sales by product (TOP 20)"
+msgstr "Ventes par produits (TOP20)"
+
+msgctxt "Sample"
+msgid "Sample"
+msgstr "L'échantillon"
+
+msgctxt "Save"
+msgid "Save"
+msgstr "Enregistrer"
+
+msgctxt "Save GCM settings"
+msgid "Save GCM settings"
+msgstr "Enregistrer les paramètres de la GCM"
+
+msgctxt "Save iTunes credentials"
+msgid "Save iTunes credentials"
+msgstr "Enregistrer les informations d'identification iTunes"
+
+msgctxt "Save sender id & key"
+msgid "Save sender id & key"
+msgstr "Enregistrer l'id de l'expéditeur et de la clé"
+
+msgctxt "Scan it."
+msgid "Scan it."
+msgstr "Scanner"
+
+msgctxt "Scan now to unlock"
+msgid "Scan now to unlock"
+msgstr "Scannez le QR Code que vous avez reçu pour déverrouiller."
+
+msgctxt "Scheduled for"
+msgid "Scheduled for"
+msgstr "Prévue pour"
+
+msgctxt "Scheduled for <i>%s</i>"
+msgid "Scheduled for <i>%s</i>"
+msgstr "Prévue pour  <i>%s</i>"
+
+msgctxt "Scratchcard Users"
+msgid "Scratchcard Users"
+msgstr "Utilisateurs de la carte à gratter"
+
+msgctxt "Search"
+msgid "Search"
+msgstr "Rechercher"
+
+msgctxt "Search ..."
+msgid "Search ..."
+msgstr "Rechercher ..."
+
+msgctxt "Search / Filter"
+msgid "Search / Filter"
+msgstr "De Recherche / Filtre"
+
+msgctxt "Search, filter ..."
+msgid "Search, filter ..."
+msgstr "Recherche, filtre ..."
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr "Résultats de la recherche"
+
+msgctxt "See"
+msgid "See"
+msgstr "Voir"
+
+msgctxt "Select a Development team"
+msgid "Select a Development team"
+msgstr "Sélectionnez une équipe de Développement"
+
+msgctxt "Select a country"
+msgid "Select a country"
+msgstr "Sélectionnez un pays"
+
+msgctxt "Select a hostname"
+msgid "Select a hostname"
+msgstr "Sélectionnez un nom d'hôte"
+
+msgctxt "Select a panel type or self-managed"
+msgid "Select a panel type or self-managed"
+msgstr "Sélectionnez un type de panneau ou autogéré"
+
+msgctxt "Select all"
+msgid "Select all"
+msgstr "sélectionner tous"
+
+msgctxt "Select an album"
+msgid "Select an album"
+msgstr "Sélectionnez un album"
+
+msgctxt "Select an iTunes Connect provider"
+msgid "Select an iTunes Connect provider"
+msgstr "Sélectionnez un iTunes Connect fournisseur"
+
+msgctxt "Select target applications"
+msgid "Select target applications"
+msgstr "Sélectionnez les applications"
+
+msgctxt "Select your back button appearance"
+msgid "Select your back button appearance"
+msgstr "Sélectionnez l'apparence du bouton de retour"
+
+msgctxt "Selected hostname"
+msgid "Selected hostname"
+msgstr "Sélectionné le nom d'hôte"
+
+msgctxt "Selected main hostname"
+msgid "Selected main hostname"
+msgstr "Nom d'hôte principal sélectionné"
+
+msgctxt "Send"
+msgid "Send"
+msgstr "Envoyer"
+
+msgctxt "Send a cover image"
+msgid "Send a cover image"
+msgstr "Envoyer une image de couverture"
+
+msgctxt "Send push"
+msgid "Send push"
+msgstr "Envoyer un push"
+
+msgctxt "Send report"
+msgid "Send report"
+msgstr "Envoyer le rapport"
+
+msgctxt "Send to all applications."
+msgid "Send to all applications."
+msgstr "Envoyer à toutes les applications."
+
+msgctxt "Send your pictures"
+msgid "Send your pictures"
+msgstr "Envoyez vos images"
+
+msgctxt "Sender ID"
+msgid "Sender ID"
+msgstr "Sender ID"
+
+msgctxt "Sender email"
+msgid "Sender email"
+msgstr "Email de l'expéditeur"
+
+msgctxt "Sender name"
+msgid "Sender name"
+msgstr "Nom de l'expéditeur"
+
+msgctxt "Server key"
+msgid "Server key"
+msgstr "La clé du serveur"
+
+msgctxt "Service APK Generator"
+msgid "Service APK Generator"
+msgstr "Service APK Générateur"
+
+msgctxt "Service APK generator"
+msgid "Service APK generator"
+msgstr "Service APK Générateur"
+
+msgctxt "Service notes"
+msgid "Service notes"
+msgstr "Les notes de Service"
+
+msgctxt "Session settings"
+msgid "Session settings"
+msgstr "Les paramètres de la Session"
+
+msgctxt "Set Meal"
+msgid "Set Meal"
+msgstr "Produit"
+
+msgctxt "Settings"
+msgid "Settings"
+msgstr "Paramètres"
+
+msgctxt "Show"
+msgid "Show"
+msgstr "Voir"
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr "Afficher la couverture"
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr "Afficher le champ de recherche"
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Afficher le titre"
+
+msgctxt "Siberian current installation path"
+msgid "Siberian current installation path"
+msgstr "Sibérie actuel chemin d'installation"
+
+msgctxt "Siberian domain"
+msgid "Siberian domain"
+msgstr "Sibérie domaine"
+
+msgctxt "Siberian informations"
+msgid "Siberian informations"
+msgstr "Sibérie informations"
+
+msgctxt ""
+"Siberian uses it to scan all uploaded files that have passed the soft "
+"Firewall."
+msgid ""
+"Siberian uses it to scan all uploaded files that have passed the soft "
+"Firewall."
+msgstr ""
+"Sibérie utilise pour analyser tous les fichiers téléchargés qui ont passé le "
+"soft de Pare-feu."
+
+msgctxt "Size:"
+msgid "Size:"
+msgstr "Taille :"
+
+msgctxt "Size on disk"
+msgid "Size on disk"
+msgstr "Taille sur le disque"
+
+msgctxt "Slack notification settings"
+msgid "Slack notification settings"
+msgstr "Mou paramètres de notification"
+
+msgctxt "Slider"
+msgid "Slider"
+msgstr "Diaporama"
+
+msgctxt "Social"
+msgid "Social"
+msgstr "Reseaux sociaux"
+
+msgctxt "Socialgaming"
+msgid "Socialgaming"
+msgstr "Socialgaming"
+
+msgctxt "Socket"
+msgid "Socket"
+msgstr "Socket"
+
+msgctxt "Soundcloud"
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+msgctxt "Source code"
+msgid "Source code"
+msgstr "Le code Source"
+
+msgctxt ""
+"Source code generation is not configured, ask your administrator for more "
+"informations."
+msgid ""
+"Source code generation is not configured, ask your administrator for more "
+"informations."
+msgstr ""
+"Génération de code Source n'est pas configuré, demandez à votre "
+"administrateur pour plus d'informations."
+
+msgctxt "Sourcecode"
+msgid "Sourcecode"
+msgstr "Code source"
+
+msgctxt "Sources"
+msgid "Sources"
+msgstr "Sources"
+
+msgctxt "Spinner"
+msgid "Spinner"
+msgstr "Spinner"
+
+msgctxt "Split Ad revenue (percent for you)"
+msgid "Split Ad revenue (percent for you)"
+msgstr "Revenus d'annonces fractionnées ( % )"
+
+msgctxt "Start date must be lower than end date."
+msgid "Start date must be lower than end date."
+msgstr "La date du début doit être antérieure à la date de la fin."
+
+msgctxt "State / Province"
+msgid "State / Province"
+msgstr "État / Province"
+
+msgctxt "Step placement (optional)"
+msgid "Step placement (optional)"
+msgstr "L'étape de placement (facultatif)"
+
+msgctxt "Step saved successfully."
+msgid "Step saved successfully."
+msgstr "Étape enregistré avec succès."
+
+msgctxt "Step text"
+msgid "Step text"
+msgstr "L'étape de texte"
+
+msgctxt "Step title"
+msgid "Step title"
+msgstr "L'étape de titre"
+
+msgctxt "Street"
+msgid "Street"
+msgstr "Rue"
+
+msgctxt "Subscriptions"
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgctxt "Subtitle"
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+msgctxt "Success"
+msgid "Success"
+msgstr "Succès"
+
+msgctxt "Support"
+msgid "Support"
+msgstr "Support"
+
+msgctxt "Support Link"
+msgid "Support Link"
+msgstr "Lien du support"
+
+msgctxt "Support link"
+msgid "Support link"
+msgstr "Lien de Support"
+
+msgctxt "Switch to Ionic design"
+msgid "Switch to Ionic design"
+msgstr "Commuter vers design Ionic"
+
+msgctxt "System"
+msgid "System"
+msgstr "Système"
+
+msgctxt "TLS"
+msgid "TLS"
+msgstr "TLS"
+
+msgctxt "Target applications"
+msgid "Target applications"
+msgstr "Applications ciblées"
+
+msgctxt "Target devices"
+msgid "Target devices"
+msgstr "Les périphériques cibles"
+
+msgctxt "Target specific devices"
+msgid "Target specific devices"
+msgstr "Cible des appareils spécifiques"
+
+msgctxt "Tax"
+msgid "Tax"
+msgstr "Taxe"
+
+msgctxt "Taxes"
+msgid "Taxes"
+msgstr "Taxes"
+
+msgctxt "Template"
+msgid "Template"
+msgstr "Modèle"
+
+msgctxt "Test SMTP"
+msgid "Test SMTP"
+msgstr "Test SMTP"
+
+msgctxt "Text"
+msgid "Text"
+msgstr "Texte"
+
+msgctxt "Thank you"
+msgid "Thank you"
+msgstr "Merci"
+
+msgctxt "Thank you for your request.<br />We'll answer you as soon as possible."
+msgid "Thank you for your request.<br />We'll answer you as soon as possible."
+msgstr ""
+"Nous vous remercions de votre demande.<br /> Nous vous répondrons dans les "
+"plus brefs délais."
+
+msgctxt "The account has been successfully saved"
+msgid "The account has been successfully saved"
+msgstr "Le compte a été sauvegardé avec succès"
+
+msgctxt "The address you're looking for does not exists."
+msgid "The address you're looking for does not exists."
+msgstr "L'adresse que vous recherchez n'existe pas."
+
+msgctxt "The admin_id is required"
+msgid "The admin_id is required"
+msgstr "votre id_admin est requis"
+
+msgctxt "The admin_id parameter is required"
+msgid "The admin_id parameter is required"
+msgstr "Le admin_id paramètre est requis"
+
+msgctxt "The app_id is required"
+msgid "The app_id is required"
+msgstr "Le APP_ID est requis"
+
+msgctxt "The app_id parameter is required"
+msgid "The app_id parameter is required"
+msgstr "Le app_id paramètre est requis"
+
+msgctxt ""
+"The certificate request failed 3 times, please check the certificate "
+"information, your panel credentials, and everything else.<br />If your "
+"certificate is valid, you can try to upload to panel only."
+msgid ""
+"The certificate request failed 3 times, please check the certificate "
+"information, your panel credentials, and everything else.<br />If your "
+"certificate is valid, you can try to upload to panel only."
+msgstr ""
+"La demande de certificat a échoué 3 fois, vérifiez les informations sur le "
+"certificat, les informations d'identification de votre panneau et tout le "
+"reste. <br /> Si votre certificat est valide, vous pouvez essayer de "
+"télécharger uniquement sur le panneau."
+
+msgctxt "The email is required"
+msgid "The email is required"
+msgstr "L'email est requis"
+
+msgctxt "The entered text mismatch"
+msgid "The entered text mismatch"
+msgstr "Le texte saisi d'incompatibilité"
+
+msgctxt "The file '%s' does not exist"
+msgid "The file '%s' does not exist"
+msgstr "Le fichier '%s' n'existe pas"
+
+msgctxt "The image '%s' does not exist"
+msgid "The image '%s' does not exist"
+msgstr "L'image '%s' n'existe pas"
+
+msgctxt "The image size '%s' could not be detected."
+msgid "The image size '%s' could not be detected."
+msgstr "La taille de l'image '%s' ne peut pas être détectée."
+
+msgctxt "The name is required"
+msgid "The name is required"
+msgstr "Le nom est requis"
+
+msgctxt "The old password does not match the entered password."
+msgid "The old password does not match the entered password."
+msgstr "L'ancien mot de passe ne correspond pas au mot de passe saisi."
+
+msgctxt "The password is required"
+msgid "The password is required"
+msgstr "Le mot de passe est requis"
+
+msgctxt "The password must be at least 6 characters"
+msgid "The password must be at least 6 characters"
+msgstr "Le mot de passe doit comporter au minimum 6 caractères"
+
+msgctxt ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us."
+msgid ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us."
+msgstr "Le paiement a été annulé, n'hésitez pas à nous contacter."
+
+msgctxt "The sent request is empty."
+msgid "The sent request is empty."
+msgstr "La demande envoyée est vide."
+
+msgctxt "The user_id is required"
+msgid "The user_id is required"
+msgstr "Le user_id est nécessaire"
+
+msgctxt "The value_id is required."
+msgid "The value_id is required."
+msgstr "Le valeur_id est obligatoire."
+
+msgctxt "This URL is already used"
+msgid "This URL is already used"
+msgstr "Cette URL est déjà utilisé."
+
+msgctxt "This admin can generate APK"
+msgid "This admin can generate APK"
+msgstr "Cette administration peut générer APK"
+
+msgctxt "This admin does not exist"
+msgid "This admin does not exist"
+msgstr "Cet administrateur n'existe pas"
+
+msgctxt "This admin gives you the required information to publish applications"
+msgid "This admin gives you the required information to publish applications"
+msgstr ""
+"Cette admin vous donne les informations nécessaires afin de publier des "
+"applications"
+
+msgctxt "This administrator does not exist"
+msgid "This administrator does not exist"
+msgstr "Cette administrateur n'existe pas"
+
+msgctxt "This application does not exist"
+msgid "This application does not exist"
+msgstr "Cette application n'existe pas!"
+
+msgctxt "This block type doesn't exist"
+msgid "This block type doesn't exist"
+msgstr "Ce type de bloc n'existe pas"
+
+msgctxt "This code is unrecognized"
+msgid "This code is unrecognized"
+msgstr "Ce code est méconnue"
+
+msgctxt "This email address does not exist"
+msgid "This email address does not exist"
+msgstr "Cette adresse mail n'existe pas!"
+
+msgctxt "This email address is already used"
+msgid "This email address is already used"
+msgstr "Cette adresse email est déjà utilisée"
+
+msgctxt "This feature is available from the application only"
+msgid "This feature is available from the application only"
+msgstr "Cette fonctionnalité est disponible à partir de l'application seulement"
+
+msgctxt ""
+"This feature is disabled by default since update 4.12.24 and is deprecated "
+"in favor of Folders v2."
+msgid ""
+"This feature is disabled by default since update 4.12.24 and is deprecated "
+"in favor of Folders v2."
+msgstr ""
+"Cette fonctionnalité est désactivée par défaut depuis la mise à jour 4.12.24 "
+"et est déconseillée en faveur du Dossiers v2."
+
+msgctxt "This feature opens the Code Scan camera"
+msgid "This feature opens the Code Scan camera"
+msgstr "Cette fonction ouvre la caméra Scan Code"
+
+msgctxt "This field is required"
+msgid "This field is required"
+msgstr "Ce champ est obligatoire"
+
+msgctxt "This layout has no option."
+msgid "This layout has no option."
+msgstr "Cette mise en page n'a pas d'option."
+
+msgctxt "This option doesn't exists."
+msgid "This option doesn't exists."
+msgstr "Cette option n'existe pas."
+
+msgctxt ""
+"This option is not compatible with applications using Forms and/or features "
+"with Keyboard."
+msgid ""
+"This option is not compatible with applications using Forms and/or features "
+"with Keyboard."
+msgstr ""
+"Cette option n'est pas compatible avec les applications utilisant des "
+"Formulaires et/ou des fonctionnalités avec un clavier."
+
+msgctxt "This plan is an offline plan."
+msgid "This plan is an offline plan."
+msgstr "Ce plan est un hors plan."
+
+msgctxt "This section is unlocked for mobile users only"
+msgid "This section is unlocked for mobile users only"
+msgstr "Cette section est débloqué pour les utilisateurs de mobiles"
+
+msgctxt "This will open the code scan camera on your device."
+msgid "This will open the code scan camera on your device."
+msgstr "Cela va ouvrir la caméra code de votre appareil pour lire le code."
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr "Vignette"
+
+msgctxt "Time spent in application"
+msgid "Time spent in application"
+msgstr "Durée de visite de l'application"
+
+msgctxt "Timezone"
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+msgctxt "Tip"
+msgid "Tip"
+msgstr "Pourboire"
+
+msgctxt "Title"
+msgid "Title"
+msgstr "Titre"
+
+msgctxt "Title & Message are both required."
+msgid "Title & Message are both required."
+msgstr "Titre et Message sont tous deux nécessaires."
+
+msgctxt "Title's Card"
+msgid "Title's Card"
+msgstr "Titre de la carte"
+
+msgctxt "Title's List"
+msgid "Title's List"
+msgstr "Liste de titres"
+
+msgctxt ""
+"To be able to use ClamAV you must have it installed on your server and "
+"configured accordingly to our documentation."
+msgid ""
+"To be able to use ClamAV you must have it installed on your server and "
+"configured accordingly to our documentation."
+msgstr ""
+"Pour être en mesure d'utiliser ClamAV vous devez avoir installé sur votre "
+"serveur et configuré en conséquence, à notre documentation."
+
+msgctxt "Toggle"
+msgid "Toggle"
+msgstr "Basculer"
+
+msgctxt "Toggle off"
+msgid "Toggle off"
+msgstr "Basculer en OFF"
+
+msgctxt "Toggle on"
+msgid "Toggle on"
+msgstr "Bascule sur"
+
+msgctxt "Toggle's Handle off"
+msgid "Toggle's Handle off"
+msgstr "Bouton de bascule OFF"
+
+msgctxt "Toggle's Handle on"
+msgid "Toggle's Handle on"
+msgstr "Bouton de bascule ON"
+
+msgctxt "Token"
+msgid "Token"
+msgstr "Jeton"
+
+msgctxt "Tooltip"
+msgid "Tooltip"
+msgstr "Infobulle"
+
+msgctxt "Top"
+msgid "Top"
+msgstr "Top"
+
+msgctxt "Top installs"
+msgid "Top installs"
+msgstr "Top Installations"
+
+msgctxt "Top position"
+msgid "Top position"
+msgstr "Top position"
+
+msgctxt "Top visits"
+msgid "Top visits"
+msgstr "Top Visites"
+
+msgctxt "Topic"
+msgid "Topic"
+msgstr "Sujet"
+
+msgctxt "Topics"
+msgid "Topics"
+msgstr "Sujets"
+
+msgctxt "Total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "Total Excl. Tax"
+msgid "Total Excl. Tax"
+msgstr "Total hors Taxe"
+
+msgctxt "Total installs"
+msgid "Total installs"
+msgstr "Nombre Total d'installations"
+
+msgctxt "Total sales"
+msgid "Total sales"
+msgstr "Total des ventes"
+
+msgctxt "Total visits"
+msgid "Total visits"
+msgstr "Nombre Total de visites"
+
+msgctxt "Tour"
+msgid "Tour"
+msgstr "Tour"
+
+msgctxt "Tour Edition"
+msgid "Tour Edition"
+msgstr "Tour Edition"
+
+msgctxt "Translation"
+msgid "Translation"
+msgstr "Traduction"
+
+msgctxt "Translations"
+msgid "Translations"
+msgstr "Traductions"
+
+msgctxt "URL"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "Unable to add the contact to your address book"
+msgid "Unable to add the contact to your address book"
+msgstr "Impossible d'ajouter le contact à votre carnet d'adresses"
+
+msgctxt "Unable to calculate the route."
+msgid "Unable to calculate the route."
+msgstr "Impossible de calculer l'itinéraire."
+
+msgctxt ""
+"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
+"your are not in `Staging`"
+msgid ""
+"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
+"your are not in `Staging`"
+msgstr ""
+"Impossible de se connecter à HTTPS ou de valider le certificat SSL. <br /> "
+"Vérifiez si vous n'êtes pas dans «Plate-forme\" (Staging)"
+
+msgctxt "Unable to find TC with id %s."
+msgid "Unable to find TC with id %s."
+msgstr "Impossible de trouver le TC avec l'id %s."
+
+msgctxt "Unable to save image"
+msgid "Unable to save image"
+msgstr "Impossible d'enregistrer l'image"
+
+msgctxt "Unrecognized image format"
+msgid "Unrecognized image format"
+msgstr "Format d'image non reconnu"
+
+msgctxt "Until:"
+msgid "Until:"
+msgstr "Jusqu'au"
+
+msgctxt "Updated at"
+msgid "Updated at"
+msgstr "Mise à jour le"
+
+msgctxt "Upload to panel"
+msgid "Upload to panel"
+msgstr "Télécharger le panneau"
+
+msgctxt "Upload your json here"
+msgid "Upload your json here"
+msgstr "Téléchargez votre json ici"
+
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr "Utiliser la conception de la carte"
+
+msgctxt "Use the homepage image as background in all features"
+msgid "Use the homepage image as background in all features"
+msgstr ""
+"Utilisez l'image de la page d'accueil comme arrière-plan dans toutes les "
+"fonctionnalités"
+
+msgctxt "Use this coupon"
+msgid "Use this coupon"
+msgstr "Utiliser cette promotion"
+
+msgctxt "User"
+msgid "User"
+msgstr "Utilisateur"
+
+msgctxt "User successfully saved"
+msgid "User successfully saved"
+msgstr "Utilisateur correctement sauvegardé"
+
+msgctxt "Username"
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgctxt "Users"
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgctxt "Users activity"
+msgid "Users activity"
+msgstr "Les utilisateurs d'activité"
+
+msgctxt "Users localization"
+msgid "Users localization"
+msgstr "Localisation des utilisateurs"
+
+msgctxt "VAT Number"
+msgid "VAT Number"
+msgstr "Numéro de TVA"
+
+msgctxt "Valid until"
+msgid "Valid until"
+msgstr "Valable jusqu'"
+
+msgctxt "Validate"
+msgid "Validate"
+msgstr "Valider"
+
+msgctxt "Validated points"
+msgid "Validated points"
+msgstr "Nombre de points validés"
+
+msgctxt "Validated points by Loyalty card Analytics"
+msgid "Validated points by Loyalty card Analytics"
+msgstr "Analyse des points validés par Carte de fidélité"
+
+msgctxt "Validations by Discount Analytics"
+msgid "Validations by Discount Analytics"
+msgstr "Analyse des Validations par Promo"
+
+msgctxt "Version %s"
+msgid "Version %s"
+msgstr "Version %s"
+
+msgctxt "Video"
+msgid "Video"
+msgstr "Vidéo"
+
+msgctxt "Video URL"
+msgid "Video URL"
+msgstr "L'URL de la vidéo"
+
+msgctxt "Videos"
+msgid "Videos"
+msgstr "Vidéos"
+
+msgctxt "View"
+msgid "View"
+msgstr "Afficher"
+
+msgctxt "View full article"
+msgid "View full article"
+msgstr "Voir l'article complet"
+
+msgctxt "View my actual data"
+msgid "View my actual data"
+msgstr "Afficher mes données actuelle"
+
+msgctxt "Visits"
+msgid "Visits"
+msgstr "Visites"
+
+msgctxt "Visits by feature (All)"
+msgid "Visits by feature (All)"
+msgstr "Visites par module (Tous)"
+
+msgctxt "Visits by feature (Top 5)"
+msgid "Visits by feature (Top 5)"
+msgstr "Visites par module (TOP5)"
+
+msgctxt "Visits by product (TOP 20)"
+msgid "Visits by product (TOP 20)"
+msgstr "Visites par produit (TOP20)"
+
+msgctxt "We are sorry but this address is already used."
+msgid "We are sorry but this address is already used."
+msgstr "Nous sommes désolés mais cette adresse est déjà utilisée."
+
+msgctxt "We are sorry but this email address already exists."
+msgid "We are sorry but this email address already exists."
+msgstr "Nous sommes désolés mais cette adresse existe déjà."
+
+msgctxt "We are sorry but this username already exists."
+msgid "We are sorry but this username already exists."
+msgstr "Désolé mais cet utilisateur existe déjà!"
+
+msgctxt "Web folder Owner"
+msgid "Web folder Owner"
+msgstr "Dossier Web du Propriétaire"
+
+msgctxt "Web space"
+msgid "Web space"
+msgstr "Espace Web"
+
+msgctxt "Webhook"
+msgid "Webhook"
+msgstr "Webhook"
+
+msgctxt "Weblink"
+msgid "Weblink"
+msgstr "Weblink"
+
+msgctxt "Website"
+msgid "Website"
+msgstr "Site web"
+
+msgctxt "We've sent you an e-mail with your access token."
+msgid "We've sent you an e-mail with your access token."
+msgstr "Nous vous avons envoyé un e-mail avec votre jeton d'accès."
+
+msgctxt ""
+"When selecting 'Enable test API' in a payment method, be sure to create test "
+"credentials, check the documentation of your payment method."
+msgid ""
+"When selecting 'Enable test API' in a payment method, be sure to create test "
+"credentials, check the documentation of your payment method."
+msgstr ""
+"Lorsque vous sélectionnez \\ \"Activer l'API de test \" dans une méthode de "
+"paiement, assurez-vous de créer le test d'identification, consultez la "
+"documentation de votre méthode de paiement.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+
+msgctxt "White Label Editor"
+msgid "White Label Editor"
+msgstr "Marque Blanche De L'Éditeur"
+
+msgctxt "Who is online"
+msgid "Who is online"
+msgstr "Qui est en ligne"
+
+msgctxt "Winners list"
+msgid "Winners list"
+msgstr "Liste des gagnants"
+
+msgctxt "WordPress"
+msgid "WordPress"
+msgstr "Wordpress"
+
+msgctxt "Wordpress"
+msgid "Wordpress"
+msgstr "Wordpress"
+
+msgctxt "Year"
+msgid "Year"
+msgstr "Année"
+
+msgctxt "Yearly"
+msgid "Yearly"
+msgstr "Annuel"
+
+msgctxt "Yes"
+msgid "Yes"
+msgstr "Oui"
+
+msgctxt "You already have this user in your contact"
+msgid "You already have this user in your contact"
+msgstr "Vous avez déjà cet utilisateur dans vos contacts"
+
+msgctxt "You are about to delete this certificate, Are you sure ?"
+msgid "You are about to delete this certificate, Are you sure ?"
+msgstr "Vous êtes sur le point de supprimer ce certificat, vous en Êtes sûr ?"
+
+msgctxt "You are gone offline"
+msgid "You are gone offline"
+msgstr "Vous êtes déconnecté"
+
+msgctxt "You are not allowed to delete a feature!"
+msgid "You are not allowed to delete a feature!"
+msgstr "Vous n'êtes pas autorisé à supprimer une fonctionnalité!"
+
+msgctxt ""
+"You are using a custom SMTP configuration, and the following white-label "
+"administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
+"listed.<br /><br />You can add his domain in your SMTP provider panel and "
+"send him the instructions to configure it for his domain."
+msgid ""
+"You are using a custom SMTP configuration, and the following white-label "
+"administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
+"listed.<br /><br />You can add his domain in your SMTP provider panel and "
+"send him the instructions to configure it for his domain."
+msgstr ""
+"Vous utilisez une configuration SMTP personnalisée, et l'administrateur de "
+"la marque blanche suivant <b>% s </ b> demande que son domaine <b>% s </ b> "
+"soit affiché en blanc. <br /> <br / > Vous pouvez ajouter son domaine dans "
+"votre panneau fournisseur SMTP et lui envoyer les instructions pour le "
+"configurer pour son domaine."
+
+msgctxt ""
+"You can add allowed extensions, please note that .php, .js & .ico are "
+"strictly forbidden and can't be added"
+msgid ""
+"You can add allowed extensions, please note that .php, .js & .ico are "
+"strictly forbidden and can't be added"
+msgstr ""
+"Vous pouvez ajouter des extensions autorisées, veuillez noter que .php, .js "
+"& .ico sont strictement interdits et ne peuvent pas être ajoutés"
+
+msgctxt ""
+"You can extend JAVA & GRADLE options to better fit your server hardware."
+msgid ""
+"You can extend JAVA & GRADLE options to better fit your server hardware."
+msgstr ""
+"Vous pouvez étendre JAVA & GRADLE options pour mieux l'adapter à votre "
+"matériel serveur."
+
+msgctxt "You can follow the URL below to access your data report"
+msgid "You can follow the URL below to access your data report"
+msgstr ""
+"Vous pouvez suivre le lien ci-dessous pour accéder à vos données de rapport"
+
+msgctxt "You can globally disable a feature!"
+msgid "You can globally disable a feature!"
+msgstr "Vous pouvez désactiver globalement une fonctionnalité!"
+
+msgctxt "You can upload a pem certificate only."
+msgid "You can upload a pem certificate only."
+msgstr "Vous ne pouvez seulement envoyer qu'un certificat .pem"
+
+msgctxt "You can upload a png only (.png)."
+msgid "You can upload a png only (.png)."
+msgstr "Vous pouvez télécharger au format png (.png)."
+
+msgctxt "You can upload a zip archive only."
+msgid "You can upload a zip archive only."
+msgstr "Vous ne pouvez seulement envoyer qu'une archive .zip"
+
+msgctxt "You can upload an icon only (.ico and .png)."
+msgid "You can upload an icon only (.ico and .png)."
+msgstr "Vous ne pouvez seulement envoyer qu'une icone (.ico et .png)."
+
+msgctxt "You can upload an image only (.jpg, .jpeg, .gif and .png)."
+msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
+msgstr ""
+"Vous ne pouvez seulement envoyer qu'une image (.jpg, .jpeg, .gif et .png)."
+
+msgctxt "You cannot add this feature"
+msgid "You cannot add this feature"
+msgstr "Vous ne pouvez pas ajouter cette fonctionnalité"
+
+msgctxt "You can't upload more than one file at a time."
+msgid "You can't upload more than one file at a time."
+msgstr "Vous ne pouvez pas envoyer plusieurs fichiers en même temps"
+
+msgctxt "You current working environment is"
+msgid "You current working environment is"
+msgstr "Votre environnement de travail actuel est"
+
+msgctxt "You don't have any applications yet"
+msgid "You don't have any applications yet"
+msgstr "Vous n'avez pas encore d'applications"
+
+msgctxt "You don't have any invoices yet"
+msgid "You don't have any invoices yet"
+msgstr "Vous n'avez pas de factures encore"
+
+msgctxt "You have gone offline"
+msgid "You have gone offline"
+msgstr "Vous vous êtes déconnecté"
+
+msgctxt "You have to chose a start and an end date."
+msgid "You have to chose a start and an end date."
+msgstr "Vous devez choisir une date de début et une date de fin."
+
+msgctxt "You must be logged in to like something!"
+msgid "You must be logged in to like something!"
+msgstr "Vous devez être connecté pour aimer quelquechose!"
+
+msgctxt "You must be logged in to post a comment"
+msgid "You must be logged in to post a comment"
+msgstr "Vous devez être connecté pour poster un commentaire"
+
+msgctxt "You must fill ip & port."
+msgid "You must fill ip & port."
+msgstr "Vous devez renseigner l'ip et le port."
+
+msgctxt "You must first complete the current category creation process"
+msgid "You must first complete the current category creation process"
+msgstr ""
+"Vous devez d'abord compléter le processus de création de catégorie en cours"
+
+msgctxt ""
+"You must give the permission to the app to add a contact to your address book"
+msgid ""
+"You must give the permission to the app to add a contact to your address book"
+msgstr ""
+"Vous devez donner la permission à l'application pour ajouter un contact à "
+"votre carnet d'adresses"
+
+msgctxt "You must share your location to access this page."
+msgid "You must share your location to access this page."
+msgstr "Vous devez partager votre position pour accéder à cette page."
+
+msgctxt "You will lose all unsaved changes, continue?"
+msgid "You will lose all unsaved changes, continue?"
+msgstr ""
+"Vous allez perdre toutes les modifications non enregistrées, voulez-vous "
+"continuer?"
+
+msgctxt "Your PHP version is too old, please upgrade to PHP 5.4+."
+msgid "Your PHP version is too old, please upgrade to PHP 5.4+."
+msgstr ""
+"Votre version de PHP est trop vieux , s'il vous plaît mettre à niveau vers "
+"PHP 5.4+ ."
+
+msgctxt "Your access token is"
+msgid "Your access token is"
+msgstr "Votre jeton d'accès est"
+
+msgctxt "Your analytics will be computed and available soon"
+msgid "Your analytics will be computed and available soon"
+msgstr "Vos analyses seront calculés et bientôt disponible"
+
+msgctxt "Your are not allowed to assign this role."
+msgid "Your are not allowed to assign this role."
+msgstr "Vous n'êtes pas autorisé à attribuer ce rôle."
+
+msgctxt "Your browser is too old to view the content of our website.<br />"
+msgid "Your browser is too old to view the content of our website.<br />"
+msgstr ""
+"Votre navigateur est trop ancien pour voir le contenu de notre site web.<br "
+"/>"
+
+msgctxt "Your build should be ready"
+msgid "Your build should be ready"
+msgstr "Votre construire devrait être prêt"
+
+msgctxt "Your comment"
+msgid "Your comment"
+msgstr "Votre commentaire"
+
+msgctxt "Your email address"
+msgid "Your email address"
+msgstr "Votre email"
+
+msgctxt "Your email address does not exist"
+msgid "Your email address does not exist"
+msgstr "Votre adresse email n'existe pas"
+
+msgctxt "Your invoice has been edited successfully."
+msgid "Your invoice has been edited successfully."
+msgstr "Votre facture a été modifié avec succès."
+
+msgctxt "Your name"
+msgid "Your name"
+msgstr "Votre nom"
+
+msgctxt "Your new password has been sent to the entered email address"
+msgid "Your new password has been sent to the entered email address"
+msgstr "Un nouveau mot de passe vous a été envoyé à l'adresse email saisie"
+
+msgctxt "Your password does not match the entered password."
+msgid "Your password does not match the entered password."
+msgstr ""
+"Votre mot de passe ne correspond pas au mot de passe entré dans la "
+"confirmation."
+
+msgctxt ""
+"Your request has been successfully sent, please wait for your administrator "
+"to answer."
+msgid ""
+"Your request has been successfully sent, please wait for your administrator "
+"to answer."
+msgstr ""
+"Votre demande a été envoyée avec succès, veuillez patienter pour que votre "
+"administrateur réponde."
+
+msgctxt "Your subscription has been deleted successfully."
+msgid "Your subscription has been deleted successfully."
+msgstr "Votre abonnement a été supprimé avec succès."
+
+msgctxt "Your subscription status has been changed successfully."
+msgid "Your subscription status has been changed successfully."
+msgstr "Votre statut d'abonnement a été modifié avec succès."
+
+msgctxt "Youtube"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "Zip code"
+msgid "Zip code"
+msgstr "Code Postal"
+
+msgctxt "average"
+msgid "average"
+msgstr "moyenne"
+
+msgctxt "be careful or set it back to"
+msgid "be careful or set it back to"
+msgstr "soyez prudent ou réglez-le à"
+
+msgctxt "close"
+msgid "close"
+msgstr "fermer"
+
+msgctxt "confirm action, deletion, etc ..."
+msgid "confirm action, deletion, etc ..."
+msgstr "confirmer l'action, suppression, etc ..."
+
+msgctxt "contextual, depends on module/layout"
+msgid "contextual, depends on module/layout"
+msgstr "contextuel, dépend du module/mise en page"
+
+msgctxt "day"
+msgid "day"
+msgstr "jour"
+
+msgctxt "days"
+msgid "days"
+msgstr "journées"
+
+msgctxt "disabled"
+msgid "disabled"
+msgstr "Désactivé"
+
+msgctxt "en"
+msgid "en"
+msgstr "fr"
+
+msgctxt "enabled"
+msgid "enabled"
+msgstr "Activé"
+
+msgctxt "form submit, search, validation, confirmation"
+msgid "form submit, search, validation, confirmation"
+msgstr "Envoi de formulaire, de recherche, de validation, confirmation"
+
+msgctxt "hh:mm a"
+msgid "hh:mm a"
+msgstr "hh:mm"
+
+msgctxt "high"
+msgid "high"
+msgstr "haute"
+
+msgctxt "hour"
+msgid "hour"
+msgstr "heure"
+
+msgctxt "hours"
+msgid "hours"
+msgstr "heures"
+
+msgctxt "iOS & Android"
+msgid "iOS & Android"
+msgstr "iOS & Android"
+
+msgctxt "iOS Source"
+msgid "iOS Source"
+msgstr "iOS Source"
+
+msgctxt "iOS Spinner"
+msgid "iOS Spinner"
+msgstr "iOS Spinner"
+
+msgctxt "iOS base Bundle ID  must contain only letters, dots & minus."
+msgid "iOS base Bundle ID  must contain only letters, dots & minus."
+msgstr ""
+"ID de base Bundle IOS ne doit contenir que des lettres, des points et tirets."
+
+msgctxt ""
+"iOS base Bundle ID  must contain only letters, dots & minus with at least "
+"two dots.<br />Example: com.mydomain.admin"
+msgid ""
+"iOS base Bundle ID  must contain only letters, dots & minus with at least "
+"two dots.<br />Example: com.mydomain.admin"
+msgstr ""
+"iOS de base ID de l'offre ne doit contenir que des lettres, des points et "
+"tiret avec au moins deux points.<br />Exemple: com.mydomain.admin"
+
+msgctxt "iOS base Bundle ID can't be empty."
+msgid "iOS base Bundle ID can't be empty."
+msgstr "L'ID du Bundle de base iOS ne peut pas être vide."
+
+msgctxt "iOS only"
+msgid "iOS only"
+msgstr "iOS uniquement"
+
+msgctxt "iPhone"
+msgid "iPhone"
+msgstr "iPhone"
+
+msgctxt "iTunes"
+msgid "iTunes"
+msgstr "iTunes"
+
+msgctxt "iTunes Connect providers"
+msgid "iTunes Connect providers"
+msgstr "iTunes Connect fournisseurs"
+
+msgctxt "idle"
+msgid "idle"
+msgstr "inactif"
+
+msgctxt "informative, modal"
+msgid "informative, modal"
+msgstr "instructif, modal"
+
+msgctxt "is updated once a day"
+msgid "is updated once a day"
+msgstr "Mise à jour une fois par jour"
+
+msgctxt "loading"
+msgid "loading"
+msgstr "chargement"
+
+msgctxt "low"
+msgid "low"
+msgstr "faible"
+
+msgctxt "maintenance"
+msgid "maintenance"
+msgstr "entretien"
+
+msgctxt "minute"
+msgid "minute"
+msgstr "minute"
+
+msgctxt "minutes"
+msgid "minutes"
+msgstr "minutes"
+
+msgctxt "nd"
+msgid "nd"
+msgstr "nd"
+
+msgctxt "never"
+msgid "never"
+msgstr "jamais"
+
+msgctxt "online"
+msgid "online"
+msgstr "en ligne"
+
+msgctxt "phone, locate, facebook, email, etc.."
+msgid "phone, locate, facebook, email, etc.."
+msgstr "téléphone, localisation, facebook, e-mail, etc.."
+
+msgctxt "picture"
+msgid "picture"
+msgstr "illustration"
+
+msgctxt "posts"
+msgid "posts"
+msgstr "postes"
+
+msgctxt "remaining characters"
+msgid "remaining characters"
+msgstr "caractères restants"
+
+msgctxt "%s / Month"
+msgid "%s / Month"
+msgstr "%s / Mois"
+
+msgctxt "%s / Year"
+msgid "%s / Year"
+msgstr "%s / Année"
+
+msgctxt "%s An unknown error occurred, please try again later."
+msgid "%s An unknown error occurred, please try again later."
+msgstr "%s Une erreur inconnue s'est produite, veuillez réessayer plus tard."
+
+msgctxt "%s Image"
+msgid "%s Image"
+msgstr "%s Image"
+
+msgctxt "%s Images"
+msgid "%s Images"
+msgstr "%s Images"
+
+msgctxt "%s, No params sent."
+msgid "%s, No params sent."
+msgstr "%s, Aucun paramètre envoyé."
+
+msgctxt "%s ago"
+msgid "%s ago"
+msgstr "Il y a %s"
+
+msgctxt "second"
+msgid "second"
+msgstr "deuxième"
+
+msgctxt "seconds"
+msgid "seconds"
+msgstr "secondes"
+
+msgctxt "this feature is globally disabled!"
+msgid "this feature is globally disabled!"
+msgstr "Cette fonction est désactivée totalement!"
+
+msgctxt "title"
+msgid "title"
+msgstr "Titre"
+
+msgctxt "titles"
+msgid "titles"
+msgstr "titres"
+
+msgctxt "to add a folder."
+msgid "to add a folder."
+msgstr "Ajouter au dossier."
+
+msgctxt "to add a subfolder."
+msgid "to add a subfolder."
+msgstr "pour ajouter un sous-dossier."
+
+msgctxt "twitter"
+msgid "twitter"
+msgstr "twitter"
+
+msgctxt "unreachable"
+msgid "unreachable"
+msgstr "inaccessible"

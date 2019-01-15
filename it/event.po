@@ -1,158 +1,171 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Italian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian <http://yvain.xtraball.com/projects/siberian/event/it/"
+">\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/event.csv:1
+msgctxt "Add a Website"
 msgid "Add a Website"
 msgstr "Aggiungi un sito web"
 
-#: it/event.csv:2
+msgctxt "Address:"
 msgid "Address:"
 msgstr "Indirizzo"
 
-#: it/event.csv:3
+msgctxt "An error occurred while deleting the event"
 msgid "An error occurred while deleting the event"
 msgstr "Si è verificato un errore durante l'eliminazione dell'evento"
 
-#: it/event.csv:4
+msgctxt "An error occurred while loading this event"
 msgid "An error occurred while loading this event"
 msgstr "Si è verificato un errore durante il caricamento dell'evento"
 
-#: it/event.csv:5
+msgctxt "Beginning date:"
 msgid "Beginning date:"
 msgstr "Data di inizio:"
 
-#: it/event.csv:6
+msgctxt "Beginning time:"
 msgid "Beginning time:"
 msgstr "Ora di inizio:"
 
-#: it/event.csv:7
+msgctxt "Buy Tickets"
+msgid "Buy Tickets"
+msgstr "Compra Biglietti"
+
+msgctxt "Buy tickets"
+msgid "Buy tickets"
+msgstr "Compra biglietti"
+
+msgctxt "Calendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Calendario eliminato correttamente"
 
-#: it/event.csv:8
+msgctxt "Calendar's URL"
 msgid "Calendar's URL"
 msgstr "URL del calendario"
 
-#: it/event.csv:9
+msgctxt "Calendar's title"
 msgid "Calendar's title"
 msgstr "Titolo del calendario"
 
-#: it/event.csv:10
+msgctxt "Change picture"
 msgid "Change picture"
 msgstr "Cambia immagine"
 
-#: it/event.csv:11
+msgctxt "Create a new event"
 msgid "Create a new event"
 msgstr "Crea un nuovo evento"
 
-#: it/event.csv:12
+msgctxt "Custom Calendar"
 msgid "Custom Calendar"
 msgstr "Calendario Personalizzato"
 
-#: it/event.csv:13
+msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "Pagina personalizzata"
 
-#: it/event.csv:14
+msgctxt "Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Eliminare questo calendario?"
 
-#: it/event.csv:15
+msgctxt "Delete this event?"
 msgid "Delete this event?"
 msgstr "Eliminare questo evento?"
 
-#: it/event.csv:16
+msgctxt "Ending date:"
 msgid "Ending date:"
 msgstr "Data fine:"
 
-#: it/event.csv:17
+msgctxt "Enter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Inserisci il titolo del calendario"
 
-#: it/event.csv:18
+msgctxt "Entrance:"
 msgid "Entrance:"
 msgstr "Ingresso:"
 
-#: it/event.csv:19
+msgctxt "Entrance: %s"
 msgid "Entrance: %s"
 msgstr "Ingresso: %s"
 
-#: it/event.csv:20
+msgctxt "Event"
 msgid "Event"
 msgstr "Evento"
 
-#: it/event.csv:21
+msgctxt "Event successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Evento eliminato correttamente"
 
-#: it/event.csv:22
+msgctxt "Event successfully saved"
 msgid "Event successfully saved"
 msgstr "Evento salvato correttamente"
 
-#: it/event.csv:23
+msgctxt "Event title:"
 msgid "Event title:"
 msgstr "Titolo dell'evento"
 
-#: it/event.csv:24
-msgid "Illustration"
-msgstr "Immagini"
-
-#: it/event.csv:25
+msgctxt "Illustration:"
 msgid "Illustration:"
 msgstr "Illustrazione:"
 
-#: it/event.csv:26
+msgctxt "Location:"
+msgid "Location:"
+msgstr "Località:"
+
+msgctxt "Max size: 2000x2000px - allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Misura massima: 2000x2000px - formati consentiti: jpg & png"
 
-#: it/event.csv:27
+msgctxt "Modify the event"
 msgid "Modify the event"
 msgstr "Modifica l'evento"
 
-#: it/event.csv:28
+msgctxt "RSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
-#: it/event.csv:29
+msgctxt "RSVP URL:"
 msgid "RSVP URL:"
 msgstr "RSVP URL:"
 
-#: it/event.csv:30
+msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr "Sottotitolo:"
 
-#: it/event.csv:31
+msgctxt "Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr "Aquista biglietto qui:"
 
-#: it/event.csv:32
+msgctxt "To:"
+msgid "To:"
+msgstr ""
+
+msgctxt "Your Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "ID pagina facebook"
 
-#: it/event.csv:33
-msgid "Your Facebook page ID <span class=\"required-entry\">*</span> :"
+msgctxt "Your Facebook page ID <span class='' required-entry''>*</span> :"
+msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr "ID pagina facebook  <span class=\"required-entry\">*</span> :"
 
-#: it/event.csv:34
+msgctxt "Your calendar is empty"
 msgid "Your calendar is empty"
 msgstr "Il calendario è vuoto"
 
-#: it/event.csv:35
+msgctxt "iCal"
 msgid "iCal"
 msgstr "iCal"
 
-#: it/event.csv:36
+msgctxt "to"
 msgid "to"
 msgstr "fino a"

@@ -1,13 +1,79 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
+"siberian/twitter/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving."
+msgid "An error occurred while saving."
+msgstr "Ocorreu um erro ao salvar"
+
+msgctxt "An error occurred while saving. Please try again later."
+msgid "An error occurred while saving. Please try again later."
+msgstr "Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde."
+
+msgctxt "Could not authenticate you."
+msgid "Could not authenticate you."
+msgstr ""
+
+msgctxt "Enter your twitter handle/url"
+msgid "Enter your twitter handle/url"
+msgstr ""
+
+msgctxt "Handle"
+msgid "Handle"
+msgstr ""
+
+msgctxt "Info successfully saved"
+msgid "Info successfully saved"
+msgstr "Informações salvas com sucesso"
+
+msgctxt "Sorry, that page does not exist."
+msgid "Sorry, that page does not exist."
+msgstr ""
+
+msgctxt "Twitter API secret"
+msgid "Twitter API secret"
+msgstr ""
+
+msgctxt "Twitter API settings"
+msgid "Twitter API settings"
+msgstr ""
+
+msgctxt "Twitter API token"
+msgid "Twitter API token"
+msgstr ""
+
+msgctxt "Twitter consumer key"
+msgid "Twitter consumer key"
+msgstr ""
+
+msgctxt "Twitter consumer secret"
+msgid "Twitter consumer secret"
+msgstr ""
+
+msgctxt "Verify"
+msgid "Verify"
+msgstr ""
+
+msgctxt "followers"
+msgid "followers"
+msgstr ""
+
+msgctxt "following"
+msgid "following"
+msgstr ""
+
+msgctxt "was verified with success"
+msgid "was verified with success"
+msgstr ""

@@ -1,7 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 14:48+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"Project-Id-Version: Turkish (Siberian)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/weather/"
 "tr/>\n"
 "Language: tr\n"
@@ -11,80 +14,117 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Astronomy"
 msgid "Astronomy"
 msgstr "Astronomy"
 
+msgctxt "Atmosphere"
 msgid "Atmosphere"
 msgstr "Atmosfer"
 
+msgctxt "Change location"
 msgid "Change location"
 msgstr "Lokasyonu değiştir"
 
+msgctxt "Chill:"
 msgid "Chill:"
 msgstr "Soguk:"
 
+msgctxt "Click here to view more details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr ""
 "Geçerli hava durumu hakkında daha fazla ayrıntı görmek için buraya tıklayın."
 
+msgctxt "Country:"
+msgid "Country:"
+msgstr "Ülke:"
+
+msgctxt "Direction:"
 msgid "Direction:"
 msgstr "Yön:"
 
+msgctxt "Fri"
 msgid "Fri"
 msgstr "Cum"
 
+msgctxt "Humidity:"
 msgid "Humidity:"
 msgstr "Nem:"
 
+msgctxt "Mon"
 msgid "Mon"
 msgstr "Pzt"
 
+msgctxt "Postal code or city"
 msgid "Postal code or city"
 msgstr "Posta kodu veya şehir"
 
+msgctxt "Pressure:"
 msgid "Pressure:"
 msgstr "Basınç:"
 
+msgctxt "Rising:"
 msgid "Rising:"
 msgstr "Yükseliş:"
 
+msgctxt "Sat"
 msgid "Sat"
 msgstr "Cmt"
 
-msgid "Sorry, but the weather service is not available for the moment. Please try again later."
+msgctxt ""
+"Sorry, but the weather service is not available for the moment. Please try "
+"again later."
+msgid ""
+"Sorry, but the weather service is not available for the moment. Please try "
+"again later."
 msgstr ""
 "Üzgünüz , ama hava hizmeti şu an için mevcut değildir . Lütfen daha sonra "
 "tekrar deneyin."
 
+msgctxt "Speed:"
 msgid "Speed:"
 msgstr "Hız:"
 
+msgctxt "Sun"
 msgid "Sun"
 msgstr "Cmt"
 
+msgctxt "Sunrise:"
 msgid "Sunrise:"
 msgstr "Gündoğumu:"
 
+msgctxt "Sunset:"
 msgid "Sunset:"
 msgstr "Günbatımı:"
 
+msgctxt "Thu"
 msgid "Thu"
 msgstr "Prş"
 
+msgctxt "Tue"
 msgid "Tue"
 msgstr "Sal"
 
+msgctxt "Units:"
 msgid "Units:"
 msgstr "Birimler:"
 
+msgctxt "Use my location"
 msgid "Use my location"
 msgstr "Lokasyonumu kullan"
 
+msgctxt "Visibility:"
 msgid "Visibility:"
 msgstr "Görünürlük:"
 
+msgctxt "Weather information"
+msgid "Weather information"
+msgstr "Hava Durumu bilgisi"
+
+msgctxt "Wed"
 msgid "Wed"
 msgstr "Çar"
 
+msgctxt "Wind"
 msgid "Wind"
 msgstr "Rüzgar"

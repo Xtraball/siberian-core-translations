@@ -1,177 +1,319 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
-"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/siberian/admin/zh_Hans/>\n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/admin/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-09 09:38+0000\n"
-"PO-Revision-Date: 2019-01-09 09:38+0000\n"
-"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/admin.csv:1
-msgid "%s – Your new password"
-msgstr "％s - 您的新密码"
-
-#: zh/admin.csv:2
-msgid "A request to reset your password has been made to log in to your administration panel."
+msgctxt ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
+msgid ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
 msgstr "请求重置您的密码已登录到你的管理面板。"
 
-#: zh/admin.csv:3
-msgid "Admin successfully deleted"
-msgstr "管理员删除成功"
+msgctxt "Access"
+msgid "Access"
+msgstr ""
 
-#: zh/admin.csv:4
+msgctxt "Account Role"
+msgid "Account Role"
+msgstr ""
+
+msgctxt "Account role"
+msgid "Account role"
+msgstr ""
+
+msgctxt "Address:"
+msgid "Address:"
+msgstr ""
+
+msgctxt "Address 2:"
+msgid "Address 2:"
+msgstr ""
+
+msgctxt "Administrator : full access"
+msgid "Administrator : full access"
+msgstr ""
+
+msgctxt "Administrator: full access"
+msgid "Administrator: full access"
+msgstr ""
+
+msgctxt "An error occurred while saving. The country is not valid."
 msgid "An error occurred while saving. The country is not valid."
 msgstr "同时节省发生错误。该国是无效的。"
 
-#: zh/admin.csv:5
+msgctxt "Application"
+msgid "Application"
+msgstr ""
+
+msgctxt "Application have been duplicated successfully."
+msgid "Application have been duplicated successfully."
+msgstr ""
+
+msgctxt "Are you sure you want to delete this application?"
 msgid "Are you sure you want to delete this application?"
 msgstr "你确定你要删除这个应用程序？"
 
-#: zh/admin.csv:6
+msgctxt "Are you sure you want to duplicate this application?"
+msgid "Are you sure you want to duplicate this application?"
+msgstr ""
+
+msgctxt "Can add pages"
+msgid "Can add pages"
+msgstr ""
+
+msgctxt "Can generate APK"
+msgid "Can generate APK"
+msgstr ""
+
+msgctxt "Can manage guided tour"
+msgid "Can manage guided tour"
+msgstr ""
+
+msgctxt "Change my password"
 msgid "Change my password"
 msgstr "修改我的密码"
 
-#: zh/admin.csv:7
+msgctxt "Company:"
+msgid "Company:"
+msgstr ""
+
+msgctxt "Confirm your password"
 msgid "Confirm your password"
 msgstr "确认密码"
 
-#: zh/admin.csv:8
+msgctxt "Connect to your backoffice to validate this account."
+msgid "Connect to your backoffice to validate this account."
+msgstr ""
+
+msgctxt "Create a new application"
 msgid "Create a new application"
 msgstr "创建一个新的应用程序"
 
-#: zh/admin.csv:9
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "创建一个新用户"
 
-#: zh/admin.csv:10
+msgctxt "Created At"
 msgid "Created At"
 msgstr "在创建"
 
-#: zh/admin.csv:11
+msgctxt "Created at %s"
 msgid "Created at %s"
 msgstr "创建％s的"
 
-#: zh/admin.csv:12
+msgctxt "Do not hesitate to give us your feedback by sharing your needs:"
 msgid "Do not hesitate to give us your feedback by sharing your needs:"
 msgstr "不要犹豫，分享您的需求给我们您的反馈意见："
 
-#: zh/admin.csv:13
-msgid "Edit the account \"%s”"
-msgstr "编辑帐户“％s”"
+msgctxt "Edit the account %s"
+msgid "Edit the account %s"
+msgstr ""
 
-#: zh/admin.csv:14
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "编辑％s用户"
 
-#: zh/admin.csv:15
+msgctxt "Enjoy!"
 msgid "Enjoy!"
 msgstr "享受！"
 
-#: zh/admin.csv:16
+msgctxt "Filter your apps..."
+msgid "Filter your apps..."
+msgstr ""
+
+msgctxt "Find some advices here:"
 msgid "Find some advices here:"
 msgstr "找到一些建议在这里："
 
-#: zh/admin.csv:17
+msgctxt "From"
+msgid "From"
+msgstr ""
+
+msgctxt "Hello, a new user has registered on your platform : %s."
+msgid "Hello, a new user has registered on your platform : %s."
+msgstr ""
+
+msgctxt "Here are your credentials, keep them preciously:"
 msgid "Here are your credentials, keep them preciously:"
 msgstr "这里有您的凭据，让他们珍贵："
 
-#: zh/admin.csv:18
+msgctxt "List of admin accounts"
 msgid "List of admin accounts"
 msgstr "的管理员帐户列表"
 
-#: zh/admin.csv:19
+msgctxt "List of my accounts"
 msgid "List of my accounts"
 msgstr "我的帐户列表"
 
-#: zh/admin.csv:20
+msgctxt "List of your users"
 msgid "List of your users"
 msgstr "你的用户列表"
 
-#: zh/admin.csv:21
+msgctxt "Log-in As"
 msgid "Log-in As"
 msgstr "登录在作为"
 
-#: zh/admin.csv:22
+msgctxt "Manage access"
+msgid "Manage access"
+msgstr ""
+
+msgctxt "My Applications"
 msgid "My Applications"
 msgstr "我的应用"
 
-#: zh/admin.csv:23
+msgctxt "My information"
 msgid "My information"
 msgstr "我的信息"
 
-#: zh/admin.csv:24
+msgctxt "Need some help?"
 msgid "Need some help?"
 msgstr "需要一些帮助？"
 
-#: zh/admin.csv:25
+msgctxt "New user registration on your platform"
+msgid "New user registration on your platform"
+msgstr ""
+
+msgctxt "No account for now."
+msgid "No account for now."
+msgstr ""
+
+msgctxt "Please enter a valid email address."
 msgid "Please enter a valid email address."
 msgstr "请输入有效的电子邮件地址。"
 
-#: zh/admin.csv:26
+msgctxt "Please, enter an application name"
 msgid "Please, enter an application name"
 msgstr "请输入一个应用程序名称"
 
-#: zh/admin.csv:27
+msgctxt "Publication access type"
+msgid "Publication access type"
+msgstr ""
+
+msgctxt "Ready to create your own apps?"
 msgid "Ready to create your own apps?"
 msgstr "准备创建自己的应用程序？"
 
-#: zh/admin.csv:28
+msgctxt "Role"
+msgid "Role"
+msgstr "职能"
+
+msgctxt "Show All Applications"
+msgid "Show All Applications"
+msgstr ""
+
+msgctxt "Sign up"
 msgid "Sign up"
 msgstr "报名"
 
-#: zh/admin.csv:29
+msgctxt "Sorry but an error occured while duplicating your application."
+msgid "Sorry but an error occured while duplicating your application."
+msgstr ""
+
+msgctxt "State/Province"
+msgid "State/Province"
+msgstr ""
+
+msgctxt "Thanks for choosing us!"
 msgid "Thanks for choosing us!"
 msgstr "感谢您选择我们！"
 
-#: zh/admin.csv:30
+msgctxt "The Support Team"
 msgid "The Support Team"
 msgstr "支持团队"
 
-#: zh/admin.csv:31
+msgctxt "The account role is required"
+msgid "The account role is required"
+msgstr ""
+
+msgctxt "The password and the confirmation does not match."
 msgid "The password and the confirmation does not match."
 msgstr "密码并确认不匹配。"
 
-#: zh/admin.csv:32
+msgctxt "The password must be at least 6 characters."
 msgid "The password must be at least 6 characters."
 msgstr "密码必须至少6个字符。"
 
-#: zh/admin.csv:33
+msgctxt "This account is not activated yet. Please contact an administrator."
+msgid "This account is not activated yet. Please contact an administrator."
+msgstr ""
+
+msgctxt "This admin can manage guided tour from editor"
+msgid "This admin can manage guided tour from editor"
+msgstr ""
+
+msgctxt "This user has no applications yet."
+msgid "This user has no applications yet."
+msgstr ""
+
+msgctxt "User successfully deleted"
+msgid "User successfully deleted"
+msgstr ""
+
+msgctxt "View my current data"
+msgid "View my current data"
+msgstr ""
+
+msgctxt "We are sorry but this email address is already used."
 msgid "We are sorry but this email address is already used."
 msgstr "很抱歉，这个电子邮件地址已经被使用。"
 
-#: zh/admin.csv:34
+msgctxt "Welcome!"
 msgid "Welcome!"
 msgstr "欢迎！"
 
-#: zh/admin.csv:35
-msgid "You are going to love it! Thanks to our effective features, you will be able to create great mobile apps in your name, within minutes."
+msgctxt ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
+msgid ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
 msgstr "你会爱上它！由于我们有效的功能，你就可以在你的名字创造伟大的移动应用程序，在几分钟之内。"
 
-#: zh/admin.csv:36
+msgctxt "You can't delete the main account"
 msgid "You can't delete the main account"
 msgstr "您不能删除主帐户"
 
-#: zh/admin.csv:37
+msgctxt "You don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "你没有任何的用户还"
 
-#: zh/admin.csv:38
+msgctxt "Your account have been created successfully. It will be activated soon."
+msgid "Your account have been created successfully. It will be activated soon."
+msgstr ""
+
+msgctxt "Your credentials"
 msgid "Your credentials"
 msgstr "您的凭据"
 
-#: zh/admin.csv:39
+msgctxt "Your login:"
 msgid "Your login:"
 msgstr "您登录："
 
-#: zh/admin.csv:40
+msgctxt "Your password:"
 msgid "Your password:"
 msgstr "密码："
 
-msgid "Role"
-msgstr "职能"
+msgctxt "Zip Code"
+msgid "Zip Code"
+msgstr ""
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr ""
+
+msgctxt "to"
+msgid "to"
+msgstr ""

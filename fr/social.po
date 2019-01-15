@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 10:50+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/social/fr/"
 ">\n"
 "Language: fr\n"
@@ -14,17 +14,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/social.csv:1
+msgctxt "An error occurred while loading the videos. Please try again later."
 msgid "An error occurred while loading the videos. Please try again later."
-msgstr "Une erreur est survenue lors du chargement des vidéos. Merci de réessayer ultérieurement."
+msgstr ""
+"Une erreur est survenue lors du chargement des vidéos. Merci de réessayer "
+"ultérieurement."
 
-#: fr/social.csv:2
+msgctxt "Enter your Facebook Fan Page Id"
 msgid "Enter your Facebook Fan Page Id"
 msgstr "Identifiant de votre Page Fan Facebook"
 
-#: fr/social.csv:3
-msgid "Enter your Facebook Fan Page Id <span class=\"required-entry\"> *</span>:"
-msgstr "Identifiant de votre Page Fan Facebook <span class=\"required-entry\"> *</span> :"
-
+msgctxt "Enter your Facebook Fan Page Id *:"
 msgid "Enter your Facebook Fan Page Id *:"
 msgstr "Identifiant de votre Page Fan Facebook"

@@ -1,62 +1,109 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/weblink/"
+"ca/>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ca\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/weblink.csv:1
+msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Afegir un enllaç"
 
-#: ca/weblink.csv:2
+msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
-msgstr "S'ha produït un error mentre es desava el teu picto. Si us plau intenti againg lluita més tard."
+msgstr ""
+"S'ha produït un error mentre es desava el teu picto. Si us plau intenti "
+"againg lluita més tard."
 
-#: ca/weblink.csv:3
+msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Esteu segur que voleu suprimir aquest enllaç?"
 
-#: ca/weblink.csv:4
+msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Esteu segur que voleu suprimir aquesta imatge?"
 
-#: ca/weblink.csv:5
+msgctxt "Enter your Magento URL"
+msgid "Enter your Magento URL"
+msgstr ""
+
+msgctxt "Enter your Prestashop URL"
+msgid "Enter your Prestashop URL"
+msgstr ""
+
+msgctxt "Enter your Shopify URL"
+msgid "Enter your Shopify URL"
+msgstr ""
+
+msgctxt "Enter your Volusion URL"
+msgid "Enter your Volusion URL"
+msgstr ""
+
+msgctxt "Enter your WooCommerce URL"
+msgid "Enter your WooCommerce URL"
+msgstr ""
+
+msgctxt "Link"
 msgid "Link"
 msgstr "Enllaç"
 
-#: ca/weblink.csv:6
+msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "Enllaç s'ha suprimit correctament"
 
-#: ca/weblink.csv:7
+msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "Enllaç s'ha desat correctament"
 
-#: ca/weblink.csv:8
-msgid "Link:"
-msgstr "Enllaç:"
+msgctxt "Magento"
+msgid "Magento"
+msgstr ""
 
-#: ca/weblink.csv:9
+msgctxt "Picto"
 msgid "Picto"
 msgstr "Picto"
 
-#: ca/weblink.csv:10
+msgctxt "Prestashop"
+msgid "Prestashop"
+msgstr ""
+
+msgctxt "Shopify"
+msgid "Shopify"
+msgstr ""
+
+msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "La imatge s'ha suprimit correctament"
 
-#: ca/weblink.csv:11
+msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "La imatge s'ha desat correctament"
 
-#: ca/weblink.csv:12
+msgctxt "Use external application"
+msgid "Use external application"
+msgstr ""
+
+msgctxt "Volusion"
+msgid "Volusion"
+msgstr ""
+
+msgctxt "Without navbar"
+msgid "Without navbar"
+msgstr ""
+
+msgctxt "WooCommerce"
+msgid "WooCommerce"
+msgstr ""
+
+msgctxt "Your links"
 msgid "Your links"
 msgstr "Seus vincles"

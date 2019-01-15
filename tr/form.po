@@ -1,156 +1,169 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 14:47+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/form/tr/>"
 "\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: tr/form.csv:1
-msgid "<strong>%s</strong> must be a numerical value<br />"
-msgstr "<strong>%s</strong> numerik değer olmalı<br />"
-
-#: tr/form.csv:2
-msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
-msgstr "<strong>%s</strong> Geçerli bir tarih olmalıdır (örk. gg/aa/yyyy)<br />"
-
-#: tr/form.csv:3
-msgid "<strong>%s</strong> must be a valid date<br />"
-msgstr "<strong>%s</strong> geçerli bir tarih olmalı<br />"
-
-#: tr/form.csv:4
-msgid "<strong>%s</strong> must be a valid email address<br />"
-msgstr "<strong>%s</strong> geçerli email olmalı<br />"
-
-#: tr/form.csv:5
-msgid "<strong>%s</strong> must be filled<br />"
-msgstr "<strong>%s</strong> doldurulmalı<br />"
-
-#: tr/form.csv:6
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Bir alan ekle"
 
-#: tr/form.csv:7
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Bir bölüm ekle"
 
-#: tr/form.csv:8
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Bir seçenek ekle"
 
-#: tr/form.csv:9
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Kaydedilirken bir hata oluştu. Bir alan tespit edilemedi."
 
-#: tr/form.csv:10
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Bu alanı kaldırmak istediğinizden eminmisiniz?"
 
-#: tr/form.csv:11
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Bu bölümü kaldırmak istediğinizden eminmisiniz?"
 
-#: tr/form.csv:12
-msgid "Hello,"
-msgstr "Merhaba,"
-
-#: tr/form.csv:13
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Onay kutusu"
 
-#: tr/form.csv:14
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Bir alan cinsi seçin:"
 
-#: tr/form.csv:15
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Yeni bir alan oluşturun"
 
-#: tr/form.csv:16
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Tarih/Saat"
 
-#: tr/form.csv:17
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Drop down"
 
-#: tr/form.csv:18
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "%s Alanını düzenle"
 
-#: tr/form.csv:19
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Alan adı"
 
-#: tr/form.csv:20
-msgid "Field name:"
-msgstr "Alan adı:"
-
-#: tr/form.csv:21
-msgid "Geolocation"
-msgstr "Coğrafi Konum"
-
-#: tr/form.csv:22
-msgid "Manage fields"
-msgstr "Alanları yönet"
-
-#: tr/form.csv:23
-msgid "Manage options:"
-msgstr "Seçenekleri yönet:"
-
-#: tr/form.csv:24
-msgid "Multiline text"
-msgstr "Çok satırlı metin"
-
-#: tr/form.csv:25
-msgid "Option"
-msgstr "Seçenek"
-
-#: tr/form.csv:26
-msgid "Radio"
-msgstr "Radio"
-
-#: tr/form.csv:27
-msgid "Recipient email:"
-msgstr "Alıcı e-posta:"
-
-#: tr/form.csv:28
-msgid "The form has been sent successfully"
-msgstr "Form başarıyla gönderildi"
-
-#: tr/form.csv:29
-msgid "You have to choose a field type."
-msgstr "Bir alan türü seçmek zorundasınız."
-
-#: tr/form.csv:30
-msgid "Your app's form"
-msgstr "Uygulamanızın formu"
-
-#: tr/form.csv:31
-msgid "Your form has been filled out, here are the answers:"
-msgstr "Formunuz dolduruldu,cevaplar burda:"
-
-msgid "Form data will be sent to this email. Until you fill out this field, your form won't be displayed on client side."
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
+msgid ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
 msgstr ""
 "Form verisi bu e-postaya gönderilecektir. Bu alanı doldurana kadar, form "
 "istemci tarafında görüntülenmez."
 
+msgctxt "Geolocation"
+msgid "Geolocation"
+msgstr "Coğrafi Konum"
+
+msgctxt "Hello,"
+msgid "Hello,"
+msgstr "Merhaba,"
+
+msgctxt "Import a picture"
 msgid "Import a picture"
 msgstr "Bir resim ekleyin"
 
+msgctxt "Import from Library"
 msgid "Import from Library"
 msgstr "Klasörden Aktar"
 
+msgctxt "Manage fields"
+msgid "Manage fields"
+msgstr "Alanları yönet"
+
+msgctxt "Manage options:"
+msgid "Manage options:"
+msgstr "Seçenekleri yönet:"
+
+msgctxt "Multiline text"
+msgid "Multiline text"
+msgstr "Çok satırlı metin"
+
+msgctxt "Option"
+msgid "Option"
+msgstr "Seçenek"
+
+msgctxt "Radio"
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt "Recipient email"
 msgid "Recipient email"
 msgstr "Alıcı e-posta"
 
+msgctxt "Take a picture"
 msgid "Take a picture"
 msgstr "Bir resim çek"
+
+msgctxt "The form has been sent successfully"
+msgid "The form has been sent successfully"
+msgstr "Form başarıyla gönderildi"
+
+msgctxt "You have to choose a field type."
+msgid "You have to choose a field type."
+msgstr "Bir alan türü seçmek zorundasınız."
+
+msgctxt "Your app's form"
+msgid "Your app's form"
+msgstr "Uygulamanızın formu"
+
+msgctxt "Your form has been filled out, here are the answers:"
+msgid "Your form has been filled out, here are the answers:"
+msgstr "Formunuz dolduruldu,cevaplar burda:"
+
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
+msgid "<strong>%s</strong> is not a numerical value<br />"
+msgstr "<strong>%s</strong> sayısal değer<br />"
+
+msgctxt "<strong>%s</strong> is not valid email address<br />"
+msgid "<strong>%s</strong> is not valid email address<br />"
+msgstr "<strong>%s</strong> geçerli bir e-posta adresi<br />"
+
+msgctxt "<strong>%s</strong> is required<br />"
+msgid "<strong>%s</strong> is required<br />"
+msgstr "<strong>%s</strong>gereklidir<br />"
+
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
+msgid "<strong>%s</strong> must be a numerical value<br />"
+msgstr "<strong>%s</strong> numerik değer olmalı<br />"
+
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
+msgstr "<strong>%s</strong> Geçerli bir tarih olmalıdır (örk. gg/aa/yyyy)<br />"
+
+msgctxt "<strong>%s</strong> must be a valid date<br />"
+msgid "<strong>%s</strong> must be a valid date<br />"
+msgstr "<strong>%s</strong> geçerli bir tarih olmalı<br />"
+
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
+msgid "<strong>%s</strong> must be a valid email address<br />"
+msgstr "<strong>%s</strong> geçerli email olmalı<br />"
+
+msgctxt "<strong>%s</strong> must be filled<br />"
+msgid "<strong>%s</strong> must be filled<br />"
+msgstr "<strong>%s</strong> doldurulmalı<br />"

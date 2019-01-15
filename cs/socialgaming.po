@@ -1,82 +1,79 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/"
+"socialgaming/cs/>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: cs/socialgaming.csv:1
-msgid "%s point%s"
-msgstr "%s bod%s"
-
-#: cs/socialgaming.csv:2
+msgctxt "A month"
 msgid "A month"
 msgstr "Měsíčně"
 
-#: cs/socialgaming.csv:3
+msgctxt "A week"
 msgid "A week"
 msgstr "Týdně"
 
-#: cs/socialgaming.csv:4
+msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Soutěžící"
 
-#: cs/socialgaming.csv:5
+msgctxt "Current game"
 msgid "Current game"
 msgstr "Aktuální hra"
 
-#: cs/socialgaming.csv:6
+msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Aktuálně nikdo nesoutěží"
 
-#: cs/socialgaming.csv:7
+msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Název hry"
 
-#: cs/socialgaming.csv:8
+msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Hra byla úspěšně uložena"
 
-#: cs/socialgaming.csv:9
+msgctxt "Next game"
 msgid "Next game"
 msgstr "Další hra"
 
-#: cs/socialgaming.csv:10
+msgctxt "On the"
 msgid "On the"
 msgstr "Na"
 
-#: cs/socialgaming.csv:11
+msgctxt "Period"
 msgid "Period"
 msgstr "Období"
 
-#: cs/socialgaming.csv:12
+msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Opakování"
 
-#: cs/socialgaming.csv:13
+msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Datum vydání"
 
-#: cs/socialgaming.csv:14
+msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Žebříček měsíce"
 
-#: cs/socialgaming.csv:15
+msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Žebříček týdne"
 
-#: cs/socialgaming.csv:16
+msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "První v pořadí"
 
-#: cs/socialgaming.csv:17
-msgid "﻿%s point%s"
+msgctxt "%s point%s"
+msgid "%s point%s"
 msgstr "%s bod%s"

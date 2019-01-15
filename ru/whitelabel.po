@@ -1,14 +1,184 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/"
+"whitelabel/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
+
+msgctxt "App Name"
+msgid "App Name"
+msgstr "Имя App"
+
+msgctxt "Area"
+msgid "Area"
+msgstr ""
+
+msgctxt "Border Blue"
+msgid "Border Blue"
+msgstr ""
+
+msgctxt "Border Green"
+msgid "Border Green"
+msgstr ""
+
+msgctxt "Border Grey"
+msgid "Border Grey"
+msgstr ""
+
+msgctxt "Border Purple"
+msgid "Border Purple"
+msgstr ""
+
+msgctxt "Border Red"
+msgid "Border Red"
+msgstr ""
+
+msgctxt "Border Yellow"
+msgid "Border Yellow"
+msgstr ""
+
+msgctxt "Buttons"
+msgid "Buttons"
+msgstr ""
+
+msgctxt "Color blue"
+msgid "Color blue"
+msgstr ""
+
+msgctxt "Color green"
+msgid "Color green"
+msgstr ""
+
+msgctxt "Color purple"
+msgid "Color purple"
+msgstr ""
+
+msgctxt "Color red"
+msgid "Color red"
+msgstr ""
+
+msgctxt "Color yellow"
+msgid "Color yellow"
+msgstr ""
+
+msgctxt "Company or Fullname"
+msgid "Company or Fullname"
+msgstr ""
+
+msgctxt "Contact e-mail"
+msgid "Contact e-mail"
+msgstr ""
+
+msgctxt "Content background"
+msgid "Content background"
+msgstr ""
+
+msgctxt "Content color"
+msgid "Content color"
+msgstr ""
+
+msgctxt "Country"
+msgid "Country"
+msgstr "Страна"
+
+msgctxt "Customize My Editor"
+msgid "Customize My Editor"
+msgstr ""
+
+msgctxt "Delete/Cancel buttons"
+msgid "Delete/Cancel buttons"
+msgstr ""
+
+msgctxt "Drop Down"
+msgid "Drop Down"
+msgstr "Вниз"
+
+msgctxt "E-mail"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "Enable GDPR features & rules"
+msgid "Enable GDPR features & rules"
+msgstr ""
+
+msgctxt "Enable White-Label"
+msgid "Enable White-Label"
+msgstr ""
+
+msgctxt "Favicon"
+msgid "Favicon"
+msgstr ""
+
+msgctxt "Font Color blue"
+msgid "Font Color blue"
+msgstr ""
+
+msgctxt "Full address"
+msgid "Full address"
+msgstr ""
+
+msgctxt "General"
+msgid "General"
+msgstr "Главная"
+
+msgctxt "Grey buttons"
+msgid "Grey buttons"
+msgstr ""
+
+msgctxt "Header"
+msgid "Header"
+msgstr ""
+
+msgctxt ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
+msgid ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
+msgstr ""
+
+msgctxt "Input flat"
+msgid "Input flat"
+msgstr ""
+
+msgctxt "Logo"
+msgid "Logo"
+msgstr "Логотип"
+
+msgctxt "Menu"
+msgid "Menu"
+msgstr ""
+
+msgctxt "Page"
+msgid "Page"
+msgstr ""
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Телефон"
+
+msgctxt "Sidebar background"
+msgid "Sidebar background"
+msgstr ""
+
+msgctxt "Step menu background"
+msgid "Step menu background"
+msgstr ""
+
+msgctxt "Titles"
+msgid "Titles"
+msgstr "названия"
+
+msgctxt "White-Label name"
+msgid "White-Label name"
+msgstr ""

@@ -1,186 +1,219 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/customer/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: zh_Hans\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/customer.csv:1
-msgid "%s – Account creation"
-msgstr "％s - 创建帐户"
-
-#: zh/customer.csv:2
-msgid "%s – Your new password"
-msgstr "％s - 您的新密码"
-
-#: zh/customer.csv:3
+msgctxt "A request to reset your password has been made."
 msgid "A request to reset your password has been made."
 msgstr "已经有一个请求重置您的密码。"
 
-#: zh/customer.csv:4
-msgid "An error occurred while connecting to your Facebook account. Please try again later"
+msgctxt ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgid ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
 msgstr "未能与Facebook帐户连接。请稍后再试。"
 
-#: zh/customer.csv:5
+msgctxt "Are you sure you want to remove this user?"
 msgid "Are you sure you want to remove this user?"
 msgstr "你确定要删除这个用户？"
 
-#: zh/customer.csv:6
+msgctxt "Change Password"
 msgid "Change Password"
 msgstr "更改密码"
 
-#: zh/customer.csv:7
+msgctxt "Civility"
+msgid "Civility"
+msgstr ""
+
+msgctxt "Congratulations,"
 msgid "Congratulations,"
 msgstr "恭喜你，"
 
-#: zh/customer.csv:8
+msgctxt "Create"
 msgid "Create"
 msgstr "创建"
 
-#: zh/customer.csv:9
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "创建一个新用户"
 
-#: zh/customer.csv:10
-msgid "Create an account"
-msgstr "创建一个帐户"
-
-#: zh/customer.csv:11
+msgctxt "Customer"
 msgid "Customer"
 msgstr "顾客"
 
-#: zh/customer.csv:12
+msgctxt "Customers"
 msgid "Customers"
 msgstr "客户"
 
-#: zh/customer.csv:13
+msgctxt "Disconnect"
 msgid "Disconnect"
 msgstr "登出"
 
-#: zh/customer.csv:14
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "编辑％s用户"
 
-#: zh/customer.csv:15
+msgctxt "First name"
 msgid "First name"
 msgstr "名字"
 
-#: zh/customer.csv:16
-msgid "Forgot your password?"
-msgstr "忘记密码了吗？"
-
-#: zh/customer.csv:17
-msgid "Gender"
-msgstr "性别"
-
-#: zh/customer.csv:18
+msgctxt "Here are your credentials:"
 msgid "Here are your credentials:"
 msgstr "这里有您的凭据："
 
-#: zh/customer.csv:19
-msgid "I accept the <u>privacy policy</u>"
-msgstr "我接受<u>隐私政策</u>"
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
+msgstr ""
 
-#: zh/customer.csv:20
+msgctxt "If you encounter any problems, do not hesitate to contact us:"
 msgid "If you encounter any problems, do not hesitate to contact us:"
 msgstr "如果您有任何问题，请联系我们："
 
-#: zh/customer.csv:21
+msgctxt "Last name"
 msgid "Last name"
 msgstr "姓"
 
-#: zh/customer.csv:22
+msgctxt "Login:"
 msgid "Login:"
 msgstr "登录："
 
-#: zh/customer.csv:23
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr ""
+
+msgctxt "Miss"
 msgid "Miss"
 msgstr "女士."
 
-#: zh/customer.csv:24
+msgctxt "Mr"
 msgid "Mr"
 msgstr "先生"
 
-#: zh/customer.csv:25
+msgctxt "Mrs"
 msgid "Mrs"
 msgstr "女士"
 
-#: zh/customer.csv:26
+msgctxt "My Account"
 msgid "My Account"
 msgstr "我的账户"
 
-#: zh/customer.csv:27
+msgctxt "My application's users"
 msgid "My application's users"
 msgstr "我的应用程序的用户"
 
-#: zh/customer.csv:28
-msgid "Old Password"
-msgstr "旧密码"
+msgctxt "No user for now."
+msgid "No user for now."
+msgstr ""
 
-#: zh/customer.csv:29
+msgctxt "No user match your request."
+msgid "No user match your request."
+msgstr ""
+
+msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "或与您的账户"
 
-#: zh/customer.csv:30
-msgid "Please enter your email address. We'll send you your password right now."
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
 msgstr "请输入您的电子邮件地址。现在，我们将发送您的密码。"
 
-#: zh/customer.csv:31
+msgctxt "Please log in with your mobile phone"
 msgid "Please log in with your mobile phone"
 msgstr "请与您的手机登录"
 
-#: zh/customer.csv:32
-msgid "Privacy Policy"
-msgstr "隐私政策"
-
-#: zh/customer.csv:33
+msgctxt "See you soon,"
 msgid "See you soon,"
 msgstr "再见，"
 
-#: zh/customer.csv:34
+msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "显示我的排名"
 
-#: zh/customer.csv:35
+msgctxt "The old email address does not match the entered email address."
 msgid "The old email address does not match the entered email address."
 msgstr "上述的电子邮件地址不匹配的电子邮件地址输入。"
 
-#: zh/customer.csv:36
-msgid "This user can access the pages locked by the \"Locker\" feature"
-msgstr "此用户可以访问的网站阻止特征“访问”"
-
-#: zh/customer.csv:37
+msgctxt "This user is visible in ranking"
 msgid "This user is visible in ranking"
 msgstr "此用户是在排名可见"
 
-#: zh/customer.csv:38
+msgctxt "Title"
+msgid "Title"
+msgstr "称号"
+
+msgctxt "User"
 msgid "User"
 msgstr "用户"
 
-#: zh/customer.csv:39
-msgid "Users"
-msgstr "用户"
-
-#: zh/customer.csv:40
+msgctxt "User Information"
 msgid "User Information"
 msgstr "用户信息"
 
-#: zh/customer.csv:41
-msgid "We are sorry but the %s account is already linked to one of our customers"
+msgctxt "Users"
+msgid "Users"
+msgstr "用户"
+
+msgctxt ""
+"We are sorry but the %s account is already linked to one of our customers"
+msgid ""
+"We are sorry but the %s account is already linked to one of our customers"
 msgstr "很抱歉，但在％的账户已被链接到我们的客户之一"
 
-#: zh/customer.csv:42
-msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
+msgctxt "We are sorry but this nickname is already used"
+msgid "We are sorry but this nickname is already used"
+msgstr "很抱歉，但这个地址已被使用。"
+
+msgctxt ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgid ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgstr ""
+
+msgctxt ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgid ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
 msgstr "您创建的帐户。有了这个帐户，您将能够享受伟大的交易可以在我们的应用程序。"
 
-#: zh/customer.csv:43
+msgctxt "You must agree to our privacy policy to create an account."
+msgid "You must agree to our privacy policy to create an account."
+msgstr ""
+
+msgctxt "You must fill firstname and lastname fields."
+msgid "You must fill firstname and lastname fields."
+msgstr ""
+
+msgctxt "Your account has been successfully saved"
 msgid "Your account has been successfully saved"
 msgstr "您的帐户已成功保存"
+
+msgctxt "Your points"
+msgid "Your points"
+msgstr ""
+
+msgctxt "%s - Account creation"
+msgid "%s - Account creation"
+msgstr ""
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr "新密码"

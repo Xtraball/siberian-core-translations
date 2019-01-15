@@ -1,110 +1,82 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: German <http://yvain.xtraball.com/projects/siberian/contact/"
+"de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: de/contact.csv:1
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
-msgstr "Während dem speichern Ihrer Kontaktinformationen ist ein Fehler aufgetreten."
+msgstr ""
+"Während dem speichern Ihrer Kontaktinformationen ist ein Fehler aufgetreten."
 
-#: de/contact.csv:2
-msgid "An error occurred while sending your message. We apologize and ask you to try later."
-msgstr "Während der Übermittlung Ihrer Nachricht ist ein Fehler aufgetreten. Wir entschuldigen uns und bitten Sie, es später nochmals zu versuchen"
-
-#: de/contact.csv:3
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
-msgstr "Beim Senden Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal"
+msgstr ""
+"Beim Senden Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es "
+"später noch einmal"
 
-#: de/contact.csv:4
+msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "Und seine Telefonnummer:"
 
-#: de/contact.csv:5
+msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Sind Sie sicher, dass Sie das Bild entfernen möchten?"
 
-#: de/contact.csv:6
+msgctxt "City"
 msgid "City"
 msgstr "Stadt"
 
-#: de/contact.csv:7
+msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Kontaktinformationen"
 
-#: de/contact.csv:8
-msgid "Contact informations"
-msgstr "Kontaktinformationen"
-
-#: de/contact.csv:9
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Hier ist seine e-Mail:"
 
-#: de/contact.csv:10
+msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Hier ist seine Botschaft:"
 
-#: de/contact.csv:11
-msgid "Informations successfully saved"
-msgstr "Informationen erfolgreich gespeichert"
-
-#: de/contact.csv:12
-msgid "Insert a <br /><span class=\"bold\">cover image</span>"
-msgstr "Legen Sie eine <br /> <span class=\"bold\"> Cover-Bild </span>"
-
-#: de/contact.csv:13
-msgid "Message from your app %s"
-msgstr "Nachricht von Ihrer App %s"
-
-#: de/contact.csv:14
+msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Bitte vervollständigen Sie die folgenden Felder: <br />"
 
-#: de/contact.csv:15
-msgid "SEND"
-msgstr "senden"
-
-#: de/contact.csv:16
-msgid "Thank you for your request. We'll answer you as soon as possible."
-msgstr "Vielen Dank für Ihre Anfrage. Wir werden Sie so bald wie möglich beantworten."
-
-#: de/contact.csv:17
+msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: de/contact.csv:18
+msgctxt "Website"
 msgid "Website"
 msgstr "Website"
 
-#: de/contact.csv:19
+msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Sie haben eine Nachricht von einem Kontakt erhalten:"
 
-#: de/contact.csv:20
+msgctxt "Your email"
 msgid "Your email"
 msgstr "Ihre E-Mail"
 
-#: de/contact.csv:21
+msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Ihre Nachricht wurde gesendet"
 
-#: de/contact.csv:22
-msgid "Your name"
-msgstr "Ihr Name"
-
-#: de/contact.csv:23
+msgctxt "Your request"
 msgid "Your request"
 msgstr "Inhalt"
 
-#: de/contact.csv:24
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "PLZ"

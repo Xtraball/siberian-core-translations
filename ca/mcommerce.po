@@ -1,622 +1,1230 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/"
+"mcommerce/ca/>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ca\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/mcommerce.csv:1
-msgid "%s - Customer Service"
-msgstr "%s - atenció al client"
+msgctxt ": activate to sort column ascending"
+msgid ": activate to sort column ascending"
+msgstr ""
 
-#: ca/mcommerce.csv:2
+msgctxt ": activate to sort column descending"
+msgid ": activate to sort column descending"
+msgstr ""
+
+msgctxt "1 points ="
+msgid "1 points ="
+msgstr "1 punt validat"
+
+msgctxt "20.00%"
 msgid "20.00%"
 msgstr "20,00%"
 
-#: ca/mcommerce.csv:3
-msgid "Add a picture"
-msgstr "Afegir una imatge"
+msgctxt "Add Discount"
+msgid "Add Discount"
+msgstr ""
 
-#: ca/mcommerce.csv:4
+msgctxt "Add a format"
+msgid "Add a format"
+msgstr "Afegir un format"
+
+msgctxt "Add card"
+msgid "Add card"
+msgstr ""
+
+msgctxt "Add gratuity (Optional)"
+msgid "Add gratuity (Optional)"
+msgstr ""
+
+msgctxt "Add options"
 msgid "Add options"
 msgstr "Afegir opcions"
 
-#: ca/mcommerce.csv:5
+msgctxt "Add pictures"
+msgid "Add pictures"
+msgstr ""
+
+msgctxt "Add to cart"
 msgid "Add to cart"
 msgstr "Afegir a la cistella"
 
-#: ca/mcommerce.csv:6
-msgid "An error occurred while proceeding the payment. Please, try again later."
-msgstr "S'ha produït un error en procedint al pagament. Si us plau, intenti-ho més tard."
+msgctxt "All fields with a * are required."
+msgid "All fields with a * are required."
+msgstr ""
 
-#: ca/mcommerce.csv:7
-msgid "An error occurred while proceeding your order. Please, check the following information:"
-msgstr "S'ha produït un error en encetat el seu ordre. Consulta la informació següent:"
+msgctxt "Amount remaining:"
+msgid "Amount remaining:"
+msgstr ""
 
-#: ca/mcommerce.csv:8
+msgctxt "Amount you will pay"
+msgid "Amount you will pay"
+msgstr ""
+
+msgctxt "An error occurred during the payment process."
+msgid "An error occurred during the payment process."
+msgstr ""
+
+msgctxt "An error occurred while cancelling. Please try again later."
+msgid "An error occurred while cancelling. Please try again later."
+msgstr "S'ha produït un error en desar. Intenta-ho de nou més tard."
+
+msgctxt ""
+"An error occurred while proceeding the payment. Please, try again later."
+msgid ""
+"An error occurred while proceeding the payment. Please, try again later."
+msgstr ""
+"S'ha produït un error en procedint al pagament. Si us plau, intenti-ho més "
+"tard."
+
+msgctxt "An error occurred while proceeding your order:"
+msgid "An error occurred while proceeding your order:"
+msgstr "S'ha produït un error en carregar el producte."
+
+msgctxt ""
+"An error occurred while proceeding your order. Please, check the following "
+"information:"
+msgid ""
+"An error occurred while proceeding your order. Please, check the following "
+"information:"
+msgstr ""
+"S'ha produït un error en encetat el seu ordre. Consulta la informació "
+"següent:"
+
+msgctxt "Are you sure you want to close without saving"
 msgid "Are you sure you want to close without saving"
 msgstr "Esteu segur que voleu tancar sense desar-lo"
 
-#: ca/mcommerce.csv:9
-msgid "Are you sure you want to delete this category and all its subcategories?"
-msgstr "Esteu segur que voleu suprimir aquesta categoria i totes les seves subcategories?"
+msgctxt ""
+"Are you sure you want to delete this category and all its subcategories?"
+msgid ""
+"Are you sure you want to delete this category and all its subcategories?"
+msgstr ""
+"Esteu segur que voleu suprimir aquesta categoria i totes les seves "
+"subcategories?"
 
-#: ca/mcommerce.csv:10
+msgctxt "Are you sure you want to delete this store?"
 msgid "Are you sure you want to delete this store?"
 msgstr "Esteu segur que voleu suprimir aquesta botiga?"
 
-#: ca/mcommerce.csv:11
+msgctxt "Are you sure you want to delete this tax?"
 msgid "Are you sure you want to delete this tax?"
 msgstr "Esteu segur que voleu suprimir aquest impost?"
 
-#: ca/mcommerce.csv:12
+msgctxt "Are you sure you want to remove this product?"
 msgid "Are you sure you want to remove this product?"
 msgstr "Esteu segur que voleu suprimir aquest producte?"
 
-#: ca/mcommerce.csv:13
+msgctxt "At least one option is required:"
 msgid "At least one option is required:"
 msgstr "Com a mínim una opció es requereix:"
 
-#: ca/mcommerce.csv:14
+msgctxt "Birthday"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "CVC"
+msgid "CVC"
+msgstr ""
+
+msgctxt "Calculate the change for the client"
+msgid "Calculate the change for the client"
+msgstr ""
+
+msgctxt "Cancel order"
+msgid "Cancel order"
+msgstr ""
+
+msgctxt "Cancelled"
 msgid "Cancelled"
 msgstr "Cancel·lat"
 
-#: ca/mcommerce.csv:15
+msgctxt "Card Number"
+msgid "Card Number"
+msgstr ""
+
+msgctxt "Carry Out"
 msgid "Carry Out"
 msgstr "Dur a terme"
 
-#: ca/mcommerce.csv:16
+msgctxt "Cart"
 msgid "Cart"
 msgstr "Cistella"
 
-#: ca/mcommerce.csv:17
+msgctxt "Cash"
 msgid "Cash"
 msgstr "Efectiu"
 
-#: ca/mcommerce.csv:18
+msgctxt "Category"
 msgid "Category"
 msgstr "Categoria"
 
-#: ca/mcommerce.csv:19
+msgctxt "Category successfully saved."
 msgid "Category successfully saved."
 msgstr "Categoria salvat correctament."
 
-#: ca/mcommerce.csv:20
+msgctxt "Check"
 msgid "Check"
 msgstr "Registre d'entrada"
 
-#: ca/mcommerce.csv:21
+msgctxt "Choose a delivery method:"
 msgid "Choose a delivery method:"
 msgstr "Triar un mètode de lliurament:"
 
-#: ca/mcommerce.csv:22
+msgctxt "Choose a payment method:"
 msgid "Choose a payment method:"
 msgstr "Triar un mètode de pagament:"
 
-#: ca/mcommerce.csv:23
-msgid "Choose a store:"
-msgstr "Triar una botiga:"
+msgctxt "Choose a store"
+msgid "Choose a store"
+msgstr "Crear una botiga"
 
-#: ca/mcommerce.csv:24
+msgctxt "City"
+msgid "City"
+msgstr "Ciutat"
+
+msgctxt "Client"
+msgid "Client"
+msgstr ""
+
+msgctxt "Client will pay"
+msgid "Client will pay"
+msgstr ""
+
+msgctxt "Code"
+msgid "Code"
+msgstr ""
+
+msgctxt "Code used"
+msgid "Code used"
+msgstr ""
+
+msgctxt "Completed"
 msgid "Completed"
 msgstr "Completat"
 
-#: ca/mcommerce.csv:25
+msgctxt "Confirmation"
+msgid "Confirmation"
+msgstr ""
+
+msgctxt "Connected Printers"
 msgid "Connected Printers"
 msgstr "Impressores connectades"
 
-#: ca/mcommerce.csv:26
+msgctxt "Continue shopping"
 msgid "Continue shopping"
 msgstr "Continuar comprant"
 
-#: ca/mcommerce.csv:27
+msgctxt "Create a new choice list group"
+msgid "Create a new choice list group"
+msgstr "Crear un nou grup d'opcions"
+
+msgctxt "Create a new discount"
+msgid "Create a new discount"
+msgstr "Crear un nou descompte"
+
+msgctxt "Create a new options group"
 msgid "Create a new options group"
 msgstr "Crear un nou grup d'opcions"
 
-#: ca/mcommerce.csv:28
+msgctxt "Create a new product"
 msgid "Create a new product"
 msgstr "Crear un nou producte"
 
-#: ca/mcommerce.csv:29
+msgctxt "Create a new tax"
 msgid "Create a new tax"
 msgstr "Crear un nou impost"
 
-#: ca/mcommerce.csv:30
+msgctxt "Create a store"
 msgid "Create a store"
 msgstr "Crear una botiga"
 
-#: ca/mcommerce.csv:31
+msgctxt "Credit Card by phone"
 msgid "Credit Card by phone"
 msgstr "Targeta de crèdit per telèfon"
 
-#: ca/mcommerce.csv:32
+msgctxt "Credit card (online payment)"
+msgid "Credit card (online payment)"
+msgstr ""
+
+msgctxt "Credit card (pay upon pickup or delivery)"
 msgid "Credit card (pay upon pickup or delivery)"
 msgstr "Targeta de crèdit (pagament en la recollida o entrega)"
 
-#: ca/mcommerce.csv:33
+msgctxt "Credit card payment"
+msgid "Credit card payment"
+msgstr ""
+
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Atenció al client"
 
-#: ca/mcommerce.csv:34
+msgctxt "Customer Service"
 msgid "Customer Service"
 msgstr "Servei al client"
 
-#: ca/mcommerce.csv:35
+msgctxt "Customer can add tip to a command?"
+msgid "Customer can add tip to a command?"
+msgstr ""
+
+msgctxt "Date of birth"
+msgid "Date of birth"
+msgstr "Data de naixement"
+
+msgctxt "Deductable"
+msgid "Deductable"
+msgstr ""
+
+msgctxt "Deduction"
+msgid "Deduction"
+msgstr ""
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "esborrar"
+
+msgctxt "Delivery"
 msgid "Delivery"
 msgstr "Lliurament"
 
-#: ca/mcommerce.csv:36
+msgctxt "Delivery Fees"
 msgid "Delivery Fees"
 msgstr "Lliurament d'entrades"
 
-#: ca/mcommerce.csv:37
+msgctxt "Delivery Method"
 msgid "Delivery Method"
 msgstr "Mètode de lliurament"
 
-#: ca/mcommerce.csv:38
+msgctxt "Delivery address"
+msgid "Delivery address"
+msgstr "Zona de lliurament"
+
+msgctxt "Delivery area"
 msgid "Delivery area"
 msgstr "Zona de lliurament"
 
-#: ca/mcommerce.csv:39
+msgctxt "Delivery fees"
 msgid "Delivery fees"
 msgstr "Lliurament d'entrades"
 
-#: ca/mcommerce.csv:40
-msgid "Delivery fees:"
-msgstr "Lliurament d'entrades:"
-
-#: ca/mcommerce.csv:41
+msgctxt "Delivery methods"
 msgid "Delivery methods"
 msgstr "Mètodes de lliurament"
 
-#: ca/mcommerce.csv:42
-msgid "Delivery methods:"
-msgstr "Mètodes de lliurament:"
-
-#: ca/mcommerce.csv:43
+msgctxt "Delivery radius"
 msgid "Delivery radius"
 msgstr "Radi de lliurament"
 
-#: ca/mcommerce.csv:44
-msgid "Delivery radius:"
-msgstr "Radi de lliurament:"
-
-#: ca/mcommerce.csv:45
+msgctxt "Delivery time"
 msgid "Delivery time"
 msgstr "Termini de lliurament"
 
-#: ca/mcommerce.csv:46
-msgid "Delivery time:"
-msgstr "Termini de lliurament:"
-
-#: ca/mcommerce.csv:47
+msgctxt "Details"
 msgid "Details"
 msgstr "Detalls"
 
-#: ca/mcommerce.csv:48
+msgctxt "Discound code"
+msgid "Discound code"
+msgstr ""
+
+msgctxt "Discount"
+msgid "Discount"
+msgstr ""
+
+msgctxt "Discount Settings"
+msgid "Discount Settings"
+msgstr ""
+
+msgctxt "Discount amount"
+msgid "Discount amount"
+msgstr ""
+
+msgctxt "Discount amount si very high"
+msgid "Discount amount si very high"
+msgstr ""
+
+msgctxt "Discount code"
+msgid "Discount code"
+msgstr ""
+
+msgctxt "Discount code already exists"
+msgid "Discount code already exists"
+msgstr ""
+
+msgctxt "Discount code is missing"
+msgid "Discount code is missing"
+msgstr ""
+
+msgctxt "Discount label is missing"
+msgid "Discount label is missing"
+msgstr ""
+
+msgctxt "Discount minimum amount is missing"
+msgid "Discount minimum amount is missing"
+msgstr ""
+
+msgctxt "Discount no longer available"
+msgid "Discount no longer available"
+msgstr ""
+
+msgctxt "Discount only for carts with total more than: "
+msgid "Discount only for carts with total more than: "
+msgstr ""
+
+msgctxt "Discount settings"
+msgid "Discount settings"
+msgstr ""
+
+msgctxt "Discount total"
+msgid "Discount total"
+msgstr ""
+
+msgctxt "Discount type"
+msgid "Discount type"
+msgstr ""
+
+msgctxt "Discount type is missing"
+msgid "Discount type is missing"
+msgstr ""
+
+msgctxt "Discount used"
+msgid "Discount used"
+msgstr ""
+
+msgctxt "Discount validation date"
+msgid "Discount validation date"
+msgstr ""
+
+msgctxt "Discounted amount is missing"
+msgid "Discounted amount is missing"
+msgstr ""
+
+msgctxt "Discounted amount should be a positive number"
+msgid "Discounted amount should be a positive number"
+msgstr ""
+
+msgctxt "Do you confirm you want to remove your card?"
+msgid "Do you confirm you want to remove your card?"
+msgstr ""
+
+msgctxt "Done"
+msgid "Done"
+msgstr ""
+
+msgctxt "Duplicate this product"
+msgid "Duplicate this product"
+msgstr ""
+
+msgctxt "Edit a store"
 msgid "Edit a store"
 msgstr "Editar una botiga"
 
-#: ca/mcommerce.csv:49
+msgctxt "Edit the choice list group"
+msgid "Edit the choice list group"
+msgstr ""
+
+msgctxt "Edit the discount %s"
+msgid "Edit the discount %s"
+msgstr "Editar el producte %s"
+
+msgctxt "Edit the options group %s"
 msgid "Edit the options group %s"
 msgstr "Edita el grup opcions %s"
 
-#: ca/mcommerce.csv:50
+msgctxt "Edit the product %s"
 msgid "Edit the product %s"
 msgstr "Editar el producte %s"
 
-#: ca/mcommerce.csv:51
+msgctxt "Edit the tax %s"
 msgid "Edit the tax %s"
 msgstr "Editar l'impost de %s"
 
-#: ca/mcommerce.csv:52
+msgctxt "Email"
+msgid "Email"
+msgstr "correu electrònic"
+
+msgctxt "Enabled"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "Error while using your points"
+msgid "Error while using your points"
+msgstr ""
+
+msgctxt "Estimated discount:"
+msgid "Estimated discount:"
+msgstr ""
+
+msgctxt "First"
+msgid "First"
+msgstr ""
+
+msgctxt "First Name"
+msgid "First Name"
+msgstr "Nom de pila"
+
+msgctxt "Firstname"
+msgid "Firstname"
+msgstr "Nom De Pila"
+
+msgctxt "Format:"
+msgid "Format:"
+msgstr "format"
+
+msgctxt "Free delivery starting from"
 msgid "Free delivery starting from"
 msgstr "Lliurament gratuït a partir de"
 
-#: ca/mcommerce.csv:53
-msgid "Free delivery starting from:"
-msgstr "Lliurament gratuït a partir de:"
+msgctxt "Free purchase"
+msgid "Free purchase"
+msgstr ""
 
-#: ca/mcommerce.csv:54
+msgctxt "From"
+msgid "From"
+msgstr ""
+
+msgctxt "Gratuity"
+msgid "Gratuity"
+msgstr ""
+
+msgctxt "Guest Order"
+msgid "Guest Order"
+msgstr ""
+
+msgctxt "Here is the detail of the order"
 msgid "Here is the detail of the order"
 msgstr "Aquí és el detall de l'ordre"
 
-#: ca/mcommerce.csv:55
+msgctxt "Here is the detail of your order"
 msgid "Here is the detail of your order"
 msgstr "Aquí és el detall de la teva comanda"
 
-#: ca/mcommerce.csv:56
+msgctxt "Hidden"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "Hours of operation"
 msgid "Hours of operation"
 msgstr "Horari d'atenció"
 
-#: ca/mcommerce.csv:57
-msgid "Hours of operation:"
-msgstr "Hores d'operació:"
+msgctxt "I will pay"
+msgid "I will pay"
+msgstr ""
 
-#: ca/mcommerce.csv:58
+msgctxt "In store"
 msgid "In store"
 msgstr "A la botiga"
 
-#: ca/mcommerce.csv:59
+msgctxt "Incl."
+msgid "Incl."
+msgstr ""
+
+msgctxt "Invalid code"
+msgid "Invalid code"
+msgstr ""
+
+msgctxt "Invoicing address"
+msgid "Invoicing address"
+msgstr ""
+
+msgctxt "Keep card information"
+msgid "Keep card information"
+msgstr ""
+
+msgctxt "Label"
+msgid "Label"
+msgstr "etiqueta"
+
+msgctxt "Last"
+msgid "Last"
+msgstr ""
+
+msgctxt "Last Name"
+msgid "Last Name"
+msgstr "Cognom"
+
+msgctxt "Lastname"
+msgid "Lastname"
+msgstr "Cognom"
+
+msgctxt "Loading..."
+msgid "Loading..."
+msgstr "Carregant"
+
+msgctxt "Login"
+msgid "Login"
+msgstr "Iniciar Sessió:"
+
+msgctxt "MM"
+msgid "MM"
+msgstr ""
+
+msgctxt "Manage discounts"
+msgid "Manage discounts"
+msgstr "Administrar icones"
+
+msgctxt "Manage user fields"
+msgid "Manage user fields"
+msgstr "Administra els camps"
+
+msgctxt "Mandatory"
+msgid "Mandatory"
+msgstr ""
+
+msgctxt "Meal Voucher"
 msgid "Meal Voucher"
 msgstr "Val de dinar"
 
-#: ca/mcommerce.csv:60
+msgctxt "Merchant ID:"
+msgid "Merchant ID:"
+msgstr ""
+
+msgctxt "Minimum amount"
+msgid "Minimum amount"
+msgstr ""
+
+msgctxt "Minimum amount should be a positive number"
+msgid "Minimum amount should be a positive number"
+msgstr ""
+
+msgctxt "Minimum order"
 msgid "Minimum order"
 msgstr "Comanda mínima"
 
-#: ca/mcommerce.csv:61
-msgid "Minimum order:"
-msgstr "Comanda mínima:"
-
-#: ca/mcommerce.csv:62
+msgctxt "My Cart"
 msgid "My Cart"
 msgstr "El meu carret"
 
-#: ca/mcommerce.csv:63
+msgctxt "My cart is empty"
 msgid "My cart is empty"
 msgstr "El meu carro està buit"
 
-#: ca/mcommerce.csv:64
+msgctxt "My categories"
 msgid "My categories"
 msgstr "Meus categories"
 
-#: ca/mcommerce.csv:65
+msgctxt "My information"
 msgid "My information"
 msgstr "Meva informació"
 
-#: ca/mcommerce.csv:66
+msgctxt "My orders"
 msgid "My orders"
 msgstr "Meves comandes"
 
-#: ca/mcommerce.csv:67
-msgid "My product's categories"
-msgstr "Categories del meu producte"
-
-#: ca/mcommerce.csv:68
-msgid "My product's options"
-msgstr "Opcions del meu producte"
-
-#: ca/mcommerce.csv:69
+msgctxt "My products"
 msgid "My products"
 msgstr "Meus productes"
 
-#: ca/mcommerce.csv:70
+msgctxt "My product's categories"
+msgid "My product's categories"
+msgstr "Categories del meu producte"
+
+msgctxt "My product's list choice options"
+msgid "My product's list choice options"
+msgstr ""
+
+msgctxt "My product's options"
+msgid "My product's options"
+msgstr "Opcions del meu producte"
+
+msgctxt "My stores"
 msgid "My stores"
 msgstr "Meves botigues"
 
-#: ca/mcommerce.csv:71
+msgctxt "My taxes"
 msgid "My taxes"
 msgstr "Meus impostos"
 
-#: ca/mcommerce.csv:72
+msgctxt "Name of the options group:"
 msgid "Name of the options group:"
 msgstr "Nom del grup d'opcions:"
 
-#: ca/mcommerce.csv:73
+msgctxt "New order from the application"
 msgid "New order from the application"
 msgstr "Nou ordre de l'aplicació"
 
-#: ca/mcommerce.csv:74
+msgctxt "Next"
+msgid "Next"
+msgstr "Següent"
+
+msgctxt "No data available in table"
+msgid "No data available in table"
+msgstr ""
+
+msgctxt "No matching records found"
+msgid "No matching records found"
+msgstr ""
+
+msgctxt "Notes"
+msgid "Notes"
+msgstr ""
+
+msgctxt "Number"
 msgid "Number"
 msgstr "Nombre"
 
-#: ca/mcommerce.csv:75
+msgctxt "Option $1 is required."
+msgid "Option $1 is required."
+msgstr ""
+
+msgctxt "Option name"
 msgid "Option name"
 msgstr "Nom de l'opció"
 
-#: ca/mcommerce.csv:76
-msgid "Option name:"
-msgstr "Nom de l'opció:"
+msgctxt "Optional"
+msgid "Optional"
+msgstr ""
 
-#: ca/mcommerce.csv:77
+msgctxt "Options"
+msgid "Options"
+msgstr "Opció"
+
+msgctxt "Options group successfully deleted"
 msgid "Options group successfully deleted"
 msgstr "Grup d'opcions correctament"
 
-#: ca/mcommerce.csv:78
+msgctxt "Options group successfully saved"
 msgid "Options group successfully saved"
 msgstr "Grup d'opcions salvat correctament"
 
-#: ca/mcommerce.csv:79
+msgctxt "Order Number"
 msgid "Order Number"
 msgstr "Número d'ordre"
 
-#: ca/mcommerce.csv:80
+msgctxt "Order N°"
+msgid "Order N°"
+msgstr ""
+
+msgctxt "Order Total"
+msgid "Order Total"
+msgstr ""
+
+msgctxt "Order confirmation"
 msgid "Order confirmation"
 msgstr "Confirmació d'ordre"
 
-#: ca/mcommerce.csv:81
+msgctxt "Order details"
 msgid "Order details"
 msgstr "Dades de la comanda"
 
-#: ca/mcommerce.csv:82
+msgctxt "Order history"
+msgid "Order history"
+msgstr ""
+
+msgctxt "Order %s cancelled"
+msgid "Order %s cancelled"
+msgstr ""
+
+msgctxt "Order successfully cancelled"
+msgid "Order successfully cancelled"
+msgstr "Ordre salvat correctament"
+
+msgctxt "Order successfully saved"
 msgid "Order successfully saved"
 msgstr "Ordre salvat correctament"
 
-#: ca/mcommerce.csv:83
+msgctxt "Orders"
 msgid "Orders"
 msgstr "Comandes"
 
-#: ca/mcommerce.csv:84
+msgctxt "Paid"
 msgid "Paid"
 msgstr "Pagat"
 
-#: ca/mcommerce.csv:85
+msgctxt "Paid by the client:"
+msgid "Paid by the client:"
+msgstr ""
+
+msgctxt "Password"
 msgid "Password"
 msgstr "Contrasenya"
 
-#: ca/mcommerce.csv:86
-msgid "Password:"
-msgstr "Contrasenya:"
+msgctxt "Pay"
+msgid "Pay"
+msgstr ""
 
-#: ca/mcommerce.csv:87
+msgctxt "Payment"
 msgid "Payment"
 msgstr "Pagament"
 
-#: ca/mcommerce.csv:88
+msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Forma de pagament"
 
-#: ca/mcommerce.csv:89
+msgctxt "Payment methods:"
 msgid "Payment methods:"
 msgstr "Mètodes de pagament:"
 
-#: ca/mcommerce.csv:90
+msgctxt "Paypal"
 msgid "Paypal"
 msgstr "PayPal"
 
-#: ca/mcommerce.csv:91
+msgctxt "Paypal settings"
+msgid "Paypal settings"
+msgstr ""
+
+msgctxt "Pending payment"
 msgid "Pending payment"
 msgstr "Pendent pagament"
 
-#: ca/mcommerce.csv:92
+msgctxt "Percentage is a least 1%, at max 99%"
+msgid "Percentage is a least 1%, at max 99%"
+msgstr ""
+
+msgctxt "Percentage must be at least 1 percent, at most 99 percent"
+msgid "Percentage must be at least 1 percent, at most 99 percent"
+msgstr ""
+
+msgctxt "Permit unregistered user to make order?"
+msgid "Permit unregistered user to make order?"
+msgstr ""
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "telèfon"
+
+msgctxt "Phone number"
+msgid "Phone number"
+msgstr "Número de telèfon:"
+
+msgctxt "Picture"
 msgid "Picture"
 msgstr "Imatge"
 
-#: ca/mcommerce.csv:93
+msgctxt "Please choose a delivery method"
 msgid "Please choose a delivery method"
 msgstr "Si us plau, escolliu un mètode de lliurament"
 
-#: ca/mcommerce.csv:94
+msgctxt "Please choose a payment method"
 msgid "Please choose a payment method"
 msgstr "Si us plau, escolliu un mètode de pagament"
 
-#: ca/mcommerce.csv:95
+msgctxt "Please, enter an email address for the store %s"
 msgid "Please, enter an email address for the store %s"
-msgstr "Si us plau, introduïu una adreça de correu electrònic per al magatzem de %s"
+msgstr ""
+"Si us plau, introduïu una adreça de correu electrònic per al magatzem de %s"
 
-#: ca/mcommerce.csv:96
+msgctxt "Please fill in your card information to process Credit card payment:"
+msgid "Please fill in your card information to process Credit card payment:"
+msgstr ""
+
+msgctxt "Points"
+msgid "Points"
+msgstr ""
+
+msgctxt "Points available:"
+msgid "Points available:"
+msgstr ""
+
+msgctxt "Postcode"
+msgid "Postcode"
+msgstr "codi postal"
+
+msgctxt "Previous"
+msgid "Previous"
+msgstr "anterior"
+
+msgctxt "Price"
 msgid "Price"
 msgstr "Preu"
 
-#: ca/mcommerce.csv:97
+msgctxt "Price: %s"
 msgid "Price: %s"
 msgstr "Preu: %s"
 
-#: ca/mcommerce.csv:98
+msgctxt "Prices"
+msgid "Prices"
+msgstr "preu"
+
+msgctxt "Printer successfully saved"
 msgid "Printer successfully saved"
 msgstr "Impressora salvat correctament"
 
-#: ca/mcommerce.csv:99
+msgctxt "Proceed"
 msgid "Proceed"
 msgstr "Procedir"
 
-#: ca/mcommerce.csv:100
+msgctxt "Processing..."
+msgid "Processing..."
+msgstr ""
+
+msgctxt "Product"
 msgid "Product"
 msgstr "Producte"
 
-#: ca/mcommerce.csv:101
+msgctxt "Product formats"
+msgid "Product formats"
+msgstr "execució dels productes"
+
+msgctxt "Product name"
 msgid "Product name"
 msgstr "Nom del producte"
 
-#: ca/mcommerce.csv:102
-msgid "Product name:"
-msgstr "Nom del producte:"
+msgctxt "Product successfully duplicated"
+msgid "Product successfully duplicated"
+msgstr "Producte salvat correctament"
 
-#: ca/mcommerce.csv:103
+msgctxt "Product successfully saved"
 msgid "Product successfully saved"
 msgstr "Producte salvat correctament"
 
-#: ca/mcommerce.csv:104
+msgctxt "Publishable Key:"
+msgid "Publishable Key:"
+msgstr ""
+
+msgctxt "Qty"
 msgid "Qty"
 msgstr "Quantitat"
 
-#: ca/mcommerce.csv:105
+msgctxt "Qty: %s"
 msgid "Qty: %s"
 msgstr "Quantitat: %s"
 
-#: ca/mcommerce.csv:106
+msgctxt "Radius in Km"
 msgid "Radius in Km"
 msgstr "Radi en Km"
 
-#: ca/mcommerce.csv:107
+msgctxt "Remaining amount due"
+msgid "Remaining amount due"
+msgstr ""
+
+msgctxt "Remaining due"
+msgid "Remaining due"
+msgstr ""
+
+msgctxt "Remove card"
+msgid "Remove card"
+msgstr ""
+
+msgctxt "Return URL:"
+msgid "Return URL:"
+msgstr ""
+
+msgctxt "Review"
 msgid "Review"
 msgstr "Revisió"
 
-#: ca/mcommerce.csv:108
+msgctxt "Search:"
+msgid "Search:"
+msgstr "Cerca"
+
+msgctxt "Secret Key"
+msgid "Secret Key"
+msgstr ""
+
+msgctxt "Settings"
 msgid "Settings"
 msgstr "Configuració"
 
-#: ca/mcommerce.csv:109
+msgctxt "Settings successfully saved"
+msgid "Settings successfully saved"
+msgstr "Dinar del set guardat correctament."
+
+msgctxt "Show _MENU_ entries"
+msgid "Show _MENU_ entries"
+msgstr ""
+
+msgctxt "Show search fields on product list ?"
+msgid "Show search fields on product list ?"
+msgstr ""
+
+msgctxt "Showing 0 to 0 of 0 entries"
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+msgctxt "Showing _START_ to _END_ of _TOTAL_ entries"
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+msgctxt "Signature"
 msgid "Signature"
 msgstr "Signatura"
 
-#: ca/mcommerce.csv:110
-msgid "Signature:"
-msgstr "Signatura:"
+msgctxt "Signup"
+msgid "Signup"
+msgstr ""
 
-#: ca/mcommerce.csv:111
+msgctxt "Some mandatory fields are empty."
+msgid "Some mandatory fields are empty."
+msgstr ""
+
+msgctxt "Sorry we can't proceed to deliver your order. It has been canceled."
+msgid "Sorry we can't proceed to deliver your order. It has been canceled."
+msgstr ""
+
+msgctxt "Status"
 msgid "Status"
 msgstr "L'estat"
 
-#: ca/mcommerce.csv:112
+msgctxt "Store choice"
+msgid "Store choice"
+msgstr ""
+
+msgctxt "Store information"
 msgid "Store information"
 msgstr "Botiga informació"
 
-#: ca/mcommerce.csv:113
+msgctxt "Store name"
 msgid "Store name"
 msgstr "Nom de la botiga"
 
-#: ca/mcommerce.csv:114
-msgid "Store name:"
-msgstr "Nom de la botiga:"
-
-#: ca/mcommerce.csv:115
+msgctxt "Store successfully deleted"
 msgid "Store successfully deleted"
 msgstr "Botiga correctament"
 
-#: ca/mcommerce.csv:116
+msgctxt "Store successfully saved"
 msgid "Store successfully saved"
 msgstr "Botiga salvat correctament"
 
-#: ca/mcommerce.csv:117
+msgctxt "Stored card information."
+msgid "Stored card information."
+msgstr "Botiga informació"
+
+msgctxt "Stores"
 msgid "Stores"
 msgstr "Botigues"
 
-#: ca/mcommerce.csv:118
+msgctxt "Street"
+msgid "Street"
+msgstr "Carrer"
+
+msgctxt "Stripe settings"
+msgid "Stripe settings"
+msgstr ""
+
+msgctxt "Subtotal"
 msgid "Subtotal"
 msgstr "Subtotal"
 
-#: ca/mcommerce.csv:119
+msgctxt "Subtotal Excl. Tax"
+msgid "Subtotal Excl. Tax"
+msgstr "L'impost total excl."
+
+msgctxt "Subtotal before deduction"
+msgid "Subtotal before deduction"
+msgstr ""
+
+msgctxt "Tax"
 msgid "Tax"
 msgstr "Impost"
 
-#: ca/mcommerce.csv:120
+msgctxt "Tax name"
 msgid "Tax name"
 msgstr "Nom fiscal"
 
-#: ca/mcommerce.csv:121
-msgid "Tax name:"
-msgstr "Nom fiscal:"
-
-#: ca/mcommerce.csv:122
+msgctxt "Tax rate"
 msgid "Tax rate"
 msgstr "Tipus impositiu"
 
-#: ca/mcommerce.csv:123
-msgid "Tax rate:"
-msgstr "Tipus impositiu:"
-
-#: ca/mcommerce.csv:124
+msgctxt "Tax successfully deleted"
 msgid "Tax successfully deleted"
 msgstr "Impostos suprimits amb èxit"
 
-#: ca/mcommerce.csv:125
+msgctxt "Tax successfully saved"
 msgid "Tax successfully saved"
 msgstr "Impost salvat correctament"
 
-#: ca/mcommerce.csv:126
-msgid "Tax:"
-msgstr "Fiscal:"
-
-#: ca/mcommerce.csv:127
+msgctxt "Thank you!"
 msgid "Thank you!"
 msgstr "Gràcies!"
 
-#: ca/mcommerce.csv:128
+msgctxt "The clients calculate the change:"
+msgid "The clients calculate the change:"
+msgstr ""
+
+msgctxt "The delivery method"
 msgid "The delivery method"
 msgstr "El mètode de lliurament"
 
-#: ca/mcommerce.csv:129
+msgctxt "The following options are required:<br />%s"
 msgid "The following options are required:<br />%s"
 msgstr "Les opcions següents són obligatoris: < br />%s"
 
-#: ca/mcommerce.csv:130
+msgctxt "The option %s is required"
 msgid "The option %s is required"
 msgstr "L'opció %s s'exigeix"
 
-#: ca/mcommerce.csv:131
-msgid "The payment has been cancelled, something wrong happened? Feel free to contact us"
-msgstr "El pagament ha estat cancel·lada, va passar una cosa malament? No dubti en contactar amb nosaltres"
+msgctxt ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us"
+msgid ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us"
+msgstr ""
+"El pagament ha estat cancel·lada, va passar una cosa malament? No dubti en "
+"contactar amb nosaltres"
 
-#: ca/mcommerce.csv:132
+msgctxt "The payment method"
 msgid "The payment method"
 msgstr "La forma de pagament"
 
-#: ca/mcommerce.csv:133
+msgctxt "Time in minutes"
 msgid "Time in minutes"
 msgstr "Temps en minuts"
 
-#: ca/mcommerce.csv:134
+msgctxt "Tip"
+msgid "Tip"
+msgstr ""
+
+msgctxt "Total"
 msgid "Total"
 msgstr "Total"
 
-#: ca/mcommerce.csv:135
+msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "L'impost total excl."
 
-#: ca/mcommerce.csv:136
+msgctxt "Total Tax"
 msgid "Total Tax"
 msgstr "Total impostos"
 
-#: ca/mcommerce.csv:137
+msgctxt "Total: %s"
 msgid "Total: %s"
 msgstr "Total: %s"
 
-#: ca/mcommerce.csv:138
+msgctxt "Unable to proceed to checkout the minimum order amount is %s"
+msgid "Unable to proceed to checkout the minimum order amount is %s"
+msgstr ""
+
+msgctxt "Unit Price"
 msgid "Unit Price"
 msgstr "Preu unitari"
 
-#: ca/mcommerce.csv:139
+msgctxt "Unit price"
 msgid "Unit price"
 msgstr "Preu unitari"
 
-#: ca/mcommerce.csv:140
+msgctxt "Updating price"
+msgid "Updating price"
+msgstr ""
+
+msgctxt "Usable once"
+msgid "Usable once"
+msgstr ""
+
+msgctxt "Use:"
+msgid "Use:"
+msgstr "Usuari"
+
+msgctxt "Use my points?"
+msgid "Use my points?"
+msgstr "Utilitzem els punts"
+
+msgctxt "Username"
 msgid "Username"
 msgstr "Nom d'usuari"
 
-#: ca/mcommerce.csv:141
-msgid "Username:"
-msgstr "Nom d'usuari:"
+msgctxt "Validity date"
+msgid "Validity date"
+msgstr ""
 
-#: ca/mcommerce.csv:142
+msgctxt "Validity date should be a valid date"
+msgid "Validity date should be a valid date"
+msgstr ""
+
+msgctxt "Verify Key:"
+msgid "Verify Key:"
+msgstr ""
+
+msgctxt "Waiting for payment"
+msgid "Waiting for payment"
+msgstr ""
+
+msgctxt "We apologize but the payment method %s is currently not available"
 msgid "We apologize but the payment method %s is currently not available"
-msgstr "Demanem disculpes, però el mètode de pagament %s actualment no està disponible"
+msgstr ""
+"Demanem disculpes, però el mètode de pagament %s actualment no està "
+"disponible"
 
-#: ca/mcommerce.csv:143
+msgctxt "We thank you for your order. A confirmation email has been sent"
 msgid "We thank you for your order. A confirmation email has been sent"
-msgstr "Et donem gràcies per la teva comanda. S'ha enviat un email de confirmació"
+msgstr ""
+"Et donem gràcies per la teva comanda. S'ha enviat un email de confirmació"
 
-#: ca/mcommerce.csv:144
+msgctxt "YYYY"
+msgid "YYYY"
+msgstr ""
+
+msgctxt "You did not login."
+msgid "You did not login."
+msgstr ""
+
+msgctxt "You don't have any categories yet"
 msgid "You don't have any categories yet"
 msgstr "Encara no tens cap categories"
 
-#: ca/mcommerce.csv:145
+msgctxt "You don't have enough points"
+msgid "You don't have enough points"
+msgstr ""
+
+msgctxt "You have a connected printer? Enter the email address"
 msgid "You have a connected printer? Enter the email address"
-msgstr "Vostè té una impressora connectada? Introduïu l'adreça de correu electrònic"
+msgstr ""
+"Vostè té una impressora connectada? Introduïu l'adreça de correu electrònic"
 
-#: ca/mcommerce.csv:146
+msgctxt "You have a connected printer? Enter the email address for each store"
 msgid "You have a connected printer? Enter the email address for each store"
-msgstr "Vostè té una impressora connectada? Introduïu l'adreça de correu electrònic per a cada botiga"
+msgstr ""
+"Vostè té una impressora connectada? Introduïu l'adreça de correu electrònic "
+"per a cada botiga"
 
-#: ca/mcommerce.csv:147
+msgctxt "You have to choose a delivery method."
+msgid "You have to choose a delivery method."
+msgstr "Si us plau, escolliu un mètode de lliurament"
+
+msgctxt "You must be logged in to continue"
+msgid "You must be logged in to continue"
+msgstr "Has d'iniciar sessió per escriure un comentari"
+
+msgctxt "You used the code before"
+msgid "You used the code before"
+msgstr ""
+
+msgctxt "Your address"
 msgid "Your address"
 msgstr "L'adreça"
 
-#: ca/mcommerce.csv:148
+msgctxt "Your email address"
 msgid "Your email address"
 msgstr "L'adreça electrònica"
 
-#: ca/mcommerce.csv:149
+msgctxt "Your firstname"
 msgid "Your firstname"
 msgstr "El vostre nom"
 
-#: ca/mcommerce.csv:150
+msgctxt "Your lastname"
 msgid "Your lastname"
 msgstr "El seu cognom"
 
-#: ca/mcommerce.csv:151
+msgctxt "Your phone number"
 msgid "Your phone number"
 msgstr "El seu número de telèfon"
 
-#: ca/mcommerce.csv:152
+msgctxt "e.g., Sauces"
 msgid "e.g., Sauces"
 msgstr "per exemple, salses"
+
+msgctxt "(filtered from _MAX_ total entries)"
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+msgctxt "%s - Customer Service"
+msgid "%s - Customer Service"
+msgstr "%s - atenció al client"
+
+msgctxt "without taxes"
+msgid "without taxes"
+msgstr ""
+
+msgctxt "your choice"
+msgid "your choice"
+msgstr ""

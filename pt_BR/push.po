@@ -1,118 +1,186 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
+"siberian/push/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: pt_BR/push.csv:1
+msgctxt "Additionnal Information"
 msgid "Additionnal Information"
 msgstr "Informações adicionais"
 
-#: pt_BR/push.csv:2
+msgctxt "An error occurred while deleting the push. Please try again later."
+msgid "An error occurred while deleting the push. Please try again later."
+msgstr ""
+"Ocorreu um erro ao excluir esta resposta. Por favor, tente novamente mais "
+"tarde."
+
+msgctxt "And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "E um raio (emKm):"
 
-#: pt_BR/push.csv:3
+msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-#: pt_BR/push.csv:4
+msgctxt "Creation date"
 msgid "Creation date"
 msgstr "Data de criação"
 
-#: pt_BR/push.csv:5
+msgctxt "Custom URL"
+msgid "Custom URL"
+msgstr ""
+
+msgctxt "Enter a location:"
 msgid "Enter a location:"
 msgstr "Digite um local:"
 
-#: pt_BR/push.csv:6
+msgctxt "GCM Key"
 msgid "GCM Key"
 msgstr "GCM Key"
 
-#: pt_BR/push.csv:7
+msgctxt "I want to send it"
 msgid "I want to send it"
 msgstr "Eu quero enviar"
 
-#: pt_BR/push.csv:8
+msgctxt "Keys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Chaves salvas com sucesso"
 
-#: pt_BR/push.csv:9
+msgctxt "Message"
 msgid "Message"
 msgstr "Mensagem"
 
-#: pt_BR/push.csv:10
-msgid "Message:"
-msgstr "Mensagem:"
+msgctxt "No device found for this user"
+msgid "No device found for this user"
+msgstr ""
 
-#: pt_BR/push.csv:11
+msgctxt "No items."
+msgid "No items."
+msgstr ""
+
+msgctxt "Open a feature or a custom URL"
+msgid "Open a feature or a custom URL"
+msgstr ""
+
+msgctxt "Pending"
 msgid "Pending"
 msgstr "Pendente"
 
-#: pt_BR/push.csv:12
+msgctxt "Please enter an expiration date for your message:"
+msgid "Please enter an expiration date for your message:"
+msgstr ""
+
+msgctxt "Project Number"
+msgid "Project Number"
+msgstr ""
+
+msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "Notificações Push"
 
-#: pt_BR/push.csv:13
+msgctxt "Push Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Configurações de Notificação Push"
 
-#: pt_BR/push.csv:14
+msgctxt "Push successfully deleted."
+msgid "Push successfully deleted."
+msgstr "Usuário excluído com sucesso"
+
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Raio"
 
-#: pt_BR/push.csv:15
+msgctxt "Send to a specific location"
 msgid "Send to a specific location"
 msgstr "Enviar para um local específico"
 
-#: pt_BR/push.csv:16
+msgctxt "Send to all applications"
+msgid "Send to all applications"
+msgstr ""
+
+msgctxt "Send to all my users"
 msgid "Send to all my users"
 msgstr "Enviar para todos os usuários"
 
-#: pt_BR/push.csv:17
-msgid "Sender ID"
-msgstr "Enviar ID"
+msgctxt "Send to no specific locations"
+msgid "Send to no specific locations"
+msgstr "Enviar para um local específico"
 
-#: pt_BR/push.csv:18
+msgctxt "Send to specific topics"
+msgid "Send to specific topics"
+msgstr "Enviar para um local específico"
+
+msgctxt "Send to specific users"
+msgid "Send to specific users"
+msgstr ""
+
+msgctxt "Sending date"
 msgid "Sending date"
 msgstr "Enviando data"
 
-#: pt_BR/push.csv:19
+msgctxt "The duration limit must be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "O limite de duração deve ser maior do que a data de envio"
 
-#: pt_BR/push.csv:20
+msgctxt "Topics"
+msgid "Topics"
+msgstr ""
+
+msgctxt "Users"
+msgid "Users"
+msgstr "Usuários"
+
+msgctxt "You must choose a topic before sending your message."
+msgid "You must choose a topic before sending your message."
+msgstr ""
+
+msgctxt "You must choose at least one user before sending your message."
+msgid "You must choose at least one user before sending your message."
+msgstr ""
+
+msgctxt "Your app must be published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "Seu aplicativo deve ser publicado para enviar uma notificação de envio."
 
-#: pt_BR/push.csv:21
-msgid "Your message has been saved successfully and will be sent at the entered date"
-msgstr "Sua mensagem foi salva com sucesso e será enviado na data que você digitou."
+msgctxt "Your message has been saved successfully."
+msgid "Your message has been saved successfully."
+msgstr "O seu cartão de fidelidade foi salvo com sucesso"
 
-#: pt_BR/push.csv:22
-msgid "Your message has been saved successfully and will be sent in a few minutes"
+msgctxt ""
+"Your message has been saved successfully and will be sent at the entered date"
+msgid ""
+"Your message has been saved successfully and will be sent at the entered date"
+msgstr ""
+"Sua mensagem foi salva com sucesso e será enviado na data que você digitou."
+
+msgctxt ""
+"Your message has been saved successfully and will be sent in a few minutes"
+msgid ""
+"Your message has been saved successfully and will be sent in a few minutes"
 msgstr "Sua mensagem foi salva com sucesso e será enviada em poucos minutos"
 
-#: pt_BR/push.csv:23
+msgctxt "and users entering the area"
 msgid "and users entering the area"
 msgstr "e os usuários que entrarem na área"
 
-#: pt_BR/push.csv:24
+msgctxt "for a limited period"
 msgid "for a limited period"
 msgstr "por um período limitado"
 
-#: pt_BR/push.csv:25
+msgctxt "now"
 msgid "now"
 msgstr "agora"
 
-#: pt_BR/push.csv:26
+msgctxt "on a specific date"
 msgid "on a specific date"
 msgstr "em uma data específica"

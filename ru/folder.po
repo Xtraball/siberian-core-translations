@@ -1,74 +1,142 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/folder/"
+"ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/folder.csv:1
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Добавить страницу"
 
-#: ru/folder.csv:2
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr ""
+
+msgctxt "Allow line return in Title & Subtitles"
+msgid "Allow line return in Title & Subtitles"
+msgstr ""
+
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr ""
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Отменить"
+
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Нажмите на"
 
-#: ru/folder.csv:3
-msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-msgstr "Нажмите на странице, чтобы добавить его в папку <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Нажмите на странице, чтобы добавить его в папку"
 
-#: ru/folder.csv:4
+msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Нажмите на странице, чтобы добавить его в папку"
 
-#: ru/folder.csv:5
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgid ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgstr ""
+"Нажмите на странице, чтобы добавить его в папку <span id=\"folder_name\" "
+"class=\"folder_name\">\"%s\"</span>"
+
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Закрыть моб. дисплей"
 
-#: ru/folder.csv:6
+msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Удалить эту папку и все вложенные папки?"
 
-#: ru/folder.csv:7
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr ""
+
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr ""
+
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Требуется дать название папки"
 
-#: ru/folder.csv:8
+msgctxt "Folders"
 msgid "Folders"
 msgstr "Папки"
 
-#: ru/folder.csv:9
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr ""
+
+msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Моб. дисплей"
 
-#: ru/folder.csv:10
+msgctxt "New folder"
 msgid "New folder"
 msgstr "Новая папка"
 
-#: ru/folder.csv:11
-msgid "Subtitle"
-msgstr "Подзаголовок"
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr ""
 
-#: ru/folder.csv:12
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr ""
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr ""
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr ""
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr ""
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Показать статью"
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr ""
+
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Вы не можете добавить эту функцию"
 
-#: ru/folder.csv:13
+msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Вы должны сначала завершить текущий процесс по созданию категории"
 
-#: ru/folder.csv:14
+msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Вы можете потерять все не сохраненные изменения!"
 
-#: ru/folder.csv:15
+msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "добавить папку."

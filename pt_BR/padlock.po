@@ -1,58 +1,73 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
+"siberian/padlock/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: pt_BR/padlock.csv:1
-msgid "Lock the entire application?"
-msgstr "Bloquear o aplicativo inteiro?"
-
-#: pt_BR/padlock.csv:2
-msgid "Choose the features to lock:"
-msgstr "Escolha os recursos para bloquear:"
-
-#: pt_BR/padlock.csv:3
-msgid "Restrict Access"
-msgstr "Acesso Restrito"
-
-#: pt_BR/padlock.csv:4
-msgid "Allow all the users by default:"
-msgstr "Permitir todos os usuários por padrão:"
-
-#: pt_BR/padlock.csv:5
-msgid "the gender"
-msgstr "Sexo"
-
-#: pt_BR/padlock.csv:6
-msgid "the first name"
-msgstr "Nome"
-
-#: pt_BR/padlock.csv:7
-msgid "the last name"
-msgstr "Sobrenome"
-
-#: pt_BR/padlock.csv:8
-msgid "the email address"
-msgstr "Endereço de e-mail"
-
-#: pt_BR/padlock.csv:9
-msgid "the password"
-msgstr "senha"
-
-#: pt_BR/padlock.csv:10
+msgctxt "Access restricted to authorized members only"
 msgid "Access restricted to authorized members only"
 msgstr "Acesso restrito a membros autorizados apenas"
 
-#: pt_BR/padlock.csv:11
-msgid "We are sorry but your account does not have enough permissions to access this page"
-msgstr "Lamentamos, mas a sua conta não tem permissões suficientes para acessar este recurso."
+msgctxt "Allow all the users by default:"
+msgid "Allow all the users by default:"
+msgstr "Permitir todos os usuários por padrão:"
+
+msgctxt "Choose the features to lock:"
+msgid "Choose the features to lock:"
+msgstr "Escolha os recursos para bloquear:"
+
+msgctxt "Lock the entire application?"
+msgid "Lock the entire application?"
+msgstr "Bloquear o aplicativo inteiro?"
+
+msgctxt "Restrict Access"
+msgid "Restrict Access"
+msgstr "Acesso Restrito"
+
+msgctxt "Scan now to unlock"
+msgid "Scan now to unlock"
+msgstr ""
+
+msgctxt "Unlock by:"
+msgid "Unlock by:"
+msgstr ""
+
+msgctxt ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
+msgid ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
+msgstr ""
+"Lamentamos, mas a sua conta não tem permissões suficientes para acessar este "
+"recurso."
+
+msgctxt "the email address"
+msgid "the email address"
+msgstr "Endereço de e-mail"
+
+msgctxt "the first name"
+msgid "the first name"
+msgstr "Nome"
+
+msgctxt "the gender"
+msgid "the gender"
+msgstr "Sexo"
+
+msgctxt "the last name"
+msgid "the last name"
+msgstr "Sobrenome"
+
+msgctxt "the password"
+msgid "the password"
+msgstr "senha"

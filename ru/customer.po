@@ -1,186 +1,227 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/customer/"
+"ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/customer.csv:1
-msgid "%s - Account creation"
-msgstr "%s - Создание учетной записи"
-
-#: ru/customer.csv:2
-msgid "%s - Your new password"
-msgstr "%s  - Твой новый пароль"
-
-#: ru/customer.csv:3
+msgctxt "A request to reset your password has been made."
 msgid "A request to reset your password has been made."
 msgstr "Запрос для сброса пароля был сделан."
 
-#: ru/customer.csv:4
-msgid "An error occurred while connecting to your Facebook account. Please try again later"
-msgstr "Произошла ошибка при подключении к вашей учетной записи Facebook. Пожалуйста, повторите попытку позже."
+msgctxt ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgid ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgstr ""
+"Произошла ошибка при подключении к вашей учетной записи Facebook. "
+"Пожалуйста, повторите попытку позже."
 
-#: ru/customer.csv:5
+msgctxt "Are you sure you want to remove this user?"
 msgid "Are you sure you want to remove this user?"
 msgstr "Вы уверены, что хотите удалить этого пользователя?"
 
-#: ru/customer.csv:6
+msgctxt "Change Password"
 msgid "Change Password"
 msgstr "Изменить Пароль"
 
-#: ru/customer.csv:7
+msgctxt "Civility"
+msgid "Civility"
+msgstr ""
+
+msgctxt "Congratulations,"
 msgid "Congratulations,"
 msgstr "Поздравляю,"
 
-#: ru/customer.csv:8
+msgctxt "Create"
 msgid "Create"
 msgstr "Создать"
 
-#: ru/customer.csv:9
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Создание нового пользователя"
 
-#: ru/customer.csv:10
-msgid "Create an account"
-msgstr "Создать аккаунт"
-
-#: ru/customer.csv:11
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Клиент"
 
-#: ru/customer.csv:12
+msgctxt "Customers"
 msgid "Customers"
 msgstr "Клиенты"
 
-#: ru/customer.csv:13
+msgctxt "Disconnect"
 msgid "Disconnect"
 msgstr "Отключать"
 
-#: ru/customer.csv:14
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Редактирование пользователя %s"
 
-#: ru/customer.csv:15
+msgctxt "First name"
 msgid "First name"
 msgstr "Имя"
 
-#: ru/customer.csv:16
-msgid "Forgot your password?"
-msgstr "Забыли пароль?"
-
-#: ru/customer.csv:17
-msgid "Gender"
-msgstr "Пол"
-
-#: ru/customer.csv:18
+msgctxt "Here are your credentials:"
 msgid "Here are your credentials:"
 msgstr "Вот ваши полномочия:"
 
-#: ru/customer.csv:19
-msgid "I accept the <u>privacy policy</u>"
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
 msgstr "Я принимаю <u> политику конфиденциальности </u>"
 
-#: ru/customer.csv:20
+msgctxt "If you encounter any problems, do not hesitate to contact us:"
 msgid "If you encounter any problems, do not hesitate to contact us:"
 msgstr "Если у вас возникли проблемы, не стесняйтесь обращаться к нам:"
 
-#: ru/customer.csv:21
+msgctxt "Last name"
 msgid "Last name"
 msgstr "Фамилия"
 
-#: ru/customer.csv:22
+msgctxt "Login:"
 msgid "Login:"
 msgstr "Логин"
 
-#: ru/customer.csv:23
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr ""
+
+msgctxt "Miss"
 msgid "Miss"
 msgstr "Мисс"
 
-#: ru/customer.csv:24
+msgctxt "Mr"
 msgid "Mr"
 msgstr "Мистер"
 
-#: ru/customer.csv:25
+msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Миссис"
 
-#: ru/customer.csv:26
+msgctxt "My Account"
 msgid "My Account"
 msgstr "Мой аккаунт"
 
-#: ru/customer.csv:27
+msgctxt "My application's users"
 msgid "My application's users"
 msgstr "Пользователи моего приложения"
 
-#: ru/customer.csv:28
-msgid "Old Password"
-msgstr "Старый пароль"
+msgctxt "No user for now."
+msgid "No user for now."
+msgstr ""
 
-#: ru/customer.csv:29
+msgctxt "No user match your request."
+msgid "No user match your request."
+msgstr ""
+
+msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "Или с вашего счета"
 
-#: ru/customer.csv:30
-msgid "Please enter your email address. We'll send you your password right now."
-msgstr "Пожалуйста, введите Ваш адрес электронной почты. Мы вышлем вам пароль сейчас."
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
+msgstr ""
+"Пожалуйста, введите Ваш адрес электронной почты. Мы вышлем вам пароль сейчас."
 
-#: ru/customer.csv:31
+msgctxt "Please log in with your mobile phone"
 msgid "Please log in with your mobile phone"
 msgstr "Пожалуйста, войдите с помощью мобильного телефона"
 
-#: ru/customer.csv:32
-msgid "Privacy Policy"
-msgstr "Политика Конфиденциальности"
-
-#: ru/customer.csv:33
+msgctxt "See you soon,"
 msgid "See you soon,"
 msgstr "Увидимся,"
 
-#: ru/customer.csv:34
+msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Покажите меня в рейтинге"
 
-#: ru/customer.csv:35
+msgctxt "The old email address does not match the entered email address."
 msgid "The old email address does not match the entered email address."
-msgstr "Старый адрес электронной почты, не соответствует введенный адрес электронной почты."
+msgstr ""
+"Старый адрес электронной почты, не соответствует введенный адрес электронной "
+"почты."
 
-#: ru/customer.csv:36
-msgid "This user can access the pages locked by the \"Locker\" feature"
-msgstr "Этот пользователь может получить доступ к страницам, заблокированных функцией \"блокировки\""
-
-#: ru/customer.csv:37
+msgctxt "This user is visible in ranking"
 msgid "This user is visible in ranking"
 msgstr "Пользователь виден в рейтинге"
 
-#: ru/customer.csv:38
+msgctxt "Title"
+msgid "Title"
+msgstr "название"
+
+msgctxt "User"
 msgid "User"
 msgstr "Пользователь"
 
-#: ru/customer.csv:39
-msgid "Users"
-msgstr "Пользователи"
-
-#: ru/customer.csv:40
+msgctxt "User Information"
 msgid "User Information"
 msgstr "Информация о пользователе"
 
-#: ru/customer.csv:41
-msgid "We are sorry but the %s account is already linked to one of our customers"
+msgctxt "Users"
+msgid "Users"
+msgstr "Пользователи"
+
+msgctxt ""
+"We are sorry but the %s account is already linked to one of our customers"
+msgid ""
+"We are sorry but the %s account is already linked to one of our customers"
 msgstr "Мы сожалеем, но счет %s уже связан с одним из наших клиентов"
 
-#: ru/customer.csv:42
-msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
-msgstr "Вы создали свой аккаунт. С этой учетной записью, вы сможете насладиться великолепными предложениеми о продаже в нашем приложении."
+msgctxt "We are sorry but this nickname is already used"
+msgid "We are sorry but this nickname is already used"
+msgstr "Мы сожалеем, но этот адрес уже используется."
 
-#: ru/customer.csv:43
+msgctxt ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgid ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgstr ""
+
+msgctxt ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgid ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgstr ""
+"Вы создали свой аккаунт. С этой учетной записью, вы сможете насладиться "
+"великолепными предложениеми о продаже в нашем приложении."
+
+msgctxt "You must agree to our privacy policy to create an account."
+msgid "You must agree to our privacy policy to create an account."
+msgstr ""
+
+msgctxt "You must fill firstname and lastname fields."
+msgid "You must fill firstname and lastname fields."
+msgstr ""
+
+msgctxt "Your account has been successfully saved"
 msgid "Your account has been successfully saved"
 msgstr "Ваша учетная запись была успешно сохранена"
+
+msgctxt "Your points"
+msgid "Your points"
+msgstr ""
+
+msgctxt "%s - Account creation"
+msgid "%s - Account creation"
+msgstr "%s - Создание учетной записи"
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr "%s  - Твой новый пароль"

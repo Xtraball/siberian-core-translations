@@ -1,7 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 11:08+0000\n"
-"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
+"Project-Id-Version: Dutch (Siberian)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/weather/nl/"
 ">\n"
 "Language: nl\n"
@@ -11,85 +14,116 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgid "Country:"
-msgstr "Land:"
+msgctxt "Astronomy"
+msgid "Astronomy"
+msgstr "Astronomie"
 
-msgid "Postal code or city"
-msgstr "Postcode of woonplaats"
+msgctxt "Atmosphere"
+msgid "Atmosphere"
+msgstr "Atmosfeer"
 
-msgid "Rising:"
-msgstr "Stijgend:"
+msgctxt "Change location"
+msgid "Change location"
+msgstr "Verander locatie"
 
+msgctxt "Chill:"
 msgid "Chill:"
 msgstr "Afkoel factor:"
 
+msgctxt "Click here to view more details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr "Klik hier voor meer informatie over het huidige weer."
 
-msgid "Sorry, but the weather service is not available for the moment. Please try again later."
+msgctxt "Country:"
+msgid "Country:"
+msgstr "Land:"
+
+msgctxt "Direction:"
+msgid "Direction:"
+msgstr "Richting:"
+
+msgctxt "Fri"
+msgid "Fri"
+msgstr "Frij"
+
+msgctxt "Humidity:"
+msgid "Humidity:"
+msgstr "Luchtvochtigheid:"
+
+msgctxt "Mon"
+msgid "Mon"
+msgstr "Maa"
+
+msgctxt "Postal code or city"
+msgid "Postal code or city"
+msgstr "Postcode of woonplaats"
+
+msgctxt "Pressure:"
+msgid "Pressure:"
+msgstr "Druk:"
+
+msgctxt "Rising:"
+msgid "Rising:"
+msgstr "Stijgend:"
+
+msgctxt "Sat"
+msgid "Sat"
+msgstr "Zat"
+
+msgctxt ""
+"Sorry, but the weather service is not available for the moment. Please try "
+"again later."
+msgid ""
+"Sorry, but the weather service is not available for the moment. Please try "
+"again later."
 msgstr ""
 "Sorry, maar de weerdienst is momenteel niet beschikbaar. Probeer het later "
 "opnieuw."
 
-msgid "Use my location"
-msgstr "Gebruik mijn locatie"
-
-msgid "Sunrise:"
-msgstr "Zonsopkomst:"
-
-msgid "Wind"
-msgstr "wind"
-
-msgid "Astronomy"
-msgstr "Astronomie"
-
-msgid "Atmosphere"
-msgstr "Atmosfeer"
-
-msgid "Change location"
-msgstr "Verander locatie"
-
-msgid "Direction:"
-msgstr "Richting:"
-
-msgid "Fri"
-msgstr "Frij"
-
-msgid "Humidity:"
-msgstr "Luchtvochtigheid:"
-
-msgid "Mon"
-msgstr "Maa"
-
-msgid "Pressure:"
-msgstr "Druk:"
-
-msgid "Sat"
-msgstr "Zat"
-
+msgctxt "Speed:"
 msgid "Speed:"
 msgstr "Snelheid:"
 
+msgctxt "Sun"
 msgid "Sun"
 msgstr "Zon"
 
+msgctxt "Sunrise:"
+msgid "Sunrise:"
+msgstr "Zonsopkomst:"
+
+msgctxt "Sunset:"
 msgid "Sunset:"
 msgstr "Zonsondergang:"
 
+msgctxt "Thu"
+msgid "Thu"
+msgstr "Don"
+
+msgctxt "Tue"
 msgid "Tue"
 msgstr "Din"
 
+msgctxt "Units:"
 msgid "Units:"
 msgstr "Eenheden:"
 
+msgctxt "Use my location"
+msgid "Use my location"
+msgstr "Gebruik mijn locatie"
+
+msgctxt "Visibility:"
 msgid "Visibility:"
 msgstr "Zichtbaarheid:"
 
+msgctxt "Weather information"
 msgid "Weather information"
 msgstr "Weersinformatie"
 
+msgctxt "Wed"
 msgid "Wed"
 msgstr "Woe"
 
-msgid "Thu"
-msgstr "Don"
+msgctxt "Wind"
+msgid "Wind"
+msgstr "wind"

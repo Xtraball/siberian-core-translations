@@ -1,74 +1,141 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Italian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian <http://yvain.xtraball.com/projects/siberian/folder/"
+"it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/folder.csv:1
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Aggiungi pagina"
 
-#: it/folder.csv:2
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr "Aggiungi funzionalità"
+
+msgctxt "Allow line return in Title & Subtitles"
+msgid "Allow line return in Title & Subtitles"
+msgstr ""
+
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr "Flaggando qui, viene visualizzato un campo di ricerca nella cartella"
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Cancella"
+
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Clucca su"
 
-#: it/folder.csv:3
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Fare clic su una funzionalità per aggiungerla alla cartella"
+
+msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Clicca sulla pagina per aggiungerla alla cartella"
 
-#: it/folder.csv:4
-msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-msgstr "Clicca sulla pagina per aggiungerla alla cartella <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgid ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgstr ""
+"Fai clic su una pagina per aggiungerla alla cartella <span id='folder_name' "
+"class='folder_name'>%s</span>"
 
-#: it/folder.csv:5
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Chiudi il display mobile"
 
-#: it/folder.csv:6
+msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Eliminare questa cartella e tutte le relative sottocartelle?"
 
-#: it/folder.csv:7
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr "Modifica cartella"
+
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr "Abilita la ricerca nelle cartelle"
+
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Il titolo della cartella è obbligatorio"
 
-#: it/folder.csv:8
+msgctxt "Folders"
 msgid "Folders"
 msgstr "Cartelle"
 
-#: it/folder.csv:9
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr "Eredita il layout globale"
+
+msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Display mobile"
 
-#: it/folder.csv:10
+msgctxt "New folder"
 msgid "New folder"
 msgstr "Nuova cartella"
 
-#: it/folder.csv:11
-msgid "Subtitle"
-msgstr "Sottotitolo"
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr "Nessun risultato per la tua richiesta."
 
-#: it/folder.csv:12
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr "Sostituisci il layout"
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr "Cerca risultati"
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr "Mostra copertina"
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr "Visualizza il campo di ricerca"
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Mostra il titolo"
+
+msgctxt "Thumbnail"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr "Usa il design card"
+
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Non puoi aggiungere questa funzione"
 
-#: it/folder.csv:13
+msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "È necessario prima completare l'attuale processo di creazione categoria"
 
-#: it/folder.csv:14
+msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Perderai tutte le modifiche non salvate, continuare?"
 
-#: it/folder.csv:15
+msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "per aggiungere una cartella."

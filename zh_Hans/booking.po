@@ -1,110 +1,111 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
+"siberian/booking/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: zh_Hans\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: zh/booking.csv:1
+msgctxt "Booking details"
 msgid "Booking details"
 msgstr "预订信息"
 
-#: zh/booking.csv:2
-msgid "Booking details:"
-msgstr "预订信息："
+msgctxt "Booking location:"
+msgid "Booking location:"
+msgstr ""
 
-#: zh/booking.csv:3
+msgctxt "Booking subject:"
 msgid "Booking subject:"
 msgstr "主题预订："
 
-#: zh/booking.csv:4
+msgctxt "Comment:"
 msgid "Comment:"
 msgstr "评论："
 
-#: zh/booking.csv:5
+msgctxt "Date and time"
 msgid "Date and time"
 msgstr "日期和时间"
 
-#: zh/booking.csv:6
-msgid "Date and time:"
-msgstr "日期和时间："
-
-#: zh/booking.csv:7
+msgctxt "Email address:"
 msgid "Email address:"
 msgstr "电子邮件地址："
 
-#: zh/booking.csv:8
+msgctxt "Enter the location name and contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "输入位置和联系人的电子邮件的名称："
 
-#: zh/booking.csv:9
+msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "名字/姓"
 
-#: zh/booking.csv:10
+msgctxt "Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "您的个人资料："
 
-#: zh/booking.csv:11
+msgctxt "Information"
+msgid "Information"
+msgstr "信息"
+
+msgctxt "Location"
+msgid "Location"
+msgstr ""
+
+msgctxt "Name:"
 msgid "Name:"
 msgstr "姓名："
 
-#: zh/booking.csv:12
-msgid "Nom du lieu :"
-msgstr ""
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "人数"
 
-#: zh/booking.csv:13
-msgid "People number:"
-msgstr "人数："
-
-#: zh/booking.csv:14
+msgctxt "Phone number:"
 msgid "Phone number:"
 msgstr "电话号码："
 
-#: zh/booking.csv:15
-msgid "Please fill out the following fields: "
-msgstr "请填写以下字段："
-
-#: zh/booking.csv:16
-msgid "Please fill out the following fields:<br />"
-msgstr "请填写以下信息：<br />"
-
-#: zh/booking.csv:17
+msgctxt "Please, choose a store"
 msgid "Please, choose a store"
 msgstr "请选择一个商店"
 
-#: zh/booking.csv:18
+msgctxt "Please fill out the following fields:"
+msgid "Please fill out the following fields:"
+msgstr "请填写以下字段："
+
+msgctxt "Please fill out the following fields:<br/>"
+msgid "Please fill out the following fields:<br/>"
+msgstr "请填写以下字段："
+
+msgctxt "Thank you for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "感谢您的要求。我们会尽快回复。"
 
-#: zh/booking.csv:19
+msgctxt "The booking information"
 msgid "The booking information"
 msgstr "预约信息"
 
-#: zh/booking.csv:20
-msgid "The booking informations"
-msgstr "预订信息"
-
-#: zh/booking.csv:21
+msgctxt "The date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "日期和预订时"
 
-#: zh/booking.csv:22
+msgctxt "The number of people"
 msgid "The number of people"
 msgstr "人数"
 
-#: zh/booking.csv:23
+msgctxt "You have received a message for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "他收到一条消息，从储备"
 
-#: zh/booking.csv:24
+msgctxt "Your name"
+msgid "Your name"
+msgstr "你的名字"
+
+msgctxt "Your phone number or email address"
 msgid "Your phone number or email address"
 msgstr "您的手机号码或电子邮件地址"

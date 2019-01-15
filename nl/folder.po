@@ -1,84 +1,141 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-15 10:33+0000\n"
-"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
+"POT-Creation-Date: 2019-01-15 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/folder/nl/>"
 "\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: nl/folder.csv:1
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Pagina toevoegen"
 
-#: nl/folder.csv:2
-msgid "Click on"
-msgstr "Klik op"
+msgctxt "Add feature"
+msgid "Add feature"
+msgstr "Toevoegen functie"
 
-#: nl/folder.csv:3
-msgid "Click on a page to add it to the folder <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
-msgstr "Klik op een pagina om deze aan een map toe te voegen <span id=\"folder_name\" class=\"folder_name\">\"%s\"</span>"
+msgctxt "Allow line return in Title & Subtitles"
+msgid "Allow line return in Title & Subtitles"
+msgstr "Toestaan lijn terug in de Titel En Ondertitels"
 
-#: nl/folder.csv:4
-msgid "Click on a page to add it to the folder"
-msgstr "Klik op een pagina om deze aan een map toe te voegen"
+msgctxt "By checking this, a search field will appear in your folder feature"
+msgid "By checking this, a search field will appear in your folder feature"
+msgstr "Door dit aan te kruisen, verschijnt een zoekveld in uw mapfunctie"
 
-#: nl/folder.csv:5
-msgid "Close mobile display"
-msgstr "Sluit mobiele weergave"
-
-#: nl/folder.csv:6
-msgid "Delete this folder and all its subfolders?"
-msgstr "Deze map en alle submappen verwijderen?"
-
-#: nl/folder.csv:7
-msgid "Folder title is required"
-msgstr "Maptitel is vereist"
-
-#: nl/folder.csv:8
-msgid "Folders"
-msgstr "Mappen"
-
-#: nl/folder.csv:9
-msgid "Mobile display"
-msgstr "Mobiele weergave"
-
-#: nl/folder.csv:10
-msgid "New folder"
-msgstr "Nieuwe map"
-
-#: nl/folder.csv:11
-msgid "Subtitle"
-msgstr "Ondertitel"
-
-#: nl/folder.csv:12
-msgid "You cannot add this feature"
-msgstr "U kunt dit kenmerk niet toevoegen"
-
-#: nl/folder.csv:13
-msgid "You must first complete the current category creation process"
-msgstr "U moet eerst het huidige categorieën creatieproces voltooien"
-
-#: nl/folder.csv:14
-msgid "You will lose all unsaved changes, continue?"
-msgstr "U verliest alle niet-opgeslagen wijzigingen, doorgaan?"
-
-#: nl/folder.csv:15
-msgid "to add a folder."
-msgstr "een map toevoegen."
-
+msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Annuleren"
 
+msgctxt "Click on"
+msgid "Click on"
+msgstr "Klik op"
+
+msgctxt "Click on a feature to add it to the folder"
+msgid "Click on a feature to add it to the folder"
+msgstr "Klik op een functie voor het toevoegen aan de map"
+
+msgctxt "Click on a page to add it to the folder"
+msgid "Click on a page to add it to the folder"
+msgstr "Klik op een pagina om deze aan een map toe te voegen"
+
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgid ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
+msgstr ""
+"Klik op een pagina om deze toe te voegen aan de map <span id='mapnaam' "
+"class='mapnaam'>%s</span>"
+
+msgctxt "Close mobile display"
+msgid "Close mobile display"
+msgstr "Sluit mobiele weergave"
+
+msgctxt "Delete this folder and all its subfolders?"
+msgid "Delete this folder and all its subfolders?"
+msgstr "Deze map en alle submappen verwijderen?"
+
+msgctxt "Edit folder"
+msgid "Edit folder"
+msgstr "Wijzig map"
+
+msgctxt "Enable search in folders"
+msgid "Enable search in folders"
+msgstr "Inschakelen zoeken in mappen"
+
+msgctxt "Folder title is required"
+msgid "Folder title is required"
+msgstr "Maptitel is vereist"
+
+msgctxt "Folders"
+msgid "Folders"
+msgstr "Mappen"
+
+msgctxt "Inherit global layout"
+msgid "Inherit global layout"
+msgstr "Algemene indeling overnemen"
+
+msgctxt "Mobile display"
+msgid "Mobile display"
+msgstr "Mobiele weergave"
+
+msgctxt "New folder"
+msgid "New folder"
+msgstr "Nieuwe map"
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr "Geen resultaten voor uw aanvraag."
+
+msgctxt "Override layout"
+msgid "Override layout"
+msgstr "Overschrijven lay-out"
+
+msgctxt "Search results"
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+msgctxt "Show cover"
+msgid "Show cover"
+msgstr "Cover"
+
+msgctxt "Show search field"
+msgid "Show search field"
+msgstr "Toon zoekveld"
+
+msgctxt "Show title"
+msgid "Show title"
+msgstr "Titel weergeven"
+
+msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr "Miniatuur"
 
-msgid "No results for your request."
-msgstr "Geen resultaten voor uw aanvraag."
+msgctxt "Use card design"
+msgid "Use card design"
+msgstr "Gebruik het ontwerp van de kaart"
+
+msgctxt "You cannot add this feature"
+msgid "You cannot add this feature"
+msgstr "U kunt dit kenmerk niet toevoegen"
+
+msgctxt "You must first complete the current category creation process"
+msgid "You must first complete the current category creation process"
+msgstr "U moet eerst het huidige categorieën creatieproces voltooien"
+
+msgctxt "You will lose all unsaved changes, continue?"
+msgid "You will lose all unsaved changes, continue?"
+msgstr "U verliest alle niet-opgeslagen wijzigingen, doorgaan?"
+
+msgctxt "to add a folder."
+msgid "to add a folder."
+msgstr "een map toevoegen."

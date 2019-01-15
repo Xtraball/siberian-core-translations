@@ -1,18 +1,91 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/template/"
+"ca/>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ca\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ca/template.csv:1
+msgctxt "All"
+msgid "All"
+msgstr "tots"
+
+msgctxt "Arts"
+msgid "Arts"
+msgstr ""
+
+msgctxt "Choose a template to customize"
+msgid "Choose a template to customize"
+msgstr "Trieu una plantilla de personalitzar"
+
+msgctxt "City"
+msgid "City"
+msgstr "Ciutat"
+
+msgctxt "Corporate"
+msgid "Corporate"
+msgstr ""
+
+msgctxt "Design"
+msgid "Design"
+msgstr "Disseny"
+
+msgctxt "Education"
+msgid "Education"
+msgstr "Educació"
+
+msgctxt "Entertainment"
+msgid "Entertainment"
+msgstr "Entreteniment"
+
+msgctxt "Fashion"
+msgid "Fashion"
+msgstr ""
+
+msgctxt "Health & Beauty"
+msgid "Health & Beauty"
+msgstr ""
+
+msgctxt "Hotels"
+msgid "Hotels"
+msgstr ""
+
+msgctxt "List of your categories"
+msgid "List of your categories"
+msgstr ""
+
+msgctxt "Local Business"
+msgid "Local Business"
+msgstr ""
+
+msgctxt "Music"
+msgid "Music"
+msgstr "música"
+
+msgctxt "Organizations"
+msgid "Organizations"
+msgstr ""
+
+msgctxt "Real Estate"
+msgid "Real Estate"
+msgstr ""
+
+msgctxt "Sports"
+msgid "Sports"
+msgstr "Esports"
+
+msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "PLANTILLES"
+
+msgctxt "Templates"
+msgid "Templates"
+msgstr ""

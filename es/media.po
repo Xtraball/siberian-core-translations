@@ -1,126 +1,422 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/media/es/"
+">\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: es/media.csv:1
-msgid "Parameter"
-msgstr "Parámetros"
+msgctxt "+ Add a track"
+msgid "+ Add a track"
+msgstr "+ Añadir una pista"
 
-#: es/media.csv:2
-msgid "Send your pictures"
-msgstr "Envíe sus imágenes"
+msgctxt "Add albums and tracks to the playlist:"
+msgid "Add albums and tracks to the playlist:"
+msgstr "Añadir albums y pistas a la lista de reproducción:"
 
-#: es/media.csv:3
-msgid "User"
-msgstr "Usuario"
+msgctxt "Album"
+msgid "Album"
+msgstr "Album"
 
-#: es/media.csv:4
-msgid "Gallery Name"
-msgstr "Nombre de la galería"
+msgctxt "Albums"
+msgid "Albums"
+msgstr "Albums"
 
-#: es/media.csv:5
+msgctxt ""
+"An error occurred while deleting you images gallery. Please try again later."
+msgid ""
+"An error occurred while deleting you images gallery. Please try again later."
+msgstr ""
+"Se ha producido un error al eliminar su galería de imágenes. Por favor "
+"inténtelo de nuevo más tarde "
+
+msgctxt "An error occurred while deleting your album. Thanks for trying later."
+msgid "An error occurred while deleting your album. Thanks for trying later."
+msgstr "Se produjo un error borrando su album. Por favor, inténtelo más tarde."
+
+msgctxt ""
+"An error occurred while deleting your playlist. Thanks for trying later."
+msgid ""
+"An error occurred while deleting your playlist. Thanks for trying later."
+msgstr ""
+"Se produjo un error eliminando su lista de reproducción. Por favor, "
+"inténtelo más tarde."
+
+msgctxt "An error occurred while deleting your track. Thanks for trying later."
+msgid "An error occurred while deleting your track. Thanks for trying later."
+msgstr "Se produjo un error borrando su album. Por favor, inténtelo más tarde."
+
+msgctxt "An error occurred while loading pictures. Please try later."
+msgid "An error occurred while loading pictures. Please try later."
+msgstr ""
+"Se ha producido un error al cargar imágenes. Por favor inténtelo de nuevo "
+"más tarde"
+
+msgctxt "An error occurred while loading the media."
+msgid "An error occurred while loading the media."
+msgstr "Error mientras se cargaba el elemento."
+
+msgctxt "An error occurred while loading the radio."
+msgid "An error occurred while loading the radio."
+msgstr "Error mientras se cargaba la radio."
+
+msgctxt "An error occurred while loading videos. Please try later."
+msgid "An error occurred while loading videos. Please try later."
+msgstr ""
+"Se ha producido un error al cargar los vídeos. Por favor inténtelo de nuevo "
+"más tarde"
+
+msgctxt ""
+"An error occurred while retrieving your page. Please check your page id."
+msgid ""
+"An error occurred while retrieving your page. Please check your page id."
+msgstr ""
+"Ha ocurrido un error mientras se solicitaba la página. Por favor comprueba "
+"tu ID de página."
+
+msgctxt ""
+"An error occurred while saving your images gallery. Please try again later."
+msgid ""
+"An error occurred while saving your images gallery. Please try again later."
+msgstr ""
+"Se ha producido un error al guardar su galería de imágenes. Por favor "
+"inténtelo de nuevo más tarde "
+
+msgctxt "An error occurred while saving your playlist. Thanks for trying later."
+msgid "An error occurred while saving your playlist. Thanks for trying later."
+msgstr ""
+"Se produjo un error guardando su lista de reproducción. Por favor, inténtelo "
+"más tarde."
+
+msgctxt ""
+"An error occurred while saving your videos gallery. Please try again later."
+msgid ""
+"An error occurred while saving your videos gallery. Please try again later."
+msgstr ""
+"Se ha producido un error al guardar su galería de vídeos . Por favor "
+"inténtelo de nuevo más tarde"
+
+msgctxt "Are you sure you don't want to create an album for these tracks?"
+msgid "Are you sure you don't want to create an album for these tracks?"
+msgstr "Está seguro de que no quiere crear un album para estas pistas ?"
+
+msgctxt "Are you sure you don't want to create an album for this track?"
+msgid "Are you sure you don't want to create an album for this track?"
+msgstr "Está seguro de que no quiere crear un album para esta pista ?"
+
+msgctxt "Are you sure you want to delete this album?"
+msgid "Are you sure you want to delete this album?"
+msgstr "Está seguro de que desea eliminar este album ?"
+
+msgctxt "Are you sure you want to delete this album (this won't delete tracks)?"
+msgid "Are you sure you want to delete this album (this won't delete tracks)?"
+msgstr ""
+"Está seguro de que desea borrar este album (esta acción no va a eliminar "
+"pistas) ?"
+
+msgctxt "Are you sure you want to delete this playlist?"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Está seguro de que desea eliminar esta lista de reproducción ?"
+
+msgctxt "Are you sure you want to delete this track?"
+msgid "Are you sure you want to delete this track?"
+msgstr "Está seguro de que desea eliminar esta pista ?"
+
+msgctxt "Artist:"
+msgid "Artist:"
+msgstr "Artista:"
+
+msgctxt "Audio"
+msgid "Audio"
+msgstr "Audio & Música"
+
+msgctxt "Channel"
+msgid "Channel"
+msgstr "Canal"
+
+msgctxt "Choose an album"
 msgid "Choose an album"
 msgstr "Elija un album"
 
-#: es/media.csv:6
-msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
-msgstr "Tamaño máximo: 2000 * 2000 píxeles - tipos de archivo permitidos : jpg y png"
+msgctxt "Custom"
+msgid "Custom"
+msgstr "Personalizado"
 
-#: es/media.csv:7
-msgid "Description:"
-msgstr "Descripción :"
-
-#: es/media.csv:8
-msgid "Required field"
-msgstr "Este campos es obligatorio"
-
-#: es/media.csv:9
+msgctxt "Delete this gallery?"
 msgid "Delete this gallery?"
 msgstr "¿Desea eliminar esta galería?"
 
-#: es/media.csv:10
-msgid "Title:"
-msgstr "Título:"
+msgctxt "Facebook page ID"
+msgid "Facebook page ID"
+msgstr "ID página Facebook"
 
-#: es/media.csv:11
-msgid "Search"
-msgstr "Buscar"
-
-#: es/media.csv:12
-msgid "Gallery Name <span class=\"required-entry\">*</span> :"
-msgstr "Nombre de la galería <span class=\"required-entry\">*</span> :"
-
-#: es/media.csv:13
+msgctxt "Feed URL"
 msgid "Feed URL"
 msgstr "URL de su Feed RSS"
 
-#: es/media.csv:14
-msgid "Feed URL <span class=\"required-entry\">*</span> :"
-msgstr "URL de su Feed RSS <span class=\"required-entry\">*</span> :"
+msgctxt "Flickr"
+msgid "Flickr"
+msgstr "Flickr"
 
-#: es/media.csv:15
-msgid "Parameter/Feed Url"
-msgstr "Parametro/Url de su Feed RSS"
+msgctxt "Flickr API settings can't be found."
+msgid "Flickr API settings can't be found."
+msgstr "Configuración API de Flickr no encontrada."
 
-#: es/media.csv:16
-msgid "Search/Url"
-msgstr "Buscar/Url"
+msgctxt "Flickr user"
+msgid "Flickr user"
+msgstr "Usuario Flickr"
 
-#: es/media.csv:17
-msgid "More pictures"
-msgstr "Más imágenes"
+msgctxt "Gallery Name"
+msgid "Gallery Name"
+msgstr "Nombre de la galería"
 
-#: es/media.csv:18
-msgid "No pictures matching your selection"
-msgstr "No hay imágenes que coincidan con su selección"
+msgctxt "Group"
+msgid "Group"
+msgstr "Grupo"
 
-#: es/media.csv:19
-msgid "An error occurred while loading pictures. Please try later."
-msgstr "Se ha producido un error al cargar imágenes. Por favor inténtelo de nuevo más tarde"
+msgctxt "If set, will appear instead of the Facebook page Id in app."
+msgid "If set, will appear instead of the Facebook page Id in app."
+msgstr ""
+"Si se establece, aparecerá en lugar del Id de página de Facebook en la "
+"aplicación."
 
-#: es/media.csv:20
-msgid "More videos"
-msgstr "Más vídeos"
+msgctxt "I'm listening to"
+msgid "I'm listening to"
+msgstr "Estoy escuchando "
 
-#: es/media.csv:21
-msgid "No videos matching your selection"
-msgstr "No hay vídeos que coincidan con su selección"
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "Estoy escuchando a $1 de $2 en la app $3 ."
 
-#: es/media.csv:22
-msgid "An error occurred while loading videos. Please try later."
-msgstr "Se ha producido un error al cargar los vídeos. Por favor inténtelo de nuevo más tarde"
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr "Estoy escuchando a $1 en la app $2 ."
 
-#: es/media.csv:23
-msgid "The entered name is not a valid Instagram user."
-msgstr "El nombre ingresado no es un usuario de Instagram válido."
-
-#: es/media.csv:24
-msgid "An error occurred while saving your images gallery. Please try again later."
-msgstr "Se ha producido un error al guardar su galería de imágenes. Por favor inténtelo de nuevo más tarde "
-
-#: es/media.csv:25
+msgctxt "Images gallery has been saved successfully"
 msgid "Images gallery has been saved successfully"
 msgstr "Su galería de imágenes ha sido guardada correctamente"
 
-#: es/media.csv:26
-msgid "An error occurred while deleting you images gallery. Please try again later."
-msgstr "Se ha producido un error al eliminar su galería de imágenes. Por favor inténtelo de nuevo más tarde "
+msgctxt "Instagram"
+msgid "Instagram"
+msgstr "Instagram"
 
-#: es/media.csv:27
-msgid "An error occurred while saving your videos gallery. Please try again later."
-msgstr "Se ha producido un error al guardar su galería de vídeos . Por favor inténtelo de nuevo más tarde"
+msgctxt "Instagram API settings can't be found."
+msgid "Instagram API settings can't be found."
+msgstr "Api Instagram no encontrada."
 
-#: es/media.csv:28
+msgctxt "Last update:"
+msgid "Last update:"
+msgstr "Última actualización"
+
+msgctxt "Login"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
+msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
+msgstr ""
+"Tamaño máximo: 2000 * 2000 píxeles - tipos de archivo permitidos : jpg y png"
+
+msgctxt "My images"
+msgid "My images"
+msgstr "Mis imágenes"
+
+msgctxt "No album found"
+msgid "No album found"
+msgstr "Album no encontrado"
+
+msgctxt "No artist found"
+msgid "No artist found"
+msgstr "Artista no encontrado"
+
+msgctxt "No current stream to play so far."
+msgid "No current stream to play so far."
+msgstr "No hay streaming a reproducir ahora."
+
+msgctxt "No track found"
+msgid "No track found"
+msgstr "Pista no encontrada"
+
+msgctxt "No valid Facebook API key and secret."
+msgid "No valid Facebook API key and secret."
+msgstr "API key y secreta de Facebook no validas"
+
+msgctxt "PLAYER"
+msgid "PLAYER"
+msgstr "REPRODUCTOR"
+
+msgctxt "Page ID"
+msgid "Page ID"
+msgstr "ID de página"
+
+msgctxt "Page not found"
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+msgctxt "Parameter"
+msgid "Parameter"
+msgstr "Parámetros"
+
+msgctxt "Parameter/Feed Url"
+msgid "Parameter/Feed Url"
+msgstr "Parametro/Url de su Feed RSS"
+
+msgctxt "Picasa"
+msgid "Picasa"
+msgstr "Picasa"
+
+msgctxt "Playlist"
+msgid "Playlist"
+msgstr "Listas"
+
+msgctxt "Playlist successfully saved."
+msgid "Playlist successfully saved."
+msgstr "Listas de reproducción guardadas correctamente."
+
+msgctxt "Playlist title:"
+msgid "Playlist title:"
+msgstr "Título de la lista de reproducción:"
+
+msgctxt "Playlists"
+msgid "Playlists"
+msgstr "Listas"
+
+msgctxt "Please specify the page ID"
+msgid "Please specify the page ID"
+msgstr "Por favor especifica la ID de página"
+
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "Podcast"
+
+msgctxt "Podcast URL (iTunes format)"
+msgid "Podcast URL (iTunes format)"
+msgstr "URL del Podcast (Formato iTunes)"
+
+msgctxt "Read all"
+msgid "Read all"
+msgstr "Leer todos"
+
+msgctxt "Reload album list?"
+msgid "Reload album list?"
+msgstr "¿Recargar lista de album?"
+
+msgctxt "Required field"
+msgid "Required field"
+msgstr "Este campos es obligatorio"
+
+msgctxt "Search/Url"
+msgid "Search/Url"
+msgstr "Buscar/Url"
+
+msgctxt "The entered name is not a valid Instagram user."
+msgid "The entered name is not a valid Instagram user."
+msgstr "El nombre ingresado no es un usuario de Instagram válido."
+
+msgctxt "This element is not an album."
+msgid "This element is not an album."
+msgstr "Este elemento no es un álbum"
+
+msgctxt "Track"
+msgid "Track"
+msgstr "pista"
+
+msgctxt "Tracks"
+msgid "Tracks"
+msgstr "pistas"
+
+msgctxt "Type"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "URL (.mp3):"
+msgid "URL (.mp3):"
+msgstr "URL (.mp3):"
+
+msgctxt "Videos gallery has been saved successfully"
 msgid "Videos gallery has been saved successfully"
 msgstr "Su galería de vídeos ha sido guardada correctamente"
+
+msgctxt "Vimeo"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgctxt "buy"
+msgid "buy"
+msgstr "comprar"
+
+msgctxt "by"
+msgid "by"
+msgstr ""
+
+msgctxt "close"
+msgid "close"
+msgstr "Cerrar"
+
+msgctxt "empty"
+msgid "empty"
+msgstr "vacío"
+
+msgctxt "from"
+msgid "from"
+msgstr ""
+
+msgctxt "hide"
+msgid "hide"
+msgstr "ocultar"
+
+msgctxt "loop"
+msgid "loop"
+msgstr "bucle"
+
+msgctxt "music"
+msgid "music"
+msgstr "música"
+
+msgctxt "next"
+msgid "next"
+msgstr "siguiente"
+
+msgctxt "on"
+msgid "on"
+msgstr ""
+
+msgctxt "pause"
+msgid "pause"
+msgstr "pausa"
+
+msgctxt "play"
+msgid "play"
+msgstr "play"
+
+msgctxt "previous"
+msgid "previous"
+msgstr "Previo"
+
+msgctxt "%s by %s"
+msgid "%s by %s"
+msgstr ""
+
+msgctxt "share"
+msgid "share"
+msgstr "compartir"
+
+msgctxt "shuffle"
+msgid "shuffle"
+msgstr "mezclar"
+
+msgctxt "track"
+msgid "track"
+msgstr "pista"
+
+msgctxt "tracks"
+msgid "tracks"
+msgstr "pistas"

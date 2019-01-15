@@ -1,86 +1,315 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/system/el/>"
+"\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/system.csv:1
-msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
-msgstr "<b>Τύποι αρχείων: </b> %s<br /><b>Tamaño recomendado:</b> %s"
+msgctxt "60000 maximum allowed."
+msgid "60000 maximum allowed."
+msgstr ""
 
-#: el/system.csv:2
+msgctxt "Admob ID"
+msgid "Admob ID"
+msgstr ""
+
+msgctxt "Admob type"
+msgid "Admob type"
+msgstr ""
+
+msgctxt "Android"
+msgid "Android"
+msgstr "Android"
+
+msgctxt "App limit for displaying real data"
+msgid "App limit for displaying real data"
+msgstr ""
+
+msgctxt "Banner"
+msgid "Banner"
+msgstr ""
+
+msgctxt "Below are variables you can use to be replaced in the extent."
+msgid "Below are variables you can use to be replaced in the extent."
+msgstr ""
+
+msgctxt "Click here to force analytics computing"
+msgid "Click here to force analytics computing"
+msgstr ""
+
+msgctxt "Click here to send your favicon"
 msgid "Click here to send your favicon"
 msgstr "Προσθέστε εδώ το favicon σας"
 
-#: el/system.csv:3
+msgctxt "Click here to send your logo"
 msgid "Click here to send your logo"
 msgstr "Προσθέστε εδώ το logo σας"
 
-#: el/system.csv:4
+msgctxt "Communications"
 msgid "Communications"
 msgstr "Επικοινωνία"
 
-#: el/system.csv:5
+msgctxt "Current favicon"
 msgid "Current favicon"
 msgstr "Τρέχον favicon"
 
-#: el/system.csv:6
+msgctxt "Current logo"
 msgid "Current logo"
 msgstr "Τρέχον logo"
 
-#: el/system.csv:7
+msgctxt "Default privacy policy"
+msgid "Default privacy policy"
+msgstr ""
+
+msgctxt "Default privacy policy section for GDPR"
+msgid "Default privacy policy section for GDPR"
+msgstr ""
+
+msgctxt "Display a link to your clients to your support platform"
 msgid "Display a link to your clients to your support platform"
 msgstr "Προβολή Συνδέσμου Τεχνικής Υποστήριξης στους χρήστες σας"
 
-#: el/system.csv:8
+msgctxt "Drop your favicon here"
 msgid "Drop your favicon here"
 msgstr "Αφήστε το favicon σας εδώ"
 
-#: el/system.csv:9
+msgctxt "Drop your logo here"
 msgid "Drop your logo here"
 msgstr "Αφήστε το logo σας εδώ"
 
-#: el/system.csv:10
+msgctxt ""
+"Duration of the free trial period of your platform (in days, 0 for no free "
+"trial)."
+msgid ""
+"Duration of the free trial period of your platform (in days, 0 for no free "
+"trial)."
+msgstr ""
+
+msgctxt "Editor's Design"
+msgid "Editor's Design"
+msgstr ""
+
+msgctxt "Enter here your terms & conditions"
+msgid "Enter here your terms & conditions"
+msgstr ""
+
+msgctxt ""
+"Enter the javascript code provided by your Chat provider in order to display "
+"a Chat from the editor."
+msgid ""
+"Enter the javascript code provided by your Chat provider in order to display "
+"a Chat from the editor."
+msgstr ""
+
+msgctxt "European <b>General Data Protection Regulation (GDPR)</b>."
+msgid "European <b>General Data Protection Regulation (GDPR)</b>."
+msgstr ""
+
+msgctxt "Favicon"
+msgid "Favicon"
+msgstr ""
+
+msgctxt "Flat"
+msgid "Flat"
+msgstr ""
+
+msgctxt "Force all app to use Owner AdMob"
+msgid "Force all app to use Owner AdMob"
+msgstr ""
+
+msgctxt "Free trial period"
+msgid "Free trial period"
+msgstr ""
+
+msgctxt "Full platform owner contact"
+msgid "Full platform owner contact"
+msgstr ""
+
+msgctxt "Interstitial"
+msgid "Interstitial"
+msgstr ""
+
+msgctxt "Invalid license key"
+msgid "Invalid license key"
+msgstr ""
+
+msgctxt "Ios"
+msgid "Ios"
+msgstr ""
+
+msgctxt "License has no more activation left"
+msgid "License has no more activation left"
+msgstr ""
+
+msgctxt "License is valid"
+msgid "License is valid"
+msgstr ""
+
+msgctxt "Logo"
+msgid "Logo"
+msgstr "Λογότυπο"
+
+msgctxt ""
+"None = no sign-up form, validation = admin must validate created account, "
+"full = free sign-up"
+msgid ""
+"None = no sign-up form, validation = admin must validate created account, "
+"full = free sign-up"
+msgstr ""
+
+msgctxt "Number of typed characters:"
+msgid "Number of typed characters:"
+msgstr ""
+
+msgctxt "Online Chat"
+msgid "Online Chat"
+msgstr ""
+
+msgctxt "Platform or Whitelabel Company name"
+msgid "Platform or Whitelabel Company name"
+msgstr ""
+
+msgctxt "Platform or Whitelabel name"
+msgid "Platform or Whitelabel name"
+msgstr ""
+
+msgctxt "Privacy Settings"
+msgid "Privacy Settings"
+msgstr ""
+
+msgctxt "Publication access type"
+msgid "Publication access type"
+msgstr ""
+
+msgctxt "Sales"
 msgid "Sales"
 msgstr "Πωλήσεις"
 
-#: el/system.csv:11
+msgctxt "Sales Email Address"
 msgid "Sales Email Address"
 msgstr "E-mail Τμήματος Πωλήσεων"
 
-#: el/system.csv:12
+msgctxt "Sender's email address of the emails sent by the site to your clients"
 msgid "Sender's email address of the emails sent by the site to your clients"
 msgstr "E-mail αποστολέα για τα mails που αποστέλλονται στους χρήστες σας"
 
-#: el/system.csv:13
+msgctxt "Sender's name of the emails sent by the site to your clients"
 msgid "Sender's name of the emails sent by the site to your clients"
 msgstr "Όνομα αποστολέα για τα mails που αποστέλλονται στους χρήστες σας"
 
-#: el/system.csv:14
+msgctxt "Siberian"
+msgid "Siberian"
+msgstr ""
+
+msgctxt "Sign-up mode"
+msgid "Sign-up mode"
+msgstr ""
+
+msgctxt "Sign-up mode for your platform."
+msgid "Sign-up mode for your platform."
+msgstr ""
+
+msgctxt "Support Email Address"
 msgid "Support Email Address"
 msgstr "E-mail Τεχνικής Υποστήριξης"
 
-#: el/system.csv:15
+msgctxt "The Application name"
+msgid "The Application name"
+msgstr "Το όνομα της εφαρμογής"
+
+msgctxt ""
+"The european <b>General Data Protection Regulation (GDPR)</b> is applicable "
+"to your country, you must enable it in the privacy settings below."
+msgid ""
+"The european <b>General Data Protection Regulation (GDPR)</b> is applicable "
+"to your country, you must enable it in the privacy settings below."
+msgstr ""
+
+msgctxt "The folder /images/default is not writable."
 msgid "The folder /images/default is not writable."
 msgstr "Ο φάκελος /images/default είναι μη-εγγράψιμος."
 
-#: el/system.csv:16
+msgctxt ""
+"This number will be used to switch between demo mode and real time mode for "
+"your analytics on your dashboard"
+msgid ""
+"This number will be used to switch between demo mode and real time mode for "
+"your analytics on your dashboard"
+msgstr ""
+
+msgctxt ""
+"This privacy policy will be used for every new Application created as a "
+"template."
+msgid ""
+"This privacy policy will be used for every new Application created as a "
+"template."
+msgstr ""
+
+msgctxt ""
+"This section of the privacy policy is added when the GDPR settings are "
+"active."
+msgid ""
+"This section of the privacy policy is added when the GDPR settings are "
+"active."
+msgstr ""
+
+msgctxt "This text will appear in the checkout page. 65,000 characters max."
+msgid "This text will appear in the checkout page. 65,000 characters max."
+msgstr ""
+
+msgctxt "Users can download application sources code."
+msgid "Users can download application sources code."
+msgstr ""
+
+msgctxt "Users can generate APK"
+msgid "Users can generate APK"
+msgstr ""
+
+msgctxt "Users can not generate APK."
+msgid "Users can not generate APK."
+msgstr ""
+
+msgctxt "Users give you the required information to publish applications."
+msgid "Users give you the required information to publish applications."
+msgstr ""
+
+msgctxt "We cannot get your license information"
+msgid "We cannot get your license information"
+msgstr ""
+
+msgctxt "You can use <b>%s</b> as a dynamic variable for your application name."
+msgid "You can use <b>%s</b> as a dynamic variable for your application name."
+msgstr ""
+
+msgctxt "Your Applications"
+msgid "Your Applications"
+msgstr "Οι εφαρμογές μου"
+
+msgctxt "Your CMS License Key"
+msgid "Your CMS License Key"
+msgstr ""
+
+msgctxt "Your Location"
 msgid "Your Location"
 msgstr "Τοποθεσία"
 
-#: el/system.csv:17
+msgctxt "Your Platform"
 msgid "Your Platform"
 msgstr "Πλατφόρμα"
 
-#: el/system.csv:18
+msgctxt "Your company"
 msgid "Your company"
 msgstr "Εταιρεία"
+
+msgctxt "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgid "<b>File types:</b> %s<br /><b>Recommended size:</b> %s"
+msgstr "<b>Τύποι αρχείων: </b> %s<br /><b>Tamaño recomendado:</b> %s"

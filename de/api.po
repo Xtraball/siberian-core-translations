@@ -1,63 +1,90 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-11 10:48+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/api/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: de/api.csv:1
+msgctxt "API Keys"
 msgid "API Keys"
 msgstr "API-Keys "
 
-#: de/api.csv:2
+msgctxt "Api Keys"
 msgid "Api Keys"
 msgstr "API-Schlüssel"
 
-#: de/api.csv:3
+msgctxt "Api Keys successfully saved"
 msgid "Api Keys successfully saved"
 msgstr "API-Schlüssel erfolgreich gespeichert"
 
-#: de/api.csv:4
-msgid "Your APIs list"
-msgstr "Ihre Liste APIs"
-
+msgctxt "Api Users"
 msgid "Api Users"
 msgstr "Api-Benutzer"
 
+msgctxt "Authenticate"
 msgid "Authenticate"
 msgstr "Authentifizieren"
 
+msgctxt "Backoffice options"
 msgid "Backoffice options"
 msgstr "Backoffice-Optionen"
 
+msgctxt "Clear cache"
 msgid "Clear cache"
 msgstr "Cache leeren"
 
+msgctxt "Clear logs"
 msgid "Clear logs"
 msgstr "Protokolle löschen"
 
+msgctxt "Create a new user"
+msgid "Create a new user"
+msgstr "Neuen Benutzer erstellen"
+
+msgctxt "Created At"
+msgid "Created At"
+msgstr "Erstellt am"
+
+msgctxt "Exists"
 msgid "Exists"
 msgstr "Existiert"
 
+msgctxt "Forgot password"
+msgid "Forgot password"
+msgstr "Passwort vergessen"
+
+msgctxt "Grant user"
 msgid "Grant user"
 msgstr "Benutzer freigeben"
 
+msgctxt "List of your users"
+msgid "List of your users"
+msgstr "Liste Ihrer Benutzer"
+
+msgctxt "Rebuild manifest"
 msgid "Rebuild manifest"
 msgstr "Manifest neu erstellen"
 
+msgctxt "Revoke user"
 msgid "Revoke user"
 msgstr "Benutzer widerrufen"
 
+msgctxt "Select API access"
 msgid "Select API access"
 msgstr "Wählen Sie den API-Zugriff aus"
 
+msgctxt "Update"
 msgid "Update"
 msgstr "Aktualisieren"
+
+msgctxt "You don't have any users yet"
+msgid "You don't have any users yet"
+msgstr "Sie haben noch keine Benutzer "

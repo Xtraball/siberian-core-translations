@@ -1,58 +1,54 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/rss/el/>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/rss.csv:1
-msgid "%s ago"
-msgstr "%s πριν"
-
-#: el/rss.csv:2
+msgctxt "An error occurred while saving your RSS feed"
 msgid "An error occurred while saving your RSS feed"
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της RSS πηγής σας"
 
-#: el/rss.csv:3
+msgctxt "Display feed pictures whenever possible"
 msgid "Display feed pictures whenever possible"
 msgstr "Προβολή εικόνων όποτε είναι εφικτό"
 
-#: el/rss.csv:4
+msgctxt "Enter the URL of this RSS feed"
 msgid "Enter the URL of this RSS feed"
 msgstr "Συμπληρώστε το URL της RSS πηγής"
 
-#: el/rss.csv:5
+msgctxt "Found feeds"
 msgid "Found feeds"
 msgstr "Ροές που βρέθηκαν"
 
-#: el/rss.csv:6
+msgctxt "No RSS feed could be found"
 msgid "No RSS feed could be found"
 msgstr "Δεν βρέθηκε RSS πηγή"
 
-#: el/rss.csv:7
+msgctxt "RSS feed successfully saved"
 msgid "RSS feed successfully saved"
 msgstr "Η RSS πηγή αποθηκεύτηκε επιτυχώς"
 
-#: el/rss.csv:8
+msgctxt "Show article"
 msgid "Show article"
 msgstr "Προβολή άρθρου"
 
-#: el/rss.csv:9
+msgctxt "day"
 msgid "day"
 msgstr "ημέρα"
 
-#: el/rss.csv:10
+msgctxt "hour"
 msgid "hour"
 msgstr "ώρα"
 
-#: el/rss.csv:11
+msgctxt "minute"
 msgid "minute"
 msgstr "λεπτό"

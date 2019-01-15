@@ -1,7 +1,10 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 10:20+0000\n"
-"Last-Translator: Dirk Brans <dirk@dbpromotie.nl>\n"
+"Project-Id-Version: Dutch (Siberian)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/mobile/nl/>"
 "\n"
 "Language: nl\n"
@@ -11,392 +14,532 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgid "Delete"
-msgstr "Verwijder"
-
-msgid "Title"
-msgstr "Titel"
-
-msgid "An error occurred while loading the media."
-msgstr "Er is een fout opgetreden tijdens het laden van de media."
-
-msgid "An error occurred while loading the radio."
-msgstr "Er is een fout opgetreden tijdens het laden van de radio."
-
-msgid "Read all"
-msgstr "Lees alles"
-
-msgid "Cancel"
-msgstr "Annuleren"
-
-msgid "Close"
-msgstr "Sluit"
-
-msgid "Firstname"
-msgstr "Voornam"
-
-msgid "Lastname"
-msgstr "Achternaam"
-
-msgid "Locate"
-msgstr "Locatie"
-
-msgid "Map"
-msgstr "Kaart"
-
+msgctxt "Access my personal data"
 msgid "Access my personal data"
 msgstr "Toegang tot mijn persoonlijke gegevens"
 
-msgid "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking your card.<br />Ask the store person for validating your point"
+msgctxt "Add a comment"
+msgid "Add a comment"
+msgstr "Voeg een reactie toe"
+
+msgctxt "Add image"
+msgid "Add image"
+msgstr "Voeg afbeelding toe"
+
+msgctxt "Add to address book"
+msgid "Add to address book"
+msgstr "Voeg toe aan adressenboek"
+
+msgctxt "Address"
+msgid "Address"
+msgstr "Adres"
+
+msgctxt "Albums"
+msgid "Albums"
+msgstr "Album"
+
+msgctxt "An error occurred while loading the media."
+msgid "An error occurred while loading the media."
+msgstr "Er is een fout opgetreden tijdens het laden van de media."
+
+msgctxt "An error occurred while loading the radio."
+msgid "An error occurred while loading the radio."
+msgstr "Er is een fout opgetreden tijdens het laden van de radio."
+
+msgctxt "An error occurred while reading the code."
+msgid "An error occurred while reading the code."
+msgstr "Er is een fout opgetreden bij het lezen van de code."
+
+msgctxt "An unexpected error occurred while calculating the route."
+msgid "An unexpected error occurred while calculating the route."
+msgstr "Er is een onverwachte fout opgetreden bij het berekenen van de route."
+
+msgctxt "Application is Locked"
+msgid "Application is Locked"
+msgstr "Applicatie is vergrendeld"
+
+msgctxt "Buffering"
+msgid "Buffering"
+msgstr "Bufferen"
+
+msgctxt "Buy Tickets"
+msgid "Buy Tickets"
+msgstr "Koop Tickets"
+
+msgctxt "Buy tickets"
+msgid "Buy tickets"
+msgstr "Koop Tickets"
+
+msgctxt "CVC ***"
+msgid "CVC ***"
+msgstr "CVC ***"
+
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgctxt "Cancel delete"
+msgid "Cancel delete"
+msgstr "Annuleer verwijderen"
+
+msgctxt "Cancel edit"
+msgid "Cancel edit"
+msgstr "Bewerken Annuleren"
+
+msgctxt "Civility"
+msgid "Civility"
+msgstr "Beleefdheid"
+
+msgctxt "Clear"
+msgid "Clear"
+msgstr "Wis"
+
+msgctxt "Click here to log-in"
+msgid "Click here to log-in"
+msgstr "Klik hier om in te loggen"
+
+msgctxt "Close"
+msgid "Close"
+msgstr "Sluit"
+
+msgctxt "Comment"
+msgid "Comment"
+msgstr "Reactie"
+
+msgctxt "Copy"
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgctxt "Create an account"
+msgid "Create an account"
+msgstr "Maak een account"
+
+msgctxt "Date and time"
+msgid "Date and time"
+msgstr "Datum en tijd"
+
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Verwijder"
+
+msgctxt "Delivery address"
+msgid "Delivery address"
+msgstr "Bezorgadres"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Omschrijving"
+
+msgctxt "Discount code"
+msgid "Discount code"
+msgstr "Kortingscode"
+
+msgctxt "Dismiss"
+msgid "Dismiss"
+msgstr "Afwijzen"
+
+msgctxt "Done"
+msgid "Done"
+msgstr "Klaar"
+
+msgctxt "Downloading..."
+msgid "Downloading..."
+msgstr "Downloaden ..."
+
+msgctxt "EXP"
+msgid "EXP"
+msgstr "EXP"
+
+msgctxt "Email"
+msgid "Email"
+msgstr "E-mail"
+
+msgctxt "Error"
+msgid "Error"
+msgstr "Fout"
+
+msgctxt "First name / Last name"
+msgid "First name / Last name"
+msgstr "Voornaam / Achternaam"
+
+msgctxt "Firstname"
+msgid "Firstname"
+msgstr "Voornam"
+
+msgctxt "Flag"
+msgid "Flag"
+msgstr "Markeer"
+
+msgctxt "Forgot your password?"
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+msgctxt "Hi. I just found: $1 in the $2 app."
+msgid "Hi. I just found: $1 in the $2 app."
+msgstr "Hoi. heb ik net gevonden: $1 op $2 app."
+
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
+msgstr "Ik ga akkoord met het Privacy Beleid"
+
+msgctxt "I just found this discount $1 in $2 app."
+msgid "I just found this discount $1 in $2 app."
+msgstr "Ik heb deze kortingsprijs $1 in $2 net gevonden."
+
+msgctxt "Identity"
+msgid "Identity"
+msgstr "Identiteit"
+
+msgctxt "I'm listening to $1 from $2 on $3 app."
+msgid "I'm listening to $1 from $2 on $3 app."
+msgstr "Ik luister naar $1 van $2 op $3 app."
+
+msgctxt "I'm listening to $1 on $2 app."
+msgid "I'm listening to $1 on $2 app."
+msgstr "Ik luister naar $1 op $2 app."
+
+msgctxt "Info"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "Informations"
+msgid "Informations"
+msgstr "informatie"
+
+msgctxt "Invoicing address"
+msgid "Invoicing address"
+msgstr "Factuuradres"
+
+msgctxt "Lastname"
+msgid "Lastname"
+msgstr "Achternaam"
+
+msgctxt "Like"
+msgid "Like"
+msgstr "Like"
+
+msgctxt "Loading"
+msgid "Loading"
+msgstr "Laden"
+
+msgctxt "Locate"
+msgid "Locate"
+msgstr "Locatie"
+
+msgctxt "Location"
+msgid "Location"
+msgstr "Locatie"
+
+msgctxt "Log-in"
+msgid "Log-in"
+msgstr "Log-in"
+
+msgctxt "Login error"
+msgid "Login error"
+msgstr "Login fout"
+
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr "Inloggen met Facebook"
+
+msgctxt "Map"
+msgid "Map"
+msgstr "Kaart"
+
+msgctxt "Miss"
+msgid "Miss"
+msgstr "Mej."
+
+msgctxt "Mr"
+msgid "Mr"
+msgstr "Dhr"
+
+msgctxt "Mrs"
+msgid "Mrs"
+msgstr "Mevr."
+
+msgctxt "My account"
+msgid "My account"
+msgstr "Mijn account"
+
+msgctxt "New Post"
+msgid "New Post"
+msgstr "Nieuw bericht"
+
+msgctxt "Nickname"
+msgid "Nickname"
+msgstr "Bijnaam"
+
+msgctxt "No comments for now."
+msgid "No comments for now."
+msgstr "Nog geen reacties."
+
+msgctxt "No form available"
+msgid "No form available"
+msgstr "Geen formulier beschikbaar"
+
+msgctxt "No images found"
+msgid "No images found"
+msgstr "Geen afbeeldingen gevonden"
+
+msgctxt "No items found"
+msgid "No items found"
+msgstr "Geen items gevonden"
+
+msgctxt "No results for your request."
+msgid "No results for your request."
+msgstr "Geen resultaten voor uw aanvraag."
+
+msgctxt "Notes"
+msgid "Notes"
+msgstr "Aantekeningen"
+
+msgctxt "Notification"
+msgid "Notification"
+msgstr "Meldingen"
+
+msgctxt "Number of people"
+msgid "Number of people"
+msgstr "Aantal personen"
+
+msgctxt "OK"
+msgid "OK"
+msgstr "OKÉ"
+
+msgctxt "Offline mode"
+msgid "Offline mode"
+msgstr "Offlinemodus"
+
+msgctxt "Ok"
+msgid "Ok"
+msgstr "Oké"
+
+msgctxt "Open link"
+msgid "Open link"
+msgstr "Open Link"
+
+msgctxt "Or with your account"
+msgid "Or with your account"
+msgstr "Of met uw account"
+
+msgctxt "Order Details"
+msgid "Order Details"
+msgstr "Bestelling details"
+
+msgctxt "Overview"
+msgid "Overview"
+msgstr "Overzicht"
+
+msgctxt "Password"
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgctxt "Phone"
+msgid "Phone"
+msgstr "Telefoon"
+
+msgctxt "Photos"
+msgid "Photos"
+msgstr "Afbeeldingen"
+
+msgctxt "Playlists"
+msgid "Playlists"
+msgstr "Speellijst"
+
+msgctxt "Please enter a valid email address"
+msgid "Please enter a valid email address"
+msgstr "Vul een geldig e-mail adres in"
+
+msgctxt "Please enter your email address."
+msgid "Please enter your email address."
+msgstr "Vul uw e-mail adres in."
+
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
+msgstr "Vul uw e-mailadres in. We zullen u nu uw wachtwoord sturen."
+
+msgctxt "Please wait..."
+msgid "Please wait..."
+msgstr "Even geduld aub..."
+
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "podcast"
+
+msgctxt "Prices"
+msgid "Prices"
+msgstr "Prijzen"
+
+msgctxt "Privacy"
+msgid "Privacy"
+msgstr "Privacy"
+
+msgctxt "Privacy Policy"
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+msgctxt "Pull to refresh..."
+msgid "Pull to refresh..."
+msgstr "Trek omlaag om te verversen..."
+
+msgctxt "RSVP"
+msgid "RSVP"
+msgstr "RSVP"
+
+msgctxt "Read all"
+msgid "Read all"
+msgstr "Lees alles"
+
+msgctxt "Scan result"
+msgid "Scan result"
+msgstr "Scan resultaat"
+
+msgctxt "See details"
+msgid "See details"
+msgstr "Zie details"
+
+msgctxt "Send"
+msgid "Send"
+msgstr "Verstuur"
+
+msgctxt "Send contact request"
+msgid "Send contact request"
+msgstr "Verzend contact verzoek"
+
+msgctxt "Show me in ranking"
+msgid "Show me in ranking"
+msgstr "Toon mij in de ranglijst"
+
+msgctxt "Success"
+msgid "Success"
+msgstr "Succes"
+
+msgctxt "Tap to download in background"
+msgid "Tap to download in background"
+msgstr "Tik om te downloaden in de achtergrond"
+
+msgctxt "Terms & Conditions"
+msgid "Terms & Conditions"
+msgstr "Voorwaarden & Condities"
+
+msgctxt "The address you're looking for does not exists."
+msgid "The address you're looking for does not exists."
+msgstr "Het adres dat u zoekt bestaat niet."
+
+msgctxt "The sign in flow was canceled"
+msgid "The sign in flow was canceled"
+msgstr "De aanmeldingsstroom is geannuleerd"
+
+msgctxt "There is no route available with these informations."
+msgid "There is no route available with these informations."
+msgstr "Er is geen route beschikbaar met deze informatie."
+
+msgctxt "This application is no longer available"
+msgid "This application is no longer available"
+msgstr "Deze applicatie is niet meer beschikbaar"
+
+msgctxt "This feature is disabled in this preview"
+msgid "This feature is disabled in this preview"
+msgstr "Deze functie is uitgeschakeld in de voorbeeldweergave"
+
+msgctxt "This feature is not available in offline mode!"
+msgid "This feature is not available in offline mode!"
+msgstr "Deze functie is niet beschikbaar in de offline modus!"
+
+msgctxt "This field is required"
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+msgctxt "This will open the code scan camera on your device."
+msgid "This will open the code scan camera on your device."
+msgstr "Dit zal de codescan camera openen op uw apparaat."
+
+msgctxt "Title"
+msgid "Title"
+msgstr "Titel"
+
+msgctxt "Tracks"
+msgid "Tracks"
+msgstr "nummer"
+
+msgctxt "Triple tap to close the preview"
+msgid "Triple tap to close the preview"
+msgstr "Tik drie keer om het voorbeeldweergave te sluiten"
+
+msgctxt "Use this coupon"
+msgid "Use this coupon"
+msgstr "Gebruik deze kortingsbon"
+
+msgctxt "Valid Until"
+msgid "Valid Until"
+msgstr "Geldig tot"
+
+msgctxt "View"
+msgid "View"
+msgstr "Bekijk"
+
+msgctxt ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgid ""
+"We are sorry but this application has been deactivated and may not be re-"
+"activated."
+msgstr ""
+"Het spijt ons maar deze applicatie is uitgeschakeld en kan niet opnieuw "
+"worden geactiveerd."
+
+msgctxt "Website"
+msgid "Website"
+msgstr "Website"
+
+msgctxt "We'll send you your password right now."
+msgid "We'll send you your password right now."
+msgstr "We sturen u nu uw wachtwoord."
+
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
+msgid ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
 msgstr ""
 "Verkeerd wachtwoord.<br/>Wees voorzichtig!<br/> %d nog %s resterende "
 "pogingen vóór vergrendeling van uw kaart.<br/>Vraag het winkelpersoneel om "
 "uw punt te valideren"
 
-msgid "Comment"
-msgstr "Reactie"
-
-msgid "Phone"
-msgstr "Telefoon"
-
-msgid "An error occurred while reading the code."
-msgstr "Er is een fout opgetreden bij het lezen van de code."
-
-msgid "No comments for now."
-msgstr "Nog geen reacties."
-
-msgid "Please enter your email address."
-msgstr "Vul uw e-mail adres in."
-
-msgid "Please enter a valid email address"
-msgstr "Vul een geldig e-mail adres in"
-
-msgid "This field is required"
-msgstr "Dit veld is verplicht"
-
-msgid "Use this coupon"
-msgstr "Gebruik deze kortingsbon"
-
-msgid "Your comment"
-msgstr "Uw reactie"
-
-msgid "Application is Locked"
-msgstr "Applicatie is vergrendeld"
-
-msgid "I just found this discount $1 in $2 app."
-msgstr "Ik heb deze kortingsprijs $1 in $2 net gevonden."
-
-msgid "Send contact request"
-msgstr "Verzend contact verzoek"
-
-msgid "Tap to download in background"
-msgstr "Tik om te downloaden in de achtergrond"
-
-msgid "The sign in flow was canceled"
-msgstr "De aanmeldingsstroom is geannuleerd"
-
-msgid "There is no route available with these informations."
-msgstr "Er is geen route beschikbaar met deze informatie."
-
-msgid "This feature is disabled in this preview"
-msgstr "Deze functie is uitgeschakeld in de voorbeeldweergave"
-
-msgid "This feature is not available in offline mode!"
-msgstr "Deze functie is niet beschikbaar in de offline modus!"
-
-msgid "Triple tap to close the preview"
-msgstr "Tik drie keer om het voorbeeldweergave te sluiten"
-
-msgid "We'll send you your password right now."
-msgstr "We sturen u nu uw wachtwoord."
-
+msgctxt "XXXX XXXX XXXX"
 msgid "XXXX XXXX XXXX"
 msgstr "XXXX XXXX XXXX"
 
+msgctxt "You must fill at least one field!"
 msgid "You must fill at least one field!"
 msgstr "Je moet ten minste één veld invullen!"
 
-msgid "Your location could not be found because your application doesn't use SSL."
+msgctxt "Your comment"
+msgid "Your comment"
+msgstr "Uw reactie"
+
+msgctxt ""
+"Your location could not be found because your application doesn't use SSL."
+msgid ""
+"Your location could not be found because your application doesn't use SSL."
 msgstr ""
 "Uw locatie kan niet worden gevonden omdat uw applicatie geen SSL gebruikt."
 
-msgid "Description"
-msgstr "Omschrijving"
-
-msgid "Miss"
-msgstr "Mej."
-
-msgid "Mr"
-msgstr "Dhr"
-
-msgid "Please enter your email address. We'll send you your password right now."
-msgstr "Vul uw e-mailadres in. We zullen u nu uw wachtwoord sturen."
-
-msgid "Show me in ranking"
-msgstr "Toon mij in de ranglijst"
-
-msgid "Date and time"
-msgstr "Datum en tijd"
-
-msgid "Number of people"
-msgstr "Aantal personen"
-
-msgid "Albums"
-msgstr "Album"
-
-msgid "Playlists"
-msgstr "Speellijst"
-
-msgid "Tracks"
-msgstr "nummer"
-
-msgid "Address"
-msgstr "Adres"
-
-msgid "Email"
-msgstr "E-mail"
-
-msgid "My account"
-msgstr "Mijn account"
-
-msgid "OK"
-msgstr "OKÉ"
-
-msgid "Send"
-msgstr "Verstuur"
-
-msgid "View"
-msgstr "Bekijk"
-
-msgid "Terms & Conditions"
-msgstr "Voorwaarden & Condities"
-
-msgid "This application is no longer available"
-msgstr "Deze applicatie is niet meer beschikbaar"
-
-msgid "We are sorry but this application has been deactivated and may not be re-activated."
-msgstr ""
-"Het spijt ons maar deze applicatie is uitgeschakeld en kan niet opnieuw "
-"worden geactiveerd."
-
-msgid "Civility"
-msgstr "Beleefdheid"
-
+msgctxt "followers"
 msgid "followers"
 msgstr "volgers"
 
+msgctxt "following"
 msgid "following"
 msgstr "volgend"
 
-msgid "Valid Until"
-msgstr "Geldig tot"
-
-msgid "Add a comment"
-msgstr "Voeg een reactie toe"
-
-msgid "Add image"
-msgstr "Voeg afbeelding toe"
-
-msgid "Add to address book"
-msgstr "Voeg toe aan adressenboek"
-
-msgid "An unexpected error occurred while calculating the route."
-msgstr "Er is een onverwachte fout opgetreden bij het berekenen van de route."
-
-msgid "Buffering"
-msgstr "Bufferen"
-
-msgid "Buy Tickets"
-msgstr "Koop Tickets"
-
-msgid "Buy tickets"
-msgstr "Koop Tickets"
-
-msgid "CVC ***"
-msgstr "CVC ***"
-
-msgid "Cancel delete"
-msgstr "Annuleer verwijderen"
-
-msgid "Cancel edit"
-msgstr "Bewerken Annuleren"
-
-msgid "Clear"
-msgstr "Wis"
-
-msgid "Click here to log-in"
-msgstr "Klik hier om in te loggen"
-
-msgid "Copy"
-msgstr "Kopiëren"
-
-msgid "Create an account"
-msgstr "Maak een account"
-
-msgid "Delivery address"
-msgstr "Bezorgadres"
-
-msgid "Discount code"
-msgstr "Kortingscode"
-
-msgid "Dismiss"
-msgstr "Afwijzen"
-
-msgid "Done"
-msgstr "Klaar"
-
-msgid "Downloading..."
-msgstr "Downloaden ..."
-
-msgid "EXP"
-msgstr "EXP"
-
-msgid "Error"
-msgstr "Fout"
-
-msgid "First name / Last name"
-msgstr "Voornaam / Achternaam"
-
-msgid "Flag"
-msgstr "Markeer"
-
-msgid "Forgot your password?"
-msgstr "Wachtwoord vergeten?"
-
-msgid "Hi. I just found: $1 in the $2 app."
-msgstr "Hoi. heb ik net gevonden: $1 op $2 app."
-
-msgid "I accept the privacy policy"
-msgstr "Ik ga akkoord met het Privacy Beleid"
-
-msgid "Identity"
-msgstr "Identiteit"
-
-msgid "I'm listening to $1 from $2 on $3 app."
-msgstr "Ik luister naar $1 van $2 op $3 app."
-
-msgid "I'm listening to $1 on $2 app."
-msgstr "Ik luister naar $1 op $2 app."
-
-msgid "Info"
-msgstr "Info"
-
-msgid "Informations"
-msgstr "informatie"
-
-msgid "Invoicing address"
-msgstr "Factuuradres"
-
-msgid "Like"
-msgstr "Like"
-
-msgid "Loading"
-msgstr "Laden"
-
-msgid "Location"
-msgstr "Locatie"
-
-msgid "Log-in"
-msgstr "Log-in"
-
-msgid "Login error"
-msgstr "Login fout"
-
-msgid "Log-in with Facebook"
-msgstr "Inloggen met Facebook"
-
-msgid "Mrs"
-msgstr "Mevr."
-
-msgid "New Post"
-msgstr "Nieuw bericht"
-
-msgid "Nickname"
-msgstr "Bijnaam"
-
-msgid "No form available"
-msgstr "Geen formulier beschikbaar"
-
-msgid "No images found"
-msgstr "Geen afbeeldingen gevonden"
-
-msgid "No items found"
-msgstr "Geen items gevonden"
-
-msgid "No results for your request."
-msgstr "Geen resultaten voor uw aanvraag."
-
-msgid "Notes"
-msgstr "Aantekeningen"
-
-msgid "Notification"
-msgstr "Meldingen"
-
-msgid "Offline mode"
-msgstr "Offlinemodus"
-
-msgid "Ok"
-msgstr "Oké"
-
-msgid "Open link"
-msgstr "Open Link"
-
-msgid "Or with your account"
-msgstr "Of met uw account"
-
-msgid "Order Details"
-msgstr "Bestelling details"
-
-msgid "Overview"
-msgstr "Overzicht"
-
-msgid "Password"
-msgstr "Wachtwoord"
-
-msgid "Photos"
-msgstr "Afbeeldingen"
-
-msgid "Please wait..."
-msgstr "Even geduld aub..."
-
-msgid "Podcast"
-msgstr "podcast"
-
-msgid "Prices"
-msgstr "Prijzen"
-
-msgid "Privacy"
-msgstr "Privacy"
-
-msgid "Privacy Policy"
-msgstr "Privacybeleid"
-
-msgid "Pull to refresh..."
-msgstr "Trek omlaag om te verversen..."
-
-msgid "RSVP"
-msgstr "RSVP"
-
-msgid "Scan result"
-msgstr "Scan resultaat"
-
-msgid "See details"
-msgstr "Zie details"
-
-msgid "Success"
-msgstr "Succes"
-
-msgid "The address you're looking for does not exists."
-msgstr "Het adres dat u zoekt bestaat niet."
-
-msgid "This will open the code scan camera on your device."
-msgstr "Dit zal de codescan camera openen op uw apparaat."
-
-msgid "Website"
-msgstr "Website"
-
+msgctxt "track"
 msgid "track"
 msgstr "nummer"
 
+msgctxt "tracks"
 msgid "tracks"
 msgstr "nummers"

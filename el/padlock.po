@@ -1,58 +1,73 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/padlock/el/"
+">\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/padlock.csv:1
+msgctxt "Access restricted to authorized members only"
 msgid "Access restricted to authorized members only"
 msgstr "Η πρόσβαση είναι περιορισμένη σε μέλη μόνο"
 
-#: el/padlock.csv:2
+msgctxt "Allow all the users by default:"
 msgid "Allow all the users by default:"
 msgstr "Να επιτρέπεται πρόσβαση σε όλους τους χρήστες από προεπιλογή:"
 
-#: el/padlock.csv:3
+msgctxt "Choose the features to lock:"
 msgid "Choose the features to lock:"
 msgstr "Επιλέξτε το περιεχόμενο που θέλετε να είναι κλειδωμένο:"
 
-#: el/padlock.csv:4
+msgctxt "Lock the entire application?"
 msgid "Lock the entire application?"
 msgstr "Κλείδωμα ολόκληρης της εφαρμογής?"
 
-#: el/padlock.csv:5
+msgctxt "Restrict Access"
 msgid "Restrict Access"
 msgstr "Περιορισμένη Πρόσβαση"
 
-#: el/padlock.csv:6
-msgid "We are sorry but your account does not have enough permissions to access this page"
-msgstr "Συγνώμη, αλλά ο λογαριασμός σας δεν έχει επαρκή δικαιώματα για να έχει πρόσβαση σε αυτή την σελίδα"
+msgctxt "Scan now to unlock"
+msgid "Scan now to unlock"
+msgstr ""
 
-#: el/padlock.csv:7
+msgctxt "Unlock by:"
+msgid "Unlock by:"
+msgstr ""
+
+msgctxt ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
+msgid ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
+msgstr ""
+"Συγνώμη, αλλά ο λογαριασμός σας δεν έχει επαρκή δικαιώματα για να έχει "
+"πρόσβαση σε αυτή την σελίδα"
+
+msgctxt "the email address"
 msgid "the email address"
 msgstr "E-mail"
 
-#: el/padlock.csv:8
+msgctxt "the first name"
 msgid "the first name"
 msgstr "Όνομα"
 
-#: el/padlock.csv:9
+msgctxt "the gender"
 msgid "the gender"
 msgstr "Γένος"
 
-#: el/padlock.csv:10
+msgctxt "the last name"
 msgid "the last name"
 msgstr "Επώνυμο"
 
-#: el/padlock.csv:11
+msgctxt "the password"
 msgid "the password"
 msgstr "Κωδικός"

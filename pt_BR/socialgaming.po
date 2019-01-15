@@ -1,78 +1,79 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
+"siberian/socialgaming/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: pt_BR/socialgaming.csv:1
-msgid "%s point%s"
-msgstr "%s ponto%s"
-
-#: pt_BR/socialgaming.csv:2
+msgctxt "A month"
 msgid "A month"
 msgstr "Um mês"
 
-#: pt_BR/socialgaming.csv:3
+msgctxt "A week"
 msgid "A week"
 msgstr "Uma semana"
 
-#: pt_BR/socialgaming.csv:4
+msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Competidores"
 
-#: pt_BR/socialgaming.csv:5
+msgctxt "Current game"
 msgid "Current game"
 msgstr "Jogo Atual"
 
-#: pt_BR/socialgaming.csv:6
+msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Atualmente não há competidores"
 
-#: pt_BR/socialgaming.csv:7
+msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Nome do Jogo"
 
-#: pt_BR/socialgaming.csv:8
+msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Jogo salvo com sucesso"
 
-#: pt_BR/socialgaming.csv:9
+msgctxt "Next game"
 msgid "Next game"
 msgstr "Próximo Jogo"
 
-#: pt_BR/socialgaming.csv:10
+msgctxt "On the"
 msgid "On the"
 msgstr "No"
 
-#: pt_BR/socialgaming.csv:11
+msgctxt "Period"
 msgid "Period"
 msgstr "Período"
 
-#: pt_BR/socialgaming.csv:12
+msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Periodicidade"
 
-#: pt_BR/socialgaming.csv:13
+msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Data Publicação"
 
-#: pt_BR/socialgaming.csv:14
+msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Ranking do mês"
 
-#: pt_BR/socialgaming.csv:15
+msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Ranking da semana"
 
-#: pt_BR/socialgaming.csv:16
+msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "Líder do Jogo"
+
+msgctxt "%s point%s"
+msgid "%s point%s"
+msgstr "%s ponto%s"

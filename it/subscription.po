@@ -1,290 +1,459 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Italian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian <http://yvain.xtraball.com/projects/siberian/"
+"subscription/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: it\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: it/subscription.csv:1
-msgid "%s Subscription for %s"
-msgstr "%s Abbonamento per %s"
-
-#: it/subscription.csv:2
-msgid "<a href=\"%s\">Click here</a> to go back to your applications list"
-msgstr "<a href=\"%s\">Clicca qui</a> per<a href=\"%s\">Clicca qui</a> per tornare alla lista delle tue applicazioni"
-
-#: it/subscription.csv:3
+msgctxt "Active"
 msgid "Active"
 msgstr "Attiva"
 
-#: it/subscription.csv:4
+msgctxt "Address 1"
 msgid "Address 1"
 msgstr "Indirizzo 1"
 
-#: it/subscription.csv:5
+msgctxt "Address 2"
 msgid "Address 2"
 msgstr "Indirizzo 2"
 
-#: it/subscription.csv:6
-msgid "An error occurred while processing the payment. For more information, please feel free to contact us."
-msgstr "Si è verificato un errore durante il pagamento. Per maggiori informazioni contattaci."
+msgctxt ""
+"An error occurred while processing the payment. For more information, please "
+"feel free to contact us."
+msgid ""
+"An error occurred while processing the payment. For more information, please "
+"feel free to contact us."
+msgstr ""
+"Si è verificato un errore durante il pagamento. Per maggiori informazioni "
+"contattaci."
 
-#: it/subscription.csv:7
-msgid "An error occurred while processing your order. Please, check your 2Checkout credentials or try again later."
-msgstr "Si è verificato un errore durante l'elaborazione dell'ordine. Controlla le Tue credenziali 2Checkout o riprova più tardi."
+msgctxt ""
+"An error occurred while processing your order. Please, check your 2Checkout "
+"credentials or try again later."
+msgid ""
+"An error occurred while processing your order. Please, check your 2Checkout "
+"credentials or try again later."
+msgstr ""
+"Si è verificato un errore durante l'elaborazione dell'ordine. Controlla le "
+"Tue credenziali 2Checkout o riprova più tardi."
 
-#: it/subscription.csv:8
+msgctxt "An error occurred while processing your order. Please, try again later."
 msgid "An error occurred while processing your order. Please, try again later."
-msgstr "Si è verificato un errore durante l'elaborazione dell'ordine. Riprova più tardi."
+msgstr ""
+"Si è verificato un errore durante l'elaborazione dell'ordine. Riprova più "
+"tardi."
 
-#: it/subscription.csv:9
+msgctxt "An error occurred while saving. Please try again later"
 msgid "An error occurred while saving. Please try again later"
-msgstr "Si è verificato un errore durante il salvataggio dell'ordine. Riprova più tardi."
+msgstr ""
+"Si è verificato un errore durante il salvataggio dell'ordine. Riprova più "
+"tardi."
 
-#: it/subscription.csv:10
+msgctxt "An error occurred while saving. The selected subscription is not valid."
 msgid "An error occurred while saving. The selected subscription is not valid."
-msgstr "Si è verificato un errore durante il salvataggio dell'ordine. La sottoscrizione selezionata non è valida."
+msgstr ""
+"Si è verificato un errore durante il salvataggio dell'ordine. La "
+"sottoscrizione selezionata non è valida."
 
-#: it/subscription.csv:11
+msgctxt ""
+"An offline payment method will <strong>not</strong> be associated with any "
+"online payment method. Users will have to pay you by checks, bank "
+"transfer...You'll have to edit your invoices manually."
+msgid ""
+"An offline payment method will <strong>not</strong> be associated with any "
+"online payment method. Users will have to pay you by checks, bank "
+"transfer...You'll have to edit your invoices manually."
+msgstr ""
+
+msgctxt "Are you sure you want to delete this plan?"
 msgid "Are you sure you want to delete this plan?"
 msgstr "Sei sicuro di voler sottoscrivere questo piano?"
 
-#: it/subscription.csv:12
-msgid "Be careful: a 2Checkout stopped recurrence can only be reactivated by a 2Checkout representative."
-msgstr "Attenzione: un 2Checkout bloccato può essere riattivato solo da un rappresentante 2Checkout."
+msgctxt ""
+"Be careful: a 2Checkout stopped recurrence can only be reactivated by a "
+"2Checkout representative."
+msgid ""
+"Be careful: a 2Checkout stopped recurrence can only be reactivated by a "
+"2Checkout representative."
+msgstr ""
+"Attenzione: un 2Checkout bloccato può essere riattivato solo da un "
+"rappresentante 2Checkout."
 
-#: it/subscription.csv:13
+msgctxt ""
+"Be careful: a Stripe stopped recurrence can only be reactivated manually in "
+"your Stripe Admin panel."
+msgid ""
+"Be careful: a Stripe stopped recurrence can only be reactivated manually in "
+"your Stripe Admin panel."
+msgstr ""
+
+msgctxt ""
+"Be sure to fill in Admob settings in Settings > General section of your back "
+"office."
+msgid ""
+"Be sure to fill in Admob settings in Settings > General section of your back "
+"office."
+msgstr ""
+
+msgctxt "Billing Address"
 msgid "Billing Address"
 msgstr "Indirizzo di fatturazione"
 
-#: it/subscription.csv:14
-msgid "By checking this box, you agree <a id=\"show_tos\" href=\"javascript:void(0);\" target=\"_blank\" class=\"underline\">to our terms and conditions</a>"
-msgstr "Selezionando questa casella, tu accetti <a id=\"show_tos\" href=\"javascript:void(0);\" target=\"_blank\" class=\"underline\">i termini e le condizioni</a>"
+msgctxt "CVC"
+msgid "CVC"
+msgstr ""
 
-#: it/subscription.csv:15
+msgctxt "Card number"
+msgid "Card number"
+msgstr "Nome Carta"
+
+msgctxt "Charged to your client every month"
 msgid "Charged to your client every month"
 msgstr "Cambia prezzo ogni mese"
 
-#: it/subscription.csv:16
+msgctxt "Charged to your client every year"
 msgid "Charged to your client every year"
 msgstr "Cambia prezzo ogni anno"
 
-#: it/subscription.csv:17
+msgctxt "Charged to your client when placing the order"
 msgid "Charged to your client when placing the order"
 msgstr "Carica il Tuo Cliente al momento dell'ordine"
 
-#: it/subscription.csv:18
+msgctxt "Choose features"
+msgid "Choose features"
+msgstr ""
+
+msgctxt "Choose the subscription that suits you best:"
 msgid "Choose the subscription that suits you best:"
 msgstr "Scegli l'abbonamento più adatto a te"
 
-#: it/subscription.csv:19
+msgctxt "Choose your Payment method"
 msgid "Choose your Payment method"
 msgstr "Scegli il metodo di pagamento"
 
-#: it/subscription.csv:20
+msgctxt "City"
 msgid "City"
 msgstr "Città"
 
-#: it/subscription.csv:21
+msgctxt "Click here"
+msgid "Click here"
+msgstr ""
+
+msgctxt "Confirmation"
+msgid "Confirmation"
+msgstr ""
+
+msgctxt "Create a new subscription"
 msgid "Create a new subscription"
 msgstr "Crea un nuovo abbonamento"
 
-#: it/subscription.csv:22
+msgctxt "Creation"
 msgid "Creation"
 msgstr "Crea"
 
-#: it/subscription.csv:23
+msgctxt "Describe here this plan. Will be displayed on the front end"
 msgid "Describe here this plan. Will be displayed on the front end"
 msgstr "Descrivi qui questo piano, sarò visibile nel front end"
 
-#: it/subscription.csv:24
+msgctxt ""
+"Don't forget to configure your message for offline plans in Settings > Sales "
+"> Configuration"
+msgid ""
+"Don't forget to configure your message for offline plans in Settings > Sales "
+"> Configuration"
+msgstr ""
+
+msgctxt "Each price must be entered excluding tax"
 msgid "Each price must be entered excluding tax"
 msgstr "Ogni prezzo deve essere inserito tasse escluse"
 
-#: it/subscription.csv:25
+msgctxt "Edit the subscription %s"
 msgid "Edit the subscription %s"
 msgstr "Modifica l'abbonamento %s"
 
-#: it/subscription.csv:26
+msgctxt "Expiration"
 msgid "Expiration"
 msgstr "Scadenza"
 
-#: it/subscription.csv:27
+msgctxt "Expiration date"
 msgid "Expiration date"
 msgstr "Data di scadenza"
 
-#: it/subscription.csv:28
+msgctxt "Give a name to this plan. Will be displayed on the front end"
 msgid "Give a name to this plan. Will be displayed on the front end"
 msgstr "Dai un nome al piano. Sarà visibile nel front end"
 
-#: it/subscription.csv:29
+msgctxt ""
+"If you chose an offline payment, your subscription will be activated by an "
+"admin when your payment is received."
+msgid ""
+"If you chose an offline payment, your subscription will be activated by an "
+"admin when your payment is received."
+msgstr ""
+
+msgctxt "I'll pay with an offline payment mode"
+msgid "I'll pay with an offline payment mode"
+msgstr ""
+
+msgctxt "List of your plans"
 msgid "List of your plans"
 msgstr "Lista dei tuoi piani"
 
-#: it/subscription.csv:30
+msgctxt "List of your subscriptions"
 msgid "List of your subscriptions"
 msgstr "Lista dei tuoi abbonamenti"
 
-#: it/subscription.csv:31
+msgctxt "MM"
+msgid "MM"
+msgstr ""
+
+msgctxt "Monthly"
+msgid "Monthly"
+msgstr "Al mese"
+
+msgctxt "New sale on your platform"
+msgid "New sale on your platform"
+msgstr ""
+
+msgctxt "No recurring line items to stop."
 msgid "No recurring line items to stop."
 msgstr "Non ci sono elementi da fermare"
 
-#: it/subscription.csv:32
+msgctxt "None"
 msgid "None"
 msgstr "Nessuno"
 
-#: it/subscription.csv:33
+msgctxt "One-off"
 msgid "One-off"
 msgstr "Una sola volta"
 
-#: it/subscription.csv:34
+msgctxt "Order's details"
 msgid "Order's details"
 msgstr "Dettagli dell'ordine"
 
-#: it/subscription.csv:35
+msgctxt "Payment"
 msgid "Payment"
 msgstr "Pagamento"
 
-#: it/subscription.csv:36
+msgctxt "Payment Method:"
 msgid "Payment Method:"
 msgstr "Metodo di pagamento:"
 
-#: it/subscription.csv:37
+msgctxt "Payment Option"
 msgid "Payment Option"
 msgstr "Opzioni di pagamento"
 
-#: it/subscription.csv:38
-msgid "Payment secured by <img src=\"%s\" width=\"100\" title=\"2Checkout\" />"
-msgstr "Pagamento sicuro by <img src=\"%s\" width=\"100\" title=\"2Checkout\" />"
+msgctxt "Please choose a payment method for this plan."
+msgid "Please choose a payment method for this plan."
+msgstr ""
 
-#: it/subscription.csv:39
-msgid "Payment secured by <img src=\"%s\" width=\"100\" title=\"Paypal\" />"
-msgstr "Pagamento sicuro by <img src=\"%s\" width=\"100\" title=\"Paypal\" />"
-
-#: it/subscription.csv:40
+msgctxt "Please, enter a company"
 msgid "Please, enter a company"
 msgstr "Inserisci il nome dell'azienda"
 
-#: it/subscription.csv:41
+msgctxt "Please, enter a country"
 msgid "Please, enter a country"
 msgstr "Inserisci la tua Nazione"
 
-#: it/subscription.csv:42
+msgctxt "Please, enter a description."
 msgid "Please, enter a description."
 msgstr "Inserisci una descrizione"
 
-#: it/subscription.csv:43
+msgctxt "Please, enter a name."
 msgid "Please, enter a name."
 msgstr "Inserisci il nome"
 
-#: it/subscription.csv:44
+msgctxt "Please, enter an address"
 msgid "Please, enter an address"
 msgstr "Inserisci l'indirizzo"
 
-#: it/subscription.csv:45
+msgctxt "Please fill in your card information in order to pay with Stripe:"
+msgid "Please fill in your card information in order to pay with Stripe:"
+msgstr ""
+
+msgctxt "Pricing"
 msgid "Pricing"
 msgstr "Prezziario"
 
-#: it/subscription.csv:46
+msgctxt "Proceed to payment?"
 msgid "Proceed to payment?"
 msgstr "Procedere al pagamento?"
 
-#: it/subscription.csv:47
+msgctxt "Recurring"
 msgid "Recurring"
 msgstr "Ricorrente"
 
-#: it/subscription.csv:48
+msgctxt "Setup Fee"
 msgid "Setup Fee"
 msgstr "Costo pubblicazione"
 
-#: it/subscription.csv:49
+msgctxt "Setup fee"
 msgid "Setup fee"
 msgstr "Costo pubblicazione"
 
-#: it/subscription.csv:50
+msgctxt "Sorry, but no payment method was found."
 msgid "Sorry, but no payment method was found."
 msgstr "Spiacenti, non è stato trovato alcun metodo di pagamento"
 
-#: it/subscription.csv:51
+msgctxt "State/Province"
 msgid "State/Province"
 msgstr "Provincia"
 
-#: it/subscription.csv:52
+msgctxt "Subscription"
 msgid "Subscription"
 msgstr "Abbonamento"
 
-#: it/subscription.csv:53
+msgctxt "Subscription for"
+msgid "Subscription for"
+msgstr "Sottoscrizioni"
+
+msgctxt "Subscription successfully saved"
 msgid "Subscription successfully saved"
 msgstr "Abbonamento salvato con successo"
 
-#: it/subscription.csv:54
+msgctxt "Subtotal"
 msgid "Subtotal"
 msgstr "Subtotale"
 
-#: it/subscription.csv:55
+msgctxt "Thanks!"
 msgid "Thanks!"
 msgstr "Grazie!"
 
-#: it/subscription.csv:56
+msgctxt "The monthly price is not a valid price (e.g. 12.34)"
 msgid "The monthly price is not a valid price (e.g. 12.34)"
 msgstr "Il prezzo mensile non è un prezzo valido (es 12.34"
 
-#: it/subscription.csv:57
+msgctxt "The setup fee is not a valid price (e.g. 12.34)"
 msgid "The setup fee is not a valid price (e.g. 12.34)"
 msgstr "Il costo di attivazione non è un prezzo valido (ad esempio 12.34 )"
 
-#: it/subscription.csv:58
+msgctxt "The user %s requests you to publish the app %s."
+msgid "The user %s requests you to publish the app %s."
+msgstr ""
+
+msgctxt "The yearly price is not a valid price (e.g. 12.34)"
 msgid "The yearly price is not a valid price (e.g. 12.34)"
 msgstr "Il prezzo annuale non è un prezzo valido (es 12.34 )"
 
-#: it/subscription.csv:59
+msgctxt "This plan allows offline payments method (manual management)"
+msgid "This plan allows offline payments method (manual management)"
+msgstr ""
+
+msgctxt "This subscription is active"
 msgid "This subscription is active"
 msgstr "Questo abbonamento è attivo"
 
-#: it/subscription.csv:60
+msgctxt "Use Owner AdMob"
+msgid "Use Owner AdMob"
+msgstr ""
+
+msgctxt "VAT Number"
 msgid "VAT Number"
 msgstr "Partita IVA"
 
-#: it/subscription.csv:61
+msgctxt "Verification number:"
+msgid "Verification number:"
+msgstr ""
+
+msgctxt ""
+"We were unable to deactivate their subscription on %s. Please, do it "
+"manually."
+msgid ""
+"We were unable to deactivate their subscription on %s. Please, do it "
+"manually."
+msgstr ""
+
+msgctxt "YYYY"
+msgid "YYYY"
+msgstr ""
+
+msgctxt "Yearly"
+msgid "Yearly"
+msgstr "Annuale"
+
+msgctxt "You already have a subscription for this application"
 msgid "You already have a subscription for this application"
 msgstr "Non hai ancora un abbonamento per questa applicazione"
 
-#: it/subscription.csv:62
-msgid "You are almost done! After subscribing, your app can be published on both the AppStore and the Google Play."
-msgstr "Hai quasi finito! Dopo la sottoscrizione, la vostra applicazione può essere pubblicato sia sul AppStore e Google Play."
+msgctxt ""
+"You are almost done! After subscribing, your app can be published on both "
+"the AppStore and the Google Play."
+msgid ""
+"You are almost done! After subscribing, your app can be published on both "
+"the AppStore and the Google Play."
+msgstr ""
+"Hai quasi finito! Dopo la sottoscrizione, la vostra applicazione può essere "
+"pubblicato sia sul AppStore e Google Play."
 
-#: it/subscription.csv:63
+msgctxt ""
+"You can choose which feature will be accessible with your plan. By default, "
+"all features are allowed."
+msgid ""
+"You can choose which feature will be accessible with your plan. By default, "
+"all features are allowed."
+msgstr ""
+
+msgctxt "You don't have any subscriptions yet"
 msgid "You don't have any subscriptions yet"
 msgstr "Non hai ancora nessun abbonamento"
 
-#: it/subscription.csv:64
+msgctxt ""
+"You have chosen an offline plan. Once submitted, your subscription will be "
+"activated by an admin when your payment is received."
+msgid ""
+"You have chosen an offline plan. Once submitted, your subscription will be "
+"activated by an admin when your payment is received."
+msgstr ""
+
+msgctxt "Your VAT Number is not valid"
 msgid "Your VAT Number is not valid"
 msgstr "La partita IVA non è valida"
 
-#: it/subscription.csv:65
-msgid "Your order has been canceled. If you need any help to place your order, please feel free to contact us."
-msgstr "L'ordine è stato annullato. Se avete bisogno di aiuto per effettuare l'ordine, non esitate a contattarci."
+msgctxt ""
+"Your order has been canceled. If you need any help to place your order, "
+"please feel free to contact us."
+msgid ""
+"Your order has been canceled. If you need any help to place your order, "
+"please feel free to contact us."
+msgstr ""
+"L'ordine è stato annullato. Se avete bisogno di aiuto per effettuare "
+"l'ordine, non esitate a contattarci."
 
-#: it/subscription.csv:66
-msgid "Your order has been successfully paid. Your application will be published very soon."
-msgstr "L'ordine è stato pagato con successo. L'applicazione sarà pubblicata nei tempi previsti"
+msgctxt ""
+"Your order has been successfully paid. Your application will be published "
+"very soon."
+msgid ""
+"Your order has been successfully paid. Your application will be published "
+"very soon."
+msgstr ""
+"L'ordine è stato pagato con successo. L'applicazione sarà pubblicata nei "
+"tempi previsti"
 
-#: it/subscription.csv:67
+msgctxt "Your subscription must have at least one price"
 msgid "Your subscription must have at least one price"
 msgstr "L'abbonamento deve avere almeno un prezzo"
 
-#: it/subscription.csv:68
+msgctxt "You've made a sale!"
+msgid "You've made a sale!"
+msgstr ""
+
+msgctxt "Zip Code"
 msgid "Zip Code"
 msgstr "CAP"
 
-#: it/subscription.csv:69
+msgctxt "price"
 msgid "price"
 msgstr "Prezzo"
+
+msgctxt "to view this app if you are connected to your backoffice."
+msgid "to view this app if you are connected to your backoffice."
+msgstr ""

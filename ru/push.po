@@ -1,118 +1,190 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/push/ru/>"
+"\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: ru/push.csv:1
+msgctxt "Additionnal Information"
 msgid "Additionnal Information"
 msgstr "Добавить информацию"
 
-#: ru/push.csv:2
+msgctxt "An error occurred while deleting the push. Please try again later."
+msgid "An error occurred while deleting the push. Please try again later."
+msgstr ""
+"Произошла ошибка во время удаления этого ответа. Пожалуйста, повторите "
+"попытку позже."
+
+msgctxt "And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "Задать радиус в км"
 
-#: ru/push.csv:3
+msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-#: ru/push.csv:4
+msgctxt "Creation date"
 msgid "Creation date"
 msgstr "Дата отправки"
 
-#: ru/push.csv:5
+msgctxt "Custom URL"
+msgid "Custom URL"
+msgstr ""
+
+msgctxt "Enter a location:"
 msgid "Enter a location:"
 msgstr "Введите местоположение:"
 
-#: ru/push.csv:6
+msgctxt "GCM Key"
 msgid "GCM Key"
 msgstr "GCM ключ"
 
-#: ru/push.csv:7
+msgctxt "I want to send it"
 msgid "I want to send it"
 msgstr "Я хочу отправить Push-сообщение"
 
-#: ru/push.csv:8
+msgctxt "Keys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Ключи успешно сохранены"
 
-#: ru/push.csv:9
+msgctxt "Message"
 msgid "Message"
 msgstr "Сообщение"
 
-#: ru/push.csv:10
-msgid "Message:"
-msgstr "Сообщение:"
+msgctxt "No device found for this user"
+msgid "No device found for this user"
+msgstr ""
 
-#: ru/push.csv:11
+msgctxt "No items."
+msgid "No items."
+msgstr ""
+
+msgctxt "Open a feature or a custom URL"
+msgid "Open a feature or a custom URL"
+msgstr ""
+
+msgctxt "Pending"
 msgid "Pending"
 msgstr "В ожидании"
 
-#: ru/push.csv:12
+msgctxt "Please enter an expiration date for your message:"
+msgid "Please enter an expiration date for your message:"
+msgstr ""
+
+msgctxt "Project Number"
+msgid "Project Number"
+msgstr ""
+
+msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "Push-сообщения"
 
-#: ru/push.csv:13
+msgctxt "Push Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Настройки Push-сообщения"
 
-#: ru/push.csv:14
+msgctxt "Push successfully deleted."
+msgid "Push successfully deleted."
+msgstr "Пользователь успешно удален"
+
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Радиус"
 
-#: ru/push.csv:15
+msgctxt "Send to a specific location"
 msgid "Send to a specific location"
 msgstr "Отправить в определенное место"
 
-#: ru/push.csv:16
+msgctxt "Send to all applications"
+msgid "Send to all applications"
+msgstr ""
+
+msgctxt "Send to all my users"
 msgid "Send to all my users"
 msgstr "Послать всем своим пользователям"
 
-#: ru/push.csv:17
-msgid "Sender ID"
-msgstr "ID отправителя"
+msgctxt "Send to no specific locations"
+msgid "Send to no specific locations"
+msgstr "Отправить в определенное место"
 
-#: ru/push.csv:18
+msgctxt "Send to specific topics"
+msgid "Send to specific topics"
+msgstr "Отправить в определенное место"
+
+msgctxt "Send to specific users"
+msgid "Send to specific users"
+msgstr ""
+
+msgctxt "Sending date"
 msgid "Sending date"
 msgstr "Дата отправки"
 
-#: ru/push.csv:19
+msgctxt "The duration limit must be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "Время действия должно быть больше, чем указанная дата"
 
-#: ru/push.csv:20
+msgctxt "Topics"
+msgid "Topics"
+msgstr ""
+
+msgctxt "Users"
+msgid "Users"
+msgstr "Пользователи"
+
+msgctxt "You must choose a topic before sending your message."
+msgid "You must choose a topic before sending your message."
+msgstr ""
+
+msgctxt "You must choose at least one user before sending your message."
+msgid "You must choose at least one user before sending your message."
+msgstr ""
+
+msgctxt "Your app must be published to send a push notification."
 msgid "Your app must be published to send a push notification."
-msgstr "Ваше приложение должно быть опубликовано, чтобы отправлять  Push-уведомления."
+msgstr ""
+"Ваше приложение должно быть опубликовано, чтобы отправлять  Push-уведомления."
 
-#: ru/push.csv:21
-msgid "Your message has been saved successfully and will be sent at the entered date"
-msgstr "Ваше сообщение было успешно сохранено и будет отправлено в указанную дату."
+msgctxt "Your message has been saved successfully."
+msgid "Your message has been saved successfully."
+msgstr "Ваша карта лояльности была успешно сохранена"
 
-#: ru/push.csv:22
-msgid "Your message has been saved successfully and will be sent in a few minutes"
-msgstr "Ваше сообщение было успешно сохранено и будет отправлено в течение нескольких минут."
+msgctxt ""
+"Your message has been saved successfully and will be sent at the entered date"
+msgid ""
+"Your message has been saved successfully and will be sent at the entered date"
+msgstr ""
+"Ваше сообщение было успешно сохранено и будет отправлено в указанную дату."
 
-#: ru/push.csv:23
+msgctxt ""
+"Your message has been saved successfully and will be sent in a few minutes"
+msgid ""
+"Your message has been saved successfully and will be sent in a few minutes"
+msgstr ""
+"Ваше сообщение было успешно сохранено и будет отправлено в течение "
+"нескольких минут."
+
+msgctxt "and users entering the area"
 msgid "and users entering the area"
 msgstr "и пользователям при входе в зону"
 
-#: ru/push.csv:24
+msgctxt "for a limited period"
 msgid "for a limited period"
 msgstr "в течение ограниченного периода"
 
-#: ru/push.csv:25
+msgctxt "now"
 msgid "now"
 msgstr "сейчас"
 
-#: ru/push.csv:26
+msgctxt "on a specific date"
 msgid "on a specific date"
 msgstr "на определенную дату"

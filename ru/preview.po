@@ -1,14 +1,152 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/preview/"
+"ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
+
+msgctxt "Add"
+msgid "Add"
+msgstr "Добавлять"
+
+msgctxt "An error occurred during the process. Please try again later."
+msgid "An error occurred during the process. Please try again later."
+msgstr ""
+"Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
+
+msgctxt "An error occurred while deleting your preview. Please try again later."
+msgid "An error occurred while deleting your preview. Please try again later."
+msgstr ""
+"Произошла ошибка при загрузке файла. Пожалуйста, повторите попытку позже."
+
+msgctxt "An error occurred while saving your previews. Please try again later."
+msgid "An error occurred while saving your previews. Please try again later."
+msgstr ""
+"Произошла ошибка в процессе сохранения пиктограммы. Пожалуйста, попробуйте "
+"чуть позже."
+
+msgctxt "Click here to send your image"
+msgid "Click here to send your image"
+msgstr "Нажмите здесь, чтобы загрузить ваш логотип"
+
+msgctxt "Create a new preview"
+msgid "Create a new preview"
+msgstr "Создать новое событие"
+
+msgctxt "Delete image"
+msgid "Delete image"
+msgstr ""
+
+msgctxt "Delete translation"
+msgid "Delete translation"
+msgstr "Перевод текста"
+
+msgctxt "Description"
+msgid "Description"
+msgstr "Описание"
+
+msgctxt "Drag and drop images to reorder them."
+msgid "Drag and drop images to reorder them."
+msgstr ""
+
+msgctxt "Drop your image here"
+msgid "Drop your image here"
+msgstr "Оставьте ваш логотип здесь"
+
+msgctxt "Edit the preview"
+msgid "Edit the preview"
+msgstr ""
+
+msgctxt "Existing images :"
+msgid "Existing images :"
+msgstr ""
+
+msgctxt "Feature"
+msgid "Feature"
+msgstr "Функции"
+
+msgctxt "Language"
+msgid "Language"
+msgstr "Язык"
+
+msgctxt "List of existing previews"
+msgid "List of existing previews"
+msgstr ""
+
+msgctxt "OR"
+msgid "OR"
+msgstr ""
+
+msgctxt "Preview images"
+msgid "Preview images"
+msgstr ""
+
+msgctxt "Preview successfully saved"
+msgid "Preview successfully saved"
+msgstr "Принтер успешно сохранен"
+
+msgctxt "Previews"
+msgid "Previews"
+msgstr "Предварительный просмотр"
+
+msgctxt "Search"
+msgid "Search"
+msgstr "Поиск"
+
+msgctxt ""
+"Sorry, but an existing preview for this feature has been found. Please edit "
+"existing one."
+msgid ""
+"Sorry, but an existing preview for this feature has been found. Please edit "
+"existing one."
+msgstr ""
+
+msgctxt "Title"
+msgid "Title"
+msgstr "название"
+
+msgctxt "Unable to copy the file."
+msgid "Unable to copy the file."
+msgstr "Не удается открыть архив."
+
+msgctxt "Unable to create the directory."
+msgid "Unable to create the directory."
+msgstr ""
+
+msgctxt "Unable to delete the file."
+msgid "Unable to delete the file."
+msgstr ""
+
+msgctxt "Unable to delete the file %s"
+msgid "Unable to delete the file %s"
+msgstr ""
+
+msgctxt "You don't have any previews yet"
+msgid "You don't have any previews yet"
+msgstr "Вы не создали еще ни одного пользователя"
+
+msgctxt "Your image has been successfully saved"
+msgid "Your image has been successfully saved"
+msgstr "Изображение было успешно сохранены"
+
+msgctxt "Your preview has been deleted successfully."
+msgid "Your preview has been deleted successfully."
+msgstr ""
+
+msgctxt "Your preview translation has been deleted successfully."
+msgid "Your preview translation has been deleted successfully."
+msgstr ""
+
+msgctxt "<b>File types:</b> %s<br />"
+msgid "<b>File types:</b> %s<br />"
+msgstr "<b>Тип файла:</b> %s"

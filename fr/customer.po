@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-15 11:07+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-15 13:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/customer/"
 "fr/>\n"
 "Language: fr\n"
@@ -14,221 +14,218 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: fr/customer.csv:1
-msgid "%s - Account creation"
-msgstr "%s - Création de compte"
-
-#: fr/customer.csv:2
-msgid "%s - Your new password"
-msgstr "%s - Votre nouveau mot de passe"
-
-#: fr/customer.csv:3
-msgid "%s – Account creation"
-msgstr "%s - Création du compte"
-
-#: fr/customer.csv:4
-msgid "%s – Your new password"
-msgstr "%s - Votre nouveau mot de passe"
-
-#: fr/customer.csv:5
+msgctxt "A request to reset your password has been made."
 msgid "A request to reset your password has been made."
 msgstr "Une requête pour "
 
-#: fr/customer.csv:6
-msgid "An error occurred while connecting to your Facebook account. Please try again later"
-msgstr "Une erreur est survenue lors de la tentative de connexion avec votre compte Facebook. Merci de réessayer ultérieurement."
+msgctxt ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgid ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
+msgstr ""
+"Une erreur est survenue lors de la tentative de connexion avec votre compte "
+"Facebook. Merci de réessayer ultérieurement."
 
-#: fr/customer.csv:7
+msgctxt "Are you sure you want to remove this user?"
 msgid "Are you sure you want to remove this user?"
 msgstr "Êtes-vous sûr de vouloir supprimer cet utilisateur?"
 
-#: fr/customer.csv:8
+msgctxt "Change Password"
 msgid "Change Password"
 msgstr "Changer le mot de passe"
 
-#: fr/customer.csv:9
+msgctxt "Civility"
+msgid "Civility"
+msgstr "Civilité"
+
+msgctxt "Congratulations,"
 msgid "Congratulations,"
 msgstr "Félicitations,"
 
-#: fr/customer.csv:10
+msgctxt "Create"
 msgid "Create"
 msgstr "Créer"
 
-#: fr/customer.csv:11
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Créer un nouvel utilisateur"
 
-#: fr/customer.csv:12
-msgid "Create an account"
-msgstr "Créez un compte"
-
-#: fr/customer.csv:13
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Client"
 
-#: fr/customer.csv:14
+msgctxt "Customers"
 msgid "Customers"
 msgstr "Clients"
 
-#: fr/customer.csv:15
+msgctxt "Disconnect"
 msgid "Disconnect"
 msgstr "Déconnexion"
 
-#: fr/customer.csv:16
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Modifier l'utilisateur %s"
 
-#: fr/customer.csv:17
+msgctxt "First name"
 msgid "First name"
 msgstr "Prénom"
 
-#: fr/customer.csv:18
-msgid "Forgot your password?"
-msgstr "Mot de passe oublié ?"
-
-#: fr/customer.csv:19
-msgid "Gender"
-msgstr "Civilité"
-
-#: fr/customer.csv:20
+msgctxt "Here are your credentials:"
 msgid "Here are your credentials:"
 msgstr "Voici vos identifiants"
 
-#: fr/customer.csv:21
-msgid "I accept the <u>privacy policy</u>"
-msgstr "J'accepte les <u>privacy policy</u>"
+msgctxt "I accept the privacy policy"
+msgid "I accept the privacy policy"
+msgstr "J'accepte la politique de confidentialité"
 
-#: fr/customer.csv:22
+msgctxt "If you encounter any problems, do not hesitate to contact us:"
 msgid "If you encounter any problems, do not hesitate to contact us:"
 msgstr "Si vous rencontrez un problème, n'hésitez pas à nous contacter :"
 
-#: fr/customer.csv:23
+msgctxt "Last name"
 msgid "Last name"
 msgstr "nom de famille"
 
-#: fr/customer.csv:24
+msgctxt "Login:"
 msgid "Login:"
 msgstr "Login :"
 
-#: fr/customer.csv:25
+msgctxt "Log-in with Facebook"
+msgid "Log-in with Facebook"
+msgstr "Connectez-vous avec Facebook"
+
+msgctxt "Miss"
 msgid "Miss"
 msgstr "Mlle"
 
-#: fr/customer.csv:26
+msgctxt "Mr"
 msgid "Mr"
 msgstr "Mr"
 
-#: fr/customer.csv:27
+msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Mme"
 
-#: fr/customer.csv:28
+msgctxt "My Account"
 msgid "My Account"
 msgstr "Mon compte"
 
-#: fr/customer.csv:29
+msgctxt "My application's users"
 msgid "My application's users"
 msgstr "Les utilisateurs de mon application"
 
-#: fr/customer.csv:30
-msgid "Old Password"
-msgstr "Ancien mot de passe"
+msgctxt "No user for now."
+msgid "No user for now."
+msgstr "Aucun utilisateur pour l'instant."
 
-#: fr/customer.csv:31
+msgctxt "No user match your request."
+msgid "No user match your request."
+msgstr "Pas d'utilisateur correspondant à votre demande."
+
+msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "Ou avec votre compte"
 
-#: fr/customer.csv:32
-msgid "Please enter your email address. We'll send you your password right now."
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
+msgid ""
+"Please enter your email address. We'll send you your password right now."
 msgstr ""
 "Veuillez indiquer votre adresse email. Nous vous envoyons un nouveau mot de "
 "passe."
 
-#: fr/customer.csv:33
+msgctxt "Please log in with your mobile phone"
 msgid "Please log in with your mobile phone"
 msgstr "Veuillez utiliser votre mobile pour vous connecter"
 
-#: fr/customer.csv:34
-msgid "Privacy Policy"
-msgstr "Privacy Policy"
-
-#: fr/customer.csv:35
+msgctxt "See you soon,"
 msgid "See you soon,"
 msgstr "bientôt,"
 
-#: fr/customer.csv:36
+msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Apparaître dans le classement"
 
-#: fr/customer.csv:37
+msgctxt "The old email address does not match the entered email address."
 msgid "The old email address does not match the entered email address."
-msgstr "Votre adresse email ne correspond pas à l'adresse email saisie dans la confirmation."
+msgstr ""
+"Votre adresse email ne correspond pas à l'adresse email saisie dans la "
+"confirmation."
 
-#: fr/customer.csv:38
-msgid "This user can access the pages locked by the \"Locker\" feature"
-msgstr "Cet utilisateur peut accéder aux pages verrouillées par la fonction \"Locker\""
-
-#: fr/customer.csv:39
+msgctxt "This user is visible in ranking"
 msgid "This user is visible in ranking"
 msgstr "Cet utilisateur est visible dans le classement"
 
-#: fr/customer.csv:40
+msgctxt "Title"
+msgid "Title"
+msgstr "Titre"
+
+msgctxt "User"
 msgid "User"
 msgstr "utilisateur"
 
-#: fr/customer.csv:41
+msgctxt "User Information"
 msgid "User Information"
 msgstr "Informations utilisateur"
 
-#: fr/customer.csv:42
+msgctxt "Users"
 msgid "Users"
 msgstr "utilisateurs"
 
-#: fr/customer.csv:43
-msgid "We are sorry but the %s account is already linked to one of our customers"
+msgctxt ""
+"We are sorry but the %s account is already linked to one of our customers"
+msgid ""
+"We are sorry but the %s account is already linked to one of our customers"
 msgstr "Nous sommes désolés mais ce compte %s est déjà lié à un de nos clients"
 
-#: fr/customer.csv:44
-msgid "You have created your account. With this account, you will be able to enjoy great offers available in our application."
-msgstr "Vous avez créé votre compte. Avec ce compte, vous serez en mesure de profiter des meilleurs offres disponibles dans notre application."
-
-#: fr/customer.csv:45
-msgid "Your account has been successfully saved"
-msgstr "Votre compte a été sauvegardé avec succès"
-
-msgid "Civility"
-msgstr "Civilité"
-
-msgid "I accept the privacy policy"
-msgstr "J'accepte la politique de confidentialité"
-
-msgid "Log-in with Facebook"
-msgstr "Connectez-vous avec Facebook"
-
-msgid "No user for now."
-msgstr "Aucun utilisateur pour l'instant."
-
-msgid "No user match your request."
-msgstr "Pas d'utilisateur correspondant à votre demande."
-
+msgctxt "We are sorry but this nickname is already used"
 msgid "We are sorry but this nickname is already used"
 msgstr "Nous sommes désolés mais ce pseudo est déjà utilisé"
 
-msgid "We are sorry but this nickname is not valid. Use only alphanumerical characters and underscores and use 15 characters maximum"
+msgctxt ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
+msgid ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
 msgstr ""
 "Nous sommes désolés mais ce pseudo n'est pas valide. Utilisez uniquement des "
 "caractères alphanumériques et caractères de soulignement et d'utiliser 15 "
 "caractères maximum"
 
+msgctxt ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgid ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
+msgstr ""
+"Vous avez créé votre compte. Avec ce compte, vous serez en mesure de "
+"profiter des meilleurs offres disponibles dans notre application."
+
+msgctxt "You must agree to our privacy policy to create an account."
 msgid "You must agree to our privacy policy to create an account."
 msgstr ""
 "Vous devez accepter notre politique de confidentialité pour créer un compte."
 
+msgctxt "You must fill firstname and lastname fields."
 msgid "You must fill firstname and lastname fields."
 msgstr "Vous devez remplir les champs prénom et nom."
 
+msgctxt "Your account has been successfully saved"
+msgid "Your account has been successfully saved"
+msgstr "Votre compte a été sauvegardé avec succès"
+
+msgctxt "Your points"
 msgid "Your points"
 msgstr "Vos points"
 
-msgid "Title"
-msgstr "Titre"
+msgctxt "%s - Account creation"
+msgid "%s - Account creation"
+msgstr "%s - Création de compte"
+
+msgctxt "%s - Your new password"
+msgid "%s - Your new password"
+msgstr "%s - Votre nouveau mot de passe"

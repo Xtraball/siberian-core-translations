@@ -1,134 +1,177 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Xtraball <dev@xtraball.com>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2019-01-15 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/comment/el/"
+">\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-10T10:50:00+00:00\n"
-"PO-Revision-Date: 2019-01-10T10:50:00+00:00\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-#: el/comment.csv:1
-msgid "'Near me' radius (in km):"
-msgstr "«Κοντά μου» ακτίνα (σε χλμ):"
+msgctxt "Add a comment"
+msgid "Add a comment"
+msgstr ""
 
-#: el/comment.csv:2
+msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
-msgstr "Παρουσιάστηκε σφάλμα κατά τη διαγραφή αυτής της απάντησης. Παρακαλώ δοκιμάστε ξανά αργότερα."
+msgstr ""
+"Παρουσιάστηκε σφάλμα κατά τη διαγραφή αυτής της απάντησης. Παρακαλώ "
+"δοκιμάστε ξανά αργότερα."
 
-#: el/comment.csv:3
+msgctxt "COMMENTS"
+msgid "COMMENTS"
+msgstr ""
+
+msgctxt "Create a news"
 msgid "Create a news"
 msgstr "Δημιουργήστε μια νέα"
 
-#: el/comment.csv:4
-msgid "Create a news:"
-msgstr "Δημιουργήστε μια νέα:"
+msgctxt "Delete this info"
+msgid "Delete this info"
+msgstr "Διαγραφή αυτής της εκδήλωσης?"
 
-#: el/comment.csv:5
+msgctxt "Flag"
+msgid "Flag"
+msgstr ""
+
+msgctxt "Flag as inappropriate"
+msgid "Flag as inappropriate"
+msgstr "Επισημάνθηκε ως ακατάλληλο"
+
+msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Απέκρυψε αυτές τις πληροφορίες"
 
-#: el/comment.csv:6
+msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Πληροφορίες διαγράφηκαν με επιτυχία"
 
-#: el/comment.csv:7
+msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Κρυμμένες πληροφορίες επιτυχώς"
 
-#: el/comment.csv:8
+msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Πληροφορίες αποθηκεύτηκαν με επιτυχία"
 
-#: el/comment.csv:9
+msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Πληροφορίες φαίνονται επιτυχώς"
 
-#: el/comment.csv:10
+msgctxt "Insert a"
 msgid "Insert a"
 msgstr "Τοποθετήστε ένα"
 
-#: el/comment.csv:11
+msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Θα είναι ορατό μόνο μετά την επικύρωση από την ομάδα μας."
 
-#: el/comment.csv:12
+msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Οι απαντήσεις των πελατών μου"
 
-#: el/comment.csv:13
+msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Σχόλια πελατών μου"
 
-#: el/comment.csv:14
+msgctxt "Near me"
 msgid "Near me"
 msgstr "Κοντά μου"
 
-#: el/comment.csv:15
+msgctxt "'Near me' radius (in km):"
+msgid "'Near me' radius (in km):"
+msgstr "«Κοντά μου» ακτίνα (σε χλμ):"
+
+msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Κοντινές μου ρυθμίσεις"
 
-#: el/comment.csv:16
+msgctxt "New post"
+msgid "New post"
+msgstr ""
+
+msgctxt "No comment for now"
+msgid "No comment for now"
+msgstr ""
+
+msgctxt "No comments for now"
+msgid "No comments for now"
+msgstr ""
+
+msgctxt "Post"
 msgid "Post"
 msgstr "Δημοσίευση"
 
-#: el/comment.csv:17
+msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "Ημερομηνία Δημοσίευσης"
 
-#: el/comment.csv:18
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Ακτίνα"
 
-#: el/comment.csv:19
+msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Η ακτίνα πρέπει να είναι μια έγκυρη αριθμητική τιμή."
 
-#: el/comment.csv:20
+msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Πρέπει να παρέχεται ακτίνα."
 
-#: el/comment.csv:21
+msgctxt "Read More"
+msgid "Read More"
+msgstr "Φόρτωση περισσoτέρων"
+
+msgctxt "Recent"
 msgid "Recent"
 msgstr "Πρόσφατος"
 
-#: el/comment.csv:22
+msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Δείτε αυτές τις πληροφορίες"
 
-#: el/comment.csv:23
+msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Δεν υπάρχει κανένα σχόλιο για αυτή την είδηση"
 
-#: el/comment.csv:24
+msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "Επισημάνθηκε ως ακατάλληλο"
 
-#: el/comment.csv:25
+msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Δεν μπορείτε να σας αρέσει περισσότερο από μία φορά οι ίδιες ειδήσεις"
 
-#: el/comment.csv:26
+msgctxt "You have to enter a text message."
+msgid "You have to enter a text message."
+msgstr ""
+
+msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Θα πρέπει να είστε συνδεδεμένοι για να δημιουργήσει μια δημοσίευση"
 
-#: el/comment.csv:27
+msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "Η σημαία σας έχει κοινοποιηθεί επιτυχώς"
 
-#: el/comment.csv:28
+msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Το μου αρέσει έχει προστεθεί με επιτυχία"
 
-#: el/comment.csv:29
+msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "Το μήνυμά σας έχει αποθηκευτεί με επιτυχία."
 
-#: el/comment.csv:30
+msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Η δημοσίευση σας προστέθηκε με επιτυχία"
+
+msgctxt "en"
+msgid "en"
+msgstr "el"
