@@ -1037,3 +1037,6 @@ msgstr "Paramètres Tour"
 
 msgid "Tour status"
 msgstr "Statut du Tour"
+
+msgid "Tour status successfully saved."
+msgstr "Statut de la visite sauvegardée avec succès."
