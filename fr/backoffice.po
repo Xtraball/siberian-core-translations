@@ -372,3 +372,6 @@ msgstr "Intervalle cron"
 
 msgid "Cron scheduler"
 msgstr "Cron planificateur"
+
+msgid "Cron scheduler help"
+msgstr "Cron ordonnanceur aide"
