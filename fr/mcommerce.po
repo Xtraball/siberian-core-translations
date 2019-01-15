@@ -1106,3 +1106,6 @@ msgstr "Nom de famille"
 
 msgid "Lastname"
 msgstr "Nom"
+
+msgid "Postcode"
+msgstr "Code Postal"
