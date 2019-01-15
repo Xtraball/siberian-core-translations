@@ -613,3 +613,6 @@ msgstr "Marquer comme nouveau"
 
 msgid "Mark as read"
 msgstr "Marquer comme lu"
+
+msgid "Messages"
+msgstr "Messages"
