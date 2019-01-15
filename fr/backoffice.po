@@ -1080,3 +1080,6 @@ msgstr "Utiliser les certificats existants sur mon serveur"
 
 msgid "Username"
 msgstr "Nom d'utilisateur"
+
+msgid "User's status successfully edited"
+msgstr "Statut de l'utilisateur modifié avec succès"
