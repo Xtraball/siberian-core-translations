@@ -504,3 +504,8 @@ msgstr ""
 "La prise en charge HTTPS se trouve dans <b> Bêta </ b>, vous devez d'abord "
 "le tester sur votre <b> serveur de développement </ b> et préparer la "
 "migration ultérieure."
+
+msgid "HTTPS support is in test, you should only try it on your development server prior to prepare for further migration."
+msgstr ""
+"Le support HTTPS est en test, vous ne devriez l'essayer que sur votre "
+"serveur de développement avant de vous préparer à une migration ultérieure."
