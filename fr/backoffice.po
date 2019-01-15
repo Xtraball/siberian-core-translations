@@ -327,3 +327,6 @@ msgid "Check if this cron command is installed under the web user & if you have 
 msgstr ""
 "Vérifiez si cette commande cron est installé sous l'utilisateur web et si "
 "vous avez défini un fuseau horaire dans Réglages> Général"
+
+msgid "Clear"
+msgstr "Effacer"
