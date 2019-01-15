@@ -252,3 +252,6 @@ msgstr "Type d'authentification"
 
 msgid "Average build time in seconds:"
 msgstr "Temps de construction moyen en secondes :"
+
+msgid "Average sources/apk build time:"
+msgstr "Moyen du temps de construction des fichiers source et APK"
