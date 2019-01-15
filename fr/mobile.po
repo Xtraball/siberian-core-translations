@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 10:39+0000\n"
+"PO-Revision-Date: 2019-01-15 10:40+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mobile/fr/"
 ">\n"
@@ -359,3 +359,6 @@ msgstr "Ok"
 
 msgid "Or with your account"
 msgstr "Ou avec votre compte"
+
+msgid "Password"
+msgstr "Mot de passe"
