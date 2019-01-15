@@ -287,3 +287,6 @@ msgstr "Description"
 
 msgid "Phone"
 msgstr "Téléphone"
+
+msgid "Title"
+msgstr "Titre"
