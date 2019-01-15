@@ -920,3 +920,6 @@ msgid "Statistics are used to improve the platform and help understanding usage 
 msgstr ""
 "Les statistiques sont utilisées pour améliorer la plateforme et aider à "
 "comprendre l'utilisation du générateur d'applications."
+
+msgid "Status"
+msgstr "Statut"
