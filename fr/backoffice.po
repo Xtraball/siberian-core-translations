@@ -264,3 +264,6 @@ msgstr "Titulaire de la marque d'Authentification est valide."
 
 msgid "Beta"
 msgstr "Beta"
+
+msgid "Build status"
+msgstr "Statut de construction"
