@@ -937,3 +937,6 @@ msgstr "Ancien certificat nettoyé avec succès."
 
 msgid "Successfully installed new certificate."
 msgstr "Installation réussi du nouveau certificat."
+
+msgid "Successfully removed the certificate."
+msgstr "Retirer le certificat avec succès."
