@@ -339,3 +339,6 @@ msgstr "Cliquez ici pour envoyer votre certificat CA"
 
 msgid "Click here to send your Private certificate"
 msgstr "Cliquez ici pour envoyer votre certificat Privé"
+
+msgid "Click here to send your certificate"
+msgstr "Cliquez ici pour envoyer votre certificat"
