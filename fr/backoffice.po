@@ -822,3 +822,6 @@ msgstr "Suppression de fichiers de verrouillage CRON Scheduler ."
 
 msgid "Removing domains: %s"
 msgstr "Suppression de domaines: %s"
+
+msgid "Request"
+msgstr "Demande"
