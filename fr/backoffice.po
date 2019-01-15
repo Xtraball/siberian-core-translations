@@ -535,3 +535,6 @@ msgid "If you are unable to install or run the cronjob on your hosting/server yo
 msgstr ""
 "Si vous ne parvenez pas à installer ou exécuter le cron sur votre "
 "hébergement / serveur, vous pouvez le désactiver ."
+
+msgid "Info"
+msgstr "Info"
