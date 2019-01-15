@@ -13,6 +13,6 @@ foreach ($files as $file) {
             }
             $newContent[] = $line;
         }
-        file_put_contents($file->getPathname(), implode("\n", $newContent));
+        file_put_contents($file->getPathname(), implode("", $newContent));
     }
 }
