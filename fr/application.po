@@ -2353,3 +2353,6 @@ msgstr "Calendrier"
 
 msgid "Display address"
 msgstr "Afficher l'adresse"
+
+msgid "Display location button"
+msgstr "Afficher le bouton de localisation"
