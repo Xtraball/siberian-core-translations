@@ -915,3 +915,8 @@ msgstr "Commencer à éditer votre visite de la plateforme"
 
 msgid "Statistics"
 msgstr "Statistiques"
+
+msgid "Statistics are used to improve the platform and help understanding usage of the apps builder."
+msgstr ""
+"Les statistiques sont utilisées pour améliorer la plateforme et aider à "
+"comprendre l'utilisation du générateur d'applications."
