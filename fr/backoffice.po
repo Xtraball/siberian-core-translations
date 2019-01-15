@@ -702,3 +702,6 @@ msgid "One of the three given Certificates path is not readable, please make sur
 msgstr ""
 "L'un des trois accès de certificats n'est pas lisible, assurez-vous qu'ils "
 "ont les bons droits."
+
+msgid "Open"
+msgstr "Ouvert"
