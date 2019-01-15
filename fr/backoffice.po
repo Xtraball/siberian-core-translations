@@ -949,3 +949,6 @@ msgstr "Synchronisation de fichiers"
 
 msgid "System Diagnostic"
 msgstr "Diagnostic du système"
+
+msgid "System tasks"
+msgstr "Tâches du système"
