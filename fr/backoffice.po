@@ -664,3 +664,6 @@ msgstr "Pas de mises en page"
 
 msgid "No module/user tasks"
 msgstr "Pas de module/tâches utilisateur"
+
+msgid "No system tasks"
+msgstr "Pas de système de tâches"
