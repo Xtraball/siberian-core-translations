@@ -486,3 +486,6 @@ msgstr "Authentification HTTP Basic (API)"
 
 msgid "HTTP Basic Auth is valid."
 msgstr "Basic auth HTTP est valide."
+
+msgid "HTTPS & SSL Certificates"
+msgstr "HTTPS ET des Certificats SSL"
