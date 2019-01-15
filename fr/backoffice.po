@@ -1098,3 +1098,6 @@ msgstr "VestaCP (php 5.6+ uniquement)"
 
 msgid "WHM cPanel"
 msgstr "WHM cPanel"
+
+msgid "Waiting for %s to reload, this can take a while..."
+msgstr "En attente de% s pour recharger, cela peut prendre un certain temps ..."
