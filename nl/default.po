@@ -1331,3 +1331,6 @@ msgstr "Pushmeldingen"
 
 msgid "Close mobile display"
 msgstr "Sluit mobiele weergave"
+
+msgid "Delete this folder and all its subfolders?"
+msgstr "Deze map en alle submappen verwijderen?"
