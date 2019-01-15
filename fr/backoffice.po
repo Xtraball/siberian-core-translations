@@ -571,3 +571,6 @@ msgstr "Erreur du dernier cron"
 
 msgid "Last failure"
 msgstr "Dernier échec"
+
+msgid "Last success"
+msgstr "Dernier succès"
