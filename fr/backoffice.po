@@ -297,3 +297,6 @@ msgstr "Cache (var/cache, system cache)"
 
 msgid "Can generate APK"
 msgstr "Peut générer APK"
+
+msgid "Cert"
+msgstr "Cert"
