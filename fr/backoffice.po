@@ -619,3 +619,6 @@ msgstr "Messages"
 
 msgid "Minute"
 msgstr "Minutes"
+
+msgid "Missing parameters for generation."
+msgstr "Paramètres pour la génération manquante ."
