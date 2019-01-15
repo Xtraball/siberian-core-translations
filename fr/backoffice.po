@@ -249,3 +249,6 @@ msgstr "Etes vous certain?"
 
 msgid "Auth type"
 msgstr "Type d'authentification"
+
+msgid "Average build time in seconds:"
+msgstr "Temps de construction moyen en secondes :"
