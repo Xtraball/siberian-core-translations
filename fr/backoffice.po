@@ -676,3 +676,6 @@ msgstr "Pas trouvé"
 
 msgid "Not running"
 msgstr "Ne travaille pas"
+
+msgid "Not yet generated."
+msgstr "Pas encore généré."
