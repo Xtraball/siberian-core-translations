@@ -855,3 +855,8 @@ msgstr "Auto-géré"
 
 msgid "Self-managed sync is not available for now."
 msgstr "La synchronisation autogérée n'est pas disponible pour le moment."
+
+msgid "Send anonymous statistics to improve the apps builder."
+msgstr ""
+"Envoyer des données statistiques anonymes pour améliorer le générateur "
+"d'applications."
