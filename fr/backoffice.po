@@ -363,3 +363,6 @@ msgstr "Date de création"
 
 msgid "Cron"
 msgstr "Cron"
+
+msgid "Cron alerts"
+msgstr "Alertes cron"
