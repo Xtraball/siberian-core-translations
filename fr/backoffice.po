@@ -589,3 +589,6 @@ msgstr "[Let's Encrypt] renouvellement du certificat."
 
 msgid "[Let's Encrypt] will add %s to SAN."
 msgstr "[Let's Encrypt] s'ajoutera %s à SAN."
+
+msgid "Link preview"
+msgstr "Lien de prévisualisation"
