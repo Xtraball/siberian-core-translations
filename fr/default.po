@@ -1327,3 +1327,6 @@ msgstr "De:"
 
 msgid "Number of people"
 msgstr "Nombre de personnes"
+
+msgid "Event"
+msgstr "Evénement"
