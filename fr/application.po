@@ -2350,3 +2350,6 @@ msgstr ""
 
 msgid "Calendar"
 msgstr "Calendrier"
+
+msgid "Display address"
+msgstr "Afficher l'adresse"
