@@ -786,3 +786,6 @@ msgstr "La Production"
 
 msgid "Progress"
 msgstr "Avancée"
+
+msgid "Publication access type"
+msgstr "Type d'accès de publication"
