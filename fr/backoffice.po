@@ -634,3 +634,6 @@ msgstr "Mois"
 
 msgid "My Invoices"
 msgstr "Mes Factures"
+
+msgid "My tour is active"
+msgstr "Mon Tour est active"
