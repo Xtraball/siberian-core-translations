@@ -559,3 +559,6 @@ msgstr "Vérification de l'intégrité"
 
 msgid "Invoice options"
 msgstr "Options de facturation"
+
+msgid "Issued certificates"
+msgstr "Certificats émis"
