@@ -670,3 +670,6 @@ msgstr "Pas de système de tâches"
 
 msgid "None"
 msgstr "Aucun"
+
+msgid "Not found"
+msgstr "Pas trouvé"
