@@ -1230,3 +1230,7 @@ msgstr "letsencrypt"
 
 msgid "per page"
 msgstr "par page"
+
+msgid "see Settings > Advanced > Configuration > Cron to edit options."
+msgstr ""
+"voir Paramètres > Avancé> Configuration> Cron pour modifier les options ."
