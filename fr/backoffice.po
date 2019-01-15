@@ -834,3 +834,6 @@ msgstr "Extensions obligatoires"
 
 msgid "Run test"
 msgstr "Exécuter le test"
+
+msgid "SSL"
+msgstr "SSL"
