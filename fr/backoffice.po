@@ -943,3 +943,6 @@ msgstr "Retirer le certificat avec succès."
 
 msgid "Successfully saved Certificate to %s"
 msgstr "Enregistrer le certificat avec succès à% s"
+
+msgid "Sync files"
+msgstr "Synchronisation de fichiers"
