@@ -553,3 +553,6 @@ msgstr "Les modules installés"
 
 msgid "Installed, version"
 msgstr "Installé, version"
+
+msgid "Integrity check"
+msgstr "Vérification de l'intégrité"
