@@ -825,3 +825,6 @@ msgstr "Suppression de domaines: %s"
 
 msgid "Request"
 msgstr "Demande"
+
+msgid "Request the certificate via Let's Encrypt."
+msgstr "Demande de certificat via Let's Encrypt."
