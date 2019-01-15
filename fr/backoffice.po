@@ -447,3 +447,6 @@ msgstr "Extensions externes"
 
 msgid "Failed"
 msgstr "Échec"
+
+msgid "File hash is different from manifest."
+msgstr "Fichier Hash est différent du manifeste"
