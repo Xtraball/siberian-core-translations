@@ -1174,3 +1174,6 @@ msgstr ""
 
 msgid "You have no certificate yet."
 msgstr "Vous n'avez pas de certificat encore."
+
+msgid "You have no new messages."
+msgstr "Vous n'avez pas de nouveaux messages."
