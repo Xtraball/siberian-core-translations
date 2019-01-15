@@ -492,3 +492,6 @@ msgstr "HTTPS ET des Certificats SSL"
 
 msgid "HTTPS host is unreachable."
 msgstr "Hôte HTTPS est inaccessible."
+
+msgid "HTTPS is not available on your server."
+msgstr "HTTPS n'est pas disponible sur votre serveur."
