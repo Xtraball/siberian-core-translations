@@ -601,3 +601,6 @@ msgstr "Journal"
 
 msgid "Log (var/log, log files)"
 msgstr "Log (var/log, log files)"
+
+msgid "Logs cleared."
+msgstr "Logs effacés"
