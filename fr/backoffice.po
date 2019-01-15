@@ -1031,3 +1031,6 @@ msgstr "Total des ventes"
 
 msgid "Total usage:"
 msgstr "Total d'utilisation:"
+
+msgid "Tour settings"
+msgstr "Paramètres Tour"
