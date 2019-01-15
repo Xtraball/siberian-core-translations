@@ -14,12 +14,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while reading the codeAn error occurred while reading the "
-"code"
 msgid "An error occurred while reading the code"
 msgstr "Une erreur est survenue lors de la lecture du code"
 
-msgctxt "Scan resultScan result"
 msgid "Scan result"
 msgstr "résultat d'analyse"

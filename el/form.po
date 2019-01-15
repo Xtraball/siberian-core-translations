@@ -14,182 +14,118 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a fieldAdd a field"
 msgid "Add a field"
 msgstr "Προσθήκη πεδίου"
 
-msgctxt "Add a sectionAdd a section"
 msgid "Add a section"
 msgstr "Προσθήκη ενότητας"
 
-msgctxt "Add an optionAdd an option"
 msgid "Add an option"
 msgstr "Προσθήκη επιλογής"
 
-msgctxt ""
-"An error occurred while saving. A field can't be identified.An error "
-"occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr ""
 "Υπήρξε σφάλμα κατά την αποθήκευση. Κάθε πεδίο πρέπει να είναι προσδιορισμένο."
 
-msgctxt ""
-"Are you sure you want to remove this field?Are you sure you want to remove "
-"this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το πεδίο?"
 
-msgctxt ""
-"Are you sure you want to remove this section?Are you sure you want to "
-"remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ενότητα?"
 
-msgctxt "CheckboxCheckbox"
 msgid "Checkbox"
 msgstr "Κουτάκι επιλογής"
 
-msgctxt "Choose a field type:Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Επιλογή τύπου πεδίου:"
 
-msgctxt "Create a new fieldCreate a new field"
 msgid "Create a new field"
 msgstr "Δημιουργία νέου πεδίου"
 
-msgctxt "Date/HourDate/Hour"
 msgid "Date/Hour"
 msgstr "Ημ/νία / ώρα"
 
-msgctxt "Drop downDrop down"
 msgid "Drop down"
 msgstr "Λίστα επιλογής"
 
-msgctxt "Edit field %sEdit field %s"
 msgid "Edit field %s"
 msgstr "Επεξεργασία πεδίου %s"
 
-msgctxt "Field nameField name"
 msgid "Field name"
 msgstr "Όνομα πεδίου"
 
-msgctxt ""
-"Form data will be sent to this email. Until you fill out this field, your "
-"form won't be displayed on client side.Form data will be sent to this "
-"email. Until you fill out this field, your form won't be displayed on client "
-"side."
 msgid ""
 "Form data will be sent to this email. Until you fill out this field, your "
 "form won't be displayed on client side."
 msgstr ""
 
-msgctxt "GeolocationGeolocation"
 msgid "Geolocation"
 msgstr "Geolocation"
 
-msgctxt "Hello,Hello,"
 msgid "Hello,"
 msgstr "Γειά σας,"
 
-msgctxt "Import a pictureImport a picture"
 msgid "Import a picture"
 msgstr ""
 
-msgctxt "Import from LibraryImport from Library"
 msgid "Import from Library"
 msgstr ""
 
-msgctxt "Manage fieldsManage fields"
 msgid "Manage fields"
 msgstr "Διαχείριση πεδίων"
 
-msgctxt "Manage options:Manage options:"
 msgid "Manage options:"
 msgstr "Διαχείριση επιλογών:"
 
-msgctxt "Multiline textMultiline text"
 msgid "Multiline text"
 msgstr "Πεδίο κειμένου πολλαπλών γραμμών"
 
-msgctxt "OptionOption"
 msgid "Option"
 msgstr "Επιλογή"
 
-msgctxt "RadioRadio"
 msgid "Radio"
 msgstr "Radio"
 
-msgctxt "Recipient emailRecipient email"
 msgid "Recipient email"
 msgstr ""
 
-msgctxt "Take a pictureTake a picture"
 msgid "Take a picture"
 msgstr ""
 
-msgctxt "The form has been sent successfullyThe form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "Το μήνυμά σας εστάλει επιτυχώς"
 
-msgctxt "You have to choose a field type.You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Πρέπει να επιλέξετε έναν τύπο πεδίου."
 
-msgctxt "Your app's formYour app's form"
 msgid "Your app's form"
 msgstr "Φόρμα Επικοινωνίας από App"
 
-msgctxt ""
-"Your form has been filled out, here are the answers:Your form has been "
-"filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Η φόρμα σας συμπληρώθηκε επιτυχώς, δείτε τις απαντήσεις:"
 
-msgctxt ""
-"<strong>%s</strong> is not a numerical value<br /><strong>%s</strong> is "
-"not a numerical value<br />"
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να έχει αριθμούς<br />"
 
-msgctxt ""
-"<strong>%s</strong> is not valid email address<br /><strong>%s</strong> is "
-"not valid email address<br />"
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι ένα έγκυρο E-mail<br />"
 
-msgctxt ""
-"<strong>%s</strong> is required<br /><strong>%s</strong> is required<br />"
 msgid "<strong>%s</strong> is required<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να συμπληρωθεί<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a numerical value<br /><strong>%s</strong> must "
-"be a numerical value<br />"
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να έχει αριθμούς<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br "
-"/><strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr ""
 "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία (π.χ. "
 "ηη/ΜΜ/ΕΕΕΕ)<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a valid date<br /><strong>%s</strong> must be a "
-"valid date<br />"
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι μία έγκυρη ημ/νία<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a valid email address<br /><strong>%s</strong> "
-"must be a valid email address<br />"
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να είναι ένα έγκυρο E-mail<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be filled<br /><strong>%s</strong> must be filled<"
-"br />"
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "Το πεδίο <strong>%s</strong> πρέπει να συμπληρωθεί<br />"

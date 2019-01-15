@@ -14,70 +14,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a fieldAdd a field"
 msgid "Add a field"
 msgstr "Agregar un campo"
 
-msgctxt "Add a sectionAdd a section"
 msgid "Add a section"
 msgstr "Añadir una sección"
 
-msgctxt "Add an optionAdd an option"
 msgid "Add an option"
 msgstr "Añadir una opción"
 
-msgctxt ""
-"An error occurred while saving. A field can't be identified.An error "
-"occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr ""
 "Se ha producido un error al guardar. Un campo no puede ser identificado."
 
-msgctxt ""
-"Are you sure you want to remove this field?Are you sure you want to remove "
-"this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "¿Está seguro que desea eliminar este campo?"
 
-msgctxt ""
-"Are you sure you want to remove this section?Are you sure you want to "
-"remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "¿Está seguro que desea eliminar esta sección?"
 
-msgctxt "CheckboxCheckbox"
 msgid "Checkbox"
 msgstr "Casilla de Verificación"
 
-msgctxt "Choose a field type:Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Seleccione un tipo de campo:"
 
-msgctxt "Create a new fieldCreate a new field"
 msgid "Create a new field"
 msgstr "Crear un nuevo campo"
 
-msgctxt "Date/HourDate/Hour"
 msgid "Date/Hour"
 msgstr "Fecha / hora"
 
-msgctxt "Drop downDrop down"
 msgid "Drop down"
 msgstr "Lista desplegable"
 
-msgctxt "Edit field %sEdit field %s"
 msgid "Edit field %s"
 msgstr "Editar el campo %s"
 
-msgctxt "Field nameField name"
 msgid "Field name"
 msgstr "Nombre del campo"
 
-msgctxt ""
-"Form data will be sent to this email. Until you fill out this field, your "
-"form won't be displayed on client side.Form data will be sent to this "
-"email. Until you fill out this field, your form won't be displayed on client "
-"side."
 msgid ""
 "Form data will be sent to this email. Until you fill out this field, your "
 "form won't be displayed on client side."
@@ -85,111 +61,71 @@ msgstr ""
 "Los datos del formulario serán enviados a este email. Hasta que el campo no "
 "se rellene, el formulario no será mostrado en la parte cliente."
 
-msgctxt "GeolocationGeolocation"
 msgid "Geolocation"
 msgstr "Geolocalización"
 
-msgctxt "Hello,Hello,"
 msgid "Hello,"
 msgstr "Hola,"
 
-msgctxt "Import a pictureImport a picture"
 msgid "Import a picture"
 msgstr "Importar imagen"
 
-msgctxt "Import from LibraryImport from Library"
 msgid "Import from Library"
 msgstr "Importar desde galería"
 
-msgctxt "Manage fieldsManage fields"
 msgid "Manage fields"
 msgstr "Gestionar los campos"
 
-msgctxt "Manage options:Manage options:"
 msgid "Manage options:"
 msgstr "Administrar opciones:"
 
-msgctxt "Multiline textMultiline text"
 msgid "Multiline text"
 msgstr "Texto Multilíneas"
 
-msgctxt "OptionOption"
 msgid "Option"
 msgstr "Opción"
 
-msgctxt "RadioRadio"
 msgid "Radio"
 msgstr "Radio"
 
-msgctxt "Recipient emailRecipient email"
 msgid "Recipient email"
 msgstr "Receptor de email"
 
-msgctxt "Take a pictureTake a picture"
 msgid "Take a picture"
 msgstr "Echar una foto"
 
-msgctxt "The form has been sent successfullyThe form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "El formulario ha sido enviado correctamente"
 
-msgctxt "You have to choose a field type.You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Tiene que elegir un tipo de campo."
 
-msgctxt "Your app's formYour app's form"
 msgid "Your app's form"
 msgstr "Formulario de su aplicación"
 
-msgctxt ""
-"Your form has been filled out, here are the answers:Your form has been "
-"filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Su formulario ha sido completado, esto es las respuestas:"
 
-msgctxt ""
-"<strong>%s</strong> is not a numerical value<br /><strong>%s</strong> is "
-"not a numerical value<br />"
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "<strong>%s</strong> no es un valor numérico<br />"
 
-msgctxt ""
-"<strong>%s</strong> is not valid email address<br /><strong>%s</strong> is "
-"not valid email address<br />"
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr "<strong>%s</strong> no es una dirección email válida<br />"
 
-msgctxt ""
-"<strong>%s</strong> is required<br /><strong>%s</strong> is required<br />"
 msgid "<strong>%s</strong> is required<br />"
 msgstr "<strong>%s</strong> es requerido<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a numerical value<br /><strong>%s</strong> must "
-"be a numerical value<br />"
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> debe ser un valor numérico <br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br "
-"/><strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong> debe ser una fecha válida (ej. dd/mm/aaaa)<br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a valid date<br /><strong>%s</strong> must be a "
-"valid date<br />"
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong> debe ser una fecha válida <br />"
 
-msgctxt ""
-"<strong>%s</strong> must be a valid email address<br /><strong>%s</strong> "
-"must be a valid email address<br />"
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> debe ser un email válido <br />"
 
-msgctxt ""
-"<strong>%s</strong> must be filled<br /><strong>%s</strong> must be filled<"
-"br />"
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> debe ser rellenado <br />"

@@ -14,18 +14,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while loading the videos. Please try again later.An error "
-"occurred while loading the videos. Please try again later."
 msgid "An error occurred while loading the videos. Please try again later."
 msgstr ""
 "Υπήρξε σφάλμα κατά την φόρτωση των videos. Παρακαλούμε δοκιμάστε ξανά "
 "αργότερα."
 
-msgctxt "Enter your Facebook Fan Page IdEnter your Facebook Fan Page Id"
 msgid "Enter your Facebook Fan Page Id"
 msgstr "Συμπληρώστε το Facebook Fan Page ID σας"
 
-msgctxt "Enter your Facebook Fan Page Id *:Enter your Facebook Fan Page Id *:"
 msgid "Enter your Facebook Fan Page Id *:"
 msgstr "Συμπληρώστε το Facebook Fan Page ID σας"

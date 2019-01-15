@@ -13,205 +13,147 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add Add "
 msgid "Add "
 msgstr "Toevoegen "
 
-msgctxt "Add attachementAdd attachement"
 msgid "Add attachement"
 msgstr "Voeg bijlage toe"
 
-msgctxt "Add coverAdd cover"
 msgid "Add cover"
 msgstr "Omslag toevoegen"
 
-msgctxt "Add sections:Add sections:"
 msgid "Add sections:"
 msgstr "Secties toevoegen:"
 
-msgctxt "Add to address bookAdd to address book"
 msgid "Add to address book"
 msgstr "Voeg toe aan adressenboek"
 
-msgctxt "Address:Address:"
 msgid "Address:"
 msgstr "Adres:"
 
-msgctxt "Alignment:Alignment:"
 msgid "Alignment:"
 msgstr "Uitlijnen:"
 
-msgctxt "An error occured.An error occured."
 msgid "An error occured."
 msgstr "Er is een fout opgetreden."
 
-msgctxt ""
-"An error occurred while saving your page.An error occurred while saving "
-"your page."
 msgid "An error occurred while saving your page."
 msgstr "Er is een fout opgetreden bij het opslaan van uw pagina."
 
-msgctxt ""
-"Are you sure you want to delete this page?Are you sure you want to delete "
-"this page?"
 msgid "Are you sure you want to delete this page?"
 msgstr "Weet u zeker dat u deze pagina wilt verwijderen?"
 
-msgctxt ""
-"At least one section is required to save.At least one section is required "
-"to save."
 msgid "At least one section is required to save."
 msgstr "Tenminste één sectie is nodig om op te slaan."
 
-msgctxt "AttachementAttachement"
 msgid "Attachement"
 msgstr "Bijlage"
 
-msgctxt "Attachment:Attachment:"
 msgid "Attachment:"
 msgstr "Bijlage:"
 
-msgctxt "Custom iconCustom icon"
 msgid "Custom icon"
 msgstr "Aangepast icoon"
 
-msgctxt "Custom pageCustom page"
 msgid "Custom page"
 msgstr "Aangepaste pagina"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Omschrijving"
 
-msgctxt "Display addressDisplay address"
 msgid "Display address"
 msgstr "Toon adres"
 
-msgctxt "Display image in pageDisplay image in page"
 msgid "Display image in page"
 msgstr "Toon afbeelding op pagina"
 
-msgctxt "Display location buttonDisplay location button"
 msgid "Display location button"
 msgstr "Toon locatie knop"
 
-msgctxt "Display title and subtitle in pageDisplay title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr "Toon titel en ondertitel in pagina"
 
-msgctxt "Email:Email:"
 msgid "Email:"
 msgstr "Email:"
 
-msgctxt "Hide navbarHide navbar"
 msgid "Hide navbar"
 msgstr "Verberg navigatiebalk"
 
-msgctxt "LabelLabel"
 msgid "Label"
 msgstr "Label"
 
-msgctxt "LargeLarge"
 msgid "Large"
 msgstr "Groot"
 
-msgctxt "Latitude:Latitude:"
 msgid "Latitude:"
 msgstr "Breedtegraad:"
 
-msgctxt "Link:Link:"
 msgid "Link:"
 msgstr "Link:"
 
-msgctxt "Loading picture:Loading picture:"
 msgid "Loading picture:"
 msgstr "Afbeelding laden:"
 
-msgctxt "Longitude:Longitude:"
 msgid "Longitude:"
 msgstr "Lengtegraad:"
 
-msgctxt ""
-"Make a search or enter the Youtube Url:Make a search or enter the Youtube "
-"Url:"
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Zoek of vul de YouTube-URL in:"
 
-msgctxt "MediumMedium"
 msgid "Medium"
 msgstr "Middel"
 
-msgctxt "My Youtube video:My Youtube video:"
 msgid "My Youtube video:"
 msgstr "Mijn Youtube video:"
 
-msgctxt "My videoMy video"
 msgid "My video"
 msgstr "Mijn video"
 
-msgctxt "No videos matching your selectionNo videos matching your selection"
 msgid "No videos matching your selection"
 msgstr "Geen video's die voldoen aan uw selectie"
 
-msgctxt "Page successfully deletedPage successfully deleted"
 msgid "Page successfully deleted"
 msgstr "Pagina succesvol verwijderd"
 
-msgctxt "Page successfully savedPage successfully saved"
 msgid "Page successfully saved"
 msgstr "Pagina succesvol opgeslagen"
 
-msgctxt "Phone:Phone:"
 msgid "Phone:"
 msgstr "Telefoon:"
 
-msgctxt "Podcast URL:Podcast URL:"
 msgid "Podcast URL:"
 msgstr "Podcast URL:"
 
-msgctxt "Select a button type:Select a button type:"
 msgid "Select a button type:"
 msgstr "Selecteer knop type:"
 
-msgctxt "Select a video type:Select a video type:"
 msgid "Select a video type:"
 msgstr "Selecteer een video-type:"
 
-msgctxt "SizeSize"
 msgid "Size"
 msgstr "Grootte"
 
-msgctxt "SliderSlider"
 msgid "Slider"
 msgstr "Slider"
 
-msgctxt "SmallSmall"
 msgid "Small"
 msgstr "Klein"
 
-msgctxt "TextText"
 msgid "Text"
 msgstr "Tekst"
 
-msgctxt ""
-"The block N°%s, %s was not saved, the block was either empty or invalid.The "
-"block N°%s, %s was not saved, the block was either empty or invalid."
 msgid ""
 "The block N°%s, %s was not saved, the block was either empty or invalid."
 msgstr "Het blok N°%s, %s is niet opgeslagen, het blok was leeg is of ongeldig."
 
-msgctxt "Use external appUse external app"
 msgid "Use external app"
 msgstr "Maak gebruik van externe app"
 
-msgctxt "Video URL:Video URL:"
 msgid "Video URL:"
 msgstr "Video URL:"
 
-msgctxt "Your Podcast:Your Podcast:"
 msgid "Your Podcast:"
 msgstr "Uw Podcast:"
 
-msgctxt ".mp4 or .3gp format.mp4 or .3gp format"
 msgid ".mp4 or .3gp format"
 msgstr ".mp4 or .3gp formaat"

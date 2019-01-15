@@ -14,150 +14,103 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AddAdd"
 msgid "Add"
 msgstr "Adicionar"
 
-msgctxt ""
-"An error occurred during the process. Please try again later.An error "
-"occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr ""
 "Ocorreu um erro durante o processo. Por favor, tente novamente mais tarde."
 
-msgctxt ""
-"An error occurred while deleting your preview. Please try again later.An "
-"error occurred while deleting your preview. Please try again later."
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr ""
 "Ocorreu um erro durante o upload do seu arquivo. Por favor, tente novamente "
 "mais tarde."
 
-msgctxt ""
-"An error occurred while saving your previews. Please try again later.An "
-"error occurred while saving your previews. Please try again later."
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr "Ocorreu um erro ao salvar sua imagem. Por favor tente mais tarde."
 
-msgctxt "Click here to send your imageClick here to send your image"
 msgid "Click here to send your image"
 msgstr "Clique aqui para enviar o seu logotipo"
 
-msgctxt "Create a new previewCreate a new preview"
 msgid "Create a new preview"
 msgstr "Criar um novo evento"
 
-msgctxt "Delete imageDelete image"
 msgid "Delete image"
 msgstr ""
 
-msgctxt "Delete translationDelete translation"
 msgid "Delete translation"
 msgstr ""
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Descrição"
 
-msgctxt ""
-"Drag and drop images to reorder them.Drag and drop images to reorder them."
 msgid "Drag and drop images to reorder them."
 msgstr ""
 
-msgctxt "Drop your image hereDrop your image here"
 msgid "Drop your image here"
 msgstr "Solte o seu logotipo aqui"
 
-msgctxt "Edit the previewEdit the preview"
 msgid "Edit the preview"
 msgstr ""
 
-msgctxt "Existing images :Existing images :"
 msgid "Existing images :"
 msgstr ""
 
-msgctxt "FeatureFeature"
 msgid "Feature"
 msgstr "Recursos"
 
-msgctxt "LanguageLanguage"
 msgid "Language"
 msgstr ""
 
-msgctxt "List of existing previewsList of existing previews"
 msgid "List of existing previews"
 msgstr ""
 
-msgctxt "OROR"
 msgid "OR"
 msgstr ""
 
-msgctxt "Preview imagesPreview images"
 msgid "Preview images"
 msgstr ""
 
-msgctxt "Preview successfully savedPreview successfully saved"
 msgid "Preview successfully saved"
 msgstr "Impressora salva com sucesso."
 
-msgctxt "PreviewsPreviews"
 msgid "Previews"
 msgstr "Visualização"
 
-msgctxt "SearchSearch"
 msgid "Search"
 msgstr "Pesquisa"
 
-msgctxt ""
-"Sorry, but an existing preview for this feature has been found. Please edit "
-"existing one.Sorry, but an existing preview for this feature has been "
-"found. Please edit existing one."
 msgid ""
 "Sorry, but an existing preview for this feature has been found. Please edit "
 "existing one."
 msgstr ""
 
-msgctxt "TitleTitle"
 msgid "Title"
 msgstr "Título"
 
-msgctxt "Unable to copy the file.Unable to copy the file."
 msgid "Unable to copy the file."
 msgstr "Não é possível abrir o arquivo."
 
-msgctxt "Unable to create the directory.Unable to create the directory."
 msgid "Unable to create the directory."
 msgstr ""
 
-msgctxt "Unable to delete the file.Unable to delete the file."
 msgid "Unable to delete the file."
 msgstr ""
 
-msgctxt "Unable to delete the file %sUnable to delete the file %s"
 msgid "Unable to delete the file %s"
 msgstr ""
 
-msgctxt "You don't have any previews yetYou don't have any previews yet"
 msgid "You don't have any previews yet"
 msgstr "Você não tem nenhum usuário ainda"
 
-msgctxt ""
-"Your image has been successfully savedYour image has been successfully saved"
 msgid "Your image has been successfully saved"
 msgstr "A imagem foi salva com sucesso"
 
-msgctxt ""
-"Your preview has been deleted successfully.Your preview has been deleted "
-"successfully."
 msgid "Your preview has been deleted successfully."
 msgstr ""
 
-msgctxt ""
-"Your preview translation has been deleted successfully.Your preview "
-"translation has been deleted successfully."
 msgid "Your preview translation has been deleted successfully."
 msgstr ""
 
-msgctxt "<b>File types:</b> %s<br /><b>File types:</b> %s<br />"
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Tipo de Arquivo:</b> %s"

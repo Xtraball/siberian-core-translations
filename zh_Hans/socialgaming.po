@@ -14,66 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A monthA month"
 msgid "A month"
 msgstr "一个月"
 
-msgctxt "A weekA week"
 msgid "A week"
 msgstr "一个星期"
 
-msgctxt "ChallengersChallengers"
 msgid "Challengers"
 msgstr "参赛者"
 
-msgctxt "Current gameCurrent game"
 msgid "Current game"
 msgstr "当前"
 
-msgctxt "Currently no challengersCurrently no challengers"
 msgid "Currently no challengers"
 msgstr "目前没有任何参赛者"
 
-msgctxt "Game NameGame Name"
 msgid "Game Name"
 msgstr "游戏名称"
 
-msgctxt "Game successfully savedGame successfully saved"
 msgid "Game successfully saved"
 msgstr "游戏保存成功"
 
-msgctxt "Next gameNext game"
 msgid "Next game"
 msgstr "下一场比赛"
 
-msgctxt "On theOn the"
 msgid "On the"
 msgstr "在"
 
-msgctxt "PeriodPeriod"
 msgid "Period"
 msgstr "期"
 
-msgctxt "PeriodicityPeriodicity"
 msgid "Periodicity"
 msgstr "周期性"
 
-msgctxt "Publication datePublication date"
 msgid "Publication date"
 msgstr "出版一年"
 
-msgctxt "Rank of the monthRank of the month"
 msgid "Rank of the month"
 msgstr "排名的月份"
 
-msgctxt "Rank of the weekRank of the week"
 msgid "Rank of the week"
 msgstr "排名的一周"
 
-msgctxt "Team LeaderTeam Leader"
 msgid "Team Leader"
 msgstr "胜利者"
 
-msgctxt "%s point%s%s point%s"
 msgid "%s point%s"
 msgstr "％s％s点"

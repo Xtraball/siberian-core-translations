@@ -14,70 +14,52 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while saving.An error occurred while saving."
 msgid "An error occurred while saving."
 msgstr "Si è verificato un errore durante il salvataggio"
 
-msgctxt ""
-"An error occurred while saving. Please try again later.An error occurred "
-"while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr ""
 "Si è verificato un errore durante il salvataggio. Si prega di riprovare più "
 "tardi."
 
-msgctxt "Could not authenticate you.Could not authenticate you."
 msgid "Could not authenticate you."
 msgstr ""
 
-msgctxt "Enter your twitter handle/urlEnter your twitter handle/url"
 msgid "Enter your twitter handle/url"
 msgstr ""
 
-msgctxt "HandleHandle"
 msgid "Handle"
 msgstr ""
 
-msgctxt "Info successfully savedInfo successfully saved"
 msgid "Info successfully saved"
 msgstr "Info salvata correttamente"
 
-msgctxt "Sorry, that page does not exist.Sorry, that page does not exist."
 msgid "Sorry, that page does not exist."
 msgstr ""
 
-msgctxt "Twitter API secretTwitter API secret"
 msgid "Twitter API secret"
 msgstr ""
 
-msgctxt "Twitter API settingsTwitter API settings"
 msgid "Twitter API settings"
 msgstr ""
 
-msgctxt "Twitter API tokenTwitter API token"
 msgid "Twitter API token"
 msgstr ""
 
-msgctxt "Twitter consumer keyTwitter consumer key"
 msgid "Twitter consumer key"
 msgstr ""
 
-msgctxt "Twitter consumer secretTwitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr ""
 
-msgctxt "VerifyVerify"
 msgid "Verify"
 msgstr ""
 
-msgctxt "followersfollowers"
 msgid "followers"
 msgstr ""
 
-msgctxt "followingfollowing"
 msgid "following"
 msgstr ""
 
-msgctxt "was verified with successwas verified with success"
 msgid "was verified with success"
 msgstr ""

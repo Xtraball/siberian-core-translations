@@ -15,12 +15,8 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while reading the codeAn error occurred while reading the "
-"code"
 msgid "An error occurred while reading the code"
 msgstr "Произошла ошибка при удалении события"
 
-msgctxt "Scan resultScan result"
 msgid "Scan result"
 msgstr ""

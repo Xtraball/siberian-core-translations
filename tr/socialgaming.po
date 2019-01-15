@@ -14,66 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A monthA month"
 msgid "A month"
 msgstr "Bir ay"
 
-msgctxt "A weekA week"
 msgid "A week"
 msgstr "Bir hafta"
 
-msgctxt "ChallengersChallengers"
 msgid "Challengers"
 msgstr "Yarışmacılar"
 
-msgctxt "Current gameCurrent game"
 msgid "Current game"
 msgstr "Mevcut oyun"
 
-msgctxt "Currently no challengersCurrently no challengers"
 msgid "Currently no challengers"
 msgstr "Yarışmacı yok"
 
-msgctxt "Game NameGame Name"
 msgid "Game Name"
 msgstr "Oyun ismi"
 
-msgctxt "Game successfully savedGame successfully saved"
 msgid "Game successfully saved"
 msgstr "Oyun başarıyla kaydedildi"
 
-msgctxt "Next gameNext game"
 msgid "Next game"
 msgstr "Sonraki oyun"
 
-msgctxt "On theOn the"
 msgid "On the"
 msgstr "Üstünde"
 
-msgctxt "PeriodPeriod"
 msgid "Period"
 msgstr "Dönem"
 
-msgctxt "PeriodicityPeriodicity"
 msgid "Periodicity"
 msgstr "Dönemsel"
 
-msgctxt "Publication datePublication date"
 msgid "Publication date"
 msgstr "Yayınlanma tarihi"
 
-msgctxt "Rank of the monthRank of the month"
 msgid "Rank of the month"
 msgstr "Ayın derecesi"
 
-msgctxt "Rank of the weekRank of the week"
 msgid "Rank of the week"
 msgstr "Haftanın derecesi"
 
-msgctxt "Team LeaderTeam Leader"
 msgid "Team Leader"
 msgstr "Tim Lideri"
 
-msgctxt "%s point%s%s point%s"
 msgid "%s point%s"
 msgstr "%s puan%s"

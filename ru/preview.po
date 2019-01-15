@@ -15,151 +15,104 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AddAdd"
 msgid "Add"
 msgstr "Добавлять"
 
-msgctxt ""
-"An error occurred during the process. Please try again later.An error "
-"occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr ""
 "Произошла ошибка во время процесса. Пожалуйста, повторите попытку позже."
 
-msgctxt ""
-"An error occurred while deleting your preview. Please try again later.An "
-"error occurred while deleting your preview. Please try again later."
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr ""
 "Произошла ошибка при загрузке файла. Пожалуйста, повторите попытку позже."
 
-msgctxt ""
-"An error occurred while saving your previews. Please try again later.An "
-"error occurred while saving your previews. Please try again later."
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr ""
 "Произошла ошибка в процессе сохранения пиктограммы. Пожалуйста, попробуйте "
 "чуть позже."
 
-msgctxt "Click here to send your imageClick here to send your image"
 msgid "Click here to send your image"
 msgstr "Нажмите здесь, чтобы загрузить ваш логотип"
 
-msgctxt "Create a new previewCreate a new preview"
 msgid "Create a new preview"
 msgstr "Создать новое событие"
 
-msgctxt "Delete imageDelete image"
 msgid "Delete image"
 msgstr ""
 
-msgctxt "Delete translationDelete translation"
 msgid "Delete translation"
 msgstr "Перевод текста"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Описание"
 
-msgctxt ""
-"Drag and drop images to reorder them.Drag and drop images to reorder them."
 msgid "Drag and drop images to reorder them."
 msgstr ""
 
-msgctxt "Drop your image hereDrop your image here"
 msgid "Drop your image here"
 msgstr "Оставьте ваш логотип здесь"
 
-msgctxt "Edit the previewEdit the preview"
 msgid "Edit the preview"
 msgstr ""
 
-msgctxt "Existing images :Existing images :"
 msgid "Existing images :"
 msgstr ""
 
-msgctxt "FeatureFeature"
 msgid "Feature"
 msgstr "Функции"
 
-msgctxt "LanguageLanguage"
 msgid "Language"
 msgstr "Язык"
 
-msgctxt "List of existing previewsList of existing previews"
 msgid "List of existing previews"
 msgstr ""
 
-msgctxt "OROR"
 msgid "OR"
 msgstr ""
 
-msgctxt "Preview imagesPreview images"
 msgid "Preview images"
 msgstr ""
 
-msgctxt "Preview successfully savedPreview successfully saved"
 msgid "Preview successfully saved"
 msgstr "Принтер успешно сохранен"
 
-msgctxt "PreviewsPreviews"
 msgid "Previews"
 msgstr "Предварительный просмотр"
 
-msgctxt "SearchSearch"
 msgid "Search"
 msgstr "Поиск"
 
-msgctxt ""
-"Sorry, but an existing preview for this feature has been found. Please edit "
-"existing one.Sorry, but an existing preview for this feature has been "
-"found. Please edit existing one."
 msgid ""
 "Sorry, but an existing preview for this feature has been found. Please edit "
 "existing one."
 msgstr ""
 
-msgctxt "TitleTitle"
 msgid "Title"
 msgstr "название"
 
-msgctxt "Unable to copy the file.Unable to copy the file."
 msgid "Unable to copy the file."
 msgstr "Не удается открыть архив."
 
-msgctxt "Unable to create the directory.Unable to create the directory."
 msgid "Unable to create the directory."
 msgstr ""
 
-msgctxt "Unable to delete the file.Unable to delete the file."
 msgid "Unable to delete the file."
 msgstr ""
 
-msgctxt "Unable to delete the file %sUnable to delete the file %s"
 msgid "Unable to delete the file %s"
 msgstr ""
 
-msgctxt "You don't have any previews yetYou don't have any previews yet"
 msgid "You don't have any previews yet"
 msgstr "Вы не создали еще ни одного пользователя"
 
-msgctxt ""
-"Your image has been successfully savedYour image has been successfully saved"
 msgid "Your image has been successfully saved"
 msgstr "Изображение было успешно сохранены"
 
-msgctxt ""
-"Your preview has been deleted successfully.Your preview has been deleted "
-"successfully."
 msgid "Your preview has been deleted successfully."
 msgstr ""
 
-msgctxt ""
-"Your preview translation has been deleted successfully.Your preview "
-"translation has been deleted successfully."
 msgid "Your preview translation has been deleted successfully."
 msgstr ""
 
-msgctxt "<b>File types:</b> %s<br /><b>File types:</b> %s<br />"
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Тип файла:</b> %s"

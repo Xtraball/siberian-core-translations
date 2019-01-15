@@ -14,172 +14,127 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "App NameApp Name"
 msgid "App Name"
 msgstr ""
 
-msgctxt "AreaArea"
 msgid "Area"
 msgstr ""
 
-msgctxt "Border BlueBorder Blue"
 msgid "Border Blue"
 msgstr ""
 
-msgctxt "Border GreenBorder Green"
 msgid "Border Green"
 msgstr ""
 
-msgctxt "Border GreyBorder Grey"
 msgid "Border Grey"
 msgstr ""
 
-msgctxt "Border PurpleBorder Purple"
 msgid "Border Purple"
 msgstr ""
 
-msgctxt "Border RedBorder Red"
 msgid "Border Red"
 msgstr ""
 
-msgctxt "Border YellowBorder Yellow"
 msgid "Border Yellow"
 msgstr ""
 
-msgctxt "ButtonsButtons"
 msgid "Buttons"
 msgstr ""
 
-msgctxt "Color blueColor blue"
 msgid "Color blue"
 msgstr ""
 
-msgctxt "Color greenColor green"
 msgid "Color green"
 msgstr ""
 
-msgctxt "Color purpleColor purple"
 msgid "Color purple"
 msgstr ""
 
-msgctxt "Color redColor red"
 msgid "Color red"
 msgstr ""
 
-msgctxt "Color yellowColor yellow"
 msgid "Color yellow"
 msgstr ""
 
-msgctxt "Company or FullnameCompany or Fullname"
 msgid "Company or Fullname"
 msgstr ""
 
-msgctxt "Contact e-mailContact e-mail"
 msgid "Contact e-mail"
 msgstr ""
 
-msgctxt "Content backgroundContent background"
 msgid "Content background"
 msgstr ""
 
-msgctxt "Content colorContent color"
 msgid "Content color"
 msgstr ""
 
-msgctxt "CountryCountry"
 msgid "Country"
 msgstr "País"
 
-msgctxt "Customize My EditorCustomize My Editor"
 msgid "Customize My Editor"
 msgstr ""
 
-msgctxt "Delete/Cancel buttonsDelete/Cancel buttons"
 msgid "Delete/Cancel buttons"
 msgstr ""
 
-msgctxt "Drop DownDrop Down"
 msgid "Drop Down"
 msgstr "Drop down"
 
-msgctxt "E-mailE-mail"
 msgid "E-mail"
 msgstr ""
 
-msgctxt "Enable GDPR features & rulesEnable GDPR features & rules"
 msgid "Enable GDPR features & rules"
 msgstr ""
 
-msgctxt "Enable White-LabelEnable White-Label"
 msgid "Enable White-Label"
 msgstr ""
 
-msgctxt "FaviconFavicon"
 msgid "Favicon"
 msgstr ""
 
-msgctxt "Font Color blueFont Color blue"
 msgid "Font Color blue"
 msgstr ""
 
-msgctxt "Full addressFull address"
 msgid "Full address"
 msgstr ""
 
-msgctxt "GeneralGeneral"
 msgid "General"
 msgstr "Geral"
 
-msgctxt "Grey buttonsGrey buttons"
 msgid "Grey buttons"
 msgstr ""
 
-msgctxt "HeaderHeader"
 msgid "Header"
 msgstr ""
 
-msgctxt ""
-"In application of the GDPR regulation text, you must fullfill legal contact "
-"informations, whether you are a Company or an Individual.In application of "
-"the GDPR regulation text, you must fullfill legal contact informations, "
-"whether you are a Company or an Individual."
 msgid ""
 "In application of the GDPR regulation text, you must fullfill legal contact "
 "informations, whether you are a Company or an Individual."
 msgstr ""
 
-msgctxt "Input flatInput flat"
 msgid "Input flat"
 msgstr ""
 
-msgctxt "LogoLogo"
 msgid "Logo"
 msgstr "logo"
 
-msgctxt "MenuMenu"
 msgid "Menu"
 msgstr ""
 
-msgctxt "PagePage"
 msgid "Page"
 msgstr ""
 
-msgctxt "PhonePhone"
 msgid "Phone"
 msgstr "Telefone"
 
-msgctxt "Sidebar backgroundSidebar background"
 msgid "Sidebar background"
 msgstr ""
 
-msgctxt "Step menu backgroundStep menu background"
 msgid "Step menu background"
 msgstr ""
 
-msgctxt "TitlesTitles"
 msgid "Titles"
 msgstr "títulos"
 
-msgctxt "White-Label nameWhite-Label name"
 msgid "White-Label name"
 msgstr ""

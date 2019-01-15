@@ -14,187 +14,127 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Additionnal InformationAdditionnal Information"
 msgid "Additionnal Information"
 msgstr "Ek bilgi"
 
-msgctxt ""
-"An error occurred while deleting the push. Please try again later.An error "
-"occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr "Bildirim silinirken bir hata oluştu. Lütfen daha sonra tekrar deneyin."
 
-msgctxt "And a radius (in Km):And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "Ve bir yarıçap (Km):"
 
-msgctxt "AndroidAndroid"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Creation dateCreation date"
 msgid "Creation date"
 msgstr "Oluşturma tarihi"
 
-msgctxt "Custom URLCustom URL"
 msgid "Custom URL"
 msgstr "Özel URL"
 
-msgctxt "Enter a location:Enter a location:"
 msgid "Enter a location:"
 msgstr "Bir lokasyon girin:"
 
-msgctxt "GCM KeyGCM Key"
 msgid "GCM Key"
 msgstr "GCM Anahtarı"
 
-msgctxt "I want to send itI want to send it"
 msgid "I want to send it"
 msgstr "Göndermek istiyorum"
 
-msgctxt "Keys successfully savedKeys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Anahtar başarıyla kaydedildi"
 
-msgctxt "MessageMessage"
 msgid "Message"
 msgstr "Mesaj"
 
-msgctxt "No device found for this userNo device found for this user"
 msgid "No device found for this user"
 msgstr "Bu kullanıcı için cihaz bulunamadı"
 
-msgctxt "No items.No items."
 msgid "No items."
 msgstr "Öge yok."
 
-msgctxt "Open a feature or a custom URLOpen a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr "Bir özellik ya da özel bir URL açın"
 
-msgctxt "PendingPending"
 msgid "Pending"
 msgstr "Bekliyor"
 
-msgctxt ""
-"Please enter an expiration date for your message:Please enter an expiration "
-"date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr "Mesajınız için bir son kullanma tarihi girin :"
 
-msgctxt "Project NumberProject Number"
 msgid "Project Number"
 msgstr "Proje numarası"
 
-msgctxt "Push NotificationsPush Notifications"
 msgid "Push Notifications"
 msgstr "Bildirim gönderme"
 
-msgctxt "Push Notifications SettingsPush Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Bildirim gönderme ayarları"
 
-msgctxt "Push successfully deleted.Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "Bildirim başarıyla silindi."
 
-msgctxt "RadiusRadius"
 msgid "Radius"
 msgstr "Yarıçap"
 
-msgctxt "Send to a specific locationSend to a specific location"
 msgid "Send to a specific location"
 msgstr "Özel bir lokasyona gönderin"
 
-msgctxt "Send to all applicationsSend to all applications"
 msgid "Send to all applications"
 msgstr "Tüm uygulamalara gönder"
 
-msgctxt "Send to all my usersSend to all my users"
 msgid "Send to all my users"
 msgstr "Tüm kullanıcılarıma yolla"
 
-msgctxt "Send to no specific locationsSend to no specific locations"
 msgid "Send to no specific locations"
 msgstr "Genele gönder"
 
-msgctxt "Send to specific topicsSend to specific topics"
 msgid "Send to specific topics"
 msgstr "Belirli konulara gönder"
 
-msgctxt "Send to specific usersSend to specific users"
 msgid "Send to specific users"
 msgstr "Belirli kullanıcılara gönder"
 
-msgctxt "Sending dateSending date"
 msgid "Sending date"
 msgstr "Yollama tarihi"
 
-msgctxt ""
-"The duration limit must be higher than the sent dateThe duration limit must "
-"be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "Gönderme süresi gönderme tarihinden sonraki bir tarih olmalıdır"
 
-msgctxt "TopicsTopics"
 msgid "Topics"
 msgstr "Başlıklar"
 
-msgctxt "UsersUsers"
 msgid "Users"
 msgstr "Kullanıcılar"
 
-msgctxt ""
-"You must choose a topic before sending your message.You must choose a topic "
-"before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr "Mesajı göndermeden önce bir konu seçmelisiniz."
 
-msgctxt ""
-"You must choose at least one user before sending your message.You must "
-"choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr "Mesaj göndermek için en az 1 kullanıcı seçiniz"
 
-msgctxt ""
-"Your app must be published to send a push notification.Your app must be "
-"published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "Bildirim gönderebilmeniz için app nizin yayınlanmış olması gereklidir."
 
-msgctxt ""
-"Your message has been saved successfully.Your message has been saved "
-"successfully."
 msgid "Your message has been saved successfully."
 msgstr "Mesajınız başarıyla kaydedildi."
 
-msgctxt ""
-"Your message has been saved successfully and will be sent at the entered "
-"dateYour message has been saved successfully and will be sent at the "
-"entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr "Mesajınız başarıyla kaydedildi ve girilen tarihte gönderilecektir"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent in a few minutes"
-"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "Mesajınız başarıyla kaydedildi ve bir kaç dakika içinde gönderilecektir"
 
-msgctxt "and users entering the areaand users entering the area"
 msgid "and users entering the area"
 msgstr "ve kullanıcıların alanına giren"
 
-msgctxt "for a limited periodfor a limited period"
 msgid "for a limited period"
 msgstr "sınırlı bir süre için"
 
-msgctxt "nownow"
 msgid "now"
 msgstr "şimdi"
 
-msgctxt "on a specific dateon a specific date"
 msgid "on a specific date"
 msgstr "özel bir tarihte"

@@ -14,10 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"A request to reset your password has been made to log in to your "
-"administration panel.A request to reset your password has been made to log "
-"in to your administration panel."
 msgid ""
 "A request to reset your password has been made to log in to your "
 "administration panel."
@@ -25,293 +21,196 @@ msgstr ""
 "Una richiesta per reimpostare la password è stata fatta per accedere al "
 "pannello di amministrazione"
 
-msgctxt "AccessAccess"
 msgid "Access"
 msgstr ""
 
-msgctxt "Account RoleAccount Role"
 msgid "Account Role"
 msgstr ""
 
-msgctxt "Account roleAccount role"
 msgid "Account role"
 msgstr ""
 
-msgctxt "Address:Address:"
 msgid "Address:"
 msgstr ""
 
-msgctxt "Address 2:Address 2:"
 msgid "Address 2:"
 msgstr ""
 
-msgctxt "Administrator : full accessAdministrator : full access"
 msgid "Administrator : full access"
 msgstr ""
 
-msgctxt "Administrator: full accessAdministrator: full access"
 msgid "Administrator: full access"
 msgstr ""
 
-msgctxt ""
-"An error occurred while saving. The country is not valid.An error occurred "
-"while saving. The country is not valid."
 msgid "An error occurred while saving. The country is not valid."
 msgstr ""
 "Si è verificato un errore durante il salvataggio . Il paese non è valido ."
 
-msgctxt "ApplicationApplication"
 msgid "Application"
 msgstr ""
 
-msgctxt ""
-"Application have been duplicated successfully.Application have been "
-"duplicated successfully."
 msgid "Application have been duplicated successfully."
 msgstr ""
 
-msgctxt ""
-"Are you sure you want to delete this application?Are you sure you want to "
-"delete this application?"
 msgid "Are you sure you want to delete this application?"
 msgstr "Sei sicuro di voler cancellare questa applicazione?"
 
-msgctxt ""
-"Are you sure you want to duplicate this application?Are you sure you want "
-"to duplicate this application?"
 msgid "Are you sure you want to duplicate this application?"
 msgstr ""
 
-msgctxt "Can add pagesCan add pages"
 msgid "Can add pages"
 msgstr "Puoi aggiungere pagine"
 
-msgctxt "Can generate APKCan generate APK"
 msgid "Can generate APK"
 msgstr ""
 
-msgctxt "Can manage guided tourCan manage guided tour"
 msgid "Can manage guided tour"
 msgstr ""
 
-msgctxt "Change my passwordChange my password"
 msgid "Change my password"
 msgstr "Cambia la mia password"
 
-msgctxt "Company:Company:"
 msgid "Company:"
 msgstr ""
 
-msgctxt "Confirm your passwordConfirm your password"
 msgid "Confirm your password"
 msgstr "Conferma la tua password"
 
-msgctxt ""
-"Connect to your backoffice to validate this account.Connect to your "
-"backoffice to validate this account."
 msgid "Connect to your backoffice to validate this account."
 msgstr ""
 
-msgctxt "Create a new applicationCreate a new application"
 msgid "Create a new application"
 msgstr "Crea una nuova applicazione"
 
-msgctxt "Create a new userCreate a new user"
 msgid "Create a new user"
 msgstr "Crea un nuovo utente"
 
-msgctxt "Created AtCreated At"
 msgid "Created At"
 msgstr "Creato il"
 
-msgctxt "Created at %sCreated at %s"
 msgid "Created at %s"
 msgstr "Creato da"
 
-msgctxt ""
-"Do not hesitate to give us your feedback by sharing your needs:Do not "
-"hesitate to give us your feedback by sharing your needs:"
 msgid "Do not hesitate to give us your feedback by sharing your needs:"
 msgstr "Non esitate a darci il vostro feedback condividendo le vostre esigenze:"
 
-msgctxt "Edit the account %sEdit the account %s"
 msgid "Edit the account %s"
 msgstr ""
 
-msgctxt "Edit the user %sEdit the user %s"
 msgid "Edit the user %s"
 msgstr "Modifica il tuo profilo"
 
-msgctxt "Enjoy!Enjoy!"
 msgid "Enjoy!"
 msgstr "Buon divertimento!"
 
-msgctxt "Filter your apps...Filter your apps..."
 msgid "Filter your apps..."
 msgstr ""
 
-msgctxt "Find some advices here:Find some advices here:"
 msgid "Find some advices here:"
 msgstr "Trova dei consigli qui:"
 
-msgctxt "FromFrom"
 msgid "From"
 msgstr ""
 
-msgctxt ""
-"Hello, a new user has registered on your platform : %s.Hello, a new user "
-"has registered on your platform : %s."
 msgid "Hello, a new user has registered on your platform : %s."
 msgstr ""
 
-msgctxt ""
-"Here are your credentials, keep them preciously:Here are your credentials, "
-"keep them preciously:"
 msgid "Here are your credentials, keep them preciously:"
 msgstr "Qui ci sono le tue credenziali, conservale con cura"
 
-msgctxt "List of admin accountsList of admin accounts"
 msgid "List of admin accounts"
 msgstr "Elenco admin accounts"
 
-msgctxt "List of my accountsList of my accounts"
 msgid "List of my accounts"
 msgstr "Lista miei accounts"
 
-msgctxt "List of your usersList of your users"
 msgid "List of your users"
 msgstr "Lista dei tuoi users"
 
-msgctxt "Log-in AsLog-in As"
 msgid "Log-in As"
 msgstr "Login"
 
-msgctxt "Manage accessManage access"
 msgid "Manage access"
 msgstr "Gestione accessi"
 
-msgctxt "My ApplicationsMy Applications"
 msgid "My Applications"
 msgstr "Le mie applicazioni"
 
-msgctxt "My informationMy information"
 msgid "My information"
 msgstr "Le mie informazioni"
 
-msgctxt "Need some help?Need some help?"
 msgid "Need some help?"
 msgstr "Hai bisogno di aiuto?"
 
-msgctxt ""
-"New user registration on your platformNew user registration on your platform"
 msgid "New user registration on your platform"
 msgstr ""
 
-msgctxt "No account for now.No account for now."
 msgid "No account for now."
 msgstr ""
 
-msgctxt "Please enter a valid email address.Please enter a valid email address."
 msgid "Please enter a valid email address."
 msgstr "Perfavore inserisci un indirizzo email valido"
 
-msgctxt "Please, enter an application namePlease, enter an application name"
 msgid "Please, enter an application name"
 msgstr "Perfavore inserisci il nome dell'applicazione"
 
-msgctxt "Publication access typePublication access type"
 msgid "Publication access type"
 msgstr ""
 
-msgctxt "Ready to create your own apps?Ready to create your own apps?"
 msgid "Ready to create your own apps?"
 msgstr "Sei pronto a creare le tue applicazioni?"
 
-msgctxt "RoleRole"
 msgid "Role"
 msgstr "Ruolo"
 
-msgctxt "Show All ApplicationsShow All Applications"
 msgid "Show All Applications"
 msgstr ""
 
-msgctxt "Sign upSign up"
 msgid "Sign up"
 msgstr "Iscriviti"
 
-msgctxt ""
-"Sorry but an error occured while duplicating your application.Sorry but an "
-"error occured while duplicating your application."
 msgid "Sorry but an error occured while duplicating your application."
 msgstr ""
 
-msgctxt "State/ProvinceState/Province"
 msgid "State/Province"
 msgstr ""
 
-msgctxt "Thanks for choosing us!Thanks for choosing us!"
 msgid "Thanks for choosing us!"
 msgstr "Grazie per averci scelto"
 
-msgctxt "The Support TeamThe Support Team"
 msgid "The Support Team"
 msgstr "Il team di supporto"
 
-msgctxt "The account role is requiredThe account role is required"
 msgid "The account role is required"
 msgstr ""
 
-msgctxt ""
-"The password and the confirmation does not match.The password and the "
-"confirmation does not match."
 msgid "The password and the confirmation does not match."
 msgstr "La password e la conferma non corrispondono"
 
-msgctxt ""
-"The password must be at least 6 characters.The password must be at least 6 "
-"characters."
 msgid "The password must be at least 6 characters."
 msgstr "La password deve essere di almeno 6 caratteri"
 
-msgctxt ""
-"This account is not activated yet. Please contact an administrator.This "
-"account is not activated yet. Please contact an administrator."
 msgid "This account is not activated yet. Please contact an administrator."
 msgstr ""
 
-msgctxt ""
-"This admin can manage guided tour from editorThis admin can manage guided "
-"tour from editor"
 msgid "This admin can manage guided tour from editor"
 msgstr ""
 
-msgctxt "This user has no applications yet.This user has no applications yet."
 msgid "This user has no applications yet."
 msgstr ""
 
-msgctxt "User successfully deletedUser successfully deleted"
 msgid "User successfully deleted"
 msgstr "User cancellato con successo"
 
-msgctxt "View my current dataView my current data"
 msgid "View my current data"
 msgstr ""
 
-msgctxt ""
-"We are sorry but this email address is already used.We are sorry but this "
-"email address is already used."
 msgid "We are sorry but this email address is already used."
 msgstr "Siamo spiacenti ma l'indirizzo e-mail è già utilizzato"
 
-msgctxt "Welcome!Welcome!"
 msgid "Welcome!"
 msgstr "Benvenuto!"
 
-msgctxt ""
-"You are going to love it! Thanks to our effective features, you will be able "
-"to create great mobile apps in your name, within minutes.You are going to "
-"love it! Thanks to our effective features, you will be able to create great "
-"mobile apps in your name, within minutes."
 msgid ""
 "You are going to love it! Thanks to our effective features, you will be able "
 "to create great mobile apps in your name, within minutes."
@@ -320,40 +219,29 @@ msgstr ""
 "grado di creare applicazioni in pochissimi minuti, e senza una riga di "
 "codice!"
 
-msgctxt "You can't delete the main accountYou can't delete the main account"
 msgid "You can't delete the main account"
 msgstr "Non puoi eliminare l'account principale"
 
-msgctxt "You don't have any users yetYou don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Non hai ancora nessun user"
 
-msgctxt ""
-"Your account have been created successfully. It will be activated soon.Your "
-"account have been created successfully. It will be activated soon."
 msgid "Your account have been created successfully. It will be activated soon."
 msgstr ""
 
-msgctxt "Your credentialsYour credentials"
 msgid "Your credentials"
 msgstr "Le tue credenziali"
 
-msgctxt "Your login:Your login:"
 msgid "Your login:"
 msgstr "Il tuo login:"
 
-msgctxt "Your password:Your password:"
 msgid "Your password:"
 msgstr "La tua password:"
 
-msgctxt "Zip CodeZip Code"
 msgid "Zip Code"
 msgstr "CAP"
 
-msgctxt "%s - Your new password%s - Your new password"
 msgid "%s - Your new password"
 msgstr "La tua nuova password"
 
-msgctxt "toto"
 msgid "to"
 msgstr ""

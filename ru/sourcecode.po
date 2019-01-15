@@ -15,28 +15,19 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Allow offline modeAllow offline mode"
 msgid "Allow offline mode"
 msgstr ""
 
-msgctxt ""
-"Be aware that if the code you enter here requires any kind of server "
-"interaction it will not work properly in offline mode.)Be aware that if the "
-"code you enter here requires any kind of server interaction it will not work "
-"properly in offline mode.)"
 msgid ""
 "Be aware that if the code you enter here requires any kind of server "
 "interaction it will not work properly in offline mode.)"
 msgstr ""
 
-msgctxt "Insert in-app linkInsert in-app link"
 msgid "Insert in-app link"
 msgstr ""
 
-msgctxt "Insert your HTML code:Insert your HTML code:"
 msgid "Insert your HTML code:"
 msgstr "Вставьте HTML код:"
 
-msgctxt "Source CodeSource Code"
 msgid "Source Code"
 msgstr "Исходный код"

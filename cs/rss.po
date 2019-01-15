@@ -13,46 +13,32 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your RSS feedAn error occurred while saving "
-"your RSS feed"
 msgid "An error occurred while saving your RSS feed"
 msgstr "Při ukládání RSS zdroje došlo k chybě"
 
-msgctxt ""
-"Display feed pictures whenever possibleDisplay feed pictures whenever "
-"possible"
 msgid "Display feed pictures whenever possible"
 msgstr "Zobrazit obrázky, když jsou k dispozici"
 
-msgctxt "Enter the URL of this RSS feedEnter the URL of this RSS feed"
 msgid "Enter the URL of this RSS feed"
 msgstr "Zadejte URL adresu tohoto RSS kanálu"
 
-msgctxt "Found feedsFound feeds"
 msgid "Found feeds"
 msgstr "Nalezené zdroje"
 
-msgctxt "No RSS feed could be foundNo RSS feed could be found"
 msgid "No RSS feed could be found"
 msgstr "Žádný RSS zdroj nenalezen"
 
-msgctxt "RSS feed successfully savedRSS feed successfully saved"
 msgid "RSS feed successfully saved"
 msgstr "RSS zdroj úspěšně uložen"
 
-msgctxt "Show articleShow article"
 msgid "Show article"
 msgstr "Zobrazit článek"
 
-msgctxt "dayday"
 msgid "day"
 msgstr "den"
 
-msgctxt "hourhour"
 msgid "hour"
 msgstr "hodina"
 
-msgctxt "minuteminute"
 msgid "minute"
 msgstr "minuta"

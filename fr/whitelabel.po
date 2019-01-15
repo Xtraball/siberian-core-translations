@@ -14,135 +14,99 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "App NameApp Name"
 msgid "App Name"
 msgstr "Nom de l'application"
 
-msgctxt "AreaArea"
 msgid "Area"
 msgstr "Zone"
 
-msgctxt "Border BlueBorder Blue"
 msgid "Border Blue"
 msgstr "Bord bleu"
 
-msgctxt "Border GreenBorder Green"
 msgid "Border Green"
 msgstr "Bord vert"
 
-msgctxt "Border GreyBorder Grey"
 msgid "Border Grey"
 msgstr "Bord gris"
 
-msgctxt "Border PurpleBorder Purple"
 msgid "Border Purple"
 msgstr "Bord violet"
 
-msgctxt "Border RedBorder Red"
 msgid "Border Red"
 msgstr "Bord rouge"
 
-msgctxt "Border YellowBorder Yellow"
 msgid "Border Yellow"
 msgstr "Bord jaune"
 
-msgctxt "ButtonsButtons"
 msgid "Buttons"
 msgstr "Boutons"
 
-msgctxt "Color blueColor blue"
 msgid "Color blue"
 msgstr "Couleur bleu"
 
-msgctxt "Color greenColor green"
 msgid "Color green"
 msgstr "Couleur vert"
 
-msgctxt "Color purpleColor purple"
 msgid "Color purple"
 msgstr "Couleur violet"
 
-msgctxt "Color redColor red"
 msgid "Color red"
 msgstr "Couleur rouge"
 
-msgctxt "Color yellowColor yellow"
 msgid "Color yellow"
 msgstr "Couleur jaune"
 
-msgctxt "Company or FullnameCompany or Fullname"
 msgid "Company or Fullname"
 msgstr "Société ou nom complet"
 
-msgctxt "Contact e-mailContact e-mail"
 msgid "Contact e-mail"
 msgstr "E-mail de contact"
 
-msgctxt "Content backgroundContent background"
 msgid "Content background"
 msgstr "Arrière-plan du contenu"
 
-msgctxt "Content colorContent color"
 msgid "Content color"
 msgstr "Couleur du contenu"
 
-msgctxt "CountryCountry"
 msgid "Country"
 msgstr "Pays"
 
-msgctxt "Customize My EditorCustomize My Editor"
 msgid "Customize My Editor"
 msgstr "Personnaliser mon éditeur"
 
-msgctxt "Delete/Cancel buttonsDelete/Cancel buttons"
 msgid "Delete/Cancel buttons"
 msgstr "Boutons supprimer/annuler"
 
-msgctxt "Drop DownDrop Down"
 msgid "Drop Down"
 msgstr "Liste déroulante"
 
-msgctxt "E-mailE-mail"
 msgid "E-mail"
 msgstr "E-mail"
 
-msgctxt "Enable GDPR features & rulesEnable GDPR features & rules"
 msgid "Enable GDPR features & rules"
 msgstr "Activer les fonctionnalités et les règles GDPR"
 
-msgctxt "Enable White-LabelEnable White-Label"
 msgid "Enable White-Label"
 msgstr "Activer la marque blanche"
 
-msgctxt "FaviconFavicon"
 msgid "Favicon"
 msgstr "Favicon"
 
-msgctxt "Font Color blueFont Color blue"
 msgid "Font Color blue"
 msgstr "Couleur de police bleue"
 
-msgctxt "Full addressFull address"
 msgid "Full address"
 msgstr "Adresse complète"
 
-msgctxt "GeneralGeneral"
 msgid "General"
 msgstr "Général"
 
-msgctxt "Grey buttonsGrey buttons"
 msgid "Grey buttons"
 msgstr "Boutons gris"
 
-msgctxt "HeaderHeader"
 msgid "Header"
 msgstr "Entête"
 
-msgctxt ""
-"In application of the GDPR regulation text, you must fullfill legal contact "
-"informations, whether you are a Company or an Individual.In application of "
-"the GDPR regulation text, you must fullfill legal contact informations, "
-"whether you are a Company or an Individual."
 msgid ""
 "In application of the GDPR regulation text, you must fullfill legal contact "
 "informations, whether you are a Company or an Individual."
@@ -151,38 +115,29 @@ msgstr ""
 "informations légales de contact, que vous soyez une entreprise ou un "
 "particulier."
 
-msgctxt "Input flatInput flat"
 msgid "Input flat"
 msgstr "Entrée à plat"
 
-msgctxt "LogoLogo"
 msgid "Logo"
 msgstr "Logo"
 
-msgctxt "MenuMenu"
 msgid "Menu"
 msgstr "Menu"
 
-msgctxt "PagePage"
 msgid "Page"
 msgstr "Page"
 
-msgctxt "PhonePhone"
 msgid "Phone"
 msgstr "Téléphone"
 
-msgctxt "Sidebar backgroundSidebar background"
 msgid "Sidebar background"
 msgstr "Arrière-plan de la barre latérale"
 
-msgctxt "Step menu backgroundStep menu background"
 msgid "Step menu background"
 msgstr "Arrière-plan du menu"
 
-msgctxt "TitlesTitles"
 msgid "Titles"
 msgstr "Titres"
 
-msgctxt "White-Label nameWhite-Label name"
 msgid "White-Label name"
 msgstr "Nom de la marque blanche"

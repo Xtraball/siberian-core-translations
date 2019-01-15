@@ -13,78 +13,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "API KeysAPI Keys"
 msgid "API Keys"
 msgstr "Clés API"
 
-msgctxt "Api KeysApi Keys"
 msgid "Api Keys"
 msgstr "Clés Api"
 
-msgctxt "Api Keys successfully savedApi Keys successfully saved"
 msgid "Api Keys successfully saved"
 msgstr "Clés API sauvegardés avec succès"
 
-msgctxt "Api UsersApi Users"
 msgid "Api Users"
 msgstr "Utilisateur Api"
 
-msgctxt "AuthenticateAuthenticate"
 msgid "Authenticate"
 msgstr "Authentifier"
 
-msgctxt "Backoffice optionsBackoffice options"
 msgid "Backoffice options"
 msgstr "Options de backoffice"
 
-msgctxt "Clear cacheClear cache"
 msgid "Clear cache"
 msgstr "Effacer cache"
 
-msgctxt "Clear logsClear logs"
 msgid "Clear logs"
 msgstr "Effacer les journaux"
 
-msgctxt "Create a new userCreate a new user"
 msgid "Create a new user"
 msgstr "Créer un nouvel utilisateur"
 
-msgctxt "Created AtCreated At"
 msgid "Created At"
 msgstr "Créé le"
 
-msgctxt "ExistsExists"
 msgid "Exists"
 msgstr "Existe"
 
-msgctxt "Forgot passwordForgot password"
 msgid "Forgot password"
 msgstr "Mot de passe oublié"
 
-msgctxt "Grant userGrant user"
 msgid "Grant user"
 msgstr "Autoriser utilisateur"
 
-msgctxt "List of your usersList of your users"
 msgid "List of your users"
 msgstr "Liste de vos utilisateurs"
 
-msgctxt "Rebuild manifestRebuild manifest"
 msgid "Rebuild manifest"
 msgstr "Reconstruire le manifeste"
 
-msgctxt "Revoke userRevoke user"
 msgid "Revoke user"
 msgstr "Révoquer l'utilisateur"
 
-msgctxt "Select API accessSelect API access"
 msgid "Select API access"
 msgstr "Sélectionnez les accès à l'API"
 
-msgctxt "UpdateUpdate"
 msgid "Update"
 msgstr "Mettre à jour"
 
-msgctxt "You don't have any users yetYou don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Vous n'avez pas encore d'utilisateurs"

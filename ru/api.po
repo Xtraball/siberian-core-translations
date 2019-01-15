@@ -15,78 +15,59 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "API KeysAPI Keys"
 msgid "API Keys"
 msgstr "Ключи API"
 
-msgctxt "Api KeysApi Keys"
 msgid "Api Keys"
 msgstr "Api Ключи"
 
-msgctxt "Api Keys successfully savedApi Keys successfully saved"
 msgid "Api Keys successfully saved"
 msgstr "Api Ключи успешно сохранены"
 
-msgctxt "Api UsersApi Users"
 msgid "Api Users"
 msgstr ""
 
-msgctxt "AuthenticateAuthenticate"
 msgid "Authenticate"
 msgstr ""
 
-msgctxt "Backoffice optionsBackoffice options"
 msgid "Backoffice options"
 msgstr ""
 
-msgctxt "Clear cacheClear cache"
 msgid "Clear cache"
 msgstr ""
 
-msgctxt "Clear logsClear logs"
 msgid "Clear logs"
 msgstr ""
 
-msgctxt "Create a new userCreate a new user"
 msgid "Create a new user"
 msgstr "Создание нового пользователя"
 
-msgctxt "Created AtCreated At"
 msgid "Created At"
 msgstr "Создан в "
 
-msgctxt "ExistsExists"
 msgid "Exists"
 msgstr ""
 
-msgctxt "Forgot passwordForgot password"
 msgid "Forgot password"
 msgstr "Забыли пароль?"
 
-msgctxt "Grant userGrant user"
 msgid "Grant user"
 msgstr ""
 
-msgctxt "List of your usersList of your users"
 msgid "List of your users"
 msgstr "Список пользователей"
 
-msgctxt "Rebuild manifestRebuild manifest"
 msgid "Rebuild manifest"
 msgstr ""
 
-msgctxt "Revoke userRevoke user"
 msgid "Revoke user"
 msgstr ""
 
-msgctxt "Select API accessSelect API access"
 msgid "Select API access"
 msgstr ""
 
-msgctxt "UpdateUpdate"
 msgid "Update"
 msgstr ""
 
-msgctxt "You don't have any users yetYou don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Вы не создали еще ни одного пользователя"

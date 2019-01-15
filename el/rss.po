@@ -14,46 +14,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your RSS feedAn error occurred while saving "
-"your RSS feed"
 msgid "An error occurred while saving your RSS feed"
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της RSS πηγής σας"
 
-msgctxt ""
-"Display feed pictures whenever possibleDisplay feed pictures whenever "
-"possible"
 msgid "Display feed pictures whenever possible"
 msgstr "Προβολή εικόνων όποτε είναι εφικτό"
 
-msgctxt "Enter the URL of this RSS feedEnter the URL of this RSS feed"
 msgid "Enter the URL of this RSS feed"
 msgstr "Συμπληρώστε το URL της RSS πηγής"
 
-msgctxt "Found feedsFound feeds"
 msgid "Found feeds"
 msgstr "Ροές που βρέθηκαν"
 
-msgctxt "No RSS feed could be foundNo RSS feed could be found"
 msgid "No RSS feed could be found"
 msgstr "Δεν βρέθηκε RSS πηγή"
 
-msgctxt "RSS feed successfully savedRSS feed successfully saved"
 msgid "RSS feed successfully saved"
 msgstr "Η RSS πηγή αποθηκεύτηκε επιτυχώς"
 
-msgctxt "Show articleShow article"
 msgid "Show article"
 msgstr "Προβολή άρθρου"
 
-msgctxt "dayday"
 msgid "day"
 msgstr "ημέρα"
 
-msgctxt "hourhour"
 msgid "hour"
 msgstr "ώρα"
 
-msgctxt "minuteminute"
 msgid "minute"
 msgstr "λεπτό"

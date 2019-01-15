@@ -14,95 +14,64 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ": activate to sort column ascending: activate to sort column ascending"
 msgid ": activate to sort column ascending"
 msgstr ": Aktivieren, um die Spalte aufsteigend zu sortieren"
 
-msgctxt ""
-": activate to sort column descending: activate to sort column descending"
 msgid ": activate to sort column descending"
 msgstr ": Aktivieren, um die Spalte absteigend zu sortieren"
 
-msgctxt "1 points =1 points ="
 msgid "1 points ="
 msgstr "1 Punkt"
 
-msgctxt "20.00%20.00%"
 msgid "20.00%"
 msgstr "20,00 %"
 
-msgctxt "Add DiscountAdd Discount"
 msgid "Add Discount"
 msgstr ""
 
-msgctxt "Add a formatAdd a format"
 msgid "Add a format"
 msgstr "Ein Format hinzufügen"
 
-msgctxt "Add cardAdd card"
 msgid "Add card"
 msgstr ""
 
-msgctxt "Add gratuity (Optional)Add gratuity (Optional)"
 msgid "Add gratuity (Optional)"
 msgstr ""
 
-msgctxt "Add optionsAdd options"
 msgid "Add options"
 msgstr "Hinzufügen von Optionen"
 
-msgctxt "Add picturesAdd pictures"
 msgid "Add pictures"
 msgstr "Bilder hinzufügen"
 
-msgctxt "Add to cartAdd to cart"
 msgid "Add to cart"
 msgstr "Warenkorb"
 
-msgctxt "All fields with a * are required.All fields with a * are required."
 msgid "All fields with a * are required."
 msgstr "Alle Felder mit * müssen ausgefüllt werden."
 
-msgctxt "Amount remaining:Amount remaining:"
 msgid "Amount remaining:"
 msgstr "Restbetrag:"
 
-msgctxt "Amount you will payAmount you will pay"
 msgid "Amount you will pay"
 msgstr "Zu zahlender Betrag"
 
-msgctxt ""
-"An error occurred during the payment process.An error occurred during the "
-"payment process."
 msgid "An error occurred during the payment process."
 msgstr ""
 
-msgctxt ""
-"An error occurred while cancelling. Please try again later.An error "
-"occurred while cancelling. Please try again later."
 msgid "An error occurred while cancelling. Please try again later."
 msgstr ""
 "Unter Aufhebung ist ein Fehler aufgetreten. Bitte versuchen Sie es später "
 "noch einmal."
 
-msgctxt ""
-"An error occurred while proceeding the payment. Please, try again later.An "
-"error occurred while proceeding the payment. Please, try again later."
 msgid ""
 "An error occurred while proceeding the payment. Please, try again later."
 msgstr ""
 "Fehler beim Verfahren der Zahlung. Bitte, versuchen Sie es später erneut."
 
-msgctxt ""
-"An error occurred while proceeding your order:An error occurred while "
-"proceeding your order:"
 msgid "An error occurred while proceeding your order:"
 msgstr "Bei der Bestellung ist ein Fehler aufgetreten:"
 
-msgctxt ""
-"An error occurred while proceeding your order. Please, check the following "
-"information:An error occurred while proceeding your order. Please, check "
-"the following information:"
 msgid ""
 "An error occurred while proceeding your order. Please, check the following "
 "information:"
@@ -110,999 +79,722 @@ msgstr ""
 "Fehler beim Verfahren Ihrer Bestellung. Bitte überprüfen Sie die folgende "
 "Informationen:"
 
-msgctxt ""
-"Are you sure you want to close without savingAre you sure you want to close "
-"without saving"
 msgid "Are you sure you want to close without saving"
 msgstr "Sind Sie sicher, dass Sie ohne Speichern schließen möchten"
 
-msgctxt ""
-"Are you sure you want to delete this category and all its subcategories?Are "
-"you sure you want to delete this category and all its subcategories?"
 msgid ""
 "Are you sure you want to delete this category and all its subcategories?"
 msgstr ""
 "Bist du sicher, dass Sie diese Kategorie und ihre Unterkategorien löschen "
 "möchten?"
 
-msgctxt ""
-"Are you sure you want to delete this store?Are you sure you want to delete "
-"this store?"
 msgid "Are you sure you want to delete this store?"
 msgstr "Bist du sicher, dass Sie diesen Speicher löschen möchten?"
 
-msgctxt ""
-"Are you sure you want to delete this tax?Are you sure you want to delete "
-"this tax?"
 msgid "Are you sure you want to delete this tax?"
 msgstr "Bist du sicher, dass Sie diese Steuer löschen möchten?"
 
-msgctxt ""
-"Are you sure you want to remove this product?Are you sure you want to "
-"remove this product?"
 msgid "Are you sure you want to remove this product?"
 msgstr "Bist du sicher, dass Sie dieses Produkt entfernen möchten?"
 
-msgctxt "At least one option is required:At least one option is required:"
 msgid "At least one option is required:"
 msgstr "Mindestens eine Option ist erforderlich:"
 
-msgctxt "BirthdayBirthday"
 msgid "Birthday"
 msgstr "Geburtstag"
 
-msgctxt "CVCCVC"
 msgid "CVC"
 msgstr ""
 
-msgctxt "Calculate the change for the clientCalculate the change for the client"
 msgid "Calculate the change for the client"
 msgstr "Berechnen Sie die Änderung für den Kunden"
 
-msgctxt "Cancel orderCancel order"
 msgid "Cancel order"
 msgstr "Bestellung stornieren"
 
-msgctxt "CancelledCancelled"
 msgid "Cancelled"
 msgstr "Abgesagt"
 
-msgctxt "Card NumberCard Number"
 msgid "Card Number"
 msgstr ""
 
-msgctxt "Carry OutCarry Out"
 msgid "Carry Out"
 msgstr "Durchführen"
 
-msgctxt "CartCart"
 msgid "Cart"
 msgstr "Warenkorb"
 
-msgctxt "CashCash"
 msgid "Cash"
 msgstr "Bargeld"
 
-msgctxt "CategoryCategory"
 msgid "Category"
 msgstr "Kategorie"
 
-msgctxt "Category successfully saved.Category successfully saved."
 msgid "Category successfully saved."
 msgstr "Kategorie erfolgreich gespeichert."
 
-msgctxt "CheckCheck"
 msgid "Check"
 msgstr "Überprüfen"
 
-msgctxt "Choose a delivery method:Choose a delivery method:"
 msgid "Choose a delivery method:"
 msgstr "Wählen Sie eine Versandart:"
 
-msgctxt "Choose a payment method:Choose a payment method:"
 msgid "Choose a payment method:"
 msgstr "Wählen Sie eine Zahlungsmethode:"
 
-msgctxt "Choose a storeChoose a store"
 msgid "Choose a store"
 msgstr "Wähle eine Filiale"
 
-msgctxt "CityCity"
 msgid "City"
 msgstr "City"
 
-msgctxt "ClientClient"
 msgid "Client"
 msgstr "Client"
 
-msgctxt "Client will payClient will pay"
 msgid "Client will pay"
 msgstr "Der Kunde zahlt"
 
-msgctxt "CodeCode"
 msgid "Code"
 msgstr "Code"
 
-msgctxt "Code usedCode used"
 msgid "Code used"
 msgstr "Code Verwendet"
 
-msgctxt "CompletedCompleted"
 msgid "Completed"
 msgstr "Abgeschlossen"
 
-msgctxt "ConfirmationConfirmation"
 msgid "Confirmation"
 msgstr "Bestätigung"
 
-msgctxt "Connected PrintersConnected Printers"
 msgid "Connected Printers"
 msgstr "Angeschlossenen Drucker"
 
-msgctxt "Continue shoppingContinue shopping"
 msgid "Continue shopping"
 msgstr "Weiter einkaufen"
 
-msgctxt "Create a new choice list groupCreate a new choice list group"
 msgid "Create a new choice list group"
 msgstr "Neue Auswahllistengruppe erstellen"
 
-msgctxt "Create a new discountCreate a new discount"
 msgid "Create a new discount"
 msgstr "Neues Angebot erstellen"
 
-msgctxt "Create a new options groupCreate a new options group"
 msgid "Create a new options group"
 msgstr "Erstellen einer neuen Optionengruppe"
 
-msgctxt "Create a new productCreate a new product"
 msgid "Create a new product"
 msgstr "Erstellen Sie ein neues Produkt"
 
-msgctxt "Create a new taxCreate a new tax"
 msgid "Create a new tax"
 msgstr "Erstellen Sie eine neue Steuer"
 
-msgctxt "Create a storeCreate a store"
 msgid "Create a store"
 msgstr "Erstellen Sie einen Speicher"
 
-msgctxt "Credit Card by phoneCredit Card by phone"
 msgid "Credit Card by phone"
 msgstr "Kreditkarte per Telefon"
 
-msgctxt "Credit card (online payment)Credit card (online payment)"
 msgid "Credit card (online payment)"
 msgstr "Kreditkarte (Online-Zahlung)"
 
-msgctxt ""
-"Credit card (pay upon pickup or delivery)Credit card (pay upon pickup or "
-"delivery)"
 msgid "Credit card (pay upon pickup or delivery)"
 msgstr "Kreditkarte (Bezahlung bei Abholung oder Lieferung)"
 
-msgctxt "Credit card paymentCredit card payment"
 msgid "Credit card payment"
 msgstr "Kreditkarten Zahlung"
 
-msgctxt "CustomerCustomer"
 msgid "Customer"
 msgstr "Kunde"
 
-msgctxt "Customer ServiceCustomer Service"
 msgid "Customer Service"
 msgstr "Kundendienst"
 
-msgctxt "Customer can add tip to a command?Customer can add tip to a command?"
 msgid "Customer can add tip to a command?"
 msgstr ""
 
-msgctxt "Date of birthDate of birth"
 msgid "Date of birth"
 msgstr "Geburtsdatum"
 
-msgctxt "DeductableDeductable"
 msgid "Deductable"
 msgstr ""
 
-msgctxt "DeductionDeduction"
 msgid "Deduction"
 msgstr ""
 
-msgctxt "DeleteDelete"
 msgid "Delete"
 msgstr "Löschen"
 
-msgctxt "DeliveryDelivery"
 msgid "Delivery"
 msgstr "Lieferung"
 
-msgctxt "Delivery FeesDelivery Fees"
 msgid "Delivery Fees"
 msgstr "Versandkosten"
 
-msgctxt "Delivery MethodDelivery Method"
 msgid "Delivery Method"
 msgstr "Übermittlungsmethode"
 
-msgctxt "Delivery addressDelivery address"
 msgid "Delivery address"
 msgstr "Lieferadresse"
 
-msgctxt "Delivery areaDelivery area"
 msgid "Delivery area"
 msgstr "Liefergebiet"
 
-msgctxt "Delivery feesDelivery fees"
 msgid "Delivery fees"
 msgstr "Versandkosten"
 
-msgctxt "Delivery methodsDelivery methods"
 msgid "Delivery methods"
 msgstr "Liefermethoden"
 
-msgctxt "Delivery radiusDelivery radius"
 msgid "Delivery radius"
 msgstr "Lieferung radius"
 
-msgctxt "Delivery timeDelivery time"
 msgid "Delivery time"
 msgstr "Lieferzeit"
 
-msgctxt "DetailsDetails"
 msgid "Details"
 msgstr "Informationen"
 
-msgctxt "Discound codeDiscound code"
 msgid "Discound code"
 msgstr "Rabattzone"
 
-msgctxt "DiscountDiscount"
 msgid "Discount"
 msgstr "Angebot"
 
-msgctxt "Discount SettingsDiscount Settings"
 msgid "Discount Settings"
 msgstr "Kontoeinstellungen"
 
-msgctxt "Discount amountDiscount amount"
 msgid "Discount amount"
 msgstr "Rabattzone"
 
-msgctxt "Discount amount si very highDiscount amount si very high"
 msgid "Discount amount si very high"
 msgstr ""
 
-msgctxt "Discount codeDiscount code"
 msgid "Discount code"
 msgstr "Rabattzone"
 
-msgctxt "Discount code already existsDiscount code already exists"
 msgid "Discount code already exists"
 msgstr ""
 
-msgctxt "Discount code is missingDiscount code is missing"
 msgid "Discount code is missing"
 msgstr ""
 
-msgctxt "Discount label is missingDiscount label is missing"
 msgid "Discount label is missing"
 msgstr ""
 
-msgctxt "Discount minimum amount is missingDiscount minimum amount is missing"
 msgid "Discount minimum amount is missing"
 msgstr ""
 
-msgctxt "Discount no longer availableDiscount no longer available"
 msgid "Discount no longer available"
 msgstr ""
 
-msgctxt ""
-"Discount only for carts with total more than: Discount only for carts with "
-"total more than: "
 msgid "Discount only for carts with total more than: "
 msgstr ""
 
-msgctxt "Discount settingsDiscount settings"
 msgid "Discount settings"
 msgstr "Kontoeinstellungen"
 
-msgctxt "Discount totalDiscount total"
 msgid "Discount total"
 msgstr "Rabattzone"
 
-msgctxt "Discount typeDiscount type"
 msgid "Discount type"
 msgstr "Rabattzone"
 
-msgctxt "Discount type is missingDiscount type is missing"
 msgid "Discount type is missing"
 msgstr ""
 
-msgctxt "Discount usedDiscount used"
 msgid "Discount used"
 msgstr ""
 
-msgctxt "Discount validation dateDiscount validation date"
 msgid "Discount validation date"
 msgstr ""
 
-msgctxt "Discounted amount is missingDiscounted amount is missing"
 msgid "Discounted amount is missing"
 msgstr ""
 
-msgctxt ""
-"Discounted amount should be a positive numberDiscounted amount should be a "
-"positive number"
 msgid "Discounted amount should be a positive number"
 msgstr ""
 
-msgctxt ""
-"Do you confirm you want to remove your card?Do you confirm you want to "
-"remove your card?"
 msgid "Do you confirm you want to remove your card?"
 msgstr ""
 
-msgctxt "DoneDone"
 msgid "Done"
 msgstr "Fertig"
 
-msgctxt "Duplicate this productDuplicate this product"
 msgid "Duplicate this product"
 msgstr "Produkt duplizieren"
 
-msgctxt "Edit a storeEdit a store"
 msgid "Edit a store"
 msgstr "Bearbeiten Sie ein Geschäft"
 
-msgctxt "Edit the choice list groupEdit the choice list group"
 msgid "Edit the choice list group"
 msgstr "Auswahllistengruppe bearbeiten"
 
-msgctxt "Edit the discount %sEdit the discount %s"
 msgid "Edit the discount %s"
 msgstr "Bearbeiten Sie das Konto %s"
 
-msgctxt "Edit the options group %sEdit the options group %s"
 msgid "Edit the options group %s"
 msgstr "Bearbeiten der Optionengruppe für %s"
 
-msgctxt "Edit the product %sEdit the product %s"
 msgid "Edit the product %s"
 msgstr "Bearbeiten Sie das Produkt %s"
 
-msgctxt "Edit the tax %sEdit the tax %s"
 msgid "Edit the tax %s"
 msgstr "Bearbeiten Sie die Steuer %s"
 
-msgctxt "EmailEmail"
 msgid "Email"
 msgstr "Email"
 
-msgctxt "EnabledEnabled"
 msgid "Enabled"
 msgstr "Aktiviert?"
 
-msgctxt "Error while using your pointsError while using your points"
 msgid "Error while using your points"
 msgstr ""
 
-msgctxt "Estimated discount:Estimated discount:"
 msgid "Estimated discount:"
 msgstr ""
 
-msgctxt "FirstFirst"
 msgid "First"
 msgstr "Zuerst"
 
-msgctxt "First NameFirst Name"
 msgid "First Name"
 msgstr "Vorname"
 
-msgctxt "FirstnameFirstname"
 msgid "Firstname"
 msgstr "Vorname"
 
-msgctxt "Format:Format:"
 msgid "Format:"
 msgstr "Format"
 
-msgctxt "Free delivery starting fromFree delivery starting from"
 msgid "Free delivery starting from"
 msgstr "Kostenlose Lieferung ab"
 
-msgctxt "Free purchaseFree purchase"
 msgid "Free purchase"
 msgstr ""
 
-msgctxt "FromFrom"
 msgid "From"
 msgstr ""
 
-msgctxt "GratuityGratuity"
 msgid "Gratuity"
 msgstr ""
 
-msgctxt "Guest OrderGuest Order"
 msgid "Guest Order"
 msgstr ""
 
-msgctxt "Here is the detail of the orderHere is the detail of the order"
 msgid "Here is the detail of the order"
 msgstr "Hier sind die Details der Bestellung"
 
-msgctxt "Here is the detail of your orderHere is the detail of your order"
 msgid "Here is the detail of your order"
 msgstr "Hier sind die Details Ihrer Bestellung"
 
-msgctxt "HiddenHidden"
 msgid "Hidden"
 msgstr "Versteckt"
 
-msgctxt "Hours of operationHours of operation"
 msgid "Hours of operation"
 msgstr "Öffnungszeiten"
 
-msgctxt "I will payI will pay"
 msgid "I will pay"
 msgstr "Ich bezahle"
 
-msgctxt "In storeIn store"
 msgid "In store"
 msgstr "Im Speicher"
 
-msgctxt "Incl.Incl."
 msgid "Incl."
 msgstr ""
 
-msgctxt "Invalid codeInvalid code"
 msgid "Invalid code"
 msgstr ""
 
-msgctxt "Invoicing addressInvoicing address"
 msgid "Invoicing address"
 msgstr "Rechnungsadresse"
 
-msgctxt "Keep card informationKeep card information"
 msgid "Keep card information"
 msgstr ""
 
-msgctxt "LabelLabel"
 msgid "Label"
 msgstr "Label"
 
-msgctxt "LastLast"
 msgid "Last"
 msgstr "Letzte"
 
-msgctxt "Last NameLast Name"
 msgid "Last Name"
 msgstr "Nachname"
 
-msgctxt "LastnameLastname"
 msgid "Lastname"
 msgstr "Nachname:"
 
-msgctxt "Loading...Loading..."
 msgid "Loading..."
 msgstr "Wird geladen ..."
 
-msgctxt "LoginLogin"
 msgid "Login"
 msgstr "Anmelden"
 
-msgctxt "MMMM"
 msgid "MM"
 msgstr ""
 
-msgctxt "Manage discountsManage discounts"
 msgid "Manage discounts"
 msgstr "Symbole verwalten"
 
-msgctxt "Manage user fieldsManage user fields"
 msgid "Manage user fields"
 msgstr "Benutzerfelder verwalten"
 
-msgctxt "MandatoryMandatory"
 msgid "Mandatory"
 msgstr "Pflicht"
 
-msgctxt "Meal VoucherMeal Voucher"
 msgid "Meal Voucher"
 msgstr "Essen Gutschein"
 
-msgctxt "Merchant ID:Merchant ID:"
 msgid "Merchant ID:"
 msgstr "Händler-ID:"
 
-msgctxt "Minimum amountMinimum amount"
 msgid "Minimum amount"
 msgstr ""
 
-msgctxt ""
-"Minimum amount should be a positive numberMinimum amount should be a "
-"positive number"
 msgid "Minimum amount should be a positive number"
 msgstr ""
 
-msgctxt "Minimum orderMinimum order"
 msgid "Minimum order"
 msgstr "Mindestbestellmenge"
 
-msgctxt "My CartMy Cart"
 msgid "My Cart"
 msgstr "Mein Warenkorb"
 
-msgctxt "My cart is emptyMy cart is empty"
 msgid "My cart is empty"
 msgstr "Mein Warenkorb ist leer"
 
-msgctxt "My categoriesMy categories"
 msgid "My categories"
 msgstr "Meine Kategorien"
 
-msgctxt "My informationMy information"
 msgid "My information"
 msgstr "Meine Informationen"
 
-msgctxt "My ordersMy orders"
 msgid "My orders"
 msgstr "Meine Bestellungen"
 
-msgctxt "My productsMy products"
 msgid "My products"
 msgstr "Meine Produkte"
 
-msgctxt "My product's categoriesMy product's categories"
 msgid "My product's categories"
 msgstr "Mein Produkt-Kategorien"
 
-msgctxt "My product's list choice optionsMy product's list choice options"
 msgid "My product's list choice options"
 msgstr ""
 
-msgctxt "My product's optionsMy product's options"
 msgid "My product's options"
 msgstr "Mein Produkt-Optionen"
 
-msgctxt "My storesMy stores"
 msgid "My stores"
 msgstr "Meine Vorräte"
 
-msgctxt "My taxesMy taxes"
 msgid "My taxes"
 msgstr "Meine Steuern"
 
-msgctxt "Name of the options group:Name of the options group:"
 msgid "Name of the options group:"
 msgstr "Name der Optionengruppe:"
 
-msgctxt "New order from the applicationNew order from the application"
 msgid "New order from the application"
 msgstr "Neuer Auftrag von der Anwendung"
 
-msgctxt "NextNext"
 msgid "Next"
 msgstr "Nächstes"
 
-msgctxt "No data available in tableNo data available in table"
 msgid "No data available in table"
 msgstr "Keine Daten in der Tabelle verfügbar"
 
-msgctxt "No matching records foundNo matching records found"
 msgid "No matching records found"
 msgstr "Keine passenden Datensätze gefunden"
 
-msgctxt "NotesNotes"
 msgid "Notes"
 msgstr "Notizen"
 
-msgctxt "NumberNumber"
 msgid "Number"
 msgstr "Anzahl"
 
-msgctxt "Option $1 is required.Option $1 is required."
 msgid "Option $1 is required."
 msgstr "Option $1 ist erforderlich."
 
-msgctxt "Option nameOption name"
 msgid "Option name"
 msgstr "Optionsnamen"
 
-msgctxt "OptionalOptional"
 msgid "Optional"
 msgstr ""
 
-msgctxt "OptionsOptions"
 msgid "Options"
 msgstr "Optionen"
 
-msgctxt "Options group successfully deletedOptions group successfully deleted"
 msgid "Options group successfully deleted"
 msgstr "Optionengruppe erfolgreich gelöscht"
 
-msgctxt "Options group successfully savedOptions group successfully saved"
 msgid "Options group successfully saved"
 msgstr "Optionengruppe erfolgreich gespeichert"
 
-msgctxt "Order NumberOrder Number"
 msgid "Order Number"
 msgstr "Bestell-Nr."
 
-msgctxt "Order N°Order N°"
 msgid "Order N°"
 msgstr ""
 
-msgctxt "Order TotalOrder Total"
 msgid "Order Total"
 msgstr ""
 
-msgctxt "Order confirmationOrder confirmation"
 msgid "Order confirmation"
 msgstr "Auftragsbestätigung"
 
-msgctxt "Order detailsOrder details"
 msgid "Order details"
 msgstr "Bestelldetails"
 
-msgctxt "Order historyOrder history"
 msgid "Order history"
 msgstr ""
 
-msgctxt "Order %s cancelledOrder %s cancelled"
 msgid "Order %s cancelled"
 msgstr "Bestellung %s storniert"
 
-msgctxt "Order successfully cancelledOrder successfully cancelled"
 msgid "Order successfully cancelled"
 msgstr "Bestellung erfolgreich storniert"
 
-msgctxt "Order successfully savedOrder successfully saved"
 msgid "Order successfully saved"
 msgstr "Bestellung erfolgreich gespeichert"
 
-msgctxt "OrdersOrders"
 msgid "Orders"
 msgstr "Bestellungen"
 
-msgctxt "PaidPaid"
 msgid "Paid"
 msgstr "Bezahlt"
 
-msgctxt "Paid by the client:Paid by the client:"
 msgid "Paid by the client:"
 msgstr "Bezahlt nach Kunde:"
 
-msgctxt "PasswordPassword"
 msgid "Password"
 msgstr "Passwort"
 
-msgctxt "PayPay"
 msgid "Pay"
 msgstr "Bezahlen"
 
-msgctxt "PaymentPayment"
 msgid "Payment"
 msgstr "Zahlung"
 
-msgctxt "Payment MethodPayment Method"
 msgid "Payment Method"
 msgstr "Zahlungsmethode"
 
-msgctxt "Payment methods:Payment methods:"
 msgid "Payment methods:"
 msgstr "Zahlungsmethoden:"
 
-msgctxt "PaypalPaypal"
 msgid "Paypal"
 msgstr "PayPal"
 
-msgctxt "Paypal settingsPaypal settings"
 msgid "Paypal settings"
 msgstr "Paypal-Einstellungen"
 
-msgctxt "Pending paymentPending payment"
 msgid "Pending payment"
 msgstr "Ausstehende Zahlung"
 
-msgctxt ""
-"Percentage is a least 1%, at max 99%Percentage is a least 1%, at max 99%"
 msgid "Percentage is a least 1%, at max 99%"
 msgstr ""
 
-msgctxt ""
-"Percentage must be at least 1 percent, at most 99 percentPercentage must be "
-"at least 1 percent, at most 99 percent"
 msgid "Percentage must be at least 1 percent, at most 99 percent"
 msgstr ""
 
-msgctxt ""
-"Permit unregistered user to make order?Permit unregistered user to make "
-"order?"
 msgid "Permit unregistered user to make order?"
 msgstr ""
 
-msgctxt "PhonePhone"
 msgid "Phone"
 msgstr "Telefon"
 
-msgctxt "Phone numberPhone number"
 msgid "Phone number"
 msgstr "Telefonnummer"
 
-msgctxt "PicturePicture"
 msgid "Picture"
 msgstr "Bild"
 
-msgctxt "Please choose a delivery methodPlease choose a delivery method"
 msgid "Please choose a delivery method"
 msgstr "Bitte wählen Sie eine Versandart"
 
-msgctxt "Please choose a payment methodPlease choose a payment method"
 msgid "Please choose a payment method"
 msgstr "Bitte wählen Sie eine Zahlungsmethode"
 
-msgctxt ""
-"Please, enter an email address for the store %sPlease, enter an email "
-"address for the store %s"
 msgid "Please, enter an email address for the store %s"
 msgstr "Bitte geben Sie eine e-Mail-Adresse für den Store %s"
 
-msgctxt ""
-"Please fill in your card information to process Credit card payment:Please "
-"fill in your card information to process Credit card payment:"
 msgid "Please fill in your card information to process Credit card payment:"
 msgstr ""
 "Bitte füllen Sie Ihre Karteninformationen zur Bearbeitung Ihrer Kreditkarte "
 "aus:"
 
-msgctxt "PointsPoints"
 msgid "Points"
 msgstr ""
 
-msgctxt "Points available:Points available:"
 msgid "Points available:"
 msgstr ""
 
-msgctxt "PostcodePostcode"
 msgid "Postcode"
 msgstr "Postleitzahl"
 
-msgctxt "PreviousPrevious"
 msgid "Previous"
 msgstr "Zurück"
 
-msgctxt "PricePrice"
 msgid "Price"
 msgstr "Preis"
 
-msgctxt "Price: %sPrice: %s"
 msgid "Price: %s"
 msgstr "Preis: %s"
 
-msgctxt "PricesPrices"
 msgid "Prices"
 msgstr "Preise"
 
-msgctxt "Printer successfully savedPrinter successfully saved"
 msgid "Printer successfully saved"
 msgstr "Drucker erfolgreich gespeichert"
 
-msgctxt "ProceedProceed"
 msgid "Proceed"
 msgstr "Gehen Sie"
 
-msgctxt "Processing...Processing..."
 msgid "Processing..."
 msgstr "Verarbeitung..."
 
-msgctxt "ProductProduct"
 msgid "Product"
 msgstr "Produkt"
 
-msgctxt "Product formatsProduct formats"
 msgid "Product formats"
 msgstr "Produktformate"
 
-msgctxt "Product nameProduct name"
 msgid "Product name"
 msgstr "Produktname"
 
-msgctxt "Product successfully duplicatedProduct successfully duplicated"
 msgid "Product successfully duplicated"
 msgstr "Produkt erfolgreich dupliziert"
 
-msgctxt "Product successfully savedProduct successfully saved"
 msgid "Product successfully saved"
 msgstr "Produkt erfolgreich gespeichert"
 
-msgctxt "Publishable Key:Publishable Key:"
 msgid "Publishable Key:"
 msgstr "Veröffentlichbarer Schlüssel:"
 
-msgctxt "QtyQty"
 msgid "Qty"
 msgstr "Qty"
 
-msgctxt "Qty: %sQty: %s"
 msgid "Qty: %s"
 msgstr "Qty: %s"
 
-msgctxt "Radius in KmRadius in Km"
 msgid "Radius in Km"
 msgstr "RADIUS in Km"
 
-msgctxt "Remaining amount dueRemaining amount due"
 msgid "Remaining amount due"
 msgstr "Restbetrag"
 
-msgctxt "Remaining dueRemaining due"
 msgid "Remaining due"
 msgstr "Verbleibend"
 
-msgctxt "Remove cardRemove card"
 msgid "Remove card"
 msgstr ""
 
-msgctxt "Return URL:Return URL:"
 msgid "Return URL:"
 msgstr "Rücksende-URL:"
 
-msgctxt "ReviewReview"
 msgid "Review"
 msgstr "Bewertung"
 
-msgctxt "Search:Search:"
 msgid "Search:"
 msgstr "Suche:"
 
-msgctxt "Secret KeySecret Key"
 msgid "Secret Key"
 msgstr "Geheimer Schlüssel"
 
-msgctxt "SettingsSettings"
 msgid "Settings"
 msgstr "Einstellungen"
 
-msgctxt "Settings successfully savedSettings successfully saved"
 msgid "Settings successfully saved"
 msgstr "Einstellungen erfolgreich gespeichert"
 
-msgctxt "Show _MENU_ entriesShow _MENU_ entries"
 msgid "Show _MENU_ entries"
 msgstr ""
 
-msgctxt ""
-"Show search fields on product list ?Show search fields on product list ?"
 msgid "Show search fields on product list ?"
 msgstr "Suchfelder für Produktliste anzeigen?"
 
-msgctxt "Showing 0 to 0 of 0 entriesShowing 0 to 0 of 0 entries"
 msgid "Showing 0 to 0 of 0 entries"
 msgstr "Zeige 0 bis 0 von 0 Einträgen"
 
-msgctxt ""
-"Showing _START_ to _END_ of _TOTAL_ entriesShowing _START_ to _END_ of "
-"_TOTAL_ entries"
 msgid "Showing _START_ to _END_ of _TOTAL_ entries"
 msgstr ""
 
-msgctxt "SignatureSignature"
 msgid "Signature"
 msgstr "Signatur"
 
-msgctxt "SignupSignup"
 msgid "Signup"
 msgstr "Anmelden"
 
-msgctxt "Some mandatory fields are empty.Some mandatory fields are empty."
 msgid "Some mandatory fields are empty."
 msgstr "Einige Pflichtfelder sind leer."
 
-msgctxt ""
-"Sorry we can't proceed to deliver your order. It has been canceled.Sorry we "
-"can't proceed to deliver your order. It has been canceled."
 msgid "Sorry we can't proceed to deliver your order. It has been canceled."
 msgstr "Leider können wir Ihre Bestellung nicht liefern. Diese wurde storniert."
 
-msgctxt "StatusStatus"
 msgid "Status"
 msgstr "Status"
 
-msgctxt "Store choiceStore choice"
 msgid "Store choice"
 msgstr "Filialen Auswahl"
 
-msgctxt "Store informationStore information"
 msgid "Store information"
 msgstr "Shop-Informationen"
 
-msgctxt "Store nameStore name"
 msgid "Store name"
 msgstr "Shop-Namen"
 
-msgctxt "Store successfully deletedStore successfully deleted"
 msgid "Store successfully deleted"
 msgstr "Shop erfolgreich gelöscht"
 
-msgctxt "Store successfully savedStore successfully saved"
 msgid "Store successfully saved"
 msgstr "Shop erfolgreich gespeichert"
 
-msgctxt "Stored card information.Stored card information."
 msgid "Stored card information."
 msgstr "Storeinformationen"
 
-msgctxt "StoresStores"
 msgid "Stores"
 msgstr "Shops"
 
-msgctxt "StreetStreet"
 msgid "Street"
 msgstr "Straße"
 
-msgctxt "Stripe settingsStripe settings"
 msgid "Stripe settings"
 msgstr ""
 
-msgctxt "SubtotalSubtotal"
 msgid "Subtotal"
 msgstr "Zwischensumme"
 
-msgctxt "Subtotal Excl. TaxSubtotal Excl. Tax"
 msgid "Subtotal Excl. Tax"
 msgstr "Total Exkl. Steuer"
 
-msgctxt "Subtotal before deductionSubtotal before deduction"
 msgid "Subtotal before deduction"
 msgstr ""
 
-msgctxt "TaxTax"
 msgid "Tax"
 msgstr "Steuer"
 
-msgctxt "Tax nameTax name"
 msgid "Tax name"
 msgstr "Steuername"
 
-msgctxt "Tax rateTax rate"
 msgid "Tax rate"
 msgstr "Steuersatz"
 
-msgctxt "Tax successfully deletedTax successfully deleted"
 msgid "Tax successfully deleted"
 msgstr "Steuern erfolgreich gelöscht"
 
-msgctxt "Tax successfully savedTax successfully saved"
 msgid "Tax successfully saved"
 msgstr "Steuern erfolgreich gespeichert"
 
-msgctxt "Thank you!Thank you!"
 msgid "Thank you!"
 msgstr "Vielen Dank!"
 
-msgctxt "The clients calculate the change:The clients calculate the change:"
 msgid "The clients calculate the change:"
 msgstr "Die Kunden berechnen die Änderung:"
 
-msgctxt "The delivery methodThe delivery method"
 msgid "The delivery method"
 msgstr "Die Übermittlungsmethode"
 
-msgctxt ""
-"The following options are required:<br />%sThe following options are "
-"required:<br />%s"
 msgid "The following options are required:<br />%s"
 msgstr "Die folgenden Optionen sind erforderlich: < Br />%s"
 
-msgctxt "The option %s is requiredThe option %s is required"
 msgid "The option %s is required"
 msgstr "Die Option %s ist erforderlich"
 
-msgctxt ""
-"The payment has been cancelled, something wrong happened? Feel free to "
-"contact usThe payment has been cancelled, something wrong happened? Feel "
-"free to contact us"
 msgid ""
 "The payment has been cancelled, something wrong happened? Feel free to "
 "contact us"
@@ -1110,177 +802,125 @@ msgstr ""
 "Abgebrochen die Zahlung wurde, etwas passiert ist? Zögern Sie nicht uns zu "
 "kontaktieren"
 
-msgctxt "The payment methodThe payment method"
 msgid "The payment method"
 msgstr "Die Zahlungsmethode"
 
-msgctxt "Time in minutesTime in minutes"
 msgid "Time in minutes"
 msgstr "Zeit in Minuten"
 
-msgctxt "TipTip"
 msgid "Tip"
 msgstr "Tipp"
 
-msgctxt "TotalTotal"
 msgid "Total"
 msgstr "Gesamt"
 
-msgctxt "Total Excl. TaxTotal Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Total exkl. USt."
 
-msgctxt "Total TaxTotal Tax"
 msgid "Total Tax"
 msgstr "Steuern gesamt"
 
-msgctxt "Total: %sTotal: %s"
 msgid "Total: %s"
 msgstr "Gesamt: %s"
 
-msgctxt ""
-"Unable to proceed to checkout the minimum order amount is %sUnable to "
-"proceed to checkout the minimum order amount is %s"
 msgid "Unable to proceed to checkout the minimum order amount is %s"
 msgstr "Kann nicht zur Kasse gehen. Die Mindestbestellmenge liegt bei %s"
 
-msgctxt "Unit PriceUnit Price"
 msgid "Unit Price"
 msgstr "VK-Preis"
 
-msgctxt "Unit priceUnit price"
 msgid "Unit price"
 msgstr "VK-Preis"
 
-msgctxt "Updating priceUpdating price"
 msgid "Updating price"
 msgstr ""
 
-msgctxt "Usable onceUsable once"
 msgid "Usable once"
 msgstr ""
 
-msgctxt "Use:Use:"
 msgid "Use:"
 msgstr "Benutzer"
 
-msgctxt "Use my points?Use my points?"
 msgid "Use my points?"
 msgstr "Benutzte Punkte"
 
-msgctxt "UsernameUsername"
 msgid "Username"
 msgstr "Benutzername"
 
-msgctxt "Validity dateValidity date"
 msgid "Validity date"
 msgstr ""
 
-msgctxt ""
-"Validity date should be a valid dateValidity date should be a valid date"
 msgid "Validity date should be a valid date"
 msgstr ""
 
-msgctxt "Verify Key:Verify Key:"
 msgid "Verify Key:"
 msgstr "Schlüssel prüfen:"
 
-msgctxt "Waiting for paymentWaiting for payment"
 msgid "Waiting for payment"
 msgstr "Warten auf Zahlung"
 
-msgctxt ""
-"We apologize but the payment method %s is currently not availableWe "
-"apologize but the payment method %s is currently not available"
 msgid "We apologize but the payment method %s is currently not available"
 msgstr "Tut uns leid aber die Zahlungsmethode %s ist derzeit nicht verfügbar"
 
-msgctxt ""
-"We thank you for your order. A confirmation email has been sentWe thank you "
-"for your order. A confirmation email has been sent"
 msgid "We thank you for your order. A confirmation email has been sent"
 msgstr ""
 "Wir danken Ihnen für Ihre Bestellung. Eine Bestätigungs-Email wurde gesendet"
 
-msgctxt "YYYYYYYY"
 msgid "YYYY"
 msgstr ""
 
-msgctxt "You did not login.You did not login."
 msgid "You did not login."
 msgstr "Sie haben sich nicht angemeldet."
 
-msgctxt "You don't have any categories yetYou don't have any categories yet"
 msgid "You don't have any categories yet"
 msgstr "Sie noch alle Kategorien nicht"
 
-msgctxt "You don't have enough pointsYou don't have enough points"
 msgid "You don't have enough points"
 msgstr ""
 
-msgctxt ""
-"You have a connected printer? Enter the email addressYou have a connected "
-"printer? Enter the email address"
 msgid "You have a connected printer? Enter the email address"
 msgstr "Haben Sie einen angeschlossenen Drucker? Geben Sie die e-Mail-Adresse"
 
-msgctxt ""
-"You have a connected printer? Enter the email address for each storeYou "
-"have a connected printer? Enter the email address for each store"
 msgid "You have a connected printer? Enter the email address for each store"
 msgstr ""
 "Haben Sie einen angeschlossenen Drucker? Geben Sie die e-Mail-Adresse für "
 "jedes Geschäft"
 
-msgctxt ""
-"You have to choose a delivery method.You have to choose a delivery method."
 msgid "You have to choose a delivery method."
 msgstr "Bitte wählen Sie eine Liefermethode"
 
-msgctxt "You must be logged in to continueYou must be logged in to continue"
 msgid "You must be logged in to continue"
 msgstr "Sie müssen eingeloggt sein, um fortzufahren"
 
-msgctxt "You used the code beforeYou used the code before"
 msgid "You used the code before"
 msgstr ""
 
-msgctxt "Your addressYour address"
 msgid "Your address"
 msgstr "Ihre Adresse"
 
-msgctxt "Your email addressYour email address"
 msgid "Your email address"
 msgstr "Ihre e-Mail-Adresse"
 
-msgctxt "Your firstnameYour firstname"
 msgid "Your firstname"
 msgstr "Ihr Vorname"
 
-msgctxt "Your lastnameYour lastname"
 msgid "Your lastname"
 msgstr "Ihr Nachname"
 
-msgctxt "Your phone numberYour phone number"
 msgid "Your phone number"
 msgstr "Ihre Telefonnummer"
 
-msgctxt "e.g., Saucese.g., Sauces"
 msgid "e.g., Sauces"
 msgstr "z.B. Saucen"
 
-msgctxt "(filtered from _MAX_ total entries)(filtered from _MAX_ total entries)"
 msgid "(filtered from _MAX_ total entries)"
 msgstr ""
 
-msgctxt "%s - Customer Service%s - Customer Service"
 msgid "%s - Customer Service"
 msgstr "%s - Kundendienst"
 
-msgctxt "without taxeswithout taxes"
 msgid "without taxes"
 msgstr "ohne Steuer"
 
-msgctxt "your choiceyour choice"
 msgid "your choice"
 msgstr "Ihre Wahl"

@@ -14,70 +14,52 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while saving.An error occurred while saving."
 msgid "An error occurred while saving."
 msgstr "Beim Speichern ist ein Fehler aufgetreten."
 
-msgctxt ""
-"An error occurred while saving. Please try again later.An error occurred "
-"while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr ""
 "Ein Fehler beim speichern ist aufgetreten. Bitte versuchen Sie es später "
 "noch einmal"
 
-msgctxt "Could not authenticate you.Could not authenticate you."
 msgid "Could not authenticate you."
 msgstr "Konnte dich nicht authentifizieren."
 
-msgctxt "Enter your twitter handle/urlEnter your twitter handle/url"
 msgid "Enter your twitter handle/url"
 msgstr "Gib deine Twitter-Handle / URL ein"
 
-msgctxt "HandleHandle"
 msgid "Handle"
 msgstr "Knebel - Griff"
 
-msgctxt "Info successfully savedInfo successfully saved"
 msgid "Info successfully saved"
 msgstr "Information erfolgreich gespeichert"
 
-msgctxt "Sorry, that page does not exist.Sorry, that page does not exist."
 msgid "Sorry, that page does not exist."
 msgstr "Entschuldigung, diese Seite existiert nicht."
 
-msgctxt "Twitter API secretTwitter API secret"
 msgid "Twitter API secret"
 msgstr "Twitter API Schlüssel"
 
-msgctxt "Twitter API settingsTwitter API settings"
 msgid "Twitter API settings"
 msgstr "Twitter API Einstellungen"
 
-msgctxt "Twitter API tokenTwitter API token"
 msgid "Twitter API token"
 msgstr "Twitter API Schlüssel"
 
-msgctxt "Twitter consumer keyTwitter consumer key"
 msgid "Twitter consumer key"
 msgstr "Twitter-Kundenschlüssel"
 
-msgctxt "Twitter consumer secretTwitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr "Twitter-Kundenschlüssel"
 
-msgctxt "VerifyVerify"
 msgid "Verify"
 msgstr "Überprüfen"
 
-msgctxt "followersfollowers"
 msgid "followers"
 msgstr "Follower"
 
-msgctxt "followingfollowing"
 msgid "following"
 msgstr "folgend"
 
-msgctxt "was verified with successwas verified with success"
 msgid "was verified with success"
 msgstr "wurde mit Erfolg verifiziert"

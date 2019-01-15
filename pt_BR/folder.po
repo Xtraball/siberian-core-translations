@@ -14,140 +14,94 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a pageAdd a page"
 msgid "Add a page"
 msgstr "Adicionar uma página"
 
-msgctxt "Add featureAdd feature"
 msgid "Add feature"
 msgstr ""
 
-msgctxt ""
-"Allow line return in Title & SubtitlesAllow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr ""
 
-msgctxt ""
-"By checking this, a search field will appear in your folder featureBy "
-"checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 
-msgctxt "CancelCancel"
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgctxt "Click onClick on"
 msgid "Click on"
 msgstr "Clique em"
 
-msgctxt ""
-"Click on a feature to add it to the folderClick on a feature to add it to "
-"the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Clique em uma página para adicioná-la na pasta"
 
-msgctxt ""
-"Click on a page to add it to the folderClick on a page to add it to the "
-"folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Clique em uma página para adicioná-la na pasta"
 
-msgctxt ""
-"Click on a page to add it to the folder <span id='folder_name' "
-"class='folder_name'>%s</span>Click on a page to add it to the folder <span "
-"id='folder_name' class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
 msgstr ""
 
-msgctxt "Close mobile displayClose mobile display"
 msgid "Close mobile display"
 msgstr "Fechar exibição móvel"
 
-msgctxt ""
-"Delete this folder and all its subfolders?Delete this folder and all its "
-"subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Apagar esta pasta e todas as suas subpastas?"
 
-msgctxt "Edit folderEdit folder"
 msgid "Edit folder"
 msgstr ""
 
-msgctxt "Enable search in foldersEnable search in folders"
 msgid "Enable search in folders"
 msgstr ""
 
-msgctxt "Folder title is requiredFolder title is required"
 msgid "Folder title is required"
 msgstr "Título da pasta é necessária"
 
-msgctxt "FoldersFolders"
 msgid "Folders"
 msgstr "Pastas"
 
-msgctxt "Inherit global layoutInherit global layout"
 msgid "Inherit global layout"
 msgstr ""
 
-msgctxt "Mobile displayMobile display"
 msgid "Mobile display"
 msgstr "Celular display"
 
-msgctxt "New folderNew folder"
 msgid "New folder"
 msgstr "Nova pasta"
 
-msgctxt "No results for your request.No results for your request."
 msgid "No results for your request."
 msgstr ""
 
-msgctxt "Override layoutOverride layout"
 msgid "Override layout"
 msgstr ""
 
-msgctxt "Search resultsSearch results"
 msgid "Search results"
 msgstr ""
 
-msgctxt "Show coverShow cover"
 msgid "Show cover"
 msgstr ""
 
-msgctxt "Show search fieldShow search field"
 msgid "Show search field"
 msgstr ""
 
-msgctxt "Show titleShow title"
 msgid "Show title"
 msgstr "Mostrar artigo"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "Use card designUse card design"
 msgid "Use card design"
 msgstr ""
 
-msgctxt "You cannot add this featureYou cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Você não pode adicionar esse recurso"
 
-msgctxt ""
-"You must first complete the current category creation processYou must first "
-"complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Primeiro, você deve completar o atual processo de criação de categoria"
 
-msgctxt ""
-"You will lose all unsaved changes, continue?You will lose all unsaved "
-"changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Você perderá todas as alterações não salvas, continuar?"
 
-msgctxt "to add a folder.to add a folder."
 msgid "to add a folder."
 msgstr "para adicionar uma pasta."

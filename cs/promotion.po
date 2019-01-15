@@ -14,170 +14,119 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your discount. Please fill in all fieldsAn "
-"error occurred while saving your discount. Please fill in all fields"
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "Při ukládání slevy došlo k chybě. Vyplňte prosím všechna pole"
 
-msgctxt ""
-"Are you sure you want to use this discount?Are you sure you want to use "
-"this discount?"
 msgid "Are you sure you want to use this discount?"
 msgstr "Opravdu chcete využít tuto slevu?"
 
-msgctxt "Closed discountsClosed discounts"
 msgid "Closed discounts"
 msgstr "Ukončené slevy"
 
-msgctxt "ConditionsConditions"
 msgid "Conditions"
 msgstr "Podmínky"
 
-msgctxt "Create a new DiscountCreate a new Discount"
 msgid "Create a new Discount"
 msgstr "Vytvořit novou slevu"
 
-msgctxt "Create a new discountCreate a new discount"
 msgid "Create a new discount"
 msgstr "Vytvořit novou slevu"
 
-msgctxt "Delete this discount?Delete this discount?"
 msgid "Delete this discount?"
 msgstr "Odstranit tuto slevu?"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Popis"
 
-msgctxt "DesignDesign"
 msgid "Design"
 msgstr "Design"
 
-msgctxt "DetailsDetails"
 msgid "Details"
 msgstr "Podrobnosti"
 
-msgctxt "DiscountDiscount"
 msgid "Discount"
 msgstr "Slevy"
 
-msgctxt "Discount successfully deletedDiscount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "Sleva úspěšně smazána"
 
-msgctxt "Discount successfully savedDiscount successfully saved"
 msgid "Discount successfully saved"
 msgstr "Sleva byla úspěšně uložena"
 
-msgctxt "Do you want to use this coupon?Do you want to use this coupon?"
 msgid "Do you want to use this coupon?"
 msgstr "Opravdu chcete použít tento kupón?"
 
-msgctxt "End atEnd at"
 msgid "End at"
 msgstr "Platnost do"
 
-msgctxt "Generate QRCodeGenerate QRCode"
 msgid "Generate QRCode"
 msgstr "Vygenerovat QR kód"
 
-msgctxt "Is unique?Is unique?"
 msgid "Is unique?"
 msgstr ""
 
-msgctxt "Manage contentManage content"
 msgid "Manage content"
 msgstr ""
 
-msgctxt "NoNo"
 msgid "No"
 msgstr "Ne"
 
-msgctxt "OnOn"
 msgid "On"
 msgstr ""
 
-msgctxt "PicturePicture"
 msgid "Picture"
 msgstr "Obrázek"
 
-msgctxt ""
-"Please select an end date greater than the current date.Please select an "
-"end date greater than the current date."
 msgid "Please select an end date greater than the current date."
 msgstr "Datum ukončení musí být větší než aktuální datum"
 
-msgctxt "QR CouponQR Coupon"
 msgid "QR Coupon"
 msgstr ""
 
-msgctxt "Search ...Search ..."
 msgid "Search ..."
 msgstr ""
 
-msgctxt "This discount is now usedThis discount is now used"
 msgid "This discount is now used"
 msgstr "Tato sleva je právě používána"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "TitleTitle"
 msgid "Title"
 msgstr "Oslovení"
 
-msgctxt "UnlimitedUnlimited"
 msgid "Unlimited"
 msgstr ""
 
-msgctxt "Use only once?Use only once?"
 msgid "Use only once?"
 msgstr "Použít jen jednou?"
 
-msgctxt "Valid UntilValid Until"
 msgid "Valid Until"
 msgstr "Platí do"
 
-msgctxt "YesYes"
 msgid "Yes"
 msgstr "Ano"
 
-msgctxt "You have already use this codeYou have already use this code"
 msgid "You have already use this code"
 msgstr "Tento kupón jste již použili"
 
-msgctxt "You have already use this discountYou have already use this discount"
 msgid "You have already use this discount"
 msgstr "Tuto slevu jste již použili"
 
-msgctxt ""
-"You must be logged in to use a discountYou must be logged in to use a "
-"discount"
 msgid "You must be logged in to use a discount"
 msgstr "Pro využití slevy musíte být přihlášeni"
 
-msgctxt ""
-"(You'll be able to remove this promotion later)(You'll be able to remove "
-"this promotion later)"
 msgid "(You'll be able to remove this promotion later)"
 msgstr "můžete ji však kdykoliv smazat"
 
-msgctxt "Your QRCodeYour QRCode"
 msgid "Your QRCode"
 msgstr ""
 
-msgctxt "or unlimitedor unlimited"
 msgid "or unlimited"
 msgstr ""
 
-msgctxt "use only onceuse only once"
 msgid "use only once"
 msgstr "použít jen jednou"
 
-msgctxt ""
-"you'll be able to remove this promotion lateryou'll be able to remove this "
-"promotion later"
 msgid "you'll be able to remove this promotion later"
 msgstr "můžete ji však kdykoliv smazat"

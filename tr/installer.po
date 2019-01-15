@@ -14,96 +14,69 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "ActionAction"
 msgid "Action"
 msgstr "Eylem"
 
-msgctxt "ActionsActions"
 msgid "Actions"
 msgstr "Eylemler"
 
-msgctxt "All of your modules are up to dateAll of your modules are up to date"
 msgid "All of your modules are up to date"
 msgstr "Tüm modülleriniz güncel"
 
-msgctxt ""
-"An update is available. Click here to download it.An update is available. "
-"Click here to download it."
 msgid "An update is available. Click here to download it."
 msgstr "Bir güncelleştirme kullanılabilir. İndirmek için buraya tıklayınız."
 
-msgctxt "Check for updatesCheck for updates"
 msgid "Check for updates"
 msgstr "Güncellemeleri kontrol et"
 
-msgctxt "Click here to see the release notesClick here to see the release notes"
 msgid "Click here to see the release notes"
 msgstr "Burada sürümü görmek için tıklayın notlar"
 
-msgctxt "Click here to send your moduleClick here to send your module"
 msgid "Click here to send your module"
 msgstr "Burayı tıklayarak modülü gönderin"
 
-msgctxt "DetailsDetails"
 msgid "Details"
 msgstr "Detaylar"
 
-msgctxt "Drop your module hereDrop your module here"
 msgid "Drop your module here"
 msgstr "Modülünüzü buraya sürükleyin"
 
-msgctxt "HostHost"
 msgid "Host"
 msgstr "Host"
 
-msgctxt "InstallInstall"
 msgid "Install"
 msgstr "Yükleme"
 
-msgctxt "InstallingInstalling"
 msgid "Installing"
 msgstr "Yükleniyor"
 
-msgctxt "Installing your moduleInstalling your module"
 msgid "Installing your module"
 msgstr "Modülünüz yükleniyor"
 
-msgctxt "Module successfully installedModule successfully installed"
 msgid "Module successfully installed"
 msgstr "Modül başarıyla yüklendi"
 
-msgctxt "Module to uploadModule to upload"
 msgid "Module to upload"
 msgstr "Yüklenecek modül"
 
-msgctxt "Modules InstallationModules Installation"
 msgid "Modules Installation"
 msgstr "Modüller yüklemesi"
 
-msgctxt "Modules successfully installed!Modules successfully installed!"
 msgid "Modules successfully installed!"
 msgstr "Modüller başarıyla yüklendi"
 
-msgctxt "NameName"
 msgid "Name"
 msgstr "İsim"
 
-msgctxt "No directory providedNo directory provided"
 msgid "No directory provided"
 msgstr "Dizin sağlanmamış"
 
-msgctxt "No module to installNo module to install"
 msgid "No module to install"
 msgstr "Yüklemek için modül yok"
 
-msgctxt "No modules uploaded yetNo modules uploaded yet"
 msgid "No modules uploaded yet"
 msgstr "Henüz hiç bir modül yüklenmemiş "
 
-msgctxt ""
-"Or set the correct permissions to the following files and folders and try "
-"again:Or set the correct permissions to the following files and folders and "
-"try again:"
 msgid ""
 "Or set the correct permissions to the following files and folders and try "
 "again:"
@@ -111,74 +84,50 @@ msgstr ""
 "Ya da aşağıdaki dosyalar ve klasörler için doğru izinlerini ayarlayarak "
 "yeniden deneyin:"
 
-msgctxt "PackagePackage"
 msgid "Package"
 msgstr "Paket"
 
-msgctxt "Package DetailsPackage Details"
 msgid "Package Details"
 msgstr "Paket detayları"
 
-msgctxt "Path to your systemPath to your system"
 msgid "Path to your system"
 msgstr "Sisteminizin yolu"
 
-msgctxt "Please, enter a namePlease, enter a name"
 msgid "Please, enter a name"
 msgstr "Lütfen bir isim girin"
 
-msgctxt "Please, fill out all fieldsPlease, fill out all fields"
 msgid "Please, fill out all fields"
 msgstr "Lütfen tüm alanları doldurunuz"
 
-msgctxt ""
-"Please update the module to the %s version before installing this update."
-"Please update the module to the %s version before installing this update."
 msgid ""
 "Please update the module to the %s version before installing this update."
 msgstr "Bu güncelleştirmeyi yüklemeden önce%s sürümüne modülü güncelleyin."
 
-msgctxt ""
-"Please update your system to the %s version before installing this update."
-"Please update your system to the %s version before installing this update."
 msgid ""
 "Please update your system to the %s version before installing this update."
 msgstr "Bu güncelleştirmeyi yüklemeden önce%s sürümüne sisteminizi güncelleyin."
 
-msgctxt ""
-"Please wait, we're installing your modulePlease wait, we're installing your "
-"module"
 msgid "Please wait, we're installing your module"
 msgstr "Lütfen bekleyin modülünüzü yüklüyoruz"
 
-msgctxt "PortPort"
 msgid "Port"
 msgstr "Port"
 
-msgctxt "Processing the installationProcessing the installation"
 msgid "Processing the installation"
 msgstr "Kurulum işliyor"
 
-msgctxt "ProgressProgress"
 msgid "Progress"
 msgstr "İlerleme"
 
-msgctxt "RetryRetry"
 msgid "Retry"
 msgstr "Yenileyin"
 
-msgctxt "Select a module to uploadSelect a module to upload"
 msgid "Select a module to upload"
 msgstr "Yüklemek için bir modül seçin"
 
-msgctxt "SizeSize"
 msgid "Size"
 msgstr "Boyut"
 
-msgctxt ""
-"Some files and folder are not writable. You can either provide your FTP "
-"access to install this update:Some files and folder are not writable. You "
-"can either provide your FTP access to install this update:"
 msgid ""
 "Some files and folder are not writable. You can either provide your FTP "
 "access to install this update:"
@@ -186,155 +135,92 @@ msgstr ""
 "Bazı dosya ve klasör yazılabilir değil. Bu güncelleştirmeyi yüklemek için "
 "FTP erişimide sağlayabilirsiniz:"
 
-msgctxt ""
-"Some files don't have the right permissions and can't be updatedSome files "
-"don't have the right permissions and can't be updated"
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr "Bazı dosyalar doğru izinlere sahip değil ve güncellenemedi"
 
-msgctxt "StatusStatus"
 msgid "Status"
 msgstr "Statü"
 
-msgctxt ""
-"The database connection failed. Please, check the entered information.The "
-"database connection failed. Please, check the entered information."
 msgid "The database connection failed. Please, check the entered information."
 msgstr "Veritabanı bağlantısı başarısız oldu.Girdiğiniz bilgileri kontrol edin."
 
-msgctxt ""
-"The entered password confirmation does not match the entered password.The "
-"entered password confirmation does not match the entered password."
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Şifreler eşleşmiyor."
 
-msgctxt "The file %s does not existThe file %s does not exist"
 msgid "The file %s does not exist"
 msgstr "Alan %s mevcut değil"
 
-msgctxt "The file %s is not writable.The file %s is not writable."
 msgid "The file %s is not writable."
 msgstr "%s dosyası yazılabilir değil."
 
-msgctxt ""
-"The folder %s is not writable. Please fix this issue and try again.The "
-"folder %s is not writable. Please fix this issue and try again."
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr "Klasör%s yazılabilir değil. Bu sorunu giderin ve yeniden deneyin."
 
-msgctxt ""
-"The following files and folders are not writable:The following files and "
-"folders are not writable:"
 msgid "The following files and folders are not writable:"
 msgstr "Aşağıdaki dosyalar ve klasörler yazılabilir değildir:"
 
-msgctxt ""
-"The following files and folders are not writable: <br /> - %sThe following "
-"files and folders are not writable: <br /> - %s"
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr "Aşağıdaki dosyalar yazılabilir değil: <br /> - %s"
 
-msgctxt ""
-"The package you have uploaded is invalid.The package you have uploaded is "
-"invalid."
 msgid "The package you have uploaded is invalid."
 msgstr "Yüklediğiniz paket geçersiz."
 
-msgctxt "There is no CMS license key set.There is no CMS license key set."
 msgid "There is no CMS license key set."
 msgstr ""
 
-msgctxt ""
-"This process may take few minutes, please do not refresh the pageThis "
-"process may take few minutes, please do not refresh the page"
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr "Bu süreç birkaç dakika sürebilir bu süreçte sayfayı yenilemeyin."
 
-msgctxt ""
-"This update is designed for the %s, you can't install it in your %s.This "
-"update is designed for the %s, you can't install it in your %s."
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr "Bu güncelleme%s için tasarlanmış,%s nizin üstüne kuramazsınız."
 
-msgctxt ""
-"Unable to check for updates now. Please, try again later.Unable to check "
-"for updates now. Please, try again later."
 msgid "Unable to check for updates now. Please, try again later."
 msgstr ""
 "Şuan güncellemeler kontrol edilemiyor . Lütfen daha sonra tekrar deneyin."
 
-msgctxt ""
-"Unable to connect to your FTP. Please check the connection information."
-"Unable to connect to your FTP. Please check the connection information."
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr "FTP bağlantı kurulamıyor. Bağlantı bilgilerini kontrol edin."
 
-msgctxt ""
-"Unable to detect your site. Please make sure the entered path is correct."
-"Unable to detect your site. Please make sure the entered path is correct."
 msgid ""
 "Unable to detect your site. Please make sure the entered path is correct."
 msgstr "Sitenizi algılayamadı. Girilen yolun doğru olduğundan emin olun."
 
-msgctxt "Unable to extract the archive.Unable to extract the archive."
 msgid "Unable to extract the archive."
 msgstr "Arşiv dişa aktarılamıyor."
 
-msgctxt ""
-"Unable to fetch the update. Please, try again later.Unable to fetch the "
-"update. Please, try again later."
 msgid "Unable to fetch the update. Please, try again later."
 msgstr "Güncelleştirme alınamıyor. Lütfen daha sonra tekrar deneyin"
 
-msgctxt "Unable to open the archive.Unable to open the archive."
 msgid "Unable to open the archive."
 msgstr "Arşiv açılamıyor."
 
-msgctxt ""
-"Unable to open the file. Please, make sure that you sent a valid archive."
-"Unable to open the file. Please, make sure that you sent a valid archive."
 msgid ""
 "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr "Dosya açılamıyor.Geçerli bir arşiv gönderildiğinden emin olun."
 
-msgctxt "Upload a moduleUpload a module"
 msgid "Upload a module"
 msgstr "Bir modül yükleyin"
 
-msgctxt "Upload your modulesUpload your modules"
 msgid "Upload your modules"
 msgstr "Modüllerinizi yükleyin "
 
-msgctxt "UsernameUsername"
 msgid "Username"
 msgstr "Kullanıcıadı"
 
-msgctxt "VersionVersion"
 msgid "Version"
 msgstr "Versiyon"
 
-msgctxt ""
-"We are checking for updates. Please, do not refresh the page.We are "
-"checking for updates. Please, do not refresh the page."
 msgid "We are checking for updates. Please, do not refresh the page."
 msgstr "Güncellemeler kontrol ediliyor. Lütfen, sayfayı yenilemeyin."
 
-msgctxt ""
-"You already have installed this template.You already have installed this "
-"template."
 msgid "You already have installed this template."
 msgstr "Zaten bu şablon yüklediniz ."
 
-msgctxt ""
-"You already have installed this update.You already have installed this "
-"update."
 msgid "You already have installed this update."
 msgstr "Zaten bu güncelleştirmeyi yüklediniz. "
 
-msgctxt "Your system is up to date.Your system is up to date."
 msgid "Your system is up to date."
 msgstr "Sisteminiz güncel."
 
-msgctxt "%s Update%s Update"
 msgid "%s Update"
 msgstr "%s Güncelleme"

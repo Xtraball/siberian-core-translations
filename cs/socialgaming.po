@@ -14,66 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A monthA month"
 msgid "A month"
 msgstr "Měsíčně"
 
-msgctxt "A weekA week"
 msgid "A week"
 msgstr "Týdně"
 
-msgctxt "ChallengersChallengers"
 msgid "Challengers"
 msgstr "Soutěžící"
 
-msgctxt "Current gameCurrent game"
 msgid "Current game"
 msgstr "Aktuální hra"
 
-msgctxt "Currently no challengersCurrently no challengers"
 msgid "Currently no challengers"
 msgstr "Aktuálně nikdo nesoutěží"
 
-msgctxt "Game NameGame Name"
 msgid "Game Name"
 msgstr "Název hry"
 
-msgctxt "Game successfully savedGame successfully saved"
 msgid "Game successfully saved"
 msgstr "Hra byla úspěšně uložena"
 
-msgctxt "Next gameNext game"
 msgid "Next game"
 msgstr "Další hra"
 
-msgctxt "On theOn the"
 msgid "On the"
 msgstr "Na"
 
-msgctxt "PeriodPeriod"
 msgid "Period"
 msgstr "Období"
 
-msgctxt "PeriodicityPeriodicity"
 msgid "Periodicity"
 msgstr "Opakování"
 
-msgctxt "Publication datePublication date"
 msgid "Publication date"
 msgstr "Datum vydání"
 
-msgctxt "Rank of the monthRank of the month"
 msgid "Rank of the month"
 msgstr "Žebříček měsíce"
 
-msgctxt "Rank of the weekRank of the week"
 msgid "Rank of the week"
 msgstr "Žebříček týdne"
 
-msgctxt "Team LeaderTeam Leader"
 msgid "Team Leader"
 msgstr "První v pořadí"
 
-msgctxt "%s point%s%s point%s"
 msgid "%s point%s"
 msgstr "%s bod%s"

@@ -14,117 +14,85 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AstronomyAstronomy"
 msgid "Astronomy"
 msgstr ""
 
-msgctxt "AtmosphereAtmosphere"
 msgid "Atmosphere"
 msgstr ""
 
-msgctxt "Change locationChange location"
 msgid "Change location"
 msgstr ""
 
-msgctxt "Chill:Chill:"
 msgid "Chill:"
 msgstr ""
 
-msgctxt ""
-"Click here to view more details on current weather.Click here to view more "
-"details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr ""
 
-msgctxt "Country:Country:"
 msgid "Country:"
 msgstr "Země"
 
-msgctxt "Direction:Direction:"
 msgid "Direction:"
 msgstr ""
 
-msgctxt "FriFri"
 msgid "Fri"
 msgstr ""
 
-msgctxt "Humidity:Humidity:"
 msgid "Humidity:"
 msgstr ""
 
-msgctxt "MonMon"
 msgid "Mon"
 msgstr ""
 
-msgctxt "Postal code or cityPostal code or city"
 msgid "Postal code or city"
 msgstr ""
 
-msgctxt "Pressure:Pressure:"
 msgid "Pressure:"
 msgstr ""
 
-msgctxt "Rising:Rising:"
 msgid "Rising:"
 msgstr ""
 
-msgctxt "SatSat"
 msgid "Sat"
 msgstr ""
 
-msgctxt ""
-"Sorry, but the weather service is not available for the moment. Please try "
-"again later.Sorry, but the weather service is not available for the moment. "
-"Please try again later."
 msgid ""
 "Sorry, but the weather service is not available for the moment. Please try "
 "again later."
 msgstr ""
 
-msgctxt "Speed:Speed:"
 msgid "Speed:"
 msgstr ""
 
-msgctxt "SunSun"
 msgid "Sun"
 msgstr ""
 
-msgctxt "Sunrise:Sunrise:"
 msgid "Sunrise:"
 msgstr ""
 
-msgctxt "Sunset:Sunset:"
 msgid "Sunset:"
 msgstr ""
 
-msgctxt "ThuThu"
 msgid "Thu"
 msgstr ""
 
-msgctxt "TueTue"
 msgid "Tue"
 msgstr ""
 
-msgctxt "Units:Units:"
 msgid "Units:"
 msgstr ""
 
-msgctxt "Use my locationUse my location"
 msgid "Use my location"
 msgstr ""
 
-msgctxt "Visibility:Visibility:"
 msgid "Visibility:"
 msgstr ""
 
-msgctxt "Weather informationWeather information"
 msgid "Weather information"
 msgstr "Informace o obchodu/skladu"
 
-msgctxt "WedWed"
 msgid "Wed"
 msgstr ""
 
-msgctxt "WindWind"
 msgid "Wind"
 msgstr ""

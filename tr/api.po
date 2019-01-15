@@ -14,78 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "API KeysAPI Keys"
 msgid "API Keys"
 msgstr "API Anahtarları"
 
-msgctxt "Api KeysApi Keys"
 msgid "Api Keys"
 msgstr "Api Anahtarları"
 
-msgctxt "Api Keys successfully savedApi Keys successfully saved"
 msgid "Api Keys successfully saved"
 msgstr "Api Anahtarları başarıyla kaydedildi"
 
-msgctxt "Api UsersApi Users"
 msgid "Api Users"
 msgstr "Apı Kullanıcıları"
 
-msgctxt "AuthenticateAuthenticate"
 msgid "Authenticate"
 msgstr "Kimlik doğrulaması"
 
-msgctxt "Backoffice optionsBackoffice options"
 msgid "Backoffice options"
 msgstr "İdari büro seçenekleri"
 
-msgctxt "Clear cacheClear cache"
 msgid "Clear cache"
 msgstr "Önbelleği Temizle"
 
-msgctxt "Clear logsClear logs"
 msgid "Clear logs"
 msgstr "Günlükleri temizle"
 
-msgctxt "Create a new userCreate a new user"
 msgid "Create a new user"
 msgstr "Yeni kullanıcı oluşturun"
 
-msgctxt "Created AtCreated At"
 msgid "Created At"
 msgstr "De Oluşturuldu"
 
-msgctxt "ExistsExists"
 msgid "Exists"
 msgstr "Var Olanlar"
 
-msgctxt "Forgot passwordForgot password"
 msgid "Forgot password"
 msgstr "Şifremi unuttum"
 
-msgctxt "Grant userGrant user"
 msgid "Grant user"
 msgstr "Büyük kullanıcı"
 
-msgctxt "List of your usersList of your users"
 msgid "List of your users"
 msgstr "Kullanıcılarınızın listesi"
 
-msgctxt "Rebuild manifestRebuild manifest"
 msgid "Rebuild manifest"
 msgstr "Manifes Yeniden Oluştur"
 
-msgctxt "Revoke userRevoke user"
 msgid "Revoke user"
 msgstr "Kullanıcı iptal"
 
-msgctxt "Select API accessSelect API access"
 msgid "Select API access"
 msgstr "API erişimi seçin"
 
-msgctxt "UpdateUpdate"
 msgid "Update"
 msgstr "Güncelleme"
 
-msgctxt "You don't have any users yetYou don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Henüz bir kullanıcınız bulunmuyor"

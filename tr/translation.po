@@ -14,74 +14,51 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Create a new languageCreate a new language"
 msgid "Create a new language"
 msgstr "Yeni bir dil oluştur"
 
-msgctxt "Default textDefault text"
 msgid "Default text"
 msgstr "Varsayılan metin"
 
-msgctxt "Edit the language: %sEdit the language: %s"
 msgid "Edit the language: %s"
 msgstr "Dil düzenleyin:%s"
 
-msgctxt "LanguageLanguage"
 msgid "Language"
 msgstr "Dil"
 
-msgctxt "Language successfully savedLanguage successfully saved"
 msgid "Language successfully saved"
 msgstr "Dil başarıyla kaydedildi"
 
-msgctxt "List of your languagesList of your languages"
 msgid "List of your languages"
 msgstr "Dillerinizin listesi"
 
-msgctxt "Please, choose a file.Please, choose a file."
 msgid "Please, choose a file."
 msgstr "Lütfen bir dosya seçin."
 
-msgctxt "Please, choose a language.Please, choose a language."
 msgid "Please, choose a language."
 msgstr "Lütfen bir dil seçin"
 
-msgctxt "Select a fileSelect a file"
 msgid "Select a file"
 msgstr "Bir dosya seçin."
 
-msgctxt "Select a languageSelect a language"
 msgid "Select a language"
 msgstr "Bir dil seçin"
 
-msgctxt "Text translationText translation"
 msgid "Text translation"
 msgstr "Metin çevirisi"
 
-msgctxt "Translate allTranslate all"
 msgid "Translate all"
 msgstr "Tümünü çevir"
 
-msgctxt "Translate missing entriesTranslate missing entries"
 msgid "Translate missing entries"
 msgstr "Kayıp kelimeleri çevir"
 
-msgctxt ""
-"Translate the 'e.g.' between parentheses only.Translate the 'e.g.' between "
-"parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr "&#39;Eg&#39; ifadesini yalnızca parantezler arasında çevirin."
 
-msgctxt ""
-"Translation API is not available for the current language.Translation API "
-"is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr "Mevcut çeviri dili için API geçerli değil"
 
-msgctxt ""
-"Warning: translation API is experimental for the current language and may "
-"fail.Warning: translation API is experimental for the current language and "
-"may fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
@@ -89,6 +66,5 @@ msgstr ""
 "<b> Uyarı: </b> çeviri API'si geçerli dil için deneyseldir ve başarısız "
 "olabilir."
 
-msgctxt "Your translationYour translation"
 msgid "Your translation"
 msgstr "Çeviriniz"

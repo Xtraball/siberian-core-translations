@@ -14,49 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a pageAdd a page"
 msgid "Add a page"
 msgstr "Pagina toevoegen"
 
-msgctxt "Add featureAdd feature"
 msgid "Add feature"
 msgstr "Toevoegen functie"
 
-msgctxt ""
-"Allow line return in Title & SubtitlesAllow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr "Toestaan lijn terug in de Titel En Ondertitels"
 
-msgctxt ""
-"By checking this, a search field will appear in your folder featureBy "
-"checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr "Door dit aan te kruisen, verschijnt een zoekveld in uw mapfunctie"
 
-msgctxt "CancelCancel"
 msgid "Cancel"
 msgstr "Annuleren"
 
-msgctxt "Click onClick on"
 msgid "Click on"
 msgstr "Klik op"
 
-msgctxt ""
-"Click on a feature to add it to the folderClick on a feature to add it to "
-"the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Klik op een functie voor het toevoegen aan de map"
 
-msgctxt ""
-"Click on a page to add it to the folderClick on a page to add it to the "
-"folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Klik op een pagina om deze aan een map toe te voegen"
 
-msgctxt ""
-"Click on a page to add it to the folder <span id='folder_name' "
-"class='folder_name'>%s</span>Click on a page to add it to the folder <span "
-"id='folder_name' class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
@@ -64,92 +45,65 @@ msgstr ""
 "Klik op een pagina om deze toe te voegen aan de map <span id='mapnaam' "
 "class='mapnaam'>%s</span>"
 
-msgctxt "Close mobile displayClose mobile display"
 msgid "Close mobile display"
 msgstr "Sluit mobiele weergave"
 
-msgctxt ""
-"Delete this folder and all its subfolders?Delete this folder and all its "
-"subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Deze map en alle submappen verwijderen?"
 
-msgctxt "Edit folderEdit folder"
 msgid "Edit folder"
 msgstr "Wijzig map"
 
-msgctxt "Enable search in foldersEnable search in folders"
 msgid "Enable search in folders"
 msgstr "Inschakelen zoeken in mappen"
 
-msgctxt "Folder title is requiredFolder title is required"
 msgid "Folder title is required"
 msgstr "Maptitel is vereist"
 
-msgctxt "FoldersFolders"
 msgid "Folders"
 msgstr "Mappen"
 
-msgctxt "Inherit global layoutInherit global layout"
 msgid "Inherit global layout"
 msgstr "Algemene indeling overnemen"
 
-msgctxt "Mobile displayMobile display"
 msgid "Mobile display"
 msgstr "Mobiele weergave"
 
-msgctxt "New folderNew folder"
 msgid "New folder"
 msgstr "Nieuwe map"
 
-msgctxt "No results for your request.No results for your request."
 msgid "No results for your request."
 msgstr "Geen resultaten voor uw aanvraag."
 
-msgctxt "Override layoutOverride layout"
 msgid "Override layout"
 msgstr "Overschrijven lay-out"
 
-msgctxt "Search resultsSearch results"
 msgid "Search results"
 msgstr "Zoekresultaten"
 
-msgctxt "Show coverShow cover"
 msgid "Show cover"
 msgstr "Cover"
 
-msgctxt "Show search fieldShow search field"
 msgid "Show search field"
 msgstr "Toon zoekveld"
 
-msgctxt "Show titleShow title"
 msgid "Show title"
 msgstr "Titel weergeven"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr "Miniatuur"
 
-msgctxt "Use card designUse card design"
 msgid "Use card design"
 msgstr "Gebruik het ontwerp van de kaart"
 
-msgctxt "You cannot add this featureYou cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "U kunt dit kenmerk niet toevoegen"
 
-msgctxt ""
-"You must first complete the current category creation processYou must first "
-"complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "U moet eerst het huidige categorieën creatieproces voltooien"
 
-msgctxt ""
-"You will lose all unsaved changes, continue?You will lose all unsaved "
-"changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "U verliest alle niet-opgeslagen wijzigingen, doorgaan?"
 
-msgctxt "to add a folder.to add a folder."
 msgid "to add a folder."
 msgstr "een map toevoegen."

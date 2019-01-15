@@ -14,66 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A monthA month"
 msgid "A month"
 msgstr "Een maand"
 
-msgctxt "A weekA week"
 msgid "A week"
 msgstr "Een week"
 
-msgctxt "ChallengersChallengers"
 msgid "Challengers"
 msgstr "Uitdagers"
 
-msgctxt "Current gameCurrent game"
 msgid "Current game"
 msgstr "Huidig spel"
 
-msgctxt "Currently no challengersCurrently no challengers"
 msgid "Currently no challengers"
 msgstr "Pas de challengers pour l'instant"
 
-msgctxt "Game NameGame Name"
 msgid "Game Name"
 msgstr "Naam van spel"
 
-msgctxt "Game successfully savedGame successfully saved"
 msgid "Game successfully saved"
 msgstr "Spel succesvol opgeslagen"
 
-msgctxt "Next gameNext game"
 msgid "Next game"
 msgstr "Volgend spel"
 
-msgctxt "On theOn the"
 msgid "On the"
 msgstr "Op de"
 
-msgctxt "PeriodPeriod"
 msgid "Period"
 msgstr "Période"
 
-msgctxt "PeriodicityPeriodicity"
 msgid "Periodicity"
 msgstr "Periodiciteit"
 
-msgctxt "Publication datePublication date"
 msgid "Publication date"
 msgstr "Publicatiedatum"
 
-msgctxt "Rank of the monthRank of the month"
 msgid "Rank of the month"
 msgstr "Klassement van de maand"
 
-msgctxt "Rank of the weekRank of the week"
 msgid "Rank of the week"
 msgstr "Klassement van de week"
 
-msgctxt "Team LeaderTeam Leader"
 msgid "Team Leader"
 msgstr "Teamleider"
 
-msgctxt "%s point%s%s point%s"
 msgid "%s point%s"
 msgstr "%s punten%s"

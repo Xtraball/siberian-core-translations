@@ -14,69 +14,49 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AstronomyAstronomy"
 msgid "Astronomy"
 msgstr "Astronomy"
 
-msgctxt "AtmosphereAtmosphere"
 msgid "Atmosphere"
 msgstr "Atmosfer"
 
-msgctxt "Change locationChange location"
 msgid "Change location"
 msgstr "Lokasyonu değiştir"
 
-msgctxt "Chill:Chill:"
 msgid "Chill:"
 msgstr "Soguk:"
 
-msgctxt ""
-"Click here to view more details on current weather.Click here to view more "
-"details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr ""
 "Geçerli hava durumu hakkında daha fazla ayrıntı görmek için buraya tıklayın."
 
-msgctxt "Country:Country:"
 msgid "Country:"
 msgstr "Ülke:"
 
-msgctxt "Direction:Direction:"
 msgid "Direction:"
 msgstr "Yön:"
 
-msgctxt "FriFri"
 msgid "Fri"
 msgstr "Cum"
 
-msgctxt "Humidity:Humidity:"
 msgid "Humidity:"
 msgstr "Nem:"
 
-msgctxt "MonMon"
 msgid "Mon"
 msgstr "Pzt"
 
-msgctxt "Postal code or cityPostal code or city"
 msgid "Postal code or city"
 msgstr "Posta kodu veya şehir"
 
-msgctxt "Pressure:Pressure:"
 msgid "Pressure:"
 msgstr "Basınç:"
 
-msgctxt "Rising:Rising:"
 msgid "Rising:"
 msgstr "Yükseliş:"
 
-msgctxt "SatSat"
 msgid "Sat"
 msgstr "Cmt"
 
-msgctxt ""
-"Sorry, but the weather service is not available for the moment. Please try "
-"again later.Sorry, but the weather service is not available for the moment. "
-"Please try again later."
 msgid ""
 "Sorry, but the weather service is not available for the moment. Please try "
 "again later."
@@ -84,50 +64,38 @@ msgstr ""
 "Üzgünüz , ama hava hizmeti şu an için mevcut değildir . Lütfen daha sonra "
 "tekrar deneyin."
 
-msgctxt "Speed:Speed:"
 msgid "Speed:"
 msgstr "Hız:"
 
-msgctxt "SunSun"
 msgid "Sun"
 msgstr "Cmt"
 
-msgctxt "Sunrise:Sunrise:"
 msgid "Sunrise:"
 msgstr "Gündoğumu:"
 
-msgctxt "Sunset:Sunset:"
 msgid "Sunset:"
 msgstr "Günbatımı:"
 
-msgctxt "ThuThu"
 msgid "Thu"
 msgstr "Prş"
 
-msgctxt "TueTue"
 msgid "Tue"
 msgstr "Sal"
 
-msgctxt "Units:Units:"
 msgid "Units:"
 msgstr "Birimler:"
 
-msgctxt "Use my locationUse my location"
 msgid "Use my location"
 msgstr "Lokasyonumu kullan"
 
-msgctxt "Visibility:Visibility:"
 msgid "Visibility:"
 msgstr "Görünürlük:"
 
-msgctxt "Weather informationWeather information"
 msgid "Weather information"
 msgstr "Hava Durumu bilgisi"
 
-msgctxt "WedWed"
 msgid "Wed"
 msgstr "Çar"
 
-msgctxt "WindWind"
 msgid "Wind"
 msgstr "Rüzgar"

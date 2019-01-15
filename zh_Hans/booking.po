@@ -14,107 +14,74 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Booking detailsBooking details"
 msgid "Booking details"
 msgstr "预订信息"
 
-msgctxt "Booking location:Booking location:"
 msgid "Booking location:"
 msgstr ""
 
-msgctxt "Booking subject:Booking subject:"
 msgid "Booking subject:"
 msgstr "主题预订："
 
-msgctxt "Comment:Comment:"
 msgid "Comment:"
 msgstr "评论："
 
-msgctxt "Date and timeDate and time"
 msgid "Date and time"
 msgstr "日期和时间"
 
-msgctxt "Email address:Email address:"
 msgid "Email address:"
 msgstr "电子邮件地址："
 
-msgctxt ""
-"Enter the location name and contact email:Enter the location name and "
-"contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "输入位置和联系人的电子邮件的名称："
 
-msgctxt "First name / Last nameFirst name / Last name"
 msgid "First name / Last name"
 msgstr "名字/姓"
 
-msgctxt "Here are his personal information:Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "您的个人资料："
 
-msgctxt "InformationInformation"
 msgid "Information"
 msgstr "信息"
 
-msgctxt "LocationLocation"
 msgid "Location"
 msgstr ""
 
-msgctxt "Name:Name:"
 msgid "Name:"
 msgstr "姓名："
 
-msgctxt "Number of peopleNumber of people"
 msgid "Number of people"
 msgstr "人数"
 
-msgctxt "Phone number:Phone number:"
 msgid "Phone number:"
 msgstr "电话号码："
 
-msgctxt "Please, choose a storePlease, choose a store"
 msgid "Please, choose a store"
 msgstr "请选择一个商店"
 
-msgctxt ""
-"Please fill out the following fields:Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "请填写以下字段："
 
-msgctxt ""
-"Please fill out the following fields:<br/>Please fill out the following "
-"fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "请填写以下字段："
 
-msgctxt ""
-"Thank you for your request. We'll answer you as soon as possible.Thank you "
-"for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "感谢您的要求。我们会尽快回复。"
 
-msgctxt "The booking informationThe booking information"
 msgid "The booking information"
 msgstr "预约信息"
 
-msgctxt "The date and time of the bookingThe date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "日期和预订时"
 
-msgctxt "The number of peopleThe number of people"
 msgid "The number of people"
 msgstr "人数"
 
-msgctxt ""
-"You have received a message for the booking ofYou have received a message "
-"for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "他收到一条消息，从储备"
 
-msgctxt "Your nameYour name"
 msgid "Your name"
 msgstr "你的名字"
 
-msgctxt "Your phone number or email addressYour phone number or email address"
 msgid "Your phone number or email address"
 msgstr "您的手机号码或电子邮件地址"

@@ -14,68 +14,48 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AstronomyAstronomy"
 msgid "Astronomy"
 msgstr "Astronomie"
 
-msgctxt "AtmosphereAtmosphere"
 msgid "Atmosphere"
 msgstr "Atmosphère"
 
-msgctxt "Change locationChange location"
 msgid "Change location"
 msgstr "Changer de lieu"
 
-msgctxt "Chill:Chill:"
 msgid "Chill:"
 msgstr "Refroidissement:"
 
-msgctxt ""
-"Click here to view more details on current weather.Click here to view more "
-"details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr "Cliquez ici pour voir plus en détail."
 
-msgctxt "Country:Country:"
 msgid "Country:"
 msgstr "Pays:"
 
-msgctxt "Direction:Direction:"
 msgid "Direction:"
 msgstr "Direction:"
 
-msgctxt "FriFri"
 msgid "Fri"
 msgstr "Ven"
 
-msgctxt "Humidity:Humidity:"
 msgid "Humidity:"
 msgstr "Humidité:"
 
-msgctxt "MonMon"
 msgid "Mon"
 msgstr "Lun"
 
-msgctxt "Postal code or cityPostal code or city"
 msgid "Postal code or city"
 msgstr "Code postal ou ville"
 
-msgctxt "Pressure:Pressure:"
 msgid "Pressure:"
 msgstr "Pression:"
 
-msgctxt "Rising:Rising:"
 msgid "Rising:"
 msgstr "Élévation:"
 
-msgctxt "SatSat"
 msgid "Sat"
 msgstr "Sam"
 
-msgctxt ""
-"Sorry, but the weather service is not available for the moment. Please try "
-"again later.Sorry, but the weather service is not available for the moment. "
-"Please try again later."
 msgid ""
 "Sorry, but the weather service is not available for the moment. Please try "
 "again later."
@@ -83,50 +63,38 @@ msgstr ""
 "Désolé, le service météo est actuellement indisponible, merci de revenir "
 "plus tard.."
 
-msgctxt "Speed:Speed:"
 msgid "Speed:"
 msgstr "Vitesse:"
 
-msgctxt "SunSun"
 msgid "Sun"
 msgstr "Dim"
 
-msgctxt "Sunrise:Sunrise:"
 msgid "Sunrise:"
 msgstr "Lever du soleil:"
 
-msgctxt "Sunset:Sunset:"
 msgid "Sunset:"
 msgstr "Coucher de soleil:"
 
-msgctxt "ThuThu"
 msgid "Thu"
 msgstr "Jeu"
 
-msgctxt "TueTue"
 msgid "Tue"
 msgstr "Mar"
 
-msgctxt "Units:Units:"
 msgid "Units:"
 msgstr "Unités:"
 
-msgctxt "Use my locationUse my location"
 msgid "Use my location"
 msgstr "Utiliser ma position"
 
-msgctxt "Visibility:Visibility:"
 msgid "Visibility:"
 msgstr "Visibilité:"
 
-msgctxt "Weather informationWeather information"
 msgid "Weather information"
 msgstr "Informations météorologiques"
 
-msgctxt "WedWed"
 msgid "Wed"
 msgstr "Mer"
 
-msgctxt "WindWind"
 msgid "Wind"
 msgstr "Vent"

@@ -14,78 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AllAll"
 msgid "All"
 msgstr "Vše"
 
-msgctxt "ArtsArts"
 msgid "Arts"
 msgstr ""
 
-msgctxt "Choose a template to customizeChoose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Vyberte si předlohu k úpravě"
 
-msgctxt "CityCity"
 msgid "City"
 msgstr "Město"
 
-msgctxt "CorporateCorporate"
 msgid "Corporate"
 msgstr ""
 
-msgctxt "DesignDesign"
 msgid "Design"
 msgstr "Design"
 
-msgctxt "EducationEducation"
 msgid "Education"
 msgstr "Vzdělání"
 
-msgctxt "EntertainmentEntertainment"
 msgid "Entertainment"
 msgstr "Zábava"
 
-msgctxt "FashionFashion"
 msgid "Fashion"
 msgstr "Móda"
 
-msgctxt "Health & BeautyHealth & Beauty"
 msgid "Health & Beauty"
 msgstr "Zdraví a krása"
 
-msgctxt "HotelsHotels"
 msgid "Hotels"
 msgstr "Hotely"
 
-msgctxt "List of your categoriesList of your categories"
 msgid "List of your categories"
 msgstr "Seznam kategorií"
 
-msgctxt "Local BusinessLocal Business"
 msgid "Local Business"
 msgstr "Restaurace"
 
-msgctxt "MusicMusic"
 msgid "Music"
 msgstr "Hudba"
 
-msgctxt "OrganizationsOrganizations"
 msgid "Organizations"
 msgstr "Organizace"
 
-msgctxt "Real EstateReal Estate"
 msgid "Real Estate"
 msgstr "Realitní kancelář"
 
-msgctxt "SportsSports"
 msgid "Sports"
 msgstr "Sport"
 
-msgctxt "TEMPLATESTEMPLATES"
 msgid "TEMPLATES"
 msgstr "VZORY"
 
-msgctxt "TemplatesTemplates"
 msgid "Templates"
 msgstr ""

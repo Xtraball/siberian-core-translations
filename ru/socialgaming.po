@@ -15,66 +15,50 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A monthA month"
 msgid "A month"
 msgstr "Месяцы"
 
-msgctxt "A weekA week"
 msgid "A week"
 msgstr "Недели"
 
-msgctxt "ChallengersChallengers"
 msgid "Challengers"
 msgstr "Претенденты"
 
-msgctxt "Current gameCurrent game"
 msgid "Current game"
 msgstr "Текущая игра"
 
-msgctxt "Currently no challengersCurrently no challengers"
 msgid "Currently no challengers"
 msgstr "В настоящее время отсутствуют претенденты"
 
-msgctxt "Game NameGame Name"
 msgid "Game Name"
 msgstr "Название игры"
 
-msgctxt "Game successfully savedGame successfully saved"
 msgid "Game successfully saved"
 msgstr "Игра успешно сохранена"
 
-msgctxt "Next gameNext game"
 msgid "Next game"
 msgstr "Следующая игра"
 
-msgctxt "On theOn the"
 msgid "On the"
 msgstr "На"
 
-msgctxt "PeriodPeriod"
 msgid "Period"
 msgstr "Период"
 
-msgctxt "PeriodicityPeriodicity"
 msgid "Periodicity"
 msgstr "Периодичность"
 
-msgctxt "Publication datePublication date"
 msgid "Publication date"
 msgstr "Дата публикации"
 
-msgctxt "Rank of the monthRank of the month"
 msgid "Rank of the month"
 msgstr "Звание месяца"
 
-msgctxt "Rank of the weekRank of the week"
 msgid "Rank of the week"
 msgstr "Звание недели"
 
-msgctxt "Team LeaderTeam Leader"
 msgid "Team Leader"
 msgstr "Лидер группы"
 
-msgctxt "%s point%s%s point%s"
 msgid "%s point%s"
 msgstr "%s пункт%s"

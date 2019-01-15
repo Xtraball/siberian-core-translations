@@ -14,439 +14,295 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "+ Add a track+ Add a track"
 msgid "+ Add a track"
 msgstr "+ Bir şarkı ekle"
 
-msgctxt ""
-"Add albums and tracks to the playlist:Add albums and tracks to the playlist:"
 msgid "Add albums and tracks to the playlist:"
 msgstr "Çalma listesine albüm ve parçaları ekleyin:"
 
-msgctxt "AlbumAlbum"
 msgid "Album"
 msgstr "Albüm"
 
-msgctxt "AlbumsAlbums"
 msgid "Albums"
 msgstr "Albümler"
 
-msgctxt ""
-"An error occurred while deleting you images gallery. Please try again later."
-"An error occurred while deleting you images gallery. Please try again later."
 msgid ""
 "An error occurred while deleting you images gallery. Please try again later."
 msgstr "Resim galeriniz silinirken bir hata oluştu daha sonra deneyiniz."
 
-msgctxt ""
-"An error occurred while deleting your album. Thanks for trying later.An "
-"error occurred while deleting your album. Thanks for trying later."
 msgid "An error occurred while deleting your album. Thanks for trying later."
 msgstr "Albümünüzü silinirken bir hata oluştu. Daha sonra yeniden deneyin."
 
-msgctxt ""
-"An error occurred while deleting your playlist. Thanks for trying later.An "
-"error occurred while deleting your playlist. Thanks for trying later."
 msgid ""
 "An error occurred while deleting your playlist. Thanks for trying later."
 msgstr "Çalma listenizi silinirken bir hata oluştu. Daha sonra deneyiniz."
 
-msgctxt ""
-"An error occurred while deleting your track. Thanks for trying later.An "
-"error occurred while deleting your track. Thanks for trying later."
 msgid "An error occurred while deleting your track. Thanks for trying later."
 msgstr "Şarkınız silinirken bir hata oluştu daha sonra yeniden deneyiniz."
 
-msgctxt ""
-"An error occurred while loading pictures. Please try later.An error "
-"occurred while loading pictures. Please try later."
 msgid "An error occurred while loading pictures. Please try later."
 msgstr "Resminiz yüklenirken bir hata oluştu dah sonra yeniden deneyiniz."
 
-msgctxt ""
-"An error occurred while loading the media.An error occurred while loading "
-"the media."
 msgid "An error occurred while loading the media."
 msgstr "Medya yüklenirken bir hata oluştu."
 
-msgctxt ""
-"An error occurred while loading the radio.An error occurred while loading "
-"the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Radyo yüklenirken bir hata oluştu."
 
-msgctxt ""
-"An error occurred while loading videos. Please try later.An error occurred "
-"while loading videos. Please try later."
 msgid "An error occurred while loading videos. Please try later."
 msgstr "Video yüklenirken bir hata oluştu. Lütfen daha sonra deneyin."
 
-msgctxt ""
-"An error occurred while retrieving your page. Please check your page id.An "
-"error occurred while retrieving your page. Please check your page id."
 msgid ""
 "An error occurred while retrieving your page. Please check your page id."
 msgstr "Sayfa alırken bir hata oluştu. Lütfen sayfa kimliğinizi kontrol edin."
 
-msgctxt ""
-"An error occurred while saving your images gallery. Please try again later."
-"An error occurred while saving your images gallery. Please try again later."
 msgid ""
 "An error occurred while saving your images gallery. Please try again later."
 msgstr ""
 "Görüntüler galerisi kaydedilirken bir hata oluştu. Daha sonra tekrar "
 "deneyiniz."
 
-msgctxt ""
-"An error occurred while saving your playlist. Thanks for trying later.An "
-"error occurred while saving your playlist. Thanks for trying later."
 msgid "An error occurred while saving your playlist. Thanks for trying later."
 msgstr ""
 "Çalma listenizi kaydedilirken bir hata oluştu. Daha sonra yeniden deneyin."
 
-msgctxt ""
-"An error occurred while saving your videos gallery. Please try again later."
-"An error occurred while saving your videos gallery. Please try again later."
 msgid ""
 "An error occurred while saving your videos gallery. Please try again later."
 msgstr ""
 "Videolarınızın galerisi kaydedilirken bir hata oluştu. Daha sonra tekrar "
 "deneyiniz."
 
-msgctxt ""
-"Are you sure you don't want to create an album for these tracks?Are you "
-"sure you don't want to create an album for these tracks?"
 msgid "Are you sure you don't want to create an album for these tracks?"
 msgstr "Bu parçalar için bir albüm oluşturmak istemediğinizden emin misin?"
 
-msgctxt ""
-"Are you sure you don't want to create an album for this track?Are you sure "
-"you don't want to create an album for this track?"
 msgid "Are you sure you don't want to create an album for this track?"
 msgstr "Bu parca için bir albüm oluşturmak istemediğinizden eminmisiniz?"
 
-msgctxt ""
-"Are you sure you want to delete this album?Are you sure you want to delete "
-"this album?"
 msgid "Are you sure you want to delete this album?"
 msgstr "Bu albümü silmek istediğinizden emin misiniz?"
 
-msgctxt ""
-"Are you sure you want to delete this album (this won't delete tracks)?Are "
-"you sure you want to delete this album (this won't delete tracks)?"
 msgid "Are you sure you want to delete this album (this won't delete tracks)?"
 msgstr "Bu albümü (bu şarkıları silmez) silmek istediğinizden emin misiniz?"
 
-msgctxt ""
-"Are you sure you want to delete this playlist?Are you sure you want to "
-"delete this playlist?"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Bu oynatma listesini silmek istediğinizden emin misiniz?"
 
-msgctxt ""
-"Are you sure you want to delete this track?Are you sure you want to delete "
-"this track?"
 msgid "Are you sure you want to delete this track?"
 msgstr "Bu parçayı silmek istediğinizden emin misiniz?"
 
-msgctxt "Artist:Artist:"
 msgid "Artist:"
 msgstr "Sanatçı:"
 
-msgctxt "AudioAudio"
 msgid "Audio"
 msgstr "Audio"
 
-msgctxt "ChannelChannel"
 msgid "Channel"
 msgstr "Kanal"
 
-msgctxt "Choose an albumChoose an album"
 msgid "Choose an album"
 msgstr "Bir albüm seç"
 
-msgctxt "CustomCustom"
 msgid "Custom"
 msgstr "Müşteri"
 
-msgctxt "Delete this gallery?Delete this gallery?"
 msgid "Delete this gallery?"
 msgstr "Bu galeri silinsin mi?"
 
-msgctxt "Facebook page IDFacebook page ID"
 msgid "Facebook page ID"
 msgstr "Facebook sayfa KİMLİĞİ(ID)"
 
-msgctxt "Feed URLFeed URL"
 msgid "Feed URL"
 msgstr "Besleme URL'si"
 
-msgctxt "FlickrFlickr"
 msgid "Flickr"
 msgstr "Flickr"
 
-msgctxt "Flickr API settings can't be found.Flickr API settings can't be found."
 msgid "Flickr API settings can't be found."
 msgstr "Flickr API ayarları bulunamadı."
 
-msgctxt "Flickr userFlickr user"
 msgid "Flickr user"
 msgstr "Flickr kullanıcı"
 
-msgctxt "Gallery NameGallery Name"
 msgid "Gallery Name"
 msgstr "Galeri İsmi"
 
-msgctxt "GroupGroup"
 msgid "Group"
 msgstr "Grup"
 
-msgctxt ""
-"If set, will appear instead of the Facebook page Id in app.If set, will "
-"appear instead of the Facebook page Id in app."
 msgid "If set, will appear instead of the Facebook page Id in app."
 msgstr "Eğer ayarlanırsa, Facebook sayfa Kimliği  uygulamada görünecektir"
 
-msgctxt "I'm listening toI'm listening to"
 msgid "I'm listening to"
 msgstr "Dinliyorum"
 
-msgctxt ""
-"I'm listening to $1 from $2 on $3 app.I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "$3 uygulamasında $2 sanatçıdan $1 dinliyorum"
 
-msgctxt "I'm listening to $1 on $2 app.I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr "$2 ugulamasında $1 dinliyorum"
 
-msgctxt ""
-"Images gallery has been saved successfullyImages gallery has been saved "
-"successfully"
 msgid "Images gallery has been saved successfully"
 msgstr "Görüntüler galerisi başarıyla kaydedildi"
 
-msgctxt "InstagramInstagram"
 msgid "Instagram"
 msgstr "Instagram"
 
-msgctxt ""
-"Instagram API settings can't be found.Instagram API settings can't be found."
 msgid "Instagram API settings can't be found."
 msgstr "Instagram API ayarları bulunamıyor"
 
-msgctxt "Last update:Last update:"
 msgid "Last update:"
 msgstr "Son güncelleme:"
 
-msgctxt "LoginLogin"
 msgid "Login"
 msgstr "Giriş"
 
-msgctxt ""
-"Maximum size : 2000*2000 px - Allowed filetypes : jpg and pngMaximum size : "
-"2000*2000 px - Allowed filetypes : jpg and png"
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgstr ""
 "Maksimum büyüklük : 2000*2000 px – İzin verilen dosya türleri : jpg and png"
 
-msgctxt "My imagesMy images"
 msgid "My images"
 msgstr "Resimlerim"
 
-msgctxt "No album foundNo album found"
 msgid "No album found"
 msgstr "Albüm bulunamadı"
 
-msgctxt "No artist foundNo artist found"
 msgid "No artist found"
 msgstr "Şarkıcı bulunamadı"
 
-msgctxt "No current stream to play so far.No current stream to play so far."
 msgid "No current stream to play so far."
 msgstr "Hiçbir istasyon oynatmak için bulunamadı."
 
-msgctxt "No track foundNo track found"
 msgid "No track found"
 msgstr "Şarkı bulunamadı"
 
-msgctxt ""
-"No valid Facebook API key and secret.No valid Facebook API key and secret."
 msgid "No valid Facebook API key and secret."
 msgstr "Anahtar ve gizli geçerli bir Facebook API."
 
-msgctxt "PLAYERPLAYER"
 msgid "PLAYER"
 msgstr "ÇALAR"
 
-msgctxt "Page IDPage ID"
 msgid "Page ID"
 msgstr "Sayfa NUMARASI(ID)"
 
-msgctxt "Page not foundPage not found"
 msgid "Page not found"
 msgstr "Sayfa bulunamadı"
 
-msgctxt "ParameterParameter"
 msgid "Parameter"
 msgstr "Parametre"
 
-msgctxt "Parameter/Feed UrlParameter/Feed Url"
 msgid "Parameter/Feed Url"
 msgstr "Parametre/besleme URL"
 
-msgctxt "PicasaPicasa"
 msgid "Picasa"
 msgstr "Picasa"
 
-msgctxt "PlaylistPlaylist"
 msgid "Playlist"
 msgstr "Şarkı listesi"
 
-msgctxt "Playlist successfully saved.Playlist successfully saved."
 msgid "Playlist successfully saved."
 msgstr "Şarkı listesi başarıyla kaydedildi."
 
-msgctxt "Playlist title:Playlist title:"
 msgid "Playlist title:"
 msgstr "Şarkı listesi başlığı:"
 
-msgctxt "PlaylistsPlaylists"
 msgid "Playlists"
 msgstr "Şarkı listesi"
 
-msgctxt "Please specify the page IDPlease specify the page ID"
 msgid "Please specify the page ID"
 msgstr "Lütfen sayfa KİMLİĞİ(ID) belirtin"
 
-msgctxt "PodcastPodcast"
 msgid "Podcast"
 msgstr "Podcast"
 
-msgctxt "Podcast URL (iTunes format)Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (iTunes format)"
 
-msgctxt "Read allRead all"
 msgid "Read all"
 msgstr "Hepsini oku"
 
-msgctxt "Reload album list?Reload album list?"
 msgid "Reload album list?"
 msgstr "albüm listesi yeniden yükle?"
 
-msgctxt "Required fieldRequired field"
 msgid "Required field"
 msgstr "Gerekli alan"
 
-msgctxt "Search/UrlSearch/Url"
 msgid "Search/Url"
 msgstr "Ara/URL"
 
-msgctxt ""
-"The entered name is not a valid Instagram user.The entered name is not a "
-"valid Instagram user."
 msgid "The entered name is not a valid Instagram user."
 msgstr "Girilen ad geçerli Instagram kullanıcı değil."
 
-msgctxt "This element is not an album.This element is not an album."
 msgid "This element is not an album."
 msgstr "Bu eleman bir albüm değil."
 
-msgctxt "TrackTrack"
 msgid "Track"
 msgstr "şarkı"
 
-msgctxt "TracksTracks"
 msgid "Tracks"
 msgstr "şarkılar"
 
-msgctxt "TypeType"
 msgid "Type"
 msgstr "Çeşit"
 
-msgctxt "URL (.mp3):URL (.mp3):"
 msgid "URL (.mp3):"
 msgstr "URL (.mp3):"
 
-msgctxt ""
-"Videos gallery has been saved successfullyVideos gallery has been saved "
-"successfully"
 msgid "Videos gallery has been saved successfully"
 msgstr "Videolar galerisi başarıyla kaydedildi"
 
-msgctxt "VimeoVimeo"
 msgid "Vimeo"
 msgstr "Vimeo"
 
-msgctxt "buybuy"
 msgid "buy"
 msgstr "satınal"
 
-msgctxt "byby"
 msgid "by"
 msgstr ""
 
-msgctxt "closeclose"
 msgid "close"
 msgstr "kapat"
 
-msgctxt "emptyempty"
 msgid "empty"
 msgstr "boş"
 
-msgctxt "fromfrom"
 msgid "from"
 msgstr "gönderici"
 
-msgctxt "hidehide"
 msgid "hide"
 msgstr "gizle"
 
-msgctxt "looploop"
 msgid "loop"
 msgstr "loop"
 
-msgctxt "musicmusic"
 msgid "music"
 msgstr "müzik"
 
-msgctxt "nextnext"
 msgid "next"
 msgstr "sonraki"
 
-msgctxt "onon"
 msgid "on"
 msgstr "üstünde"
 
-msgctxt "pausepause"
 msgid "pause"
 msgstr "durdur"
 
-msgctxt "playplay"
 msgid "play"
 msgstr "çal"
 
-msgctxt "previousprevious"
 msgid "previous"
 msgstr "önceki"
 
-msgctxt "%s by %s%s by %s"
 msgid "%s by %s"
 msgstr "%s ile %s"
 
-msgctxt "shareshare"
 msgid "share"
 msgstr "paylaş"
 
-msgctxt "shuffleshuffle"
 msgid "shuffle"
 msgstr "karıştır"
 
-msgctxt "tracktrack"
 msgid "track"
 msgstr "şarkı"
 
-msgctxt "trackstracks"
 msgid "tracks"
 msgstr "şarkılar"

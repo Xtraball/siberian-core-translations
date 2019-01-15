@@ -14,14 +14,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "60000 maximum allowed.60000 maximum allowed."
 msgid "60000 maximum allowed."
 msgstr "60000 maximaal toegestaan."
 
-msgctxt ""
-"A certificate already exists for the domain %s, if you want to re-generate "
-"it, use 'Force re-generate' to proceed.A certificate already exists for the "
-"domain %s, if you want to re-generate it, use 'Force re-generate' to proceed."
 msgid ""
 "A certificate already exists for the domain %s, if you want to re-generate "
 "it, use 'Force re-generate' to proceed."
@@ -29,72 +24,51 @@ msgstr ""
 "Een certificaat bestaat al voor het domein %s, als je wilt om te re-"
 "genereren van het gebruik van 'Force re-generate' om verder te gaan."
 
-msgctxt "[APK][APK]"
 msgid "[APK]"
 msgstr "[APK]"
 
-msgctxt "APK Queue emptyAPK Queue empty"
 msgid "APK Queue empty"
 msgstr "APK Wachtrij is leeg"
 
-msgctxt "APK Queue statusAPK Queue status"
 msgid "APK Queue status"
 msgstr "APK Wachtrij status"
 
-msgctxt "APNS Feedback:APNS Feedback:"
 msgid "APNS Feedback:"
 msgstr "APNS Terugkoppeling (feedback):"
 
-msgctxt "APNS Feedback port 2196 is:APNS Feedback port 2196 is:"
 msgid "APNS Feedback port 2196 is:"
 msgstr "APNS feedback-poort 2196 is:"
 
-msgctxt "APNS Port 2195 is:APNS Port 2195 is:"
 msgid "APNS Port 2195 is:"
 msgstr "APNS Poort 2195 is:"
 
-msgctxt "AccountAccount"
 msgid "Account"
 msgstr "Account"
 
-msgctxt "Account RoleAccount Role"
 msgid "Account Role"
 msgstr "Account Rol"
 
-msgctxt "ActionsActions"
 msgid "Actions"
 msgstr "Acties"
 
-msgctxt "Activate VAT number check with VIESActivate VAT number check with VIES"
 msgid "Activate VAT number check with VIES"
 msgstr "Activeren BTW-nummer, controleren met VIES"
 
-msgctxt "Activate userActivate user"
 msgid "Activate user"
 msgstr "Activeer gebruiker"
 
-msgctxt "Active ?Active ?"
 msgid "Active ?"
 msgstr "Actief?"
 
-msgctxt ""
-"Add a custom text to the footer of your invoicesAdd a custom text to the "
-"footer of your invoices"
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
 
-msgctxt "Admin panel typeAdmin panel type"
 msgid "Admin panel type"
 msgstr "Beheerderspaneeltype"
 
-msgctxt "AdvancedAdvanced"
 msgid "Advanced"
 msgstr "Geavanceerd"
 
-msgctxt ""
-"Alert: The APK build for the Application: %s (%s) is stuck for more than one "
-"hour.Alert: The APK build for the Application: %s (%s) is stuck for more "
-"than one hour."
 msgid ""
 "Alert: The APK build for the Application: %s (%s) is stuck for more than one "
 "hour."
@@ -102,10 +76,6 @@ msgstr ""
 "Waarschuwing: Bouwen van de APK voor de Applicatie: %s (%s) duurt meer dan "
 "een uur en is vast gelopen."
 
-msgctxt ""
-"Alert: The Source build for the Application: %s (%s) is stuck for more than "
-"one hour.Alert: The Source build for the Application: %s (%s) is stuck for "
-"more than one hour."
 msgid ""
 "Alert: The Source build for the Application: %s (%s) is stuck for more than "
 "one hour."
@@ -113,14 +83,9 @@ msgstr ""
 "Waarschuwing: Bouwen van de APK voor de Applicatie: %s (%s) duurt meer dan "
 "een uur en is vast gelopen."
 
-msgctxt "All the files are required.All the files are required."
 msgid "All the files are required."
 msgstr "Alle bestanden zijn vereist."
 
-msgctxt ""
-"An entry already exists for this hostname, remove it first if you need to "
-"change your certificates.An entry already exists for this hostname, remove "
-"it first if you need to change your certificates."
 msgid ""
 "An entry already exists for this hostname, remove it first if you need to "
 "change your certificates."
@@ -128,104 +93,69 @@ msgstr ""
 "Er bestaat al een vermelding voor deze hostnaam. Verwijder deze eerst als u "
 "uw certificaten moet wijzigen."
 
-msgctxt "An error occuredAn error occured"
 msgid "An error occured"
 msgstr "Er is een fout opgetreden"
 
-msgctxt ""
-"An error occured while saving certificate to %s.An error occured while "
-"saving certificate to %s."
 msgid "An error occured while saving certificate to %s."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van het certificaat van %s."
 
-msgctxt ""
-"An error occurred during the process. Please try again later.An error "
-"occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het proces. Probeer het later opnieuw."
 
-msgctxt ""
-"An unknown error occured while issueing your certificate.An unknown error "
-"occured while issueing your certificate."
 msgid "An unknown error occured while issueing your certificate."
 msgstr ""
 "Er is een onbekende fout opgetreden tijdens het verzenden van uw certificaat."
 
-msgctxt "Android SDK:Android SDK:"
 msgid "Android SDK:"
 msgstr "Android SDK:"
 
-msgctxt "App nameApp name"
 msgid "App name"
 msgstr "App naam"
 
-msgctxt "Application settingsApplication settings"
 msgid "Application settings"
 msgstr "Applicatie instellingen"
 
-msgctxt ""
-"Application successfully queued for generation.Application successfully "
-"queued for generation."
 msgid "Application successfully queued for generation."
 msgstr "Applicatie met succes in de wachtrij geplaatst."
 
-msgctxt ""
-"Applications/Previewer manifest for automatic updates.Applications/"
-"Previewer manifest for automatic updates."
 msgid "Applications/Previewer manifest for automatic updates."
 msgstr "Applications / Previewer manifest voor automatische updates."
 
-msgctxt "Are you sure ?Are you sure ?"
 msgid "Are you sure ?"
 msgstr "Weet je het zeker?"
 
-msgctxt "Auth typeAuth type"
 msgid "Auth type"
 msgstr "Machtiging type"
 
-msgctxt "AuthenticateAuthenticate"
 msgid "Authenticate"
 msgstr "Autoriseren"
 
-msgctxt "Average build time in seconds:Average build time in seconds:"
 msgid "Average build time in seconds:"
 msgstr "Gemiddelde bouwtijd in seconden:"
 
-msgctxt "Average sources/apk build time:Average sources/apk build time:"
 msgid "Average sources/apk build time:"
 msgstr "Gemiddelde bronnen / apk-buildtijd:"
 
-msgctxt "Backoffice optionsBackoffice options"
 msgid "Backoffice options"
 msgstr "Backoffice opties"
 
-msgctxt "Bearer Token Auth (API)Bearer Token Auth (API)"
 msgid "Bearer Token Auth (API)"
 msgstr "Bearer Token Auth (API)"
 
-msgctxt "Bearer Token Auth is valid.Bearer Token Auth is valid."
 msgid "Bearer Token Auth is valid."
 msgstr "Bearer Auth Token is geldig."
 
-msgctxt "BetaBeta"
 msgid "Beta"
 msgstr "Beta"
 
-msgctxt "Build statusBuild status"
 msgid "Build status"
 msgstr "Bouw status"
 
-msgctxt "Build time (in seconds)Build time (in seconds)"
 msgid "Build time (in seconds)"
 msgstr "Bouw tijd (in seconden)"
 
-msgctxt ""
-"By clicking on link below, you will open your editor in tour editing mode. "
-"Please note that your user account must be created on editor side.By "
-"clicking on link below, you will open your editor in tour editing mode. "
-"Please note that your user account must be created on editor side."
 msgid ""
 "By clicking on link below, you will open your editor in tour editing mode. "
 "Please note that your user account must be created on editor side."
@@ -233,64 +163,45 @@ msgstr ""
 "Door te klikken op onderstaande link opent u de editor in tour-modus voor "
 "het bewerken. Let op dat uw account moet worden gemaakt op de editor kant."
 
-msgctxt "CACA"
 msgid "CA"
 msgstr "CA"
 
-msgctxt "CA certificateCA certificate"
 msgid "CA certificate"
 msgstr "CA-certificaat"
 
-msgctxt "CA path:CA path:"
 msgid "CA path:"
 msgstr "CA pad:"
 
-msgctxt "CRON Scheduler intervalCRON Scheduler interval"
 msgid "CRON Scheduler interval"
 msgstr "CRON Planner interval"
 
-msgctxt "Cache clearedCache cleared"
 msgid "Cache cleared"
 msgstr "Cache gewist"
 
-msgctxt "Cache (var/cache, system cache)Cache (var/cache, system cache)"
 msgid "Cache (var/cache, system cache)"
 msgstr "Cache (var / cache, systeemcache)"
 
-msgctxt "Can generate APKCan generate APK"
 msgid "Can generate APK"
 msgstr "Kan APK genereren"
 
-msgctxt "CertCert"
 msgid "Cert"
 msgstr "Cert"
 
-msgctxt "CertificateCertificate"
 msgid "Certificate"
 msgstr "Certificaat"
 
-msgctxt ""
-"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: "
-"%s%sCertificate is valid and SSL is reachable, valid until: %s.<br />Issuer:"
-" %s%s"
 msgid ""
 "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 msgstr ""
 "Certificaat geldig en SSL bereikbaar is geldig tot en met: %s.<br />Uitgever:"
 " %s%s"
 
-msgctxt "Certificate path:Certificate path:"
 msgid "Certificate path:"
 msgstr "Certificaat pad:"
 
-msgctxt "Certificate successfully generated.Certificate successfully generated."
 msgid "Certificate successfully generated."
 msgstr "Certificaat met succes aangemaakt."
 
-msgctxt ""
-"Certificate successfully generated. Please wait while %s is reloading "
-"configuration ...Certificate successfully generated. Please wait while %s "
-"is reloading configuration ..."
 msgid ""
 "Certificate successfully generated. Please wait while %s is reloading "
 "configuration ..."
@@ -298,19 +209,12 @@ msgstr ""
 "Certificaat met succes aangemaakt. Gelieve even te wachten terwijl %s is aan "
 "het herladen van de configuratie ..."
 
-msgctxt ""
-"Certificate successfully re-generated.Certificate successfully re-generated."
 msgid "Certificate successfully re-generated."
 msgstr "Certificaat met succes opnieuw gegenereerd."
 
-msgctxt "Change the passwordChange the password"
 msgid "Change the password"
 msgstr "Wijzig het wachtwoord"
 
-msgctxt ""
-"Check if this cron command is installed under the web user & if you have set "
-"a timezone in Settings > GeneralCheck if this cron command is installed "
-"under the web user & if you have set a timezone in Settings > General"
 msgid ""
 "Check if this cron command is installed under the web user & if you have set "
 "a timezone in Settings > General"
@@ -318,191 +222,138 @@ msgstr ""
 "Controleer of deze cron-opdracht is geïnstalleerd onder de webgebruiker en "
 "of u een tijdzone hebt ingesteld in Instellingen >Algemeen"
 
-msgctxt "ClearClear"
 msgid "Clear"
 msgstr "Wis"
 
-msgctxt "Clear cacheClear cache"
 msgid "Clear cache"
 msgstr "Cache wissen"
 
-msgctxt "Clear logsClear logs"
 msgid "Clear logs"
 msgstr "Log wissen"
 
-msgctxt "Cleared cron errors.Cleared cron errors."
 msgid "Cleared cron errors."
 msgstr "Cron-fouten gewist."
 
-msgctxt ""
-"Click here to send your CA certificateClick here to send your CA certificate"
 msgid "Click here to send your CA certificate"
 msgstr "Klik hier om uw CA certificaat te verzenden"
 
-msgctxt ""
-"Click here to send your Private certificateClick here to send your Private "
-"certificate"
 msgid "Click here to send your Private certificate"
 msgstr "Klik hier om uw privé certificaat te verzenden"
 
-msgctxt "Click here to send your certificateClick here to send your certificate"
 msgid "Click here to send your certificate"
 msgstr "Klik hier om uw certificaat te versturen"
 
-msgctxt "Click to mark as not readClick to mark as not read"
 msgid "Click to mark as not read"
 msgstr "Klik om te markeren als niet gelezen"
 
-msgctxt "Click to mark as readClick to mark as read"
 msgid "Click to mark as read"
 msgstr "Klik om te markeren als gelezen"
 
-msgctxt "ClosedClosed"
 msgid "Closed"
 msgstr "Gesloten"
 
-msgctxt "Complete build logComplete build log"
 msgid "Complete build log"
 msgstr "Volledig buildlogboek"
 
-msgctxt "ConfigurationConfiguration"
 msgid "Configuration"
 msgstr "Configuratie"
 
-msgctxt "Configuration successfully savedConfiguration successfully saved"
 msgid "Configuration successfully saved"
 msgstr "Configuratie succesvol opgeslagen"
 
-msgctxt "Core modulesCore modules"
 msgid "Core modules"
 msgstr "Kernmodules"
 
-msgctxt "Create a userCreate a user"
 msgid "Create a user"
 msgstr "Maak een gebruiker aan"
 
-msgctxt "Created AtCreated At"
 msgid "Created At"
 msgstr "Gemaakt op"
 
-msgctxt "Creation dateCreation date"
 msgid "Creation date"
 msgstr "Aanmaakdatum"
 
-msgctxt "CronCron"
 msgid "Cron"
 msgstr "Cron"
 
-msgctxt "Cron alertsCron alerts"
 msgid "Cron alerts"
 msgstr "Cron waarschuwingen"
 
-msgctxt "Cron intervalCron interval"
 msgid "Cron interval"
 msgstr "Cron-interval"
 
-msgctxt "Cron schedulerCron scheduler"
 msgid "Cron scheduler"
 msgstr "Cron planner"
 
-msgctxt "Cron scheduler helpCron scheduler help"
 msgid "Cron scheduler help"
 msgstr "Cron Scheduler-help"
 
-msgctxt "Custom SMTP ConfigurationCustom SMTP Configuration"
 msgid "Custom SMTP Configuration"
 msgstr "Aangepaste SMTP-Configuratie"
 
-msgctxt "Day of monthDay of month"
 msgid "Day of month"
 msgstr "Dag van de maand"
 
-msgctxt "Day of weekDay of week"
 msgid "Day of week"
 msgstr "Dag van de week"
 
-msgctxt "Deactivate userDeactivate user"
 msgid "Deactivate user"
 msgstr "Deactiveren gebruiker"
 
-msgctxt "Default (no)Default (no)"
 msgid "Default (no)"
 msgstr "Standaard (nee)"
 
-msgctxt "DevelopmentDevelopment"
 msgid "Development"
 msgstr "Ontwikkeling"
 
-msgctxt "DirectAdminDirectAdmin"
 msgid "DirectAdmin"
 msgstr "DirectAdmin"
 
-msgctxt "DirectAdmin (beta)DirectAdmin (beta)"
 msgid "DirectAdmin (beta)"
 msgstr "DirectAdmin (beta)"
 
-msgctxt "Disable cron jobsDisable cron jobs"
 msgid "Disable cron jobs"
 msgstr "Schakel cron-taken uit"
 
-msgctxt "DisabledDisabled"
 msgid "Disabled"
 msgstr "Uitgeschakeld"
 
-msgctxt "Disk usage & Cache:Disk usage & Cache:"
 msgid "Disk usage & Cache:"
 msgstr "Schijfgebruik & Cache:"
 
-msgctxt "Dismiss & install laterDismiss & install later"
 msgid "Dismiss & install later"
 msgstr "Afwijzen en later installeren"
 
-msgctxt "DisplayDisplay"
 msgid "Display"
 msgstr "Weergeven"
 
-msgctxt "Doesn't meet the requirementsDoesn't meet the requirements"
 msgid "Doesn't meet the requirements"
 msgstr "Voldoet niet aan de vereisten"
 
-msgctxt "Download latest sourceDownload latest source"
 msgid "Download latest source"
 msgstr "Download hier de laatste bestanden"
 
-msgctxt "Drop your certificate hereDrop your certificate here"
 msgid "Drop your certificate here"
 msgstr "Laat je certificaat hier vallen"
 
-msgctxt "Edit the userEdit the user"
 msgid "Edit the user"
 msgstr "Bewerk de gebruiker"
 
-msgctxt "Editor's DesignEditor's Design"
 msgid "Editor's Design"
 msgstr "Ontwerp van de redactie"
 
-msgctxt "Enable custom SMTP configurationEnable custom SMTP configuration"
 msgid "Enable custom SMTP configuration"
 msgstr "Inschakelen van aangepaste SMTP-configuratie"
 
-msgctxt "Enter your credentials:Enter your credentials:"
 msgid "Enter your credentials:"
 msgstr "Vul uw gegevens in:"
 
-msgctxt "EnvironmentEnvironment"
 msgid "Environment"
 msgstr "Omgeving"
 
-msgctxt "Error, order already paid.Error, order already paid."
 msgid "Error, order already paid."
 msgstr "Fout, de bestelling is reeds betaald is."
 
-msgctxt ""
-"Errors are displayed on page, outputs are more verbose, this is an option "
-"for debug purpose, use with care as it may output some critical informations "
-"about your server.Errors are displayed on page, outputs are more verbose, "
-"this is an option for debug purpose, use with care as it may output some "
-"critical informations about your server."
 msgid ""
 "Errors are displayed on page, outputs are more verbose, this is an option "
 "for debug purpose, use with care as it may output some critical informations "
@@ -512,105 +363,72 @@ msgstr ""
 "is een optie voor het opsporen van fouten, gebruik voorzichtig, omdat het "
 "mogelijk een aantal belangrijke informatie over uw server kan weergeven."
 
-msgctxt "ExistsExists"
 msgid "Exists"
 msgstr "Bestaat"
 
-msgctxt "External extensionsExternal extensions"
 msgid "External extensions"
 msgstr "Externe extensies"
 
-msgctxt "FailedFailed"
 msgid "Failed"
 msgstr "Mislukt"
 
-msgctxt ""
-"File hash is different from manifest.File hash is different from manifest."
 msgid "File hash is different from manifest."
 msgstr "Bestandshash verschilt van manifest."
 
-msgctxt "File is missing.File is missing."
 msgid "File is missing."
 msgstr "Bestand ontbreekt."
 
-msgctxt "Force re-generationForce re-generation"
 msgid "Force re-generation"
 msgstr "Forceer re-generatie"
 
-msgctxt "Forgot passwordForgot password"
 msgid "Forgot password"
 msgstr "Wachtwoord vergeten"
 
-msgctxt "FullFull"
 msgid "Full"
 msgstr "Volledig"
 
-msgctxt ""
-"Full path to use within your webserver.Full path to use within your "
-"webserver."
 msgid "Full path to use within your webserver."
 msgstr "Volledig pad om te gebruiken binnen uw webserver."
 
-msgctxt "General settingsGeneral settings"
 msgid "General settings"
 msgstr "Algemene instellingen"
 
-msgctxt "GenerateGenerate"
 msgid "Generate"
 msgstr "Genereren"
 
-msgctxt ""
-"Generate a certificate via Let's Encrypt.Generate a certificate via Let's "
-"Encrypt."
 msgid "Generate a certificate via Let's Encrypt."
 msgstr "Genereer een certificaat via Let's Encrypt."
 
-msgctxt "Generate sourceGenerate source"
 msgid "Generate source"
 msgstr "Source aanmaken"
 
-msgctxt "GeneratingGenerating"
 msgid "Generating"
 msgstr "Genereren"
 
-msgctxt "[Global][Global]"
 msgid "[Global]"
 msgstr "[Globaal]"
 
-msgctxt "Grant userGrant user"
 msgid "Grant user"
 msgstr "Subsidie gebruiker"
 
-msgctxt "HTTP Basic Auth (API)HTTP Basic Auth (API)"
 msgid "HTTP Basic Auth (API)"
 msgstr "HTTP Basic Auth (API)"
 
-msgctxt "HTTP Basic Auth is valid.HTTP Basic Auth is valid."
 msgid "HTTP Basic Auth is valid."
 msgstr "HTTP Basic Auth is geldig."
 
-msgctxt "HTTPS & SSL CertificatesHTTPS & SSL Certificates"
 msgid "HTTPS & SSL Certificates"
 msgstr "HTTPS EN SSL Certificaten"
 
-msgctxt "HTTPS host is unreachable.HTTPS host is unreachable."
 msgid "HTTPS host is unreachable."
 msgstr "HTTPS-host is onbereikbaar."
 
-msgctxt ""
-"HTTPS is not available on your server.HTTPS is not available on your server."
 msgid "HTTPS is not available on your server."
 msgstr "HTTPS is niet beschikbaar op uw server."
 
-msgctxt "HTTPS not reachableHTTPS not reachable"
 msgid "HTTPS not reachable"
 msgstr "HTTPS niet bereikbaar"
 
-msgctxt ""
-"HTTPS support is in <b>Beta</b>, you should test it on your <b>development "
-"server</b> first & prepare for further migration.HTTPS support is in "
-"<b>Beta</b>, you should test it on your <b>development server</b> first & "
-"prepare for further migration."
 msgid ""
 "HTTPS support is in <b>Beta</b>, you should test it on your <b>development "
 "server</b> first & prepare for further migration."
@@ -618,11 +436,6 @@ msgstr ""
 "HTTPS-ondersteuning bevindt zich in <b>Beta</b> , u moet deze eerst testen "
 "op uw <b>ontwikkelserver</b> en voorbereiden op verdere migratie."
 
-msgctxt ""
-"HTTPS support is in test, you should only try it on your development server "
-"prior to prepare for further migration.HTTPS support is in test, you should "
-"only try it on your development server prior to prepare for further "
-"migration."
 msgid ""
 "HTTPS support is in test, you should only try it on your development server "
 "prior to prepare for further migration."
@@ -630,42 +443,27 @@ msgstr ""
 "HTTPS-ondersteuning is in test, je zou het alleen op je ontwikkelserver "
 "moeten proberen voordat je je voorbereid op verdere migratie."
 
-msgctxt "HideHide"
 msgid "Hide"
 msgstr "Verberg"
 
-msgctxt "HostHost"
 msgid "Host"
 msgstr "Host"
 
-msgctxt "HostnameHostname"
 msgid "Hostname"
 msgstr "Hostnaam"
 
-msgctxt ""
-"Hostnames associated with this CertificateHostnames associated with this "
-"Certificate"
 msgid "Hostnames associated with this Certificate"
 msgstr "Hostnamen die aan dit certificaat zijn gekoppeld"
 
-msgctxt "HourHour"
 msgid "Hour"
 msgstr "Uur"
 
-msgctxt "IDID"
 msgid "ID"
 msgstr "ID"
 
-msgctxt ""
-"If inactive, your customer won't see the tour.If inactive, your customer "
-"won't see the tour."
 msgid "If inactive, your customer won't see the tour."
 msgstr "Als deze niet actief is, ziet uw klant de rondleiding niet."
 
-msgctxt ""
-"If you are unable to install or run the cronjob on your hosting/server you "
-"can disable it.If you are unable to install or run the cronjob on your "
-"hosting/server you can disable it."
 msgid ""
 "If you are unable to install or run the cronjob on your hosting/server you "
 "can disable it."
@@ -673,246 +471,180 @@ msgstr ""
 "Als u de cronjob niet op uw hosting / server kunt installeren of uitvoeren, "
 "kunt u deze uitschakelen."
 
-msgctxt "InfoInfo"
 msgid "Info"
 msgstr "Info"
 
-msgctxt "InstalledInstalled"
 msgid "Installed"
 msgstr "Geïnstalleerd"
 
-msgctxt "Installed icon packsInstalled icon packs"
 msgid "Installed icon packs"
 msgstr "Geïnstalleerde, icoon pakketten"
 
-msgctxt "Installed layoutsInstalled layouts"
 msgid "Installed layouts"
 msgstr "Geïnstalleerde layouts"
 
-msgctxt "Installed modulesInstalled modules"
 msgid "Installed modules"
 msgstr "Geïnstalleerde modules"
 
-msgctxt "Installed, versionInstalled, version"
 msgid "Installed, version"
 msgstr "Geïnstalleerde versie"
 
-msgctxt "Integrity checkIntegrity check"
 msgid "Integrity check"
 msgstr "Integriteitscontrole"
 
-msgctxt "Invoice optionsInvoice options"
 msgid "Invoice options"
 msgstr "Factuur opties"
 
-msgctxt "Issued certificatesIssued certificates"
 msgid "Issued certificates"
 msgstr "Uitgegeven certificaten"
 
-msgctxt "JAVA:JAVA:"
 msgid "JAVA:"
 msgstr "JAVA:"
 
-msgctxt "Last cron errorLast cron error"
 msgid "Last cron error"
 msgstr "Laatste cron fout"
 
-msgctxt "Last failureLast failure"
 msgid "Last failure"
 msgstr "Laatste fout"
 
-msgctxt "Last successLast success"
 msgid "Last success"
 msgstr "Laatste succes"
 
-msgctxt "Last triggerLast trigger"
 msgid "Last trigger"
 msgstr "Laatste trigger"
 
-msgctxt "Let's Encrypt certificates renewalLet's Encrypt certificates renewal"
 msgid "Let's Encrypt certificates renewal"
 msgstr "Let's Encrypt certificering vernieuwen"
 
-msgctxt "Let's Encrypt environmentLet's Encrypt environment"
 msgid "Let's Encrypt environment"
 msgstr "Let's Encrypt omgeving"
 
-msgctxt ""
-"[Let's Encrypt] renewing certificate.[Let's Encrypt] renewing certificate."
 msgid "[Let's Encrypt] renewing certificate."
 msgstr "[Let's Encrypt] vernieuwen van het certificaat."
 
-msgctxt "[Let's Encrypt] will add %s to SAN.[Let's Encrypt] will add %s to SAN."
 msgid "[Let's Encrypt] will add %s to SAN."
 msgstr "[Let's Encrypt] voegt% s toe aan SAN."
 
-msgctxt "Link previewLink preview"
 msgid "Link preview"
 msgstr "Link voorvertoning"
 
-msgctxt "List of backoffice accountsList of backoffice accounts"
 msgid "List of backoffice accounts"
 msgstr "Lijst van backoffice-accounts"
 
-msgctxt "List of the messagesList of the messages"
 msgid "List of the messages"
 msgstr "Lijst van de berichten"
 
-msgctxt "LoadedLoaded"
 msgid "Loaded"
 msgstr "Geladen"
 
-msgctxt "LogLog"
 msgid "Log"
 msgstr "Log"
 
-msgctxt "Log (var/log, log files)Log (var/log, log files)"
 msgid "Log (var/log, log files)"
 msgstr "Logboek (var / log, logbestanden)"
 
-msgctxt "Login to your backoffice interfaceLogin to your backoffice interface"
 msgid "Login to your backoffice interface"
 msgstr "Inloggen op uw backoffice-interface"
 
-msgctxt "Logs cleared.Logs cleared."
 msgid "Logs cleared."
 msgstr "Logs gewist."
 
-msgctxt "Mark all as readMark all as read"
 msgid "Mark all as read"
 msgstr "Markeren als gelezen"
 
-msgctxt "Mark as newMark as new"
 msgid "Mark as new"
 msgstr "Markeren als nieuw"
 
-msgctxt "Mark as readMark as read"
 msgid "Mark as read"
 msgstr "Markeren als gelezen"
 
-msgctxt "MessagesMessages"
 msgid "Messages"
 msgstr "Berichten"
 
-msgctxt "MinuteMinute"
 msgid "Minute"
 msgstr "Minuut"
 
-msgctxt "Missing parameters for generation.Missing parameters for generation."
 msgid "Missing parameters for generation."
 msgstr "Ontbrekende parameters voor genereren."
 
-msgctxt "Mobile Source Codes & BuildsMobile Source Codes & Builds"
 msgid "Mobile Source Codes & Builds"
 msgstr "Mobiele broncodes en builds"
 
-msgctxt "Module/User tasksModule/User tasks"
 msgid "Module/User tasks"
 msgstr "Module - /gebruikerstaken"
 
-msgctxt "MonthMonth"
 msgid "Month"
 msgstr "Maand"
 
-msgctxt "My InvoicesMy Invoices"
 msgid "My Invoices"
 msgstr "Mijn facturen"
 
-msgctxt "My tour is activeMy tour is active"
 msgid "My tour is active"
 msgstr "Mijn tour is actief"
 
-msgctxt "NameName"
 msgid "Name"
 msgstr "Naam"
 
-msgctxt "New messagesNew messages"
 msgid "New messages"
 msgstr "Nieuwe berichten"
 
-msgctxt "New usersNew users"
 msgid "New users"
 msgstr "Nieuwe gebruikers"
 
-msgctxt "NoNo"
 msgid "No"
 msgstr "Nee"
 
-msgctxt "No file has been sentNo file has been sent"
 msgid "No file has been sent"
 msgstr "Er is geen bestand verzonden"
 
-msgctxt "No icon packsNo icon packs"
 msgid "No icon packs"
 msgstr "Geen icoon pakketten"
 
-msgctxt "No informations.No informations."
 msgid "No informations."
 msgstr "Geen informatie."
 
-msgctxt "No layoutsNo layouts"
 msgid "No layouts"
 msgstr "Geen lay-outs"
 
-msgctxt "No module/user tasksNo module/user tasks"
 msgid "No module/user tasks"
 msgstr "Geen module - /gebruikerstaken"
 
-msgctxt "No system tasksNo system tasks"
 msgid "No system tasks"
 msgstr "Geen systeemtaken"
 
-msgctxt "NoneNone"
 msgid "None"
 msgstr "Geen"
 
-msgctxt "Not foundNot found"
 msgid "Not found"
 msgstr "Niet gevonden"
 
-msgctxt "Not runningNot running"
 msgid "Not running"
 msgstr "Niet actief"
 
-msgctxt "Not yet generated.Not yet generated."
 msgid "Not yet generated."
 msgstr "Nog niet gegenereerd."
 
-msgctxt "Note:Note:"
 msgid "Note:"
 msgstr "Opmerking:"
 
-msgctxt ""
-"Note: Let's encrypt X1 is a staging certificate.Note: Let's encrypt X1 is a "
-"staging certificate."
 msgid "Note: Let's encrypt X1 is a staging certificate."
 msgstr "Opmerking: Let's encrypt X1 is een staging-certificaat."
 
-msgctxt "Number of typed characters:Number of typed characters:"
 msgid "Number of typed characters:"
 msgstr "Aantal getypte tekens:"
 
-msgctxt "OROR"
 msgid "OR"
 msgstr "OF"
 
-msgctxt "OkOk"
 msgid "Ok"
 msgstr "Oké"
 
-msgctxt ""
-"Ok, you may consider upgrade to >=5.4Ok, you may consider upgrade to >=5.4"
 msgid "Ok, you may consider upgrade to >=5.4"
 msgstr "Oké, Overweeg een upgrade naar> = 5,4"
 
-msgctxt "Ok, you may upgrade to php 5.6Ok, you may upgrade to php 5.6"
 msgid "Ok, you may upgrade to php 5.6"
 msgstr "Oké, je kan upgraden naar php 5.6"
 
-msgctxt ""
-"One of the three given Certificates path is not readable, please make sure "
-"they have the good rights.One of the three given Certificates path is not "
-"readable, please make sure they have the good rights."
 msgid ""
 "One of the three given Certificates path is not readable, please make sure "
 "they have the good rights."
@@ -920,26 +652,18 @@ msgstr ""
 "Een van de drie gegeven certificaten is niet leesbaar, zorg er alstublieft "
 "voor dat ze over de juiste rechten beschikken."
 
-msgctxt "OpenOpen"
 msgid "Open"
 msgstr "Open"
 
-msgctxt "Open the tour editing modeOpen the tour editing mode"
 msgid "Open the tour editing mode"
 msgstr "Open de tour bewerkingsmodus"
 
-msgctxt "Optional binariesOptional binaries"
 msgid "Optional binaries"
 msgstr "Optioneel binaire bestanden"
 
-msgctxt "Optional librariesOptional libraries"
 msgid "Optional libraries"
 msgstr "Optionele bibliotheken"
 
-msgctxt ""
-"Otherwise install it manually, from your panel, or directly from your ssh "
-"access.Otherwise install it manually, from your panel, or directly from "
-"your ssh access."
 msgid ""
 "Otherwise install it manually, from your panel, or directly from your ssh "
 "access."
@@ -947,260 +671,181 @@ msgstr ""
 "Installeer het anders handmatig, via uw paneel of rechtstreeks vanuit uw SSH-"
 "toegang."
 
-msgctxt ""
-"Overview - WebApp (var/apps/browser, overview & webapp cache)Overview - "
-"WebApp (var/apps/browser, overview & webapp cache)"
 msgid "Overview - WebApp (var/apps/browser, overview & webapp cache)"
 msgstr "Overzicht - WebApp (var / apps / browser, overzicht & webapp-cache)"
 
-msgctxt "Overview cache cleared.Overview cache cleared."
 msgid "Overview cache cleared."
 msgstr "Overzicht gewist cache."
 
-msgctxt "PEM test:PEM test:"
 msgid "PEM test:"
 msgstr "PEM-test:"
 
-msgctxt "PHP version %s:PHP version %s:"
 msgid "PHP version %s:"
 msgstr "PHP versie %s:"
 
-msgctxt "PasswordPassword"
 msgid "Password"
 msgstr "Wachtwoord"
 
-msgctxt "Path to your CA certificatePath to your CA certificate"
 msgid "Path to your CA certificate"
 msgstr "Pad naar het CA-certificaat"
 
-msgctxt "Path to your CertificatePath to your Certificate"
 msgid "Path to your Certificate"
 msgstr "Pad naar uw Certificaat"
 
-msgctxt "Path to your Private certificatePath to your Private certificate"
 msgid "Path to your Private certificate"
 msgstr "Pad naar uw privécertificaat"
 
-msgctxt "Path to your Private keyPath to your Private key"
 msgid "Path to your Private key"
 msgstr "Pad naar uw persoonlijke sleutel"
 
-msgctxt "Payment receivedPayment received"
 msgid "Payment received"
 msgstr "Betaling ontvangen"
 
-msgctxt ""
-"People who are allowed to access the backofficePeople who are allowed to "
-"access the backoffice"
 msgid "People who are allowed to access the backoffice"
 msgstr "Mensen die toegang hebben tot de backoffice"
 
-msgctxt ""
-"Permission, denied from Plesk, please use the admin account.Permission, "
-"denied from Plesk, please use the admin account."
 msgid "Permission, denied from Plesk, please use the admin account."
 msgstr ""
 "Toestemming, geweigerd door Plesk, gebruik alstublieft de beheerdersaccount."
 
-msgctxt "PleskPlesk"
 msgid "Plesk"
 msgstr "Plesk"
 
-msgctxt "Plesk 12+Plesk 12+"
 msgid "Plesk 12+"
 msgstr "Plesk 12+"
 
-msgctxt "[Plesk] Unknown error.[Plesk] Unknown error."
 msgid "[Plesk] Unknown error."
 msgstr "[Plesk] Onbekende fout."
 
-msgctxt "PortPort"
 msgid "Port"
 msgstr "Poort"
 
-msgctxt "Preview 5.0Preview 5.0"
 msgid "Preview 5.0"
 msgstr "Voorbeeld 5.0"
 
-msgctxt "Privacy policy URLPrivacy policy URL"
 msgid "Privacy policy URL"
 msgstr "Privacy Beleid URL"
 
-msgctxt "PrivatePrivate"
 msgid "Private"
 msgstr "Privé"
 
-msgctxt "Private certificatePrivate certificate"
 msgid "Private certificate"
 msgstr "Privé certificaat"
 
-msgctxt "Private path:Private path:"
 msgid "Private path:"
 msgstr "Eigen pad:"
 
-msgctxt "ProductionProduction"
 msgid "Production"
 msgstr "Productie"
 
-msgctxt "ProgressProgress"
 msgid "Progress"
 msgstr "Vooruitgang"
 
-msgctxt "Publication access typePublication access type"
 msgid "Publication access type"
 msgstr "Publicatietoegangstype"
 
-msgctxt "Push messages:Push messages:"
 msgid "Push messages:"
 msgstr "Push bericht:"
 
-msgctxt "QueuedQueued"
 msgid "Queued"
 msgstr "Wachtrij"
 
-msgctxt "Queued %s/%sQueued %s/%s"
 msgid "Queued %s/%s"
 msgstr "Wachtrij %s/%s"
 
-msgctxt "ReadRead"
 msgid "Read"
 msgstr "Lezen"
 
-msgctxt "RebuildRebuild"
 msgid "Rebuild"
 msgstr "Herbouwen"
 
-msgctxt "Rebuild manifestRebuild manifest"
 msgid "Rebuild manifest"
 msgstr "Het manifest opnieuw opbouwen"
 
-msgctxt ""
-"Rebuilding application manifest files.Rebuilding application manifest files."
 msgid "Rebuilding application manifest files."
 msgstr "Het opnieuw opbouwen van applicatie-manifestbestanden."
 
-msgctxt "Regular updates systemRegular updates system"
 msgid "Regular updates system"
 msgstr "Regelmatig updatesysteem"
 
-msgctxt "Remove locksRemove locks"
 msgid "Remove locks"
 msgstr "Verwijder sloten"
 
-msgctxt "Remove locks nowRemove locks now"
 msgid "Remove locks now"
 msgstr "Verwijder sloten nu"
 
-msgctxt "Removing CRON Scheduler lock files.Removing CRON Scheduler lock files."
 msgid "Removing CRON Scheduler lock files."
 msgstr "Verwijderen van CRON Scheduler lock-bestanden."
 
-msgctxt "Removing domains: %sRemoving domains: %s"
 msgid "Removing domains: %s"
 msgstr "Verwijderen domeinen: %s"
 
-msgctxt "RequestRequest"
 msgid "Request"
 msgstr "Aanvraag"
 
-msgctxt ""
-"Request the certificate via Let's Encrypt.Request the certificate via Let's "
-"Encrypt."
 msgid "Request the certificate via Let's Encrypt."
 msgstr "Het certificaat aanvragen via Let's Encrypt."
 
-msgctxt "Required extensionsRequired extensions"
 msgid "Required extensions"
 msgstr "Vereiste extensies"
 
-msgctxt "Revoke userRevoke user"
 msgid "Revoke user"
 msgstr "Gebruiker intrekken"
 
-msgctxt "Run testRun test"
 msgid "Run test"
 msgstr "Test uitvoeren"
 
-msgctxt "SSLSSL"
 msgid "SSL"
 msgstr "SSL"
 
-msgctxt "SalesSales"
 msgid "Sales"
 msgstr "Verkoop"
 
-msgctxt "Sales configurationSales configuration"
 msgid "Sales configuration"
 msgstr "Verkoop-configuratie"
 
-msgctxt "SaveSave"
 msgid "Save"
 msgstr "Bewaar"
 
-msgctxt "Select API accessSelect API access"
 msgid "Select API access"
 msgstr "Selecteer API-toegang"
 
-msgctxt "Select a panel type or self-managedSelect a panel type or self-managed"
 msgid "Select a panel type or self-managed"
 msgstr "Selecteer een paneeltype of zelfbeheer"
 
-msgctxt "Self-managedSelf-managed"
 msgid "Self-managed"
 msgstr "Zelf beheerd"
 
-msgctxt ""
-"Self-managed sync is not available for now.Self-managed sync is not "
-"available for now."
 msgid "Self-managed sync is not available for now."
 msgstr "Zelfbeheerde synchronisatie is voorlopig niet beschikbaar."
 
-msgctxt ""
-"Send anonymous statistics to improve the apps builder.Send anonymous "
-"statistics to improve the apps builder."
 msgid "Send anonymous statistics to improve the apps builder."
 msgstr "Stuur anonieme statistieken om de apps builder te verbeteren."
 
-msgctxt "ServerServer"
 msgid "Server"
 msgstr "Server"
 
-msgctxt "ServicesServices"
 msgid "Services"
 msgstr "Diensten"
 
-msgctxt "Show All ApplicationsShow All Applications"
 msgid "Show All Applications"
 msgstr "Toon Alle applicaties"
 
-msgctxt "Show moreShow more"
 msgid "Show more"
 msgstr "Toon meer"
 
-msgctxt "Siberian - BackofficeSiberian - Backoffice"
 msgid "Siberian - Backoffice"
 msgstr "Siberië - Backoffice"
 
-msgctxt "Siberian CMSSiberian CMS"
 msgid "Siberian CMS"
 msgstr "Siberian CMS"
 
-msgctxt ""
-"[Siberian_Cpanel] Unable to update cPanel SSL Certificate for "
-"%s[Siberian_Cpanel] Unable to update cPanel SSL Certificate for %s"
 msgid "[Siberian_Cpanel] Unable to update cPanel SSL Certificate for %s"
 msgstr "[Siberian_Cpanel] Kan cPanel SSL-certificaat niet bijwerken voor% s"
 
-msgctxt ""
-"[Siberian_VestaCP] requires php 5.6+[Siberian_VestaCP] requires php 5.6+"
 msgid "[Siberian_VestaCP] requires php 5.6+"
 msgstr "[Siberian_VestaCP] vereist php 5.6+"
 
-msgctxt ""
-"Something went wrong with the API Sync to %s, retry or check in your panel "
-"if your SSL certificate is correctly setup.Something went wrong with the "
-"API Sync to %s, retry or check in your panel if your SSL certificate is "
-"correctly setup."
 msgid ""
 "Something went wrong with the API Sync to %s, retry or check in your panel "
 "if your SSL certificate is correctly setup."
@@ -1208,46 +853,33 @@ msgstr ""
 "Er is iets misgegaan met de API-synchronisatie naar% s, probeer het opnieuw "
 "of controleer uw paneel als uw SSL-certificaat correct is ingesteld."
 
-msgctxt "SourceSource"
 msgid "Source"
 msgstr "Bron"
 
-msgctxt "Source Queue emptySource Queue empty"
 msgid "Source Queue empty"
 msgstr "Bron Wachtrij is leeg"
 
-msgctxt "Source Queue statusSource Queue status"
 msgid "Source Queue status"
 msgstr "Status van bronwachtrij"
 
-msgctxt "[Sources][Sources]"
 msgid "[Sources]"
 msgstr "[Bronnen]"
 
-msgctxt "Sources codeSources code"
 msgid "Sources code"
 msgstr "Bestand code"
 
-msgctxt "StableStable"
 msgid "Stable"
 msgstr "Stabiel"
 
-msgctxt "StagingStaging"
 msgid "Staging"
 msgstr "Regie"
 
-msgctxt "Start editing your platform tourStart editing your platform tour"
 msgid "Start editing your platform tour"
 msgstr "Beginnen met het bewerken van uw platform tour"
 
-msgctxt "StatisticsStatistics"
 msgid "Statistics"
 msgstr "Statistieken"
 
-msgctxt ""
-"Statistics are used to improve the platform and help understanding usage of "
-"the apps builder.Statistics are used to improve the platform and help "
-"understanding usage of the apps builder."
 msgid ""
 "Statistics are used to improve the platform and help understanding usage of "
 "the apps builder."
@@ -1255,88 +887,54 @@ msgstr ""
 "Statistieken worden gebruikt om het platform te verbeteren en inzicht te "
 "krijgen in het gebruik van de apps builder."
 
-msgctxt "StatusStatus"
 msgid "Status"
 msgstr "Status"
 
-msgctxt ""
-"Submit a bug report or improvement request for beta/previewSubmit a bug "
-"report or improvement request for beta/preview"
 msgid "Submit a bug report or improvement request for beta/preview"
 msgstr "Dien een bugrapport of verbeteringsverzoek in voor bèta / preview"
 
-msgctxt "SuccessSuccess"
 msgid "Success"
 msgstr "Succes"
 
-msgctxt ""
-"Successfully cleaned-up old certificate.Successfully cleaned-up old "
-"certificate."
 msgid "Successfully cleaned-up old certificate."
 msgstr "Oud certificaat goed opgeschoond."
 
-msgctxt ""
-"Successfully installed new certificate.Successfully installed new "
-"certificate."
 msgid "Successfully installed new certificate."
 msgstr "Met succes geïnstalleerd een nieuw certificaat."
 
-msgctxt ""
-"Successfully removed the certificate.Successfully removed the certificate."
 msgid "Successfully removed the certificate."
 msgstr "Certificaat met succes verwijderd."
 
-msgctxt ""
-"Successfully saved Certificate to %sSuccessfully saved Certificate to %s"
 msgid "Successfully saved Certificate to %s"
 msgstr "Certificaat succesvol opgeslagen in %s"
 
-msgctxt "Sync filesSync files"
 msgid "Sync files"
 msgstr "Bestanden synchroniseren"
 
-msgctxt "System DiagnosticSystem Diagnostic"
 msgid "System Diagnostic"
 msgstr "Systeemdiagnostiek"
 
-msgctxt "System tasksSystem tasks"
 msgid "System tasks"
 msgstr "Systeemtaken"
 
-msgctxt ""
-"System was unable to validate any Bearer Token Auth call.System was unable "
-"to validate any Bearer Token Auth call."
 msgid "System was unable to validate any Bearer Token Auth call."
 msgstr "Het systeem kon geen Bearer Token Auth-oproep valideren."
 
-msgctxt ""
-"System was unable to validate any HTTP Basic Auth call.System was unable to "
-"validate any HTTP Basic Auth call."
 msgid "System was unable to validate any HTTP Basic Auth call."
 msgstr "Het systeem kon geen HTTP Basic Auth-oproep valideren."
 
-msgctxt ""
-"Temp (var/tmp, application sources & apk)Temp (var/tmp, application sources "
-"& apk)"
 msgid "Temp (var/tmp, application sources & apk)"
 msgstr "Temp (var / tmp, toepassingsbronnen en apk)"
 
-msgctxt "TemplatesTemplates"
 msgid "Templates"
 msgstr "Sjablonen"
 
-msgctxt "Test SSL/HTTPSTest SSL/HTTPS"
 msgid "Test SSL/HTTPS"
 msgstr "Test SSL / HTTPS"
 
-msgctxt "Testing: %sTesting: %s"
 msgid "Testing: %s"
 msgstr "Testen: %s"
 
-msgctxt ""
-"The PHP executable guessed path <b>'%s'</b> may be incorrect, please double "
-"check for it.The PHP executable guessed path <b>'%s'</b> may be incorrect, "
-"please double check for it."
 msgid ""
 "The PHP executable guessed path <b>'%s'</b> may be incorrect, please double "
 "check for it."
@@ -1344,51 +942,26 @@ msgstr ""
 "Het PHP-uitvoerbare geraden pad <b>'%s'</b> is mogelijk onjuist, controleer "
 "dit alstublieft."
 
-msgctxt ""
-"The default setting to run your production server.The default setting to "
-"run your production server."
 msgid "The default setting to run your production server."
 msgstr "De standaardinstelling voor het uitvoeren van uw productieserver."
 
-msgctxt ""
-"The domain %s doesn't belong to you, or is not configured on your server."
-"The domain %s doesn't belong to you, or is not configured on your server."
 msgid ""
 "The domain %s doesn't belong to you, or is not configured on your server."
 msgstr "Het domein % s hoort niet bij u of is niet geconfigureerd op uw server."
 
-msgctxt ""
-"The given CA certificate doesn't match the hostname.The given CA "
-"certificate doesn't match the hostname."
 msgid "The given CA certificate doesn't match the hostname."
 msgstr "Het gegeven CA-certificaat komt niet overeen met de hostnaam."
 
-msgctxt ""
-"The given certificate doesn't match the hostname.The given certificate "
-"doesn't match the hostname."
 msgid "The given certificate doesn't match the hostname."
 msgstr "Het opgegeven certificaat komt niet overeen met de hostnaam."
 
-msgctxt ""
-"The given certificate doesn't match the hostname or wiSibldcard.The given "
-"certificate doesn't match the hostname or wiSibldcard."
 msgid "The given certificate doesn't match the hostname or wiSibldcard."
 msgstr ""
 "Het opgegeven certificaat komt niet overeen met de hostnaam of wiSibldcard."
 
-msgctxt ""
-"This account can't be deleted, it's the only oneThis account can't be "
-"deleted, it's the only one"
 msgid "This account can't be deleted, it's the only one"
 msgstr "Dit account kan niet worden verwijderd, het is de enige"
 
-msgctxt ""
-"This action mainly serves as a development & support purpose<br />This will "
-"restore App sources 'iOS', 'Android', 'HTML5' & 'Overview' from the latest "
-"Siberian version, then rebuild the manifest to restore installed modules."
-"This action mainly serves as a development & support purpose<br />This will "
-"restore App sources 'iOS', 'Android', 'HTML5' & 'Overview' from the latest "
-"Siberian version, then rebuild the manifest to restore installed modules."
 msgid ""
 "This action mainly serves as a development & support purpose<br />This will "
 "restore App sources 'iOS', 'Android', 'HTML5' & 'Overview' from the latest "
@@ -1399,10 +972,6 @@ msgstr ""
 "de meest recente versie van de iberian, dan is het herstel van het manifest "
 "te herstellen geïnstalleerd modules."
 
-msgctxt ""
-"This e-mail address must be reachable, as you will receive important e-mails "
-"from the system & user actions.This e-mail address must be reachable, as "
-"you will receive important e-mails from the system & user actions."
 msgid ""
 "This e-mail address must be reachable, as you will receive important e-mails "
 "from the system & user actions."
@@ -1410,10 +979,6 @@ msgstr ""
 "Dit e-mailadres moet bereikbaar zijn, als je belangrijke e-mails van het "
 "systeem & gebruiker acties ontvangt."
 
-msgctxt ""
-"This message will be displayed as a waiting message when your users chose an "
-"offline payment methodThis message will be displayed as a waiting message "
-"when your users chose an offline payment method"
 msgid ""
 "This message will be displayed as a waiting message when your users chose an "
 "offline payment method"
@@ -1421,10 +986,6 @@ msgstr ""
 "Dit bericht wordt weergegeven als een wachtend bericht wanneer uw gebruikers "
 "een offline betaalmethode hebben gekozen"
 
-msgctxt ""
-"This message will be displayed as an information message to describe which "
-"offline payment method you offerThis message will be displayed as an "
-"information message to describe which offline payment method you offer"
 msgid ""
 "This message will be displayed as an information message to describe which "
 "offline payment method you offer"
@@ -1432,11 +993,6 @@ msgstr ""
 "Dit bericht wordt weergegeven als een informatiebericht om te beschrijven "
 "welke offline betalingsmethode u aanbiedt"
 
-msgctxt ""
-"This test is for development & support usage, this only highlights potential "
-"missing and/or modified files, results need to be interpreted.This test is "
-"for development & support usage, this only highlights potential missing and/"
-"or modified files, results need to be interpreted."
 msgid ""
 "This test is for development & support usage, this only highlights potential "
 "missing and/or modified files, results need to be interpreted."
@@ -1445,38 +1001,27 @@ msgstr ""
 "markeert alleen mogelijke ontbrekende en / of gewijzigde bestanden, "
 "resultaten moeten worden geïnterpreteerd."
 
-msgctxt "ToolsTools"
 msgid "Tools"
 msgstr "Hulpmiddelen"
 
-msgctxt "Total salesTotal sales"
 msgid "Total sales"
 msgstr "Totale verkopen"
 
-msgctxt "Total usage:Total usage:"
 msgid "Total usage:"
 msgstr "Totaal verbruik:"
 
-msgctxt "Tour settingsTour settings"
 msgid "Tour settings"
 msgstr "Tour instellingen"
 
-msgctxt "Tour statusTour status"
 msgid "Tour status"
 msgstr "Tour-status"
 
-msgctxt "Tour status successfully saved.Tour status successfully saved."
 msgid "Tour status successfully saved."
 msgstr "Tour-status opgeslagen."
 
-msgctxt "UIDUID"
 msgid "UID"
 msgstr "UID"
 
-msgctxt ""
-"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
-"your are not in `Staging`Unable to connect in HTTPS or to validate the SSL "
-"Certificate.<br />Check if your are not in `Staging`"
 msgid ""
 "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
 "your are not in `Staging`"
@@ -1484,101 +1029,69 @@ msgstr ""
 "Kan geen verbinding maken via HTTPS of het SSL-certificaat valideren. <br /> "
 "Controleer of je niet in `Staging` bent"
 
-msgctxt "UnknownUnknown"
 msgid "Unknown"
 msgstr "Onbekend"
 
-msgctxt "Unknown - Self-managedUnknown - Self-managed"
 msgid "Unknown - Self-managed"
 msgstr "Onbekend - Zelfbeheerd"
 
-msgctxt "UpdateUpdate"
 msgid "Update"
 msgstr "Update"
 
-msgctxt "Update channelUpdate channel"
 msgid "Update channel"
 msgstr "Update kanaal"
 
-msgctxt "Updated AtUpdated At"
 msgid "Updated At"
 msgstr "Bijgewerkt Op"
 
-msgctxt "UploadUpload"
 msgid "Upload"
 msgstr "Upload"
 
-msgctxt ""
-"Upload files or use existing certificates on my serverUpload files or use "
-"existing certificates on my server"
 msgid "Upload files or use existing certificates on my server"
 msgstr "Upload bestanden of gebruik bestaande certificaten op mijn server"
 
-msgctxt "Upload my certificatesUpload my certificates"
 msgid "Upload my certificates"
 msgstr "Het uploaden van mijn certificaten"
 
-msgctxt "Upload your own certificatesUpload your own certificates"
 msgid "Upload your own certificates"
 msgstr "Upload uw eigen certificaten"
 
-msgctxt "Use HTTPSUse HTTPS"
 msgid "Use HTTPS"
 msgstr "Gebruik HTTPS"
 
-msgctxt ""
-"Use existing certificates on my serverUse existing certificates on my server"
 msgid "Use existing certificates on my server"
 msgstr "Gebruik bestaande certificaten op mijn server"
 
-msgctxt "User successfully deletedUser successfully deleted"
 msgid "User successfully deleted"
 msgstr "Gebruiker succesvol verwijderd"
 
-msgctxt "UsernameUsername"
 msgid "Username"
 msgstr "Gebruikersnaam"
 
-msgctxt "User's status successfully editedUser's status successfully edited"
 msgid "User's status successfully edited"
 msgstr "Status van de gebruiker met succes bewerkt"
 
-msgctxt "VAT check optionsVAT check options"
 msgid "VAT check options"
 msgstr "Opties voor btw-controle"
 
-msgctxt "ValidationValidation"
 msgid "Validation"
 msgstr "Bevestiging"
 
-msgctxt "VestaCPVestaCP"
 msgid "VestaCP"
 msgstr "VestaCP"
 
-msgctxt "VestaCP (php 5.6+ only)VestaCP (php 5.6+ only)"
 msgid "VestaCP (php 5.6+ only)"
 msgstr "VestaCP (alleen php 5.6+)"
 
-msgctxt "View DetailsView Details"
 msgid "View Details"
 msgstr "Bekijk details"
 
-msgctxt "WHM cPanelWHM cPanel"
 msgid "WHM cPanel"
 msgstr "WHM cPanel"
 
-msgctxt ""
-"Waiting for %s to reload, this can take a while...Waiting for %s to reload, "
-"this can take a while..."
 msgid "Waiting for %s to reload, this can take a while..."
 msgstr "Wacht tot %s opnieuw is geladen, dit kan even duren ..."
 
-msgctxt ""
-"We recommned using <b>preview</b> on a testing or development server, we "
-"won't provide regular ticket support for these update channels, only bug "
-"reports via the form below.We recommned using <b>preview</b> on a testing "
-"or development server, we won't provide regular ticket support for these "
-"update channels, only bug reports via the form below."
 msgid ""
 "We recommned using <b>preview</b> on a testing or development server, we "
 "won't provide regular ticket support for these update channels, only bug "
@@ -1589,44 +1102,30 @@ msgstr ""
 "voor deze updatekanalen, alleen foutenrapporten via het onderstaande "
 "formulier."
 
-msgctxt "Web spaceWeb space"
 msgid "Web space"
 msgstr "Webruimte"
 
-msgctxt "White LabelWhite Label"
 msgid "White Label"
 msgstr "White Label"
 
-msgctxt "WhitelabelWhitelabel"
 msgid "Whitelabel"
 msgstr "Wit label"
 
-msgctxt ""
-"Whitelabel hostnames associated with this CertificateWhitelabel hostnames "
-"associated with this Certificate"
 msgid "Whitelabel hostnames associated with this Certificate"
 msgstr "Whitelabel hostnamen in verband met dit Certificaat"
 
-msgctxt "Whitelabel requestWhitelabel request"
 msgid "Whitelabel request"
 msgstr "Whitelabel aanvraag"
 
-msgctxt "WhitelabelsWhitelabels"
 msgid "Whitelabels"
 msgstr "Whitelabels"
 
-msgctxt "YesYes"
 msgid "Yes"
 msgstr "Ja"
 
-msgctxt "Yes, install the update.Yes, install the update."
 msgid "Yes, install the update."
 msgstr "Ja, update te installeren."
 
-msgctxt ""
-"You are about to clean all the cron lock files !\n"
-"Are you sure ?You are about to clean all the cron lock files !\n"
-"Are you sure ?"
 msgid ""
 "You are about to clean all the cron lock files !\n"
 "Are you sure ?"
@@ -1634,10 +1133,6 @@ msgstr ""
 "U staat op het punt om alle cron lock bestand op te schonen!\n"
 "Weet je het zeker?"
 
-msgctxt ""
-"You are about to clean all your log files !\n"
-"Are you sure ?You are about to clean all your log files !\n"
-"Are you sure ?"
 msgid ""
 "You are about to clean all your log files !\n"
 "Are you sure ?"
@@ -1645,18 +1140,9 @@ msgstr ""
 "U staat op het punt om al uw logbestanden te verwijderen! \n"
 "Weet je het zeker?"
 
-msgctxt ""
-"You are about to delete this certificate, Are you sure ?You are about to "
-"delete this certificate, Are you sure ?"
 msgid "You are about to delete this certificate, Are you sure ?"
 msgstr "U staat op het punt dit certificaat te verwijderen. Weet u het zeker?"
 
-msgctxt ""
-"You are about to wipe all your temporary files, this includes the generated "
-"sources & apk builds !\n"
-"Are you sure ?You are about to wipe all your temporary files, this includes "
-"the generated sources & apk builds !\n"
-"Are you sure ?"
 msgid ""
 "You are about to wipe all your temporary files, this includes the generated "
 "sources & apk builds !\n"
@@ -1666,21 +1152,11 @@ msgstr ""
 "gegenereerde bronnen en apk-builds!\n"
 "Weet je het zeker ?"
 
-msgctxt ""
-"You can use <b>%s</b> as a dynamic variable for your application name.You "
-"can use <b>%s</b> as a dynamic variable for your application name."
 msgid "You can use <b>%s</b> as a dynamic variable for your application name."
 msgstr ""
 "U kunt <b>%s gebruiken</b> als een dynamische variabele voor uw "
 "toepassingsnaam."
 
-msgctxt ""
-"You have a Source generation stuck for more than 1 hour, please check in <b>"
-"Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further "
-"builds you can remove locks from the button below.You have a Source "
-"generation stuck for more than 1 hour, please check in <b>Settings > "
-"Advanced > Cron</b> for the stuck build.<br />To unlock further builds you "
-"can remove locks from the button below."
 msgid ""
 "You have a Source generation stuck for more than 1 hour, please check in <b>"
 "Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further "
@@ -1690,13 +1166,6 @@ msgstr ""
 "Geavanceerd > Cron</b> voor een vast gelopen APK.<br />om verder te bouwen "
 "kunt u sloten verwijderen met de knop hieronder."
 
-msgctxt ""
-"You have an APK generation stuck for more than 1 hour, please check in <b>"
-"Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further "
-"builds you can remove locks from the button below.You have an APK "
-"generation stuck for more than 1 hour, please check in <b>Settings > "
-"Advanced > Cron</b> for the stuck build.<br />To unlock further builds you "
-"can remove locks from the button below."
 msgid ""
 "You have an APK generation stuck for more than 1 hour, please check in <b>"
 "Settings > Advanced > Cron</b> for the stuck build.<br />To unlock further "
@@ -1706,27 +1175,17 @@ msgstr ""
 "Geavanceerd > Cron</b> voor een vast gelopen APK.<br />om verder te bouwen "
 "kunt u sloten verwijderen met de knop hieronder."
 
-msgctxt "You have no certificate yet.You have no certificate yet."
 msgid "You have no certificate yet."
 msgstr "Je hebt nog geen certificaat."
 
-msgctxt "You have no new messages.You have no new messages."
 msgid "You have no new messages."
 msgstr "Je hebt geen nieuwe berichten."
 
-msgctxt ""
-"You must select an Admin panel type before requesting a Certificate.You "
-"must select an Admin panel type before requesting a Certificate."
 msgid "You must select an Admin panel type before requesting a Certificate."
 msgstr ""
 "U moet een beheerdersdashboard selecteren voordat u een certificaat "
 "aanvraagt."
 
-msgctxt ""
-"Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't "
-"forget to renew it on the following page <a href=\"%s\">configuration</a>."
-"Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't "
-"forget to renew it on the following page <a href=\"%s\">configuration</a>."
 msgid ""
 "Your HTTPS/SSL Certificate is about to expire in <b>%s day%s</b>, don't "
 "forget to renew it on the following page <a href=\"%s\">configuration</a>."
@@ -1735,39 +1194,24 @@ msgstr ""
 ",vergeet niet om het te verlengen op de volgende pagina- <a href=\"%s\""
 ">instellingen</a> ."
 
-msgctxt "Your certificate is invalidYour certificate is invalid"
 msgid "Your certificate is invalid"
 msgstr "Uw certificaat is ongeldig"
 
-msgctxt "Your certificate is valid until:Your certificate is valid until:"
 msgid "Your certificate is valid until:"
 msgstr "Uw certificaat is geldig tot:"
 
-msgctxt "Your certificates are saved.Your certificates are saved."
 msgid "Your certificates are saved."
 msgstr "Uw certificaten worden opgeslagen."
 
-msgctxt "Your new passwordYour new password"
 msgid "Your new password"
 msgstr "Uw nieuwe wachtwoord"
 
-msgctxt "Your passwordYour password"
 msgid "Your password"
 msgstr "Uw wachtwoord"
 
-msgctxt ""
-"<b>Actual preview version is Siberian 5.0</b>.<b>Actual preview version is "
-"Siberian 5.0</b>."
 msgid "<b>Actual preview version is Siberian 5.0</b>."
 msgstr "<b>de Actuele preview-versie is Siberian 5.0</b>."
 
-msgctxt ""
-"<b>Disclaimer:</b> You are using the <b>preview</b> update channel, this "
-"channel is intended for <b>tests & previews</b> of new features, if you are "
-"not sure stay with <b>stable channel</b>.<b>Disclaimer:</b> You are using "
-"the <b>preview</b> update channel, this channel is intended for <b>tests & "
-"previews</b> of new features, if you are not sure stay with <b>stable "
-"channel</b>."
 msgid ""
 "<b>Disclaimer:</b> You are using the <b>preview</b> update channel, this "
 "channel is intended for <b>tests & previews</b> of new features, if you are "
@@ -1777,11 +1221,6 @@ msgstr ""
 "is bedoeld voor  <b> tests en voorbeelden </ b> van nieuwe functies, als u "
 "niet zeker weet of u op een <b> stabiel kanaal blijft  </ b>."
 
-msgctxt ""
-"<b>Note for Bug report:</b> give us a maximum of description of how you "
-"reached the bug, and possibly screenshots.<b>Note for Bug report:</b> give "
-"us a maximum of description of how you reached the bug, and possibly "
-"screenshots."
 msgid ""
 "<b>Note for Bug report:</b> give us a maximum of description of how you "
 "reached the bug, and possibly screenshots."
@@ -1789,11 +1228,6 @@ msgstr ""
 "<b>Opmerking voor</b> bugrapport: geef ons een maximum aan beschrijving van "
 "hoe u de bug hebt bereikt en mogelijk schermafbeeldingen."
 
-msgctxt ""
-"<b>Note</b>: sources & push will be sent immediately after their creation, "
-"scheduled push will not work & media optimization is disabled.<b>Note</b>: "
-"sources & push will be sent immediately after their creation, scheduled push "
-"will not work & media optimization is disabled."
 msgid ""
 "<b>Note</b>: sources & push will be sent immediately after their creation, "
 "scheduled push will not work & media optimization is disabled."
@@ -1801,38 +1235,27 @@ msgstr ""
 "<b> Opmerking </ b>: bronnen & push zullen onmiddellijk worden verstuurd, "
 "geplande push zal niet werken & media optimalisatie is uitgeschakeld."
 
-msgctxt "customercustomer"
 msgid "customer"
 msgstr "klant"
 
-msgctxt "%d Unread Message%d Unread Message"
 msgid "%d Unread Message"
 msgstr "%d ongelezen berichten"
 
-msgctxt "%d Unread Messages%d Unread Messages"
 msgid "%d Unread Messages"
 msgstr "%d ongelezen berichten"
 
-msgctxt "for the bundle id:for the bundle id:"
 msgid "for the bundle id:"
 msgstr "voor de bundel id:"
 
-msgctxt "letsencryptletsencrypt"
 msgid "letsencrypt"
 msgstr "letsencrypt"
 
-msgctxt "per pageper page"
 msgid "per page"
 msgstr "per pagina"
 
-msgctxt ""
-"see Settings > Advanced > Configuration > Cron to edit options.see Settings "
-"> Advanced > Configuration > Cron to edit options."
 msgid "see Settings > Advanced > Configuration > Cron to edit options."
 msgstr ""
 "zie Instellingen> Geavanceerd> Configuratie> Om cron opties te bewerken."
 
-msgctxt ""
-"values are refreshed once a day only!values are refreshed once a day only!"
 msgid "values are refreshed once a day only!"
 msgstr "waarden worden vernieuwd eens per dag!"

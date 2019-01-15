@@ -14,172 +14,121 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your discount. Please fill in all fieldsAn "
-"error occurred while saving your discount. Please fill in all fields"
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr ""
 "Si è verificato un errore durante il salvataggio dello sconto. Si prega di "
 "compilare tutti i campi"
 
-msgctxt ""
-"Are you sure you want to use this discount?Are you sure you want to use "
-"this discount?"
 msgid "Are you sure you want to use this discount?"
 msgstr "Sei sicuro di voler utilizzare questo sconto?"
 
-msgctxt "Closed discountsClosed discounts"
 msgid "Closed discounts"
 msgstr "Sconti chiusi"
 
-msgctxt "ConditionsConditions"
 msgid "Conditions"
 msgstr "Condizioni"
 
-msgctxt "Create a new DiscountCreate a new Discount"
 msgid "Create a new Discount"
 msgstr "Creare nuovo sconto"
 
-msgctxt "Create a new discountCreate a new discount"
 msgid "Create a new discount"
 msgstr "Creare nuovo sconto"
 
-msgctxt "Delete this discount?Delete this discount?"
 msgid "Delete this discount?"
 msgstr "Eliminare questo sconto?"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Descrizione"
 
-msgctxt "DesignDesign"
 msgid "Design"
 msgstr "Design"
 
-msgctxt "DetailsDetails"
 msgid "Details"
 msgstr "Dettagli"
 
-msgctxt "DiscountDiscount"
 msgid "Discount"
 msgstr "Coupon"
 
-msgctxt "Discount successfully deletedDiscount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "Sconto eliminato correttamente"
 
-msgctxt "Discount successfully savedDiscount successfully saved"
 msgid "Discount successfully saved"
 msgstr "Sconto salvato correttamente"
 
-msgctxt "Do you want to use this coupon?Do you want to use this coupon?"
 msgid "Do you want to use this coupon?"
 msgstr "Vuoi usare questo coupon?"
 
-msgctxt "End atEnd at"
 msgid "End at"
 msgstr "finito a"
 
-msgctxt "Generate QRCodeGenerate QRCode"
 msgid "Generate QRCode"
 msgstr "Genera qr code"
 
-msgctxt "Is unique?Is unique?"
 msgid "Is unique?"
 msgstr ""
 
-msgctxt "Manage contentManage content"
 msgid "Manage content"
 msgstr "Gestisci azienda"
 
-msgctxt "NoNo"
 msgid "No"
 msgstr "No"
 
-msgctxt "OnOn"
 msgid "On"
 msgstr "Accendi"
 
-msgctxt "PicturePicture"
 msgid "Picture"
 msgstr "Immagine"
 
-msgctxt ""
-"Please select an end date greater than the current date.Please select an "
-"end date greater than the current date."
 msgid "Please select an end date greater than the current date."
 msgstr "Seleziona una data posteriore a quella di oggi"
 
-msgctxt "QR CouponQR Coupon"
 msgid "QR Coupon"
 msgstr ""
 
-msgctxt "Search ...Search ..."
 msgid "Search ..."
 msgstr "Cerca..."
 
-msgctxt "This discount is now usedThis discount is now used"
 msgid "This discount is now used"
 msgstr "Questo sconto è ora utilizzato"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "TitleTitle"
 msgid "Title"
 msgstr "Titolo"
 
-msgctxt "UnlimitedUnlimited"
 msgid "Unlimited"
 msgstr ""
 
-msgctxt "Use only once?Use only once?"
 msgid "Use only once?"
 msgstr "Utilizzare solo una volta?"
 
-msgctxt "Valid UntilValid Until"
 msgid "Valid Until"
 msgstr "Valido fino al"
 
-msgctxt "YesYes"
 msgid "Yes"
 msgstr "Si"
 
-msgctxt "You have already use this codeYou have already use this code"
 msgid "You have already use this code"
 msgstr "Hai già usato questo sconto"
 
-msgctxt "You have already use this discountYou have already use this discount"
 msgid "You have already use this discount"
 msgstr "Hai già usato questo sconto"
 
-msgctxt ""
-"You must be logged in to use a discountYou must be logged in to use a "
-"discount"
 msgid "You must be logged in to use a discount"
 msgstr "Devi essere registrato per usare uno sconto"
 
-msgctxt ""
-"(You'll be able to remove this promotion later)(You'll be able to remove "
-"this promotion later)"
 msgid "(You'll be able to remove this promotion later)"
 msgstr "sarete in grado di rimuovere questa promozione più tardi"
 
-msgctxt "Your QRCodeYour QRCode"
 msgid "Your QRCode"
 msgstr ""
 
-msgctxt "or unlimitedor unlimited"
 msgid "or unlimited"
 msgstr ""
 
-msgctxt "use only onceuse only once"
 msgid "use only once"
 msgstr "usa solo una volta"
 
-msgctxt ""
-"you'll be able to remove this promotion lateryou'll be able to remove this "
-"promotion later"
 msgid "you'll be able to remove this promotion later"
 msgstr "sarete in grado di rimuovere questa promozione più tardi"

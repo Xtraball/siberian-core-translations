@@ -14,178 +14,124 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a commentAdd a comment"
 msgid "Add a comment"
 msgstr "Aggiungi un commento"
 
-msgctxt ""
-"An error occurred while deleting this answer. Please try again later.An "
-"error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr ""
 "Si è verificato un errore durante l'eliminazione della richiesta. Si prega "
 "di riprovare più tardi."
 
-msgctxt "COMMENTSCOMMENTS"
 msgid "COMMENTS"
 msgstr ""
 
-msgctxt "Create a newsCreate a news"
 msgid "Create a news"
 msgstr "Crea una news"
 
-msgctxt "Delete this infoDelete this info"
 msgid "Delete this info"
 msgstr "Eliminare questo evento?"
 
-msgctxt "FlagFlag"
 msgid "Flag"
 msgstr ""
 
-msgctxt "Flag as inappropriateFlag as inappropriate"
 msgid "Flag as inappropriate"
 msgstr "È stato segnalato come inappropriato"
 
-msgctxt "Hide this infoHide this info"
 msgid "Hide this info"
 msgstr "Nascondi questa info"
 
-msgctxt "Information successfully deletedInformation successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Informazione cancellata correttamente"
 
-msgctxt "Information successfully hiddenInformation successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Informazion nascosta correttamente"
 
-msgctxt "Information successfully savedInformation successfully saved"
 msgid "Information successfully saved"
 msgstr "Informazione salvata correttamente"
 
-msgctxt "Information successfully shownInformation successfully shown"
 msgid "Information successfully shown"
 msgstr "Informazione mostrata con successo"
 
-msgctxt "Insert aInsert a"
 msgid "Insert a"
 msgstr "Inserisci un"
 
-msgctxt ""
-"It will be visible only after validation by our team.It will be visible "
-"only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Sarà visibile solo dopo la validazione da parte del nostro team."
 
-msgctxt "My customers answersMy customers answers"
 msgid "My customers answers"
 msgstr "Le domande dei miei clienti"
 
-msgctxt "My customers' commentsMy customers' comments"
 msgid "My customers' comments"
 msgstr "I commenti dei miei clienti"
 
-msgctxt "Near meNear me"
 msgid "Near me"
 msgstr "Vicino a me"
 
-msgctxt "'Near me' radius (in km):'Near me' radius (in km):"
 msgid "'Near me' radius (in km):"
 msgstr "'Vicino a me' raggio (in km):"
 
-msgctxt "Near me settingsNear me settings"
 msgid "Near me settings"
 msgstr "Vicino a me impostazioni"
 
-msgctxt "New postNew post"
 msgid "New post"
 msgstr "Nuovo post"
 
-msgctxt "No comment for nowNo comment for now"
 msgid "No comment for now"
 msgstr "Nessun commento per ora."
 
-msgctxt "No comments for nowNo comments for now"
 msgid "No comments for now"
 msgstr "Nessun commento per ora."
 
-msgctxt "PostPost"
 msgid "Post"
 msgstr "Post"
 
-msgctxt "Publishing datePublishing date"
 msgid "Publishing date"
 msgstr "Data di pubblicazione"
 
-msgctxt "RadiusRadius"
 msgid "Radius"
 msgstr "Raggio"
 
-msgctxt ""
-"Radius must be a valid numeric value.Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Il raggio deve essere un valore numerico valido."
 
-msgctxt "Radius must be provided.Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Il raggio deve essere indicato."
 
-msgctxt "Read MoreRead More"
 msgid "Read More"
 msgstr "Leggi tutto"
 
-msgctxt "RecentRecent"
 msgid "Recent"
 msgstr "Recente"
 
-msgctxt "Show this infoShow this info"
 msgid "Show this info"
 msgstr "Mostra questa info"
 
-msgctxt "There is no comment for this newsThere is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Non c'è nessun commento per questa news"
 
-msgctxt "Was flagged as inappropriateWas flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "È stato segnalato come inappropriato"
 
-msgctxt ""
-"You can't like more than once the same newsYou can't like more than once "
-"the same news"
 msgid "You can't like more than once the same news"
 msgstr "Non puoi avere ulteriori informazioni sulla stessa news"
 
-msgctxt "You have to enter a text message.You have to enter a text message."
 msgid "You have to enter a text message."
 msgstr "Devi inserire un messaggio."
 
-msgctxt ""
-"You need to be connected to create a postYou need to be connected to create "
-"a post"
 msgid "You need to be connected to create a post"
 msgstr "È necessario essere connessi per creare un post"
 
-msgctxt ""
-"Your flag has successfully been notifiedYour flag has successfully been "
-"notified"
 msgid "Your flag has successfully been notified"
 msgstr "Il flag è stato notificato correttamente"
 
-msgctxt ""
-"Your like has been successfully addedYour like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Il like è stato aggiunto con successo"
 
-msgctxt ""
-"Your message has been successfully saved.Your message has been successfully "
-"saved."
 msgid "Your message has been successfully saved."
 msgstr "Il messaggio è stato salvato correttamente."
 
-msgctxt "Your post was successfully addedYour post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Il post è stato aggiunto correttamente"
 
-msgctxt "enen"
 msgid "en"
 msgstr "it"

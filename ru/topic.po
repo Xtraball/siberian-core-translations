@@ -15,43 +15,30 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"Are you sure you want to close without saving?Are you sure you want to "
-"close without saving?"
 msgid "Are you sure you want to close without saving?"
 msgstr "Вы уверены, что хотите закрыть без сохранения"
 
-msgctxt ""
-"Are you sure you want to delete this category and all its subcategories?Are "
-"you sure you want to delete this category and all its subcategories?"
 msgid ""
 "Are you sure you want to delete this category and all its subcategories?"
 msgstr "Вы уверены, что хотите удалить эту категорию и все его подкатегории?"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Описание"
 
-msgctxt "Description successfully saved.Description successfully saved."
 msgid "Description successfully saved."
 msgstr "Подписка успешно сохранена"
 
-msgctxt "Manage TopicsManage Topics"
 msgid "Manage Topics"
 msgstr ""
 
-msgctxt "No topics for now.No topics for now."
 msgid "No topics for now."
 msgstr ""
 
-msgctxt "Page descriptionPage description"
 msgid "Page description"
 msgstr "Описание"
 
-msgctxt "SaveSave"
 msgid "Save"
 msgstr "Сохранить"
 
-msgctxt "SubscribeSubscribe"
 msgid "Subscribe"
 msgstr ""

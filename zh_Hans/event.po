@@ -14,166 +14,119 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a WebsiteAdd a Website"
 msgid "Add a Website"
 msgstr ""
 
-msgctxt "Address:Address:"
 msgid "Address:"
 msgstr "街道地址："
 
-msgctxt ""
-"An error occurred while deleting the eventAn error occurred while deleting "
-"the event"
 msgid "An error occurred while deleting the event"
 msgstr "有一个错误删除的事件"
 
-msgctxt ""
-"An error occurred while loading this eventAn error occurred while loading "
-"this event"
 msgid "An error occurred while loading this event"
 msgstr "发生错误加载此事件"
 
-msgctxt "Beginning date:Beginning date:"
 msgid "Beginning date:"
 msgstr "开始日期："
 
-msgctxt "Beginning time:Beginning time:"
 msgid "Beginning time:"
 msgstr "开始日期："
 
-msgctxt "Buy TicketsBuy Tickets"
 msgid "Buy Tickets"
 msgstr ""
 
-msgctxt "Buy ticketsBuy tickets"
 msgid "Buy tickets"
 msgstr ""
 
-msgctxt "Calendar successfully deletedCalendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "日历成功删除"
 
-msgctxt "Calendar's URLCalendar's URL"
 msgid "Calendar's URL"
 msgstr "URL日历"
 
-msgctxt "Calendar's titleCalendar's title"
 msgid "Calendar's title"
 msgstr "日历称号"
 
-msgctxt "Change pictureChange picture"
 msgid "Change picture"
 msgstr "改变形象"
 
-msgctxt "Create a new eventCreate a new event"
 msgid "Create a new event"
 msgstr "创建一个新用户"
 
-msgctxt "Custom CalendarCustom Calendar"
 msgid "Custom Calendar"
 msgstr ""
 
-msgctxt "Custom PageCustom Page"
 msgid "Custom Page"
 msgstr "自定义页面"
 
-msgctxt "Delete this calendar?Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "删除此日历？"
 
-msgctxt "Delete this event?Delete this event?"
 msgid "Delete this event?"
 msgstr "删除这个活动？"
 
-msgctxt "Ending date:Ending date:"
 msgid "Ending date:"
 msgstr "竣工日期："
 
-msgctxt "Enter your calendar's titleEnter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "输入日历的标题"
 
-msgctxt "Entrance:Entrance:"
 msgid "Entrance:"
 msgstr ""
 
-msgctxt "Entrance: %sEntrance: %s"
 msgid "Entrance: %s"
 msgstr ""
 
-msgctxt "EventEvent"
 msgid "Event"
 msgstr "事件"
 
-msgctxt "Event successfully deletedEvent successfully deleted"
 msgid "Event successfully deleted"
 msgstr "事件成功删除"
 
-msgctxt "Event successfully savedEvent successfully saved"
 msgid "Event successfully saved"
 msgstr "事件保存成功"
 
-msgctxt "Event title:Event title:"
 msgid "Event title:"
 msgstr "事件的标题："
 
-msgctxt "Illustration:Illustration:"
 msgid "Illustration:"
 msgstr ""
 
-msgctxt "Location:Location:"
 msgid "Location:"
 msgstr ""
 
-msgctxt ""
-"Max size: 2000x2000px - allowed formats: jpg & pngMax size: 2000x2000px - "
-"allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "最大尺寸： 2000x2000px - 允许格式： JPG和PNG"
 
-msgctxt "Modify the eventModify the event"
 msgid "Modify the event"
 msgstr "修改事件"
 
-msgctxt "RSVPRSVP"
 msgid "RSVP"
 msgstr "RSVP /请回复"
 
-msgctxt "RSVP URL:RSVP URL:"
 msgid "RSVP URL:"
 msgstr "RSVP网址："
 
-msgctxt "Subtitle:Subtitle:"
 msgid "Subtitle:"
 msgstr ""
 
-msgctxt "Ticket Shop URL:Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr ""
 
-msgctxt "To:To:"
 msgid "To:"
 msgstr ""
 
-msgctxt "Your Facebook page IDYour Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "你的Facebook页面的ID"
 
-msgctxt ""
-"Your Facebook page ID <span class='' required-entry''>*</span> :Your "
-"Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr ""
 
-msgctxt "Your calendar is emptyYour calendar is empty"
 msgid "Your calendar is empty"
 msgstr "您的日历是空的"
 
-msgctxt "iCaliCal"
 msgid "iCal"
 msgstr "iCal中"
 
-msgctxt "toto"
 msgid "to"
 msgstr ""

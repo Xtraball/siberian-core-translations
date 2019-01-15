@@ -14,79 +14,53 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your contact informations.An error occurred "
-"while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr ""
 "Une erreur est survenue lors de la sauvegarde de vos données de contact."
 
-msgctxt ""
-"An error occurred while sending your request. Please try again later.An "
-"error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr ""
 "Une erreur est survenue lors de l'envoi de votre demande. Merci de réessayer "
 "ultérieurement."
 
-msgctxt "And his phone number:And his phone number:"
 msgid "And his phone number:"
 msgstr "Et son numéro de téléphone :"
 
-msgctxt ""
-"Are you sure you want to remove the picture?Are you sure you want to remove "
-"the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "tes-vous sûr de vouloir supprimer l'image ?"
 
-msgctxt "CityCity"
 msgid "City"
 msgstr "Ville"
 
-msgctxt "Contact informationContact information"
 msgid "Contact information"
 msgstr "Coordonnées"
 
-msgctxt "Here is his email:Here is his email:"
 msgid "Here is his email:"
 msgstr "Voici son email :"
 
-msgctxt "Here is his message:Here is his message:"
 msgid "Here is his message:"
 msgstr "Voici son message :"
 
-msgctxt ""
-"Please enter properly the following fields: <br />Please enter properly the "
-"following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Veuillez renseigner correctement les champs suivants : <br />"
 
-msgctxt "TwitterTwitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-msgctxt "WebsiteWebsite"
 msgid "Website"
 msgstr "Site web"
 
-msgctxt ""
-"You have received a message from a contact:You have received a message from "
-"a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Vous avez reçu un message d'un contact :"
 
-msgctxt "Your emailYour email"
 msgid "Your email"
 msgstr "Votre email"
 
-msgctxt "Your message has been sentYour message has been sent"
 msgid "Your message has been sent"
 msgstr "Votre message a été envoyé"
 
-msgctxt "Your requestYour request"
 msgid "Your request"
 msgstr "Votre demande"
 
-msgctxt "Zip codeZip code"
 msgid "Zip code"
 msgstr "Code postal"

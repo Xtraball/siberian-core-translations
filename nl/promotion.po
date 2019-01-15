@@ -14,171 +14,120 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your discount. Please fill in all fieldsAn "
-"error occurred while saving your discount. Please fill in all fields"
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr ""
 "Er is een fout opgetreden bij het opslaan van uw coupon. Vul alle velden i"
 
-msgctxt ""
-"Are you sure you want to use this discount?Are you sure you want to use "
-"this discount?"
 msgid "Are you sure you want to use this discount?"
 msgstr "Weet u zeker dat u deze korting wilt gebruiken?"
 
-msgctxt "Closed discountsClosed discounts"
 msgid "Closed discounts"
 msgstr "Afgeronde promoties"
 
-msgctxt "ConditionsConditions"
 msgid "Conditions"
 msgstr "Voorwaarden"
 
-msgctxt "Create a new DiscountCreate a new Discount"
 msgid "Create a new Discount"
 msgstr "Maak een nieuwe korting"
 
-msgctxt "Create a new discountCreate a new discount"
 msgid "Create a new discount"
 msgstr "Maak een nieuwe korting"
 
-msgctxt "Delete this discount?Delete this discount?"
 msgid "Delete this discount?"
 msgstr "Verwijder deze korting?"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Omschrijving"
 
-msgctxt "DesignDesign"
 msgid "Design"
 msgstr "Design"
 
-msgctxt "DetailsDetails"
 msgid "Details"
 msgstr "Details"
 
-msgctxt "DiscountDiscount"
 msgid "Discount"
 msgstr "Korting"
 
-msgctxt "Discount successfully deletedDiscount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "Korting succesvol verwijderd"
 
-msgctxt "Discount successfully savedDiscount successfully saved"
 msgid "Discount successfully saved"
 msgstr "Korting succesvol opgeslagen"
 
-msgctxt "Do you want to use this coupon?Do you want to use this coupon?"
 msgid "Do you want to use this coupon?"
 msgstr "Wil je deze kortingsbon gebruiken?"
 
-msgctxt "End atEnd at"
 msgid "End at"
 msgstr "Eindigt op"
 
-msgctxt "Generate QRCodeGenerate QRCode"
 msgid "Generate QRCode"
 msgstr "Genereer QRCode"
 
-msgctxt "Is unique?Is unique?"
 msgid "Is unique?"
 msgstr "Is uniek?"
 
-msgctxt "Manage contentManage content"
 msgid "Manage content"
 msgstr "Inhoud beheren"
 
-msgctxt "NoNo"
 msgid "No"
 msgstr "Nee"
 
-msgctxt "OnOn"
 msgid "On"
 msgstr "Aan"
 
-msgctxt "PicturePicture"
 msgid "Picture"
 msgstr "Afbeelding"
 
-msgctxt ""
-"Please select an end date greater than the current date.Please select an "
-"end date greater than the current date."
 msgid "Please select an end date greater than the current date."
 msgstr "Selecteer een einddatum groter is dan de huidige datum."
 
-msgctxt "QR CouponQR Coupon"
 msgid "QR Coupon"
 msgstr "QR coupon"
 
-msgctxt "Search ...Search ..."
 msgid "Search ..."
 msgstr "Zoeken ..."
 
-msgctxt "This discount is now usedThis discount is now used"
 msgid "This discount is now used"
 msgstr "Deze korting is nu gebruikt"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr "Miniatuur"
 
-msgctxt "TitleTitle"
 msgid "Title"
 msgstr "Titel"
 
-msgctxt "UnlimitedUnlimited"
 msgid "Unlimited"
 msgstr "Onbeperkt"
 
-msgctxt "Use only once?Use only once?"
 msgid "Use only once?"
 msgstr "Gebruik slechts één keer?"
 
-msgctxt "Valid UntilValid Until"
 msgid "Valid Until"
 msgstr "Geldig tot"
 
-msgctxt "YesYes"
 msgid "Yes"
 msgstr "Ja"
 
-msgctxt "You have already use this codeYou have already use this code"
 msgid "You have already use this code"
 msgstr "Je hebt al van deze code gebruik gemaakt"
 
-msgctxt "You have already use this discountYou have already use this discount"
 msgid "You have already use this discount"
 msgstr "Je hebt al van deze korting gebruik gemaakt"
 
-msgctxt ""
-"You must be logged in to use a discountYou must be logged in to use a "
-"discount"
 msgid "You must be logged in to use a discount"
 msgstr "Je moet ingelogd zijn om een korting te gebruiken"
 
-msgctxt ""
-"(You'll be able to remove this promotion later)(You'll be able to remove "
-"this promotion later)"
 msgid "(You'll be able to remove this promotion later)"
 msgstr "(Je kunt deze promotie later verwijderen)"
 
-msgctxt "Your QRCodeYour QRCode"
 msgid "Your QRCode"
 msgstr "Uw QRCode"
 
-msgctxt "or unlimitedor unlimited"
 msgid "or unlimited"
 msgstr "of onbeperkt"
 
-msgctxt "use only onceuse only once"
 msgid "use only once"
 msgstr "alleen eenmaal"
 
-msgctxt ""
-"you'll be able to remove this promotion lateryou'll be able to remove this "
-"promotion later"
 msgid "you'll be able to remove this promotion later"
 msgstr "je kunt deze promotie later verwijderen"

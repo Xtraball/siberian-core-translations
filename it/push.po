@@ -14,192 +14,132 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Additionnal InformationAdditionnal Information"
 msgid "Additionnal Information"
 msgstr "Informazioni aggiuntive"
 
-msgctxt ""
-"An error occurred while deleting the push. Please try again later.An error "
-"occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr ""
 "Si è verificato un errore durante l'eliminazione della push. Si prega di "
 "riprovare più tardi."
 
-msgctxt "And a radius (in Km):And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "E un raggio (in km):"
 
-msgctxt "AndroidAndroid"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Creation dateCreation date"
 msgid "Creation date"
 msgstr "Data creazione"
 
-msgctxt "Custom URLCustom URL"
 msgid "Custom URL"
 msgstr "URL"
 
-msgctxt "Enter a location:Enter a location:"
 msgid "Enter a location:"
 msgstr "Inserisci una posizione:"
 
-msgctxt "GCM KeyGCM Key"
 msgid "GCM Key"
 msgstr "GCM key"
 
-msgctxt "I want to send itI want to send it"
 msgid "I want to send it"
 msgstr "Voglio inviare"
 
-msgctxt "Keys successfully savedKeys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Keys salvate correttamente"
 
-msgctxt "MessageMessage"
 msgid "Message"
 msgstr "Messaggio"
 
-msgctxt "No device found for this userNo device found for this user"
 msgid "No device found for this user"
 msgstr "Nessun dispositivo trovato per questo utente"
 
-msgctxt "No items.No items."
 msgid "No items."
 msgstr "no articoli"
 
-msgctxt "Open a feature or a custom URLOpen a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr "Allega una pagina dell'App o un URL"
 
-msgctxt "PendingPending"
 msgid "Pending"
 msgstr "In attesa"
 
-msgctxt ""
-"Please enter an expiration date for your message:Please enter an expiration "
-"date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr "Inserisci una data di scadenza per il tuo messaggio:"
 
-msgctxt "Project NumberProject Number"
 msgid "Project Number"
 msgstr "Progetto numero"
 
-msgctxt "Push NotificationsPush Notifications"
 msgid "Push Notifications"
 msgstr "Notifica push"
 
-msgctxt "Push Notifications SettingsPush Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Impostazioni notifiche push"
 
-msgctxt "Push successfully deleted.Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "Push eliminata correttamente"
 
-msgctxt "RadiusRadius"
 msgid "Radius"
 msgstr "Raggio"
 
-msgctxt "Send to a specific locationSend to a specific location"
 msgid "Send to a specific location"
 msgstr "Invia ad una posizione specifica"
 
-msgctxt "Send to all applicationsSend to all applications"
 msgid "Send to all applications"
 msgstr "Invia a tutte le applicazioni"
 
-msgctxt "Send to all my usersSend to all my users"
 msgid "Send to all my users"
 msgstr "Invia a tutti i miei users"
 
-msgctxt "Send to no specific locationsSend to no specific locations"
 msgid "Send to no specific locations"
 msgstr "Invia a nessuna località specifica"
 
-msgctxt "Send to specific topicsSend to specific topics"
 msgid "Send to specific topics"
 msgstr "Invia ad argomenti specifici"
 
-msgctxt "Send to specific usersSend to specific users"
 msgid "Send to specific users"
 msgstr "Invia agli utenti specifici"
 
-msgctxt "Sending dateSending date"
 msgid "Sending date"
 msgstr "Data invio"
 
-msgctxt ""
-"The duration limit must be higher than the sent dateThe duration limit must "
-"be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "La data limite di durata deve essere posteriore alla data di invio"
 
-msgctxt "TopicsTopics"
 msgid "Topics"
 msgstr "Argomenti"
 
-msgctxt "UsersUsers"
 msgid "Users"
 msgstr "Users"
 
-msgctxt ""
-"You must choose a topic before sending your message.You must choose a topic "
-"before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr "Devi scegliere un argomento prima di inviare il Tuo messaggio"
 
-msgctxt ""
-"You must choose at least one user before sending your message.You must "
-"choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr "Devi scegliere almeno un utente prima di inviare il tuo messaggio."
 
-msgctxt ""
-"Your app must be published to send a push notification.Your app must be "
-"published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "L'app deve essere pubblicata per poter inviare notifiche push"
 
-msgctxt ""
-"Your message has been saved successfully.Your message has been saved "
-"successfully."
 msgid "Your message has been saved successfully."
 msgstr "Il messaggio è stato salvato con successo"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent at the entered "
-"dateYour message has been saved successfully and will be sent at the "
-"entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr ""
 "Il messaggio è stato salvato con successo e verrà trasmesso alla data "
 "inserita"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent in a few minutes"
-"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr ""
 "Il messaggio è stato salvato con successo e verrà inviato in pochi minuti"
 
-msgctxt "and users entering the areaand users entering the area"
 msgid "and users entering the area"
 msgstr "per gli utenti che sono nella zona indicata"
 
-msgctxt "for a limited periodfor a limited period"
 msgid "for a limited period"
 msgstr "che saranno passati da quella zona fino al"
 
-msgctxt "nownow"
 msgid "now"
 msgstr "ora"
 
-msgctxt "on a specific dateon a specific date"
 msgid "on a specific date"
 msgstr "in una data specifica"

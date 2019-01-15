@@ -14,166 +14,119 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a WebsiteAdd a Website"
 msgid "Add a Website"
 msgstr "Voeg een website toe"
 
-msgctxt "Address:Address:"
 msgid "Address:"
 msgstr "Adres:"
 
-msgctxt ""
-"An error occurred while deleting the eventAn error occurred while deleting "
-"the event"
 msgid "An error occurred while deleting the event"
 msgstr "Er is een fout opgetreden tijdens het verwijderen van dit evenement"
 
-msgctxt ""
-"An error occurred while loading this eventAn error occurred while loading "
-"this event"
 msgid "An error occurred while loading this event"
 msgstr "Er is een fout opgetreden tijdens het laden van dit evenement"
 
-msgctxt "Beginning date:Beginning date:"
 msgid "Beginning date:"
 msgstr "Begin datum:"
 
-msgctxt "Beginning time:Beginning time:"
 msgid "Beginning time:"
 msgstr "Begintijd:"
 
-msgctxt "Buy TicketsBuy Tickets"
 msgid "Buy Tickets"
 msgstr "Koop Tickets"
 
-msgctxt "Buy ticketsBuy tickets"
 msgid "Buy tickets"
 msgstr "Koop Tickets"
 
-msgctxt "Calendar successfully deletedCalendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Kalender is verwijderd"
 
-msgctxt "Calendar's URLCalendar's URL"
 msgid "Calendar's URL"
 msgstr "Kalender URL"
 
-msgctxt "Calendar's titleCalendar's title"
 msgid "Calendar's title"
 msgstr "Kalender titel"
 
-msgctxt "Change pictureChange picture"
 msgid "Change picture"
 msgstr "Verander afbeelding"
 
-msgctxt "Create a new eventCreate a new event"
 msgid "Create a new event"
 msgstr "Maak een nieuw evenement"
 
-msgctxt "Custom CalendarCustom Calendar"
 msgid "Custom Calendar"
 msgstr "Aangepaste kalender"
 
-msgctxt "Custom PageCustom Page"
 msgid "Custom Page"
 msgstr "Aangepaste pagina"
 
-msgctxt "Delete this calendar?Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Deze kalender verwijderen?"
 
-msgctxt "Delete this event?Delete this event?"
 msgid "Delete this event?"
 msgstr "Dit evenement verwijderen?"
 
-msgctxt "Ending date:Ending date:"
 msgid "Ending date:"
 msgstr "Eind datum:"
 
-msgctxt "Enter your calendar's titleEnter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Vul de titel van uw kalender in"
 
-msgctxt "Entrance:Entrance:"
 msgid "Entrance:"
 msgstr "Entree:"
 
-msgctxt "Entrance: %sEntrance: %s"
 msgid "Entrance: %s"
 msgstr "Entree: %s"
 
-msgctxt "EventEvent"
 msgid "Event"
 msgstr "Evenement"
 
-msgctxt "Event successfully deletedEvent successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Evenement verwijderd"
 
-msgctxt "Event successfully savedEvent successfully saved"
 msgid "Event successfully saved"
 msgstr "Evenement bewaard"
 
-msgctxt "Event title:Event title:"
 msgid "Event title:"
 msgstr "Evenement titel:"
 
-msgctxt "Illustration:Illustration:"
 msgid "Illustration:"
 msgstr "illustratie:"
 
-msgctxt "Location:Location:"
 msgid "Location:"
 msgstr "Locatie:"
 
-msgctxt ""
-"Max size: 2000x2000px - allowed formats: jpg & pngMax size: 2000x2000px - "
-"allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Maximale grootte:  2000x2000px – toegestaande formaten jpg en png"
 
-msgctxt "Modify the eventModify the event"
 msgid "Modify the event"
 msgstr "Bewerk evenement"
 
-msgctxt "RSVPRSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
-msgctxt "RSVP URL:RSVP URL:"
 msgid "RSVP URL:"
 msgstr "RSVP URL:"
 
-msgctxt "Subtitle:Subtitle:"
 msgid "Subtitle:"
 msgstr "Ondertitel:"
 
-msgctxt "Ticket Shop URL:Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr "Ticket Shop-URL:"
 
-msgctxt "To:To:"
 msgid "To:"
 msgstr "Tot:"
 
-msgctxt "Your Facebook page IDYour Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "Uw FaceBook pagina ID"
 
-msgctxt ""
-"Your Facebook page ID <span class='' required-entry''>*</span> :Your "
-"Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr "Uw Facebook pagina-ID <span class=\" required-item\">*</span> :"
 
-msgctxt "Your calendar is emptyYour calendar is empty"
 msgid "Your calendar is empty"
 msgstr "Je agenda is leeg"
 
-msgctxt "iCaliCal"
 msgid "iCal"
 msgstr "iCal"
 
-msgctxt "toto"
 msgid "to"
 msgstr "naar"

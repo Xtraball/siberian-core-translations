@@ -14,79 +14,55 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Create a new languageCreate a new language"
 msgid "Create a new language"
 msgstr "Criar um novo imposto"
 
-msgctxt "Default textDefault text"
 msgid "Default text"
 msgstr ""
 
-msgctxt "Edit the language: %sEdit the language: %s"
 msgid "Edit the language: %s"
 msgstr ""
 
-msgctxt "LanguageLanguage"
 msgid "Language"
 msgstr ""
 
-msgctxt "Language successfully savedLanguage successfully saved"
 msgid "Language successfully saved"
 msgstr "Página salva com sucesso"
 
-msgctxt "List of your languagesList of your languages"
 msgid "List of your languages"
 msgstr ""
 
-msgctxt "Please, choose a file.Please, choose a file."
 msgid "Please, choose a file."
 msgstr "Por favor, escolha 1 de nossas lojas."
 
-msgctxt "Please, choose a language.Please, choose a language."
 msgid "Please, choose a language."
 msgstr ""
 
-msgctxt "Select a fileSelect a file"
 msgid "Select a file"
 msgstr ""
 
-msgctxt "Select a languageSelect a language"
 msgid "Select a language"
 msgstr ""
 
-msgctxt "Text translationText translation"
 msgid "Text translation"
 msgstr ""
 
-msgctxt "Translate allTranslate all"
 msgid "Translate all"
 msgstr ""
 
-msgctxt "Translate missing entriesTranslate missing entries"
 msgid "Translate missing entries"
 msgstr ""
 
-msgctxt ""
-"Translate the 'e.g.' between parentheses only.Translate the 'e.g.' between "
-"parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr ""
 
-msgctxt ""
-"Translation API is not available for the current language.Translation API "
-"is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr ""
 
-msgctxt ""
-"Warning: translation API is experimental for the current language and may "
-"fail.Warning: translation API is experimental for the current language and "
-"may fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
 msgstr ""
 
-msgctxt "Your translationYour translation"
 msgid "Your translation"
 msgstr ""

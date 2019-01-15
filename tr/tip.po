@@ -14,29 +14,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Amount of billAmount of bill"
 msgid "Amount of bill"
 msgstr "Fatura tutarı"
 
-msgctxt "CalculateCalculate"
 msgid "Calculate"
 msgstr "Hesaplama"
 
-msgctxt "Number of peopleNumber of people"
 msgid "Number of people"
 msgstr "Kişi sayısı"
 
-msgctxt "Percentage of tipPercentage of tip"
 msgid "Percentage of tip"
 msgstr "Pratik yüzdesi"
 
-msgctxt ""
-"This feature allows your users to calculate tips with their app.This "
-"feature allows your users to calculate tips with their app."
 msgid "This feature allows your users to calculate tips with their app."
 msgstr ""
 "Bu özellik kullanıcıların uygulama ile pratik hesaplama için izin verir ."
 
-msgctxt "Tip for each:Tip for each:"
 msgid "Tip for each:"
 msgstr "Herbir pratik için:"

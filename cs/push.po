@@ -13,187 +13,127 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Additionnal InformationAdditionnal Information"
 msgid "Additionnal Information"
 msgstr "Další informace"
 
-msgctxt ""
-"An error occurred while deleting the push. Please try again later.An error "
-"occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr "Při mazání PUSH zprávy došlo k chybě. Zkuste to prosím později"
 
-msgctxt "And a radius (in Km):And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "A poloměr (v km):"
 
-msgctxt "AndroidAndroid"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Creation dateCreation date"
 msgid "Creation date"
 msgstr "Vytvořeno"
 
-msgctxt "Custom URLCustom URL"
 msgid "Custom URL"
 msgstr "Výchozí URL"
 
-msgctxt "Enter a location:Enter a location:"
 msgid "Enter a location:"
 msgstr "Vyberte oblast (místo nebo GPS souřadnice):"
 
-msgctxt "GCM KeyGCM Key"
 msgid "GCM Key"
 msgstr "GCM Key"
 
-msgctxt "I want to send itI want to send it"
 msgid "I want to send it"
 msgstr "Chci odeslat"
 
-msgctxt "Keys successfully savedKeys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Klíč úspěšně uložen"
 
-msgctxt "MessageMessage"
 msgid "Message"
 msgstr "Zpráva"
 
-msgctxt "No device found for this userNo device found for this user"
 msgid "No device found for this user"
 msgstr ""
 
-msgctxt "No items.No items."
 msgid "No items."
 msgstr "Žádné položky"
 
-msgctxt "Open a feature or a custom URLOpen a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr "Zobrazit stránku (modul) nebo URL"
 
-msgctxt "PendingPending"
 msgid "Pending"
 msgstr "Nevyřízené"
 
-msgctxt ""
-"Please enter an expiration date for your message:Please enter an expiration "
-"date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr "Zadejte prosím datum platnosti zprávy"
 
-msgctxt "Project NumberProject Number"
 msgid "Project Number"
 msgstr ""
 
-msgctxt "Push NotificationsPush Notifications"
 msgid "Push Notifications"
 msgstr "PUSH zprávy"
 
-msgctxt "Push Notifications SettingsPush Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "PUSH zprávy - nastavení"
 
-msgctxt "Push successfully deleted.Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "PUSH zpráva smazána"
 
-msgctxt "RadiusRadius"
 msgid "Radius"
 msgstr "Poloměr"
 
-msgctxt "Send to a specific locationSend to a specific location"
 msgid "Send to a specific location"
 msgstr "Odeslat do konkrétní oblasti"
 
-msgctxt "Send to all applicationsSend to all applications"
 msgid "Send to all applications"
 msgstr ""
 
-msgctxt "Send to all my usersSend to all my users"
 msgid "Send to all my users"
 msgstr "Odeslat všem uživatelům"
 
-msgctxt "Send to no specific locationsSend to no specific locations"
 msgid "Send to no specific locations"
 msgstr "Odeslat všude"
 
-msgctxt "Send to specific topicsSend to specific topics"
 msgid "Send to specific topics"
 msgstr "Odeslat uživatelům s vybranými tématy (beta verze)"
 
-msgctxt "Send to specific usersSend to specific users"
 msgid "Send to specific users"
 msgstr "Zaslat vybraným uživatelům"
 
-msgctxt "Sending dateSending date"
 msgid "Sending date"
 msgstr "Datum odeslání"
 
-msgctxt ""
-"The duration limit must be higher than the sent dateThe duration limit must "
-"be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "Doba trvání musí být vyšší než datum odelsání!"
 
-msgctxt "TopicsTopics"
 msgid "Topics"
 msgstr "Témata"
 
-msgctxt "UsersUsers"
 msgid "Users"
 msgstr "Uživatelé"
 
-msgctxt ""
-"You must choose a topic before sending your message.You must choose a topic "
-"before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr "Před odesláním zprávy musíte vybrat téma."
 
-msgctxt ""
-"You must choose at least one user before sending your message.You must "
-"choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr "Před odesláním zprávy musíte vybrat téma."
 
-msgctxt ""
-"Your app must be published to send a push notification.Your app must be "
-"published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "Pro odesílání PUSH zpráv musí být vaše aplikace nejprve vypublikována"
 
-msgctxt ""
-"Your message has been saved successfully.Your message has been saved "
-"successfully."
 msgid "Your message has been saved successfully."
 msgstr "Vaše zpráva byla úspěšně uložena"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent at the entered "
-"dateYour message has been saved successfully and will be sent at the "
-"entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr "Vaše zpráva byla úspěšně uložena a bude odeslána v zadaný termín"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent in a few minutes"
-"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "Vaše zpráva byla úspěšně uložena a bude odeslána během okamžiku"
 
-msgctxt "and users entering the areaand users entering the area"
 msgid "and users entering the area"
 msgstr "a uživatelé, kteří vstoupí do této oblasti"
 
-msgctxt "for a limited periodfor a limited period"
 msgid "for a limited period"
 msgstr "po omezenou dobu"
 
-msgctxt "nownow"
 msgid "now"
 msgstr "nyní"
 
-msgctxt "on a specific dateon a specific date"
 msgid "on a specific date"
 msgstr "k určitému datu"

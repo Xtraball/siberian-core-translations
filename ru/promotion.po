@@ -15,170 +15,119 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"An error occurred while saving your discount. Please fill in all fieldsAn "
-"error occurred while saving your discount. Please fill in all fields"
 msgid "An error occurred while saving your discount. Please fill in all fields"
 msgstr "Произошла ошибка при сохранении скидки. Пожалуйста, заполните все поля."
 
-msgctxt ""
-"Are you sure you want to use this discount?Are you sure you want to use "
-"this discount?"
 msgid "Are you sure you want to use this discount?"
 msgstr "Вы уверены в использовании этой скидки?"
 
-msgctxt "Closed discountsClosed discounts"
 msgid "Closed discounts"
 msgstr "Использованные скидки"
 
-msgctxt "ConditionsConditions"
 msgid "Conditions"
 msgstr "Условия"
 
-msgctxt "Create a new DiscountCreate a new Discount"
 msgid "Create a new Discount"
 msgstr "Создайте новую скидку"
 
-msgctxt "Create a new discountCreate a new discount"
 msgid "Create a new discount"
 msgstr "Создайте новую скидку"
 
-msgctxt "Delete this discount?Delete this discount?"
 msgid "Delete this discount?"
 msgstr "Удалить эту скидку?"
 
-msgctxt "DescriptionDescription"
 msgid "Description"
 msgstr "Описание"
 
-msgctxt "DesignDesign"
 msgid "Design"
 msgstr "Дизайн"
 
-msgctxt "DetailsDetails"
 msgid "Details"
 msgstr "Подробности"
 
-msgctxt "DiscountDiscount"
 msgid "Discount"
 msgstr ""
 
-msgctxt "Discount successfully deletedDiscount successfully deleted"
 msgid "Discount successfully deleted"
 msgstr "Скидка успешно удалена"
 
-msgctxt "Discount successfully savedDiscount successfully saved"
 msgid "Discount successfully saved"
 msgstr "Скидка успешно сохранена"
 
-msgctxt "Do you want to use this coupon?Do you want to use this coupon?"
 msgid "Do you want to use this coupon?"
 msgstr ""
 
-msgctxt "End atEnd at"
 msgid "End at"
 msgstr "Окончание действия"
 
-msgctxt "Generate QRCodeGenerate QRCode"
 msgid "Generate QRCode"
 msgstr ""
 
-msgctxt "Is unique?Is unique?"
 msgid "Is unique?"
 msgstr ""
 
-msgctxt "Manage contentManage content"
 msgid "Manage content"
 msgstr ""
 
-msgctxt "NoNo"
 msgid "No"
 msgstr "Нет"
 
-msgctxt "OnOn"
 msgid "On"
 msgstr ""
 
-msgctxt "PicturePicture"
 msgid "Picture"
 msgstr "Картина"
 
-msgctxt ""
-"Please select an end date greater than the current date.Please select an "
-"end date greater than the current date."
 msgid "Please select an end date greater than the current date."
 msgstr "Пожалуйста, выберите дату окончания по сравнению с текущей датой."
 
-msgctxt "QR CouponQR Coupon"
 msgid "QR Coupon"
 msgstr ""
 
-msgctxt "Search ...Search ..."
 msgid "Search ..."
 msgstr ""
 
-msgctxt "This discount is now usedThis discount is now used"
 msgid "This discount is now used"
 msgstr "Эта скидка в настоящее время используется"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "TitleTitle"
 msgid "Title"
 msgstr "название"
 
-msgctxt "UnlimitedUnlimited"
 msgid "Unlimited"
 msgstr ""
 
-msgctxt "Use only once?Use only once?"
 msgid "Use only once?"
 msgstr "использовать только один раз"
 
-msgctxt "Valid UntilValid Until"
 msgid "Valid Until"
 msgstr "Действует до"
 
-msgctxt "YesYes"
 msgid "Yes"
 msgstr "ДА"
 
-msgctxt "You have already use this codeYou have already use this code"
 msgid "You have already use this code"
 msgstr "Вы уже используете эту скидку"
 
-msgctxt "You have already use this discountYou have already use this discount"
 msgid "You have already use this discount"
 msgstr "Вы уже используете эту скидку"
 
-msgctxt ""
-"You must be logged in to use a discountYou must be logged in to use a "
-"discount"
 msgid "You must be logged in to use a discount"
 msgstr "Вы должны войти в систему, чтобы воспользоваться скидкой"
 
-msgctxt ""
-"(You'll be able to remove this promotion later)(You'll be able to remove "
-"this promotion later)"
 msgid "(You'll be able to remove this promotion later)"
 msgstr "Вы сможете удалить эту акцию позже"
 
-msgctxt "Your QRCodeYour QRCode"
 msgid "Your QRCode"
 msgstr ""
 
-msgctxt "or unlimitedor unlimited"
 msgid "or unlimited"
 msgstr ""
 
-msgctxt "use only onceuse only once"
 msgid "use only once"
 msgstr "использовать только один раз"
 
-msgctxt ""
-"you'll be able to remove this promotion lateryou'll be able to remove this "
-"promotion later"
 msgid "you'll be able to remove this promotion later"
 msgstr "Вы сможете удалить эту акцию позже"

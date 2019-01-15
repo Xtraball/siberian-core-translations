@@ -14,103 +14,71 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a linkAdd a link"
 msgid "Add a link"
 msgstr "Adicione um link"
 
-msgctxt ""
-"An error occurred while saving your picto. Please try againg later.An error "
-"occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr "Ocorreu um erro ao salvar sua imagem. Por favor tente mais tarde."
 
-msgctxt ""
-"Are you sure you want to delete this link?Are you sure you want to delete "
-"this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Tem certeza de que deseja excluir este link?"
 
-msgctxt ""
-"Are you sure you want to delete this picture?Are you sure you want to "
-"delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Tem certeza de que deseja apagar esta imagem?"
 
-msgctxt "Enter your Magento URLEnter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr ""
 
-msgctxt "Enter your Prestashop URLEnter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr ""
 
-msgctxt "Enter your Shopify URLEnter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr ""
 
-msgctxt "Enter your Volusion URLEnter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr ""
 
-msgctxt "Enter your WooCommerce URLEnter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr ""
 
-msgctxt "LinkLink"
 msgid "Link"
 msgstr "Link"
 
-msgctxt "Link has been successfully deletedLink has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "O link foi excluído com sucesso"
 
-msgctxt "Link has been successfully savedLink has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "O link foi salvo com sucesso"
 
-msgctxt "MagentoMagento"
 msgid "Magento"
 msgstr ""
 
-msgctxt "PictoPicto"
 msgid "Picto"
 msgstr "Imagem"
 
-msgctxt "PrestashopPrestashop"
 msgid "Prestashop"
 msgstr ""
 
-msgctxt "ShopifyShopify"
 msgid "Shopify"
 msgstr ""
 
-msgctxt ""
-"The image has been successfully deletedThe image has been successfully "
-"deleted"
 msgid "The image has been successfully deleted"
 msgstr "A imagem foi excluída com sucesso"
 
-msgctxt ""
-"The image has been successfully savedThe image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "A imagem foi salva com sucesso"
 
-msgctxt "Use external applicationUse external application"
 msgid "Use external application"
 msgstr ""
 
-msgctxt "VolusionVolusion"
 msgid "Volusion"
 msgstr ""
 
-msgctxt "Without navbarWithout navbar"
 msgid "Without navbar"
 msgstr ""
 
-msgctxt "WooCommerceWooCommerce"
 msgid "WooCommerce"
 msgstr ""
 
-msgctxt "Your linksYour links"
 msgid "Your links"
 msgstr "Seus links"

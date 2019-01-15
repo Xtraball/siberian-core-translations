@@ -14,78 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "AllAll"
 msgid "All"
 msgstr "Todas"
 
-msgctxt "ArtsArts"
 msgid "Arts"
 msgstr "Artes"
 
-msgctxt "Choose a template to customizeChoose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Elija una plantilla para personalizar"
 
-msgctxt "CityCity"
 msgid "City"
 msgstr "Ciudad"
 
-msgctxt "CorporateCorporate"
 msgid "Corporate"
 msgstr "Corporativo"
 
-msgctxt "DesignDesign"
 msgid "Design"
 msgstr "Diseño"
 
-msgctxt "EducationEducation"
 msgid "Education"
 msgstr "Educación"
 
-msgctxt "EntertainmentEntertainment"
 msgid "Entertainment"
 msgstr "Entretenimiento"
 
-msgctxt "FashionFashion"
 msgid "Fashion"
 msgstr "Moda"
 
-msgctxt "Health & BeautyHealth & Beauty"
 msgid "Health & Beauty"
 msgstr "Belleza y salud"
 
-msgctxt "HotelsHotels"
 msgid "Hotels"
 msgstr "Hoteles"
 
-msgctxt "List of your categoriesList of your categories"
 msgid "List of your categories"
 msgstr "Lista de categorías"
 
-msgctxt "Local BusinessLocal Business"
 msgid "Local Business"
 msgstr "Negocios"
 
-msgctxt "MusicMusic"
 msgid "Music"
 msgstr "Música"
 
-msgctxt "OrganizationsOrganizations"
 msgid "Organizations"
 msgstr "Organizaciones"
 
-msgctxt "Real EstateReal Estate"
 msgid "Real Estate"
 msgstr "Inmobiliaría"
 
-msgctxt "SportsSports"
 msgid "Sports"
 msgstr "Deportes"
 
-msgctxt "TEMPLATESTEMPLATES"
 msgid "TEMPLATES"
 msgstr "PLANTILLAS"
 
-msgctxt "TemplatesTemplates"
 msgid "Templates"
 msgstr "Plantillas"

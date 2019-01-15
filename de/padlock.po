@@ -14,40 +14,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"Access restricted to authorized members onlyAccess restricted to authorized "
-"members only"
 msgid "Access restricted to authorized members only"
 msgstr "Zugang nur für autorisierte Mitarbeiter nur"
 
-msgctxt "Allow all the users by default:Allow all the users by default:"
 msgid "Allow all the users by default:"
 msgstr "Ermöglichen Sie allen Benutzern standardmäßig:"
 
-msgctxt "Choose the features to lock:Choose the features to lock:"
 msgid "Choose the features to lock:"
 msgstr "Wählen Sie die Funktionen sperren:"
 
-msgctxt "Lock the entire application?Lock the entire application?"
 msgid "Lock the entire application?"
 msgstr "Sperren die gesamte Anwendung zu?"
 
-msgctxt "Restrict AccessRestrict Access"
 msgid "Restrict Access"
 msgstr "Einschränken des Zugriffs"
 
-msgctxt "Scan now to unlockScan now to unlock"
 msgid "Scan now to unlock"
 msgstr "Zum Entsperren jetzt Scannen"
 
-msgctxt "Unlock by:Unlock by:"
 msgid "Unlock by:"
 msgstr "Möglichkeit zum Anmelden über:"
 
-msgctxt ""
-"We are sorry but your account does not have enough permissions to access "
-"this pageWe are sorry but your account does not have enough permissions to "
-"access this page"
 msgid ""
 "We are sorry but your account does not have enough permissions to access "
 "this page"
@@ -55,22 +42,17 @@ msgstr ""
 "Es tut uns leid, aber Ihr Konto verfügt nicht über genügend Berechtigungen "
 "Zugriff auf diese Seite"
 
-msgctxt "the email addressthe email address"
 msgid "the email address"
 msgstr "die e-Mail-Adresse"
 
-msgctxt "the first namethe first name"
 msgid "the first name"
 msgstr "der erste name"
 
-msgctxt "the genderthe gender"
 msgid "the gender"
 msgstr "das Geschlecht"
 
-msgctxt "the last namethe last name"
 msgid "the last name"
 msgstr "der Nachname"
 
-msgctxt "the passwordthe password"
 msgid "the password"
 msgstr "das Kennwort"

@@ -14,166 +14,119 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a WebsiteAdd a Website"
 msgid "Add a Website"
 msgstr "Eine Webseite hinzufügen"
 
-msgctxt "Address:Address:"
 msgid "Address:"
 msgstr "Adresse:"
 
-msgctxt ""
-"An error occurred while deleting the eventAn error occurred while deleting "
-"the event"
 msgid "An error occurred while deleting the event"
 msgstr "Beim Löschen der Veranstaltung ist ein Fehler aufgetreten"
 
-msgctxt ""
-"An error occurred while loading this eventAn error occurred while loading "
-"this event"
 msgid "An error occurred while loading this event"
 msgstr "Beim Laden dieses Ereignisses ist ein Fehler aufgetreten"
 
-msgctxt "Beginning date:Beginning date:"
 msgid "Beginning date:"
 msgstr "Anfangsdatum:"
 
-msgctxt "Beginning time:Beginning time:"
 msgid "Beginning time:"
 msgstr "Startet:"
 
-msgctxt "Buy TicketsBuy Tickets"
 msgid "Buy Tickets"
 msgstr "Tickets kaufen"
 
-msgctxt "Buy ticketsBuy tickets"
 msgid "Buy tickets"
 msgstr "Tickets kaufen"
 
-msgctxt "Calendar successfully deletedCalendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Kalender erfolgreich gelöscht"
 
-msgctxt "Calendar's URLCalendar's URL"
 msgid "Calendar's URL"
 msgstr "Kalender URL"
 
-msgctxt "Calendar's titleCalendar's title"
 msgid "Calendar's title"
 msgstr "Kalender Titel"
 
-msgctxt "Change pictureChange picture"
 msgid "Change picture"
 msgstr "Bild ändern"
 
-msgctxt "Create a new eventCreate a new event"
 msgid "Create a new event"
 msgstr "Erstellen Sie eine neue Veranstaltung"
 
-msgctxt "Custom CalendarCustom Calendar"
 msgid "Custom Calendar"
 msgstr "eigener Kalender"
 
-msgctxt "Custom PageCustom Page"
 msgid "Custom Page"
 msgstr "Benutzerdefinierte Seite"
 
-msgctxt "Delete this calendar?Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Löschen Sie diesen Kalender?"
 
-msgctxt "Delete this event?Delete this event?"
 msgid "Delete this event?"
 msgstr "Löschen Sie diese Veranstaltung?"
 
-msgctxt "Ending date:Ending date:"
 msgid "Ending date:"
 msgstr "Enddatum:"
 
-msgctxt "Enter your calendar's titleEnter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Geben Sie Ihre Kalender-Titel ein"
 
-msgctxt "Entrance:Entrance:"
 msgid "Entrance:"
 msgstr "Einlass:"
 
-msgctxt "Entrance: %sEntrance: %s"
 msgid "Entrance: %s"
 msgstr "Einlass: %s"
 
-msgctxt "EventEvent"
 msgid "Event"
 msgstr "Veranstaltung"
 
-msgctxt "Event successfully deletedEvent successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Ereignis erfolgreich gelöscht"
 
-msgctxt "Event successfully savedEvent successfully saved"
 msgid "Event successfully saved"
 msgstr "Ereignis erfolgreich gespeichert"
 
-msgctxt "Event title:Event title:"
 msgid "Event title:"
 msgstr "Titel der Veranstaltung:"
 
-msgctxt "Illustration:Illustration:"
 msgid "Illustration:"
 msgstr "Abbildung:"
 
-msgctxt "Location:Location:"
 msgid "Location:"
 msgstr "Ort:"
 
-msgctxt ""
-"Max size: 2000x2000px - allowed formats: jpg & pngMax size: 2000x2000px - "
-"allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Max. Größe: 2000x2000px - erlaubte Formate: Jpg & Png"
 
-msgctxt "Modify the eventModify the event"
 msgid "Modify the event"
 msgstr "Ändern Sie die Veranstaltung"
 
-msgctxt "RSVPRSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
-msgctxt "RSVP URL:RSVP URL:"
 msgid "RSVP URL:"
 msgstr "RSVP URL:"
 
-msgctxt "Subtitle:Subtitle:"
 msgid "Subtitle:"
 msgstr "Untertitel:"
 
-msgctxt "Ticket Shop URL:Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr "Ticket Shop Adresse:"
 
-msgctxt "To:To:"
 msgid "To:"
 msgstr ""
 
-msgctxt "Your Facebook page IDYour Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "Ihre Facebook-Seiten ID"
 
-msgctxt ""
-"Your Facebook page ID <span class='' required-entry''>*</span> :Your "
-"Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr "Ihre Facebook Fanpage ID: <span class=\"required-entry\">*</span> :"
 
-msgctxt "Your calendar is emptyYour calendar is empty"
 msgid "Your calendar is empty"
 msgstr "Ihr Kalender ist leer"
 
-msgctxt "iCaliCal"
 msgid "iCal"
 msgstr "iCal"
 
-msgctxt "toto"
 msgid "to"
 msgstr ""

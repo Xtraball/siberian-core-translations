@@ -14,187 +14,127 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Additionnal InformationAdditionnal Information"
 msgid "Additionnal Information"
 msgstr "附加信息"
 
-msgctxt ""
-"An error occurred while deleting the push. Please try again later.An error "
-"occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr "没能抑制这种反应。请稍后再试。"
 
-msgctxt "And a radius (in Km):And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "及周边地区（公里数） ："
 
-msgctxt "AndroidAndroid"
 msgid "Android"
 msgstr "安卓"
 
-msgctxt "Creation dateCreation date"
 msgid "Creation date"
 msgstr "创建日期"
 
-msgctxt "Custom URLCustom URL"
 msgid "Custom URL"
 msgstr ""
 
-msgctxt "Enter a location:Enter a location:"
 msgid "Enter a location:"
 msgstr "输入位置："
 
-msgctxt "GCM KeyGCM Key"
 msgid "GCM Key"
 msgstr "关键GCM"
 
-msgctxt "I want to send itI want to send it"
 msgid "I want to send it"
 msgstr "我想送"
 
-msgctxt "Keys successfully savedKeys successfully saved"
 msgid "Keys successfully saved"
 msgstr "保存成功关键"
 
-msgctxt "MessageMessage"
 msgid "Message"
 msgstr "信息"
 
-msgctxt "No device found for this userNo device found for this user"
 msgid "No device found for this user"
 msgstr ""
 
-msgctxt "No items.No items."
 msgid "No items."
 msgstr ""
 
-msgctxt "Open a feature or a custom URLOpen a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr ""
 
-msgctxt "PendingPending"
 msgid "Pending"
 msgstr "坡"
 
-msgctxt ""
-"Please enter an expiration date for your message:Please enter an expiration "
-"date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr ""
 
-msgctxt "Project NumberProject Number"
 msgid "Project Number"
 msgstr ""
 
-msgctxt "Push NotificationsPush Notifications"
 msgid "Push Notifications"
 msgstr "推送通知"
 
-msgctxt "Push Notifications SettingsPush Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "推送通知设置"
 
-msgctxt "Push successfully deleted.Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "用户成功删除"
 
-msgctxt "RadiusRadius"
 msgid "Radius"
 msgstr "无线电"
 
-msgctxt "Send to a specific locationSend to a specific location"
 msgid "Send to a specific location"
 msgstr "发送到特定的位置"
 
-msgctxt "Send to all applicationsSend to all applications"
 msgid "Send to all applications"
 msgstr ""
 
-msgctxt "Send to all my usersSend to all my users"
 msgid "Send to all my users"
 msgstr "发送给我的所有用户"
 
-msgctxt "Send to no specific locationsSend to no specific locations"
 msgid "Send to no specific locations"
 msgstr "发送到特定的位置"
 
-msgctxt "Send to specific topicsSend to specific topics"
 msgid "Send to specific topics"
 msgstr "发送到特定的位置"
 
-msgctxt "Send to specific usersSend to specific users"
 msgid "Send to specific users"
 msgstr ""
 
-msgctxt "Sending dateSending date"
 msgid "Sending date"
 msgstr "送货日期"
 
-msgctxt ""
-"The duration limit must be higher than the sent dateThe duration limit must "
-"be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "时间限制必须大于出货日期"
 
-msgctxt "TopicsTopics"
 msgid "Topics"
 msgstr ""
 
-msgctxt "UsersUsers"
 msgid "Users"
 msgstr "用户"
 
-msgctxt ""
-"You must choose a topic before sending your message.You must choose a topic "
-"before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr ""
 
-msgctxt ""
-"You must choose at least one user before sending your message.You must "
-"choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr ""
 
-msgctxt ""
-"Your app must be published to send a push notification.Your app must be "
-"published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "必须将应用程序发布到发送推送通知。"
 
-msgctxt ""
-"Your message has been saved successfully.Your message has been saved "
-"successfully."
 msgid "Your message has been saved successfully."
 msgstr "你的记分卡已成功保存"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent at the entered "
-"dateYour message has been saved successfully and will be sent at the "
-"entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr "您的留言已成功保存，输入的日期将被发送"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent in a few minutes"
-"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "您的留言已成功保存，并在几分钟内将被发送"
 
-msgctxt "and users entering the areaand users entering the area"
 msgid "and users entering the area"
 msgstr "和在该地区的用户"
 
-msgctxt "for a limited periodfor a limited period"
 msgid "for a limited period"
 msgstr "在有限的时间"
 
-msgctxt "nownow"
 msgid "now"
 msgstr "现在"
 
-msgctxt "on a specific dateon a specific date"
 msgid "on a specific date"
 msgstr "在特定日期"

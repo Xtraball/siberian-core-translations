@@ -14,49 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a pageAdd a page"
 msgid "Add a page"
 msgstr "Agregar una página"
 
-msgctxt "Add featureAdd feature"
 msgid "Add feature"
 msgstr "Añadir función"
 
-msgctxt ""
-"Allow line return in Title & SubtitlesAllow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr ""
 
-msgctxt ""
-"By checking this, a search field will appear in your folder featureBy "
-"checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr "Marcando esto, un campo de búsqueda aparecerá en tu carpeta"
 
-msgctxt "CancelCancel"
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgctxt "Click onClick on"
 msgid "Click on"
 msgstr "Clic en"
 
-msgctxt ""
-"Click on a feature to add it to the folderClick on a feature to add it to "
-"the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Click en la función para añadirla a la carpeta"
 
-msgctxt ""
-"Click on a page to add it to the folderClick on a page to add it to the "
-"folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Haga clic en una página para agregarla a la carpeta"
 
-msgctxt ""
-"Click on a page to add it to the folder <span id='folder_name' "
-"class='folder_name'>%s</span>Click on a page to add it to the folder <span "
-"id='folder_name' class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
@@ -64,92 +45,65 @@ msgstr ""
 "Click en la función para añadirla a la carpeta <span id='folder_name' "
 "class='folder_name'>%s</span>"
 
-msgctxt "Close mobile displayClose mobile display"
 msgid "Close mobile display"
 msgstr "Cerrar visualización móvil"
 
-msgctxt ""
-"Delete this folder and all its subfolders?Delete this folder and all its "
-"subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "¿ Eliminar esta carpeta y todas las subcarpetas ?"
 
-msgctxt "Edit folderEdit folder"
 msgid "Edit folder"
 msgstr "Editar carpeta"
 
-msgctxt "Enable search in foldersEnable search in folders"
 msgid "Enable search in folders"
 msgstr "Activar búsqueda en carpetas"
 
-msgctxt "Folder title is requiredFolder title is required"
 msgid "Folder title is required"
 msgstr "Se requiere el título de la carpeta"
 
-msgctxt "FoldersFolders"
 msgid "Folders"
 msgstr "Carpetas"
 
-msgctxt "Inherit global layoutInherit global layout"
 msgid "Inherit global layout"
 msgstr "Heredar diseño global"
 
-msgctxt "Mobile displayMobile display"
 msgid "Mobile display"
 msgstr "Visualización móvil"
 
-msgctxt "New folderNew folder"
 msgid "New folder"
 msgstr "Nueva carpeta"
 
-msgctxt "No results for your request.No results for your request."
 msgid "No results for your request."
 msgstr "Sin resultados."
 
-msgctxt "Override layoutOverride layout"
 msgid "Override layout"
 msgstr "Sobreescribir diseño"
 
-msgctxt "Search resultsSearch results"
 msgid "Search results"
 msgstr "Resultados de búsqueda"
 
-msgctxt "Show coverShow cover"
 msgid "Show cover"
 msgstr "Mostrar cubierta"
 
-msgctxt "Show search fieldShow search field"
 msgid "Show search field"
 msgstr "Mostrar campo buscar"
 
-msgctxt "Show titleShow title"
 msgid "Show title"
 msgstr "Mostrar título"
 
-msgctxt "ThumbnailThumbnail"
 msgid "Thumbnail"
 msgstr "Miniatura"
 
-msgctxt "Use card designUse card design"
 msgid "Use card design"
 msgstr "Usar diseño de tarjeta"
 
-msgctxt "You cannot add this featureYou cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "No se puede agregar esta función"
 
-msgctxt ""
-"You must first complete the current category creation processYou must first "
-"complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Tiene que finalizar la creación de esta categoría primero"
 
-msgctxt ""
-"You will lose all unsaved changes, continue?You will lose all unsaved "
-"changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "¿Perderá todos los cambios no guardados, desea continuar?"
 
-msgctxt "to add a folder.to add a folder."
 msgid "to add a folder."
 msgstr "para agregar una carpeta."

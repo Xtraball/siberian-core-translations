@@ -14,108 +14,75 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Booking detailsBooking details"
 msgid "Booking details"
 msgstr "Buchungsdetails"
 
-msgctxt "Booking location:Booking location:"
 msgid "Booking location:"
 msgstr "Buchung Lage:"
 
-msgctxt "Booking subject:Booking subject:"
 msgid "Booking subject:"
 msgstr "Buchung betrifft:"
 
-msgctxt "Comment:Comment:"
 msgid "Comment:"
 msgstr "Kommentar:"
 
-msgctxt "Date and timeDate and time"
 msgid "Date and time"
 msgstr "Datum und Uhrzeit"
 
-msgctxt "Email address:Email address:"
 msgid "Email address:"
 msgstr "E-Mail-Adresse:"
 
-msgctxt ""
-"Enter the location name and contact email:Enter the location name and "
-"contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "Geben Sie den Namen Ihrer Stadt ein und Ihre E-Mail Adresse."
 
-msgctxt "First name / Last nameFirst name / Last name"
 msgid "First name / Last name"
 msgstr "Vorname / Nachname"
 
-msgctxt "Here are his personal information:Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "Hier sind seine persönlichen Informationen:"
 
-msgctxt "InformationInformation"
 msgid "Information"
 msgstr "Information"
 
-msgctxt "LocationLocation"
 msgid "Location"
 msgstr "Lage"
 
-msgctxt "Name:Name:"
 msgid "Name:"
 msgstr "Name:"
 
-msgctxt "Number of peopleNumber of people"
 msgid "Number of people"
 msgstr "Anzahl der Personen"
 
-msgctxt "Phone number:Phone number:"
 msgid "Phone number:"
 msgstr "Telefonnummer:"
 
-msgctxt "Please, choose a storePlease, choose a store"
 msgid "Please, choose a store"
 msgstr "Bitte wählen Sie einen Shop"
 
-msgctxt ""
-"Please fill out the following fields:Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "Bitte füllen Sie die folgenden Felder aus:"
 
-msgctxt ""
-"Please fill out the following fields:<br/>Please fill out the following "
-"fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "Bitte füllen Sie die folgenden Felder aus:<br/>"
 
-msgctxt ""
-"Thank you for your request. We'll answer you as soon as possible.Thank you "
-"for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr ""
 "Vielen Dank für Ihre Anfrage. Wir werden Sie so bald wie möglich beantworten."
 
-msgctxt "The booking informationThe booking information"
 msgid "The booking information"
 msgstr "Die Buchungsinformationen"
 
-msgctxt "The date and time of the bookingThe date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "Das Datum und die Zeit der Buchung"
 
-msgctxt "The number of peopleThe number of people"
 msgid "The number of people"
 msgstr "Die Personenanzahl"
 
-msgctxt ""
-"You have received a message for the booking ofYou have received a message "
-"for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "Sie haben eine Nachricht für die Buchung erhalten."
 
-msgctxt "Your nameYour name"
 msgid "Your name"
 msgstr "Ihr Name"
 
-msgctxt "Your phone number or email addressYour phone number or email address"
 msgid "Your phone number or email address"
 msgstr "Ihre Telefonnummer oder E-Mail-Adresse"
