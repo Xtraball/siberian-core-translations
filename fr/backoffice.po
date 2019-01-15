@@ -574,3 +574,6 @@ msgstr "Dernier échec"
 
 msgid "Last success"
 msgstr "Dernier succès"
+
+msgid "Last trigger"
+msgstr "Dernier déclencheur"
