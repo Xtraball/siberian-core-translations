@@ -459,3 +459,6 @@ msgstr "Forcer la régénération"
 
 msgid "Full"
 msgstr "Plein"
+
+msgid "Full path to use within your webserver."
+msgstr "Chemin d'accès complet à utiliser dans votre serveur web."
