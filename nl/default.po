@@ -1334,3 +1334,6 @@ msgstr "Sluit mobiele weergave"
 
 msgid "Delete this folder and all its subfolders?"
 msgstr "Deze map en alle submappen verwijderen?"
+
+msgid "Folder title is required"
+msgstr "Maptitel is vereist"
