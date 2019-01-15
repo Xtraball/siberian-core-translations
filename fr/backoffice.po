@@ -246,3 +246,6 @@ msgstr "Applications / Previewer manifeste pour les mises à jour automatiques .
 
 msgid "Are you sure ?"
 msgstr "Etes vous certain?"
+
+msgid "Auth type"
+msgstr "Type d'authentification"
