@@ -435,3 +435,9 @@ msgstr "Environnement"
 
 msgid "Error, order already paid."
 msgstr "Erreur, commande déjà payée."
+
+msgid "Errors are displayed on page, outputs are more verbose, this is an option for debug purpose, use with care as it may output some critical informations about your server."
+msgstr ""
+"Les erreurs sont affichées sur la page, les sorties sont plus détaillées, "
+"c'est une option pour le débugage, à utiliser avec précaution car elle peut "
+"générer des informations critiques sur votre serveur."
