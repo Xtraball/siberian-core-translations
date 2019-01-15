@@ -375,3 +375,6 @@ msgstr "Cron planificateur"
 
 msgid "Cron scheduler help"
 msgstr "Cron ordonnanceur aide"
+
+msgid "Custom SMTP Configuration"
+msgstr "Configuration SMTP personnalisée"
