@@ -1076,3 +1076,6 @@ msgstr "Suivant"
 
 msgid "Add a format"
 msgstr "Ajouter un format"
+
+msgid "City"
+msgstr "Ville"
