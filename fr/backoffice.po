@@ -604,3 +604,6 @@ msgstr "Log (var/log, log files)"
 
 msgid "Logs cleared."
 msgstr "Logs effacés"
+
+msgid "Mark all as read"
+msgstr "Marquer tout comme lu"
