@@ -565,3 +565,6 @@ msgstr "Certificats émis"
 
 msgid "JAVA:"
 msgstr "JAVA:"
+
+msgid "Last cron error"
+msgstr "Erreur du dernier cron"
