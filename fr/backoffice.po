@@ -1016,3 +1016,9 @@ msgid "This message will be displayed as an information message to describe whic
 msgstr ""
 "Ce message sera affiché comme un message d'information pour décrire le mode "
 "de paiement hors ligne que vous offrez"
+
+msgid "This test is for development & support usage, this only highlights potential missing and/or modified files, results need to be interpreted."
+msgstr ""
+"Ce test est destiné à l'utilisation du développement et du support, cela ne "
+"fait que mettre en évidence les fichiers manquants et / ou modifiés "
+"potentiels, les résultats doivent être interprétés."
