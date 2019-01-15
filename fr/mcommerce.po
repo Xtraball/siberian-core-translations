@@ -1079,3 +1079,6 @@ msgstr "Ajouter un format"
 
 msgid "City"
 msgstr "Ville"
+
+msgid "Code"
+msgstr "Code"
