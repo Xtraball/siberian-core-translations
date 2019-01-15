@@ -1103,3 +1103,6 @@ msgstr "Titre"
 
 msgid "Last Name"
 msgstr "Nom de famille"
+
+msgid "Lastname"
+msgstr "Nom"
