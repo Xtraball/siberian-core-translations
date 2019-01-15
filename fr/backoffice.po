@@ -515,3 +515,6 @@ msgstr "Masquer"
 
 msgid "Host"
 msgstr "Hôte"
+
+msgid "Hostname"
+msgstr "Nom d'hôte"
