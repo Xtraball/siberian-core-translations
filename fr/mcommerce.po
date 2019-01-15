@@ -1109,3 +1109,6 @@ msgstr "Nom"
 
 msgid "Postcode"
 msgstr "Code Postal"
+
+msgid "Product formats"
+msgstr "Formats du produit"
