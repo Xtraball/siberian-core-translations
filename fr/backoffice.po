@@ -963,3 +963,6 @@ msgstr "Le système n'a pu valider un appel HTTP Basic Aut."
 
 msgid "Temp (var/tmp, application sources & apk)"
 msgstr "Temp (var/tmp, application sources & apk)"
+
+msgid "Templates"
+msgstr "Modèles"
