@@ -1227,3 +1227,6 @@ msgstr "Pour le bundle ID:"
 
 msgid "letsencrypt"
 msgstr "letsencrypt"
+
+msgid "per page"
+msgstr "par page"
