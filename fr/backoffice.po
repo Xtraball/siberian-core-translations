@@ -880,3 +880,6 @@ msgid "[Siberian_Cpanel] Unable to update cPanel SSL Certificate for %s"
 msgstr ""
 "[Siberian_Cpanel] Impossible de mettre à jour le certificat SSL cPanel pour% "
 "s"
+
+msgid "[Siberian_VestaCP] requires php 5.6+"
+msgstr "[Siberian_VestaCP] nécessite php 5.6+"
