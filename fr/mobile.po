@@ -365,3 +365,6 @@ msgstr "Mot de passe"
 
 msgid "Photos"
 msgstr "Photos"
+
+msgid "Please enter a valid email address"
+msgstr "SVP, entrez une adresse email valide"
