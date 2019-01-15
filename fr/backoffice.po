@@ -580,3 +580,6 @@ msgstr "Dernier déclencheur"
 
 msgid "Let's Encrypt certificates renewal"
 msgstr "\"Let's Encrypt\" le renouvellement de certificats"
+
+msgid "Let's Encrypt environment"
+msgstr "Let's Encrypt environnement"
