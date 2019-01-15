@@ -2368,3 +2368,6 @@ msgstr "Facebook"
 
 msgid "Info successfully saved"
 msgstr "Info enregistré avec succès"
+
+msgid "Name"
+msgstr "Nom"
