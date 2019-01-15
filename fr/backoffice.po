@@ -719,3 +719,6 @@ msgid "Otherwise install it manually, from your panel, or directly from your ssh
 msgstr ""
 "Sinon installer manuellement , à partir de votre panneau , ou directement à "
 "partir de votre accès ssh."
+
+msgid "Overview - WebApp (var/apps/browser, overview & webapp cache)"
+msgstr "Aperçu - WebApp (var/apps/browser, overview & webapp cache)"
