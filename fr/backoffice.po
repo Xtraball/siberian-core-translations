@@ -1194,3 +1194,6 @@ msgstr "Votre certificat est invalide."
 
 msgid "Your certificate is valid until:"
 msgstr "Votre certificat est valable jusqu'au :"
+
+msgid "Your certificates are saved."
+msgstr "Vos certificats sont enregistrés."
