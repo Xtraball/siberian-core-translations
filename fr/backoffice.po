@@ -300,3 +300,6 @@ msgstr "Peut générer APK"
 
 msgid "Cert"
 msgstr "Cert"
+
+msgid "Certificate"
+msgstr "Certificat"
