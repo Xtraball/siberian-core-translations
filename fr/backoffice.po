@@ -378,3 +378,6 @@ msgstr "Cron ordonnanceur aide"
 
 msgid "Custom SMTP Configuration"
 msgstr "Configuration SMTP personnalisée"
+
+msgid "Day of month"
+msgstr "Jour du mois"
