@@ -234,3 +234,6 @@ msgstr "Android SDK:"
 
 msgid "App name"
 msgstr "Nom de l'application"
+
+msgid "Application settings"
+msgstr "Paramètres de l'application"
