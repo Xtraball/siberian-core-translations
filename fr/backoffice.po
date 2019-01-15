@@ -972,3 +972,8 @@ msgstr "Test SSL/HTTPS"
 
 msgid "Testing: %s"
 msgstr "Test: %s"
+
+msgid "The PHP executable guessed path <b>'%s'</b> may be incorrect, please double check for it."
+msgstr ""
+"Le chemin de l'exécutable PHP <b> '% s' </ b> peut être incorrect, veuillez "
+"le vérifier."
