@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 10:31+0000\n"
+"PO-Revision-Date: 2019-01-15 10:36+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/mobile/fr/"
 ">\n"
@@ -290,3 +290,6 @@ msgstr "Téléphone"
 
 msgid "Title"
 msgstr "Titre"
+
+msgid "Delete"
+msgstr "Supprimer"
