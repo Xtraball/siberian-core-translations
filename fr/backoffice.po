@@ -728,3 +728,6 @@ msgstr "Vue d'ensemble cache effacé."
 
 msgid "PEM test:"
 msgstr "PEM Test:"
+
+msgid "PHP version %s:"
+msgstr "La version de PHP %s:"
