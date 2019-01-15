@@ -498,3 +498,9 @@ msgstr "HTTPS n'est pas disponible sur votre serveur."
 
 msgid "HTTPS not reachable"
 msgstr "HTTPS innaccessible"
+
+msgid "HTTPS support is in <b>Beta</b>, you should test it on your <b>development server</b> first & prepare for further migration."
+msgstr ""
+"La prise en charge HTTPS se trouve dans <b> Bêta </ b>, vous devez d'abord "
+"le tester sur votre <b> serveur de développement </ b> et préparer la "
+"migration ultérieure."
