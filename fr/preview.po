@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 10:31+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/preview/"
 "fr/>\n"
@@ -94,3 +94,9 @@ msgstr "Votre traduction de prévisualisation a été supprimé avec succès."
 
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Types de fichier:</b> %s<br />"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Title"
+msgstr "Titre"
