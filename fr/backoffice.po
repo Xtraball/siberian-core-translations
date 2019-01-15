@@ -1238,3 +1238,6 @@ msgstr ""
 
 msgid "values are refreshed once a day only!"
 msgstr ""
+
+msgid "OR"
+msgstr "Ou"
