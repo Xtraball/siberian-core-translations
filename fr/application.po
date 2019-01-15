@@ -2386,3 +2386,6 @@ msgstr "Enregistrer"
 
 msgid "Status"
 msgstr "Statut"
+
+msgid "Title"
+msgstr "Titre"
