@@ -1083,3 +1083,6 @@ msgstr "Nom d'utilisateur"
 
 msgid "User's status successfully edited"
 msgstr "Statut de l'utilisateur modifié avec succès"
+
+msgid "VAT check options"
+msgstr "Options de vérification de la TVA"
