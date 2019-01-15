@@ -354,3 +354,6 @@ msgstr "Configuration"
 
 msgid "Configuration successfully saved"
 msgstr "Configuration enregistrée"
+
+msgid "Core modules"
+msgstr "modules de base"
