@@ -774,3 +774,6 @@ msgstr "URL de la politique de confidentialité"
 
 msgid "Private"
 msgstr "Privé"
+
+msgid "Private certificate"
+msgstr "Certificat privé"
