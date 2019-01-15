@@ -1123,3 +1123,6 @@ msgstr "noms d'hôte de la Marque Blanche associée à ce Certificat"
 
 msgid "Whitelabel request"
 msgstr "Demande de marque blanche"
+
+msgid "Whitelabels"
+msgstr "Marques Blanches"
