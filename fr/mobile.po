@@ -335,3 +335,6 @@ msgstr "Chargement"
 
 msgid "Locate"
 msgstr "Localiser"
+
+msgid "Log-in"
+msgstr "S'identifier"
