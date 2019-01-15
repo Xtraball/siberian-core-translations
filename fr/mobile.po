@@ -329,3 +329,6 @@ msgstr "Prénom / NOM"
 
 msgid "Like"
 msgstr "Like"
+
+msgid "Loading"
+msgstr "Chargement"
