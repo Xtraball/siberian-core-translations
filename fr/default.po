@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 15:45+0000\n"
-"PO-Revision-Date: 2019-01-15 10:43+0000\n"
+"PO-Revision-Date: 2019-01-15 11:02+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/default/"
 "fr/>\n"
@@ -540,7 +540,7 @@ msgstr "Gérer"
 
 #: fr/default.csv:132
 msgid "Map"
-msgstr "Map"
+msgstr "Carte"
 
 #: fr/default.csv:133
 msgid "Maps"
@@ -696,7 +696,7 @@ msgstr "SVP entrer une date valide."
 
 #: fr/default.csv:171
 msgid "Please enter a valid email address"
-msgstr "Veuillez saisir une adresse email valide"
+msgstr "Veuillez entrer une adresse email valide"
 
 #: fr/default.csv:172
 msgid "Please enter a valid email address."
@@ -888,7 +888,7 @@ msgstr "Le compte a été sauvegardé avec succès"
 
 #: fr/default.csv:219
 msgid "The address you're looking for does not exists."
-msgstr "L'adresse que vous cherchez n'existe pas."
+msgstr "L'adresse que vous recherchez n'existe pas."
 
 #: fr/default.csv:220
 msgid "The email is required"
@@ -980,7 +980,7 @@ msgstr "Mise à jour le"
 
 #: fr/default.csv:242
 msgid "Use this coupon"
-msgstr "Utiliser cette promo"
+msgstr "Utiliser cette promotion"
 
 #: fr/default.csv:243
 msgid "User"
@@ -1012,7 +1012,7 @@ msgstr "Version %s"
 
 #: fr/default.csv:250
 msgid "View"
-msgstr "Voir"
+msgstr "Afficher"
 
 #: fr/default.csv:251
 msgid "We are sorry but this address is already used."
@@ -1028,7 +1028,7 @@ msgstr "Nous sommes désolé mais cette fonctionnalité n'est pas encore disponi
 
 #: fr/default.csv:254
 msgid "Website"
-msgstr "Site Web"
+msgstr "Site web"
 
 #: fr/default.csv:255
 msgid "Yes"
@@ -1339,3 +1339,6 @@ msgstr "Date et heure"
 
 msgid "First name / Last name"
 msgstr "Prénom / Nom"
+
+msgid "Loading"
+msgstr "Chargement"
