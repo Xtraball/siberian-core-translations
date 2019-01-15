@@ -414,3 +414,6 @@ msgstr "Rejeter et installer ultérieurement"
 
 msgid "Display"
 msgstr "Afficher"
+
+msgid "Doesn't meet the requirements"
+msgstr "Ne répond pas aux exigences"
