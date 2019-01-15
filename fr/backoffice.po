@@ -311,3 +311,6 @@ msgstr ""
 
 msgid "Certificate path:"
 msgstr "Chemin d'accès du certificat:"
+
+msgid "Certificate successfully generated."
+msgstr "Certificat généré avec succès."
