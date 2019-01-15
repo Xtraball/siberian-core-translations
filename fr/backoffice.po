@@ -471,3 +471,6 @@ msgstr "Générer"
 
 msgid "Generate a certificate via Let's Encrypt."
 msgstr "Générer un certificat par l'intermédiaire de Let's Encrypt."
+
+msgid "Generate source"
+msgstr "Générer la source"
