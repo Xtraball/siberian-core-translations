@@ -1048,3 +1048,6 @@ msgid "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check
 msgstr ""
 "Impossible de se connecter à HTTPS ou de valider le certificat SSL. <br /> "
 "Vérifiez si vous n'êtes pas dans «Plate-forme\" (Staging)"
+
+msgid "Unknown - Self-managed"
+msgstr "Inconnu - Autogéré"
