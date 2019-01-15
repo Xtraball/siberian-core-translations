@@ -1001,3 +1001,8 @@ msgstr ""
 "/> Cela permettra de restaurer les sources iOS, Android, HTML5 et Overview "
 "de la dernière version, puis de reconstruire le manifeste pour restaurer les "
 "modules installés."
+
+msgid "This e-mail address must be reachable, as you will receive important e-mails from the system & user actions."
+msgstr ""
+"Cette adresse e-mail doit être accessible, car vous recevrez des e-mails "
+"importants du système et des actions de l'utilisateur."
