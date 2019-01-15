@@ -544,3 +544,6 @@ msgstr "Installé"
 
 msgid "Installed icon packs"
 msgstr "Packs d'icônes installés"
+
+msgid "Installed layouts"
+msgstr "Mises en page installées"
