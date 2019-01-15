@@ -1006,3 +1006,8 @@ msgid "This e-mail address must be reachable, as you will receive important e-ma
 msgstr ""
 "Cette adresse e-mail doit être accessible, car vous recevrez des e-mails "
 "importants du système et des actions de l'utilisateur."
+
+msgid "This message will be displayed as a waiting message when your users chose an offline payment method"
+msgstr ""
+"Ce message sera affiché en tant que message d'attente lorsque vos "
+"utilisateurs ont choisi une méthode de paiement hors ligne"
