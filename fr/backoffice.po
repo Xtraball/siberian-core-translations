@@ -1034,3 +1034,6 @@ msgstr "Total d'utilisation:"
 
 msgid "Tour settings"
 msgstr "Paramètres Tour"
+
+msgid "Tour status"
+msgstr "Statut du Tour"
