@@ -722,3 +722,6 @@ msgstr ""
 
 msgid "Overview - WebApp (var/apps/browser, overview & webapp cache)"
 msgstr "Aperçu - WebApp (var/apps/browser, overview & webapp cache)"
+
+msgid "Overview cache cleared."
+msgstr "Vue d'ensemble cache effacé."
