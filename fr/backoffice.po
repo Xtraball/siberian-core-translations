@@ -966,3 +966,6 @@ msgstr "Temp (var/tmp, application sources & apk)"
 
 msgid "Templates"
 msgstr "Modèles"
+
+msgid "Test SSL/HTTPS"
+msgstr "Test SSL/HTTPS"
