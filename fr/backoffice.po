@@ -846,3 +846,6 @@ msgstr "Configuration des ventes"
 
 msgid "Save"
 msgstr "Enregistrer"
+
+msgid "Select a panel type or self-managed"
+msgstr "Sélectionnez un type de panneau ou autogéré"
