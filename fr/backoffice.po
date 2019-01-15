@@ -279,3 +279,6 @@ msgstr ""
 
 msgid "CA"
 msgstr "CA"
+
+msgid "CA certificate"
+msgstr "Certificat CA"
