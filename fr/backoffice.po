@@ -883,3 +883,8 @@ msgstr ""
 
 msgid "[Siberian_VestaCP] requires php 5.6+"
 msgstr "[Siberian_VestaCP] nécessite php 5.6+"
+
+msgid "Something went wrong with the API Sync to %s, retry or check in your panel if your SSL certificate is correctly setup."
+msgstr ""
+"Quelque chose s'est mal passé avec l'API Synchronisé avec% s, réessayer ou "
+"archiver votre panel si votre certificat SSL est correctement configuré."
