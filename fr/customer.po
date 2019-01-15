@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-08 17:20+0000\n"
-"PO-Revision-Date: 2019-01-11 10:49+0000\n"
+"PO-Revision-Date: 2019-01-15 11:07+0000\n"
 "Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/customer/"
 "fr/>\n"
@@ -116,7 +116,7 @@ msgstr "Mlle"
 
 #: fr/customer.csv:26
 msgid "Mr"
-msgstr "M"
+msgstr "Mr"
 
 #: fr/customer.csv:27
 msgid "Mrs"
@@ -140,7 +140,9 @@ msgstr "Ou avec votre compte"
 
 #: fr/customer.csv:32
 msgid "Please enter your email address. We'll send you your password right now."
-msgstr "Veuillez indiquer l'adresse email. Nous vous envoyons dans l'instant un nouveau mot de passe."
+msgstr ""
+"Veuillez indiquer votre adresse email. Nous vous envoyons un nouveau mot de "
+"passe."
 
 #: fr/customer.csv:33
 msgid "Please log in with your mobile phone"
@@ -227,3 +229,6 @@ msgstr "Vous devez remplir les champs prénom et nom."
 
 msgid "Your points"
 msgstr "Vos points"
+
+msgid "Title"
+msgstr "Titre"
