@@ -285,3 +285,6 @@ msgstr "Certificat CA"
 
 msgid "CA path:"
 msgstr "Accès CA :"
+
+msgid "CRON Scheduler interval"
+msgstr "Intervalle du planificateur CRON"
