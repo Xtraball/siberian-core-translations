@@ -1088,3 +1088,6 @@ msgstr "Date d'anniversaire"
 
 msgid "Delete"
 msgstr "Supprimer"
+
+msgid "Discount"
+msgstr "Promotion"
