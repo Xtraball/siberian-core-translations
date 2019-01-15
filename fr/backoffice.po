@@ -813,3 +813,6 @@ msgstr "Système de mises à jour régulières"
 
 msgid "Remove locks"
 msgstr "Déverouiller"
+
+msgid "Remove locks now"
+msgstr "Supprimer les verrous maintenant"
