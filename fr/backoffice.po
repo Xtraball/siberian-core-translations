@@ -1138,3 +1138,8 @@ msgstr ""
 "Vous êtes sur le point de nettoyer tous les fichiers de verrouillage cron !\\"
 "n"
 " Êtes-vous sûr ?"
+
+msgid "You are about to clean all your log files !\nAre you sure ?"
+msgstr ""
+"Vous êtes sur le point de nettoyer tous vos fichiers journaux !\\n"
+" Êtes-vous sûr ?"
