@@ -322,3 +322,8 @@ msgstr ""
 
 msgid "Certificate successfully re-generated."
 msgstr "Le certificat a été recréé avec succès."
+
+msgid "Check if this cron command is installed under the web user & if you have set a timezone in Settings > General"
+msgstr ""
+"Vérifiez si cette commande cron est installé sous l'utilisateur web et si "
+"vous avez défini un fuseau horaire dans Réglages> Général"
