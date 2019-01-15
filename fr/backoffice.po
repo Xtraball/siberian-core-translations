@@ -831,3 +831,6 @@ msgstr "Demande de certificat via Let's Encrypt."
 
 msgid "Required extensions"
 msgstr "Extensions obligatoires"
+
+msgid "Run test"
+msgstr "Exécuter le test"
