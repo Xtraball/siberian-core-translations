@@ -661,3 +661,6 @@ msgstr "Aucune information."
 
 msgid "No layouts"
 msgstr "Pas de mises en page"
+
+msgid "No module/user tasks"
+msgstr "Pas de module/tâches utilisateur"
