@@ -1171,3 +1171,6 @@ msgstr ""
 "vérifier <b> Paramètres> Avancé> Cron </ b> pour la compilation bloquée. <br "
 "/> Pour déverrouiller d'autres builds, vous pouvez supprimer les verrous du "
 "bouton ci-dessous."
+
+msgid "You have no certificate yet."
+msgstr "Vous n'avez pas de certificat encore."
