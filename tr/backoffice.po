@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-15 16:24+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-01-16 10:20+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/"
 "backoffice/tr/>\n"
 "Language: tr\n"
@@ -21,6 +21,9 @@ msgid ""
 "A certificate already exists for the domain %s, if you want to re-generate "
 "it, use 'Force re-generate' to proceed."
 msgstr ""
+"% S etki alanı için bir sertifika zaten var, yeniden oluşturmak "
+"istiyorsanız, devam etmek için &#39;Yeniden oluşturmaya zorla&#39; "
+"seçeneğini kullanın."
 
 msgid "[APK]"
 msgstr "[Kuru temizleme]"
@@ -70,12 +73,12 @@ msgstr "Gelişmiş"
 msgid ""
 "Alert: The APK build for the Application: %s (%s) is stuck for more than one "
 "hour."
-msgstr ""
+msgstr "Uyarı: Uygulama için APK oluşturma:% s (% s) bir saatten fazla takıldı."
 
 msgid ""
 "Alert: The Source build for the Application: %s (%s) is stuck for more than "
 "one hour."
-msgstr ""
+msgstr "Uyarı: Uygulama için APK oluşturma:% s (% s) bir saatten fazla takıldı."
 
 msgid "All the files are required."
 msgstr "Tüm alanlar gereklidir!"
@@ -91,7 +94,7 @@ msgid "An error occured"
 msgstr "Bir hata oluştu."
 
 msgid "An error occured while saving certificate to %s."
-msgstr ""
+msgstr "Renkleri kaydedilirken bir hata oluştu."
 
 msgid "An error occurred during the process. Please try again later."
 msgstr "İşlemi sırasında bir hata oluştu. Daha sonra tekrar deneyiniz."
@@ -118,7 +121,7 @@ msgid "Are you sure ?"
 msgstr "Emin misin ?"
 
 msgid "Auth type"
-msgstr ""
+msgstr "Reklam Türü"
 
 msgid "Authenticate"
 msgstr "Kimlik doğrulaması"
@@ -133,10 +136,10 @@ msgid "Backoffice options"
 msgstr "İdari büro seçenekleri"
 
 msgid "Bearer Token Auth (API)"
-msgstr ""
+msgstr "Taşıyıcı Simgesi Yetkilendirme (API)"
 
 msgid "Bearer Token Auth is valid."
-msgstr ""
+msgstr "Taşıyıcı Simgesi Yetkilendirme (API)"
 
 msgid "Beta"
 msgstr "Beta"
@@ -151,6 +154,7 @@ msgid ""
 "By clicking on link below, you will open your editor in tour editing mode. "
 "Please note that your user account must be created on editor side."
 msgstr ""
+"Aşağıdaki linke tıklayarak editörünüzü tur düzenleme modunda açacaksınız."
 
 msgid "CA"
 msgstr "CA"
@@ -159,7 +163,7 @@ msgid "CA certificate"
 msgstr "Sertifika"
 
 msgid "CA path:"
-msgstr ""
+msgstr "CA yolu:"
 
 msgid "CRON Scheduler interval"
 msgstr "CRON Zamanlayıcı aralığı"
@@ -184,7 +188,7 @@ msgid ""
 msgstr "Sertifika geçerli ve SSL  %s kadar kullanılabilir: Issuer: %s%s"
 
 msgid "Certificate path:"
-msgstr ""
+msgstr "Sertifika"
 
 msgid "Certificate successfully generated."
 msgstr "Hizmet başarıyla silindi."
@@ -195,7 +199,7 @@ msgid ""
 msgstr ""
 
 msgid "Certificate successfully re-generated."
-msgstr ""
+msgstr "Hizmet başarıyla silindi."
 
 msgid "Change the password"
 msgstr "Şifreyi değiştir"
@@ -265,7 +269,7 @@ msgid "Cron alerts"
 msgstr ""
 
 msgid "Cron interval"
-msgstr ""
+msgstr "Tekrar (Cron) aralığı"
 
 msgid "Cron scheduler"
 msgstr "Cron zamanlayıcı"
@@ -328,7 +332,7 @@ msgid "Editor's Design"
 msgstr "Editörün Tasarım"
 
 msgid "Enable custom SMTP configuration"
-msgstr ""
+msgstr "SMTP Yapılandırma"
 
 msgid "Enter your credentials:"
 msgstr "Kimlik bilgilerinizi girin:"
@@ -361,7 +365,7 @@ msgid "File is missing."
 msgstr "Dosya eksik."
 
 msgid "Force re-generation"
-msgstr ""
+msgstr "Kaynak Üretimi"
 
 msgid "Forgot password"
 msgstr "Şifremi unuttum"
@@ -432,7 +436,7 @@ msgid "Host"
 msgstr "Barındırıcı"
 
 msgid "Hostname"
-msgstr ""
+msgstr "Hostadı"
 
 msgid "Hostnames associated with this Certificate"
 msgstr "Barındırma adı Sertifika ile ilişkili"
@@ -484,7 +488,7 @@ msgid "JAVA:"
 msgstr "JAVA:"
 
 msgid "Last cron error"
-msgstr ""
+msgstr "Son hata"
 
 msgid "Last failure"
 msgstr "Son başarısızlık"
@@ -502,7 +506,7 @@ msgid "Let's Encrypt environment"
 msgstr ""
 
 msgid "[Let's Encrypt] renewing certificate."
-msgstr ""
+msgstr "Not: Let's encryp X1 sertifika  belgesidir."
 
 msgid "[Let's Encrypt] will add %s to SAN."
 msgstr ""
@@ -532,13 +536,13 @@ msgid "Logs cleared."
 msgstr "Temizlenmiş günlükleri."
 
 msgid "Mark all as read"
-msgstr ""
+msgstr "Hepsini okundu işaretle"
 
 msgid "Mark as new"
-msgstr ""
+msgstr "Okundu olarak işaretle"
 
 msgid "Mark as read"
-msgstr ""
+msgstr "Okundu olarak işaretle"
 
 msgid "Messages"
 msgstr "Mesajlar"
@@ -577,7 +581,7 @@ msgid "No"
 msgstr "Hayır"
 
 msgid "No file has been sent"
-msgstr ""
+msgstr "Mesajınız gönderildi"
 
 msgid "No icon packs"
 msgstr "Hiçbir simge paketleri"
@@ -616,7 +620,7 @@ msgid "Number of typed characters:"
 msgstr "Girilen karakter sayısı:"
 
 msgid "OR"
-msgstr ""
+msgstr "VEYA"
 
 msgid "Ok"
 msgstr "Tamam"
@@ -665,7 +669,7 @@ msgid "Password"
 msgstr "Şifre"
 
 msgid "Path to your CA certificate"
-msgstr ""
+msgstr "Sertifikanızı göndermek için buraya tıklayın"
 
 msgid "Path to your Certificate"
 msgstr ""
@@ -674,7 +678,7 @@ msgid "Path to your Private certificate"
 msgstr ""
 
 msgid "Path to your Private key"
-msgstr ""
+msgstr "Sisteminizin yolu"
 
 msgid "Payment received"
 msgstr "Ödeme alındı"
@@ -698,16 +702,16 @@ msgid "Port"
 msgstr "Port"
 
 msgid "Preview 5.0"
-msgstr ""
+msgstr "Önizleme"
 
 msgid "Privacy policy URL"
 msgstr "Gizlilik Politikası URL"
 
 msgid "Private"
-msgstr ""
+msgstr "Özel"
 
 msgid "Private certificate"
-msgstr ""
+msgstr "iOS sertifikası"
 
 msgid "Private path:"
 msgstr ""
@@ -731,7 +735,7 @@ msgid "Queued %s/%s"
 msgstr "Sıraya %/%s s"
 
 msgid "Read"
-msgstr ""
+msgstr "Oku"
 
 msgid "Rebuild"
 msgstr "Yeniden"
@@ -758,7 +762,7 @@ msgid "Removing domains: %s"
 msgstr ""
 
 msgid "Request"
-msgstr ""
+msgstr "İstek"
 
 msgid "Request the certificate via Let's Encrypt."
 msgstr "Let's Encryp ile sertifika isteği veya yenileme"
@@ -847,7 +851,7 @@ msgid "Stable"
 msgstr "Kararlı"
 
 msgid "Staging"
-msgstr ""
+msgstr "Kademelendirme:"
 
 msgid "Start editing your platform tour"
 msgstr ""
@@ -972,10 +976,10 @@ msgid "Total usage:"
 msgstr "Toplam satış"
 
 msgid "Tour settings"
-msgstr ""
+msgstr "Tur ayarları"
 
 msgid "Tour status"
-msgstr ""
+msgstr "Tur ayarları"
 
 msgid "Tour status successfully saved."
 msgstr "Hazıryemek basarıyla kaydedildi"
@@ -1006,7 +1010,7 @@ msgid "Updated At"
 msgstr "de güncellendi"
 
 msgid "Upload"
-msgstr ""
+msgstr "Yükle"
 
 msgid "Upload files or use existing certificates on my server"
 msgstr ""
@@ -1015,7 +1019,7 @@ msgid "Upload my certificates"
 msgstr ""
 
 msgid "Upload your own certificates"
-msgstr ""
+msgstr ".pem sertifikayı gönder"
 
 msgid "Use HTTPS"
 msgstr "HTTPS kullan"
@@ -1063,16 +1067,16 @@ msgid "Web space"
 msgstr "Web alanı"
 
 msgid "White Label"
-msgstr ""
+msgstr "Beyaz etiket"
 
 msgid "Whitelabel"
-msgstr ""
+msgstr "Beyaz etiket"
 
 msgid "Whitelabel hostnames associated with this Certificate"
 msgstr "Barındırma adı Sertifika ile ilişkili"
 
 msgid "Whitelabel request"
-msgstr ""
+msgstr "Whitelabel Ayarları"
 
 msgid "Whitelabels"
 msgstr ""
@@ -1122,10 +1126,10 @@ msgid ""
 msgstr ""
 
 msgid "You have no certificate yet."
-msgstr ""
+msgstr "Bir sertifika yolladınız."
 
 msgid "You have no new messages."
-msgstr ""
+msgstr "Gelen kutusunda yeni bir mesajınız var."
 
 msgid "You must select an Admin panel type before requesting a Certificate."
 msgstr ""
@@ -1142,7 +1146,7 @@ msgid "Your certificate is valid until:"
 msgstr "Sertifikanızı kadar geçerlidir:"
 
 msgid "Your certificates are saved."
-msgstr ""
+msgstr "Sertifika geçersiz"
 
 msgid "Your new password"
 msgstr "Yeni şifreniz"
@@ -1187,7 +1191,7 @@ msgid "letsencrypt"
 msgstr ""
 
 msgid "per page"
-msgstr ""
+msgstr "sayfa başına"
 
 msgid "see Settings > Advanced > Configuration > Cron to edit options."
 msgstr ""

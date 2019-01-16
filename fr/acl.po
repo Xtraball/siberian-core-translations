@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-15 16:22+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-01-15 17:05+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/acl/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -14,49 +14,51 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
+"Une erreur s'est produite lors de la suppression de votre rôle. S'il vous "
+"plaît, essayez de nouveau plus tard."
 
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 msgid "Create a new role"
-msgstr ""
+msgstr "Créer un nouveau rôle"
 
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editer"
 
 msgid "Edit %s role"
-msgstr ""
+msgstr "Edition du rôle %s"
 
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 msgid "Label"
-msgstr ""
+msgstr "Titre"
 
 msgid "List of your roles"
-msgstr ""
+msgstr "Liste des Rôles"
 
 msgid "Role"
-msgstr ""
+msgstr "Rôle"
 
 msgid "Search"
-msgstr ""
+msgstr "Recherche"
 
 msgid "This role will be the default one for the whole platform."
-msgstr ""
+msgstr "Ce rôle sera celui par défaut pour tout les nouveaux utilisateurs."
 
 msgid "You don't have any role yet"
-msgstr ""
+msgstr "Vous ne possédez pas encore de rôle"
 
 msgid "Your role has been successfully deleted"
-msgstr ""
+msgstr "Le rôle a correctement été supprimé"
 
 msgid "Your role has been successfully saved"
-msgstr ""
+msgstr "Le rôle a correctement été sauvegardé"

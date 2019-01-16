@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-15 16:24+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-01-15 17:30+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/admin/tr/"
 ">\n"
 "Language: tr\n"
@@ -29,10 +29,10 @@ msgid "Account role"
 msgstr "Hesap Biçimi"
 
 msgid "Address:"
-msgstr ""
+msgstr "Adres:"
 
 msgid "Address 2:"
-msgstr ""
+msgstr "Adres 2:"
 
 msgid "Administrator : full access"
 msgstr "Yönetici : tam erişim"
@@ -44,7 +44,7 @@ msgid "An error occurred while saving. The country is not valid."
 msgstr "Kaydedilirken bir hata oluştu. Ülke geçerli değil."
 
 msgid "Application"
-msgstr ""
+msgstr "Uygulama"
 
 msgid "Application have been duplicated successfully."
 msgstr "Uygulama Başarıyla kopyalandı"
@@ -53,7 +53,7 @@ msgid "Are you sure you want to delete this application?"
 msgstr "Bu aplikasyonu silmek istediğinize eminmisiniz?"
 
 msgid "Are you sure you want to duplicate this application?"
-msgstr ""
+msgstr "Bu uygulamayı kopyalamak istediğinizden eminmisiniz?"
 
 msgid "Can add pages"
 msgstr "Sayfa eklenebilir mi"
@@ -68,7 +68,7 @@ msgid "Change my password"
 msgstr "Şifremi değiştir"
 
 msgid "Company:"
-msgstr ""
+msgstr "Şirket:"
 
 msgid "Confirm your password"
 msgstr "Şifrenizi doğrulayın"
@@ -93,7 +93,7 @@ msgstr ""
 "İsteklerinizi paylaşarak bize geribildirim göndermek için tereddüt etmeyin:"
 
 msgid "Edit the account %s"
-msgstr ""
+msgstr "\"%s\" hesabı düzenle"
 
 msgid "Edit the user %s"
 msgstr "%s kullanıcını düzenle"
@@ -198,7 +198,7 @@ msgid "This user has no applications yet."
 msgstr "Bu kullanıcının henüz hiçbir uygulaması mevcut değil"
 
 msgid "User successfully deleted"
-msgstr ""
+msgstr "Kullanıcı başarıyla silindi"
 
 msgid "View my current data"
 msgstr "Mevcut verilerimi görüntüle"
@@ -238,7 +238,7 @@ msgid "Your password:"
 msgstr "Şifreniz:"
 
 msgid "Zip Code"
-msgstr ""
+msgstr "Posta Kodu"
 
 msgid "%s - Your new password"
 msgstr "%s – Yeni şifreniz"

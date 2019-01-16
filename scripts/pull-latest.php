@@ -1,8 +1,8 @@
 <?php
 
-// https://translate.siberiancms.com/download/siberian/default-group2/fr/?format=po
+// https://translate.siberiancms.com/download/siberian/default-group2/fr/
 
-$endpoint = "https://translate.siberiancms.com/download/siberian/#COMPONENT#/#LANG#/?format=po";
+$endpoint = "https://translate.siberiancms.com/download/siberian/#COMPONENT#/#LANG#/";
 
 chdir(__DIR__ . "/..");
 
@@ -77,10 +77,11 @@ $total = count($locales) * count($components);
 $counter = 0;
 
 foreach ($locales as $folder => $human) {
-    echo "Current locale: {$human} ({$folder}) \n\n";
+    echo "\nLocale: {$human} ({$folder}) \n";
+    echo "==================================================\n";
     foreach ($components as $component) {
         $percentage = round($counter / $total * 100, 2);
-        echo "Current component: {$component} {$percentage}% \n";
+        echo "Component: {$component} {$percentage}% \n";
         $url = str_replace("#COMPONENT#", $component, $endpoint);
         $url = str_replace("#LANG#", $folder, $url);
 

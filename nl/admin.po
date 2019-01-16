@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-15 16:23+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-01-15 17:30+0000\n"
+"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/admin/nl/>"
 "\n"
 "Language: nl\n"
@@ -22,13 +22,13 @@ msgstr ""
 "administratiepaneel."
 
 msgid "Access"
-msgstr ""
+msgstr "Toegang"
 
 msgid "Account Role"
-msgstr ""
+msgstr "Account Rol"
 
 msgid "Account role"
-msgstr ""
+msgstr "Account rol"
 
 msgid "Address:"
 msgstr "Adres:"
@@ -37,10 +37,10 @@ msgid "Address 2:"
 msgstr "Adres 2:"
 
 msgid "Administrator : full access"
-msgstr ""
+msgstr "Beheerder : volledige toegang"
 
 msgid "Administrator: full access"
-msgstr ""
+msgstr "Beheerder: volledige toegang"
 
 msgid "An error occurred while saving. The country is not valid."
 msgstr "Er is een fout opgetreden tijdens het opslaan. Het land is niet geldig."
@@ -61,10 +61,10 @@ msgid "Can add pages"
 msgstr "Je kan pagina's toevoegen"
 
 msgid "Can generate APK"
-msgstr ""
+msgstr "Kan APK genereren"
 
 msgid "Can manage guided tour"
-msgstr ""
+msgstr "Kan rondleiding beheren"
 
 msgid "Change my password"
 msgstr "Verander mijn Wachtwoord"
@@ -76,7 +76,7 @@ msgid "Confirm your password"
 msgstr "Bevestig je wachtwoord"
 
 msgid "Connect to your backoffice to validate this account."
-msgstr ""
+msgstr "Maak verbinding met uw backoffice om dit account te valideren."
 
 msgid "Create a new application"
 msgstr "Maak een nieuwe Applicatie"
@@ -105,7 +105,7 @@ msgid "Enjoy!"
 msgstr "Veel plezier!"
 
 msgid "Filter your apps..."
-msgstr ""
+msgstr "Filter uw apps ..."
 
 msgid "Find some advices here:"
 msgstr "Vind uitleg en advies hier:"
@@ -144,10 +144,10 @@ msgid "Need some help?"
 msgstr "Hulp nodig?"
 
 msgid "New user registration on your platform"
-msgstr ""
+msgstr "Nieuwe gebruiker registratie op uw platform"
 
 msgid "No account for now."
-msgstr ""
+msgstr "Nog geen account voor nu."
 
 msgid "Please enter a valid email address."
 msgstr "Vul een geldig e-mailadres in."
@@ -175,7 +175,7 @@ msgstr ""
 "Het spijt ons maar een fout opgetreden bij het dupliceren van uw applicatie."
 
 msgid "State/Province"
-msgstr ""
+msgstr "Staat / Provincie"
 
 msgid "Thanks for choosing us!"
 msgstr "Bedankt dat je voor ons hebt gekozen!"
@@ -193,7 +193,7 @@ msgid "The password must be at least 6 characters."
 msgstr "Het wachtwoord moet minstens 6 karakters lang zijn."
 
 msgid "This account is not activated yet. Please contact an administrator."
-msgstr ""
+msgstr "Dit account is nog niet geactiveerd. Neem contact op met een beheerder."
 
 msgid "This admin can manage guided tour from editor"
 msgstr "Deze beheerder kan de rondleiding beheren"
@@ -202,10 +202,10 @@ msgid "This user has no applications yet."
 msgstr "Deze gebruiker heeft nog geen applicaties."
 
 msgid "User successfully deleted"
-msgstr ""
+msgstr "Gebruiker succesvol verwijderd"
 
 msgid "View my current data"
-msgstr ""
+msgstr "Bekijk mijn actuele gegevens"
 
 msgid "We are sorry but this email address is already used."
 msgstr "Het spijt ons maar dit e-mailadres wordt al gebruikt."
@@ -228,7 +228,7 @@ msgid "You don't have any users yet"
 msgstr "Je hebt nog geen gebruikers"
 
 msgid "Your account have been created successfully. It will be activated soon."
-msgstr ""
+msgstr "Je account is aangemaakt. Het zal binnenkort worden geactiveerd."
 
 msgid "Your credentials"
 msgstr "Je gegevens"
@@ -240,10 +240,10 @@ msgid "Your password:"
 msgstr "Je wachtwoord:"
 
 msgid "Zip Code"
-msgstr ""
+msgstr "Postcode"
 
 msgid "%s - Your new password"
 msgstr "%s - Je nieuwe wachtwoord"
 
 msgid "to"
-msgstr ""
+msgstr "naar"
