@@ -14,13 +14,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "No current stream to load."
 msgid "No current stream to load."
 msgstr ""
 
-msgctxt ""
-"This stream is a literal IPv4, you may encounter problems with iOS "
-"publication."
 msgid ""
 "This stream is a literal IPv4, you may encounter problems with iOS "
 "publication."

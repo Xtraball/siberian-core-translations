@@ -14,66 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "A month"
 msgid "A month"
 msgstr "Par mois"
 
-msgctxt "A week"
 msgid "A week"
 msgstr "Par semaine"
 
-msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Challengers"
 
-msgctxt "Current game"
 msgid "Current game"
 msgstr "Jeu en cours"
 
-msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Pas de challengers pour l'instant"
 
-msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Nom du jeu"
 
-msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Jeu sauvegardé avec succès"
 
-msgctxt "Next game"
 msgid "Next game"
 msgstr "Jeu suivant"
 
-msgctxt "On the"
 msgid "On the"
 msgstr "Le"
 
-msgctxt "Period"
 msgid "Period"
 msgstr "Période"
 
-msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Périodicité"
 
-msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Date de publication"
 
-msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Classement du mois"
 
-msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Classement de la semaine"
 
-msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "Team Leader"
 
-msgctxt "%s point%s"
 msgid "%s point%s"
 msgstr "%s point%s"

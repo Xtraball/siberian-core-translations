@@ -15,26 +15,20 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Amount of bill"
 msgid "Amount of bill"
 msgstr "Сумма счета"
 
-msgctxt "Calculate"
 msgid "Calculate"
 msgstr "Рассчитать"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Количество людей"
 
-msgctxt "Percentage of tip"
 msgid "Percentage of tip"
 msgstr "Процент чаевых"
 
-msgctxt "This feature allows your users to calculate tips with their app."
 msgid "This feature allows your users to calculate tips with their app."
 msgstr "Эта функция позволяет пользователям рассчитать чаевые в приложении."
 
-msgctxt "Tip for each:"
 msgid "Tip for each:"
 msgstr "Чаевые на каждого:"

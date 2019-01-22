@@ -14,94 +14,71 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a link"
 msgid "Add a link"
 msgstr "添加一个链接"
 
-msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr "有一个错误保存图像。请稍后再试。"
 
-msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "你确定要删除此链接？"
 
-msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "你确定要删除该照片？"
 
-msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr ""
 
-msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr ""
 
-msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr ""
 
-msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr ""
 
-msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr ""
 
-msgctxt "Link"
 msgid "Link"
 msgstr "链接"
 
-msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "该链接被成功取出"
 
-msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "该链接已成功保存"
 
-msgctxt "Magento"
 msgid "Magento"
 msgstr ""
 
-msgctxt "Picto"
 msgid "Picto"
 msgstr "图像"
 
-msgctxt "Prestashop"
 msgid "Prestashop"
 msgstr ""
 
-msgctxt "Shopify"
 msgid "Shopify"
 msgstr ""
 
-msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "图像被成功删除"
 
-msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "图像已成功保存"
 
-msgctxt "Use external application"
 msgid "Use external application"
 msgstr ""
 
-msgctxt "Volusion"
 msgid "Volusion"
 msgstr ""
 
-msgctxt "Without navbar"
 msgid "Without navbar"
 msgstr ""
 
-msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr ""
 
-msgctxt "Your links"
 msgid "Your links"
 msgstr "您的链接"

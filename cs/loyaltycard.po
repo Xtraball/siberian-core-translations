@@ -14,157 +14,116 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1 věrnostní bod =  "
 
-msgctxt "1 point"
 msgid "1 point"
 msgstr "1 bod =  "
 
-msgctxt "1 validated point ="
 msgid "1 validated point ="
 msgstr "1 bod ="
 
-msgctxt "An error occurred while retrieving QRCode. Please try again later"
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr "Při ukládání došlo k chybě. Zkuste to prosím později"
 
-msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
 msgstr "Při ukládání hesla došlo k chybě. Zkuste to prosím později"
 
-msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "Při ukládání věrnostní karty došlo k chybě"
 
-msgctxt ""
-"An error occurred while saving your loyalty card. Please fill all fields in."
 msgid ""
 "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr "Při ukládání věrnostní karty došlo k chybě. Vyplňte prosím všechna pole"
 
-msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
 msgstr "Při ověřování bodu došlo k chybě. Zkuste to prosím později"
 
-msgctxt "An error occurred with your QRCode."
 msgid "An error occurred with your QRCode."
 msgstr ""
 
-msgctxt "Card name"
 msgid "Card name"
 msgstr "Název karty (pro vás)"
 
-msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "Gratulujeme"
 
-msgctxt "Current card"
 msgid "Current card"
 msgstr "Součastný věrnostní program"
 
-msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "Smazat toto heslo?"
 
-msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "Jméno zaměstnance:"
 
-msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "Heslo zaměstnance:"
 
-msgctxt "Enter password"
 msgid "Enter password"
 msgstr "Zadejte heslo"
 
-msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "Zadejte heslo"
 
-msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "Nový věrnostní program"
 
-msgctxt "My passwords"
 msgid "My passwords"
 msgstr "Moje hesla"
 
-msgctxt "No cards available"
 msgid "No cards available"
 msgstr "Žádné věrnostní karty k dispozici"
 
-msgctxt "Number of points"
 msgid "Number of points"
 msgstr "Počet bodů (k odměně)"
 
-msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Prosím, zadejte název"
 
-msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "Prosím, zadejte heslo"
 
-msgctxt ""
-"Please show your phone to the store person so that he enters his password"
 msgid ""
 "Please show your phone to the store person so that he enters his password"
 msgstr "Požádejte prosím personál o vložení hesla k zapsání věrnostního bodu"
 
-msgctxt "Point active"
 msgid "Point active"
 msgstr ""
 
-msgctxt "Point inactive"
 msgid "Point inactive"
 msgstr ""
 
-msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Bod%s úspěšně ověřen"
 
-msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "Předchozí věrnostní programy"
 
-msgctxt "Reward"
 msgid "Reward"
 msgstr "Odměna"
 
-msgctxt "Rewards"
 msgid "Rewards"
 msgstr "Odměna"
 
-msgctxt "Scan QRCode"
 msgid "Scan QRCode"
 msgstr ""
 
-msgctxt "This card is uniq:"
 msgid "This card is uniq:"
 msgstr "Tato karta je unikátní:"
 
-msgctxt "Unlock by QRCode"
 msgid "Unlock by QRCode"
 msgstr ""
 
-msgctxt "Unreadable QRCode, sorry."
 msgid "Unreadable QRCode, sorry."
 msgstr ""
 
-msgctxt "Use only once?"
 msgid "Use only once?"
 msgstr "Použít jen jednou?"
 
-msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Je nám líto, ale tato karta je dočasně blokována"
 
-msgctxt ""
-"Wrong password. Be carefull! %d remaining attempt%s before locking your "
-"card. Ask the store person for validating your point"
 msgid ""
 "Wrong password. Be carefull! %d remaining attempt%s before locking your "
 "card. Ask the store person for validating your point"
@@ -172,9 +131,6 @@ msgstr ""
 "Chybné heslo. Buďte opatrní! %d zbývající pokusy%s před zablokováním karty. "
 "Požádejte personál o zadání hesla k ověření bodu"
 
-msgctxt ""
-"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
-"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -182,9 +138,6 @@ msgstr ""
 "Chybné heslo.<br />Buďte opatrní! %d zbývající pokusy%s před zablokováním "
 "karty.<br /> Požádejte personál o zadání hesla k ověření bodu"
 
-msgctxt ""
-"You have exceeded the number of attempts to validate points. Your card is "
-"locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points. Your card is "
 "locked for 24h"
@@ -192,38 +145,29 @@ msgstr ""
 "Upps, překročili jste počet pokusů pro zadání hesla! Vaše karta je "
 "zablokována po dobu 24 hodin"
 
-msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "Právě jste nasbírali všechy body na Vaší kartě!"
 
-msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "K potvrzení věrnostních bodů musíte být přihlášeni"
 
-msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "Vaše věrnostní karta byla úspěšně uložena"
 
-msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "Heslo musí být 4 číslice"
 
-msgctxt "is now yours!"
 msgid "is now yours!"
 msgstr "je nyní Vaše!"
 
-msgctxt "point"
 msgid "point"
 msgstr "bod"
 
-msgctxt "point to validate"
 msgid "point to validate"
 msgstr "bod k ověření"
 
-msgctxt "points to validate"
 msgid "points to validate"
 msgstr "body k ověření"
 
-msgctxt "validated points ="
 msgid "validated points ="
 msgstr "x ověřený bod ="

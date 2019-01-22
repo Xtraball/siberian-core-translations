@@ -14,45 +14,33 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "1 day"
 msgid "1 day"
 msgstr ""
 
-msgctxt "1 hour"
 msgid "1 hour"
 msgstr ""
 
-msgctxt "1 minute"
 msgid "1 minute"
 msgstr "minuta"
 
-msgctxt "12 hours"
 msgid "12 hours"
 msgstr ""
 
-msgctxt "15 minutes"
 msgid "15 minutes"
 msgstr "minutami"
 
-msgctxt "3 hours"
 msgid "3 hours"
 msgstr "hodinami"
 
-msgctxt "30 minutes"
 msgid "30 minutes"
 msgstr "minutami"
 
-msgctxt "6 hours"
 msgid "6 hours"
 msgstr "hodinami"
 
-msgctxt "Add a query"
 msgid "Add a query"
 msgstr ""
 
-msgctxt ""
-"An error occurred while accessing your Wordpress website. Please, verify the "
-"domain name %s"
 msgid ""
 "An error occurred while accessing your Wordpress website. Please, verify the "
 "domain name %s"
@@ -60,129 +48,94 @@ msgstr ""
 "Při přístupu vaše webové stránky Wordpress došlo k chybě. Prosím, ověřte "
 "název domény %s"
 
-msgctxt "Ascending"
 msgid "Ascending"
 msgstr ""
 
-msgctxt "Author"
 msgid "Author"
 msgstr ""
 
-msgctxt "Cache lifetime (excluding pull to refresh)"
 msgid "Cache lifetime (excluding pull to refresh)"
 msgstr ""
 
-msgctxt "Categories successfully saved"
 msgid "Categories successfully saved"
 msgstr "Kategorie byla úspěšně uložena"
 
-msgctxt "Click here to download our Wordpress plugin"
 msgid "Click here to download our Wordpress plugin"
 msgstr "Klikněte zde ke stažení Wordpress pluginu"
 
-msgctxt "Cover & Thumbnails are only visible when queries are not grouped."
 msgid "Cover & Thumbnails are only visible when queries are not grouped."
 msgstr ""
 
-msgctxt "Date"
 msgid "Date"
 msgstr "Datum"
 
-msgctxt "Descending"
 msgid "Descending"
 msgstr ""
 
-msgctxt "Enter your Wordpress URL:"
 msgid "Enter your Wordpress URL:"
 msgstr "Zadejte URL Vší Wordpress stránky"
 
-msgctxt "Group all queries into a single list"
 msgid "Group all queries into a single list"
 msgstr ""
 
-msgctxt "ID"
 msgid "ID"
 msgstr "ID"
 
-msgctxt ""
-"If your WordPress is secured by a login/password, and/or you want to display "
-"private posts you can set here a user to be used to retrieve posts."
 msgid ""
 "If your WordPress is secured by a login/password, and/or you want to display "
 "private posts you can set here a user to be used to retrieve posts."
 msgstr ""
 
-msgctxt "Loading categories"
 msgid "Loading categories"
 msgstr "Načítání kategorie"
 
-msgctxt "Manage WordPress"
 msgid "Manage WordPress"
 msgstr ""
 
-msgctxt "Manage queries"
 msgid "Manage queries"
 msgstr ""
 
-msgctxt "No cache"
 msgid "No cache"
 msgstr ""
 
-msgctxt ""
-"Note: cache is automatically refreshed on any user pull to refresh action "
-"whatever the lifetime set."
 msgid ""
 "Note: cache is automatically refreshed on any user pull to refresh action "
 "whatever the lifetime set."
 msgstr ""
 
-msgctxt "Pages"
 msgid "Pages"
 msgstr ""
 
-msgctxt "Relevance"
 msgid "Relevance"
 msgstr ""
 
-msgctxt "Show title & subtitle"
 msgid "Show title & subtitle"
 msgstr ""
 
-msgctxt "Sorry, we are unable to fetch any category or post from your WordPress."
 msgid "Sorry, we are unable to fetch any category or post from your WordPress."
 msgstr ""
 
-msgctxt "Sort by"
 msgid "Sort by"
 msgstr ""
 
-msgctxt "Sort order"
 msgid "Sort order"
 msgstr ""
 
-msgctxt "Strip shortcodes"
 msgid "Strip shortcodes"
 msgstr ""
 
-msgctxt "Unable to find your WordPress or /wp-json/ endpoint."
 msgid "Unable to find your WordPress or /wp-json/ endpoint."
 msgstr ""
 
-msgctxt "Unlimited (until any pull to refresh)"
 msgid "Unlimited (until any pull to refresh)"
 msgstr ""
 
-msgctxt ""
-"We are sorry but no category has been detected on your Wordpress website."
 msgid ""
 "We are sorry but no category has been detected on your Wordpress website."
 msgstr ""
 "Omlouváme se, ale žádná kategorie nebyla nalezena na vašich Wordpress "
 "stránkách"
 
-msgctxt ""
-"We are sorry but our Wordpress plugin hasn't been detected on your website. "
-"Please be sure it is correctly installed and activated."
 msgid ""
 "We are sorry but our Wordpress plugin hasn't been detected on your website. "
 "Please be sure it is correctly installed and activated."
@@ -190,21 +143,15 @@ msgstr ""
 "Je nám líto, ale náš Wordpress plugin nebyl nalezen na vašich webových "
 "stránkách. Prosím ujistěte se, že je správně nainstalován a aktivován."
 
-msgctxt "WordPress URL"
 msgid "WordPress URL"
 msgstr ""
 
-msgctxt "Wordpress"
 msgid "Wordpress"
 msgstr "Wordpress"
 
-msgctxt "You can mix posts & pages in the queries if needed."
 msgid "You can mix posts & pages in the queries if needed."
 msgstr ""
 
-msgctxt ""
-"You can mix posts & pages in the queries if needed, however it's not "
-"recommended and can lead to random sorting."
 msgid ""
 "You can mix posts & pages in the queries if needed, however it's not "
 "recommended and can lead to random sorting."

@@ -14,96 +14,73 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Aggiungi un link"
 
-msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr ""
 "Si è verificato un errore durante il caricamento dell'immagine. Riprova più "
 "tardi."
 
-msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Sei sicuro di voler eliminare questo link?"
 
-msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Sei sicuro di voler eliminare questa immagine"
 
-msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr ""
 
-msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr ""
 
-msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr ""
 
-msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr ""
 
-msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr ""
 
-msgctxt "Link"
 msgid "Link"
 msgstr "Link"
 
-msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "Link eliminato correttamente"
 
-msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "Link salvato correttamente"
 
-msgctxt "Magento"
 msgid "Magento"
 msgstr ""
 
-msgctxt "Picto"
 msgid "Picto"
 msgstr "Immagine"
 
-msgctxt "Prestashop"
 msgid "Prestashop"
 msgstr ""
 
-msgctxt "Shopify"
 msgid "Shopify"
 msgstr ""
 
-msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "Immagine cancellata correttamente"
 
-msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "Immagine salvata correttamente"
 
-msgctxt "Use external application"
 msgid "Use external application"
 msgstr ""
 
-msgctxt "Volusion"
 msgid "Volusion"
 msgstr ""
 
-msgctxt "Without navbar"
 msgid "Without navbar"
 msgstr ""
 
-msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr ""
 
-msgctxt "Your links"
 msgid "Your links"
 msgstr "I Tuoi link"

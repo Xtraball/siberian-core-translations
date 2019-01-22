@@ -14,37 +14,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Access restricted to authorized members only"
 msgid "Access restricted to authorized members only"
 msgstr "Η πρόσβαση είναι περιορισμένη σε μέλη μόνο"
 
-msgctxt "Allow all the users by default:"
 msgid "Allow all the users by default:"
 msgstr "Να επιτρέπεται πρόσβαση σε όλους τους χρήστες από προεπιλογή:"
 
-msgctxt "Choose the features to lock:"
 msgid "Choose the features to lock:"
 msgstr "Επιλέξτε το περιεχόμενο που θέλετε να είναι κλειδωμένο:"
 
-msgctxt "Lock the entire application?"
 msgid "Lock the entire application?"
 msgstr "Κλείδωμα ολόκληρης της εφαρμογής?"
 
-msgctxt "Restrict Access"
 msgid "Restrict Access"
 msgstr "Περιορισμένη Πρόσβαση"
 
-msgctxt "Scan now to unlock"
 msgid "Scan now to unlock"
 msgstr ""
 
-msgctxt "Unlock by:"
 msgid "Unlock by:"
 msgstr ""
 
-msgctxt ""
-"We are sorry but your account does not have enough permissions to access "
-"this page"
 msgid ""
 "We are sorry but your account does not have enough permissions to access "
 "this page"
@@ -52,22 +42,17 @@ msgstr ""
 "Συγνώμη, αλλά ο λογαριασμός σας δεν έχει επαρκή δικαιώματα για να έχει "
 "πρόσβαση σε αυτή την σελίδα"
 
-msgctxt "the email address"
 msgid "the email address"
 msgstr "E-mail"
 
-msgctxt "the first name"
 msgid "the first name"
 msgstr "Όνομα"
 
-msgctxt "the gender"
 msgid "the gender"
 msgstr "Γένος"
 
-msgctxt "the last name"
 msgid "the last name"
 msgstr "Επώνυμο"
 
-msgctxt "the password"
 msgid "the password"
 msgstr "Κωδικός"

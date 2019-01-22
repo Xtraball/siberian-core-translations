@@ -14,41 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Activate VAT number check with VIES"
 msgid "Activate VAT number check with VIES"
 msgstr "Activeren BTW-nummer, controleren met VIES"
 
-msgctxt "Add a custom text to the footer of your invoices"
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Voeg een eigen tekst aan de voettekst van uw facturen toe"
 
-msgctxt "Invoice options"
 msgid "Invoice options"
 msgstr "Factuur opties"
 
-msgctxt "Offline plans"
 msgid "Offline plans"
 msgstr "Offline plan"
 
-msgctxt "Paid at:"
 msgid "Paid at:"
 msgstr "Betaald op:"
 
-msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Betalingsmethode"
 
-msgctxt "Price Excl. Tax"
 msgid "Price Excl. Tax"
 msgstr "Prijs excl. BTW"
 
-msgctxt "Sales configuration"
 msgid "Sales configuration"
 msgstr "Verkoop-configuratie"
 
-msgctxt ""
-"This message will be displayed as a waiting message when your users chose an "
-"offline payment method"
 msgid ""
 "This message will be displayed as a waiting message when your users chose an "
 "offline payment method"
@@ -56,9 +45,6 @@ msgstr ""
 "Dit bericht wordt weergegeven als een wachtend bericht wanneer uw gebruikers "
 "een offline betaalmethode hebben gekozen"
 
-msgctxt ""
-"This message will be displayed as an information message to describe which "
-"offline payment method you offer"
 msgid ""
 "This message will be displayed as an information message to describe which "
 "offline payment method you offer"
@@ -66,10 +52,8 @@ msgstr ""
 "Dit bericht wordt weergegeven als een informatiebericht om te beschrijven "
 "welke offline betalingsmethode u aanbiedt"
 
-msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Totaal Excl. BTW"
 
-msgctxt "VAT check options"
 msgid "VAT check options"
 msgstr "Opties voor btw-controle"

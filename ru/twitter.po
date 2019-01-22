@@ -15,66 +15,50 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while saving."
 msgid "An error occurred while saving."
 msgstr "Произошла ошибка при сохранении"
 
-msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
 
-msgctxt "Could not authenticate you."
 msgid "Could not authenticate you."
 msgstr "Невозможно авторизоваться."
 
-msgctxt "Enter your twitter handle/url"
 msgid "Enter your twitter handle/url"
 msgstr "Введите ваш псевдоним Twitter/URL"
 
-msgctxt "Handle"
 msgid "Handle"
 msgstr "Псевдоним"
 
-msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "Информация успешно сохранена"
 
-msgctxt "Sorry, that page does not exist."
 msgid "Sorry, that page does not exist."
 msgstr "К сожалению, эта страница не существует."
 
-msgctxt "Twitter API secret"
 msgid "Twitter API secret"
 msgstr "Секрет Твиттера"
 
-msgctxt "Twitter API settings"
 msgid "Twitter API settings"
 msgstr "Параметры API Твиттера"
 
-msgctxt "Twitter API token"
 msgid "Twitter API token"
 msgstr "Токен Twitter API"
 
-msgctxt "Twitter consumer key"
 msgid "Twitter consumer key"
 msgstr "Ключ клиента Twitter"
 
-msgctxt "Twitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr "Секрет потребителя Twitter"
 
-msgctxt "Verify"
 msgid "Verify"
 msgstr "Проверить"
 
-msgctxt "followers"
 msgid "followers"
 msgstr "последователи"
 
-msgctxt "following"
 msgid "following"
 msgstr "следующим"
 
-msgctxt "was verified with success"
 msgid "was verified with success"
 msgstr "был проверен с успехом"

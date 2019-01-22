@@ -14,42 +14,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while saving your RSS feed"
 msgid "An error occurred while saving your RSS feed"
 msgstr "Se ha producido un error al guardar su Feed RSS"
 
-msgctxt "Display feed pictures whenever possible"
 msgid "Display feed pictures whenever possible"
 msgstr "RSS Mostrar imágenes siempre que sea posible"
 
-msgctxt "Enter the URL of this RSS feed"
 msgid "Enter the URL of this RSS feed"
 msgstr "Introducir la URL de este feed RSS"
 
-msgctxt "Found feeds"
 msgid "Found feeds"
 msgstr "Lista de los Feeds encontrados"
 
-msgctxt "No RSS feed could be found"
 msgid "No RSS feed could be found"
 msgstr "No se encontró ningún Feed RSS "
 
-msgctxt "RSS feed successfully saved"
 msgid "RSS feed successfully saved"
 msgstr "Feed RSS guardado correctamente"
 
-msgctxt "Show article"
 msgid "Show article"
 msgstr "Mostrar artículo"
 
-msgctxt "day"
 msgid "day"
 msgstr "dia"
 
-msgctxt "hour"
 msgid "hour"
 msgstr "hora"
 
-msgctxt "minute"
 msgid "minute"
 msgstr "minuto"

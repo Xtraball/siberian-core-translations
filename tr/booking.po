@@ -14,98 +14,74 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Rezervasyon detayları"
 
-msgctxt "Booking location:"
 msgid "Booking location:"
 msgstr "Rezervasyon konumu:"
 
-msgctxt "Booking subject:"
 msgid "Booking subject:"
 msgstr "Rezervasyon konusu:"
 
-msgctxt "Comment:"
 msgid "Comment:"
 msgstr "Yorum:"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Tarih ve zaman"
 
-msgctxt "Email address:"
 msgid "Email address:"
 msgstr "Email adres:"
 
-msgctxt "Enter the location name and contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "Konumu adını ve iletişim e-posta girin:"
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "İsim / Soyisim"
 
-msgctxt "Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "Kişisel bilgileri:"
 
-msgctxt "Information"
 msgid "Information"
 msgstr "Bilgi"
 
-msgctxt "Location"
 msgid "Location"
 msgstr "Lokasyon"
 
-msgctxt "Name:"
 msgid "Name:"
 msgstr "İsim:"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Kişi sayısı"
 
-msgctxt "Phone number:"
 msgid "Phone number:"
 msgstr "Tel No:"
 
-msgctxt "Please, choose a store"
 msgid "Please, choose a store"
 msgstr "Lütfen bir mağza seçin"
 
-msgctxt "Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "Lütfen aşağıdaki alanları doldurun:"
 
-msgctxt "Please fill out the following fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "Lütfen aşağıdaki alanları doldurun:<br/>"
 
-msgctxt "Thank you for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "İsteğiniz için teşekkür ederiz. En kısa sürede size cevap vereceğiz."
 
-msgctxt "The booking information"
 msgid "The booking information"
 msgstr "Rezervasyon bilgisi"
 
-msgctxt "The date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "Rezervasyon tarih ve saati"
 
-msgctxt "The number of people"
 msgid "The number of people"
 msgstr "Insan sayısı"
 
-msgctxt "You have received a message for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "Rezervasyon için bir mesaj aldınız"
 
-msgctxt "Your name"
 msgid "Your name"
 msgstr "Adınız"
 
-msgctxt "Your phone number or email address"
 msgid "Your phone number or email address"
 msgstr "Telefon numarası veya e-posta adresi"

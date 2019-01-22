@@ -15,30 +15,23 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Attach a file"
 msgid "Attach a file"
 msgstr "Прикрепить файл"
 
-msgctxt "Attached files :"
 msgid "Attached files :"
 msgstr "Прикрепленные файлы :"
 
-msgctxt "Load older messages"
 msgid "Load older messages"
 msgstr "Загрузить старые сообщения"
 
-msgctxt "Me"
 msgid "Me"
 msgstr "Я"
 
-msgctxt "No messages for now."
 msgid "No messages for now."
 msgstr "Нет сообщений сейчас."
 
-msgctxt "Unknown"
 msgid "Unknown"
 msgstr "Неизвестно"
 
-msgctxt "You need to enter a message."
 msgid "You need to enter a message."
 msgstr "Вы должны ввести сообщение."

@@ -14,41 +14,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Are you sure you want to close without saving?"
 msgid "Are you sure you want to close without saving?"
 msgstr "¿Estás seguro que quieres cerrar sin guardar?"
 
-msgctxt ""
-"Are you sure you want to delete this category and all its subcategories?"
 msgid ""
 "Are you sure you want to delete this category and all its subcategories?"
 msgstr ""
 "Estás seguro que quieres borrar esta categoria y todas sus subcategorias?"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Descripción"
 
-msgctxt "Description successfully saved."
 msgid "Description successfully saved."
 msgstr "Descripción guardada correctamente"
 
-msgctxt "Manage Topics"
 msgid "Manage Topics"
 msgstr "Gestionar Temas"
 
-msgctxt "No topics for now."
 msgid "No topics for now."
 msgstr "No hay temas aún"
 
-msgctxt "Page description"
 msgid "Page description"
 msgstr "Descripción de página"
 
-msgctxt "Save"
 msgid "Save"
 msgstr "Guardar"
 
-msgctxt "Subscribe"
 msgid "Subscribe"
 msgstr "Subscribirse"

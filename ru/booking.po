@@ -15,99 +15,75 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Детали бронирования"
 
-msgctxt "Booking location:"
 msgid "Booking location:"
 msgstr "Местоположение брони"
 
-msgctxt "Booking subject:"
 msgid "Booking subject:"
 msgstr "Объект бронирования:"
 
-msgctxt "Comment:"
 msgid "Comment:"
 msgstr "Комментарий:"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Дата и время"
 
-msgctxt "Email address:"
 msgid "Email address:"
 msgstr "Адрес электронной почты:"
 
-msgctxt "Enter the location name and contact email:"
 msgid "Enter the location name and contact email:"
 msgstr ""
 "Введите название месторасположения и контактный адрес электронной почты:"
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Имя / Фамилия"
 
-msgctxt "Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "Вот его личные данные:"
 
-msgctxt "Information"
 msgid "Information"
 msgstr "Информация"
 
-msgctxt "Location"
 msgid "Location"
 msgstr "Места"
 
-msgctxt "Name:"
 msgid "Name:"
 msgstr "Имя:"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Количество людей"
 
-msgctxt "Phone number:"
 msgid "Phone number:"
 msgstr "Номер телефона:"
 
-msgctxt "Please, choose a store"
 msgid "Please, choose a store"
 msgstr "Пожалуйста, выберите магазин"
 
-msgctxt "Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "Пожалуйста, заполните следующие поля:"
 
-msgctxt "Please fill out the following fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "Пожалуйста, заполните следующие поля: <br />"
 
-msgctxt "Thank you for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Спасибо за ваш запрос. Мы ответим вам как можно скорее."
 
-msgctxt "The booking information"
 msgid "The booking information"
 msgstr "Информация о бронировании"
 
-msgctxt "The date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "Дата и время заказа"
 
-msgctxt "The number of people"
 msgid "The number of people"
 msgstr "Количество людей"
 
-msgctxt "You have received a message for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "Вы получили сообщение для бронирования"
 
-msgctxt "Your name"
 msgid "Your name"
 msgstr "Ваше имя"
 
-msgctxt "Your phone number or email address"
 msgid "Your phone number or email address"
 msgstr "Ваш номер телефона или адрес электронной почты"

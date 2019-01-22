@@ -13,68 +13,52 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Actions"
 msgid "Actions"
 msgstr "Actions"
 
-msgctxt "An error occurred while deleting your role. Please, try again later."
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
 "Une erreur s'est produite lors de la suppression de votre rôle. S'il vous "
 "plaît, essayez de nouveau plus tard."
 
-msgctxt "Code"
 msgid "Code"
 msgstr "Code"
 
-msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr "Créer un nouveau rôle"
 
-msgctxt "Delete"
 msgid "Delete"
 msgstr "Supprimer"
 
-msgctxt "Edit"
 msgid "Edit"
 msgstr "Editer"
 
-msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr "Edition du rôle %s"
 
-msgctxt "Id"
 msgid "Id"
 msgstr "Id"
 
-msgctxt "Label"
 msgid "Label"
 msgstr "Titre"
 
-msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr "Liste des Rôles"
 
-msgctxt "Role"
 msgid "Role"
 msgstr "Rôle"
 
-msgctxt "Search"
 msgid "Search"
 msgstr "Recherche"
 
-msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr "Ce rôle sera celui par défaut pour tout les nouveaux utilisateurs."
 
-msgctxt "You don't have any role yet"
 msgid "You don't have any role yet"
 msgstr "Vous ne possédez pas encore de rôle"
 
-msgctxt "Your role has been successfully deleted"
 msgid "Your role has been successfully deleted"
 msgstr "Le rôle a correctement été supprimé"
 
-msgctxt "Your role has been successfully saved"
 msgid "Your role has been successfully saved"
 msgstr "Le rôle a correctement été sauvegardé"

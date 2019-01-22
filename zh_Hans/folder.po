@@ -14,126 +14,94 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a page"
 msgid "Add a page"
 msgstr "添加页面"
 
-msgctxt "Add feature"
 msgid "Add feature"
 msgstr ""
 
-msgctxt "Allow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr ""
 
-msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "取消"
 
-msgctxt "Click on"
 msgid "Click on"
 msgstr "点击"
 
-msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "点击页面上添加到文件夹"
 
-msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "点击页面上添加到文件夹"
 
-msgctxt ""
-"Click on a page to add it to the folder <span id='folder_name' "
-"class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
 msgstr ""
 
-msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "关闭手机屏幕"
 
-msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "删除此文件夹及其所有子文件夹？"
 
-msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr ""
 
-msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr ""
 
-msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "所需的文件夹称号"
 
-msgctxt "Folders"
 msgid "Folders"
 msgstr "文件夹"
 
-msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr ""
 
-msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "手机屏幕"
 
-msgctxt "New folder"
 msgid "New folder"
 msgstr "新建文件夹"
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr ""
 
-msgctxt "Override layout"
 msgid "Override layout"
 msgstr ""
 
-msgctxt "Search results"
 msgid "Search results"
 msgstr ""
 
-msgctxt "Show cover"
 msgid "Show cover"
 msgstr ""
 
-msgctxt "Show search field"
 msgid "Show search field"
 msgstr ""
 
-msgctxt "Show title"
 msgid "Show title"
 msgstr "查看文章"
 
-msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "Use card design"
 msgid "Use card design"
 msgstr ""
 
-msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "你可以不加这个功能"
 
-msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "你必须先完成创建类的当前进程"
 
-msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "你将失去所有未保存的更改，是否继续？"
 
-msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "添加一个文件夹。"

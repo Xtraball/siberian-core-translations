@@ -14,196 +14,147 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add "
 msgid "Add "
 msgstr "Afegir"
 
-msgctxt "Add attachement"
 msgid "Add attachement"
 msgstr ""
 
-msgctxt "Add cover"
 msgid "Add cover"
 msgstr ""
 
-msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "Afegir seccions:"
 
-msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr ""
 
-msgctxt "Address:"
 msgid "Address:"
 msgstr "direcció:"
 
-msgctxt "Alignment:"
 msgid "Alignment:"
 msgstr "alineació:"
 
-msgctxt "An error occured."
 msgid "An error occured."
 msgstr ""
 
-msgctxt "An error occurred while saving your page."
 msgid "An error occurred while saving your page."
 msgstr "S'ha produït un error en desar la pàgina."
 
-msgctxt "Are you sure you want to delete this page?"
 msgid "Are you sure you want to delete this page?"
 msgstr "Segur que vols esborrar aquesta pàgina?"
 
-msgctxt "At least one section is required to save."
 msgid "At least one section is required to save."
 msgstr "Com a mínim una opció es requereix:"
 
-msgctxt "Attachement"
 msgid "Attachement"
 msgstr ""
 
-msgctxt "Attachment:"
 msgid "Attachment:"
 msgstr ""
 
-msgctxt "Custom icon"
 msgid "Custom icon"
 msgstr ""
 
-msgctxt "Custom page"
 msgid "Custom page"
 msgstr "Costum pàgina"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Descripció"
 
-msgctxt "Display address"
 msgid "Display address"
 msgstr "direcció de pantalla"
 
-msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr ""
 
-msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Display botó de la localització"
 
-msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr ""
 
-msgctxt "Email:"
 msgid "Email:"
 msgstr "correu electrònic"
 
-msgctxt "Hide navbar"
 msgid "Hide navbar"
 msgstr ""
 
-msgctxt "Label"
 msgid "Label"
 msgstr "etiqueta"
 
-msgctxt "Large"
 msgid "Large"
 msgstr "gran"
 
-msgctxt "Latitude:"
 msgid "Latitude:"
 msgstr ""
 
-msgctxt "Link:"
 msgid "Link:"
 msgstr "enllaç"
 
-msgctxt "Loading picture:"
 msgid "Loading picture:"
 msgstr "Carregant imatge:"
 
-msgctxt "Longitude:"
 msgid "Longitude:"
 msgstr ""
 
-msgctxt "Make a search or enter the Youtube Url:"
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Fer una recerca o introduïu l'URL de YouTube:"
 
-msgctxt "Medium"
 msgid "Medium"
 msgstr "medi"
 
-msgctxt "My Youtube video:"
 msgid "My Youtube video:"
 msgstr "El meu Youtube vídeo:"
 
-msgctxt "My video"
 msgid "My video"
 msgstr "El meu vídeo"
 
-msgctxt "No videos matching your selection"
 msgid "No videos matching your selection"
 msgstr "No hi ha vídeos que coincideixin amb la seva selecció"
 
-msgctxt "Page successfully deleted"
 msgid "Page successfully deleted"
 msgstr "Pàgina eliminat correctament"
 
-msgctxt "Page successfully saved"
 msgid "Page successfully saved"
 msgstr "Pàgina guardat correctament"
 
-msgctxt "Phone:"
 msgid "Phone:"
 msgstr "telèfon"
 
-msgctxt "Podcast URL:"
 msgid "Podcast URL:"
 msgstr "URL Podcast:"
 
-msgctxt "Select a button type:"
 msgid "Select a button type:"
 msgstr "Seleccioneu un tipus de botó:"
 
-msgctxt "Select a video type:"
 msgid "Select a video type:"
 msgstr "Seleccioneu un tipus de vídeo:"
 
-msgctxt "Size"
 msgid "Size"
 msgstr "Mida:"
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr ""
 
-msgctxt "Small"
 msgid "Small"
 msgstr "petit"
 
-msgctxt "Text"
 msgid "Text"
 msgstr "Text"
 
-msgctxt ""
-"The block N°%s, %s was not saved, the block was either empty or invalid."
 msgid ""
 "The block N°%s, %s was not saved, the block was either empty or invalid."
 msgstr ""
 
-msgctxt "Use external app"
 msgid "Use external app"
 msgstr ""
 
-msgctxt "Video URL:"
 msgid "Video URL:"
 msgstr "URL de vídeo:"
 
-msgctxt "Your Podcast:"
 msgid "Your Podcast:"
 msgstr "El seu Podcast:"
 
-msgctxt ".mp4 or .3gp format"
 msgid ".mp4 or .3gp format"
 msgstr "format .3gp .mp4"

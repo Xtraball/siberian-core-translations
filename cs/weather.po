@@ -14,114 +14,85 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Astronomy"
 msgid "Astronomy"
 msgstr ""
 
-msgctxt "Atmosphere"
 msgid "Atmosphere"
 msgstr ""
 
-msgctxt "Change location"
 msgid "Change location"
 msgstr ""
 
-msgctxt "Chill:"
 msgid "Chill:"
 msgstr ""
 
-msgctxt "Click here to view more details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr ""
 
-msgctxt "Country:"
 msgid "Country:"
 msgstr "Země"
 
-msgctxt "Direction:"
 msgid "Direction:"
 msgstr ""
 
-msgctxt "Fri"
 msgid "Fri"
 msgstr ""
 
-msgctxt "Humidity:"
 msgid "Humidity:"
 msgstr ""
 
-msgctxt "Mon"
 msgid "Mon"
 msgstr ""
 
-msgctxt "Postal code or city"
 msgid "Postal code or city"
 msgstr ""
 
-msgctxt "Pressure:"
 msgid "Pressure:"
 msgstr ""
 
-msgctxt "Rising:"
 msgid "Rising:"
 msgstr ""
 
-msgctxt "Sat"
 msgid "Sat"
 msgstr ""
 
-msgctxt ""
-"Sorry, but the weather service is not available for the moment. Please try "
-"again later."
 msgid ""
 "Sorry, but the weather service is not available for the moment. Please try "
 "again later."
 msgstr ""
 
-msgctxt "Speed:"
 msgid "Speed:"
 msgstr ""
 
-msgctxt "Sun"
 msgid "Sun"
 msgstr ""
 
-msgctxt "Sunrise:"
 msgid "Sunrise:"
 msgstr ""
 
-msgctxt "Sunset:"
 msgid "Sunset:"
 msgstr ""
 
-msgctxt "Thu"
 msgid "Thu"
 msgstr ""
 
-msgctxt "Tue"
 msgid "Tue"
 msgstr ""
 
-msgctxt "Units:"
 msgid "Units:"
 msgstr ""
 
-msgctxt "Use my location"
 msgid "Use my location"
 msgstr ""
 
-msgctxt "Visibility:"
 msgid "Visibility:"
 msgstr ""
 
-msgctxt "Weather information"
 msgid "Weather information"
 msgstr "Informace o obchodu/skladu"
 
-msgctxt "Wed"
 msgid "Wed"
 msgstr ""
 
-msgctxt "Wind"
 msgid "Wind"
 msgstr ""

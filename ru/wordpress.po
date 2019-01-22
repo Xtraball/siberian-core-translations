@@ -15,45 +15,33 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "1 day"
 msgid "1 day"
 msgstr "1 день"
 
-msgctxt "1 hour"
 msgid "1 hour"
 msgstr "1 час"
 
-msgctxt "1 minute"
 msgid "1 minute"
 msgstr "минут"
 
-msgctxt "12 hours"
 msgid "12 hours"
 msgstr "12 часов"
 
-msgctxt "15 minutes"
 msgid "15 minutes"
 msgstr "минут"
 
-msgctxt "3 hours"
 msgid "3 hours"
 msgstr "часов"
 
-msgctxt "30 minutes"
 msgid "30 minutes"
 msgstr "минут"
 
-msgctxt "6 hours"
 msgid "6 hours"
 msgstr "часов"
 
-msgctxt "Add a query"
 msgid "Add a query"
 msgstr "Добавить запрос"
 
-msgctxt ""
-"An error occurred while accessing your Wordpress website. Please, verify the "
-"domain name %s"
 msgid ""
 "An error occurred while accessing your Wordpress website. Please, verify the "
 "domain name %s"
@@ -61,53 +49,39 @@ msgstr ""
 "Произошла ошибка при доступе к вашему веб-сайту Wordpress. Пожалуйста, "
 "проверьте доменное им %s"
 
-msgctxt "Ascending"
 msgid "Ascending"
 msgstr "Возрастанию"
 
-msgctxt "Author"
 msgid "Author"
 msgstr "Автор"
 
-msgctxt "Cache lifetime (excluding pull to refresh)"
 msgid "Cache lifetime (excluding pull to refresh)"
 msgstr "Время жизни кэша (за исключением потяните, чтобы обновить)"
 
-msgctxt "Categories successfully saved"
 msgid "Categories successfully saved"
 msgstr "Категории успешно сохранены"
 
-msgctxt "Click here to download our Wordpress plugin"
 msgid "Click here to download our Wordpress plugin"
 msgstr "Нажмите здесь, чтобы загрузить наш Wordpress плагин"
 
-msgctxt "Cover & Thumbnails are only visible when queries are not grouped."
 msgid "Cover & Thumbnails are only visible when queries are not grouped."
 msgstr "Обложки и эскизы видны только тогда, когда запрос не сгруппированы."
 
-msgctxt "Date"
 msgid "Date"
 msgstr "Дата"
 
-msgctxt "Descending"
 msgid "Descending"
 msgstr "По убыванию"
 
-msgctxt "Enter your Wordpress URL:"
 msgid "Enter your Wordpress URL:"
 msgstr "Введите URL Wordpress:"
 
-msgctxt "Group all queries into a single list"
 msgid "Group all queries into a single list"
 msgstr "Группировать все запросы в один список"
 
-msgctxt "ID"
 msgid "ID"
 msgstr "ID"
 
-msgctxt ""
-"If your WordPress is secured by a login/password, and/or you want to display "
-"private posts you can set here a user to be used to retrieve posts."
 msgid ""
 "If your WordPress is secured by a login/password, and/or you want to display "
 "private posts you can set here a user to be used to retrieve posts."
@@ -116,25 +90,18 @@ msgstr ""
 "отобразить личные посты, то можно задать здесь пользователя для получения "
 "Сообщений."
 
-msgctxt "Loading categories"
 msgid "Loading categories"
 msgstr "Загрузка категории"
 
-msgctxt "Manage WordPress"
 msgid "Manage WordPress"
 msgstr "Управление Вордпресс"
 
-msgctxt "Manage queries"
 msgid "Manage queries"
 msgstr "Управление запросами"
 
-msgctxt "No cache"
 msgid "No cache"
 msgstr "Нет кэша"
 
-msgctxt ""
-"Note: cache is automatically refreshed on any user pull to refresh action "
-"whatever the lifetime set."
 msgid ""
 "Note: cache is automatically refreshed on any user pull to refresh action "
 "whatever the lifetime set."
@@ -142,54 +109,40 @@ msgstr ""
 "Примечание: кэш автоматически обновляется по любому пользователю потяните, "
 "чтобы обновить действие независимо от установленного срока службы."
 
-msgctxt "Pages"
 msgid "Pages"
 msgstr "Страницы"
 
-msgctxt "Relevance"
 msgid "Relevance"
 msgstr "Актуальность"
 
-msgctxt "Show title & subtitle"
 msgid "Show title & subtitle"
 msgstr "Показать заголовок и подзаголовок"
 
-msgctxt "Sorry, we are unable to fetch any category or post from your WordPress."
 msgid "Sorry, we are unable to fetch any category or post from your WordPress."
 msgstr ""
 "К сожалению, мы не получили какую-либо категорию или пост из вашего "
 "WordPress."
 
-msgctxt "Sort by"
 msgid "Sort by"
 msgstr "Сортировать по"
 
-msgctxt "Sort order"
 msgid "Sort order"
 msgstr "Порядок сортировки "
 
-msgctxt "Strip shortcodes"
 msgid "Strip shortcodes"
 msgstr "Убрать shortcode"
 
-msgctxt "Unable to find your WordPress or /wp-json/ endpoint."
 msgid "Unable to find your WordPress or /wp-json/ endpoint."
 msgstr "Не смогла найти ваш WordPress или папку /WP-json в/ конечной точки."
 
-msgctxt "Unlimited (until any pull to refresh)"
 msgid "Unlimited (until any pull to refresh)"
 msgstr "Неограниченное (пока потяните, чтобы обновить)"
 
-msgctxt ""
-"We are sorry but no category has been detected on your Wordpress website."
 msgid ""
 "We are sorry but no category has been detected on your Wordpress website."
 msgstr ""
 "Мы сожалеем, но ни одна категория не была обнаружена на вашем сайте Wordpress"
 
-msgctxt ""
-"We are sorry but our Wordpress plugin hasn't been detected on your website. "
-"Please be sure it is correctly installed and activated."
 msgid ""
 "We are sorry but our Wordpress plugin hasn't been detected on your website. "
 "Please be sure it is correctly installed and activated."
@@ -197,21 +150,15 @@ msgstr ""
 "Мы сожалеем, но наш плагин Wordpress не был обнаружен на вашем сайте. "
 "Пожалуйста, убедитесь, что он правильно установлен и активирован."
 
-msgctxt "WordPress URL"
 msgid "WordPress URL"
 msgstr "URL-Адрес для WordPress "
 
-msgctxt "Wordpress"
 msgid "Wordpress"
 msgstr "Wordpress"
 
-msgctxt "You can mix posts & pages in the queries if needed."
 msgid "You can mix posts & pages in the queries if needed."
 msgstr "Вы можете смешивать посты и страницы в запросах, если это необходимо."
 
-msgctxt ""
-"You can mix posts & pages in the queries if needed, however it's not "
-"recommended and can lead to random sorting."
 msgid ""
 "You can mix posts & pages in the queries if needed, however it's not "
 "recommended and can lead to random sorting."

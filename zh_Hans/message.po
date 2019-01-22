@@ -14,30 +14,23 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Attach a file"
 msgid "Attach a file"
 msgstr ""
 
-msgctxt "Attached files :"
 msgid "Attached files :"
 msgstr ""
 
-msgctxt "Load older messages"
 msgid "Load older messages"
 msgstr ""
 
-msgctxt "Me"
 msgid "Me"
 msgstr ""
 
-msgctxt "No messages for now."
 msgid "No messages for now."
 msgstr ""
 
-msgctxt "Unknown"
 msgid "Unknown"
 msgstr ""
 
-msgctxt "You need to enter a message."
 msgid "You need to enter a message."
 msgstr ""

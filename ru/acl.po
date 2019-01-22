@@ -15,68 +15,52 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Actions"
 msgid "Actions"
 msgstr "Действие"
 
-msgctxt "An error occurred while deleting your role. Please, try again later."
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
 "Произошла ошибка при удалении вашей роли. Пожалуйста, повторите попытку "
 "позже."
 
-msgctxt "Code"
 msgid "Code"
 msgstr "Код"
 
-msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr "Создать новую роль"
 
-msgctxt "Delete"
 msgid "Delete"
 msgstr "Удалить"
 
-msgctxt "Edit"
 msgid "Edit"
 msgstr "Редактировать"
 
-msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr "Изменение %роли"
 
-msgctxt "Id"
 msgid "Id"
 msgstr "Id"
 
-msgctxt "Label"
 msgid "Label"
 msgstr "Этикетка"
 
-msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr "Список ваших ролей"
 
-msgctxt "Role"
 msgid "Role"
 msgstr "Роль"
 
-msgctxt "Search"
 msgid "Search"
 msgstr "Поиск"
 
-msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr "Эта роль будет по умолчанию для всей платформы."
 
-msgctxt "You don't have any role yet"
 msgid "You don't have any role yet"
 msgstr "Вы не имеете пока никакой роли"
 
-msgctxt "Your role has been successfully deleted"
 msgid "Your role has been successfully deleted"
 msgstr "Ваша роль была успешно удалена"
 
-msgctxt "Your role has been successfully saved"
 msgid "Your role has been successfully saved"
 msgstr "Ваша роль успешно сохранена"

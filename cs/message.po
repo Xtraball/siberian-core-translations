@@ -14,30 +14,23 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Attach a file"
 msgid "Attach a file"
 msgstr "Nahrát soubor"
 
-msgctxt "Attached files :"
 msgid "Attached files :"
 msgstr "Připojené soubory:"
 
-msgctxt "Load older messages"
 msgid "Load older messages"
 msgstr "Nahrát starší zprávy"
 
-msgctxt "Me"
 msgid "Me"
 msgstr "Já"
 
-msgctxt "No messages for now."
 msgid "No messages for now."
 msgstr "Zatím nemáte žádné zprávy"
 
-msgctxt "Unknown"
 msgid "Unknown"
 msgstr "Neznámý"
 
-msgctxt "You need to enter a message."
 msgid "You need to enter a message."
 msgstr "Nejdříve musíte napsat zprávu"

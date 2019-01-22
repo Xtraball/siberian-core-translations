@@ -14,176 +14,133 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Additionnal Information"
 msgid "Additionnal Information"
 msgstr "Informations complémentaires"
 
-msgctxt "An error occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr ""
 "Une erreur est survenue lors de la suppression du push . Veuillez réessayer "
 "plus tard."
 
-msgctxt "And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "Et un rayon (en Km) :"
 
-msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Creation date"
 msgid "Creation date"
 msgstr "Date de création"
 
-msgctxt "Custom URL"
 msgid "Custom URL"
 msgstr "URL personnalisée"
 
-msgctxt "Enter a location:"
 msgid "Enter a location:"
 msgstr "Saisissez une adresse :"
 
-msgctxt "GCM Key"
 msgid "GCM Key"
 msgstr "Clé GCM"
 
-msgctxt "I want to send it"
 msgid "I want to send it"
 msgstr "Je veux l'envoyer"
 
-msgctxt "Keys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Clés sauvegardées avec succès"
 
-msgctxt "Message"
 msgid "Message"
 msgstr "Message"
 
-msgctxt "No device found for this user"
 msgid "No device found for this user"
 msgstr "Aucun dispositif trouvé pour cet utilisateur"
 
-msgctxt "No items."
 msgid "No items."
 msgstr "Pas d'objet."
 
-msgctxt "Open a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr "Ouvrez une caractéristique ou une URL personnalisée"
 
-msgctxt "Pending"
 msgid "Pending"
 msgstr "Non envoyé"
 
-msgctxt "Please enter an expiration date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr "S'il vous plaît entrer une date d'expiration de votre message:"
 
-msgctxt "Project Number"
 msgid "Project Number"
 msgstr "Numéro de projet"
 
-msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "Notifications Push"
 
-msgctxt "Push Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Paramètres des notifications push"
 
-msgctxt "Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "Push supprimé avec succès ."
 
-msgctxt "Radius"
 msgid "Radius"
 msgstr "Rayon"
 
-msgctxt "Send to a specific location"
 msgid "Send to a specific location"
 msgstr "Envoyer dans une localisation précise"
 
-msgctxt "Send to all applications"
 msgid "Send to all applications"
 msgstr "Envoyer à toutes les applications."
 
-msgctxt "Send to all my users"
 msgid "Send to all my users"
 msgstr "Envoyer à tous mes utilisateurs"
 
-msgctxt "Send to no specific locations"
 msgid "Send to no specific locations"
 msgstr "Envoyer à tous vos contacts (pas de géolocalisation)"
 
-msgctxt "Send to specific topics"
 msgid "Send to specific topics"
 msgstr "Envoyer à des personnes spécifiques"
 
-msgctxt "Send to specific users"
 msgid "Send to specific users"
 msgstr "Envoyer à certains utilisateurs"
 
-msgctxt "Sending date"
 msgid "Sending date"
 msgstr "Date d'envoi"
 
-msgctxt "The duration limit must be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "La limite de durée doit être supérieure à la date d'envoi"
 
-msgctxt "Topics"
 msgid "Topics"
 msgstr "Réglages Notifications"
 
-msgctxt "Users"
 msgid "Users"
 msgstr "Utilisateurs"
 
-msgctxt "You must choose a topic before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr "Vous devez choisir un sujet avant d'envoyer votre message ."
 
-msgctxt "You must choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr ""
 "Vous devez choisir au moins un utilisateur avant d'envoyer votre message ."
 
-msgctxt "Your app must be published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr ""
 "Votre application doit être publiée pour pouvoir envoyer des notifications "
 "push."
 
-msgctxt "Your message has been saved successfully."
 msgid "Your message has been saved successfully."
 msgstr "Votre message a bien été enregistré ."
 
-msgctxt ""
-"Your message has been saved successfully and will be sent at the entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr "Votre message a bien été enregistré et sera envoyé à la date indiquée"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr ""
 "Votre message a bien été enregistré et sera envoyé dans quelques minutes"
 
-msgctxt "and users entering the area"
 msgid "and users entering the area"
 msgstr "ainsi qu'aux utilisateurs entrant dans la zone"
 
-msgctxt "for a limited period"
 msgid "for a limited period"
 msgstr "pendant une durée limitée"
 
-msgctxt "now"
 msgid "now"
 msgstr "maintenant"
 
-msgctxt "on a specific date"
 msgid "on a specific date"
 msgstr "à une date spécifique"

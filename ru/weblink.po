@@ -15,96 +15,73 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Добавить ссылку"
 
-msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr ""
 "Произошла ошибка в процессе сохранения пиктограммы. Пожалуйста, попробуйте "
 "чуть позже."
 
-msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Вы уверены, что хотите удалить эту ссылку?"
 
-msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Вы уверены, что хотите удалить эту фотографию?"
 
-msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr "Введите URL Magento"
 
-msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr "Введите свой адрес Prestashop"
 
-msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr "Введите URL вашего Shopify"
 
-msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr "Введите URL вашего Volusion"
 
-msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr "Введите URL вашего Woocommerce"
 
-msgctxt "Link"
 msgid "Link"
 msgstr "Ссылка"
 
-msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "Ссылка была успешно удалена"
 
-msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "Ссылка была успешно сохранена"
 
-msgctxt "Magento"
 msgid "Magento"
 msgstr "Magento"
 
-msgctxt "Picto"
 msgid "Picto"
 msgstr "Пиктограмма"
 
-msgctxt "Prestashop"
 msgid "Prestashop"
 msgstr "Prestashop"
 
-msgctxt "Shopify"
 msgid "Shopify"
 msgstr "Shopify"
 
-msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "Изображение было успешно удалено"
 
-msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "Изображение было успешно сохранены"
 
-msgctxt "Use external application"
 msgid "Use external application"
 msgstr "Использовать внешнее приложение"
 
-msgctxt "Volusion"
 msgid "Volusion"
 msgstr "Volusion"
 
-msgctxt "Without navbar"
 msgid "Without navbar"
 msgstr "Без навигации"
 
-msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr "Woocommerce"
 
-msgctxt "Your links"
 msgid "Your links"
 msgstr "Ваши ссылки"

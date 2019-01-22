@@ -14,210 +14,154 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1忠诚点="
 
-msgctxt "1 point"
 msgid "1 point"
 msgstr "1点"
 
-msgctxt "1 validated point ="
 msgid "1 validated point ="
 msgstr ""
 
-msgctxt "An error occurred while retrieving QRCode. Please try again later"
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr "有错误上传文件。请稍后再试。"
 
-msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
 msgstr "有一个错误保存密码。请稍后再试。"
 
-msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "有一个错误保存您的记分卡"
 
-msgctxt ""
-"An error occurred while saving your loyalty card. Please fill all fields in."
 msgid ""
 "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr "有一个错误保存您的记分卡。请填写所有字段。"
 
-msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
 msgstr "在验证点时发生错误。请稍后再试。"
 
-msgctxt "An error occurred with your QRCode."
 msgid "An error occurred with your QRCode."
 msgstr ""
 
-msgctxt "Card name"
 msgid "Card name"
 msgstr "卡名称"
 
-msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "祝贺"
 
-msgctxt "Current card"
 msgid "Current card"
 msgstr "目前卡"
 
-msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "删除此项？"
 
-msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "员工姓名："
 
-msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "员工密码："
 
-msgctxt "Enter password"
 msgid "Enter password"
 msgstr "输入密码"
 
-msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "输入密码"
 
-msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "我的新计分卡"
 
-msgctxt "My passwords"
 msgid "My passwords"
 msgstr "密码"
 
-msgctxt "No cards available"
 msgid "No cards available"
 msgstr ""
 
-msgctxt "Number of points"
 msgid "Number of points"
 msgstr "点数"
 
-msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "请输入姓名"
 
-msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "请输入密码"
 
-msgctxt ""
-"Please show your phone to the store person so that he enters his password"
 msgid ""
 "Please show your phone to the store person so that he enters his password"
 msgstr "请出示您的手机店里的人输入密码"
 
-msgctxt "Point active"
 msgid "Point active"
 msgstr ""
 
-msgctxt "Point inactive"
 msgid "Point inactive"
 msgstr ""
 
-msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "点％ s成功验证"
 
-msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "上述卡"
 
-msgctxt "Reward"
 msgid "Reward"
 msgstr "奖励"
 
-msgctxt "Rewards"
 msgid "Rewards"
 msgstr "奖励"
 
-msgctxt "Scan QRCode"
 msgid "Scan QRCode"
 msgstr ""
 
-msgctxt "This card is uniq:"
 msgid "This card is uniq:"
 msgstr ""
 
-msgctxt "Unlock by QRCode"
 msgid "Unlock by QRCode"
 msgstr ""
 
-msgctxt "Unreadable QRCode, sorry."
 msgid "Unreadable QRCode, sorry."
 msgstr ""
 
-msgctxt "Use only once?"
 msgid "Use only once?"
 msgstr "仅使用一次"
 
-msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "对不起，此卡被暂时受阻"
 
-msgctxt ""
-"Wrong password. Be carefull! %d remaining attempt%s before locking your "
-"card. Ask the store person for validating your point"
 msgid ""
 "Wrong password. Be carefull! %d remaining attempt%s before locking your "
 "card. Ask the store person for validating your point"
 msgstr "密码不正确。当心！ ％d ％s 锁定您的卡之前已经离开尝试。问的人来验证你的观点商店"
 
-msgctxt ""
-"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
-"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
 msgstr "密码不正确。当心！ ％d ％s 锁定您的卡之前已经离开尝试。问的人来验证你的观点商店"
 
-msgctxt ""
-"You have exceeded the number of attempts to validate points. Your card is "
-"locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points. Your card is "
 "locked for 24h"
 msgstr "您已超过尝试验证点的数量。你的卡已被锁定24小时"
 
-msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "你刚刚完成你的卡"
 
-msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "你必须登录验证点"
 
-msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "你的记分卡已成功保存"
 
-msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "您的密码必须是4位数"
 
-msgctxt "is now yours!"
 msgid "is now yours!"
 msgstr ""
 
-msgctxt "point"
 msgid "point"
 msgstr "点"
 
-msgctxt "point to validate"
 msgid "point to validate"
 msgstr "验证点"
 
-msgctxt "points to validate"
 msgid "points to validate"
 msgstr "点验证"
 
-msgctxt "validated points ="
 msgid "validated points ="
 msgstr ""

@@ -14,10 +14,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while reading the code"
 msgid "An error occurred while reading the code"
 msgstr "有一个错误删除的事件"
 
-msgctxt "Scan result"
 msgid "Scan result"
 msgstr ""

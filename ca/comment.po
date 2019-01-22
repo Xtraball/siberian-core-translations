@@ -14,164 +14,124 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr ""
 
-msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr ""
 "S'ha produït un error en suprimir aquesta resposta. Intenta-ho de nou més "
 "tard."
 
-msgctxt "COMMENTS"
 msgid "COMMENTS"
 msgstr ""
 
-msgctxt "Create a news"
 msgid "Create a news"
 msgstr "Crea un nou usuari"
 
-msgctxt "Delete this info"
 msgid "Delete this info"
 msgstr "Voleu suprimir aquest esdeveniment?"
 
-msgctxt "Flag"
 msgid "Flag"
 msgstr ""
 
-msgctxt "Flag as inappropriate"
 msgid "Flag as inappropriate"
 msgstr "Va ser marcat com inadequada"
 
-msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Ocultar aquesta informació"
 
-msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Informació eliminat correctament"
 
-msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Informació oculta amb èxit"
 
-msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Informació guardat correctament"
 
-msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Informació mostra amb èxit"
 
-msgctxt "Insert a"
 msgid "Insert a"
 msgstr "inseriu un"
 
-msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Serà visible només després de validació pel nostre equip."
 
-msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Els meus clients respostes"
 
-msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Comentaris dels meus clients"
 
-msgctxt "Near me"
 msgid "Near me"
 msgstr "prop de mi"
 
-msgctxt "'Near me' radius (in km):"
 msgid "'Near me' radius (in km):"
 msgstr "prop de mi \"Prop de mi 'ràdio (en km):"
 
-msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Prop de mi ajustos"
 
-msgctxt "New post"
 msgid "New post"
 msgstr ""
 
-msgctxt "No comment for now"
 msgid "No comment for now"
 msgstr ""
 
-msgctxt "No comments for now"
 msgid "No comments for now"
 msgstr ""
 
-msgctxt "Post"
 msgid "Post"
 msgstr "lloc"
 
-msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "data de publicació"
 
-msgctxt "Radius"
 msgid "Radius"
 msgstr "ràdi"
 
-msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "El radi ha de ser un valor numèric vàlid."
 
-msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "El radi ha de ser proporcionada."
 
-msgctxt "Read More"
 msgid "Read More"
 msgstr "carregar més"
 
-msgctxt "Recent"
 msgid "Recent"
 msgstr "recent"
 
-msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Mostra aquesta informació"
 
-msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "No hi ha comentaris per aquesta notícia"
 
-msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "Va ser marcat com inadequada"
 
-msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Vostè no pot rebre més d'una vegada la mateixa notícia"
 
-msgctxt "You have to enter a text message."
 msgid "You have to enter a text message."
 msgstr ""
 
-msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Has d'estar connectat per crear un lloc"
 
-msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "La seva bandera èxit ha estat notificada"
 
-msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "El teu com ha estat afegit amb èxit"
 
-msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "El seu missatge ha estat guardat amb èxit."
 
-msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "El teu missatge s'ha afegit correctament"
 
-msgctxt "en"
 msgid "en"
 msgstr "en"

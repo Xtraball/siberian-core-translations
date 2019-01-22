@@ -14,166 +14,125 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1 πόντος πίστεως ="
 
-msgctxt "1 point"
 msgid "1 point"
 msgstr "1 πόντος"
 
-msgctxt "1 validated point ="
 msgid "1 validated point ="
 msgstr ""
 
-msgctxt "An error occurred while retrieving QRCode. Please try again later"
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr ""
 "Ha ocurrido un error guardando los cambios. Por favor, inténtelo más tarde."
 
-msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
 msgstr ""
 "Υπήρξε σφάλμα κατά την αποθήκευση του Κωδικού. Παρακαλούμε δοκιμάστε ξανά "
 "αργότερα"
 
-msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της Κάρτας Πίστεως."
 
-msgctxt ""
-"An error occurred while saving your loyalty card. Please fill all fields in."
 msgid ""
 "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr ""
 "Υπήρξε σφάλμα κατά την αποθήκευση της Κάρτας Πίστεως. Παρακαλούμε συμληρώστε "
 "όλα τα πεδία."
 
-msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
 msgstr ""
 "Υπήρξε σφάλμα κατά την επικύρωση των πόντων. Παρακαλούμε δοκιμάστε ξανά "
 "αργότερα."
 
-msgctxt "An error occurred with your QRCode."
 msgid "An error occurred with your QRCode."
 msgstr ""
 
-msgctxt "Card name"
 msgid "Card name"
 msgstr "Όνομα κάρτας"
 
-msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "Συγχαρητήρια"
 
-msgctxt "Current card"
 msgid "Current card"
 msgstr "Τρέχουσα Κάρτα"
 
-msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "Διαγραφή του Κωδικού?"
 
-msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "Όνομα συνεργάτη:"
 
-msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "Κωδικός συνεργάτη:"
 
-msgctxt "Enter password"
 msgid "Enter password"
 msgstr "Συμπληρώστε τον Κωδικό"
 
-msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "Συμπληρώστε τον Κωδικό"
 
-msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "Η νέα Κάρτα Πίστεώς μου"
 
-msgctxt "My passwords"
 msgid "My passwords"
 msgstr "Οι κωδικοί μου"
 
-msgctxt "No cards available"
 msgid "No cards available"
 msgstr ""
 
-msgctxt "Number of points"
 msgid "Number of points"
 msgstr "Αριθμός πόντων"
 
-msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Παρακαλούμε συμπληρώστε ένα Όνομα"
 
-msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "Παρακαλούμε συμπληρώστε τον Κωδικό"
 
-msgctxt ""
-"Please show your phone to the store person so that he enters his password"
 msgid ""
 "Please show your phone to the store person so that he enters his password"
 msgstr ""
 "Παρακαλούμε δείξτε το τηλέφωνό σας στον συνεργάτη μας, για να συμπληρώσει "
 "τον Κωδικό"
 
-msgctxt "Point active"
 msgid "Point active"
 msgstr ""
 
-msgctxt "Point inactive"
 msgid "Point inactive"
 msgstr ""
 
-msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Οι πόντοι επικυρώθηκαν επιτυχώς"
 
-msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "Προηγούμενες Κάρτες"
 
-msgctxt "Reward"
 msgid "Reward"
 msgstr "Αμοιβή"
 
-msgctxt "Rewards"
 msgid "Rewards"
 msgstr "Αμοιβή"
 
-msgctxt "Scan QRCode"
 msgid "Scan QRCode"
 msgstr ""
 
-msgctxt "This card is uniq:"
 msgid "This card is uniq:"
 msgstr ""
 
-msgctxt "Unlock by QRCode"
 msgid "Unlock by QRCode"
 msgstr ""
 
-msgctxt "Unreadable QRCode, sorry."
 msgid "Unreadable QRCode, sorry."
 msgstr ""
 
-msgctxt "Use only once?"
 msgid "Use only once?"
 msgstr "χρησιμοποιήστε μόνο μία φορά"
 
-msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Συγνώμη αλλά αυτή η Κάρτα είναι προσωρινά μπλοκαρισμένη"
 
-msgctxt ""
-"Wrong password. Be carefull! %d remaining attempt%s before locking your "
-"card. Ask the store person for validating your point"
 msgid ""
 "Wrong password. Be carefull! %d remaining attempt%s before locking your "
 "card. Ask the store person for validating your point"
@@ -181,9 +140,6 @@ msgstr ""
 "Λάθος κωδικός. Προσοχή!! Απομένουν %d προσπάθειες πριν κλειδωθεί η Κάρτα "
 "σας. Ζητήστε από τον συνεργάτη να επικυρώσει τους πόντους σας"
 
-msgctxt ""
-"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
-"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -191,9 +147,6 @@ msgstr ""
 "Λάθος κωδικός. Προσοχή!! Απομένουν %d προσπάθειες πριν κλειδωθεί η Κάρτα "
 "σας. Ζητήστε από τον συνεργάτη να επικυρώσει τους πόντους σας"
 
-msgctxt ""
-"You have exceeded the number of attempts to validate points. Your card is "
-"locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points. Your card is "
 "locked for 24h"
@@ -201,38 +154,29 @@ msgstr ""
 "Έχετε υπερβεί τον αριθμό προσπαθειών για την επικύρωση πόντων. Η Κάρτα σας "
 "έχει κλειδωθεί για 24 ώρες"
 
-msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "Μόλις ολοκληρώσατε την Κάρτα σας"
 
-msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "Πρέπει να είστε συνδεδεμένοι για να επικυρώσετε πόντους"
 
-msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "Η Κάρτα Πίστεώς σας αποθηκεύτηκε επιτυχώς"
 
-msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "Ο κωδικός σας πρέπει να αποτελείται από 4 ψηφία"
 
-msgctxt "is now yours!"
 msgid "is now yours!"
 msgstr ""
 
-msgctxt "point"
 msgid "point"
 msgstr "πόντος"
 
-msgctxt "point to validate"
 msgid "point to validate"
 msgstr "πόντος για επικύρωση"
 
-msgctxt "points to validate"
 msgid "points to validate"
 msgstr "πόντοι για επικύρωση"
 
-msgctxt "validated points ="
 msgid "validated points ="
 msgstr ""

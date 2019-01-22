@@ -15,133 +15,99 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "App Name"
 msgid "App Name"
 msgstr "Имя App"
 
-msgctxt "Area"
 msgid "Area"
 msgstr "Площадь"
 
-msgctxt "Border Blue"
 msgid "Border Blue"
 msgstr "Граница Синяя"
 
-msgctxt "Border Green"
 msgid "Border Green"
 msgstr "Граница Зеленая"
 
-msgctxt "Border Grey"
 msgid "Border Grey"
 msgstr "Граница Серая"
 
-msgctxt "Border Purple"
 msgid "Border Purple"
 msgstr "Граница Фиолетовая"
 
-msgctxt "Border Red"
 msgid "Border Red"
 msgstr "Граница Красная"
 
-msgctxt "Border Yellow"
 msgid "Border Yellow"
 msgstr "Граница Желтая"
 
-msgctxt "Buttons"
 msgid "Buttons"
 msgstr "Кнопки"
 
-msgctxt "Color blue"
 msgid "Color blue"
 msgstr "Цвет синий"
 
-msgctxt "Color green"
 msgid "Color green"
 msgstr "Цвет зеленый"
 
-msgctxt "Color purple"
 msgid "Color purple"
 msgstr "Цвет фиолетовый"
 
-msgctxt "Color red"
 msgid "Color red"
 msgstr "Цвет красный"
 
-msgctxt "Color yellow"
 msgid "Color yellow"
 msgstr "Цвет желтый"
 
-msgctxt "Company or Fullname"
 msgid "Company or Fullname"
 msgstr "Компании или имя"
 
-msgctxt "Contact e-mail"
 msgid "Contact e-mail"
 msgstr "Контактный адрес электронной почты"
 
-msgctxt "Content background"
 msgid "Content background"
 msgstr "Фон контента"
 
-msgctxt "Content color"
 msgid "Content color"
 msgstr "Цвет контента"
 
-msgctxt "Country"
 msgid "Country"
 msgstr "Страна"
 
-msgctxt "Customize My Editor"
 msgid "Customize My Editor"
 msgstr "Настроить Мой Редактор"
 
-msgctxt "Delete/Cancel buttons"
 msgid "Delete/Cancel buttons"
 msgstr "Кнопки Удалить/отменить"
 
-msgctxt "Drop Down"
 msgid "Drop Down"
 msgstr "Вниз"
 
-msgctxt "E-mail"
 msgid "E-mail"
 msgstr "E-mail"
 
-msgctxt "Enable GDPR features & rules"
 msgid "Enable GDPR features & rules"
 msgstr "Включить функции GDPR"
 
-msgctxt "Enable White-Label"
 msgid "Enable White-Label"
 msgstr "Включить White Label"
 
-msgctxt "Favicon"
 msgid "Favicon"
 msgstr "Фавикон"
 
-msgctxt "Font Color blue"
 msgid "Font Color blue"
 msgstr "Цвет шрифта синий"
 
-msgctxt "Full address"
 msgid "Full address"
 msgstr "Полный адрес"
 
-msgctxt "General"
 msgid "General"
 msgstr "Главная"
 
-msgctxt "Grey buttons"
 msgid "Grey buttons"
 msgstr "Серые кнопки"
 
-msgctxt "Header"
 msgid "Header"
 msgstr "Заголовок"
 
-msgctxt ""
-"In application of the GDPR regulation text, you must fullfill legal contact "
-"informations, whether you are a Company or an Individual."
 msgid ""
 "In application of the GDPR regulation text, you must fullfill legal contact "
 "informations, whether you are a Company or an Individual."
@@ -149,38 +115,29 @@ msgstr ""
 "В применении GDPR, вы должны заполнить правовую контактную информацию, "
 "являетесь ли вы компанией или физлицом."
 
-msgctxt "Input flat"
 msgid "Input flat"
 msgstr "Ввод квартиры"
 
-msgctxt "Logo"
 msgid "Logo"
 msgstr "Логотип"
 
-msgctxt "Menu"
 msgid "Menu"
 msgstr "Меню"
 
-msgctxt "Page"
 msgid "Page"
 msgstr "Страницы"
 
-msgctxt "Phone"
 msgid "Phone"
 msgstr "Телефон"
 
-msgctxt "Sidebar background"
 msgid "Sidebar background"
 msgstr "Боковой фон"
 
-msgctxt "Step menu background"
 msgid "Step menu background"
 msgstr "Фон шага меню"
 
-msgctxt "Titles"
 msgid "Titles"
 msgstr "названия"
 
-msgctxt "White-Label name"
 msgid "White-Label name"
 msgstr "Имя White Label"

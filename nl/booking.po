@@ -14,98 +14,74 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Reserveringdetails"
 
-msgctxt "Booking location:"
 msgid "Booking location:"
 msgstr "Boekingslocatie:"
 
-msgctxt "Booking subject:"
 msgid "Booking subject:"
 msgstr "Boekingsonderwerp:"
 
-msgctxt "Comment:"
 msgid "Comment:"
 msgstr "Opmerkingen:"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Datum en tijd"
 
-msgctxt "Email address:"
 msgid "Email address:"
 msgstr "Emailadres:"
 
-msgctxt "Enter the location name and contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "Vul de locatienaam en contact email in:"
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Voornaam / Achternaam"
 
-msgctxt "Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "Hier zijn zijn persoonlijke gegevens:"
 
-msgctxt "Information"
 msgid "Information"
 msgstr "informatie"
 
-msgctxt "Location"
 msgid "Location"
 msgstr "Locatie"
 
-msgctxt "Name:"
 msgid "Name:"
 msgstr "Naam:"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Aantal personen"
 
-msgctxt "Phone number:"
 msgid "Phone number:"
 msgstr "Telefoonnummer:"
 
-msgctxt "Please, choose a store"
 msgid "Please, choose a store"
 msgstr "Kies een winkel"
 
-msgctxt "Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "Vul de volgende velden in:"
 
-msgctxt "Please fill out the following fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "Vul de volgende velden in:<br/>"
 
-msgctxt "Thank you for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Bedankt voor uw verzoek. Wij beantwoorden deze zo spoedig mogelijk."
 
-msgctxt "The booking information"
 msgid "The booking information"
 msgstr "Reserveringsinformatie"
 
-msgctxt "The date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "Datum en tijd van de reservering"
 
-msgctxt "The number of people"
 msgid "The number of people"
 msgstr "Aantal personen"
 
-msgctxt "You have received a message for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "U heeft een bericht van de boeking ontvangen"
 
-msgctxt "Your name"
 msgid "Your name"
 msgstr "Uw naam"
 
-msgctxt "Your phone number or email address"
 msgid "Your phone number or email address"
 msgstr "Uw telefoonnummer of emailadres"

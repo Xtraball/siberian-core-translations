@@ -14,411 +14,312 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "+ Add a track"
 msgid "+ Add a track"
 msgstr "+ Voeg een nummer toe"
 
-msgctxt "Add albums and tracks to the playlist:"
 msgid "Add albums and tracks to the playlist:"
 msgstr "Albums en tracks toevoegen aan de afspeellijst:"
 
-msgctxt "Album"
 msgid "Album"
 msgstr "Album"
 
-msgctxt "Albums"
 msgid "Albums"
 msgstr "Album"
 
-msgctxt ""
-"An error occurred while deleting you images gallery. Please try again later."
 msgid ""
 "An error occurred while deleting you images gallery. Please try again later."
 msgstr ""
 "Er is een fout opgetreden bij het verwijderen van je fotoalbum. Probeer het "
 "later opnieuw."
 
-msgctxt "An error occurred while deleting your album. Thanks for trying later."
 msgid "An error occurred while deleting your album. Thanks for trying later."
 msgstr ""
 "Er is een fout opgetreden tijdens het verwijderen van uw album. Probeer het "
 "later opnieuw."
 
-msgctxt ""
-"An error occurred while deleting your playlist. Thanks for trying later."
 msgid ""
 "An error occurred while deleting your playlist. Thanks for trying later."
 msgstr ""
 "Er is een fout opgetreden tijdens het verwijderen van uw afspeellijst. "
 "Probeer het later opnieuw."
 
-msgctxt "An error occurred while deleting your track. Thanks for trying later."
 msgid "An error occurred while deleting your track. Thanks for trying later."
 msgstr ""
 "Er is een fout opgetreden bij het verwijderen van je track. Probeer het "
 "later opnieuw."
 
-msgctxt "An error occurred while loading pictures. Please try later."
 msgid "An error occurred while loading pictures. Please try later."
 msgstr ""
 "Er is een fout opgetreden tijdens het laden van de afbeeldingen. Probeert u "
 "het later nog eens.."
 
-msgctxt "An error occurred while loading the media."
 msgid "An error occurred while loading the media."
 msgstr "Er is een fout opgetreden tijdens het laden van de media."
 
-msgctxt "An error occurred while loading the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Er is een fout opgetreden tijdens het laden van de radio."
 
-msgctxt "An error occurred while loading videos. Please try later."
 msgid "An error occurred while loading videos. Please try later."
 msgstr ""
 "Er is een fout opgetreden tijdens het laden van de video's. Probeer het "
 "later nog eens."
 
-msgctxt ""
-"An error occurred while retrieving your page. Please check your page id."
 msgid ""
 "An error occurred while retrieving your page. Please check your page id."
 msgstr ""
 "Er is een fout opgetreden bij het ophalen van uw pagina. Controleer uw "
 "pagina-ID."
 
-msgctxt ""
-"An error occurred while saving your images gallery. Please try again later."
 msgid ""
 "An error occurred while saving your images gallery. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van uw afbeeldingen galerij. "
 "Probeer het later nog eens."
 
-msgctxt "An error occurred while saving your playlist. Thanks for trying later."
 msgid "An error occurred while saving your playlist. Thanks for trying later."
 msgstr ""
 "Er is een fout opgetreden bij het opslaan van uw afspeellijst. Probeer het "
 "later opnieuw."
 
-msgctxt ""
-"An error occurred while saving your videos gallery. Please try again later."
 msgid ""
 "An error occurred while saving your videos gallery. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van uw video galerij. Probeer "
 "het later nog eens."
 
-msgctxt "Are you sure you don't want to create an album for these tracks?"
 msgid "Are you sure you don't want to create an album for these tracks?"
 msgstr "Weet u zeker dat u  geen album voor deze nummers wilt maken?"
 
-msgctxt "Are you sure you don't want to create an album for this track?"
 msgid "Are you sure you don't want to create an album for this track?"
 msgstr "Weet u zeker dat u  geen album voor dit nummer wilt maken?"
 
-msgctxt "Are you sure you want to delete this album?"
 msgid "Are you sure you want to delete this album?"
 msgstr "Weet u zeker dat u dit album wilt verwijderen?"
 
-msgctxt "Are you sure you want to delete this album (this won't delete tracks)?"
 msgid "Are you sure you want to delete this album (this won't delete tracks)?"
 msgstr ""
 "Weet u zeker dat u dit album wilt verwijderen? ( nummers worden niet "
 "verwijdert)?"
 
-msgctxt "Are you sure you want to delete this playlist?"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Weet je zeker dat je deze afspeellijst wilt verwijderen?"
 
-msgctxt "Are you sure you want to delete this track?"
 msgid "Are you sure you want to delete this track?"
 msgstr "Weet u zeker dat u dit nummer wilt verwijderen?"
 
-msgctxt "Artist:"
 msgid "Artist:"
 msgstr "Artiest:"
 
-msgctxt "Audio"
 msgid "Audio"
 msgstr "Audio"
 
-msgctxt "Channel"
 msgid "Channel"
 msgstr "Kanaal"
 
-msgctxt "Choose an album"
 msgid "Choose an album"
 msgstr "Kies een album"
 
-msgctxt "Custom"
 msgid "Custom"
 msgstr "Aangepast"
 
-msgctxt "Delete this gallery?"
 msgid "Delete this gallery?"
 msgstr "Verwijder deze galerij?"
 
-msgctxt "Facebook page ID"
 msgid "Facebook page ID"
 msgstr "FaceBook pagina ID"
 
-msgctxt "Feed URL"
 msgid "Feed URL"
 msgstr "Feed-URL"
 
-msgctxt "Flickr"
 msgid "Flickr"
 msgstr "flickr"
 
-msgctxt "Flickr API settings can't be found."
 msgid "Flickr API settings can't be found."
 msgstr "Flickr API-instellingen kunnen niet worden gevonden."
 
-msgctxt "Flickr user"
 msgid "Flickr user"
 msgstr "Flickr-gebruiker"
 
-msgctxt "Gallery Name"
 msgid "Gallery Name"
 msgstr "Galerie Naam"
 
-msgctxt "Group"
 msgid "Group"
 msgstr "Groep"
 
-msgctxt "If set, will appear instead of the Facebook page Id in app."
 msgid "If set, will appear instead of the Facebook page Id in app."
 msgstr ""
 "Indien ingesteld, verschijnt in plaats van de Facebook-pagina Id in app."
 
-msgctxt "I'm listening to"
 msgid "I'm listening to"
 msgstr "Ik luister naar"
 
-msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "Ik luister naar $1 van $2 op $3 app."
 
-msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr "Ik luister naar $1 op $2 app."
 
-msgctxt "Images gallery has been saved successfully"
 msgid "Images gallery has been saved successfully"
 msgstr "Fotoalbum met succes opgeslagen"
 
-msgctxt "Instagram"
 msgid "Instagram"
 msgstr "instagram"
 
-msgctxt "Instagram API settings can't be found."
 msgid "Instagram API settings can't be found."
 msgstr "Instagram API-instellingen kunnen niet worden gevonden."
 
-msgctxt "Last update:"
 msgid "Last update:"
 msgstr "Laatste update:"
 
-msgctxt "Login"
 msgid "Login"
 msgstr "Login"
 
-msgctxt "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgstr "Maximaal formaat : 2000x2000px – toestaande formaten: jpg en png"
 
-msgctxt "My images"
 msgid "My images"
 msgstr "Mijn afbeeldingen"
 
-msgctxt "No album found"
 msgid "No album found"
 msgstr "Geen album gevonden"
 
-msgctxt "No artist found"
 msgid "No artist found"
 msgstr "Geen artiest gevonden"
 
-msgctxt "No current stream to play so far."
 msgid "No current stream to play so far."
 msgstr "Geen straem om af te spelen."
 
-msgctxt "No track found"
 msgid "No track found"
 msgstr "Geen nummer gevonden"
 
-msgctxt "No valid Facebook API key and secret."
 msgid "No valid Facebook API key and secret."
 msgstr "Geen geldige Facebook API-sleutel en geheim gevonden."
 
-msgctxt "PLAYER"
 msgid "PLAYER"
 msgstr "PLAYER"
 
-msgctxt "Page ID"
 msgid "Page ID"
 msgstr "Pagina ID"
 
-msgctxt "Page not found"
 msgid "Page not found"
 msgstr "Pagina niet gevonden"
 
-msgctxt "Parameter"
 msgid "Parameter"
 msgstr "Parameter"
 
-msgctxt "Parameter/Feed Url"
 msgid "Parameter/Feed Url"
 msgstr "Parameter / Feed-URL"
 
-msgctxt "Picasa"
 msgid "Picasa"
 msgstr "Picasa"
 
-msgctxt "Playlist"
 msgid "Playlist"
 msgstr "Speellijst"
 
-msgctxt "Playlist successfully saved."
 msgid "Playlist successfully saved."
 msgstr "Speellijst succesvol opgeslagen."
 
-msgctxt "Playlist title:"
 msgid "Playlist title:"
 msgstr "Speellijst-titel:"
 
-msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Speellijst"
 
-msgctxt "Please specify the page ID"
 msgid "Please specify the page ID"
 msgstr "Geef de pagina-ID op"
 
-msgctxt "Podcast"
 msgid "Podcast"
 msgstr "podcast"
 
-msgctxt "Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (iTunes formaat)"
 
-msgctxt "Read all"
 msgid "Read all"
 msgstr "Lees alles"
 
-msgctxt "Reload album list?"
 msgid "Reload album list?"
 msgstr "Albumlijst opnieuw laden?"
 
-msgctxt "Required field"
 msgid "Required field"
 msgstr "Verplicht veld"
 
-msgctxt "Search/Url"
 msgid "Search/Url"
 msgstr "Zoek/Url"
 
-msgctxt "The entered name is not a valid Instagram user."
 msgid "The entered name is not a valid Instagram user."
 msgstr "De ingevoerde naam is geen geldige Instagram gebruiker."
 
-msgctxt "This element is not an album."
 msgid "This element is not an album."
 msgstr "Dit element is niet een album."
 
-msgctxt "Track"
 msgid "Track"
 msgstr "nummer"
 
-msgctxt "Tracks"
 msgid "Tracks"
 msgstr "nummer"
 
-msgctxt "Type"
 msgid "Type"
 msgstr "Type"
 
-msgctxt "URL (.mp3):"
 msgid "URL (.mp3):"
 msgstr "URL (.mp3):"
 
-msgctxt "Videos gallery has been saved successfully"
 msgid "Videos gallery has been saved successfully"
 msgstr "Video galerij is met succes opgeslagen"
 
-msgctxt "Vimeo"
 msgid "Vimeo"
 msgstr "vimeo"
 
-msgctxt "buy"
 msgid "buy"
 msgstr "koop"
 
-msgctxt "by"
 msgid "by"
 msgstr "door"
 
-msgctxt "close"
 msgid "close"
 msgstr "Sluit"
 
-msgctxt "empty"
 msgid "empty"
 msgstr "leeg"
 
-msgctxt "from"
 msgid "from"
 msgstr "van"
 
-msgctxt "hide"
 msgid "hide"
 msgstr "verberg"
 
-msgctxt "loop"
 msgid "loop"
 msgstr "Herhaal"
 
-msgctxt "music"
 msgid "music"
 msgstr "muziek"
 
-msgctxt "next"
 msgid "next"
 msgstr "volgende"
 
-msgctxt "on"
 msgid "on"
 msgstr "aan"
 
-msgctxt "pause"
 msgid "pause"
 msgstr "pauze"
 
-msgctxt "play"
 msgid "play"
 msgstr "speel"
 
-msgctxt "previous"
 msgid "previous"
 msgstr "vorige"
 
-msgctxt "%s by %s"
 msgid "%s by %s"
 msgstr "%s door %s"
 
-msgctxt "share"
 msgid "share"
 msgstr "deel"
 
-msgctxt "shuffle"
 msgid "shuffle"
 msgstr "shuffel"
 
-msgctxt "track"
 msgid "track"
 msgstr "nummer"
 
-msgctxt "tracks"
 msgid "tracks"
 msgstr "nummers"

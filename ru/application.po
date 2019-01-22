@@ -15,9 +15,6 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"* If apple doesn't detect any ads configurate, your application will be "
-"refused"
 msgid ""
 "* If apple doesn't detect any ads configurate, your application will be "
 "refused"
@@ -25,138 +22,102 @@ msgstr ""
 "* Если Apple не обнаруживает каких-либо конфигураций рекламы, Ваша заявка "
 "будет отклонена"
 
-msgctxt ""
-"* You have to justify why you need this background audio playing to Apple."
 msgid ""
 "* You have to justify why you need this background audio playing to Apple."
 msgstr ""
 "* Вы должны обосновать Apple, почему вам нужен  фоновое проигрывание аудио."
 
-msgctxt ""
-"* You have to justify why you need this background geolocation to Apple."
 msgid ""
 "* You have to justify why you need this background geolocation to Apple."
 msgstr "* Вы должны обосновать Apple, почему вам нужна фоновая геолокация."
 
-msgctxt "1. Download the app previewer:"
 msgid "1. Download the app previewer:"
 msgstr "1. Скачать приложение предпросмотра:"
 
-msgctxt "1. Insert the following code between the %s tag of your page:"
 msgid "1. Insert the following code between the %s tag of your page:"
 msgstr "1. Вставьте следующий код между тегом%s вашей страницы:"
 
-msgctxt "2. Insert the following code at the end of the %s tag of your page:"
 msgid "2. Insert the following code at the end of the %s tag of your page:"
 msgstr "2. Вставьте следующий код в конце %s метки страницы:"
 
-msgctxt "2. Open the app and login"
 msgid "2. Open the app and login"
 msgstr "2. Откройте приложение и логин"
 
-msgctxt "API Keys"
 msgid "API Keys"
 msgstr "Ключи API"
 
-msgctxt "APIs"
 msgid "APIs"
 msgstr "APIs"
 
-msgctxt "Access Token"
 msgid "Access Token"
 msgstr "Токен Доступа"
 
-msgctxt "Acl"
 msgid "Acl"
 msgstr "Управления доступом"
 
-msgctxt "Activated"
 msgid "Activated"
 msgstr "Активен"
 
-msgctxt "AdMob ID"
 msgid "AdMob ID"
 msgstr "Идентификатор сети admob"
 
-msgctxt "AdMob Type"
 msgid "AdMob Type"
 msgstr "Тип сети admob"
 
-msgctxt "Add a new icon"
 msgid "Add a new icon"
 msgstr "Добавить новый значок"
 
-msgctxt "Add a thumbnail"
 msgid "Add a thumbnail"
 msgstr "Добавить эскиз"
 
-msgctxt "Add an image"
 msgid "Add an image"
 msgstr "Добавить фото"
 
-msgctxt "Add pages"
 msgid "Add pages"
 msgstr "Добавьте страницы"
 
-msgctxt "Add pictures"
 msgid "Add pictures"
 msgstr "Добавить фотографию"
 
-msgctxt "Add place"
 msgid "Add place"
 msgstr "Добавить место"
 
-msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "Добавить разделы:"
 
-msgctxt "Additional options"
 msgid "Additional options"
 msgstr "Дополнительные опции"
 
-msgctxt "Admin"
 msgid "Admin"
 msgstr "Админ"
 
-msgctxt "Admin Account"
 msgid "Admin Account"
 msgstr "Аккаунт Админа"
 
-msgctxt "Advanced"
 msgid "Advanced"
 msgstr "Расширенный"
 
-msgctxt "Advanced Application Options"
 msgid "Advanced Application Options"
 msgstr "Расширенные возможности приложения"
 
-msgctxt "Advanced Customization CSS / SCSS"
 msgid "Advanced Customization CSS / SCSS"
 msgstr "Расширенные настройки в CSS / scss"
 
-msgctxt "Advertising"
 msgid "Advertising"
 msgstr "Реклама"
 
-msgctxt "All"
 msgid "All"
 msgstr "Все"
 
-msgctxt "All done!"
 msgid "All done!"
 msgstr "Все сделали!"
 
-msgctxt "Allow user to request app publication"
 msgid "Allow user to request app publication"
 msgstr "Позволяют пользователю запрашивать публикации приложения"
 
-msgctxt "Allowed"
 msgid "Allowed"
 msgstr "Разрешено"
 
-msgctxt ""
-"An error occured while copying your app icon. Please check the icon, try to "
-"send it again and try again."
 msgid ""
 "An error occured while copying your app icon. Please check the icon, try to "
 "send it again and try again."
@@ -164,13 +125,9 @@ msgstr ""
 "Произошла ошибка при копировании значка приложения. Пожалуйста, проверьте "
 "значок, попробуйте отправить его еще раз и повторите попытку."
 
-msgctxt "An error occurred. Sorry for the inconvenience."
 msgid "An error occurred. Sorry for the inconvenience."
 msgstr "Произошла ошибка. "
 
-msgctxt ""
-"An error occurred during the generation of your QRCode. Please try again "
-"later."
 msgid ""
 "An error occurred during the generation of your QRCode. Please try again "
 "later."
@@ -178,120 +135,90 @@ msgstr ""
 "Произошла ошибка при генерации вашего QR кода. Пожалуйста, повторите попытку "
 "позже."
 
-msgctxt "An error occurred while adding the option"
 msgid "An error occurred while adding the option"
 msgstr "Произошла ошибка при добавлении опции"
 
-msgctxt "An error occurred while changing your layout."
 msgid "An error occurred while changing your layout."
 msgstr "Произошла ошибка при смене макета."
 
-msgctxt "An error occurred while deleting the option"
 msgid "An error occurred while deleting the option"
 msgstr "Произошла ошибка во время удаления опции"
 
-msgctxt "An error occurred while deleting your picture"
 msgid "An error occurred while deleting your picture"
 msgstr "Произошла ошибка во время удаления вашей фотографии"
 
-msgctxt "An error occurred while editing file (%s)."
 msgid "An error occurred while editing file (%s)."
 msgstr "Произошла ошибка при редактировании файла (%s)."
 
-msgctxt "An error occurred while generating. Please try again later."
 msgid "An error occurred while generating. Please try again later."
 msgstr "Произошла ошибка при загрузке. Пожалуйста, повторите попытку позже."
 
-msgctxt "An error occurred while hidding the iOS Status Bar"
 msgid "An error occurred while hidding the iOS Status Bar"
 msgstr "Произошла ошибка при добавлении опции"
 
-msgctxt "An error occurred while loading"
 msgid "An error occurred while loading"
 msgstr "Произошла ошибка при загрузке"
 
-msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "Произошла ошибка при сохранении. Пожалуйста, повторите попытку позже."
 
-msgctxt "An error occurred while saving. The selected icon is not valid."
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr ""
 "Произошла ошибка при сохранении. Выбранный значок не является действительным."
 
-msgctxt "An error occurred while saving the application. Please try again later."
 msgid "An error occurred while saving the application. Please try again later."
 msgstr ""
 "Произошла ошибка при сохранении приложения. Пожалуйста, повторите попытку "
 "позже."
 
-msgctxt "An error occurred while saving your colors."
 msgid "An error occurred while saving your colors."
 msgstr "Произошла ошибка при сохранении ваших цветов"
 
-msgctxt "An error occurred while saving your page name."
 msgid "An error occurred while saving your page name."
 msgstr "Произошла ошибка при сохранении имени вашей страницы"
 
-msgctxt "An error occurred while sorting your pages. Please try again later."
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr ""
 "Произошла ошибка при сортировке страниц. Пожалуйста, повторите попытку позже."
 
-msgctxt ""
-"An error occurred while sorting your slider images. Please try again later."
 msgid ""
 "An error occurred while sorting your slider images. Please try again later."
 msgstr ""
 "Произошла ошибка при сортировке страниц. Пожалуйста, повторите попытку позже."
 
-msgctxt "Analytics"
 msgid "Analytics"
 msgstr "Аналитика"
 
-msgctxt "Analyzing fetched data..."
 msgid "Analyzing fetched data..."
 msgstr "Анализируя полученные данные..."
 
-msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Android APK Generation"
 msgid "Android APK Generation"
 msgstr "Андроид APK генератор"
 
-msgctxt "Android APK version"
 msgid "Android APK version"
 msgstr "Андроид APK генератор"
 
-msgctxt "Android Version"
 msgid "Android Version"
 msgstr "Версия Андроида"
 
-msgctxt "Android push"
 msgid "Android push"
 msgstr "Пуш для Android"
 
-msgctxt "Angle"
 msgid "Angle"
 msgstr "Угол"
 
-msgctxt "App ID"
 msgid "App ID"
 msgstr "Идентификатор приложения"
 
-msgctxt "App Store Icon"
 msgid "App Store Icon"
 msgstr "App Store иконка"
 
-msgctxt "App design"
 msgid "App design"
 msgstr "Дизайн приложения"
 
-msgctxt ""
-"Apple rejects apps that includes Ad Support but doesn't use it.<br />"
-"Generate your iOS app out of this source code if you don't include Ads."
 msgid ""
 "Apple rejects apps that includes Ad Support but doesn't use it.<br />"
 "Generate your iOS app out of this source code if you don't include Ads."
@@ -300,373 +227,279 @@ msgstr ""
 "показывает ее.<br />как создать свой iOS приложение из исходного кода, если "
 "Вы не включают в себя объявления."
 
-msgctxt "Apple's Information"
 msgid "Apple's Information"
 msgstr "Информация от Apple"
 
-msgctxt "Application:"
 msgid "Application:"
 msgstr "Приложения"
 
-msgctxt "Application icon"
 msgid "Application icon"
 msgstr "Название программы"
 
-msgctxt "Application name"
 msgid "Application name"
 msgstr "Название программы"
 
-msgctxt "Are you sure you want to remove this application?"
 msgid "Are you sure you want to remove this application?"
 msgstr "Вы уверены, что хотите удалить это приложение?"
 
-msgctxt "Around you"
 msgid "Around you"
 msgstr "Вокруг тебя"
 
-msgctxt "At least 200 characters in the description"
 msgid "At least 200 characters in the description"
 msgstr "По крайней мере должно быть 200 символов в описании"
 
-msgctxt "At least, 4 pages in the application"
 msgid "At least, 4 pages in the application"
 msgstr "По крайней мере должны быть 4 страницы в приложении"
 
-msgctxt "Attachment"
 msgid "Attachment"
 msgstr "Вложение"
 
-msgctxt "Audio"
 msgid "Audio"
 msgstr "Аудио"
 
-msgctxt "Auth"
 msgid "Auth"
 msgstr "Двиг"
 
-msgctxt "Available SCSS Variables corresponding to previously set colors"
 msgid "Available SCSS Variables corresponding to previously set colors"
 msgstr "Доступные переменные SCSS, соответствующие установленному набору цветов"
 
-msgctxt "Average by customer"
 msgid "Average by customer"
 msgstr "Средняя заказчиком"
 
-msgctxt "Background"
 msgid "Background"
 msgstr "Фон"
 
-msgctxt "Backoffice"
 msgid "Backoffice"
 msgstr "Бэк-офис"
 
-msgctxt "Banner"
 msgid "Banner"
 msgstr "баннер"
 
-msgctxt "Banner Android price"
 msgid "Banner Android price"
 msgstr "Цена баннера для Android"
 
-msgctxt "Banner Android store label"
 msgid "Banner Android store label"
 msgstr "Этикетка баннера в магазине Android"
 
-msgctxt "Banner author"
 msgid "Banner author"
 msgstr "Автор баннера"
 
-msgctxt "Banner button label"
 msgid "Banner button label"
 msgstr "Надпись на кнопке баннера"
 
-msgctxt "Banner iOS store label"
 msgid "Banner iOS store label"
 msgstr "Этикетка Баннера iOS"
 
-msgctxt "Banner settings"
 msgid "Banner settings"
 msgstr "Настройки баннера"
 
-msgctxt "Banner title"
 msgid "Banner title"
 msgstr "Заголовок баннера"
 
-msgctxt "Book"
 msgid "Book"
 msgstr "Книга"
 
-msgctxt "Border"
 msgid "Border"
 msgstr "Граница"
 
-msgctxt "Border shadow"
 msgid "Border shadow"
 msgstr "Тень границы"
 
-msgctxt "Bottom"
 msgid "Bottom"
 msgstr "Низ"
 
-msgctxt "Build a mobile app easily"
 msgid "Build a mobile app easily"
 msgstr "Легко создать мобильное приложение"
 
-msgctxt "Build date"
 msgid "Build date"
 msgstr "Дата сборки"
 
-msgctxt "Build information"
 msgid "Build information"
 msgstr "Моя информация"
 
-msgctxt "Bundle Id"
 msgid "Bundle Id"
 msgstr "Пакеты  Id"
 
-msgctxt "Business"
 msgid "Business"
 msgstr "Бизнес"
 
-msgctxt "Button"
 msgid "Button"
 msgstr "Кнопка"
 
-msgctxt "Buy one, get one!"
 msgid "Buy one, get one!"
 msgstr "Купите один, получите один!"
 
-msgctxt "Cache"
 msgid "Cache"
 msgstr "Кэш"
 
-msgctxt "Calendar"
 msgid "Calendar"
 msgstr "Календарь"
 
-msgctxt "Catalogs"
 msgid "Catalogs"
 msgstr "Каталог"
 
-msgctxt "Certificate"
 msgid "Certificate"
 msgstr "Сертификат"
 
-msgctxt "Change your"
 msgid "Change your"
 msgstr "Изменить"
 
-msgctxt "Change your icon"
 msgid "Change your icon"
 msgstr "Измените иконку"
 
-msgctxt "Change your layout"
 msgid "Change your layout"
 msgstr "Выберите макет"
 
-msgctxt "Change your picture"
 msgid "Change your picture"
 msgstr "Сменить картинку"
 
-msgctxt "Change your template"
 msgid "Change your template"
 msgstr "Изменить шаблон"
 
-msgctxt "Change your<br /><span class='bold'>picture</span>"
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr "Выберите <br /><span class=\"bold\">картинку</span>"
 
-msgctxt "Checking CNAME configuration:"
 msgid "Checking CNAME configuration:"
 msgstr "Проверка CNAME конфигурации:"
 
-msgctxt "Choose a <br /><span class='bold'>picture</span>"
 msgid "Choose a <br /><span class='bold'>picture</span>"
 msgstr "Выберите <br /><span class=\"bold\">картинку</span>"
 
-msgctxt "Choose a country"
 msgid "Choose a country"
 msgstr "Выберите страну"
 
-msgctxt "Choose a font family"
 msgid "Choose a font family"
 msgstr "Выберите шрифт"
 
-msgctxt "Choose a picture"
 msgid "Choose a picture"
 msgstr "Выбрать изображение"
 
-msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Выберите шаблон, чтобы настроить"
 
-msgctxt "Choose an icon"
 msgid "Choose an icon"
 msgstr "Выберите иконку"
 
-msgctxt "Choose your colors"
 msgid "Choose your colors"
 msgstr "Подберите цветовую схему приложения"
 
-msgctxt "Choose your country"
 msgid "Choose your country"
 msgstr "Выберите страну"
 
-msgctxt "Choose your design"
 msgid "Choose your design"
 msgstr "Выберите свой дизайн"
 
-msgctxt "Choose your font style"
 msgid "Choose your font style"
 msgstr "Выберите свой стиль шрифта"
 
-msgctxt "Choose your homepage image"
 msgid "Choose your homepage image"
 msgstr "Выберите изображение страницы"
 
-msgctxt "Choose your icons color"
 msgid "Choose your icons color"
 msgstr "Подберите дизайн кнопок управления "
 
-msgctxt "Choose your layout"
 msgid "Choose your layout"
 msgstr "Выберите макет"
 
-msgctxt "Choose your template"
 msgid "Choose your template"
 msgstr "Выберите шаблон"
 
-msgctxt "Click here to download the source code:"
 msgid "Click here to download the source code:"
 msgstr "Нажмите здесь, чтобы загрузить исходный код:"
 
-msgctxt "Click here to send your certificate"
 msgid "Click here to send your certificate"
 msgstr "Нажмите здесь, чтобы отправить сертификат"
 
-msgctxt "Client ID"
 msgid "Client ID"
 msgstr "ID клиента"
 
-msgctxt "Cms"
 msgid "Cms"
 msgstr "Coms"
 
-msgctxt "Code Scan"
 msgid "Code Scan"
 msgstr "Сканирование Кода"
 
-msgctxt "Codescan"
 msgid "Codescan"
 msgstr "Сканер QR-кода"
 
-msgctxt "Color"
 msgid "Color"
 msgstr "Цвета"
 
-msgctxt "Colorize pager"
 msgid "Colorize pager"
 msgstr "Раскрашивать пейджер"
 
-msgctxt "Colors"
 msgid "Colors"
 msgstr "Цвета"
 
-msgctxt "Comments"
 msgid "Comments"
 msgstr "Комментарии"
 
-msgctxt "Configuration"
 msgid "Configuration"
 msgstr "Конфигурация"
 
-msgctxt "Connect Button"
 msgid "Connect Button"
 msgstr "Кнопка Подключения"
 
-msgctxt "Contact"
 msgid "Contact"
 msgstr "Контакты"
 
-msgctxt "Core"
 msgid "Core"
 msgstr "Основной"
 
-msgctxt "Cover background images"
 msgid "Cover background images"
 msgstr "Обложка фоновых изображений"
 
-msgctxt "Create a place"
 msgid "Create a place"
 msgstr "Создать магазин"
 
-msgctxt "Currently only one language can be selected."
 msgid "Currently only one language can be selected."
 msgstr "В настоящее время можно выбрать только один язык."
 
-msgctxt "Custom"
 msgid "Custom"
 msgstr "Лучшие"
 
-msgctxt "Custom SMTP"
 msgid "Custom SMTP"
 msgstr "Пользовательские SMTP"
 
-msgctxt "Custom domain name:"
 msgid "Custom domain name:"
 msgstr "Пользовательское доменное имя:"
 
-msgctxt "Customization"
 msgid "Customization"
 msgstr "настройка"
 
-msgctxt "Customize your app's style"
 msgid "Customize your app's style"
 msgstr "Настроить стиль приложения"
 
-msgctxt "Dashboard icon"
 msgid "Dashboard icon"
 msgstr "Иконка Приборной панели"
 
-msgctxt "Deactivated"
 msgid "Deactivated"
 msgstr "Не активен"
 
-msgctxt "Default"
 msgid "Default"
 msgstr "По умолчанию"
 
-msgctxt "Default (none)"
 msgid "Default (none)"
 msgstr "По умолчанию (нет)"
 
-msgctxt "Delete this page?"
 msgid "Delete this page?"
 msgstr "Удалить эту страницу?"
 
-msgctxt "Depth"
 msgid "Depth"
 msgstr "Глубина"
 
-msgctxt "Design"
 msgid "Design"
 msgstr "Дизайн"
 
-msgctxt "Developer Accounts"
 msgid "Developer Accounts"
 msgstr "Аккаунт для разработчиков"
 
-msgctxt "Device Information"
 msgid "Device Information"
 msgstr "Информация об устройстве "
 
-msgctxt "Discount Zone"
 msgid "Discount Zone"
 msgstr "Зона скидок"
 
-msgctxt ""
-"Discount zone description. Here your clients will be able to see the details "
-"of each discount"
 msgid ""
 "Discount zone description. Here your clients will be able to see the details "
 "of each discount"
@@ -674,165 +507,123 @@ msgstr ""
 "Описание раздела скидок. Здесь ваши клиенты смогут увидеть подробные "
 "сведения о каждой скидке."
 
-msgctxt "Display Border Circle"
 msgid "Display Border Circle"
 msgstr "Показать границу круга"
 
-msgctxt "Display Borders"
 msgid "Display Borders"
 msgstr "Показать адрес"
 
-msgctxt "Display Image"
 msgid "Display Image"
 msgstr "Показать Изображения"
 
-msgctxt "Display Shadow"
 msgid "Display Shadow"
 msgstr "Показать Тень"
 
-msgctxt "Display address"
 msgid "Display address"
 msgstr "Показать адрес"
 
-msgctxt "Display borders"
 msgid "Display borders"
 msgstr "Показать адрес"
 
-msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr "Отображать изображения на странице"
 
-msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Показать кнопку расположения"
 
-msgctxt "Display the homepage slider"
 msgid "Display the homepage slider"
 msgstr "Показать слайдер домашней страницы"
 
-msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr "Показывать Заголовок и подзаголовок на странице"
 
-msgctxt "Display titles"
 msgid "Display titles"
 msgstr "Показать заголовки"
 
-msgctxt "Domain"
 msgid "Domain"
 msgstr "Домен"
 
-msgctxt "Domain name"
 msgid "Domain name"
 msgstr "Имя домена"
 
-msgctxt "Don't order:"
 msgid "Don't order:"
 msgstr "Не заказывайте:"
 
-msgctxt "Download"
 msgid "Download"
 msgstr "Скачать"
 
-msgctxt "Download last build"
 msgid "Download last build"
 msgstr "Скачать последнюю сборку"
 
-msgctxt "Download latest"
 msgid "Download latest"
 msgstr "Скачать последний"
 
-msgctxt "Download our app previewer"
 msgid "Download our app previewer"
 msgstr "Загрузите наше приложение предварительного просмотра"
 
-msgctxt "Download your QRCode"
 msgid "Download your QRCode"
 msgstr "Скачать QR-код"
 
-msgctxt "Drop your certificate here"
 msgid "Drop your certificate here"
 msgstr "Оставьте свой сертификат здесь"
 
-msgctxt "Dynamic: percentage"
 msgid "Dynamic: percentage"
 msgstr "Динамика: процент"
 
-msgctxt "Edit"
 msgid "Edit"
 msgstr "Редактировать"
 
-msgctxt "Edit my"
 msgid "Edit my"
 msgstr "Редактировать мой"
 
-msgctxt "Edit place"
 msgid "Edit place"
 msgstr "Редактировать место"
 
-msgctxt "Edit the application %s"
 msgid "Edit the application %s"
 msgstr "Измените приложение \"%s\""
 
-msgctxt "Editor"
 msgid "Editor"
 msgstr "Редактор"
 
-msgctxt "Education"
 msgid "Education"
 msgstr "образование"
 
-msgctxt "E-mail"
 msgid "E-mail"
 msgstr "E-mail"
 
-msgctxt "Enable Offline content ?"
 msgid "Enable Offline content ?"
 msgstr "Включить автономный Контент ?"
 
-msgctxt "Enable custom SMTP"
 msgid "Enable custom SMTP"
 msgstr "Включить пользовательские SMTP"
 
-msgctxt "Enable search filters:"
 msgid "Enable search filters:"
 msgstr "Включать фильтры поиска:"
 
-msgctxt "Enter your AdMob ID for each platform."
 msgid "Enter your AdMob ID for each platform."
 msgstr "Введите ваш ID admob для каждой платформы."
 
-msgctxt "Enter your Facebook page"
 msgid "Enter your Facebook page"
 msgstr "Введите ID страницы в Facebook "
 
-msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Развлечения"
 
-msgctxt "Event"
 msgid "Event"
 msgstr "Событие"
 
-msgctxt "Events"
 msgid "Events"
 msgstr "Событие"
 
-msgctxt "Export"
 msgid "Export"
 msgstr "Экспорт"
 
-msgctxt "Export App & Selected features."
 msgid "Export App & Selected features."
 msgstr "Экспортировать приложение и выбранные функции."
 
-msgctxt "Export as global Template"
 msgid "Export as global Template"
 msgstr "Экспорт как глобальный шаблон"
 
-msgctxt ""
-"Export your application to a re-usable template & share it across Apps & "
-"Platforms."
 msgid ""
 "Export your application to a re-usable template & share it across Apps & "
 "Platforms."
@@ -840,37 +631,27 @@ msgstr ""
 "Экспортировать приложение для повторного использован и поделиться им во всех "
 "приложениях и платформах."
 
-msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "Расширение не допускается, '%s' только"
 
-msgctxt "Facebook"
 msgid "Facebook"
 msgstr "Facebook"
 
-msgctxt "Facebook API Keys"
 msgid "Facebook API Keys"
 msgstr "Ключи API Facebook"
 
-msgctxt "Facebook API settings"
 msgid "Facebook API settings"
 msgstr "Параметры API Facebook"
 
-msgctxt "Feature icons"
 msgid "Feature icons"
 msgstr "Иконки функции"
 
-msgctxt "Features"
 msgid "Features"
 msgstr "Функции"
 
-msgctxt "Features Access Settings"
 msgid "Features Access Settings"
 msgstr "Настройки доступа к функциям"
 
-msgctxt ""
-"Fetching data from Facebook and creating your features. It can take a while, "
-"be patient!"
 msgid ""
 "Fetching data from Facebook and creating your features. It can take a while, "
 "be patient!"
@@ -878,229 +659,172 @@ msgstr ""
 "Извлечение данных из Facebook и создание ваших функций. Это может занять "
 "некоторое время, будьте терпеливы!"
 
-msgctxt "Fidelity points"
 msgid "Fidelity points"
 msgstr "Порог точности"
 
-msgctxt "Fidelity points rate"
 msgid "Fidelity points rate"
 msgstr "Точность скорость"
 
-msgctxt "Filter"
 msgid "Filter"
 msgstr "Фильтр"
 
-msgctxt "Finance"
 msgid "Finance"
 msgstr "Финансы"
 
-msgctxt "Fixed: pixels"
 msgid "Fixed: pixels"
 msgstr "Исправлено: пиксели"
 
-msgctxt "Flickr API key"
 msgid "Flickr API key"
 msgstr "Ключ API фликра"
 
-msgctxt "Flickr API secret"
 msgid "Flickr API secret"
 msgstr "Секрет Flickr API"
 
-msgctxt "Flickr API settings"
 msgid "Flickr API settings"
 msgstr "Настройки API Flickr"
 
-msgctxt "Font-size"
 msgid "Font-size"
 msgstr "Размер шрифта"
 
-msgctxt "Food & Drink"
 msgid "Food & Drink"
 msgstr "Еда и Напитки"
 
-msgctxt "Form has the following errors"
 msgid "Form has the following errors"
 msgstr "Форма содержит следующие ошибки"
 
-msgctxt "Fred W."
 msgid "Fred W."
 msgstr "Евгений А."
 
-msgctxt "Free until %s"
 msgid "Free until %s"
 msgstr "Бесплатно до %s"
 
-msgctxt "Front"
 msgid "Front"
 msgstr "Передний"
 
-msgctxt "Games"
 msgid "Games"
 msgstr "Игры"
 
-msgctxt "General Information"
 msgid "General Information"
 msgstr "Общая информация"
 
-msgctxt "General Settings"
 msgid "General Settings"
 msgstr "общие настройки"
 
-msgctxt "General information"
 msgid "General information"
 msgstr "Общая информация"
 
-msgctxt "Generate"
 msgid "Generate"
 msgstr "Создать"
 
-msgctxt "Generate APK"
 msgid "Generate APK"
 msgstr "Генерировать АПК"
 
-msgctxt "Generate Android APK"
 msgid "Generate Android APK"
 msgstr "Создать андроид apk"
 
-msgctxt "Generate analytics for given period"
 msgid "Generate analytics for given period"
 msgstr "Создать аналитику за определенный период"
 
-msgctxt "Generate analytics for the current day"
 msgid "Generate analytics for the current day"
 msgstr "Генерировать аналитику за текущий день"
 
-msgctxt "Generate and Publish"
 msgid "Generate and Publish"
 msgstr "Создать и опубликовать"
 
-msgctxt "Generate and publish iOS Application"
 msgid "Generate and publish iOS Application"
 msgstr "Создать и опубликовать приложение для iOS"
 
-msgctxt "Generate builds"
 msgid "Generate builds"
 msgstr "Генерировать сборку"
 
-msgctxt "Generate source"
 msgid "Generate source"
 msgstr "Создать исходники"
 
-msgctxt "Generate the source code"
 msgid "Generate the source code"
 msgstr "Сгенерировать исходники"
 
-msgctxt "Generation cancelled."
 msgid "Generation cancelled."
 msgstr "Генерация отменена."
 
-msgctxt "Generation successfully queued."
 msgid "Generation successfully queued."
 msgstr "Генерация помещена в очередь."
 
-msgctxt "Global visits"
 msgid "Global visits"
 msgstr "Глобальные посещения"
 
-msgctxt "Go to first images on loop"
 msgid "Go to first images on loop"
 msgstr "Перейти к первым изображениям в цикле"
 
-msgctxt "Google Maps JavaScript API Key"
 msgid "Google Maps JavaScript API Key"
 msgstr "Ключ API Google Maps"
 
-msgctxt "Google Play Icon"
 msgid "Google Play Icon"
 msgstr "Google Play иконка"
 
-msgctxt "Google's Information"
 msgid "Google's Information"
 msgstr "Информация от Google"
 
-msgctxt "Header"
 msgid "Header"
 msgstr "Заголовок"
 
-msgctxt "Health & Fitness"
 msgid "Health & Fitness"
 msgstr "Здоровье и Фитнес"
 
-msgctxt "Here is our latest creation. What do you think?"
 msgid "Here is our latest creation. What do you think?"
 msgstr "Вот наше последнее творение. Что вы думаете?"
 
-msgctxt "Hidden"
 msgid "Hidden"
 msgstr "Скрытые"
 
-msgctxt "Hide Android status bar"
 msgid "Hide Android status bar"
 msgstr "Скрыть строку состояния в андроид"
 
-msgctxt "Hide iOS status bar"
 msgid "Hide iOS status bar"
 msgstr "Скрыть строку состояния в iOS"
 
-msgctxt "Homepage preview"
 msgid "Homepage preview"
 msgstr "Домашняя страница предварительного просмотра"
 
-msgctxt "Homepage slider options"
 msgid "Homepage slider options"
 msgstr "Опции слайдера на дом.странице"
 
-msgctxt "I don't have a Google developer account and I want to create one"
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "У меня нет учетной записи разработчика Google, и я хочу её создать."
 
-msgctxt "I don't have an Apple developer account and I want to create one"
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "У меня нет учетной записи разработчика Apple, и я хочу её создать."
 
-msgctxt "I have an Apple developer account"
 msgid "I have an Apple developer account"
 msgstr "У меня есть аккаунт разработчика Apple,"
 
-msgctxt "I have an Google developer account"
 msgid "I have an Google developer account"
 msgstr "У меня есть аккаунт разработчика Google"
 
-msgctxt "I let you publish my application under your Apple developer account"
 msgid "I let you publish my application under your Apple developer account"
 msgstr ""
 "Я позволю вам опубликовать мое заявление под своей учетной записью "
 "разработки Apple"
 
-msgctxt "I let you publish my application under your Google developer account"
 msgid "I let you publish my application under your Google developer account"
 msgstr ""
 "Я позволю вам опубликовать мое заявление под своей учетной записью "
 "разработчика Google"
 
-msgctxt "Icon"
 msgid "Icon"
 msgstr "Иконка"
 
-msgctxt "Icons"
 msgid "Icons"
 msgstr "Иконка"
 
-msgctxt "Icons & Images"
 msgid "Icons & Images"
 msgstr "Иконки И Изображения"
 
-msgctxt "Id"
 msgid "Id"
 msgstr "Id"
 
-msgctxt "If a feature is not listed, it yet can't be exported."
 msgid "If a feature is not listed, it yet can't be exported."
 msgstr "Если функция не указана, то это еще не может быть экспортировано."
 
-msgctxt ""
-"If you decide to change the slider size, all images will be dropped. Are you "
-"sure ?"
 msgid ""
 "If you decide to change the slider size, all images will be dropped. Are you "
 "sure ?"
@@ -1108,17 +832,12 @@ msgstr ""
 "Если вы решили изменить размер слайдера, все изображения будут удалены. Вы "
 "уверены ?"
 
-msgctxt ""
-"If you validate, your app's colors and background image will be replaced"
 msgid ""
 "If you validate, your app's colors and background image will be replaced"
 msgstr ""
 "Если вы проверяете, цвета вашего приложения и фоновое изображение будет "
 "заменено."
 
-msgctxt ""
-"If you want to change the push icon, you <b>must re-publish</b> the "
-"application"
 msgid ""
 "If you want to change the push icon, you <b>must re-publish</b> the "
 "application"
@@ -1126,9 +845,6 @@ msgstr ""
 "Если вы хотите изменить значок пуша,то вы  <B>должны переиздать</b> "
 "приложение"
 
-msgctxt ""
-"If your app is already published, changing the URL key or domain will break "
-"it. You will have to republish it. Change it anyway?"
 msgid ""
 "If your app is already published, changing the URL key or domain will break "
 "it. You will have to republish it. Change it anyway?"
@@ -1136,18 +852,11 @@ msgstr ""
 "Если ваше приложение уже опубликовано, изменение ключа URL-адрес или домен "
 "будет нарушать. Вам придется переиздавать его. В любом случае его менять?"
 
-msgctxt ""
-"If your app is already published, changing the domain will break it. You "
-"will have to republish it. Change it anyway?"
 msgid ""
 "If your app is already published, changing the domain will break it. You "
 "will have to republish it. Change it anyway?"
 msgstr "Если ваше приложение уже опубликовано, изменение домена нарушит его. "
 
-msgctxt ""
-"If your app is already published on the stores, be sure you have sent an "
-"update with the Ionic version, and that this update has already been "
-"accepted, otherwise your app may be broken."
 msgid ""
 "If your app is already published on the stores, be sure you have sent an "
 "update with the Ionic version, and that this update has already been "
@@ -1157,9 +866,6 @@ msgstr ""
 "отправили обновление с ионной версии, и что это обновление уже было принято, "
 "в противном случае ваше приложение может быть нарушено."
 
-msgctxt ""
-"If your messages do not comply with App Store Review Guidelines, %s, your "
-"app might be possibly refused after Apple's review."
 msgid ""
 "If your messages do not comply with App Store Review Guidelines, %s, your "
 "app might be possibly refused after Apple's review."
@@ -1167,41 +873,30 @@ msgstr ""
 "Если Ваши сообщения не соответствуют рекомендации App Store, %с, ваше "
 "приложение может быть отклонено после обзора от Apple."
 
-msgctxt "Image size"
 msgid "Image size"
 msgstr "Размер изображения"
 
-msgctxt "Images"
 msgid "Images"
 msgstr "Изображения"
 
-msgctxt "Images height"
 msgid "Images height"
 msgstr "Высота изображений"
 
-msgctxt "Import / Export"
 msgid "Import / Export"
 msgstr "Импорт / Экспорт"
 
-msgctxt "Import an application template or a single feature."
 msgid "Import an application template or a single feature."
 msgstr "Импорт шаблона приложения или одного модуля."
 
-msgctxt "Import features from Facebook"
 msgid "Import features from Facebook"
 msgstr "Функции импорта из Facebook"
 
-msgctxt "Import zip or yml"
 msgid "Import zip or yml"
 msgstr "Импорт zip или yml"
 
-msgctxt "Imported features"
 msgid "Imported features"
 msgstr "Импортированные функции"
 
-msgctxt ""
-"In case you have a main domain containing numbers you can change here the "
-"base for your App identifiers."
 msgid ""
 "In case you have a main domain containing numbers you can change here the "
 "base for your App identifiers."
@@ -1209,9 +904,6 @@ msgstr ""
 "В случае, если у вас основной домен содержит числа, вы можете изменить базу "
 "для идентификаторов."
 
-msgctxt ""
-"In order to help you start your application, we can retrieve some data from "
-"Facebook."
 msgid ""
 "In order to help you start your application, we can retrieve some data from "
 "Facebook."
@@ -1219,9 +911,6 @@ msgstr ""
 "Для того, чтобы помочь вам запустить приложения, мы можем извлечь некоторые "
 "данные из Facebook."
 
-msgctxt ""
-"In order to insert a promote banner for your application on your site, "
-"please follow those steps:"
 msgid ""
 "In order to insert a promote banner for your application on your site, "
 "please follow those steps:"
@@ -1229,313 +918,234 @@ msgstr ""
 "Для того, чтобы вставить  баннер для вашего приложения на вашем сайте, "
 "пожалуйста, выполните эти шаги:"
 
-msgctxt "In-App Messages"
 msgid "In-App Messages"
 msgstr "Сообщения в приложении"
 
-msgctxt "In-app links"
 msgid "In-app links"
 msgstr "Внутренние ссылки"
 
-msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "Информация успешно сохранена"
 
-msgctxt "Input your SCSS here, save to validate & preview"
 msgid "Input your SCSS here, save to validate & preview"
 msgstr "Введите SCSS здесь, сохраните для проверки и предварительного просмотра"
 
-msgctxt "Insert"
 msgid "Insert"
 msgstr "Вставьте"
 
-msgctxt "Insert & close"
 msgid "Insert & close"
 msgstr "Вставить и закрыть"
 
-msgctxt "Instagram API Keys"
 msgid "Instagram API Keys"
 msgstr "Ключи API Instagram"
 
-msgctxt "Instagram API settings"
 msgid "Instagram API settings"
 msgstr "Параметры API Instagram"
 
-msgctxt "Installed application"
 msgid "Installed application"
 msgstr "Установка приложения"
 
-msgctxt "Installer"
 msgid "Installer"
 msgstr "Установщик"
 
-msgctxt "Integration"
 msgid "Integration"
 msgstr "Интеграция"
 
-msgctxt "Invalid period, end date is before start date."
 msgid "Invalid period, end date is before start date."
 msgstr "Неверный срок, дата окончания раньше даты начала."
 
-msgctxt "Invalid version"
 msgid "Invalid version"
 msgstr "Неверная версия"
 
-msgctxt "Job"
 msgid "Job"
 msgstr "Работа"
 
-msgctxt "Key Password"
 msgid "Key Password"
 msgstr "Ключ Пароль"
 
-msgctxt "Keywords"
 msgid "Keywords"
 msgstr "Ключевые слова"
 
-msgctxt "Label"
 msgid "Label"
 msgstr "Этикетка"
 
-msgctxt "Landscape Left"
 msgid "Landscape Left"
 msgstr "Ландшафт налево"
 
-msgctxt "Landscape Right"
 msgid "Landscape Right"
 msgstr "Ландшафт направо"
 
-msgctxt "Language"
 msgid "Language"
 msgstr "Язык"
 
-msgctxt "Languages"
 msgid "Languages"
 msgstr "Язык"
 
-msgctxt "Last name:"
 msgid "Last name:"
 msgstr "Фамилия:"
 
-msgctxt "Latitude"
 msgid "Latitude"
 msgstr "широта"
 
-msgctxt "Layout options"
 msgid "Layout options"
 msgstr "Параметры макета"
 
-msgctxt "Left"
 msgid "Left"
 msgstr "Левый"
 
-msgctxt "Left position"
 msgid "Left position"
 msgstr "Левое положение"
 
-msgctxt "Library icons"
 msgid "Library icons"
 msgstr "Библиотека иконок"
 
-msgctxt "License key"
 msgid "License key"
 msgstr "Лицензионный ключ"
 
-msgctxt "Lifestyle"
 msgid "Lifestyle"
 msgstr "Стиль жизни"
 
-msgctxt "Line-height"
 msgid "Line-height"
 msgstr "Линии-высота"
 
-msgctxt "List of my applications"
 msgid "List of my applications"
 msgstr "Список моих приложений"
 
-msgctxt "List of your applications"
 msgid "List of your applications"
 msgstr "Список приложений"
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "Загрузка"
 
-msgctxt "Lock the entire application"
 msgid "Lock the entire application"
 msgstr "Блокировка всего приложения"
 
-msgctxt "Longitude"
 msgid "Longitude"
 msgstr "Долгота"
 
-msgctxt "Loop features"
 msgid "Loop features"
 msgstr "Возможности Loop"
 
-msgctxt "Loop over images"
 msgid "Loop over images"
 msgstr "Повторять изображения"
 
-msgctxt "Love it <3"
 msgid "Love it <3"
 msgstr "Любовь это <3"
 
-msgctxt "Lower case"
 msgid "Lower case"
 msgstr "Нижний регистр"
 
-msgctxt "LoyaltyCard"
 msgid "LoyaltyCard"
 msgstr "Бонусная карта"
 
-msgctxt "Main"
 msgid "Main"
 msgstr "Главная"
 
-msgctxt "Manage Access"
 msgid "Manage Access"
 msgstr "Управление доступом"
 
-msgctxt "Manage Admins access feature by feature."
 msgid "Manage Admins access feature by feature."
 msgstr "Управление доступом Администраторов по функциям."
 
-msgctxt "Manage Companies"
 msgid "Manage Companies"
 msgstr "Управление Компаниями"
 
-msgctxt "Manage icons"
 msgid "Manage icons"
 msgstr "Управление иконками"
 
-msgctxt "Manage your app's features"
 msgid "Manage your app's features"
 msgstr "Управление функциями приложения"
 
-msgctxt "Mcommerce"
 msgid "Mcommerce"
 msgstr "Мобильная коммерция"
 
-msgctxt "Media"
 msgid "Media"
 msgstr "Медиа"
 
-msgctxt "Medical"
 msgid "Medical"
 msgstr "Медицина"
 
-msgctxt "Menu-position"
 msgid "Menu-position"
 msgstr "Позиция менб"
 
-msgctxt "Message"
 msgid "Message"
 msgstr "Сообщение"
 
-msgctxt "Message for both the two previous usages."
 msgid "Message for both the two previous usages."
 msgstr "Сообщение для двух предыдущих использований."
 
-msgctxt "Misc"
 msgid "Misc"
 msgstr "Мисс"
 
-msgctxt "Missing Information"
 msgid "Missing Information"
 msgstr "Отсутствует информация"
 
-msgctxt "Missing parameters for cancellation."
 msgid "Missing parameters for cancellation."
 msgstr "Отсутствуют параметры для отмены."
 
-msgctxt "Mobile Source Codes"
 msgid "Mobile Source Codes"
 msgstr "Мобильный исходный код"
 
-msgctxt "Mobile source codes"
 msgid "Mobile source codes"
 msgstr "Мобильные исходные коды"
 
-msgctxt "Mobile website information"
 msgid "Mobile website information"
 msgstr "Мобильный информационный сайт"
 
-msgctxt "Monetization"
 msgid "Monetization"
 msgstr "Монетизация"
 
-msgctxt "Monetize my app using AdMob?"
 msgid "Monetize my app using AdMob?"
 msgstr "Монетизировать свое приложение, используя admob?"
 
-msgctxt "Monetize your app"
 msgid "Monetize your app"
 msgstr "Монетизировать приложение"
 
-msgctxt "My Invoices"
 msgid "My Invoices"
 msgstr "Мои счета"
 
-msgctxt "My QRCode"
 msgid "My QRCode"
 msgstr "Мой QR код"
 
-msgctxt "My application in figures"
 msgid "My application in figures"
 msgstr "Мое приложение в цифрах"
 
-msgctxt "Name"
 msgid "Name"
 msgstr "Имя"
 
-msgctxt "Navigation"
 msgid "Navigation"
 msgstr "Навигация"
 
-msgctxt "News"
 msgid "News"
 msgstr "Новости"
 
-msgctxt "Next"
 msgid "Next"
 msgstr "Далее"
 
-msgctxt "No"
 msgid "No"
 msgstr "Нет"
 
-msgctxt "No Facebook page? You can"
 msgid "No Facebook page? You can"
 msgstr "Нет страницы в Facebook? "
 
-msgctxt "No account for now."
 msgid "No account for now."
 msgstr "Сейчас нет аккаунта."
 
-msgctxt "No data found"
 msgid "No data found"
 msgstr "Трек не найден"
 
-msgctxt "No features available for this application."
 msgid "No features available for this application."
 msgstr "Нет функции, доступных для этого приложения."
 
-msgctxt "No message sent, there is no available applications."
 msgid "No message sent, there is no available applications."
 msgstr "Ни одно сообщение не ушло, нет доступных приложений."
 
-msgctxt "No options available."
 msgid "No options available."
 msgstr "Нет доступных вариантов."
 
-msgctxt "Not available offline."
 msgid "Not available offline."
 msgstr "Не доступна в автономном режиме."
 
-msgctxt ""
-"Note that if you want to add ads later, you will have to publish the app "
-"again."
 msgid ""
 "Note that if you want to add ads later, you will have to publish the app "
 "again."
@@ -1543,107 +1153,78 @@ msgstr ""
 "Обратите внимание, что если вы хотите добавить объявление позже, вам "
 "придется опубликовать приложение."
 
-msgctxt "Nothing to show for now."
 msgid "Nothing to show for now."
 msgstr "Пока ничего не видно."
 
-msgctxt "Notification center"
 msgid "Notification center"
 msgstr "Центр уведомлений"
 
-msgctxt "Off"
 msgid "Off"
 msgstr "Выключить"
 
-msgctxt "Offset"
 msgid "Offset"
 msgstr "Смещение"
 
-msgctxt "On!"
 msgid "On!"
 msgstr "Вкл"
 
-msgctxt "One free coffee"
 msgid "One free coffee"
 msgstr "Один бесплатный кофе"
 
-msgctxt "Option successfully saved"
 msgid "Option successfully saved"
 msgstr "Заказы успешно сохранены"
 
-msgctxt "Options"
 msgid "Options"
 msgstr "Опция"
 
-msgctxt "Options saved"
 msgid "Options saved"
 msgstr "Настройки сохранены"
 
-msgctxt "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgid "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgstr ""
 "Или пойти на вашем магазине <br /> и искать \"приложений компания Previewer\""
 
-msgctxt "Order places"
 msgid "Order places"
 msgstr "Места заказа"
 
-msgctxt "Order places by distance:"
 msgid "Order places by distance:"
 msgstr "Сортировать места по расстоянию:"
 
-msgctxt "Order results alphebetically:"
 msgid "Order results alphebetically:"
 msgstr "Сортировка по алфавиту:"
 
-msgctxt "Orientations saved!"
 msgid "Orientations saved!"
 msgstr "Ориентации сохранены!"
 
-msgctxt "Other"
 msgid "Other"
 msgstr "Другие"
 
-msgctxt "Package Name"
 msgid "Package Name"
 msgstr "Имя Пакета"
 
-msgctxt "Page name:"
 msgid "Page name:"
 msgstr "Название страницы:"
 
-msgctxt "Partially available offline."
 msgid "Partially available offline."
 msgstr "Частично доступны в автономном режиме."
 
-msgctxt "Percentage of returning customers"
 msgid "Percentage of returning customers"
 msgstr "Процент постоянных клиентов"
 
-msgctxt "Period to long, please select less than one month."
 msgid "Period to long, please select less than one month."
 msgstr "Срок слишком большой, Пожалуйста, выберите менее одного месяца."
 
-msgctxt ""
-"Permissions Modal Alerts messages describe why your apps requires some "
-"permissions,"
 msgid ""
 "Permissions Modal Alerts messages describe why your apps requires some "
 "permissions,"
 msgstr "Опишите, почему ваши приложения требует некоторых разрешений,"
 
-msgctxt "Photo & Video"
 msgid "Photo & Video"
 msgstr "Фото и видео"
 
-msgctxt "Places"
 msgid "Places"
 msgstr "Места"
 
-msgctxt ""
-"Please check your messages before sending your app to be published, "
-"specifically if you are using iOS Auto publish service: if your app is "
-"refused after review, one build will be consumed."
 msgid ""
 "Please check your messages before sending your app to be published, "
 "specifically if you are using iOS Auto publish service: if your app is "
@@ -1653,38 +1234,28 @@ msgstr ""
 "опубликовано, особенно, если вы используете iOS Автоматическая публикация "
 "сервиса: если ваше приложение отказано после обзора, один будет потребляться."
 
-msgctxt "Please enter a correct URL for the %s store"
 msgid "Please enter a correct URL for the %s store"
 msgstr "Пожалуйста, введите правильный адрес для  %s магазина"
 
-msgctxt "Please enter a number for the duration."
 msgid "Please enter a number for the duration."
 msgstr "Пожалуйста, введите цифру для продолжительности."
 
-msgctxt "Please enter a subdomain."
 msgid "Please enter a subdomain."
 msgstr "Пожалуйста, введите субдомен."
 
-msgctxt "Please enter a valid URL"
 msgid "Please enter a valid URL"
 msgstr "Пожалуйста, введите URL"
 
-msgctxt "Please enter a valid address"
 msgid "Please enter a valid address"
 msgstr "Пожалуйста, введите действительный адрес"
 
-msgctxt "Please enter a valid mobile website address."
 msgid "Please enter a valid mobile website address."
 msgstr ""
 "Пожалуйста, введите действующий номер мобильного телефона адрес веб-сайта."
 
-msgctxt "Please fill iTunes Connect Identifier."
 msgid "Please fill iTunes Connect Identifier."
 msgstr "Заполните, пожалуйста, идентификатор itunesconnect."
 
-msgctxt ""
-"Please note that AAC+ streams aren't managed yet on Firefox browser, but it "
-"will work well in the app."
 msgid ""
 "Please note that AAC+ streams aren't managed yet on Firefox browser, but it "
 "will work well in the app."
@@ -1692,178 +1263,133 @@ msgstr ""
 "Обратите внимание, что потоки AAC + еще не управляются в браузере Firefox, "
 "но он будет хорошо работать в приложении."
 
-msgctxt "Please select at least one language."
 msgid "Please select at least one language."
 msgstr "Пожалуйста, выберите по крайней мере один язык."
 
-msgctxt "Please wait while we generate application source."
 msgid "Please wait while we generate application source."
 msgstr "Пожалуйста, подождите, мы генерируем источник приложения."
 
-msgctxt "Port"
 msgid "Port"
 msgstr "Порт"
 
-msgctxt "Portrait"
 msgid "Portrait"
 msgstr "Портрет"
 
-msgctxt "Preset"
 msgid "Preset"
 msgstr "Пресет"
 
-msgctxt "Preview"
 msgid "Preview"
 msgstr "Предварительный просмотр"
 
-msgctxt "Preview and test your native apps directly on your mobile."
 msgid "Preview and test your native apps directly on your mobile."
 msgstr ""
 "Предпросмотр и тестирование собственных приложений прямо на ваш мобильный."
 
-msgctxt "Preview on your phone"
 msgid "Preview on your phone"
 msgstr "Предпросмотр на вашем телефоне"
 
-msgctxt "Privacy policy URL"
 msgid "Privacy policy URL"
 msgstr "Политика Конфиденциальности"
 
-msgctxt "Proceed to checkout before downloading the source code."
 msgid "Proceed to checkout before downloading the source code."
 msgstr "Перед загрузкой исходного кода перейдите к оформлению заказа."
 
-msgctxt "Productivity"
 msgid "Productivity"
 msgstr "Производительность"
 
-msgctxt "Promote"
 msgid "Promote"
 msgstr "ТЕСТ"
 
-msgctxt "Promote your app!"
 msgid "Promote your app!"
 msgstr "Продвигайте ваше приложение!"
 
-msgctxt "Promotion"
 msgid "Promotion"
 msgstr "Продвижение"
 
-msgctxt "Publication"
 msgid "Publication"
 msgstr "Публикация"
 
-msgctxt "Publish automatically to iTunes Connect"
 msgid "Publish automatically to iTunes Connect"
 msgstr "Автоматически публиковать в iTunesConnect"
 
-msgctxt "Publish the application"
 msgid "Publish the application"
 msgstr "Опубликовать приложение"
 
-msgctxt "Publish under our account"
 msgid "Publish under our account"
 msgstr "Опубликовать в соответствии с вашим аккаунтом"
 
-msgctxt "QR Coupons"
 msgid "QR Coupons"
 msgstr "QR купоны"
 
-msgctxt "Ready ? Publish my app!"
 msgid "Ready ? Publish my app!"
 msgstr "Опубликовать приложение!"
 
-msgctxt "Recommended size:"
 msgid "Recommended size:"
 msgstr "Рекомендованные размеры:"
 
-msgctxt "Reference"
 msgid "Reference"
 msgstr "Справка"
 
-msgctxt "Remaining build"
 msgid "Remaining build"
 msgstr "Оставшаяся сборка"
 
-msgctxt "Remaining builds"
 msgid "Remaining builds"
 msgstr "Оставшиеся сборки"
 
-msgctxt "Remove this page from this folder?"
 msgid "Remove this page from this folder?"
 msgstr "Удалить эту страницу из этой папки?"
 
-msgctxt "Reset"
 msgid "Reset"
 msgstr "Сброс"
 
-msgctxt "Return to current feature"
 msgid "Return to current feature"
 msgstr "Вернуться к текущей функции"
 
-msgctxt "Right"
 msgid "Right"
 msgstr "Право"
 
-msgctxt "Right position"
 msgid "Right position"
 msgstr "Правильное положение"
 
-msgctxt "Rss"
 msgid "Rss"
 msgstr "RSS-канал"
 
-msgctxt "SMTP Configuration"
 msgid "SMTP Configuration"
 msgstr "Настройки SMTP"
 
-msgctxt "SSL"
 msgid "SSL"
 msgstr "SSL"
 
-msgctxt "Save"
 msgid "Save"
 msgstr "Сохранить"
 
-msgctxt "Save publication settings"
 msgid "Save publication settings"
 msgstr "Сохранить настройки публикации"
 
-msgctxt "Scan this QR Code"
 msgid "Scan this QR Code"
 msgstr "Сканировать этот QR код"
 
-msgctxt "Search by keywords ..."
 msgid "Search by keywords ..."
 msgstr "Поиск по ключевым словам ..."
 
-msgctxt "Search filters & Options"
 msgid "Search filters & Options"
 msgstr "Фильтры и параметры  поиска"
 
-msgctxt "Search radius"
 msgid "Search radius"
 msgstr "Радиус поиска"
 
-msgctxt "Search settings"
 msgid "Search settings"
 msgstr "Настройки - Рядом со мной "
 
-msgctxt "Secondary category"
 msgid "Secondary category"
 msgstr "Вторичная категория"
 
-msgctxt "Secondary category<br />(Optional)"
 msgid "Secondary category<br />(Optional)"
 msgstr "Вторичная категория <br /> (Необязательно)"
 
-msgctxt "Secret Key"
 msgid "Secret Key"
 msgstr "Секретный Ключ"
 
-msgctxt ""
-"Send here your iOS certificate to enable the push notifications for this "
-"application."
 msgid ""
 "Send here your iOS certificate to enable the push notifications for this "
 "application."
@@ -1871,73 +1397,54 @@ msgstr ""
 "Отправить здесь свой сертификат IOS, чтобы дать возможность отправить "
 "уведомления  для этого приложения."
 
-msgctxt "Send request"
 msgid "Send request"
 msgstr "Отправить запрос"
 
-msgctxt "Send you .pem certificate"
 msgid "Send you .pem certificate"
 msgstr "Отправить Ваш .pem сертификат"
 
-msgctxt "Sender name/e-mail"
 msgid "Sender name/e-mail"
 msgstr "Имя отправителя / адрес электронной почты"
 
-msgctxt "Sender name/e-mail & Custom SMTP"
 msgid "Sender name/e-mail & Custom SMTP"
 msgstr "Имя отправителя/Электронная почта и собственный SMTP"
 
-msgctxt "Server"
 msgid "Server"
 msgstr "Сервер"
 
-msgctxt "Show"
 msgid "Show"
 msgstr "Показать"
 
-msgctxt "Show the applications waiting for publication only."
 msgid "Show the applications waiting for publication only."
 msgstr "Показать приложения ожидающих публикации."
 
-msgctxt "Sidebar width"
 msgid "Sidebar width"
 msgstr "Ширина боковой панели"
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr "Слайдер"
 
-msgctxt "Slider height"
 msgid "Slider height"
 msgstr "Высота слайдера"
 
-msgctxt "Slider images duration, in seconds:"
 msgid "Slider images duration, in seconds:"
 msgstr "Слайдер изображений Продолжительность, в секундах:"
 
-msgctxt "Slideshow duration"
 msgid "Slideshow duration"
 msgstr "Продолжительность слайд-шоу"
 
-msgctxt "Social"
 msgid "Social"
 msgstr "Социальные"
 
-msgctxt "Social Networking"
 msgid "Social Networking"
 msgstr "Социальные сети"
 
-msgctxt "Social Sharing"
 msgid "Social Sharing"
 msgstr "Соцсети"
 
-msgctxt "Socialgaming"
 msgid "Socialgaming"
 msgstr "Социальная игра"
 
-msgctxt ""
-"Sorry, an error occurred while fetching data from Facebook. Please contact "
-"an admin."
 msgid ""
 "Sorry, an error occurred while fetching data from Facebook. Please contact "
 "an admin."
@@ -1945,9 +1452,6 @@ msgstr ""
 "К сожалению, произошла ошибка при получении данных с Facebook. Пожалуйста, "
 "свяжитесь с администратором."
 
-msgctxt ""
-"Sorry, it seems that Facebook credentials are invalid. Please contact an "
-"administrator."
 msgid ""
 "Sorry, it seems that Facebook credentials are invalid. Please contact an "
 "administrator."
@@ -1955,37 +1459,27 @@ msgstr ""
 "К сожалению, похоже, что учетные данные Facebook являются недействительными. "
 "Пожалуйста, свяжитесь с администратором."
 
-msgctxt ""
-"Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgid ""
 "Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgstr "К сожалению, для этой страницы не найдено ни одной информации. "
 
-msgctxt "Sorry, we need a page id."
 msgid "Sorry, we need a page id."
 msgstr "К сожалению, нам нужен идентификатор страницы."
 
-msgctxt "Source type"
 msgid "Source type"
 msgstr "Исходный код"
 
-msgctxt "Sourcecode"
 msgid "Sourcecode"
 msgstr "Исходный код"
 
-msgctxt "Specifies the reason for your app to access the device's accelerometer."
 msgid "Specifies the reason for your app to access the device's accelerometer."
 msgstr ""
 "Указывает причину получения доступа к акселерометру устройства для приложения"
 
-msgctxt "Specifies the reason for your app to access the device's camera."
 msgid "Specifies the reason for your app to access the device's camera."
 msgstr ""
 "Указывает причину получения доступа к камере устройства для приложения ."
 
-msgctxt ""
-"Specifies the reason for your app to access the user's location information "
-"at all times."
 msgid ""
 "Specifies the reason for your app to access the user's location information "
 "at all times."
@@ -1993,15 +1487,11 @@ msgstr ""
 "Указывает причину получения доступа к информации о местоположении "
 "пользователя в любое время."
 
-msgctxt "Specifies the reason for your app to access the user's photo library."
 msgid "Specifies the reason for your app to access the user's photo library."
 msgstr ""
 "Указывает причину для получения доступа к библиотеке фотографий пользователя "
 "для вашего приложения"
 
-msgctxt ""
-"Specifies the reason for your app to access the user’s location information "
-"while your app is in use."
 msgid ""
 "Specifies the reason for your app to access the user’s location information "
 "while your app is in use."
@@ -2009,212 +1499,157 @@ msgstr ""
 "Указывает причину получения доступа к информации о местоположении "
 "пользователя, когда приложение находится в использовании."
 
-msgctxt "Sports"
 msgid "Sports"
 msgstr "Спорт"
 
-msgctxt "Square icons"
 msgid "Square icons"
 msgstr "Квадратные иконки"
 
-msgctxt "Startup image"
 msgid "Startup image"
 msgstr "Заставка"
 
-msgctxt "Status"
 msgid "Status"
 msgstr "Статус"
 
-msgctxt "Status bar"
 msgid "Status bar"
 msgstr "Строка состояния"
 
-msgctxt "Store App ID"
 msgid "Store App ID"
 msgstr "ID приложения в магазине"
 
-msgctxt "Store Password"
 msgid "Store Password"
 msgstr "Пароль магазина"
 
-msgctxt "Store URL"
 msgid "Store URL"
 msgstr "URL магазина"
 
-msgctxt "Stores Info"
 msgid "Stores Info"
 msgstr "Информация о магазине"
 
-msgctxt "Stores URL"
 msgid "Stores URL"
 msgstr "URL магазина"
 
-msgctxt "Stretch"
 msgid "Stretch"
 msgstr "Стрейч"
 
-msgctxt "Subheader"
 msgid "Subheader"
 msgstr "Подзаголовок"
 
-msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr "Подзаголовок"
 
-msgctxt "Success."
 msgid "Success."
 msgstr "Успех."
 
-msgctxt "System"
 msgid "System"
 msgstr "Система"
 
-msgctxt "Tabbar"
 msgid "Tabbar"
 msgstr "Вкладка"
 
-msgctxt "Tags"
 msgid "Tags"
 msgstr "Теги"
 
-msgctxt "Tags separated by commas"
 msgid "Tags separated by commas"
 msgstr "Теги через запятую"
 
-msgctxt "Template"
 msgid "Template"
 msgstr "Шаблон"
 
-msgctxt "Template description"
 msgid "Template description"
 msgstr "Описание"
 
-msgctxt "Template name"
 msgid "Template name"
 msgstr "Название шаблона"
 
-msgctxt "Template preview"
 msgid "Template preview"
 msgstr "Предпросмотр шаблона"
 
-msgctxt "Template version"
 msgid "Template version"
 msgstr "Версия шаблона"
 
-msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr "Условия"
 
-msgctxt "The Bundle Id is required"
 msgid "The Bundle Id is required"
 msgstr "Необходимо пакетов id"
 
-msgctxt "The QR Code is not available at this moment"
 msgid "The QR Code is not available at this moment"
 msgstr "QR коды не доступны в данный момент"
 
-msgctxt "The White-label you are trying to edit doesn't exists."
 msgid "The White-label you are trying to edit doesn't exists."
 msgstr "White-label, который вы пытаетесь изменить, не существует."
 
-msgctxt "The application has been successfully saved"
 msgid "The application has been successfully saved"
 msgstr "Заявка была успешно сохранена"
 
-msgctxt "The application name"
 msgid "The application name"
 msgstr "Имя приложения"
 
-msgctxt "The application's name cannot start with a number"
 msgid "The application's name cannot start with a number"
 msgstr "Название приложения не могут начинаться с цифры"
 
-msgctxt "The bundle id"
 msgid "The bundle id"
 msgstr "Идентификатор бандла"
 
-msgctxt "The description"
 msgid "The description"
 msgstr "Описание"
 
-msgctxt "The description must be at least 200 characters"
 msgid "The description must be at least 200 characters"
 msgstr "Описание должно быть по крайней мере 200 символов"
 
-msgctxt "The desktop icon"
 msgid "The desktop icon"
 msgstr "Значок на рабочем столе"
 
-msgctxt ""
-"The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgid ""
 "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "Ваш комплект ID неправильный, он должен быть как: com.siberiancms.app"
 
-msgctxt "The field is required"
 msgid "The field is required"
 msgstr "Поле обязательно для заполнения"
 
-msgctxt "The file has been successfully uploaded"
 msgid "The file has been successfully uploaded"
 msgstr "Файл успешно загружен"
 
-msgctxt ""
-"The following information are needed to download the source codes:<br />"
 msgid ""
 "The following information are needed to download the source codes:<br />"
 msgstr "Следующая информация необходима для загрузки исходных кодов: <br />"
 
-msgctxt "The homepage image"
 msgid "The homepage image"
 msgstr "Изображение для домашней страницы"
 
-msgctxt "The key cannot be empty."
 msgid "The key cannot be empty."
 msgstr "Пароль не может быть пустым."
 
-msgctxt "The key is already used by another application."
 msgid "The key is already used by another application."
 msgstr "Пароль уже используется другим приложением."
 
-msgctxt "The keywords"
 msgid "The keywords"
 msgstr "Ключевые слова"
 
-msgctxt "The main category"
 msgid "The main category"
 msgstr "Основная категория"
 
-msgctxt "The startup image"
 msgid "The startup image"
 msgstr "Запуск изображение"
 
-msgctxt "This application does not exist"
 msgid "This application does not exist"
 msgstr "Это приложение не существует"
 
-msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr "Это приложение больше не доступно"
 
-msgctxt "This application is visible on the front"
 msgid "This application is visible on the front"
 msgstr "Это приложение отображается вначале"
 
-msgctxt "This key is already used by system features."
 msgid "This key is already used by system features."
 msgstr "Этот ключ уже используется системными функциями."
 
-msgctxt "This option enables you to set the currency used in your app"
 msgid "This option enables you to set the currency used in your app"
 msgstr ""
 "Эта опция позволяет вам установить, какая валюта используется в вашем "
 "приложении"
 
-msgctxt ""
-"This page will be displayed to mobile users to enable them to login and "
-"manage their account. It is automatically added when you use features which "
-"need user login."
 msgid ""
 "This page will be displayed to mobile users to enable them to login and "
 "manage their account. It is automatically added when you use features which "
@@ -2225,37 +1660,27 @@ msgstr ""
 "автоматически, когда вы используете функции, которые нужно активировать для "
 "входа пользователя."
 
-msgctxt "This user can add pages to this application."
 msgid "This user can add pages to this application."
 msgstr "Этот пользователь может добавлять страницы в это приложение."
 
-msgctxt "Tip"
 msgid "Tip"
 msgstr "Совет"
 
-msgctxt "Tips calculator"
 msgid "Tips calculator"
 msgstr "Чаевые"
 
-msgctxt "Title"
 msgid "Title"
 msgstr "название"
 
-msgctxt "Title case"
 msgid "Title case"
 msgstr "Заглавные буквы"
 
-msgctxt "Title position"
 msgid "Title position"
 msgstr "Позиция заголовка"
 
-msgctxt "Titles"
 msgid "Titles"
 msgstr "названия"
 
-msgctxt ""
-"To be able to download source codes, please provide the following "
-"information:<br />"
 msgid ""
 "To be able to download source codes, please provide the following "
 "information:<br />"
@@ -2263,137 +1688,102 @@ msgstr ""
 "Для того, чтобы загрузить исходные коды, пожалуйста, предоставьте следующую "
 "информацию: <br />"
 
-msgctxt "Top"
 msgid "Top"
 msgstr "Топ"
 
-msgctxt "Topic"
 msgid "Topic"
 msgstr "тема"
 
-msgctxt "Translation"
 msgid "Translation"
 msgstr "Переводы"
 
-msgctxt "Transparent"
 msgid "Transparent"
 msgstr "Прозрачный"
 
-msgctxt "Travel"
 msgid "Travel"
 msgstr "Путешествие"
 
-msgctxt "Twitter API Keys"
 msgid "Twitter API Keys"
 msgstr "Ключи API Twitter"
 
-msgctxt "Twitter API secret"
 msgid "Twitter API secret"
 msgstr "Секрет Твиттера"
 
-msgctxt "Twitter API settings"
 msgid "Twitter API settings"
 msgstr "Параметры API Твиттера"
 
-msgctxt "Twitter API token"
 msgid "Twitter API token"
 msgstr "Токен Twitter API"
 
-msgctxt "Twitter consumer key"
 msgid "Twitter consumer key"
 msgstr "Ключ клиента Twitter"
 
-msgctxt "Twitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr "Секрет потребителя Twitter"
 
-msgctxt "Type"
 msgid "Type"
 msgstr "Тип"
 
-msgctxt "UP"
 msgid "UP"
 msgstr "Вверх"
 
-msgctxt "URL"
 msgid "URL"
 msgstr "URL"
 
-msgctxt "URL Key"
 msgid "URL Key"
 msgstr "URL ключ"
 
-msgctxt "Upload icon"
 msgid "Upload icon"
 msgstr "Значок загрузки"
 
-msgctxt "Upload image"
 msgid "Upload image"
 msgstr "Загрузить изображение"
 
-msgctxt "Upper case"
 msgid "Upper case"
 msgstr "Верхний регистр"
 
-msgctxt "Upside Down"
 msgid "Upside Down"
 msgstr "Вверх Ногами"
 
-msgctxt "Use Owner AdMob"
 msgid "Use Owner AdMob"
 msgstr "Использовать Admob владельца"
 
-msgctxt "Use ads for platform owner"
 msgid "Use ads for platform owner"
 msgstr "Использование рекламы для владельца платформы"
 
-msgctxt "Use background into all of your application's pages"
 msgid "Use background into all of your application's pages"
 msgstr "Используйте для всех страниц вашего приложения"
 
-msgctxt "Use into all of your application's pages"
 msgid "Use into all of your application's pages"
 msgstr "Используйте для всех страниц вашего приложения"
 
-msgctxt "Used points"
 msgid "Used points"
 msgstr "Использовано пунктов"
 
-msgctxt "User:"
 msgid "User:"
 msgstr "Пользователи"
 
-msgctxt "User Information"
 msgid "User Information"
 msgstr "Информация о пользователе"
 
-msgctxt "Utilities"
 msgid "Utilities"
 msgstr "Комм. услуги"
 
-msgctxt "Version"
 msgid "Version"
 msgstr "Версия "
 
-msgctxt "Video"
 msgid "Video"
 msgstr "Vimeo"
 
-msgctxt "Visible"
 msgid "Visible"
 msgstr "Видно"
 
-msgctxt "Visible from all pages"
 msgid "Visible from all pages"
 msgstr "Виден со всех страниц"
 
-msgctxt "Visible from all the application's pages (removes the homepage)"
 msgid "Visible from all the application's pages (removes the homepage)"
 msgstr "Виден со всех страниц приложения (удаляет главную страницу)"
 
-msgctxt ""
-"We are sorry but this application has been deactivated and may not be re-"
-"activated."
 msgid ""
 "We are sorry but this application has been deactivated and may not be re-"
 "activated."
@@ -2401,49 +1791,36 @@ msgstr ""
 "Нам очень жаль, но это приложение было отключено и не может быть повторно "
 "активирован."
 
-msgctxt "Weather"
 msgid "Weather"
 msgstr "Погода"
 
-msgctxt "Weblink"
 msgid "Weblink"
 msgstr "Ссылка"
 
-msgctxt "White Label Editor Settings"
 msgid "White Label Editor Settings"
 msgstr "Настройки Редактора White Label"
 
-msgctxt "Width"
 msgid "Width"
 msgstr "Ширина"
 
-msgctxt "With ads functionality"
 msgid "With ads functionality"
 msgstr "С функциональностью рекламы"
 
-msgctxt "With background audio playing"
 msgid "With background audio playing"
 msgstr "С воспроизведением фонового звука"
 
-msgctxt "With background geolocation"
 msgid "With background geolocation"
 msgstr "С фоновой геолокацией"
 
-msgctxt "With options"
 msgid "With options"
 msgstr "С вариантами"
 
-msgctxt "Yes"
 msgid "Yes"
 msgstr "ДА"
 
-msgctxt "You already have sent a certificate."
 msgid "You already have sent a certificate."
 msgstr "Вы уже отправили сертификат."
 
-msgctxt ""
-"You already sent a request, please wait 3 days from your previous request to "
-"retry."
 msgid ""
 "You already sent a request, please wait 3 days from your previous request to "
 "retry."
@@ -2451,9 +1828,6 @@ msgstr ""
 "Вы уже отправили запрос, пожалуйста, подождите 3 дня с вашего предыдущего "
 "запроса, чтобы повторить попытку."
 
-msgctxt ""
-"You can add or change license in (<strong>Settings / General</strong>).<br/"
-"><em>note: builds are only consumed if they're successful.</em>"
 msgid ""
 "You can add or change license in (<strong>Settings / General</strong>).<br/"
 "><em>note: builds are only consumed if they're successful.</em>"
@@ -2462,14 +1836,10 @@ msgstr ""
 "Общие</сильный>).<бр/><ем>Примечание: строит потребляются только если они "
 "успешные.</ЭМ>"
 
-msgctxt "You can use <b>%s</b> as variable for your application name."
 msgid "You can use <b>%s</b> as variable for your application name."
 msgstr ""
 "Вы можете использовать <B>%s</B> в качестве переменной для имени приложения."
 
-msgctxt ""
-"You cannot have multiple sessions to manage apps, so the session for this "
-"app is closed. This page is about to be reloaded."
 msgid ""
 "You cannot have multiple sessions to manage apps, so the session for this "
 "app is closed. This page is about to be reloaded."
@@ -2477,70 +1847,50 @@ msgstr ""
 "Вы не можете иметь несколько сессий, чтобы управлять приложениями, поэтому "
 "сессии для этого приложение закрывается. Эта страница будет перезагружена."
 
-msgctxt "You can't go back to Angular design."
 msgid "You can't go back to Angular design."
 msgstr "Вы не можете вернуться к  дизайну Angular."
 
-msgctxt "You can't use this domain."
 msgid "You can't use this domain."
 msgstr "Вы не можете использовать этот домен."
 
-msgctxt "You don't have any applications yet"
 msgid "You don't have any applications yet"
 msgstr "Вы ещё не имеют никаких приложений"
 
-msgctxt "You have already sent a certificate"
 msgid "You have already sent a certificate"
 msgstr "Вы уже отправили сертификат"
 
-msgctxt "You have sent a certificate."
 msgid "You have sent a certificate."
 msgstr "Вы отправили сертификат."
 
-msgctxt ""
-"You have to purchase the application before downloading the mobile source "
-"code."
 msgid ""
 "You have to purchase the application before downloading the mobile source "
 "code."
 msgstr "Вам придется приобрести приложение перед загрузкой мобильного кода."
 
-msgctxt "You haven't chosen any template yet"
 msgid "You haven't chosen any template yet"
 msgstr "Вы ещё не выбрали ни одного шаблона "
 
-msgctxt "You may not delete a library icon"
 msgid "You may not delete a library icon"
 msgstr "Вы не можете удалить значок библиотеки"
 
-msgctxt "You must choose an ads type"
 msgid "You must choose an ads type"
 msgstr "Вы должны выбрать Тип объявления"
 
-msgctxt "You must have published your application to access this feature"
 msgid "You must have published your application to access this feature"
 msgstr "Вы должны опубликовать ваше приложение для доступа к этой функции"
 
-msgctxt "You must select at least one orientation for iPad!"
 msgid "You must select at least one orientation for iPad!"
 msgstr "Вы должны выбрать по крайней мере одну ориентацию для iPad!"
 
-msgctxt "You must select at least one orientation for iPhone!"
 msgid "You must select at least one orientation for iPhone!"
 msgstr "Вы должны выбрать по крайней мере одну ориентацию для iPhone!"
 
-msgctxt "Your CNAME is not properly set"
 msgid "Your CNAME is not properly set"
 msgstr "Ваше CNAME правильно установлен"
 
-msgctxt "Your CNAME is properly set"
 msgid "Your CNAME is properly set"
 msgstr "Ваше CNAME правильно установлен"
 
-msgctxt ""
-"Your administrator is using a custom smtp provider, if you don't want to use "
-"your own SMTP provider, you are invited to send a whitelist request via the "
-"button below"
 msgid ""
 "Your administrator is using a custom smtp provider, if you don't want to use "
 "your own SMTP provider, you are invited to send a whitelist request via the "
@@ -2550,83 +1900,62 @@ msgstr ""
 "использовать свой собственный SMTP провайдер, вы можете направить запрос на "
 "белый с помощью кнопки ниже"
 
-msgctxt "Your analytics has been computed."
 msgid "Your analytics has been computed."
 msgstr "Ваша аналитика была вычислена."
 
-msgctxt "Your app will be published"
 msgid "Your app will be published"
 msgstr "Ваше приложение будет опубликовано"
 
-msgctxt "Your application in few numbers"
 msgid "Your application in few numbers"
 msgstr "Ваше приложение в нескольких номерах"
 
-msgctxt "Your application is now switched to Ionic"
 msgid "Your application is now switched to Ionic"
 msgstr "Ваше приложение сейчас переключено на ionic"
 
-msgctxt "Your application is ready to be published."
 msgid "Your application is ready to be published."
 msgstr "Ваше приложение готово к публикации."
 
-msgctxt "Your best customers"
 msgid "Your best customers"
 msgstr "Ваши лучшие клиенты"
 
-msgctxt "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgid "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgstr ""
 "Ваш ID пакета является недействительным, Формат должен выглядит как "
 "com.мойдомен.iosid"
 
-msgctxt "Your customers in figures"
 msgid "Your customers in figures"
 msgstr "Ваши клиенты в цифрах"
 
-msgctxt "Your customization has been applied to %s."
 msgid "Your customization has been applied to %s."
 msgstr "Настройки применяются к %s."
 
-msgctxt "Your customization has been applied to your white label panel."
 msgid "Your customization has been applied to your white label panel."
 msgstr "Настройки были изменены в панели White Label."
 
-msgctxt "Your design"
 msgid "Your design"
 msgstr "Ваш дизайн"
 
-msgctxt "Your iOS autobuild License Key"
 msgid "Your iOS autobuild License Key"
 msgstr "Ваш лицензионный ключ автосборки iOS"
 
-msgctxt "Your mobile address should not contain special characters"
 msgid "Your mobile address should not contain special characters"
 msgstr "Ваш мобильный адрес не должны содержать специальные символы"
 
-msgctxt ""
-"Your package name is invalid, format should looks like com.mydomain.androidid"
 msgid ""
 "Your package name is invalid, format should looks like com.mydomain.androidid"
 msgstr ""
 "Ваше имя пакета является недействительным, Формат должен выглядит как "
 "com.мойдомен.androidid"
 
-msgctxt "Your pages"
 msgid "Your pages"
 msgstr "Ваши страницы"
 
-msgctxt "address"
 msgid "address"
 msgstr "Адрес"
 
-msgctxt "alphabetically"
 msgid "alphabetically"
 msgstr "по алфавиту"
 
-msgctxt ""
-"<b>Around you</b> option for the Overview & HTML5 will be displayed & work "
-"only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgid ""
 "<b>Around you</b> option for the Overview & HTML5 will be displayed & work "
 "only when using HTTPS, however it works in Android & iOS apps without HTTPS."
@@ -2635,13 +1964,9 @@ msgstr ""
 "при использовании https, однако он работает на Android и iOS приложений без "
 "https."
 
-msgctxt "<b>File type:</b> %s"
 msgid "<b>File type:</b> %s"
 msgstr "<b>Тип файла:</b> %s"
 
-msgctxt ""
-"<b>Note: </b>Icon must be white with transparency, the crop window will "
-"colorize it otherwise"
 msgid ""
 "<b>Note: </b>Icon must be white with transparency, the crop window will "
 "colorize it otherwise"
@@ -2649,9 +1974,6 @@ msgstr ""
 "<b> Примечание: </ b> Значок должен быть белым с прозрачностью, окно обрезки "
 "будет окрашивать его иначе"
 
-msgctxt ""
-"<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the "
-"cron interval can increase your server load, be careful."
 msgid ""
 "<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the "
 "cron interval can increase your server load, be careful."
@@ -2660,9 +1982,6 @@ msgstr ""
 "секунд, сокращение интервала cron может увеличить нагрузку на сервер, будьте "
 "осторожны."
 
-msgctxt ""
-"<b>Push image & Color</b> are dynamic and doesn't require the app to be re-"
-"published."
 msgid ""
 "<b>Push image & Color</b> are dynamic and doesn't require the app to be re-"
 "published."
@@ -2670,93 +1989,69 @@ msgstr ""
 "<b> Изображение и цвет пуша</b> являются динамическими и не требуют "
 "переиздания приложения."
 
-msgctxt "building"
 msgid "building"
 msgstr "строю"
 
-msgctxt "by distance"
 msgid "by distance"
 msgstr "по расстоянию"
 
-msgctxt "default, by creation date"
 msgid "default, by creation date"
 msgstr "по умолчанию, по дате создания"
 
-msgctxt "eBanner iOS price"
 msgid "eBanner iOS price"
 msgstr "Цена eBanner iOS"
 
-msgctxt "e.g: On %s"
 msgid "e.g: On %s"
 msgstr "например: на% s"
 
-msgctxt "failed"
 msgid "failed"
 msgstr "не смогли"
 
-msgctxt "from"
 msgid "from"
 msgstr "От"
 
-msgctxt "iOS"
 msgid "iOS"
 msgstr "iOS"
 
-msgctxt "iOS Certificate"
 msgid "iOS Certificate"
 msgstr "Сертификат iOS "
 
-msgctxt "iPad Retina:"
 msgid "iPad Retina:"
 msgstr "iPad Retina:"
 
-msgctxt "iPad orientation settings"
 msgid "iPad orientation settings"
 msgstr "настройки ориентации на iPad"
 
-msgctxt "iPhone & iPad orientation"
 msgid "iPhone & iPad orientation"
 msgstr "Ориентации iPhone и iPad"
 
-msgctxt "iPhone 5 / 5S:"
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S:"
 
-msgctxt "iPhone 6:"
 msgid "iPhone 6:"
 msgstr "IPhone 6:"
 
-msgctxt "iPhone 6 Plus:"
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6 Plus:"
 
-msgctxt "iPhone Version"
 msgid "iPhone Version"
 msgstr "iPhone версия"
 
-msgctxt "iPhone Version (No Ads)"
 msgid "iPhone Version (No Ads)"
 msgstr "Версия для iPhone (без рекламы)"
 
-msgctxt "iPhone orientation settings"
 msgid "iPhone orientation settings"
 msgstr "настройки ориентации iPhone"
 
-msgctxt "iTunes Connect Login"
 msgid "iTunes Connect Login"
 msgstr "Логин iTunesConnect"
 
-msgctxt "iTunes Connect Password"
 msgid "iTunes Connect Password"
 msgstr "пароль iTunesConnect"
 
-msgctxt "icon"
 msgid "icon"
 msgstr "иконку 192х192"
 
-msgctxt ""
-"like using the GPS or the camera. After the first installation of your app, "
-"those messages will be shown to the app user."
 msgid ""
 "like using the GPS or the camera. After the first installation of your app, "
 "those messages will be shown to the app user."
@@ -2764,42 +2059,32 @@ msgstr ""
 "После первой установки вашего приложения, эти сообщения будут показаны в "
 "приложение пользователя."
 
-msgctxt "logo"
 msgid "logo"
 msgstr "Логотип"
 
-msgctxt "pending"
 msgid "pending"
 msgstr "В ожидании"
 
-msgctxt "%s Text"
 msgid "%s Text"
 msgstr "%s Текст"
 
-msgctxt "seconds"
 msgid "seconds"
 msgstr "секунд"
 
-msgctxt "skip this step"
 msgid "skip this step"
 msgstr "пропустите этот шаг"
 
-msgctxt "success"
 msgid "success"
 msgstr "Успех"
 
-msgctxt "times"
 msgid "times"
 msgstr "раз"
 
-msgctxt "to"
 msgid "to"
 msgstr "по"
 
-msgctxt "with image"
 msgid "with image"
 msgstr "с изображения"
 
-msgctxt "without image"
 msgid "without image"
 msgstr "без изображения"

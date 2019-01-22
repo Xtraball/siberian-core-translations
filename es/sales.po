@@ -14,41 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Activate VAT number check with VIES"
 msgid "Activate VAT number check with VIES"
 msgstr "Activar numero de IVA comprobar con VIES"
 
-msgctxt "Add a custom text to the footer of your invoices"
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Añadir texto personalizado en el pie de facturas"
 
-msgctxt "Invoice options"
 msgid "Invoice options"
 msgstr "Opciones de factura"
 
-msgctxt "Offline plans"
 msgid "Offline plans"
 msgstr "Planes offline"
 
-msgctxt "Paid at:"
 msgid "Paid at:"
 msgstr "Pagado el:"
 
-msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Método de pago"
 
-msgctxt "Price Excl. Tax"
 msgid "Price Excl. Tax"
 msgstr "Importe Excl. Impuesto"
 
-msgctxt "Sales configuration"
 msgid "Sales configuration"
 msgstr "Configuración Ventas"
 
-msgctxt ""
-"This message will be displayed as a waiting message when your users chose an "
-"offline payment method"
 msgid ""
 "This message will be displayed as a waiting message when your users chose an "
 "offline payment method"
@@ -56,9 +45,6 @@ msgstr ""
 "Este mensaje será mostrado como mensaje de espera cuando los usuarios elijan "
 "un método de pago offline"
 
-msgctxt ""
-"This message will be displayed as an information message to describe which "
-"offline payment method you offer"
 msgid ""
 "This message will be displayed as an information message to describe which "
 "offline payment method you offer"
@@ -66,10 +52,8 @@ msgstr ""
 "Este mensaje será mostrado como información para describir los métodos de "
 "pago que ofreces offline"
 
-msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Total Imp. Excl."
 
-msgctxt "VAT check options"
 msgid "VAT check options"
 msgstr "Opciones checkeo IVA"

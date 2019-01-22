@@ -14,164 +14,124 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr "Ajouter un commentaire"
 
-msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr ""
 "Une erreur est survenue lors de la suppression de  la réponse. Merci de "
 "réessayer ultérieurement"
 
-msgctxt "COMMENTS"
 msgid "COMMENTS"
 msgstr "Commentaires"
 
-msgctxt "Create a news"
 msgid "Create a news"
 msgstr "Créer un nouveau"
 
-msgctxt "Delete this info"
 msgid "Delete this info"
 msgstr "Supprimer le commentaire"
 
-msgctxt "Flag"
 msgid "Flag"
 msgstr "Drapeau"
 
-msgctxt "Flag as inappropriate"
 msgid "Flag as inappropriate"
 msgstr "Signaler comme inapproprié"
 
-msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Masquer cette actu"
 
-msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Info supprimée avec succès"
 
-msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Info cachée avec succès"
 
-msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Info sauvegardée avec succès"
 
-msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Info affichée avec succès"
 
-msgctxt "Insert a"
 msgid "Insert a"
 msgstr "Insérez une"
 
-msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Il ne sera visible qu'après validation de notre équipe."
 
-msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Réponses de mes clients"
 
-msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Les commentaires de mes clients"
 
-msgctxt "Near me"
 msgid "Near me"
 msgstr "Proche de moi"
 
-msgctxt "'Near me' radius (in km):"
 msgid "'Near me' radius (in km):"
 msgstr "'Près de moi' rayon (en km):"
 
-msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Paramètres proche de moi"
 
-msgctxt "New post"
 msgid "New post"
 msgstr "Nouveau Post"
 
-msgctxt "No comment for now"
 msgid "No comment for now"
 msgstr "Aucun commentaire pour le moment"
 
-msgctxt "No comments for now"
 msgid "No comments for now"
 msgstr "Pas de commentaires pour l'instant"
 
-msgctxt "Post"
 msgid "Post"
 msgstr "Poste"
 
-msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "Date de publication"
 
-msgctxt "Radius"
 msgid "Radius"
 msgstr "Rayon"
 
-msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Le rayon doit être une valeur numérique valide."
 
-msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Le rayon doit être indiqué."
 
-msgctxt "Read More"
 msgid "Read More"
 msgstr "Lire +"
 
-msgctxt "Recent"
 msgid "Recent"
 msgstr "Récent"
 
-msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Afficher cette actu"
 
-msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Il n'y a pas de commentaire pour cette actu"
 
-msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "A été marquée comme inappropriée"
 
-msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Vous ne pouvez pas aimer plusieurs fois la même actualité."
 
-msgctxt "You have to enter a text message."
 msgid "You have to enter a text message."
 msgstr "Vous devez saisir un message texte."
 
-msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Vous devez être connecté pour créer un poste"
 
-msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "Votre pavillon a été notifiée avec succès"
 
-msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Votre <i>like</i> a bien été pris en compte."
 
-msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "Votre message a bien été pris en compte."
 
-msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Votre message a été ajouté avec succès"
 
-msgctxt "en"
 msgid "en"
 msgstr "fr"

@@ -14,74 +14,55 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Create a new language"
 msgid "Create a new language"
 msgstr "Δημιουργία νέας γλώσσας"
 
-msgctxt "Default text"
 msgid "Default text"
 msgstr "Προεπιλεγμένο κείμενο"
 
-msgctxt "Edit the language: %s"
 msgid "Edit the language: %s"
 msgstr "Επεξεργασία γλώσσας: %s"
 
-msgctxt "Language"
 msgid "Language"
 msgstr "Γλώσσα"
 
-msgctxt "Language successfully saved"
 msgid "Language successfully saved"
 msgstr "Η γλώσσα αποθηκεύτηκε επιτυχώς"
 
-msgctxt "List of your languages"
 msgid "List of your languages"
 msgstr "Λίστα διαθέσιμων γλωσσών"
 
-msgctxt "Please, choose a file."
 msgid "Please, choose a file."
 msgstr "Παρακαλούμε, επιλέξετε ένα αρχείο."
 
-msgctxt "Please, choose a language."
 msgid "Please, choose a language."
 msgstr "Παρακαλούμε, επιλέξετε μία γλώσσα."
 
-msgctxt "Select a file"
 msgid "Select a file"
 msgstr "Επιλογή αρχείου"
 
-msgctxt "Select a language"
 msgid "Select a language"
 msgstr "Επιλογή γλώσσας"
 
-msgctxt "Text translation"
 msgid "Text translation"
 msgstr "Μετάφραση κειμένου"
 
-msgctxt "Translate all"
 msgid "Translate all"
 msgstr ""
 
-msgctxt "Translate missing entries"
 msgid "Translate missing entries"
 msgstr ""
 
-msgctxt "Translate the 'e.g.' between parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr ""
 
-msgctxt "Translation API is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr ""
 
-msgctxt ""
-"Warning: translation API is experimental for the current language and may "
-"fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
 msgstr ""
 
-msgctxt "Your translation"
 msgid "Your translation"
 msgstr "Η μετάφρασή σας"

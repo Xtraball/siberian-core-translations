@@ -14,41 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Activate VAT number check with VIES"
 msgid "Activate VAT number check with VIES"
 msgstr "VİES ile aktive Vergi numarasını kontrol edin"
 
-msgctxt "Add a custom text to the footer of your invoices"
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Faturalarınıza altbilgi için özel bir metin ekle"
 
-msgctxt "Invoice options"
 msgid "Invoice options"
 msgstr "Fatura seçenekleri"
 
-msgctxt "Offline plans"
 msgid "Offline plans"
 msgstr "Havale/EFT  planları"
 
-msgctxt "Paid at:"
 msgid "Paid at:"
 msgstr "te ödendi:"
 
-msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Ödeme Yöntemi"
 
-msgctxt "Price Excl. Tax"
 msgid "Price Excl. Tax"
 msgstr "Vergi hariç fiyat"
 
-msgctxt "Sales configuration"
 msgid "Sales configuration"
 msgstr "Satış yapılandırma"
 
-msgctxt ""
-"This message will be displayed as a waiting message when your users chose an "
-"offline payment method"
 msgid ""
 "This message will be displayed as a waiting message when your users chose an "
 "offline payment method"
@@ -56,9 +45,6 @@ msgstr ""
 "Bu mesaj, kullanıcıların Havale/EFT  ödeme yöntemi seçti zaman bekleyen bir "
 "mesaj olarak gösterilecektir"
 
-msgctxt ""
-"This message will be displayed as an information message to describe which "
-"offline payment method you offer"
 msgid ""
 "This message will be displayed as an information message to describe which "
 "offline payment method you offer"
@@ -66,10 +52,8 @@ msgstr ""
 "Bu mesaj, açıklamak için bir bilgi mesajı çevrimdışı ödeme yöntemi olarak "
 "görüntülenir teklif"
 
-msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Vergiler haric toplam tutar"
 
-msgctxt "VAT check options"
 msgid "VAT check options"
 msgstr "KDV seçenekleri kontrol edin"

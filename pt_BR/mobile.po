@@ -14,491 +14,366 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Access my personal data"
 msgid "Access my personal data"
 msgstr ""
 
-msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr ""
 
-msgctxt "Add image"
 msgid "Add image"
 msgstr "Adicionar uma página"
 
-msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr ""
 
-msgctxt "Address"
 msgid "Address"
 msgstr "Endereço"
 
-msgctxt "Albums"
 msgid "Albums"
 msgstr "Álbuns"
 
-msgctxt "An error occurred while loading the media."
 msgid "An error occurred while loading the media."
 msgstr "Ocorreu um erro ao carregar este evento"
 
-msgctxt "An error occurred while loading the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Ocorreu um erro ao adicionar a opção"
 
-msgctxt "An error occurred while reading the code."
 msgid "An error occurred while reading the code."
 msgstr "Ocorreu um erro ao excluir o evento"
 
-msgctxt "An unexpected error occurred while calculating the route."
 msgid "An unexpected error occurred while calculating the route."
 msgstr ""
 
-msgctxt "Application is Locked"
 msgid "Application is Locked"
 msgstr ""
 
-msgctxt "Buffering"
 msgid "Buffering"
 msgstr ""
 
-msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr ""
 
-msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr ""
 
-msgctxt "CVC ***"
 msgid "CVC ***"
 msgstr ""
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgctxt "Cancel delete"
 msgid "Cancel delete"
 msgstr ""
 
-msgctxt "Cancel edit"
 msgid "Cancel edit"
 msgstr ""
 
-msgctxt "Civility"
 msgid "Civility"
 msgstr ""
 
-msgctxt "Clear"
 msgid "Clear"
 msgstr ""
 
-msgctxt "Click here to log-in"
 msgid "Click here to log-in"
 msgstr ""
 
-msgctxt "Close"
 msgid "Close"
 msgstr "Fechar"
 
-msgctxt "Comment"
 msgid "Comment"
 msgstr "Comentário"
 
-msgctxt "Copy"
 msgid "Copy"
 msgstr ""
 
-msgctxt "Create an account"
 msgid "Create an account"
 msgstr "Criar uma nova conta"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Data e hora"
 
-msgctxt "Delete"
 msgid "Delete"
 msgstr "Deletar"
 
-msgctxt "Delivery address"
 msgid "Delivery address"
 msgstr "Área de Entrega"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Descrição"
 
-msgctxt "Discount code"
 msgid "Discount code"
 msgstr ""
 
-msgctxt "Dismiss"
 msgid "Dismiss"
 msgstr ""
 
-msgctxt "Done"
 msgid "Done"
 msgstr ""
 
-msgctxt "Downloading..."
 msgid "Downloading..."
 msgstr ""
 
-msgctxt "EXP"
 msgid "EXP"
 msgstr ""
 
-msgctxt "Email"
 msgid "Email"
 msgstr "E-mail"
 
-msgctxt "Error"
 msgid "Error"
 msgstr ""
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Nome / Sobrenome"
 
-msgctxt "Firstname"
 msgid "Firstname"
 msgstr "Nome"
 
-msgctxt "Flag"
 msgid "Flag"
 msgstr ""
 
-msgctxt "Forgot your password?"
 msgid "Forgot your password?"
 msgstr ""
 
-msgctxt "Hi. I just found: $1 in the $2 app."
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr ""
 
-msgctxt "I accept the privacy policy"
 msgid "I accept the privacy policy"
 msgstr ""
 
-msgctxt "I just found this discount $1 in $2 app."
 msgid "I just found this discount $1 in $2 app."
 msgstr ""
 
-msgctxt "Identity"
 msgid "Identity"
 msgstr ""
 
-msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr ""
 
-msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr ""
 
-msgctxt "Info"
 msgid "Info"
 msgstr ""
 
-msgctxt "Informations"
 msgid "Informations"
 msgstr "Informações"
 
-msgctxt "Invoicing address"
 msgid "Invoicing address"
 msgstr ""
 
-msgctxt "Lastname"
 msgid "Lastname"
 msgstr "Sobrenome"
 
-msgctxt "Like"
 msgid "Like"
 msgstr "Curtir"
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "Carregamento"
 
-msgctxt "Locate"
 msgid "Locate"
 msgstr "Localizar"
 
-msgctxt "Location"
 msgid "Location"
 msgstr ""
 
-msgctxt "Log-in"
 msgid "Log-in"
 msgstr "Log-in"
 
-msgctxt "Login error"
 msgid "Login error"
 msgstr ""
 
-msgctxt "Log-in with Facebook"
 msgid "Log-in with Facebook"
 msgstr ""
 
-msgctxt "Map"
 msgid "Map"
 msgstr "Mapas"
 
-msgctxt "Miss"
 msgid "Miss"
 msgstr "Senhorita"
 
-msgctxt "Mr"
 msgid "Mr"
 msgstr "Senhor"
 
-msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Senhora"
 
-msgctxt "My account"
 msgid "My account"
 msgstr "Minha conta"
 
-msgctxt "New Post"
 msgid "New Post"
 msgstr ""
 
-msgctxt "Nickname"
 msgid "Nickname"
 msgstr ""
 
-msgctxt "No comments for now."
 msgid "No comments for now."
 msgstr ""
 
-msgctxt "No form available"
 msgid "No form available"
 msgstr ""
 
-msgctxt "No images found"
 msgid "No images found"
 msgstr ""
 
-msgctxt "No items found"
 msgid "No items found"
 msgstr ""
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr ""
 
-msgctxt "Notes"
 msgid "Notes"
 msgstr ""
 
-msgctxt "Notification"
 msgid "Notification"
 msgstr ""
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "O número de pessoas"
 
-msgctxt "OK"
 msgid "OK"
 msgstr "OK"
 
-msgctxt "Offline mode"
 msgid "Offline mode"
 msgstr ""
 
-msgctxt "Ok"
 msgid "Ok"
 msgstr ""
 
-msgctxt "Open link"
 msgid "Open link"
 msgstr ""
 
-msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "Ou com a sua conta"
 
-msgctxt "Order Details"
 msgid "Order Details"
 msgstr "Detalhes pedido"
 
-msgctxt "Overview"
 msgid "Overview"
 msgstr ""
 
-msgctxt "Password"
 msgid "Password"
 msgstr "Senha"
 
-msgctxt "Phone"
 msgid "Phone"
 msgstr "Telefone"
 
-msgctxt "Photos"
 msgid "Photos"
 msgstr ""
 
-msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Playlists"
 
-msgctxt "Please enter a valid email address"
 msgid "Please enter a valid email address"
 msgstr "Por favor insira um endereço de e-mail válido"
 
-msgctxt "Please enter your email address."
 msgid "Please enter your email address."
 msgstr "Digite seu endereço de e-mail"
 
-msgctxt ""
-"Please enter your email address. We'll send you your password right now."
 msgid ""
 "Please enter your email address. We'll send you your password right now."
 msgstr "Digite seu endereço de e-mail. Vamos enviar-lhe sua senha agora."
 
-msgctxt "Please wait..."
 msgid "Please wait..."
 msgstr ""
 
-msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Podcast"
 
-msgctxt "Prices"
 msgid "Prices"
 msgstr "Preço"
 
-msgctxt "Privacy"
 msgid "Privacy"
 msgstr ""
 
-msgctxt "Privacy Policy"
 msgid "Privacy Policy"
 msgstr ""
 
-msgctxt "Pull to refresh..."
 msgid "Pull to refresh..."
 msgstr ""
 
-msgctxt "RSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
-msgctxt "Read all"
 msgid "Read all"
 msgstr "Leia tudo"
 
-msgctxt "Scan result"
 msgid "Scan result"
 msgstr ""
 
-msgctxt "See details"
 msgid "See details"
 msgstr ""
 
-msgctxt "Send"
 msgid "Send"
 msgstr "Enviar"
 
-msgctxt "Send contact request"
 msgid "Send contact request"
 msgstr ""
 
-msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Mostre-me no ranking"
 
-msgctxt "Success"
 msgid "Success"
 msgstr ""
 
-msgctxt "Tap to download in background"
 msgid "Tap to download in background"
 msgstr ""
 
-msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr ""
 
-msgctxt "The address you're looking for does not exists."
 msgid "The address you're looking for does not exists."
 msgstr ""
 
-msgctxt "The sign in flow was canceled"
 msgid "The sign in flow was canceled"
 msgstr ""
 
-msgctxt "There is no route available with these informations."
 msgid "There is no route available with these informations."
 msgstr ""
 
-msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr ""
 
-msgctxt "This feature is disabled in this preview"
 msgid "This feature is disabled in this preview"
 msgstr ""
 
-msgctxt "This feature is not available in offline mode!"
 msgid "This feature is not available in offline mode!"
 msgstr ""
 
-msgctxt "This field is required"
 msgid "This field is required"
 msgstr "O campo é obrigatório"
 
-msgctxt "This will open the code scan camera on your device."
 msgid "This will open the code scan camera on your device."
 msgstr ""
 
-msgctxt "Title"
 msgid "Title"
 msgstr "Título"
 
-msgctxt "Tracks"
 msgid "Tracks"
 msgstr "Faixas"
 
-msgctxt "Triple tap to close the preview"
 msgid "Triple tap to close the preview"
 msgstr ""
 
-msgctxt "Use this coupon"
 msgid "Use this coupon"
 msgstr "Utilize este cupom"
 
-msgctxt "Valid Until"
 msgid "Valid Until"
 msgstr ""
 
-msgctxt "View"
 msgid "View"
 msgstr "Ver"
 
-msgctxt ""
-"We are sorry but this application has been deactivated and may not be re-"
-"activated."
 msgid ""
 "We are sorry but this application has been deactivated and may not be re-"
 "activated."
 msgstr ""
 
-msgctxt "Website"
 msgid "Website"
 msgstr "Site"
 
-msgctxt "We'll send you your password right now."
 msgid "We'll send you your password right now."
 msgstr ""
 
-msgctxt ""
-"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
-"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -506,36 +381,27 @@ msgstr ""
 "Senha errada. Tenha cuidado! %d tentativas sucessivas%s antes de bloquear o "
 "seu cartão. Peça que ao funcionário da loja para validar seu cartão."
 
-msgctxt "XXXX XXXX XXXX"
 msgid "XXXX XXXX XXXX"
 msgstr ""
 
-msgctxt "You must fill at least one field!"
 msgid "You must fill at least one field!"
 msgstr ""
 
-msgctxt "Your comment"
 msgid "Your comment"
 msgstr "O seu comentário"
 
-msgctxt ""
-"Your location could not be found because your application doesn't use SSL."
 msgid ""
 "Your location could not be found because your application doesn't use SSL."
 msgstr ""
 
-msgctxt "followers"
 msgid "followers"
 msgstr ""
 
-msgctxt "following"
 msgid "following"
 msgstr ""
 
-msgctxt "track"
 msgid "track"
 msgstr "faixa"
 
-msgctxt "tracks"
 msgid "tracks"
 msgstr "faixas"

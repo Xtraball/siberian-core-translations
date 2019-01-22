@@ -14,491 +14,366 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Access my personal data"
 msgid "Access my personal data"
 msgstr "Kişisel verilerime erişim"
 
-msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr "Yorum ekle"
 
-msgctxt "Add image"
 msgid "Add image"
 msgstr "Resim ekle"
 
-msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr "Adres Defteri Ekle"
 
-msgctxt "Address"
 msgid "Address"
 msgstr "Adres"
 
-msgctxt "Albums"
 msgid "Albums"
 msgstr "Albümler"
 
-msgctxt "An error occurred while loading the media."
 msgid "An error occurred while loading the media."
 msgstr "Medya yüklenirken bir hata oluştu."
 
-msgctxt "An error occurred while loading the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Radyo yüklenirken bir hata oluştu."
 
-msgctxt "An error occurred while reading the code."
 msgid "An error occurred while reading the code."
 msgstr "Kod okunurken bir hata oluştu."
 
-msgctxt "An unexpected error occurred while calculating the route."
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Rota hesaplanırken beklenmeyen bir hata oluştu."
 
-msgctxt "Application is Locked"
 msgid "Application is Locked"
 msgstr "Uygulama Kitlendi"
 
-msgctxt "Buffering"
 msgid "Buffering"
 msgstr "Buffering"
 
-msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr "Biletleri Satın al"
 
-msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr "Bilet Satın Al"
 
-msgctxt "CVC ***"
 msgid "CVC ***"
 msgstr "CVC ***"
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "İptal"
 
-msgctxt "Cancel delete"
 msgid "Cancel delete"
 msgstr "Silmeyi iptal et"
 
-msgctxt "Cancel edit"
 msgid "Cancel edit"
 msgstr "Düzenlemeyi iptal et"
 
-msgctxt "Civility"
 msgid "Civility"
 msgstr "Cinsiyet"
 
-msgctxt "Clear"
 msgid "Clear"
 msgstr "Açık"
 
-msgctxt "Click here to log-in"
 msgid "Click here to log-in"
 msgstr "Giriş İçin Tıklayınız"
 
-msgctxt "Close"
 msgid "Close"
 msgstr "Kapat"
 
-msgctxt "Comment"
 msgid "Comment"
 msgstr "Yorum"
 
-msgctxt "Copy"
 msgid "Copy"
 msgstr "Kopya"
 
-msgctxt "Create an account"
 msgid "Create an account"
 msgstr "Yeni hesap oluştur"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Tarih ve zaman"
 
-msgctxt "Delete"
 msgid "Delete"
 msgstr "Sil"
 
-msgctxt "Delivery address"
 msgid "Delivery address"
 msgstr "Sipariş Adresi"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Açıklama"
 
-msgctxt "Discount code"
 msgid "Discount code"
 msgstr "İndirim kodu"
 
-msgctxt "Dismiss"
 msgid "Dismiss"
 msgstr "Reddet"
 
-msgctxt "Done"
 msgid "Done"
 msgstr "Bitti"
 
-msgctxt "Downloading..."
 msgid "Downloading..."
 msgstr "İndiriliyor..."
 
-msgctxt "EXP"
 msgid "EXP"
 msgstr "EXP"
 
-msgctxt "Email"
 msgid "Email"
 msgstr "E-posta"
 
-msgctxt "Error"
 msgid "Error"
 msgstr "Hata"
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "İsim / Soyisim"
 
-msgctxt "Firstname"
 msgid "Firstname"
 msgstr "İsim"
 
-msgctxt "Flag"
 msgid "Flag"
 msgstr "Bayrak"
 
-msgctxt "Forgot your password?"
 msgid "Forgot your password?"
 msgstr "Şifrenizi mi unuttunuz?"
 
-msgctxt "Hi. I just found: $1 in the $2 app."
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr "$2 uygulamasında $1 bunu buldum"
 
-msgctxt "I accept the privacy policy"
 msgid "I accept the privacy policy"
 msgstr "Gizlilik Politikasını Kabul Ediyorum"
 
-msgctxt "I just found this discount $1 in $2 app."
 msgid "I just found this discount $1 in $2 app."
 msgstr "Bu indirimi 2$ uygulamasında 1$ buldum."
 
-msgctxt "Identity"
 msgid "Identity"
 msgstr "Kimlik"
 
-msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "$3 uygulamasında $2 sanatçıdan $1 dinliyorum"
 
-msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr "$2 ugulamasında $1 dinliyorum"
 
-msgctxt "Info"
 msgid "Info"
 msgstr "Bilgi"
 
-msgctxt "Informations"
 msgid "Informations"
 msgstr "Bilgiler"
 
-msgctxt "Invoicing address"
 msgid "Invoicing address"
 msgstr "Fatura adresi"
 
-msgctxt "Lastname"
 msgid "Lastname"
 msgstr "Soyad"
 
-msgctxt "Like"
 msgid "Like"
 msgstr "Beğen"
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "Yükleniyor"
 
-msgctxt "Locate"
 msgid "Locate"
 msgstr "Konum"
 
-msgctxt "Location"
 msgid "Location"
 msgstr "Lokasyon"
 
-msgctxt "Log-in"
 msgid "Log-in"
 msgstr "Oturum Aç"
 
-msgctxt "Login error"
 msgid "Login error"
 msgstr "Oturum açma hatası"
 
-msgctxt "Log-in with Facebook"
 msgid "Log-in with Facebook"
 msgstr "Facebook ile giriş"
 
-msgctxt "Map"
 msgid "Map"
 msgstr "Harita"
 
-msgctxt "Miss"
 msgid "Miss"
 msgstr "Bayan"
 
-msgctxt "Mr"
 msgid "Mr"
 msgstr "Bay"
 
-msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Bayan"
 
-msgctxt "My account"
 msgid "My account"
 msgstr "Hesabım"
 
-msgctxt "New Post"
 msgid "New Post"
 msgstr "Yeni Gönderi"
 
-msgctxt "Nickname"
 msgid "Nickname"
 msgstr "Takma Ad"
 
-msgctxt "No comments for now."
 msgid "No comments for now."
 msgstr "Şimdilik Yorum Bulunamadı"
 
-msgctxt "No form available"
 msgid "No form available"
 msgstr "Form mevcut değil"
 
-msgctxt "No images found"
 msgid "No images found"
 msgstr "Resim bulunamadı"
 
-msgctxt "No items found"
 msgid "No items found"
 msgstr "Öge Bulunamadı"
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr "İsteğiniz için sonuç yok."
 
-msgctxt "Notes"
 msgid "Notes"
 msgstr "Notlar"
 
-msgctxt "Notification"
 msgid "Notification"
 msgstr "Bildirim"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Kişi sayısı"
 
-msgctxt "OK"
 msgid "OK"
 msgstr "Tamam"
 
-msgctxt "Offline mode"
 msgid "Offline mode"
 msgstr "Çevrimdışı mod"
 
-msgctxt "Ok"
 msgid "Ok"
 msgstr "Tamam"
 
-msgctxt "Open link"
 msgid "Open link"
 msgstr "Linki Aç"
 
-msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "veya hesabınızla"
 
-msgctxt "Order Details"
 msgid "Order Details"
 msgstr "Sipariş Ayrıntıları"
 
-msgctxt "Overview"
 msgid "Overview"
 msgstr "Önizleme"
 
-msgctxt "Password"
 msgid "Password"
 msgstr "Şifre"
 
-msgctxt "Phone"
 msgid "Phone"
 msgstr "Telefon"
 
-msgctxt "Photos"
 msgid "Photos"
 msgstr "Fotograflar"
 
-msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Şarkı listesi"
 
-msgctxt "Please enter a valid email address"
 msgid "Please enter a valid email address"
 msgstr "Lütfen geçerli bir e-posta adresini girin"
 
-msgctxt "Please enter your email address."
 msgid "Please enter your email address."
 msgstr "Lütfen e-posta adresinizi girin."
 
-msgctxt ""
-"Please enter your email address. We'll send you your password right now."
 msgid ""
 "Please enter your email address. We'll send you your password right now."
 msgstr "E-posta adresinizi girin. Size şifrenizi göndereceğiz."
 
-msgctxt "Please wait..."
 msgid "Please wait..."
 msgstr "Lütfen Bekleyiniz"
 
-msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Podcast"
 
-msgctxt "Prices"
 msgid "Prices"
 msgstr "Fiyatlar"
 
-msgctxt "Privacy"
 msgid "Privacy"
 msgstr "Gizlilik"
 
-msgctxt "Privacy Policy"
 msgid "Privacy Policy"
 msgstr "Gizlilik Politikası"
 
-msgctxt "Pull to refresh..."
 msgid "Pull to refresh..."
 msgstr "Yenilemek için çekin..."
 
-msgctxt "RSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
-msgctxt "Read all"
 msgid "Read all"
 msgstr "Hepsini oku"
 
-msgctxt "Scan result"
 msgid "Scan result"
 msgstr "Tarama Sonucu"
 
-msgctxt "See details"
 msgid "See details"
 msgstr "Ayrıntıları gör"
 
-msgctxt "Send"
 msgid "Send"
 msgstr "Gönder"
 
-msgctxt "Send contact request"
 msgid "Send contact request"
 msgstr "İletişim isteği gönderin"
 
-msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Sıralamada göster"
 
-msgctxt "Success"
 msgid "Success"
 msgstr "Başarı"
 
-msgctxt "Tap to download in background"
 msgid "Tap to download in background"
 msgstr "Arka planda indirmek için dokunun"
 
-msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr "Şartlar ve Koşullar"
 
-msgctxt "The address you're looking for does not exists."
 msgid "The address you're looking for does not exists."
 msgstr "Aradığınız adres mevcut değil."
 
-msgctxt "The sign in flow was canceled"
 msgid "The sign in flow was canceled"
 msgstr "Giriş akışı iptal edildi"
 
-msgctxt "There is no route available with these informations."
 msgid "There is no route available with these informations."
 msgstr "Bu bilgilerin  kullanılabilir bir yolu mevcut degil"
 
-msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr "Bu uygulama kullanılabilir degil"
 
-msgctxt "This feature is disabled in this preview"
 msgid "This feature is disabled in this preview"
 msgstr "Bu özellik önizlemede devre dışı"
 
-msgctxt "This feature is not available in offline mode!"
 msgid "This feature is not available in offline mode!"
 msgstr "Bu özellik, çevrimdışı modunda kullanılamaz."
 
-msgctxt "This field is required"
 msgid "This field is required"
 msgstr "Bu dosya gerekli"
 
-msgctxt "This will open the code scan camera on your device."
 msgid "This will open the code scan camera on your device."
 msgstr "Bu cihazınızdaki kod tarama kamerasını açacaktır."
 
-msgctxt "Title"
 msgid "Title"
 msgstr "Başlık"
 
-msgctxt "Tracks"
 msgid "Tracks"
 msgstr "Şarkılar"
 
-msgctxt "Triple tap to close the preview"
 msgid "Triple tap to close the preview"
 msgstr "Önizlemeyi kapatmak için üç kez dokunun"
 
-msgctxt "Use this coupon"
 msgid "Use this coupon"
 msgstr "Bu kuponu kullanın"
 
-msgctxt "Valid Until"
 msgid "Valid Until"
 msgstr "Kadar Geçerli"
 
-msgctxt "View"
 msgid "View"
 msgstr "Görüntüle"
 
-msgctxt ""
-"We are sorry but this application has been deactivated and may not be re-"
-"activated."
 msgid ""
 "We are sorry but this application has been deactivated and may not be re-"
 "activated."
 msgstr "Üzgünüz bu uygulama devre dışı bırakıldı, tekrar aktif edilmelidir."
 
-msgctxt "Website"
 msgid "Website"
 msgstr "Website"
 
-msgctxt "We'll send you your password right now."
 msgid "We'll send you your password right now."
 msgstr "Parolanızı hemen göndereceğiz."
 
-msgctxt ""
-"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
-"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -506,36 +381,27 @@ msgstr ""
 "Yanlış şifre.<br />dikkatli Olun!<br />%d kartınızı kilitleme önce kalan "
 "girişim %s <br /> Mağaza Sorumlusu ile iletişime geçiniz"
 
-msgctxt "XXXX XXXX XXXX"
 msgid "XXXX XXXX XXXX"
 msgstr "XXXX XXXX XXXX"
 
-msgctxt "You must fill at least one field!"
 msgid "You must fill at least one field!"
 msgstr "En az bir alanı doldurmanız gerekir."
 
-msgctxt "Your comment"
 msgid "Your comment"
 msgstr "Yorumunuz"
 
-msgctxt ""
-"Your location could not be found because your application doesn't use SSL."
 msgid ""
 "Your location could not be found because your application doesn't use SSL."
 msgstr "Uygulamanız SSL kullanmadığından dolayı konumunuz bulunamadı."
 
-msgctxt "followers"
 msgid "followers"
 msgstr "takipçi"
 
-msgctxt "following"
 msgid "following"
 msgstr "takip ediln"
 
-msgctxt "track"
 msgid "track"
 msgstr "Şarkı"
 
-msgctxt "tracks"
 msgid "tracks"
 msgstr "Şarkılar"

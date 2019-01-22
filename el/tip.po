@@ -13,26 +13,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Amount of bill"
 msgid "Amount of bill"
 msgstr ""
 
-msgctxt "Calculate"
 msgid "Calculate"
 msgstr ""
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Αριθμός ατόμων"
 
-msgctxt "Percentage of tip"
 msgid "Percentage of tip"
 msgstr ""
 
-msgctxt "This feature allows your users to calculate tips with their app."
 msgid "This feature allows your users to calculate tips with their app."
 msgstr ""
 
-msgctxt "Tip for each:"
 msgid "Tip for each:"
 msgstr ""

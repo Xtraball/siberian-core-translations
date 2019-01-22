@@ -14,70 +14,52 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Create a new language"
 msgid "Create a new language"
 msgstr "Créer une nouvelle langage"
 
-msgctxt "Default text"
 msgid "Default text"
 msgstr "Texte par défaut"
 
-msgctxt "Edit the language: %s"
 msgid "Edit the language: %s"
 msgstr "Modifier la langue : % s"
 
-msgctxt "Language"
 msgid "Language"
 msgstr "Langue"
 
-msgctxt "Language successfully saved"
 msgid "Language successfully saved"
 msgstr "Langue enregistré avec succès"
 
-msgctxt "List of your languages"
 msgid "List of your languages"
 msgstr "Liste de vos langues"
 
-msgctxt "Please, choose a file."
 msgid "Please, choose a file."
 msgstr "S'il vous plaît , choisissez un fichier ."
 
-msgctxt "Please, choose a language."
 msgid "Please, choose a language."
 msgstr "S'il vous plaît , choisissez une langue ."
 
-msgctxt "Select a file"
 msgid "Select a file"
 msgstr "Sélectionner un fichier"
 
-msgctxt "Select a language"
 msgid "Select a language"
 msgstr "Sélectionnez une langue"
 
-msgctxt "Text translation"
 msgid "Text translation"
 msgstr "La traduction du texte"
 
-msgctxt "Translate all"
 msgid "Translate all"
 msgstr "Traduire tout"
 
-msgctxt "Translate missing entries"
 msgid "Translate missing entries"
 msgstr "Traduire les entrées manquantes"
 
-msgctxt "Translate the 'e.g.' between parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr "Traduire le 'par exemple' Entre parenthèses seulement."
 
-msgctxt "Translation API is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr ""
 "L&#39;API de traduction n&#39;est pas disponible pour la langue actuelle."
 
-msgctxt ""
-"Warning: translation API is experimental for the current language and may "
-"fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
@@ -85,6 +67,5 @@ msgstr ""
 "<b>Attention:</b> traduction de l'API est expérimental pour le langage "
 "courant et peut échouer."
 
-msgctxt "Your translation"
 msgid "Your translation"
 msgstr "Votre traduction"

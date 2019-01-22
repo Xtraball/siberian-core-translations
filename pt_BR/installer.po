@@ -14,288 +14,214 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Action"
 msgid "Action"
 msgstr "Ações"
 
-msgctxt "Actions"
 msgid "Actions"
 msgstr "Ações"
 
-msgctxt "All of your modules are up to date"
 msgid "All of your modules are up to date"
 msgstr "Todos os seus módulos estão atualizados"
 
-msgctxt "An update is available. Click here to download it."
 msgid "An update is available. Click here to download it."
 msgstr ""
 
-msgctxt "Check for updates"
 msgid "Check for updates"
 msgstr ""
 
-msgctxt "Click here to see the release notes"
 msgid "Click here to see the release notes"
 msgstr ""
 
-msgctxt "Click here to send your module"
 msgid "Click here to send your module"
 msgstr "Clique aqui para enviar seu módulo"
 
-msgctxt "Details"
 msgid "Details"
 msgstr "Detalhes"
 
-msgctxt "Drop your module here"
 msgid "Drop your module here"
 msgstr "Envie o seu módulo aqui"
 
-msgctxt "Host"
 msgid "Host"
 msgstr ""
 
-msgctxt "Install"
 msgid "Install"
 msgstr ""
 
-msgctxt "Installing"
 msgid "Installing"
 msgstr "Instalando"
 
-msgctxt "Installing your module"
 msgid "Installing your module"
 msgstr "Instalando seu módulo"
 
-msgctxt "Module successfully installed"
 msgid "Module successfully installed"
 msgstr "Módulo instalado com sucesso"
 
-msgctxt "Module to upload"
 msgid "Module to upload"
 msgstr "Módulo para upload"
 
-msgctxt "Modules Installation"
 msgid "Modules Installation"
 msgstr "Instalação de módulos"
 
-msgctxt "Modules successfully installed!"
 msgid "Modules successfully installed!"
 msgstr "Módulos instalados com sucesso."
 
-msgctxt "Name"
 msgid "Name"
 msgstr "Nome"
 
-msgctxt "No directory provided"
 msgid "No directory provided"
 msgstr "Nenhum diretório fornecido"
 
-msgctxt "No module to install"
 msgid "No module to install"
 msgstr "Nenhum módulo para instalar"
 
-msgctxt "No modules uploaded yet"
 msgid "No modules uploaded yet"
 msgstr "Nenhum módulo carregado ainda"
 
-msgctxt ""
-"Or set the correct permissions to the following files and folders and try "
-"again:"
 msgid ""
 "Or set the correct permissions to the following files and folders and try "
 "again:"
 msgstr ""
 
-msgctxt "Package"
 msgid "Package"
 msgstr ""
 
-msgctxt "Package Details"
 msgid "Package Details"
 msgstr ""
 
-msgctxt "Path to your system"
 msgid "Path to your system"
 msgstr ""
 
-msgctxt "Please, enter a name"
 msgid "Please, enter a name"
 msgstr "Por favor, insira um nome"
 
-msgctxt "Please, fill out all fields"
 msgid "Please, fill out all fields"
 msgstr "Por favor, preencha todos os campos"
 
-msgctxt ""
-"Please update the module to the %s version before installing this update."
 msgid ""
 "Please update the module to the %s version before installing this update."
 msgstr ""
 
-msgctxt ""
-"Please update your system to the %s version before installing this update."
 msgid ""
 "Please update your system to the %s version before installing this update."
 msgstr ""
 
-msgctxt "Please wait, we're installing your module"
 msgid "Please wait, we're installing your module"
 msgstr "Por favor aguarde, estamos instalando o módulo"
 
-msgctxt "Port"
 msgid "Port"
 msgstr ""
 
-msgctxt "Processing the installation"
 msgid "Processing the installation"
 msgstr "Processamento da instalação"
 
-msgctxt "Progress"
 msgid "Progress"
 msgstr ""
 
-msgctxt "Retry"
 msgid "Retry"
 msgstr "Tentar novamente"
 
-msgctxt "Select a module to upload"
 msgid "Select a module to upload"
 msgstr "Selecionar um módulo para upload"
 
-msgctxt "Size"
 msgid "Size"
 msgstr "Tamanho:"
 
-msgctxt ""
-"Some files and folder are not writable. You can either provide your FTP "
-"access to install this update:"
 msgid ""
 "Some files and folder are not writable. You can either provide your FTP "
 "access to install this update:"
 msgstr ""
 
-msgctxt "Some files don't have the right permissions and can't be updated"
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr ""
 
-msgctxt "Status"
 msgid "Status"
 msgstr "Status"
 
-msgctxt "The database connection failed. Please, check the entered information."
 msgid "The database connection failed. Please, check the entered information."
 msgstr ""
 "A conexão com o banco falhou. Por favor, verifique as informações inseridas."
 
-msgctxt "The entered password confirmation does not match the entered password."
 msgid "The entered password confirmation does not match the entered password."
 msgstr "A confirmação da senha digitada não corresponde a senha digitada."
 
-msgctxt "The file %s does not exist"
 msgid "The file %s does not exist"
 msgstr "O arquivo %s não existe"
 
-msgctxt "The file %s is not writable."
 msgid "The file %s is not writable."
 msgstr ""
 
-msgctxt "The folder %s is not writable. Please fix this issue and try again."
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr ""
 "A pasta %s não é gravável. Por favor corrigir esse problema e tente "
 "novamente."
 
-msgctxt "The following files and folders are not writable:"
 msgid "The following files and folders are not writable:"
 msgstr ""
 
-msgctxt "The following files and folders are not writable: <br /> - %s"
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr ""
 
-msgctxt "The package you have uploaded is invalid."
 msgid "The package you have uploaded is invalid."
 msgstr ""
 
-msgctxt "There is no CMS license key set."
 msgid "There is no CMS license key set."
 msgstr ""
 
-msgctxt "This process may take few minutes, please do not refresh the page"
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr ""
 "Este processo pode demorar alguns minutos, por favor, não atualize a página"
 
-msgctxt "This update is designed for the %s, you can't install it in your %s."
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr ""
 
-msgctxt "Unable to check for updates now. Please, try again later."
 msgid "Unable to check for updates now. Please, try again later."
 msgstr ""
 
-msgctxt "Unable to connect to your FTP. Please check the connection information."
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr ""
 
-msgctxt ""
-"Unable to detect your site. Please make sure the entered path is correct."
 msgid ""
 "Unable to detect your site. Please make sure the entered path is correct."
 msgstr ""
 
-msgctxt "Unable to extract the archive."
 msgid "Unable to extract the archive."
 msgstr "Não foi possível extrair o arquivo."
 
-msgctxt "Unable to fetch the update. Please, try again later."
 msgid "Unable to fetch the update. Please, try again later."
 msgstr ""
 
-msgctxt "Unable to open the archive."
 msgid "Unable to open the archive."
 msgstr "Não é possível abrir o arquivo."
 
-msgctxt ""
-"Unable to open the file. Please, make sure that you sent a valid archive."
 msgid ""
 "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr ""
 "Não é possível abrir o arquivo. Por favor, certifique-se de que você enviou "
 "um arquivo válido."
 
-msgctxt "Upload a module"
 msgid "Upload a module"
 msgstr "Fazer upload de um módulo"
 
-msgctxt "Upload your modules"
 msgid "Upload your modules"
 msgstr "Enviar seus módulos"
 
-msgctxt "Username"
 msgid "Username"
 msgstr "Nome de Usuário"
 
-msgctxt "Version"
 msgid "Version"
 msgstr "Versão"
 
-msgctxt "We are checking for updates. Please, do not refresh the page."
 msgid "We are checking for updates. Please, do not refresh the page."
 msgstr ""
 
-msgctxt "You already have installed this template."
 msgid "You already have installed this template."
 msgstr ""
 
-msgctxt "You already have installed this update."
 msgid "You already have installed this update."
 msgstr ""
 
-msgctxt "Your system is up to date."
 msgid "Your system is up to date."
 msgstr ""
 
-msgctxt "%s Update"
 msgid "%s Update"
 msgstr ""

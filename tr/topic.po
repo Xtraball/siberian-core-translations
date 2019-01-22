@@ -14,41 +14,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Are you sure you want to close without saving?"
 msgid "Are you sure you want to close without saving?"
 msgstr "Eğer kaydetmeden kapatmak istediğinizden emin misiniz ?"
 
-msgctxt ""
-"Are you sure you want to delete this category and all its subcategories?"
 msgid ""
 "Are you sure you want to delete this category and all its subcategories?"
 msgstr ""
 "Bu kategoriyi ve tüm alt kategorileri silmek istediğinizden emin misiniz?"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Açıklama"
 
-msgctxt "Description successfully saved."
 msgid "Description successfully saved."
 msgstr "Açıklama başarıyla kaydedildi"
 
-msgctxt "Manage Topics"
 msgid "Manage Topics"
 msgstr "Konuları Düzenle"
 
-msgctxt "No topics for now."
 msgid "No topics for now."
 msgstr "Şimdilik bir konu yok."
 
-msgctxt "Page description"
 msgid "Page description"
 msgstr "Sayfa açıklaması"
 
-msgctxt "Save"
 msgid "Save"
 msgstr "Kaydet"
 
-msgctxt "Subscribe"
 msgid "Subscribe"
 msgstr "Abone"

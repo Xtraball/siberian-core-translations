@@ -15,41 +15,30 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Activate VAT number check with VIES"
 msgid "Activate VAT number check with VIES"
 msgstr "Активировать  номер НДС с ВИЭС"
 
-msgctxt "Add a custom text to the footer of your invoices"
 msgid "Add a custom text to the footer of your invoices"
 msgstr "Добавить пользовательский текст в Нижний колонтитул вашего счета"
 
-msgctxt "Invoice options"
 msgid "Invoice options"
 msgstr "Варианты счета-фактуры"
 
-msgctxt "Offline plans"
 msgid "Offline plans"
 msgstr "Автономные планы"
 
-msgctxt "Paid at:"
 msgid "Paid at:"
 msgstr "Оплата по адресу:"
 
-msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Способ Оплаты"
 
-msgctxt "Price Excl. Tax"
 msgid "Price Excl. Tax"
 msgstr "Цена без учета налога"
 
-msgctxt "Sales configuration"
 msgid "Sales configuration"
 msgstr "Конфигурации продаж"
 
-msgctxt ""
-"This message will be displayed as a waiting message when your users chose an "
-"offline payment method"
 msgid ""
 "This message will be displayed as a waiting message when your users chose an "
 "offline payment method"
@@ -57,9 +46,6 @@ msgstr ""
 "Это сообщение будет отображаться как сообщение в ожидании, когда "
 "пользователи выбрали способ оплаты в автономном режиме"
 
-msgctxt ""
-"This message will be displayed as an information message to describe which "
-"offline payment method you offer"
 msgid ""
 "This message will be displayed as an information message to describe which "
 "offline payment method you offer"
@@ -67,10 +53,8 @@ msgstr ""
 "Это сообщение будет отображаться как информационное сообщение, чтобы "
 "описать, что автономный способ оплаты Вы предлагаете"
 
-msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Цена без налога"
 
-msgctxt "VAT check options"
 msgid "VAT check options"
 msgstr "Параметры проверки НДС"

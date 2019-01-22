@@ -13,196 +13,147 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add "
 msgid "Add "
 msgstr "Přidat"
 
-msgctxt "Add attachement"
 msgid "Add attachement"
 msgstr ""
 
-msgctxt "Add cover"
 msgid "Add cover"
 msgstr ""
 
-msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "Přidat sekci:"
 
-msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr "Přidat do kontaktů"
 
-msgctxt "Address:"
 msgid "Address:"
 msgstr "Adresa:"
 
-msgctxt "Alignment:"
 msgid "Alignment:"
 msgstr "Zarovnání:"
 
-msgctxt "An error occured."
 msgid "An error occured."
 msgstr ""
 
-msgctxt "An error occurred while saving your page."
 msgid "An error occurred while saving your page."
 msgstr "Při ukládání se vyskytla chyba"
 
-msgctxt "Are you sure you want to delete this page?"
 msgid "Are you sure you want to delete this page?"
 msgstr "Určitě chcete smazat tuto stránku?"
 
-msgctxt "At least one section is required to save."
 msgid "At least one section is required to save."
 msgstr "Je vyžadován alespoň jeden"
 
-msgctxt "Attachement"
 msgid "Attachement"
 msgstr "Příloha"
 
-msgctxt "Attachment:"
 msgid "Attachment:"
 msgstr "Příloha:"
 
-msgctxt "Custom icon"
 msgid "Custom icon"
 msgstr ""
 
-msgctxt "Custom page"
 msgid "Custom page"
 msgstr "Vlastní"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Popis"
 
-msgctxt "Display address"
 msgid "Display address"
 msgstr "Zobrazit adresu"
 
-msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr "Zobrazit obrázek na stránce"
 
-msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Zobrazit tlačítko pro mapu"
 
-msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr "Zobrazit nadpis a podnadpis na stránce"
 
-msgctxt "Email:"
 msgid "Email:"
 msgstr "E-mail:"
 
-msgctxt "Hide navbar"
 msgid "Hide navbar"
 msgstr ""
 
-msgctxt "Label"
 msgid "Label"
 msgstr "Název"
 
-msgctxt "Large"
 msgid "Large"
 msgstr "Velký"
 
-msgctxt "Latitude:"
 msgid "Latitude:"
 msgstr "Zeměpisná šířka"
 
-msgctxt "Link:"
 msgid "Link:"
 msgstr "Odkaz:"
 
-msgctxt "Loading picture:"
 msgid "Loading picture:"
 msgstr "Nahrát obrázek:"
 
-msgctxt "Longitude:"
 msgid "Longitude:"
 msgstr "Zeměpisná délka"
 
-msgctxt "Make a search or enter the Youtube Url:"
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Vyhledejte nebo zadejte Youtube adresu:"
 
-msgctxt "Medium"
 msgid "Medium"
 msgstr "Střední"
 
-msgctxt "My Youtube video:"
 msgid "My Youtube video:"
 msgstr "Moje YouTube Videa"
 
-msgctxt "My video"
 msgid "My video"
 msgstr "Moje videa"
 
-msgctxt "No videos matching your selection"
 msgid "No videos matching your selection"
 msgstr "Žádné video nesouhlasí s Vaším výběrem"
 
-msgctxt "Page successfully deleted"
 msgid "Page successfully deleted"
 msgstr "Stránka byla úspěšně smazána"
 
-msgctxt "Page successfully saved"
 msgid "Page successfully saved"
 msgstr "Stránka byla úspěšně uložena"
 
-msgctxt "Phone:"
 msgid "Phone:"
 msgstr "Telefon"
 
-msgctxt "Podcast URL:"
 msgid "Podcast URL:"
 msgstr "Podcast URL:"
 
-msgctxt "Select a button type:"
 msgid "Select a button type:"
 msgstr "Vyberte typ tlačítka"
 
-msgctxt "Select a video type:"
 msgid "Select a video type:"
 msgstr "Vyberte typ videa"
 
-msgctxt "Size"
 msgid "Size"
 msgstr "Velikost"
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr "Slider"
 
-msgctxt "Small"
 msgid "Small"
 msgstr "Malý"
 
-msgctxt "Text"
 msgid "Text"
 msgstr "Text"
 
-msgctxt ""
-"The block N°%s, %s was not saved, the block was either empty or invalid."
 msgid ""
 "The block N°%s, %s was not saved, the block was either empty or invalid."
 msgstr ""
 
-msgctxt "Use external app"
 msgid "Use external app"
 msgstr ""
 
-msgctxt "Video URL:"
 msgid "Video URL:"
 msgstr "Video URL:"
 
-msgctxt "Your Podcast:"
 msgid "Your Podcast:"
 msgstr "Váš Podcast:"
 
-msgctxt ".mp4 or .3gp format"
 msgid ".mp4 or .3gp format"
 msgstr ".mp4 nebo .3gp formát"

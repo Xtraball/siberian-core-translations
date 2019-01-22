@@ -14,41 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Přidat stránku"
 
-msgctxt "Add feature"
 msgid "Add feature"
 msgstr ""
 
-msgctxt "Allow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr ""
 
-msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Zrušit"
 
-msgctxt "Click on"
 msgid "Click on"
 msgstr "Klikněte na"
 
-msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Vyberte stránku/modul, kterou chcete přidat do složky"
 
-msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Vyberte stránku/modul, kterou chcete přidat do složky"
 
-msgctxt ""
-"Click on a page to add it to the folder <span id='folder_name' "
-"class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
@@ -56,86 +45,65 @@ msgstr ""
 "Vyberte stránku/modul, kterou chcete přidat do složky <span id = \""
 "folder_name\" class = \"folder_name\"> \"%s\" </ span>"
 
-msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Zavřít zobrazení v mobilu"
 
-msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Odstranit tuto složku a všechny její podsložky?"
 
-msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr ""
 
-msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr ""
 
-msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Název složky je nutné vyplnit"
 
-msgctxt "Folders"
 msgid "Folders"
 msgstr "Složky"
 
-msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr ""
 
-msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Zobrazení v mobilu"
 
-msgctxt "New folder"
 msgid "New folder"
 msgstr "Nová složka"
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr ""
 
-msgctxt "Override layout"
 msgid "Override layout"
 msgstr ""
 
-msgctxt "Search results"
 msgid "Search results"
 msgstr ""
 
-msgctxt "Show cover"
 msgid "Show cover"
 msgstr ""
 
-msgctxt "Show search field"
 msgid "Show search field"
 msgstr ""
 
-msgctxt "Show title"
 msgid "Show title"
 msgstr "Zobrazit článek"
 
-msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "Use card design"
 msgid "Use card design"
 msgstr ""
 
-msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Tato funkce nelze přidat"
 
-msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Nejdříve musíte dokončit právě vytvářenou složku"
 
-msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Chcete pokračovat? Ztratíte všechny neuložené změny"
 
-msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "k přidání další složky"

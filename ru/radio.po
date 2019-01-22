@@ -15,13 +15,9 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "No current stream to load."
 msgid "No current stream to load."
 msgstr "Нет текущего потока, чтобы загрузить."
 
-msgctxt ""
-"This stream is a literal IPv4, you may encounter problems with iOS "
-"publication."
 msgid ""
 "This stream is a literal IPv4, you may encounter problems with iOS "
 "publication."

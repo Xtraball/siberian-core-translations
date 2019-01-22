@@ -13,198 +13,149 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add "
 msgid "Add "
 msgstr "hinzufügen"
 
-msgctxt "Add attachement"
 msgid "Add attachement"
 msgstr "Add attachement"
 
-msgctxt "Add cover"
 msgid "Add cover"
 msgstr "Deckblatt hinzufügen"
 
-msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "In Sektionen:"
 
-msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr "Zum Adressbuch hinzufügen"
 
-msgctxt "Address:"
 msgid "Address:"
 msgstr "Adresse:"
 
-msgctxt "Alignment:"
 msgid "Alignment:"
 msgstr "Ausrichtung:"
 
-msgctxt "An error occured."
 msgid "An error occured."
 msgstr "Es ist ein Fehler aufgetreten."
 
-msgctxt "An error occurred while saving your page."
 msgid "An error occurred while saving your page."
 msgstr "Beim Speichern Ihrer Seite ist ein Fehler aufgetreten."
 
-msgctxt "Are you sure you want to delete this page?"
 msgid "Are you sure you want to delete this page?"
 msgstr "Bist du sicher, dass Sie diese Seite löschen möchten?"
 
-msgctxt "At least one section is required to save."
 msgid "At least one section is required to save."
 msgstr "Mindestens ein Abschnitt erforderlich ist, zu speichern."
 
-msgctxt "Attachement"
 msgid "Attachement"
 msgstr "Anhang"
 
-msgctxt "Attachment:"
 msgid "Attachment:"
 msgstr "Anlage:"
 
-msgctxt "Custom icon"
 msgid "Custom icon"
 msgstr "Benutzerdefinierte Symbol"
 
-msgctxt "Custom page"
 msgid "Custom page"
 msgstr "Benutzerdefinierte Seite"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Beschreibung"
 
-msgctxt "Display address"
 msgid "Display address"
 msgstr "Anzeigeadresse"
 
-msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr "Display image in die Seite"
 
-msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Standort Display-Taste"
 
-msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr "Anzeige von Titel und Untertitel in die Seite"
 
-msgctxt "Email:"
 msgid "Email:"
 msgstr "E-Mail:"
 
-msgctxt "Hide navbar"
 msgid "Hide navbar"
 msgstr "Ausblenden der navbar"
 
-msgctxt "Label"
 msgid "Label"
 msgstr "Label:"
 
-msgctxt "Large"
 msgid "Large"
 msgstr "groß"
 
-msgctxt "Latitude:"
 msgid "Latitude:"
 msgstr "Breite:"
 
-msgctxt "Link:"
 msgid "Link:"
 msgstr "Link:"
 
-msgctxt "Loading picture:"
 msgid "Loading picture:"
 msgstr "Das Bild wird geladen:"
 
-msgctxt "Longitude:"
 msgid "Longitude:"
 msgstr "Länge:"
 
-msgctxt "Make a search or enter the Youtube Url:"
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Suchen Sie oder geben Sie den Youtube Link ein:"
 
-msgctxt "Medium"
 msgid "Medium"
 msgstr "Medium"
 
-msgctxt "My Youtube video:"
 msgid "My Youtube video:"
 msgstr "Mein Youtube-Video:"
 
-msgctxt "My video"
 msgid "My video"
 msgstr "Mein Video"
 
-msgctxt "No videos matching your selection"
 msgid "No videos matching your selection"
 msgstr "Keine Videos Ihrer Selektion entsprechen"
 
-msgctxt "Page successfully deleted"
 msgid "Page successfully deleted"
 msgstr "Seite wurde erfolgreich gelöscht."
 
-msgctxt "Page successfully saved"
 msgid "Page successfully saved"
 msgstr "Seite erfolgreich gespeichert"
 
-msgctxt "Phone:"
 msgid "Phone:"
 msgstr "Telefon:"
 
-msgctxt "Podcast URL:"
 msgid "Podcast URL:"
 msgstr "Podcast URL:"
 
-msgctxt "Select a button type:"
 msgid "Select a button type:"
 msgstr "Wählen Sie eine Schaltfläche:"
 
-msgctxt "Select a video type:"
 msgid "Select a video type:"
 msgstr "Wählen Sie eine Video Art:"
 
-msgctxt "Size"
 msgid "Size"
 msgstr "Größe"
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr "Regler"
 
-msgctxt "Small"
 msgid "Small"
 msgstr "klein"
 
-msgctxt "Text"
 msgid "Text"
 msgstr "Text"
 
-msgctxt ""
-"The block N°%s, %s was not saved, the block was either empty or invalid."
 msgid ""
 "The block N°%s, %s was not saved, the block was either empty or invalid."
 msgstr ""
 "Der block N°%s, %s nicht gespeichert wurde, wird der block war entweder leer "
 "oder ungültig."
 
-msgctxt "Use external app"
 msgid "Use external app"
 msgstr "Verwenden Sie eine externe app"
 
-msgctxt "Video URL:"
 msgid "Video URL:"
 msgstr "Video URL:"
 
-msgctxt "Your Podcast:"
 msgid "Your Podcast:"
 msgstr "Ihr Podcast:"
 
-msgctxt ".mp4 or .3gp format"
 msgid ".mp4 or .3gp format"
 msgstr ". mp4 oder .3 gp-Format"

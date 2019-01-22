@@ -14,37 +14,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Access restricted to authorized members only"
 msgid "Access restricted to authorized members only"
 msgstr "Accès réservé seulement aux membres"
 
-msgctxt "Allow all the users by default:"
 msgid "Allow all the users by default:"
 msgstr "Autoriser tous les utilisateurs par défaut:"
 
-msgctxt "Choose the features to lock:"
 msgid "Choose the features to lock:"
 msgstr "Choisissez les caractéristiques pour verrouiller:"
 
-msgctxt "Lock the entire application?"
 msgid "Lock the entire application?"
 msgstr "Verrouiller l'application entière?"
 
-msgctxt "Restrict Access"
 msgid "Restrict Access"
 msgstr "Restreindre l'accès"
 
-msgctxt "Scan now to unlock"
 msgid "Scan now to unlock"
 msgstr "Scannez le QR Code que vous avez reçu pour déverrouiller."
 
-msgctxt "Unlock by:"
 msgid "Unlock by:"
 msgstr "Débloqué par:"
 
-msgctxt ""
-"We are sorry but your account does not have enough permissions to access "
-"this page"
 msgid ""
 "We are sorry but your account does not have enough permissions to access "
 "this page"
@@ -52,22 +42,17 @@ msgstr ""
 "Nous sommes désolés mais vous ne disposez pas des droits pour accéder à "
 "cette page"
 
-msgctxt "the email address"
 msgid "the email address"
 msgstr "Email"
 
-msgctxt "the first name"
 msgid "the first name"
 msgstr "Prénom"
 
-msgctxt "the gender"
 msgid "the gender"
 msgstr "Sexe"
 
-msgctxt "the last name"
 msgid "the last name"
 msgstr "Nom"
 
-msgctxt "the password"
 msgid "the password"
 msgstr "Mot de passe"

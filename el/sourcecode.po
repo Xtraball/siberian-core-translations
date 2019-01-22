@@ -14,26 +14,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Allow offline mode"
 msgid "Allow offline mode"
 msgstr ""
 
-msgctxt ""
-"Be aware that if the code you enter here requires any kind of server "
-"interaction it will not work properly in offline mode.)"
 msgid ""
 "Be aware that if the code you enter here requires any kind of server "
 "interaction it will not work properly in offline mode.)"
 msgstr ""
 
-msgctxt "Insert in-app link"
 msgid "Insert in-app link"
 msgstr ""
 
-msgctxt "Insert your HTML code:"
 msgid "Insert your HTML code:"
 msgstr "Προσθέστε τον HTML κώδικά σας:"
 
-msgctxt "Source Code"
 msgid "Source Code"
 msgstr "Source κώδικας"

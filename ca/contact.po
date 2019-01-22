@@ -14,68 +14,52 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "S'ha produït un error en guardar les seves informacions de contacte."
 
-msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr ""
 "S'ha produït un error en enviar la seva sol·licitud. Intenta-ho de nou més "
 "tard."
 
-msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "I el seu número de telèfon:"
 
-msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Esteu segur que voleu eliminar la imatge?"
 
-msgctxt "City"
 msgid "City"
 msgstr "Ciutat"
 
-msgctxt "Contact information"
 msgid "Contact information"
 msgstr "informació del contacte"
 
-msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Heus aquí el seu correu electrònic:"
 
-msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Heus aquí el missatge:"
 
-msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Si us plau introduïu correctament els següents camps: <br />"
 
-msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-msgctxt "Website"
 msgid "Website"
 msgstr "lloc web"
 
-msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Ha rebut un missatge d'un contacte:"
 
-msgctxt "Your email"
 msgid "Your email"
 msgstr "El seu correu electrònic"
 
-msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "El seu missatge ha estat enviat"
 
-msgctxt "Your request"
 msgid "Your request"
 msgstr "la seva petició"
 
-msgctxt "Zip code"
 msgid "Zip code"
 msgstr "codi postal"

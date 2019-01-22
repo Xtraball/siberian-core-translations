@@ -13,174 +13,131 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Additionnal Information"
 msgid "Additionnal Information"
 msgstr "Bijkomende informatie"
 
-msgctxt "An error occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr ""
 "Er is een fout opgetreden bij het verwijderen van de push. Probeer het later "
 "opnieuw."
 
-msgctxt "And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "En een straal (in km):"
 
-msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Creation date"
 msgid "Creation date"
 msgstr "Aanmaakdatum"
 
-msgctxt "Custom URL"
 msgid "Custom URL"
 msgstr "Aangepaste URL"
 
-msgctxt "Enter a location:"
 msgid "Enter a location:"
 msgstr "Geef een locatie op:"
 
-msgctxt "GCM Key"
 msgid "GCM Key"
 msgstr "GCM-sleutel"
 
-msgctxt "I want to send it"
 msgid "I want to send it"
 msgstr "Ik wil het bericht versturen"
 
-msgctxt "Keys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Key succesvol opgeslagen"
 
-msgctxt "Message"
 msgid "Message"
 msgstr "Bericht"
 
-msgctxt "No device found for this user"
 msgid "No device found for this user"
 msgstr "Geen apparaat gevonden voor deze gebruiker"
 
-msgctxt "No items."
 msgid "No items."
 msgstr "Geen items."
 
-msgctxt "Open a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr "Open een functie of een aangepaste URL"
 
-msgctxt "Pending"
 msgid "Pending"
 msgstr "Nog niet verzonden"
 
-msgctxt "Please enter an expiration date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr "Vul een vervaldatum in voor uw bericht:"
 
-msgctxt "Project Number"
 msgid "Project Number"
 msgstr "Project nummer"
 
-msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "Pushmeldingen"
 
-msgctxt "Push Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Paramètres des notifications push"
 
-msgctxt "Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "Push succesvol verwijderd."
 
-msgctxt "Radius"
 msgid "Radius"
 msgstr "Straal"
 
-msgctxt "Send to a specific location"
 msgid "Send to a specific location"
 msgstr "Stuur naar een specifiek gebied"
 
-msgctxt "Send to all applications"
 msgid "Send to all applications"
 msgstr "Verzenden naar alle applicaties"
 
-msgctxt "Send to all my users"
 msgid "Send to all my users"
 msgstr "Verstuur naar alle gebruikers"
 
-msgctxt "Send to no specific locations"
 msgid "Send to no specific locations"
 msgstr "Verstuur naar een specifiek gebied"
 
-msgctxt "Send to specific topics"
 msgid "Send to specific topics"
 msgstr "Verstuur naar specifieke gebruikers"
 
-msgctxt "Send to specific users"
 msgid "Send to specific users"
 msgstr "Verstuur naar specifieke gebruikers"
 
-msgctxt "Sending date"
 msgid "Sending date"
 msgstr "Verzend datum"
 
-msgctxt "The duration limit must be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "De tijdslimiet moet hoger zijn dan de verzonden datum"
 
-msgctxt "Topics"
 msgid "Topics"
 msgstr "Onderwerpen"
 
-msgctxt "Users"
 msgid "Users"
 msgstr "Gebruikers"
 
-msgctxt "You must choose a topic before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr "U moet een onderwerp kiezen voordat u uw bericht verzendt."
 
-msgctxt "You must choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr "U moet ten minste één gebruiker kiezen voordat u uw bericht verzendt."
 
-msgctxt "Your app must be published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "Uw app moet worden gepubliceerd om een push-bericht versturen."
 
-msgctxt "Your message has been saved successfully."
 msgid "Your message has been saved successfully."
 msgstr "Uw bericht is succesvol opgeslagen."
 
-msgctxt ""
-"Your message has been saved successfully and will be sent at the entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr ""
 "Uw bericht is succesvol opgeslagen en word op de ingevoerde datum verstuurd"
 
-msgctxt ""
-"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr ""
 "Uw bericht is succesvol opgeslagen, en word in een paar minuten verzonden"
 
-msgctxt "and users entering the area"
 msgid "and users entering the area"
 msgstr "en gebruikers die het gebied binnen komen"
 
-msgctxt "for a limited period"
 msgid "for a limited period"
 msgstr "voor een bepaalde periode"
 
-msgctxt "now"
 msgid "now"
 msgstr "nu"
 
-msgctxt "on a specific date"
 msgid "on a specific date"
 msgstr "op een bepaalde datum"

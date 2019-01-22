@@ -14,162 +14,122 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr "Yorum ekle"
 
-msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr "Bu cevap silinirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
-msgctxt "COMMENTS"
 msgid "COMMENTS"
 msgstr "YORUMLAR"
 
-msgctxt "Create a news"
 msgid "Create a news"
 msgstr "Bir haber oluştur"
 
-msgctxt "Delete this info"
 msgid "Delete this info"
 msgstr "Bu bilgiyi sil"
 
-msgctxt "Flag"
 msgid "Flag"
 msgstr "Bayrak"
 
-msgctxt "Flag as inappropriate"
 msgid "Flag as inappropriate"
 msgstr "Uygunsuz olarak işaretle"
 
-msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Bu bilgiyi gizle"
 
-msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Bilgi başarıyla silindi"
 
-msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Bilgi başarıyla gizlendi"
 
-msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Bilgi başarıyla kaydedildi"
 
-msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Bilgi başarıyla gösterildi"
 
-msgctxt "Insert a"
 msgid "Insert a"
 msgstr "İliştir"
 
-msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Ekibimiz tarafından doğrulamadan sonra gösterilir olacaktır."
 
-msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Müşteri cevapları"
 
-msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Müşteri yorumları"
 
-msgctxt "Near me"
 msgid "Near me"
 msgstr "Yakınımda"
 
-msgctxt "'Near me' radius (in km):"
 msgid "'Near me' radius (in km):"
 msgstr "'Yakınımda' yarıçap (km):"
 
-msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Yakınımda ayarları"
 
-msgctxt "New post"
 msgid "New post"
 msgstr "Yeni yazı"
 
-msgctxt "No comment for now"
 msgid "No comment for now"
 msgstr "Henüz yorum eklenmemiştir"
 
-msgctxt "No comments for now"
 msgid "No comments for now"
 msgstr "Şimdilik Yorum Bulunamadı"
 
-msgctxt "Post"
 msgid "Post"
 msgstr "Posta"
 
-msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "Yayın tarihi"
 
-msgctxt "Radius"
 msgid "Radius"
 msgstr "Yarıçap"
 
-msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Yarıçap numerik değer olmalı."
 
-msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Yarıçap belirtilmeli."
 
-msgctxt "Read More"
 msgid "Read More"
 msgstr "Daha Fazla Oku"
 
-msgctxt "Recent"
 msgid "Recent"
 msgstr "Enson"
 
-msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Bu bilgiyi göster"
 
-msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Bu habere ait yorum bulunmuyor"
 
-msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "Uygunsuz olarak işaretlendi"
 
-msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Aynı haber için bir kereden fazla beğeni gönderemzsin"
 
-msgctxt "You have to enter a text message."
 msgid "You have to enter a text message."
 msgstr "Bir yazı mesajı girmelisiniz."
 
-msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Bir yazı oluşturmak için internete bağlı olmanı gerekir"
 
-msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "Bayrağınız başarıyla bildirilmiştir"
 
-msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Beğenin başarıyla eklendi"
 
-msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "Mesajınız başarıyla kaydedildi"
 
-msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Yazınız başarıyla eklendi "
 
-msgctxt "en"
 msgid "en"
 msgstr "ingilizce"

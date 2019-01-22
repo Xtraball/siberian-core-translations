@@ -14,78 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "All"
 msgid "All"
 msgstr "Alles"
 
-msgctxt "Arts"
 msgid "Arts"
 msgstr "Kunst"
 
-msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Kies een sjabloon om aan te passen"
 
-msgctxt "City"
 msgid "City"
 msgstr "Plaats"
 
-msgctxt "Corporate"
 msgid "Corporate"
 msgstr "Bedrijven"
 
-msgctxt "Design"
 msgid "Design"
 msgstr "Design"
 
-msgctxt "Education"
 msgid "Education"
 msgstr "Educatie"
 
-msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Vermaak"
 
-msgctxt "Fashion"
 msgid "Fashion"
 msgstr "Mode"
 
-msgctxt "Health & Beauty"
 msgid "Health & Beauty"
 msgstr "Gezondheid & Schoonheid"
 
-msgctxt "Hotels"
 msgid "Hotels"
 msgstr "Hotels en Restaurants"
 
-msgctxt "List of your categories"
 msgid "List of your categories"
 msgstr "Lijst van je categorieën"
 
-msgctxt "Local Business"
 msgid "Local Business"
 msgstr "Lokaal bedrijf"
 
-msgctxt "Music"
 msgid "Music"
 msgstr "Muziek"
 
-msgctxt "Organizations"
 msgid "Organizations"
 msgstr "Organisaties"
 
-msgctxt "Real Estate"
 msgid "Real Estate"
 msgstr "Vastgoed"
 
-msgctxt "Sports"
 msgid "Sports"
 msgstr "Sport"
 
-msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "Sjablonen"
 
-msgctxt "Templates"
 msgid "Templates"
 msgstr "Sjablonen"

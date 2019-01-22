@@ -15,50 +15,38 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "About"
 msgid "About"
 msgstr "О"
 
-msgctxt "Address is mandatory."
 msgid "Address is mandatory."
 msgstr "Адрес является обязательным."
 
-msgctxt "Destination address"
 msgid "Destination address"
 msgstr "Адрес назначения"
 
-msgctxt "From:"
 msgid "From:"
 msgstr "Из:"
 
-msgctxt "Hide itinerary steps"
 msgid "Hide itinerary steps"
 msgstr "Скрыть шаги маршрута"
 
-msgctxt "Maps configuration"
 msgid "Maps configuration"
 msgstr "Конфигурации карты"
 
-msgctxt "Maps navigation"
 msgid "Maps navigation"
 msgstr "Навигационные карты"
 
-msgctxt "More Information"
 msgid "More Information"
 msgstr "Сохранить информацию"
 
-msgctxt "See itinerary steps"
 msgid "See itinerary steps"
 msgstr "Посмотреть шаги маршрута"
 
-msgctxt "Sorry, the route cannot be calculated."
 msgid "Sorry, the route cannot be calculated."
 msgstr "К сожалению, маршрут не может быть рассчитан."
 
-msgctxt "To:"
 msgid "To:"
 msgstr "Кому:"
 
-msgctxt "Unit distance"
 msgid "Unit distance"
 msgstr "Единица измерения"

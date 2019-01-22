@@ -14,50 +14,38 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "About"
 msgid "About"
 msgstr "Sur"
 
-msgctxt "Address is mandatory."
 msgid "Address is mandatory."
 msgstr "L'adresse est obligatoire"
 
-msgctxt "Destination address"
 msgid "Destination address"
 msgstr "Adresse de destination"
 
-msgctxt "From:"
 msgid "From:"
 msgstr "De:"
 
-msgctxt "Hide itinerary steps"
 msgid "Hide itinerary steps"
 msgstr "Cacher les étapes d'itinéraire"
 
-msgctxt "Maps configuration"
 msgid "Maps configuration"
 msgstr "Configuration des cartes"
 
-msgctxt "Maps navigation"
 msgid "Maps navigation"
 msgstr "Carte de navigation"
 
-msgctxt "More Information"
 msgid "More Information"
 msgstr "Plus d'informations"
 
-msgctxt "See itinerary steps"
 msgid "See itinerary steps"
 msgstr "Voir les étapes de l'itinéraire"
 
-msgctxt "Sorry, the route cannot be calculated."
 msgid "Sorry, the route cannot be calculated."
 msgstr "Désolé , la route ne peut être calculé ."
 
-msgctxt "To:"
 msgid "To:"
 msgstr "À :"
 
-msgctxt "Unit distance"
 msgid "Unit distance"
 msgstr "Unité de distance"

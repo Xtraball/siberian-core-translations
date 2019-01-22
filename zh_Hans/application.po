@@ -14,2686 +14,1971 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"* If apple doesn't detect any ads configurate, your application will be "
-"refused"
 msgid ""
 "* If apple doesn't detect any ads configurate, your application will be "
 "refused"
 msgstr ""
 
-msgctxt ""
-"* You have to justify why you need this background audio playing to Apple."
 msgid ""
 "* You have to justify why you need this background audio playing to Apple."
 msgstr ""
 
-msgctxt ""
-"* You have to justify why you need this background geolocation to Apple."
 msgid ""
 "* You have to justify why you need this background geolocation to Apple."
 msgstr ""
 
-msgctxt "1. Download the app previewer:"
 msgid "1. Download the app previewer:"
 msgstr "1.下载应用程序的预览："
 
-msgctxt "1. Insert the following code between the %s tag of your page:"
 msgid "1. Insert the following code between the %s tag of your page:"
 msgstr ""
 
-msgctxt "2. Insert the following code at the end of the %s tag of your page:"
 msgid "2. Insert the following code at the end of the %s tag of your page:"
 msgstr ""
 
-msgctxt "2. Open the app and login"
 msgid "2. Open the app and login"
 msgstr "2.打开应用程序，并输入"
 
-msgctxt "API Keys"
 msgid "API Keys"
 msgstr "API密钥"
 
-msgctxt "APIs"
 msgid "APIs"
 msgstr "API"
 
-msgctxt "Access Token"
 msgid "Access Token"
 msgstr ""
 
-msgctxt "Acl"
 msgid "Acl"
 msgstr ""
 
-msgctxt "Activated"
 msgid "Activated"
 msgstr "活性"
 
-msgctxt "AdMob ID"
 msgid "AdMob ID"
 msgstr ""
 
-msgctxt "AdMob Type"
 msgid "AdMob Type"
 msgstr ""
 
-msgctxt "Add a new icon"
 msgid "Add a new icon"
 msgstr "添加一个新的图标"
 
-msgctxt "Add a thumbnail"
 msgid "Add a thumbnail"
 msgstr ""
 
-msgctxt "Add an image"
 msgid "Add an image"
 msgstr "添加页面"
 
-msgctxt "Add pages"
 msgid "Add pages"
 msgstr "添加页面"
 
-msgctxt "Add pictures"
 msgid "Add pictures"
 msgstr ""
 
-msgctxt "Add place"
 msgid "Add place"
 msgstr ""
 
-msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "添加部分："
 
-msgctxt "Additional options"
 msgid "Additional options"
 msgstr ""
 
-msgctxt "Admin"
 msgid "Admin"
 msgstr ""
 
-msgctxt "Admin Account"
 msgid "Admin Account"
 msgstr ""
 
-msgctxt "Advanced"
 msgid "Advanced"
 msgstr ""
 
-msgctxt "Advanced Application Options"
 msgid "Advanced Application Options"
 msgstr ""
 
-msgctxt "Advanced Customization CSS / SCSS"
 msgid "Advanced Customization CSS / SCSS"
 msgstr ""
 
-msgctxt "Advertising"
 msgid "Advertising"
 msgstr ""
 
-msgctxt "All"
 msgid "All"
 msgstr "所有"
 
-msgctxt "All done!"
 msgid "All done!"
 msgstr ""
 
-msgctxt "Allow user to request app publication"
 msgid "Allow user to request app publication"
 msgstr ""
 
-msgctxt "Allowed"
 msgid "Allowed"
 msgstr ""
 
-msgctxt ""
-"An error occured while copying your app icon. Please check the icon, try to "
-"send it again and try again."
 msgid ""
 "An error occured while copying your app icon. Please check the icon, try to "
 "send it again and try again."
 msgstr "在复制的应用程序图标时发生错误。请检查该图标，重新尝试发送，然后再试一次。"
 
-msgctxt "An error occurred. Sorry for the inconvenience."
 msgid "An error occurred. Sorry for the inconvenience."
 msgstr ""
 
-msgctxt ""
-"An error occurred during the generation of your QRCode. Please try again "
-"later."
 msgid ""
 "An error occurred during the generation of your QRCode. Please try again "
 "later."
 msgstr "同时生成QR码时发生错误。请稍后再试。"
 
-msgctxt "An error occurred while adding the option"
 msgid "An error occurred while adding the option"
 msgstr "出现错误添加选项"
 
-msgctxt "An error occurred while changing your layout."
 msgid "An error occurred while changing your layout."
 msgstr "未能改变它的设计。"
 
-msgctxt "An error occurred while deleting the option"
 msgid "An error occurred while deleting the option"
 msgstr "有一个错误删除的选项"
 
-msgctxt "An error occurred while deleting your picture"
 msgid "An error occurred while deleting your picture"
 msgstr "而删除你的形象发生了错误"
 
-msgctxt "An error occurred while editing file (%s)."
 msgid "An error occurred while editing file (%s)."
 msgstr "编辑文件（ ％ S）时发生错误。"
 
-msgctxt "An error occurred while generating. Please try again later."
 msgid "An error occurred while generating. Please try again later."
 msgstr "有一个错误加载。请稍后再试。"
 
-msgctxt "An error occurred while hidding the iOS Status Bar"
 msgid "An error occurred while hidding the iOS Status Bar"
 msgstr "出现错误添加选项"
 
-msgctxt "An error occurred while loading"
 msgid "An error occurred while loading"
 msgstr "有同时加载错误"
 
-msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "有一个错误的节省。请稍后再试。"
 
-msgctxt "An error occurred while saving. The selected icon is not valid."
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr "有一个错误的节省。所选择的图标是无效的。"
 
-msgctxt "An error occurred while saving the application. Please try again later."
 msgid "An error occurred while saving the application. Please try again later."
 msgstr "有一个错误保存应用程序。请稍后再试。"
 
-msgctxt "An error occurred while saving your colors."
 msgid "An error occurred while saving your colors."
 msgstr "有一个错误节省你的颜色。"
 
-msgctxt "An error occurred while saving your page name."
 msgid "An error occurred while saving your page name."
 msgstr "有一个错误保存您的页面名称。"
 
-msgctxt "An error occurred while sorting your pages. Please try again later."
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr "目前在订购页面错误。请稍后再试。"
 
-msgctxt ""
-"An error occurred while sorting your slider images. Please try again later."
 msgid ""
 "An error occurred while sorting your slider images. Please try again later."
 msgstr "目前在订购页面错误。请稍后再试。"
 
-msgctxt "Analytics"
 msgid "Analytics"
 msgstr "Analytics（分析）"
 
-msgctxt "Analyzing fetched data..."
 msgid "Analyzing fetched data..."
 msgstr ""
 
-msgctxt "Android"
 msgid "Android"
 msgstr "安卓"
 
-msgctxt "Android APK Generation"
 msgid "Android APK Generation"
 msgstr "新一代的Android APK"
 
-msgctxt "Android APK version"
 msgid "Android APK version"
 msgstr "新一代的Android APK"
 
-msgctxt "Android Version"
 msgid "Android Version"
 msgstr "Android版"
 
-msgctxt "Android push"
 msgid "Android push"
 msgstr ""
 
-msgctxt "Angle"
 msgid "Angle"
 msgstr ""
 
-msgctxt "App ID"
 msgid "App ID"
 msgstr ""
 
-msgctxt "App Store Icon"
 msgid "App Store Icon"
 msgstr "图标苹果商店"
 
-msgctxt "App design"
 msgid "App design"
 msgstr ""
 
-msgctxt ""
-"Apple rejects apps that includes Ad Support but doesn't use it.<br />"
-"Generate your iOS app out of this source code if you don't include Ads."
 msgid ""
 "Apple rejects apps that includes Ad Support but doesn't use it.<br />"
 "Generate your iOS app out of this source code if you don't include Ads."
 msgstr ""
 
-msgctxt "Apple's Information"
 msgid "Apple's Information"
 msgstr "Apple资讯"
 
-msgctxt "Application:"
 msgid "Application:"
 msgstr "应用"
 
-msgctxt "Application icon"
 msgid "Application icon"
 msgstr "应用程序名称"
 
-msgctxt "Application name"
 msgid "Application name"
 msgstr "应用程序名称"
 
-msgctxt "Are you sure you want to remove this application?"
 msgid "Are you sure you want to remove this application?"
 msgstr "你确定你要删除这个应用程序？"
 
-msgctxt "Around you"
 msgid "Around you"
 msgstr ""
 
-msgctxt "At least 200 characters in the description"
 msgid "At least 200 characters in the description"
 msgstr "在描述中至少有200个字符"
 
-msgctxt "At least, 4 pages in the application"
 msgid "At least, 4 pages in the application"
 msgstr "在应用程序中至少有4个功能"
 
-msgctxt "Attachment"
 msgid "Attachment"
 msgstr ""
 
-msgctxt "Audio"
 msgid "Audio"
 msgstr "音频"
 
-msgctxt "Auth"
 msgid "Auth"
 msgstr ""
 
-msgctxt "Available SCSS Variables corresponding to previously set colors"
 msgid "Available SCSS Variables corresponding to previously set colors"
 msgstr ""
 
-msgctxt "Average by customer"
 msgid "Average by customer"
 msgstr "平均每个客户"
 
-msgctxt "Background"
 msgid "Background"
 msgstr ""
 
-msgctxt "Backoffice"
 msgid "Backoffice"
 msgstr ""
 
-msgctxt "Banner"
 msgid "Banner"
 msgstr ""
 
-msgctxt "Banner Android price"
 msgid "Banner Android price"
 msgstr ""
 
-msgctxt "Banner Android store label"
 msgid "Banner Android store label"
 msgstr ""
 
-msgctxt "Banner author"
 msgid "Banner author"
 msgstr ""
 
-msgctxt "Banner button label"
 msgid "Banner button label"
 msgstr ""
 
-msgctxt "Banner iOS store label"
 msgid "Banner iOS store label"
 msgstr ""
 
-msgctxt "Banner settings"
 msgid "Banner settings"
 msgstr ""
 
-msgctxt "Banner title"
 msgid "Banner title"
 msgstr ""
 
-msgctxt "Book"
 msgid "Book"
 msgstr ""
 
-msgctxt "Border"
 msgid "Border"
 msgstr ""
 
-msgctxt "Border shadow"
 msgid "Border shadow"
 msgstr ""
 
-msgctxt "Bottom"
 msgid "Bottom"
 msgstr ""
 
-msgctxt "Build a mobile app easily"
 msgid "Build a mobile app easily"
 msgstr ""
 
-msgctxt "Build date"
 msgid "Build date"
 msgstr ""
 
-msgctxt "Build information"
 msgid "Build information"
 msgstr "我的信息"
 
-msgctxt "Bundle Id"
 msgid "Bundle Id"
 msgstr "包ID"
 
-msgctxt "Business"
 msgid "Business"
 msgstr ""
 
-msgctxt "Button"
 msgid "Button"
 msgstr ""
 
-msgctxt "Buy one, get one!"
 msgid "Buy one, get one!"
 msgstr "买一赠一！"
 
-msgctxt "Cache"
 msgid "Cache"
 msgstr ""
 
-msgctxt "Calendar"
 msgid "Calendar"
 msgstr "日记"
 
-msgctxt "Catalogs"
 msgid "Catalogs"
 msgstr "目录"
 
-msgctxt "Certificate"
 msgid "Certificate"
 msgstr "证书"
 
-msgctxt "Change your"
 msgid "Change your"
 msgstr "变化"
 
-msgctxt "Change your icon"
 msgid "Change your icon"
 msgstr ""
 
-msgctxt "Change your layout"
 msgid "Change your layout"
 msgstr "选择演示文稿"
 
-msgctxt "Change your picture"
 msgid "Change your picture"
 msgstr "改变形象"
 
-msgctxt "Change your template"
 msgid "Change your template"
 msgstr "改变你的模板"
 
-msgctxt "Change your<br /><span class='bold'>picture</span>"
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr ""
 
-msgctxt "Checking CNAME configuration:"
 msgid "Checking CNAME configuration:"
 msgstr "检查CNAME配置："
 
-msgctxt "Choose a <br /><span class='bold'>picture</span>"
 msgid "Choose a <br /><span class='bold'>picture</span>"
 msgstr ""
 
-msgctxt "Choose a country"
 msgid "Choose a country"
 msgstr "选择一个国家"
 
-msgctxt "Choose a font family"
 msgid "Choose a font family"
 msgstr "选择字体系列"
 
-msgctxt "Choose a picture"
 msgid "Choose a picture"
 msgstr ""
 
-msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr ""
 
-msgctxt "Choose an icon"
 msgid "Choose an icon"
 msgstr ""
 
-msgctxt "Choose your colors"
 msgid "Choose your colors"
 msgstr "选择颜色"
 
-msgctxt "Choose your country"
 msgid "Choose your country"
 msgstr "选择您的国家"
 
-msgctxt "Choose your design"
 msgid "Choose your design"
 msgstr "选择您的设计"
 
-msgctxt "Choose your font style"
 msgid "Choose your font style"
 msgstr "选择你的字体样式"
 
-msgctxt "Choose your homepage image"
 msgid "Choose your homepage image"
 msgstr "选择你的形象主页"
 
-msgctxt "Choose your icons color"
 msgid "Choose your icons color"
 msgstr "选择你的彩色图标"
 
-msgctxt "Choose your layout"
 msgid "Choose your layout"
 msgstr "选择演示文稿"
 
-msgctxt "Choose your template"
 msgid "Choose your template"
 msgstr "选择您的模板"
 
-msgctxt "Click here to download the source code:"
 msgid "Click here to download the source code:"
 msgstr "点击此处下载源代码："
 
-msgctxt "Click here to send your certificate"
 msgid "Click here to send your certificate"
 msgstr "点击这里给我您的证书"
 
-msgctxt "Client ID"
 msgid "Client ID"
 msgstr ""
 
-msgctxt "Cms"
 msgid "Cms"
 msgstr "COMS"
 
-msgctxt "Code Scan"
 msgid "Code Scan"
 msgstr ""
 
-msgctxt "Codescan"
 msgid "Codescan"
 msgstr ""
 
-msgctxt "Color"
 msgid "Color"
 msgstr "颜色"
 
-msgctxt "Colorize pager"
 msgid "Colorize pager"
 msgstr ""
 
-msgctxt "Colors"
 msgid "Colors"
 msgstr "颜色"
 
-msgctxt "Comments"
 msgid "Comments"
 msgstr "点评"
 
-msgctxt "Configuration"
 msgid "Configuration"
 msgstr ""
 
-msgctxt "Connect Button"
 msgid "Connect Button"
 msgstr ""
 
-msgctxt "Contact"
 msgid "Contact"
 msgstr "联系"
 
-msgctxt "Core"
 msgid "Core"
 msgstr "代码"
 
-msgctxt "Cover background images"
 msgid "Cover background images"
 msgstr ""
 
-msgctxt "Create a place"
 msgid "Create a place"
 msgstr "创建一个存储"
 
-msgctxt "Currently only one language can be selected."
 msgid "Currently only one language can be selected."
 msgstr ""
 
-msgctxt "Custom"
 msgid "Custom"
 msgstr ""
 
-msgctxt "Custom SMTP"
 msgid "Custom SMTP"
 msgstr ""
 
-msgctxt "Custom domain name:"
 msgid "Custom domain name:"
 msgstr ""
 
-msgctxt "Customization"
 msgid "Customization"
 msgstr ""
 
-msgctxt "Customize your app's style"
 msgid "Customize your app's style"
 msgstr ""
 
-msgctxt "Dashboard icon"
 msgid "Dashboard icon"
 msgstr "应用程序图标"
 
-msgctxt "Deactivated"
 msgid "Deactivated"
 msgstr "离"
 
-msgctxt "Default"
 msgid "Default"
 msgstr ""
 
-msgctxt "Default (none)"
 msgid "Default (none)"
 msgstr ""
 
-msgctxt "Delete this page?"
 msgid "Delete this page?"
 msgstr "删除此页？"
 
-msgctxt "Depth"
 msgid "Depth"
 msgstr ""
 
-msgctxt "Design"
 msgid "Design"
 msgstr "设计"
 
-msgctxt "Developer Accounts"
 msgid "Developer Accounts"
 msgstr "开发者帐户"
 
-msgctxt "Device Information"
 msgid "Device Information"
 msgstr "设备信息"
 
-msgctxt "Discount Zone"
 msgid "Discount Zone"
 msgstr ""
 
-msgctxt ""
-"Discount zone description. Here your clients will be able to see the details "
-"of each discount"
 msgid ""
 "Discount zone description. Here your clients will be able to see the details "
 "of each discount"
 msgstr "折扣描述区域。在这里，客人可以查看每个优惠详情"
 
-msgctxt "Display Border Circle"
 msgid "Display Border Circle"
 msgstr ""
 
-msgctxt "Display Borders"
 msgid "Display Borders"
 msgstr "展会地址"
 
-msgctxt "Display Image"
 msgid "Display Image"
 msgstr ""
 
-msgctxt "Display Shadow"
 msgid "Display Shadow"
 msgstr ""
 
-msgctxt "Display address"
 msgid "Display address"
 msgstr "展会地址"
 
-msgctxt "Display borders"
 msgid "Display borders"
 msgstr "展会地址"
 
-msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr ""
 
-msgctxt "Display location button"
 msgid "Display location button"
 msgstr "显示按钮的位置"
 
-msgctxt "Display the homepage slider"
 msgid "Display the homepage slider"
 msgstr ""
 
-msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr ""
 
-msgctxt "Display titles"
 msgid "Display titles"
 msgstr ""
 
-msgctxt "Domain"
 msgid "Domain"
 msgstr "域"
 
-msgctxt "Domain name"
 msgid "Domain name"
 msgstr "域名"
 
-msgctxt "Don't order:"
 msgid "Don't order:"
 msgstr ""
 
-msgctxt "Download"
 msgid "Download"
 msgstr "下载"
 
-msgctxt "Download last build"
 msgid "Download last build"
 msgstr ""
 
-msgctxt "Download latest"
 msgid "Download latest"
 msgstr ""
 
-msgctxt "Download our app previewer"
 msgid "Download our app previewer"
 msgstr "下载我们的应用程序的预览"
 
-msgctxt "Download your QRCode"
 msgid "Download your QRCode"
 msgstr ""
 
-msgctxt "Drop your certificate here"
 msgid "Drop your certificate here"
 msgstr "在这里放下你的证书"
 
-msgctxt "Dynamic: percentage"
 msgid "Dynamic: percentage"
 msgstr ""
 
-msgctxt "Edit"
 msgid "Edit"
 msgstr "编辑"
 
-msgctxt "Edit my"
 msgid "Edit my"
 msgstr "编辑我"
 
-msgctxt "Edit place"
 msgid "Edit place"
 msgstr ""
 
-msgctxt "Edit the application %s"
 msgid "Edit the application %s"
 msgstr ""
 
-msgctxt "Editor"
 msgid "Editor"
 msgstr "编辑"
 
-msgctxt "Education"
 msgid "Education"
 msgstr ""
 
-msgctxt "E-mail"
 msgid "E-mail"
 msgstr ""
 
-msgctxt "Enable Offline content ?"
 msgid "Enable Offline content ?"
 msgstr ""
 
-msgctxt "Enable custom SMTP"
 msgid "Enable custom SMTP"
 msgstr ""
 
-msgctxt "Enable search filters:"
 msgid "Enable search filters:"
 msgstr ""
 
-msgctxt "Enter your AdMob ID for each platform."
 msgid "Enter your AdMob ID for each platform."
 msgstr ""
 
-msgctxt "Enter your Facebook page"
 msgid "Enter your Facebook page"
 msgstr "输入您的Facebook粉丝页ID"
 
-msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr ""
 
-msgctxt "Event"
 msgid "Event"
 msgstr "事件"
 
-msgctxt "Events"
 msgid "Events"
 msgstr "事件"
 
-msgctxt "Export"
 msgid "Export"
 msgstr ""
 
-msgctxt "Export App & Selected features."
 msgid "Export App & Selected features."
 msgstr ""
 
-msgctxt "Export as global Template"
 msgid "Export as global Template"
 msgstr ""
 
-msgctxt ""
-"Export your application to a re-usable template & share it across Apps & "
-"Platforms."
 msgid ""
 "Export your application to a re-usable template & share it across Apps & "
 "Platforms."
 msgstr ""
 
-msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "不允许扩展'％s'的"
 
-msgctxt "Facebook"
 msgid "Facebook"
 msgstr "Facebook的"
 
-msgctxt "Facebook API Keys"
 msgid "Facebook API Keys"
 msgstr ""
 
-msgctxt "Facebook API settings"
 msgid "Facebook API settings"
 msgstr ""
 
-msgctxt "Feature icons"
 msgid "Feature icons"
 msgstr ""
 
-msgctxt "Features"
 msgid "Features"
 msgstr "功能"
 
-msgctxt "Features Access Settings"
 msgid "Features Access Settings"
 msgstr ""
 
-msgctxt ""
-"Fetching data from Facebook and creating your features. It can take a while, "
-"be patient!"
 msgid ""
 "Fetching data from Facebook and creating your features. It can take a while, "
 "be patient!"
 msgstr ""
 
-msgctxt "Fidelity points"
 msgid "Fidelity points"
 msgstr ""
 
-msgctxt "Fidelity points rate"
 msgid "Fidelity points rate"
 msgstr ""
 
-msgctxt "Filter"
 msgid "Filter"
 msgstr ""
 
-msgctxt "Finance"
 msgid "Finance"
 msgstr ""
 
-msgctxt "Fixed: pixels"
 msgid "Fixed: pixels"
 msgstr ""
 
-msgctxt "Flickr API key"
 msgid "Flickr API key"
 msgstr ""
 
-msgctxt "Flickr API secret"
 msgid "Flickr API secret"
 msgstr ""
 
-msgctxt "Flickr API settings"
 msgid "Flickr API settings"
 msgstr ""
 
-msgctxt "Font-size"
 msgid "Font-size"
 msgstr ""
 
-msgctxt "Food & Drink"
 msgid "Food & Drink"
 msgstr ""
 
-msgctxt "Form has the following errors"
 msgid "Form has the following errors"
 msgstr ""
 
-msgctxt "Fred W."
 msgid "Fred W."
 msgstr "弗雷德W."
 
-msgctxt "Free until %s"
 msgid "Free until %s"
 msgstr ""
 
-msgctxt "Front"
 msgid "Front"
 msgstr ""
 
-msgctxt "Games"
 msgid "Games"
 msgstr ""
 
-msgctxt "General Information"
 msgid "General Information"
 msgstr "一般信息"
 
-msgctxt "General Settings"
 msgid "General Settings"
 msgstr ""
 
-msgctxt "General information"
 msgid "General information"
 msgstr "一般信息"
 
-msgctxt "Generate"
 msgid "Generate"
 msgstr ""
 
-msgctxt "Generate APK"
 msgid "Generate APK"
 msgstr ""
 
-msgctxt "Generate Android APK"
 msgid "Generate Android APK"
 msgstr ""
 
-msgctxt "Generate analytics for given period"
 msgid "Generate analytics for given period"
 msgstr ""
 
-msgctxt "Generate analytics for the current day"
 msgid "Generate analytics for the current day"
 msgstr ""
 
-msgctxt "Generate and Publish"
 msgid "Generate and Publish"
 msgstr ""
 
-msgctxt "Generate and publish iOS Application"
 msgid "Generate and publish iOS Application"
 msgstr ""
 
-msgctxt "Generate builds"
 msgid "Generate builds"
 msgstr ""
 
-msgctxt "Generate source"
 msgid "Generate source"
 msgstr ""
 
-msgctxt "Generate the source code"
 msgid "Generate the source code"
 msgstr ""
 
-msgctxt "Generation cancelled."
 msgid "Generation cancelled."
 msgstr ""
 
-msgctxt "Generation successfully queued."
 msgid "Generation successfully queued."
 msgstr ""
 
-msgctxt "Global visits"
 msgid "Global visits"
 msgstr "全球意见"
 
-msgctxt "Go to first images on loop"
 msgid "Go to first images on loop"
 msgstr ""
 
-msgctxt "Google Maps JavaScript API Key"
 msgid "Google Maps JavaScript API Key"
 msgstr ""
 
-msgctxt "Google Play Icon"
 msgid "Google Play Icon"
 msgstr "图标谷歌播放"
 
-msgctxt "Google's Information"
 msgid "Google's Information"
 msgstr "谷歌信息"
 
-msgctxt "Header"
 msgid "Header"
 msgstr ""
 
-msgctxt "Health & Fitness"
 msgid "Health & Fitness"
 msgstr ""
 
-msgctxt "Here is our latest creation. What do you think?"
 msgid "Here is our latest creation. What do you think?"
 msgstr "这是我们的最新创作。你有什么感想？"
 
-msgctxt "Hidden"
 msgid "Hidden"
 msgstr ""
 
-msgctxt "Hide Android status bar"
 msgid "Hide Android status bar"
 msgstr ""
 
-msgctxt "Hide iOS status bar"
 msgid "Hide iOS status bar"
 msgstr ""
 
-msgctxt "Homepage preview"
 msgid "Homepage preview"
 msgstr "预览页面"
 
-msgctxt "Homepage slider options"
 msgid "Homepage slider options"
 msgstr ""
 
-msgctxt "I don't have a Google developer account and I want to create one"
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "不要有一个帐户谷歌开发者和想创建一个"
 
-msgctxt "I don't have an Apple developer account and I want to create one"
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "我没有苹果的开发者账户，并希望创建一个"
 
-msgctxt "I have an Apple developer account"
 msgid "I have an Apple developer account"
 msgstr "我有一个苹果开发者账户"
 
-msgctxt "I have an Google developer account"
 msgid "I have an Google developer account"
 msgstr "我有一个开发者账户谷歌"
 
-msgctxt "I let you publish my application under your Apple developer account"
 msgid "I let you publish my application under your Apple developer account"
 msgstr "我让我的应用程序被发布在苹果开发者账户"
 
-msgctxt "I let you publish my application under your Google developer account"
 msgid "I let you publish my application under your Google developer account"
 msgstr "我让我的应用程序在你的开发者帐户谷歌公布"
 
-msgctxt "Icon"
 msgid "Icon"
 msgstr "图标"
 
-msgctxt "Icons"
 msgid "Icons"
 msgstr "图标"
 
-msgctxt "Icons & Images"
 msgid "Icons & Images"
 msgstr ""
 
-msgctxt "Id"
 msgid "Id"
 msgstr "ID"
 
-msgctxt "If a feature is not listed, it yet can't be exported."
 msgid "If a feature is not listed, it yet can't be exported."
 msgstr ""
 
-msgctxt ""
-"If you decide to change the slider size, all images will be dropped. Are you "
-"sure ?"
 msgid ""
 "If you decide to change the slider size, all images will be dropped. Are you "
 "sure ?"
 msgstr ""
 
-msgctxt ""
-"If you validate, your app's colors and background image will be replaced"
 msgid ""
 "If you validate, your app's colors and background image will be replaced"
 msgstr "您的应用程序，如果确认，将被替换壁纸的颜色和"
 
-msgctxt ""
-"If you want to change the push icon, you <b>must re-publish</b> the "
-"application"
 msgid ""
 "If you want to change the push icon, you <b>must re-publish</b> the "
 "application"
 msgstr ""
 
-msgctxt ""
-"If your app is already published, changing the URL key or domain will break "
-"it. You will have to republish it. Change it anyway?"
 msgid ""
 "If your app is already published, changing the URL key or domain will break "
 "it. You will have to republish it. Change it anyway?"
 msgstr ""
 
-msgctxt ""
-"If your app is already published, changing the domain will break it. You "
-"will have to republish it. Change it anyway?"
 msgid ""
 "If your app is already published, changing the domain will break it. You "
 "will have to republish it. Change it anyway?"
 msgstr ""
 
-msgctxt ""
-"If your app is already published on the stores, be sure you have sent an "
-"update with the Ionic version, and that this update has already been "
-"accepted, otherwise your app may be broken."
 msgid ""
 "If your app is already published on the stores, be sure you have sent an "
 "update with the Ionic version, and that this update has already been "
 "accepted, otherwise your app may be broken."
 msgstr ""
 
-msgctxt ""
-"If your messages do not comply with App Store Review Guidelines, %s, your "
-"app might be possibly refused after Apple's review."
 msgid ""
 "If your messages do not comply with App Store Review Guidelines, %s, your "
 "app might be possibly refused after Apple's review."
 msgstr ""
 
-msgctxt "Image size"
 msgid "Image size"
 msgstr ""
 
-msgctxt "Images"
 msgid "Images"
 msgstr "意象"
 
-msgctxt "Images height"
 msgid "Images height"
 msgstr ""
 
-msgctxt "Import / Export"
 msgid "Import / Export"
 msgstr ""
 
-msgctxt "Import an application template or a single feature."
 msgid "Import an application template or a single feature."
 msgstr ""
 
-msgctxt "Import features from Facebook"
 msgid "Import features from Facebook"
 msgstr ""
 
-msgctxt "Import zip or yml"
 msgid "Import zip or yml"
 msgstr ""
 
-msgctxt "Imported features"
 msgid "Imported features"
 msgstr ""
 
-msgctxt ""
-"In case you have a main domain containing numbers you can change here the "
-"base for your App identifiers."
 msgid ""
 "In case you have a main domain containing numbers you can change here the "
 "base for your App identifiers."
 msgstr ""
 
-msgctxt ""
-"In order to help you start your application, we can retrieve some data from "
-"Facebook."
 msgid ""
 "In order to help you start your application, we can retrieve some data from "
 "Facebook."
 msgstr ""
 
-msgctxt ""
-"In order to insert a promote banner for your application on your site, "
-"please follow those steps:"
 msgid ""
 "In order to insert a promote banner for your application on your site, "
 "please follow those steps:"
 msgstr ""
 
-msgctxt "In-App Messages"
 msgid "In-App Messages"
 msgstr ""
 
-msgctxt "In-app links"
 msgid "In-app links"
 msgstr ""
 
-msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "信息保存成功"
 
-msgctxt "Input your SCSS here, save to validate & preview"
 msgid "Input your SCSS here, save to validate & preview"
 msgstr ""
 
-msgctxt "Insert"
 msgid "Insert"
 msgstr "插入"
 
-msgctxt "Insert & close"
 msgid "Insert & close"
 msgstr ""
 
-msgctxt "Instagram API Keys"
 msgid "Instagram API Keys"
 msgstr ""
 
-msgctxt "Instagram API settings"
 msgid "Instagram API settings"
 msgstr ""
 
-msgctxt "Installed application"
 msgid "Installed application"
 msgstr "安装的应用程序"
 
-msgctxt "Installer"
 msgid "Installer"
 msgstr ""
 
-msgctxt "Integration"
 msgid "Integration"
 msgstr ""
 
-msgctxt "Invalid period, end date is before start date."
 msgid "Invalid period, end date is before start date."
 msgstr ""
 
-msgctxt "Invalid version"
 msgid "Invalid version"
 msgstr ""
 
-msgctxt "Job"
 msgid "Job"
 msgstr ""
 
-msgctxt "Key Password"
 msgid "Key Password"
 msgstr "密钥密码"
 
-msgctxt "Keywords"
 msgid "Keywords"
 msgstr "关键词"
 
-msgctxt "Label"
 msgid "Label"
 msgstr "标签"
 
-msgctxt "Landscape Left"
 msgid "Landscape Left"
 msgstr ""
 
-msgctxt "Landscape Right"
 msgid "Landscape Right"
 msgstr ""
 
-msgctxt "Language"
 msgid "Language"
 msgstr ""
 
-msgctxt "Languages"
 msgid "Languages"
 msgstr ""
 
-msgctxt "Last name:"
 msgid "Last name:"
 msgstr "姓："
 
-msgctxt "Latitude"
 msgid "Latitude"
 msgstr ""
 
-msgctxt "Layout options"
 msgid "Layout options"
 msgstr ""
 
-msgctxt "Left"
 msgid "Left"
 msgstr ""
 
-msgctxt "Left position"
 msgid "Left position"
 msgstr ""
 
-msgctxt "Library icons"
 msgid "Library icons"
 msgstr "图标库"
 
-msgctxt "License key"
 msgid "License key"
 msgstr ""
 
-msgctxt "Lifestyle"
 msgid "Lifestyle"
 msgstr ""
 
-msgctxt "Line-height"
 msgid "Line-height"
 msgstr ""
 
-msgctxt "List of my applications"
 msgid "List of my applications"
 msgstr "我的应用程序列表"
 
-msgctxt "List of your applications"
 msgid "List of your applications"
 msgstr "勾"
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "载入中"
 
-msgctxt "Lock the entire application"
 msgid "Lock the entire application"
 msgstr "阻止整个应用程序"
 
-msgctxt "Longitude"
 msgid "Longitude"
 msgstr ""
 
-msgctxt "Loop features"
 msgid "Loop features"
 msgstr ""
 
-msgctxt "Loop over images"
 msgid "Loop over images"
 msgstr ""
 
-msgctxt "Love it <3"
 msgid "Love it <3"
 msgstr "我喜欢 <3"
 
-msgctxt "Lower case"
 msgid "Lower case"
 msgstr ""
 
-msgctxt "LoyaltyCard"
 msgid "LoyaltyCard"
 msgstr ""
 
-msgctxt "Main"
 msgid "Main"
 msgstr "主"
 
-msgctxt "Manage Access"
 msgid "Manage Access"
 msgstr ""
 
-msgctxt "Manage Admins access feature by feature."
 msgid "Manage Admins access feature by feature."
 msgstr ""
 
-msgctxt "Manage Companies"
 msgid "Manage Companies"
 msgstr ""
 
-msgctxt "Manage icons"
 msgid "Manage icons"
 msgstr "管理图标"
 
-msgctxt "Manage your app's features"
 msgid "Manage your app's features"
 msgstr ""
 
-msgctxt "Mcommerce"
 msgid "Mcommerce"
 msgstr ""
 
-msgctxt "Media"
 msgid "Media"
 msgstr "媒体"
 
-msgctxt "Medical"
 msgid "Medical"
 msgstr ""
 
-msgctxt "Menu-position"
 msgid "Menu-position"
 msgstr ""
 
-msgctxt "Message"
 msgid "Message"
 msgstr "信息"
 
-msgctxt "Message for both the two previous usages."
 msgid "Message for both the two previous usages."
 msgstr ""
 
-msgctxt "Misc"
 msgid "Misc"
 msgstr "女士."
 
-msgctxt "Missing Information"
 msgid "Missing Information"
 msgstr "缺少信息"
 
-msgctxt "Missing parameters for cancellation."
 msgid "Missing parameters for cancellation."
 msgstr ""
 
-msgctxt "Mobile Source Codes"
 msgid "Mobile Source Codes"
 msgstr "移动源代码"
 
-msgctxt "Mobile source codes"
 msgid "Mobile source codes"
 msgstr "移动源代码"
 
-msgctxt "Mobile website information"
 msgid "Mobile website information"
 msgstr "信息的手机网站"
 
-msgctxt "Monetization"
 msgid "Monetization"
 msgstr ""
 
-msgctxt "Monetize my app using AdMob?"
 msgid "Monetize my app using AdMob?"
 msgstr ""
 
-msgctxt "Monetize your app"
 msgid "Monetize your app"
 msgstr ""
 
-msgctxt "My Invoices"
 msgid "My Invoices"
 msgstr "我的发票"
 
-msgctxt "My QRCode"
 msgid "My QRCode"
 msgstr "我的QRCode的"
 
-msgctxt "My application in figures"
 msgid "My application in figures"
 msgstr "我的数字应用程序"
 
-msgctxt "Name"
 msgid "Name"
 msgstr "名字"
 
-msgctxt "Navigation"
 msgid "Navigation"
 msgstr ""
 
-msgctxt "News"
 msgid "News"
 msgstr "新"
 
-msgctxt "Next"
 msgid "Next"
 msgstr "下一个"
 
-msgctxt "No"
 msgid "No"
 msgstr "别"
 
-msgctxt "No Facebook page? You can"
 msgid "No Facebook page? You can"
 msgstr ""
 
-msgctxt "No account for now."
 msgid "No account for now."
 msgstr ""
 
-msgctxt "No data found"
 msgid "No data found"
 msgstr "没有歌曲发现"
 
-msgctxt "No features available for this application."
 msgid "No features available for this application."
 msgstr ""
 
-msgctxt "No message sent, there is no available applications."
 msgid "No message sent, there is no available applications."
 msgstr ""
 
-msgctxt "No options available."
 msgid "No options available."
 msgstr ""
 
-msgctxt "Not available offline."
 msgid "Not available offline."
 msgstr ""
 
-msgctxt ""
-"Note that if you want to add ads later, you will have to publish the app "
-"again."
 msgid ""
 "Note that if you want to add ads later, you will have to publish the app "
 "again."
 msgstr ""
 
-msgctxt "Nothing to show for now."
 msgid "Nothing to show for now."
 msgstr ""
 
-msgctxt "Notification center"
 msgid "Notification center"
 msgstr ""
 
-msgctxt "Off"
 msgid "Off"
 msgstr ""
 
-msgctxt "Offset"
 msgid "Offset"
 msgstr ""
 
-msgctxt "On!"
 msgid "On!"
 msgstr ""
 
-msgctxt "One free coffee"
 msgid "One free coffee"
 msgstr "免费咖啡"
 
-msgctxt "Option successfully saved"
 msgid "Option successfully saved"
 msgstr "为了成功保存"
 
-msgctxt "Options"
 msgid "Options"
 msgstr "选项"
 
-msgctxt "Options saved"
 msgid "Options saved"
 msgstr ""
 
-msgctxt "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgid "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgstr ""
 
-msgctxt "Order places"
 msgid "Order places"
 msgstr ""
 
-msgctxt "Order places by distance:"
 msgid "Order places by distance:"
 msgstr ""
 
-msgctxt "Order results alphebetically:"
 msgid "Order results alphebetically:"
 msgstr ""
 
-msgctxt "Orientations saved!"
 msgid "Orientations saved!"
 msgstr ""
 
-msgctxt "Other"
 msgid "Other"
 msgstr ""
 
-msgctxt "Package Name"
 msgid "Package Name"
 msgstr ""
 
-msgctxt "Page name:"
 msgid "Page name:"
 msgstr "页面名称："
 
-msgctxt "Partially available offline."
 msgid "Partially available offline."
 msgstr ""
 
-msgctxt "Percentage of returning customers"
 msgid "Percentage of returning customers"
 msgstr "谁返回客户的百分比"
 
-msgctxt "Period to long, please select less than one month."
 msgid "Period to long, please select less than one month."
 msgstr ""
 
-msgctxt ""
-"Permissions Modal Alerts messages describe why your apps requires some "
-"permissions,"
 msgid ""
 "Permissions Modal Alerts messages describe why your apps requires some "
 "permissions,"
 msgstr ""
 
-msgctxt "Photo & Video"
 msgid "Photo & Video"
 msgstr ""
 
-msgctxt "Places"
 msgid "Places"
 msgstr "地方"
 
-msgctxt ""
-"Please check your messages before sending your app to be published, "
-"specifically if you are using iOS Auto publish service: if your app is "
-"refused after review, one build will be consumed."
 msgid ""
 "Please check your messages before sending your app to be published, "
 "specifically if you are using iOS Auto publish service: if your app is "
 "refused after review, one build will be consumed."
 msgstr ""
 
-msgctxt "Please enter a correct URL for the %s store"
 msgid "Please enter a correct URL for the %s store"
 msgstr "请输入正确的网址仓库％S"
 
-msgctxt "Please enter a number for the duration."
 msgid "Please enter a number for the duration."
 msgstr ""
 
-msgctxt "Please enter a subdomain."
 msgid "Please enter a subdomain."
 msgstr "请输入一个子域。"
 
-msgctxt "Please enter a valid URL"
 msgid "Please enter a valid URL"
 msgstr "请输入有效的URL"
 
-msgctxt "Please enter a valid address"
 msgid "Please enter a valid address"
 msgstr "请输入一个有效的地址"
 
-msgctxt "Please enter a valid mobile website address."
 msgid "Please enter a valid mobile website address."
 msgstr "请输入有效的移动网站。"
 
-msgctxt "Please fill iTunes Connect Identifier."
 msgid "Please fill iTunes Connect Identifier."
 msgstr ""
 
-msgctxt ""
-"Please note that AAC+ streams aren't managed yet on Firefox browser, but it "
-"will work well in the app."
 msgid ""
 "Please note that AAC+ streams aren't managed yet on Firefox browser, but it "
 "will work well in the app."
 msgstr ""
 
-msgctxt "Please select at least one language."
 msgid "Please select at least one language."
 msgstr ""
 
-msgctxt "Please wait while we generate application source."
 msgid "Please wait while we generate application source."
 msgstr ""
 
-msgctxt "Port"
 msgid "Port"
 msgstr ""
 
-msgctxt "Portrait"
 msgid "Portrait"
 msgstr ""
 
-msgctxt "Preset"
 msgid "Preset"
 msgstr ""
 
-msgctxt "Preview"
 msgid "Preview"
 msgstr "预览"
 
-msgctxt "Preview and test your native apps directly on your mobile."
 msgid "Preview and test your native apps directly on your mobile."
 msgstr ""
 
-msgctxt "Preview on your phone"
 msgid "Preview on your phone"
 msgstr ""
 
-msgctxt "Privacy policy URL"
 msgid "Privacy policy URL"
 msgstr "隐私政策"
 
-msgctxt "Proceed to checkout before downloading the source code."
 msgid "Proceed to checkout before downloading the source code."
 msgstr ""
 
-msgctxt "Productivity"
 msgid "Productivity"
 msgstr ""
 
-msgctxt "Promote"
 msgid "Promote"
 msgstr "促进"
 
-msgctxt "Promote your app!"
 msgid "Promote your app!"
 msgstr ""
 
-msgctxt "Promotion"
 msgid "Promotion"
 msgstr ""
 
-msgctxt "Publication"
 msgid "Publication"
 msgstr "发布"
 
-msgctxt "Publish automatically to iTunes Connect"
 msgid "Publish automatically to iTunes Connect"
 msgstr ""
 
-msgctxt "Publish the application"
 msgid "Publish the application"
 msgstr "发布应用程序"
 
-msgctxt "Publish under our account"
 msgid "Publish under our account"
 msgstr "张贴在我们自己"
 
-msgctxt "QR Coupons"
 msgid "QR Coupons"
 msgstr ""
 
-msgctxt "Ready ? Publish my app!"
 msgid "Ready ? Publish my app!"
 msgstr "准备好了吗？发表我的应用程序！"
 
-msgctxt "Recommended size:"
 msgid "Recommended size:"
 msgstr ""
 
-msgctxt "Reference"
 msgid "Reference"
 msgstr ""
 
-msgctxt "Remaining build"
 msgid "Remaining build"
 msgstr ""
 
-msgctxt "Remaining builds"
 msgid "Remaining builds"
 msgstr ""
 
-msgctxt "Remove this page from this folder?"
 msgid "Remove this page from this folder?"
 msgstr "从这个文件夹中删除此页面？"
 
-msgctxt "Reset"
 msgid "Reset"
 msgstr ""
 
-msgctxt "Return to current feature"
 msgid "Return to current feature"
 msgstr ""
 
-msgctxt "Right"
 msgid "Right"
 msgstr ""
 
-msgctxt "Right position"
 msgid "Right position"
 msgstr ""
 
-msgctxt "Rss"
 msgid "Rss"
 msgstr ""
 
-msgctxt "SMTP Configuration"
 msgid "SMTP Configuration"
 msgstr ""
 
-msgctxt "SSL"
 msgid "SSL"
 msgstr ""
 
-msgctxt "Save"
 msgid "Save"
 msgstr "保存"
 
-msgctxt "Save publication settings"
 msgid "Save publication settings"
 msgstr ""
 
-msgctxt "Scan this QR Code"
 msgid "Scan this QR Code"
 msgstr ""
 
-msgctxt "Search by keywords ..."
 msgid "Search by keywords ..."
 msgstr ""
 
-msgctxt "Search filters & Options"
 msgid "Search filters & Options"
 msgstr ""
 
-msgctxt "Search radius"
 msgid "Search radius"
 msgstr ""
 
-msgctxt "Search settings"
 msgid "Search settings"
 msgstr ""
 
-msgctxt "Secondary category"
 msgid "Secondary category"
 msgstr "子类别"
 
-msgctxt "Secondary category<br />(Optional)"
 msgid "Secondary category<br />(Optional)"
 msgstr "二级类别<br />（可选）"
 
-msgctxt "Secret Key"
 msgid "Secret Key"
 msgstr ""
 
-msgctxt ""
-"Send here your iOS certificate to enable the push notifications for this "
-"application."
 msgid ""
 "Send here your iOS certificate to enable the push notifications for this "
 "application."
 msgstr "发送您的证书的iOS在这里，使这个应用程序推送通知。"
 
-msgctxt "Send request"
 msgid "Send request"
 msgstr ""
 
-msgctxt "Send you .pem certificate"
 msgid "Send you .pem certificate"
 msgstr "送你的.pem证书"
 
-msgctxt "Sender name/e-mail"
 msgid "Sender name/e-mail"
 msgstr ""
 
-msgctxt "Sender name/e-mail & Custom SMTP"
 msgid "Sender name/e-mail & Custom SMTP"
 msgstr ""
 
-msgctxt "Server"
 msgid "Server"
 msgstr ""
 
-msgctxt "Show"
 msgid "Show"
 msgstr ""
 
-msgctxt "Show the applications waiting for publication only."
 msgid "Show the applications waiting for publication only."
 msgstr "显示应用程序，只希望出版。"
 
-msgctxt "Sidebar width"
 msgid "Sidebar width"
 msgstr ""
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr ""
 
-msgctxt "Slider height"
 msgid "Slider height"
 msgstr ""
 
-msgctxt "Slider images duration, in seconds:"
 msgid "Slider images duration, in seconds:"
 msgstr ""
 
-msgctxt "Slideshow duration"
 msgid "Slideshow duration"
 msgstr ""
 
-msgctxt "Social"
 msgid "Social"
 msgstr ""
 
-msgctxt "Social Networking"
 msgid "Social Networking"
 msgstr ""
 
-msgctxt "Social Sharing"
 msgid "Social Sharing"
 msgstr ""
 
-msgctxt "Socialgaming"
 msgid "Socialgaming"
 msgstr ""
 
-msgctxt ""
-"Sorry, an error occurred while fetching data from Facebook. Please contact "
-"an admin."
 msgid ""
 "Sorry, an error occurred while fetching data from Facebook. Please contact "
 "an admin."
 msgstr ""
 
-msgctxt ""
-"Sorry, it seems that Facebook credentials are invalid. Please contact an "
-"administrator."
 msgid ""
 "Sorry, it seems that Facebook credentials are invalid. Please contact an "
 "administrator."
 msgstr ""
 
-msgctxt ""
-"Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgid ""
 "Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgstr ""
 
-msgctxt "Sorry, we need a page id."
 msgid "Sorry, we need a page id."
 msgstr ""
 
-msgctxt "Source type"
 msgid "Source type"
 msgstr "代码"
 
-msgctxt "Sourcecode"
 msgid "Sourcecode"
 msgstr ""
 
-msgctxt "Specifies the reason for your app to access the device's accelerometer."
 msgid "Specifies the reason for your app to access the device's accelerometer."
 msgstr ""
 
-msgctxt "Specifies the reason for your app to access the device's camera."
 msgid "Specifies the reason for your app to access the device's camera."
 msgstr ""
 
-msgctxt ""
-"Specifies the reason for your app to access the user's location information "
-"at all times."
 msgid ""
 "Specifies the reason for your app to access the user's location information "
 "at all times."
 msgstr ""
 
-msgctxt "Specifies the reason for your app to access the user's photo library."
 msgid "Specifies the reason for your app to access the user's photo library."
 msgstr ""
 
-msgctxt ""
-"Specifies the reason for your app to access the user’s location information "
-"while your app is in use."
 msgid ""
 "Specifies the reason for your app to access the user’s location information "
 "while your app is in use."
 msgstr ""
 
-msgctxt "Sports"
 msgid "Sports"
 msgstr ""
 
-msgctxt "Square icons"
 msgid "Square icons"
 msgstr ""
 
-msgctxt "Startup image"
 msgid "Startup image"
 msgstr "开机画面"
 
-msgctxt "Status"
 msgid "Status"
 msgstr "状态"
 
-msgctxt "Status bar"
 msgid "Status bar"
 msgstr ""
 
-msgctxt "Store App ID"
 msgid "Store App ID"
 msgstr ""
 
-msgctxt "Store Password"
 msgid "Store Password"
 msgstr "存储密码"
 
-msgctxt "Store URL"
 msgid "Store URL"
 msgstr "商店网址"
 
-msgctxt "Stores Info"
 msgid "Stores Info"
 msgstr "购物信息"
 
-msgctxt "Stores URL"
 msgid "Stores URL"
 msgstr "商店网址"
 
-msgctxt "Stretch"
 msgid "Stretch"
 msgstr ""
 
-msgctxt "Subheader"
 msgid "Subheader"
 msgstr ""
 
-msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr ""
 
-msgctxt "Success."
 msgid "Success."
 msgstr ""
 
-msgctxt "System"
 msgid "System"
 msgstr ""
 
-msgctxt "Tabbar"
 msgid "Tabbar"
 msgstr ""
 
-msgctxt "Tags"
 msgid "Tags"
 msgstr ""
 
-msgctxt "Tags separated by commas"
 msgid "Tags separated by commas"
 msgstr ""
 
-msgctxt "Template"
 msgid "Template"
 msgstr ""
 
-msgctxt "Template description"
 msgid "Template description"
 msgstr "说明"
 
-msgctxt "Template name"
 msgid "Template name"
 msgstr ""
 
-msgctxt "Template preview"
 msgid "Template preview"
 msgstr ""
 
-msgctxt "Template version"
 msgid "Template version"
 msgstr ""
 
-msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr ""
 
-msgctxt "The Bundle Id is required"
 msgid "The Bundle Id is required"
 msgstr "包ID所需"
 
-msgctxt "The QR Code is not available at this moment"
 msgid "The QR Code is not available at this moment"
 msgstr "QR码是在这个时候不可用"
 
-msgctxt "The White-label you are trying to edit doesn't exists."
 msgid "The White-label you are trying to edit doesn't exists."
 msgstr ""
 
-msgctxt "The application has been successfully saved"
 msgid "The application has been successfully saved"
 msgstr "该应用程序已成功保存"
 
-msgctxt "The application name"
 msgid "The application name"
 msgstr "该应用程序的名称"
 
-msgctxt "The application's name cannot start with a number"
 msgid "The application's name cannot start with a number"
 msgstr "该应用程序的名称不能以数字开头"
 
-msgctxt "The bundle id"
 msgid "The bundle id"
 msgstr ""
 
-msgctxt "The description"
 msgid "The description"
 msgstr "说明"
 
-msgctxt "The description must be at least 200 characters"
 msgid "The description must be at least 200 characters"
 msgstr "说明必须至少有200个字符"
 
-msgctxt "The desktop icon"
 msgid "The desktop icon"
 msgstr "桌面图标"
 
-msgctxt ""
-"The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgid ""
 "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr "进入包ID是不正确，应该是这样的： com.siberiancms.app"
 
-msgctxt "The field is required"
 msgid "The field is required"
 msgstr "它要求该字段"
 
-msgctxt "The file has been successfully uploaded"
 msgid "The file has been successfully uploaded"
 msgstr "该文件已成功上传"
 
-msgctxt ""
-"The following information are needed to download the source codes:<br />"
 msgid ""
 "The following information are needed to download the source codes:<br />"
 msgstr "以下信息需要下载的源代码：<br />"
 
-msgctxt "The homepage image"
 msgid "The homepage image"
 msgstr "主页的图像"
 
-msgctxt "The key cannot be empty."
 msgid "The key cannot be empty."
 msgstr "关键不能为空。"
 
-msgctxt "The key is already used by another application."
 msgid "The key is already used by another application."
 msgstr "功能键已经由另一个应用程序。"
 
-msgctxt "The keywords"
 msgid "The keywords"
 msgstr "关键字"
 
-msgctxt "The main category"
 msgid "The main category"
 msgstr "主要类别"
 
-msgctxt "The startup image"
 msgid "The startup image"
 msgstr "开机画面"
 
-msgctxt "This application does not exist"
 msgid "This application does not exist"
 msgstr "本申请中不存在"
 
-msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr ""
 
-msgctxt "This application is visible on the front"
 msgid "This application is visible on the front"
 msgstr "本申请是在前面可见"
 
-msgctxt "This key is already used by system features."
 msgid "This key is already used by system features."
 msgstr ""
 
-msgctxt "This option enables you to set the currency used in your app"
 msgid "This option enables you to set the currency used in your app"
 msgstr "此选项允许您设置应用程序中使用的货币"
 
-msgctxt ""
-"This page will be displayed to mobile users to enable them to login and "
-"manage their account. It is automatically added when you use features which "
-"need user login."
 msgid ""
 "This page will be displayed to mobile users to enable them to login and "
 "manage their account. It is automatically added when you use features which "
 "need user login."
 msgstr "该页面显示移动用户，使他们能够访问和管理自己的帐户。当你使用需要用户登录功能，它会自动添加。"
 
-msgctxt "This user can add pages to this application."
 msgid "This user can add pages to this application."
 msgstr ""
 
-msgctxt "Tip"
 msgid "Tip"
 msgstr ""
 
-msgctxt "Tips calculator"
 msgid "Tips calculator"
 msgstr ""
 
-msgctxt "Title"
 msgid "Title"
 msgstr "称号"
 
-msgctxt "Title case"
 msgid "Title case"
 msgstr ""
 
-msgctxt "Title position"
 msgid "Title position"
 msgstr ""
 
-msgctxt "Titles"
 msgid "Titles"
 msgstr "证券"
 
-msgctxt ""
-"To be able to download source codes, please provide the following "
-"information:<br />"
 msgid ""
 "To be able to download source codes, please provide the following "
 "information:<br />"
 msgstr "下载源代码，请按照下列指示：<br />"
 
-msgctxt "Top"
 msgid "Top"
 msgstr ""
 
-msgctxt "Topic"
 msgid "Topic"
 msgstr ""
 
-msgctxt "Translation"
 msgid "Translation"
 msgstr ""
 
-msgctxt "Transparent"
 msgid "Transparent"
 msgstr ""
 
-msgctxt "Travel"
 msgid "Travel"
 msgstr ""
 
-msgctxt "Twitter API Keys"
 msgid "Twitter API Keys"
 msgstr ""
 
-msgctxt "Twitter API secret"
 msgid "Twitter API secret"
 msgstr ""
 
-msgctxt "Twitter API settings"
 msgid "Twitter API settings"
 msgstr ""
 
-msgctxt "Twitter API token"
 msgid "Twitter API token"
 msgstr ""
 
-msgctxt "Twitter consumer key"
 msgid "Twitter consumer key"
 msgstr ""
 
-msgctxt "Twitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr ""
 
-msgctxt "Type"
 msgid "Type"
 msgstr "类型"
 
-msgctxt "UP"
 msgid "UP"
 msgstr ""
 
-msgctxt "URL"
 msgid "URL"
 msgstr "URL"
 
-msgctxt "URL Key"
 msgid "URL Key"
 msgstr "关键的URL"
 
-msgctxt "Upload icon"
 msgid "Upload icon"
 msgstr ""
 
-msgctxt "Upload image"
 msgid "Upload image"
 msgstr ""
 
-msgctxt "Upper case"
 msgid "Upper case"
 msgstr ""
 
-msgctxt "Upside Down"
 msgid "Upside Down"
 msgstr ""
 
-msgctxt "Use Owner AdMob"
 msgid "Use Owner AdMob"
 msgstr ""
 
-msgctxt "Use ads for platform owner"
 msgid "Use ads for platform owner"
 msgstr ""
 
-msgctxt "Use background into all of your application's pages"
 msgid "Use background into all of your application's pages"
 msgstr "使用应用程序的所有网页上"
 
-msgctxt "Use into all of your application's pages"
 msgid "Use into all of your application's pages"
 msgstr "使用应用程序的所有网页上"
 
-msgctxt "Used points"
 msgid "Used points"
 msgstr "二手点"
 
-msgctxt "User:"
 msgid "User:"
 msgstr "用户"
 
-msgctxt "User Information"
 msgid "User Information"
 msgstr "用户信息"
 
-msgctxt "Utilities"
 msgid "Utilities"
 msgstr ""
 
-msgctxt "Version"
 msgid "Version"
 msgstr "版本"
 
-msgctxt "Video"
 msgid "Video"
 msgstr "视频"
 
-msgctxt "Visible"
 msgid "Visible"
 msgstr ""
 
-msgctxt "Visible from all pages"
 msgid "Visible from all pages"
 msgstr ""
 
-msgctxt "Visible from all the application's pages (removes the homepage)"
 msgid "Visible from all the application's pages (removes the homepage)"
 msgstr ""
 
-msgctxt ""
-"We are sorry but this application has been deactivated and may not be re-"
-"activated."
 msgid ""
 "We are sorry but this application has been deactivated and may not be re-"
 "activated."
 msgstr ""
 
-msgctxt "Weather"
 msgid "Weather"
 msgstr ""
 
-msgctxt "Weblink"
 msgid "Weblink"
 msgstr ""
 
-msgctxt "White Label Editor Settings"
 msgid "White Label Editor Settings"
 msgstr ""
 
-msgctxt "Width"
 msgid "Width"
 msgstr ""
 
-msgctxt "With ads functionality"
 msgid "With ads functionality"
 msgstr ""
 
-msgctxt "With background audio playing"
 msgid "With background audio playing"
 msgstr ""
 
-msgctxt "With background geolocation"
 msgid "With background geolocation"
 msgstr ""
 
-msgctxt "With options"
 msgid "With options"
 msgstr ""
 
-msgctxt "Yes"
 msgid "Yes"
 msgstr "是的"
 
-msgctxt "You already have sent a certificate."
 msgid "You already have sent a certificate."
 msgstr "您已发送的证书。"
 
-msgctxt ""
-"You already sent a request, please wait 3 days from your previous request to "
-"retry."
 msgid ""
 "You already sent a request, please wait 3 days from your previous request to "
 "retry."
 msgstr ""
 
-msgctxt ""
-"You can add or change license in (<strong>Settings / General</strong>).<br/"
-"><em>note: builds are only consumed if they're successful.</em>"
 msgid ""
 "You can add or change license in (<strong>Settings / General</strong>).<br/"
 "><em>note: builds are only consumed if they're successful.</em>"
 msgstr ""
 
-msgctxt "You can use <b>%s</b> as variable for your application name."
 msgid "You can use <b>%s</b> as variable for your application name."
 msgstr ""
 
-msgctxt ""
-"You cannot have multiple sessions to manage apps, so the session for this "
-"app is closed. This page is about to be reloaded."
 msgid ""
 "You cannot have multiple sessions to manage apps, so the session for this "
 "app is closed. This page is about to be reloaded."
 msgstr ""
 
-msgctxt "You can't go back to Angular design."
 msgid "You can't go back to Angular design."
 msgstr ""
 
-msgctxt "You can't use this domain."
 msgid "You can't use this domain."
 msgstr ""
 
-msgctxt "You don't have any applications yet"
 msgid "You don't have any applications yet"
 msgstr "你有没有应用程序还"
 
-msgctxt "You have already sent a certificate"
 msgid "You have already sent a certificate"
 msgstr "您已发送证书"
 
-msgctxt "You have sent a certificate."
 msgid "You have sent a certificate."
 msgstr "您发送了证书。"
 
-msgctxt ""
-"You have to purchase the application before downloading the mobile source "
-"code."
 msgid ""
 "You have to purchase the application before downloading the mobile source "
 "code."
 msgstr ""
 
-msgctxt "You haven't chosen any template yet"
 msgid "You haven't chosen any template yet"
 msgstr "它尚未选择一个模板"
 
-msgctxt "You may not delete a library icon"
 msgid "You may not delete a library icon"
 msgstr "你无法删除的图标库"
 
-msgctxt "You must choose an ads type"
 msgid "You must choose an ads type"
 msgstr ""
 
-msgctxt "You must have published your application to access this feature"
 msgid "You must have published your application to access this feature"
 msgstr "你应该已经张贴你的要求来访问此功能"
 
-msgctxt "You must select at least one orientation for iPad!"
 msgid "You must select at least one orientation for iPad!"
 msgstr ""
 
-msgctxt "You must select at least one orientation for iPhone!"
 msgid "You must select at least one orientation for iPhone!"
 msgstr ""
 
-msgctxt "Your CNAME is not properly set"
 msgid "Your CNAME is not properly set"
 msgstr "您的CNAME配置是否正确"
 
-msgctxt "Your CNAME is properly set"
 msgid "Your CNAME is properly set"
 msgstr "您的CNAME配置是否正确"
 
-msgctxt ""
-"Your administrator is using a custom smtp provider, if you don't want to use "
-"your own SMTP provider, you are invited to send a whitelist request via the "
-"button below"
 msgid ""
 "Your administrator is using a custom smtp provider, if you don't want to use "
 "your own SMTP provider, you are invited to send a whitelist request via the "
 "button below"
 msgstr ""
 
-msgctxt "Your analytics has been computed."
 msgid "Your analytics has been computed."
 msgstr ""
 
-msgctxt "Your app will be published"
 msgid "Your app will be published"
 msgstr ""
 
-msgctxt "Your application in few numbers"
 msgid "Your application in few numbers"
 msgstr ""
 
-msgctxt "Your application is now switched to Ionic"
 msgid "Your application is now switched to Ionic"
 msgstr ""
 
-msgctxt "Your application is ready to be published."
 msgid "Your application is ready to be published."
 msgstr ""
 
-msgctxt "Your best customers"
 msgid "Your best customers"
 msgstr "你最好的客户"
 
-msgctxt "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgid "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgstr ""
 
-msgctxt "Your customers in figures"
 msgid "Your customers in figures"
 msgstr "其客户数据"
 
-msgctxt "Your customization has been applied to %s."
 msgid "Your customization has been applied to %s."
 msgstr ""
 
-msgctxt "Your customization has been applied to your white label panel."
 msgid "Your customization has been applied to your white label panel."
 msgstr ""
 
-msgctxt "Your design"
 msgid "Your design"
 msgstr ""
 
-msgctxt "Your iOS autobuild License Key"
 msgid "Your iOS autobuild License Key"
 msgstr ""
 
-msgctxt "Your mobile address should not contain special characters"
 msgid "Your mobile address should not contain special characters"
 msgstr "您的手机不应该包含特殊字符"
 
-msgctxt ""
-"Your package name is invalid, format should looks like com.mydomain.androidid"
 msgid ""
 "Your package name is invalid, format should looks like com.mydomain.androidid"
 msgstr ""
 
-msgctxt "Your pages"
 msgid "Your pages"
 msgstr "其网页"
 
-msgctxt "address"
 msgid "address"
 msgstr "街道地址"
 
-msgctxt "alphabetically"
 msgid "alphabetically"
 msgstr ""
 
-msgctxt ""
-"<b>Around you</b> option for the Overview & HTML5 will be displayed & work "
-"only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgid ""
 "<b>Around you</b> option for the Overview & HTML5 will be displayed & work "
 "only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgstr ""
 
-msgctxt "<b>File type:</b> %s"
 msgid "<b>File type:</b> %s"
 msgstr "<b>文件类型：</b>的％s"
 
-msgctxt ""
-"<b>Note: </b>Icon must be white with transparency, the crop window will "
-"colorize it otherwise"
 msgid ""
 "<b>Note: </b>Icon must be white with transparency, the crop window will "
 "colorize it otherwise"
 msgstr ""
 
-msgctxt ""
-"<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the "
-"cron interval can increase your server load, be careful."
 msgid ""
 "<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the "
 "cron interval can increase your server load, be careful."
 msgstr ""
 
-msgctxt ""
-"<b>Push image & Color</b> are dynamic and doesn't require the app to be re-"
-"published."
 msgid ""
 "<b>Push image & Color</b> are dynamic and doesn't require the app to be re-"
 "published."
 msgstr ""
 
-msgctxt "building"
 msgid "building"
 msgstr ""
 
-msgctxt "by distance"
 msgid "by distance"
 msgstr ""
 
-msgctxt "default, by creation date"
 msgid "default, by creation date"
 msgstr ""
 
-msgctxt "eBanner iOS price"
 msgid "eBanner iOS price"
 msgstr ""
 
-msgctxt "e.g: On %s"
 msgid "e.g: On %s"
 msgstr ""
 
-msgctxt "failed"
 msgid "failed"
 msgstr ""
 
-msgctxt "from"
 msgid "from"
 msgstr ""
 
-msgctxt "iOS"
 msgid "iOS"
 msgstr ""
 
-msgctxt "iOS Certificate"
 msgid "iOS Certificate"
 msgstr "证书的iOS"
 
-msgctxt "iPad Retina:"
 msgid "iPad Retina:"
 msgstr "iPad的视网膜："
 
-msgctxt "iPad orientation settings"
 msgid "iPad orientation settings"
 msgstr ""
 
-msgctxt "iPhone & iPad orientation"
 msgid "iPhone & iPad orientation"
 msgstr ""
 
-msgctxt "iPhone 5 / 5S:"
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S ："
 
-msgctxt "iPhone 6:"
 msgid "iPhone 6:"
 msgstr "iPhone 6 ："
 
-msgctxt "iPhone 6 Plus:"
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6加："
 
-msgctxt "iPhone Version"
 msgid "iPhone Version"
 msgstr "IPhone版本"
 
-msgctxt "iPhone Version (No Ads)"
 msgid "iPhone Version (No Ads)"
 msgstr ""
 
-msgctxt "iPhone orientation settings"
 msgid "iPhone orientation settings"
 msgstr ""
 
-msgctxt "iTunes Connect Login"
 msgid "iTunes Connect Login"
 msgstr ""
 
-msgctxt "iTunes Connect Password"
 msgid "iTunes Connect Password"
 msgstr ""
 
-msgctxt "icon"
 msgid "icon"
 msgstr "图标"
 
-msgctxt ""
-"like using the GPS or the camera. After the first installation of your app, "
-"those messages will be shown to the app user."
 msgid ""
 "like using the GPS or the camera. After the first installation of your app, "
 "those messages will be shown to the app user."
 msgstr ""
 
-msgctxt "logo"
 msgid "logo"
 msgstr "徽标"
 
-msgctxt "pending"
 msgid "pending"
 msgstr "坡"
 
-msgctxt "%s Text"
 msgid "%s Text"
 msgstr ""
 
-msgctxt "seconds"
 msgid "seconds"
 msgstr "秒"
 
-msgctxt "skip this step"
 msgid "skip this step"
 msgstr ""
 
-msgctxt "success"
 msgid "success"
 msgstr ""
 
-msgctxt "times"
 msgid "times"
 msgstr "时"
 
-msgctxt "to"
 msgid "to"
 msgstr ""
 
-msgctxt "with image"
 msgid "with image"
 msgstr ""
 
-msgctxt "without image"
 msgid "without image"
 msgstr ""

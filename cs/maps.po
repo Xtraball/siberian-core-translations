@@ -13,50 +13,38 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "About"
 msgid "About"
 msgstr "Trasa:"
 
-msgctxt "Address is mandatory."
 msgid "Address is mandatory."
 msgstr "Adresa je povinná"
 
-msgctxt "Destination address"
 msgid "Destination address"
 msgstr "Adresa"
 
-msgctxt "From:"
 msgid "From:"
 msgstr ""
 
-msgctxt "Hide itinerary steps"
 msgid "Hide itinerary steps"
 msgstr "Schovat jednotlivé kroky"
 
-msgctxt "Maps configuration"
 msgid "Maps configuration"
 msgstr "Nastavení mapy"
 
-msgctxt "Maps navigation"
 msgid "Maps navigation"
 msgstr "Navigace"
 
-msgctxt "More Information"
 msgid "More Information"
 msgstr "Více informací"
 
-msgctxt "See itinerary steps"
 msgid "See itinerary steps"
 msgstr "Zobrazit jednotlivé kroky"
 
-msgctxt "Sorry, the route cannot be calculated."
 msgid "Sorry, the route cannot be calculated."
 msgstr "Omlouváme se, trasu nelze vypočítat"
 
-msgctxt "To:"
 msgid "To:"
 msgstr ""
 
-msgctxt "Unit distance"
 msgid "Unit distance"
 msgstr ""

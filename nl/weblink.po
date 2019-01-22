@@ -14,96 +14,73 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Voeg een link toe"
 
-msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr ""
 "Er is een fout opgetreden bij het opslaan van uw pictogram. Probeert u het "
 "later nog een keer."
 
-msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Weet u zeker dat u deze link wilt verwijderen?"
 
-msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Weet u zeker dat u deze afbeelding wilt verwijderen?"
 
-msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr "Vul je Magento URL in"
 
-msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr "Vul je Prestaschop URL in"
 
-msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr "Vul je Shopify URL in"
 
-msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr "Vul je Volusion URL in"
 
-msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr "Vul je WhooCommerce URL in"
 
-msgctxt "Link"
 msgid "Link"
 msgstr "Link"
 
-msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "Link is succesvol verwijderd"
 
-msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "Link is succesvol opgeslagen"
 
-msgctxt "Magento"
 msgid "Magento"
 msgstr "magento"
 
-msgctxt "Picto"
 msgid "Picto"
 msgstr "picto"
 
-msgctxt "Prestashop"
 msgid "Prestashop"
 msgstr "prestashop"
 
-msgctxt "Shopify"
 msgid "Shopify"
 msgstr "shopify"
 
-msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "De afbeelding is met succes verwijderd"
 
-msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "De afbeelding is met succes bewaard"
 
-msgctxt "Use external application"
 msgid "Use external application"
 msgstr "Gebruik externe applicatie"
 
-msgctxt "Volusion"
 msgid "Volusion"
 msgstr "volusion"
 
-msgctxt "Without navbar"
 msgid "Without navbar"
 msgstr "Zonder navigatiebalk"
 
-msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr "wooCommerce"
 
-msgctxt "Your links"
 msgid "Your links"
 msgstr "Uw links"

@@ -15,69 +15,51 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Create a new language"
 msgid "Create a new language"
 msgstr "Создать новый языковой перевод"
 
-msgctxt "Default text"
 msgid "Default text"
 msgstr "Текст по умолчанию"
 
-msgctxt "Edit the language: %s"
 msgid "Edit the language: %s"
 msgstr "Изменить язык: %s"
 
-msgctxt "Language"
 msgid "Language"
 msgstr "Язык"
 
-msgctxt "Language successfully saved"
 msgid "Language successfully saved"
 msgstr "Перевод успешно сохранен"
 
-msgctxt "List of your languages"
 msgid "List of your languages"
 msgstr "Список ваших переводов"
 
-msgctxt "Please, choose a file."
 msgid "Please, choose a file."
 msgstr "Пожалуйста, выберите файл."
 
-msgctxt "Please, choose a language."
 msgid "Please, choose a language."
 msgstr "Пожалуйста, выберите язык."
 
-msgctxt "Select a file"
 msgid "Select a file"
 msgstr "Выберите файл"
 
-msgctxt "Select a language"
 msgid "Select a language"
 msgstr "Выберите язык"
 
-msgctxt "Text translation"
 msgid "Text translation"
 msgstr "Перевод текста"
 
-msgctxt "Translate all"
 msgid "Translate all"
 msgstr "Перевести все"
 
-msgctxt "Translate missing entries"
 msgid "Translate missing entries"
 msgstr "Перевести недостающие записи"
 
-msgctxt "Translate the 'e.g.' between parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr "Перевести\", например, \" только между скобками."
 
-msgctxt "Translation API is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr "API перевода не доступен для текущего языка."
 
-msgctxt ""
-"Warning: translation API is experimental for the current language and may "
-"fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
@@ -85,6 +67,5 @@ msgstr ""
 "Предупреждение: API перевода является экспериментальным для текущего языка и "
 "может произойти сбой."
 
-msgctxt "Your translation"
 msgid "Your translation"
 msgstr "Ваш перевод"

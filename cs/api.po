@@ -13,78 +13,59 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "API Keys"
 msgid "API Keys"
 msgstr "API klíče"
 
-msgctxt "Api Keys"
 msgid "Api Keys"
 msgstr "API klíče"
 
-msgctxt "Api Keys successfully saved"
 msgid "Api Keys successfully saved"
 msgstr "API klíč úspěšně uložen"
 
-msgctxt "Api Users"
 msgid "Api Users"
 msgstr ""
 
-msgctxt "Authenticate"
 msgid "Authenticate"
 msgstr ""
 
-msgctxt "Backoffice options"
 msgid "Backoffice options"
 msgstr ""
 
-msgctxt "Clear cache"
 msgid "Clear cache"
 msgstr ""
 
-msgctxt "Clear logs"
 msgid "Clear logs"
 msgstr ""
 
-msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Vytvořit nového uživatele"
 
-msgctxt "Created At"
 msgid "Created At"
 msgstr "Vytvořeno"
 
-msgctxt "Exists"
 msgid "Exists"
 msgstr ""
 
-msgctxt "Forgot password"
 msgid "Forgot password"
 msgstr "Zapomněli jste heslo?"
 
-msgctxt "Grant user"
 msgid "Grant user"
 msgstr ""
 
-msgctxt "List of your users"
 msgid "List of your users"
 msgstr "Seznam uživatelů"
 
-msgctxt "Rebuild manifest"
 msgid "Rebuild manifest"
 msgstr ""
 
-msgctxt "Revoke user"
 msgid "Revoke user"
 msgstr ""
 
-msgctxt "Select API access"
 msgid "Select API access"
 msgstr ""
 
-msgctxt "Update"
 msgid "Update"
 msgstr ""
 
-msgctxt "You don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Zatím nemáte žádné uživatele"

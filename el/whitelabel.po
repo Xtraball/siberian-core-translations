@@ -14,170 +14,127 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "App Name"
 msgid "App Name"
 msgstr ""
 
-msgctxt "Area"
 msgid "Area"
 msgstr ""
 
-msgctxt "Border Blue"
 msgid "Border Blue"
 msgstr ""
 
-msgctxt "Border Green"
 msgid "Border Green"
 msgstr ""
 
-msgctxt "Border Grey"
 msgid "Border Grey"
 msgstr ""
 
-msgctxt "Border Purple"
 msgid "Border Purple"
 msgstr ""
 
-msgctxt "Border Red"
 msgid "Border Red"
 msgstr ""
 
-msgctxt "Border Yellow"
 msgid "Border Yellow"
 msgstr ""
 
-msgctxt "Buttons"
 msgid "Buttons"
 msgstr ""
 
-msgctxt "Color blue"
 msgid "Color blue"
 msgstr ""
 
-msgctxt "Color green"
 msgid "Color green"
 msgstr ""
 
-msgctxt "Color purple"
 msgid "Color purple"
 msgstr ""
 
-msgctxt "Color red"
 msgid "Color red"
 msgstr ""
 
-msgctxt "Color yellow"
 msgid "Color yellow"
 msgstr ""
 
-msgctxt "Company or Fullname"
 msgid "Company or Fullname"
 msgstr ""
 
-msgctxt "Contact e-mail"
 msgid "Contact e-mail"
 msgstr ""
 
-msgctxt "Content background"
 msgid "Content background"
 msgstr ""
 
-msgctxt "Content color"
 msgid "Content color"
 msgstr ""
 
-msgctxt "Country"
 msgid "Country"
 msgstr "Χώρα"
 
-msgctxt "Customize My Editor"
 msgid "Customize My Editor"
 msgstr ""
 
-msgctxt "Delete/Cancel buttons"
 msgid "Delete/Cancel buttons"
 msgstr ""
 
-msgctxt "Drop Down"
 msgid "Drop Down"
 msgstr "Λίστα επιλογής"
 
-msgctxt "E-mail"
 msgid "E-mail"
 msgstr ""
 
-msgctxt "Enable GDPR features & rules"
 msgid "Enable GDPR features & rules"
 msgstr ""
 
-msgctxt "Enable White-Label"
 msgid "Enable White-Label"
 msgstr ""
 
-msgctxt "Favicon"
 msgid "Favicon"
 msgstr ""
 
-msgctxt "Font Color blue"
 msgid "Font Color blue"
 msgstr ""
 
-msgctxt "Full address"
 msgid "Full address"
 msgstr ""
 
-msgctxt "General"
 msgid "General"
 msgstr "Γενικά"
 
-msgctxt "Grey buttons"
 msgid "Grey buttons"
 msgstr ""
 
-msgctxt "Header"
 msgid "Header"
 msgstr ""
 
-msgctxt ""
-"In application of the GDPR regulation text, you must fullfill legal contact "
-"informations, whether you are a Company or an Individual."
 msgid ""
 "In application of the GDPR regulation text, you must fullfill legal contact "
 "informations, whether you are a Company or an Individual."
 msgstr ""
 
-msgctxt "Input flat"
 msgid "Input flat"
 msgstr ""
 
-msgctxt "Logo"
 msgid "Logo"
 msgstr "Λογότυπο"
 
-msgctxt "Menu"
 msgid "Menu"
 msgstr ""
 
-msgctxt "Page"
 msgid "Page"
 msgstr ""
 
-msgctxt "Phone"
 msgid "Phone"
 msgstr "Τηλέφωνο"
 
-msgctxt "Sidebar background"
 msgid "Sidebar background"
 msgstr ""
 
-msgctxt "Step menu background"
 msgid "Step menu background"
 msgstr ""
 
-msgctxt "Titles"
 msgid "Titles"
 msgstr "τίτλοι"
 
-msgctxt "White-Label name"
 msgid "White-Label name"
 msgstr ""

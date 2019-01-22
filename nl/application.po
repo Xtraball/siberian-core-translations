@@ -14,9 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt ""
-"* If apple doesn't detect any ads configurate, your application will be "
-"refused"
 msgid ""
 "* If apple doesn't detect any ads configurate, your application will be "
 "refused"
@@ -24,138 +21,102 @@ msgstr ""
 "* Als Apple geen advertenties configuratie detecteert, wordt uw aanvraag "
 "afgewezen"
 
-msgctxt ""
-"* You have to justify why you need this background audio playing to Apple."
 msgid ""
 "* You have to justify why you need this background audio playing to Apple."
 msgstr "* Je moet uitleggen waarom je achtergrond audio afspeelt aan Apple."
 
-msgctxt ""
-"* You have to justify why you need this background geolocation to Apple."
 msgid ""
 "* You have to justify why you need this background geolocation to Apple."
 msgstr ""
 "* Je moet het uitleggen waarom je achtergrond locatie gebruikt aan Apple."
 
-msgctxt "1. Download the app previewer:"
 msgid "1. Download the app previewer:"
 msgstr "1. Download de app  previewer:"
 
-msgctxt "1. Insert the following code between the %s tag of your page:"
 msgid "1. Insert the following code between the %s tag of your page:"
 msgstr "1. Plaats de volgende code tussen de %s tag van uw pagina:"
 
-msgctxt "2. Insert the following code at the end of the %s tag of your page:"
 msgid "2. Insert the following code at the end of the %s tag of your page:"
 msgstr "2. Voeg de volgende code aan het einde van het %s tag van uw pagina:"
 
-msgctxt "2. Open the app and login"
 msgid "2. Open the app and login"
 msgstr "2. Open de App en log-in"
 
-msgctxt "API Keys"
 msgid "API Keys"
 msgstr "API-sleutels"
 
-msgctxt "APIs"
 msgid "APIs"
 msgstr "API's"
 
-msgctxt "Access Token"
 msgid "Access Token"
 msgstr "Toegangstoken"
 
-msgctxt "Acl"
 msgid "Acl"
 msgstr "Acl"
 
-msgctxt "Activated"
 msgid "Activated"
 msgstr "Geactiveerd"
 
-msgctxt "AdMob ID"
 msgid "AdMob ID"
 msgstr "AdMob ID"
 
-msgctxt "AdMob Type"
 msgid "AdMob Type"
 msgstr "AdMob-type"
 
-msgctxt "Add a new icon"
 msgid "Add a new icon"
 msgstr "Voeg een nieuw icoon toe"
 
-msgctxt "Add a thumbnail"
 msgid "Add a thumbnail"
 msgstr "Een thumbnail toevoegen"
 
-msgctxt "Add an image"
 msgid "Add an image"
 msgstr "Een afbeelding toevoegen"
 
-msgctxt "Add pages"
 msgid "Add pages"
 msgstr "Voeg pagina's toe"
 
-msgctxt "Add pictures"
 msgid "Add pictures"
 msgstr "Afbeeldingen toevoegen"
 
-msgctxt "Add place"
 msgid "Add place"
 msgstr "Plaats toevoegen"
 
-msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "Secties toevoegen:"
 
-msgctxt "Additional options"
 msgid "Additional options"
 msgstr "Extra opties"
 
-msgctxt "Admin"
 msgid "Admin"
 msgstr "admin (beheerder)"
 
-msgctxt "Admin Account"
 msgid "Admin Account"
 msgstr "Beheerdersaccount"
 
-msgctxt "Advanced"
 msgid "Advanced"
 msgstr "Geavanceerd"
 
-msgctxt "Advanced Application Options"
 msgid "Advanced Application Options"
 msgstr "Geavanceerde applicatie-opties"
 
-msgctxt "Advanced Customization CSS / SCSS"
 msgid "Advanced Customization CSS / SCSS"
 msgstr "Geavanceerde aanpassingen CSS / SCSS"
 
-msgctxt "Advertising"
 msgid "Advertising"
 msgstr "Adverteren"
 
-msgctxt "All"
 msgid "All"
 msgstr "Alles"
 
-msgctxt "All done!"
 msgid "All done!"
 msgstr "Gereed!"
 
-msgctxt "Allow user to request app publication"
 msgid "Allow user to request app publication"
 msgstr "Gebruiker mag om app publicatie vragen"
 
-msgctxt "Allowed"
 msgid "Allowed"
 msgstr "Toegestaan"
 
-msgctxt ""
-"An error occured while copying your app icon. Please check the icon, try to "
-"send it again and try again."
 msgid ""
 "An error occured while copying your app icon. Please check the icon, try to "
 "send it again and try again."
@@ -163,13 +124,9 @@ msgstr ""
 "Er is een fout opgetreden bij het kopiëren van uw app icoon. Chek de icoon, "
 "probeer hem opnieuw te verzenden."
 
-msgctxt "An error occurred. Sorry for the inconvenience."
 msgid "An error occurred. Sorry for the inconvenience."
 msgstr "Er is een fout opgetreden. Sorry voor het ongemak."
 
-msgctxt ""
-"An error occurred during the generation of your QRCode. Please try again "
-"later."
 msgid ""
 "An error occurred during the generation of your QRCode. Please try again "
 "later."
@@ -177,125 +134,95 @@ msgstr ""
 "Er is een fout opgetreden tijdens het genereren van uw QRCode. Probeer het "
 "later opnieuw."
 
-msgctxt "An error occurred while adding the option"
 msgid "An error occurred while adding the option"
 msgstr "Er is een fout opgetreden bij het toevoegen van de optie"
 
-msgctxt "An error occurred while changing your layout."
 msgid "An error occurred while changing your layout."
 msgstr "Er is een fout opgetreden bij het veranderen van uw lay-out."
 
-msgctxt "An error occurred while deleting the option"
 msgid "An error occurred while deleting the option"
 msgstr "Er is een fout opgetreden bij het verwijderen van de optie"
 
-msgctxt "An error occurred while deleting your picture"
 msgid "An error occurred while deleting your picture"
 msgstr "Er is een fout opgetreden bij het verwijderen van de afbeelding"
 
-msgctxt "An error occurred while editing file (%s)."
 msgid "An error occurred while editing file (%s)."
 msgstr "Fout opgetreden bij het bewerken van het bestand (%s)."
 
-msgctxt "An error occurred while generating. Please try again later."
 msgid "An error occurred while generating. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het genereren. Probeer het later opnieuw."
 
-msgctxt "An error occurred while hidding the iOS Status Bar"
 msgid "An error occurred while hidding the iOS Status Bar"
 msgstr "Er is een fout opgetreden tijdens het verbergen van de iOS Status Bar"
 
-msgctxt "An error occurred while loading"
 msgid "An error occurred while loading"
 msgstr "Er is een fout opgetreden tijdens het laden"
 
-msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan. Probeer het later opnieuw."
 
-msgctxt "An error occurred while saving. The selected icon is not valid."
 msgid "An error occurred while saving. The selected icon is not valid."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan. Het geselecteerde pictogram "
 "(icoon) is niet geldig."
 
-msgctxt "An error occurred while saving the application. Please try again later."
 msgid "An error occurred while saving the application. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van de applicatie. Probeer het "
 "later opnieuw."
 
-msgctxt "An error occurred while saving your colors."
 msgid "An error occurred while saving your colors."
 msgstr "Er is een fout opgetreden tijdens het opslaan van de kleuren."
 
-msgctxt "An error occurred while saving your page name."
 msgid "An error occurred while saving your page name."
 msgstr "Er is een fout opgetreden bij het opslaan van de pagina naam."
 
-msgctxt "An error occurred while sorting your pages. Please try again later."
 msgid "An error occurred while sorting your pages. Please try again later."
 msgstr ""
 "Er is een fout opgetreden bij het sorteren van uw pagina's. Probeer het "
 "later opnieuw."
 
-msgctxt ""
-"An error occurred while sorting your slider images. Please try again later."
 msgid ""
 "An error occurred while sorting your slider images. Please try again later."
 msgstr ""
 "Er is een fout opgetreden bij het sorteren van uw slider afbeeldingen. "
 "Probeer het later opnieuw."
 
-msgctxt "Analytics"
 msgid "Analytics"
 msgstr "Statistieken"
 
-msgctxt "Analyzing fetched data..."
 msgid "Analyzing fetched data..."
 msgstr "Analyse van opgehaalde gegevens ..."
 
-msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
-msgctxt "Android APK Generation"
 msgid "Android APK Generation"
 msgstr "Android APK Genereren"
 
-msgctxt "Android APK version"
 msgid "Android APK version"
 msgstr "Android APK-versie"
 
-msgctxt "Android Version"
 msgid "Android Version"
 msgstr "Android versie"
 
-msgctxt "Android push"
 msgid "Android push"
 msgstr "Android push"
 
-msgctxt "Angle"
 msgid "Angle"
 msgstr "Hoek"
 
-msgctxt "App ID"
 msgid "App ID"
 msgstr "App-ID"
 
-msgctxt "App Store Icon"
 msgid "App Store Icon"
 msgstr "App store icoon"
 
-msgctxt "App design"
 msgid "App design"
 msgstr "App ontwerp"
 
-msgctxt ""
-"Apple rejects apps that includes Ad Support but doesn't use it.<br />"
-"Generate your iOS app out of this source code if you don't include Ads."
 msgid ""
 "Apple rejects apps that includes Ad Support but doesn't use it.<br />"
 "Generate your iOS app out of this source code if you don't include Ads."
@@ -304,539 +231,403 @@ msgstr ""
 "gebruiken. <br /> Genereer je iOS-app uit deze broncode als je geen "
 "advertenties gebruikt."
 
-msgctxt "Apple's Information"
 msgid "Apple's Information"
 msgstr "Apple's Informatie"
 
-msgctxt "Application:"
 msgid "Application:"
 msgstr "Applicatie:"
 
-msgctxt "Application icon"
 msgid "Application icon"
 msgstr "Applicatie icoon"
 
-msgctxt "Application name"
 msgid "Application name"
 msgstr "Applicatie naam"
 
-msgctxt "Are you sure you want to remove this application?"
 msgid "Are you sure you want to remove this application?"
 msgstr "Weet u zeker dat u deze App (applicatie) wilt verwijderen?"
 
-msgctxt "Around you"
 msgid "Around you"
 msgstr "Om je heen"
 
-msgctxt "At least 200 characters in the description"
 msgid "At least 200 characters in the description"
 msgstr "Ten minste 200 tekens in de beschrijving"
 
-msgctxt "At least, 4 pages in the application"
 msgid "At least, 4 pages in the application"
 msgstr "Ten minste 4 pagina's in de Applicatie"
 
-msgctxt "Attachment"
 msgid "Attachment"
 msgstr "Bijlage"
 
-msgctxt "Audio"
 msgid "Audio"
 msgstr "Audio"
 
-msgctxt "Auth"
 msgid "Auth"
 msgstr "Auth"
 
-msgctxt "Available SCSS Variables corresponding to previously set colors"
 msgid "Available SCSS Variables corresponding to previously set colors"
 msgstr ""
 "Beschikbare SCSS variabelen die overeenkomen met eerder ingestelde kleuren"
 
-msgctxt "Average by customer"
 msgid "Average by customer"
 msgstr "Gemiddelde per klant"
 
-msgctxt "Background"
 msgid "Background"
 msgstr "Achtergrond"
 
-msgctxt "Backoffice"
 msgid "Backoffice"
 msgstr "Backoffice"
 
-msgctxt "Banner"
 msgid "Banner"
 msgstr "Banner"
 
-msgctxt "Banner Android price"
 msgid "Banner Android price"
 msgstr "Banner Android prijs"
 
-msgctxt "Banner Android store label"
 msgid "Banner Android store label"
 msgstr "Banner Android-winkellabel"
 
-msgctxt "Banner author"
 msgid "Banner author"
 msgstr "Banner auteur"
 
-msgctxt "Banner button label"
 msgid "Banner button label"
 msgstr "Banner knoplabel"
 
-msgctxt "Banner iOS store label"
 msgid "Banner iOS store label"
 msgstr "Banner iOS-winkellabel"
 
-msgctxt "Banner settings"
 msgid "Banner settings"
 msgstr "Banner instellingen"
 
-msgctxt "Banner title"
 msgid "Banner title"
 msgstr "Banner titel"
 
-msgctxt "Book"
 msgid "Book"
 msgstr "Boek"
 
-msgctxt "Border"
 msgid "Border"
 msgstr "Rand"
 
-msgctxt "Border shadow"
 msgid "Border shadow"
 msgstr "Rand schaduw"
 
-msgctxt "Bottom"
 msgid "Bottom"
 msgstr "Onderkant"
 
-msgctxt "Build a mobile app easily"
 msgid "Build a mobile app easily"
 msgstr "Bouw eenvoudig een mobiele app"
 
-msgctxt "Build date"
 msgid "Build date"
 msgstr "Aanmaak datum"
 
-msgctxt "Build information"
 msgid "Build information"
 msgstr "App code informatie"
 
-msgctxt "Bundle Id"
 msgid "Bundle Id"
 msgstr "Bundel Id"
 
-msgctxt "Business"
 msgid "Business"
 msgstr "Zakelijk"
 
-msgctxt "Button"
 msgid "Button"
 msgstr "Knop"
 
-msgctxt "Buy one, get one!"
 msgid "Buy one, get one!"
 msgstr "Koop er één, krijg er één!"
 
-msgctxt "Cache"
 msgid "Cache"
 msgstr "Cache"
 
-msgctxt "Calendar"
 msgid "Calendar"
 msgstr "Agenda (kalender)"
 
-msgctxt "Catalogs"
 msgid "Catalogs"
 msgstr "Catalogus"
 
-msgctxt "Certificate"
 msgid "Certificate"
 msgstr "Certificaat"
 
-msgctxt "Change your"
 msgid "Change your"
 msgstr "Wijzig uw"
 
-msgctxt "Change your icon"
 msgid "Change your icon"
 msgstr "Verander je icon"
 
-msgctxt "Change your layout"
 msgid "Change your layout"
 msgstr "Wijzig uw lay-out"
 
-msgctxt "Change your picture"
 msgid "Change your picture"
 msgstr "Wijzig uw foto"
 
-msgctxt "Change your template"
 msgid "Change your template"
 msgstr "Wijzig uw sjabloon"
 
-msgctxt "Change your<br /><span class='bold'>picture</span>"
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr "Verander je<br /><span class='bold'>afbeelding</span>"
 
-msgctxt "Checking CNAME configuration:"
 msgid "Checking CNAME configuration:"
 msgstr "Controle CNAME configuratie:"
 
-msgctxt "Choose a <br /><span class='bold'>picture</span>"
 msgid "Choose a <br /><span class='bold'>picture</span>"
 msgstr "Kies een<br /><span class='bold'>afbeelding</span>"
 
-msgctxt "Choose a country"
 msgid "Choose a country"
 msgstr "Kies een land"
 
-msgctxt "Choose a font family"
 msgid "Choose a font family"
 msgstr "Kies een lettertype"
 
-msgctxt "Choose a picture"
 msgid "Choose a picture"
 msgstr "Kies een afbeelding"
 
-msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Kies een sjabloon om aan te passen"
 
-msgctxt "Choose an icon"
 msgid "Choose an icon"
 msgstr "Kies een icoon"
 
-msgctxt "Choose your colors"
 msgid "Choose your colors"
 msgstr "Kies uw kleuren"
 
-msgctxt "Choose your country"
 msgid "Choose your country"
 msgstr "Kies uw land"
 
-msgctxt "Choose your design"
 msgid "Choose your design"
 msgstr "Kies uw ontwerp"
 
-msgctxt "Choose your font style"
 msgid "Choose your font style"
 msgstr "Kies uw lettertype stijl"
 
-msgctxt "Choose your homepage image"
 msgid "Choose your homepage image"
 msgstr "Kies afbeelding voor uw homepagina"
 
-msgctxt "Choose your icons color"
 msgid "Choose your icons color"
 msgstr "Kies uw icoon kleur"
 
-msgctxt "Choose your layout"
 msgid "Choose your layout"
 msgstr "Kies uw lay-out"
 
-msgctxt "Choose your template"
 msgid "Choose your template"
 msgstr "Kies uw sjabloon"
 
-msgctxt "Click here to download the source code:"
 msgid "Click here to download the source code:"
 msgstr "Klik hier om de broncode te downloaden:"
 
-msgctxt "Click here to send your certificate"
 msgid "Click here to send your certificate"
 msgstr "Klik hier om uw certificaat te versturen"
 
-msgctxt "Client ID"
 msgid "Client ID"
 msgstr "Cliënt-ID"
 
-msgctxt "Cms"
 msgid "Cms"
 msgstr "Cms"
 
-msgctxt "Code Scan"
 msgid "Code Scan"
 msgstr "Code Scan"
 
-msgctxt "Codescan"
 msgid "Codescan"
 msgstr "Codescan"
 
-msgctxt "Color"
 msgid "Color"
 msgstr "Kleur"
 
-msgctxt "Colorize pager"
 msgid "Colorize pager"
 msgstr "Inkleuren pager"
 
-msgctxt "Colors"
 msgid "Colors"
 msgstr "Kleuren"
 
-msgctxt "Comments"
 msgid "Comments"
 msgstr "Reacties"
 
-msgctxt "Configuration"
 msgid "Configuration"
 msgstr "Configuratie"
 
-msgctxt "Connect Button"
 msgid "Connect Button"
 msgstr "Verbindknop"
 
-msgctxt "Contact"
 msgid "Contact"
 msgstr "Contact"
 
-msgctxt "Core"
 msgid "Core"
 msgstr "Kern"
 
-msgctxt "Cover background images"
 msgid "Cover background images"
 msgstr "Cover achtergrondafbeeldingen"
 
-msgctxt "Create a place"
 msgid "Create a place"
 msgstr "Maak een nieuwe plaats"
 
-msgctxt "Currently only one language can be selected."
 msgid "Currently only one language can be selected."
 msgstr "Slechts één taal kan worden geselecteerd."
 
-msgctxt "Custom"
 msgid "Custom"
 msgstr "Aangepast"
 
-msgctxt "Custom SMTP"
 msgid "Custom SMTP"
 msgstr "Aangepaste SMTP"
 
-msgctxt "Custom domain name:"
 msgid "Custom domain name:"
 msgstr "Aangepaste domeinnaam:"
 
-msgctxt "Customization"
 msgid "Customization"
 msgstr "Maatwerk"
 
-msgctxt "Customize your app's style"
 msgid "Customize your app's style"
 msgstr "Pas je app stijl aan"
 
-msgctxt "Dashboard icon"
 msgid "Dashboard icon"
 msgstr "Dashboard icoon"
 
-msgctxt "Deactivated"
 msgid "Deactivated"
 msgstr "Gedeactiveerd"
 
-msgctxt "Default"
 msgid "Default"
 msgstr "Standaard"
 
-msgctxt "Default (none)"
 msgid "Default (none)"
 msgstr "Standaard (geen)"
 
-msgctxt "Delete this page?"
 msgid "Delete this page?"
 msgstr "Deze pagina verwijderen?"
 
-msgctxt "Depth"
 msgid "Depth"
 msgstr "Diepte"
 
-msgctxt "Design"
 msgid "Design"
 msgstr "Design"
 
-msgctxt "Developer Accounts"
 msgid "Developer Accounts"
 msgstr "Ontwikkelaar Accounts"
 
-msgctxt "Device Information"
 msgid "Device Information"
 msgstr "Apparaatinformatie"
 
-msgctxt "Discount Zone"
 msgid "Discount Zone"
 msgstr "Korting Zone"
 
-msgctxt ""
-"Discount zone description. Here your clients will be able to see the details "
-"of each discount"
 msgid ""
 "Discount zone description. Here your clients will be able to see the details "
 "of each discount"
 msgstr ""
 "Beschrijving korting. Hier kunnen uw klanten de details van elke korting zien"
 
-msgctxt "Display Border Circle"
 msgid "Display Border Circle"
 msgstr "Weergave border radius"
 
-msgctxt "Display Borders"
 msgid "Display Borders"
 msgstr "Weergave borders"
 
-msgctxt "Display Image"
 msgid "Display Image"
 msgstr "Afbeelding weergeven"
 
-msgctxt "Display Shadow"
 msgid "Display Shadow"
 msgstr "Schaduw Weergeven"
 
-msgctxt "Display address"
 msgid "Display address"
 msgstr "Toon adres"
 
-msgctxt "Display borders"
 msgid "Display borders"
 msgstr "Weergave borders"
 
-msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr "Toon afbeelding op pagina"
 
-msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Toon locatie knop"
 
-msgctxt "Display the homepage slider"
 msgid "Display the homepage slider"
 msgstr "Toon de homepagina slider"
 
-msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr "Toon titel en ondertitel in pagina"
 
-msgctxt "Display titles"
 msgid "Display titles"
 msgstr "Weergave titels"
 
-msgctxt "Domain"
 msgid "Domain"
 msgstr "Domein"
 
-msgctxt "Domain name"
 msgid "Domain name"
 msgstr "Domeinnaam"
 
-msgctxt "Don't order:"
 msgid "Don't order:"
 msgstr "Niet bestellen:"
 
-msgctxt "Download"
 msgid "Download"
 msgstr "Download"
 
-msgctxt "Download last build"
 msgid "Download last build"
 msgstr "Download app code"
 
-msgctxt "Download latest"
 msgid "Download latest"
 msgstr "Download de laatste"
 
-msgctxt "Download our app previewer"
 msgid "Download our app previewer"
 msgstr "Download onze App previewer"
 
-msgctxt "Download your QRCode"
 msgid "Download your QRCode"
 msgstr "Download uw QRCode"
 
-msgctxt "Drop your certificate here"
 msgid "Drop your certificate here"
 msgstr "Laat je certificaat hier vallen"
 
-msgctxt "Dynamic: percentage"
 msgid "Dynamic: percentage"
 msgstr "Dynamisch: percentage"
 
-msgctxt "Edit"
 msgid "Edit"
 msgstr "Bewerk"
 
-msgctxt "Edit my"
 msgid "Edit my"
 msgstr "Bewerk mijn"
 
-msgctxt "Edit place"
 msgid "Edit place"
 msgstr "Bewerk plaats"
 
-msgctxt "Edit the application %s"
 msgid "Edit the application %s"
 msgstr "Bewerk de applicatie %s"
 
-msgctxt "Editor"
 msgid "Editor"
 msgstr "Editor"
 
-msgctxt "Education"
 msgid "Education"
 msgstr "Educatie"
 
-msgctxt "E-mail"
 msgid "E-mail"
 msgstr "Email"
 
-msgctxt "Enable Offline content ?"
 msgid "Enable Offline content ?"
 msgstr "Zet Offline content aan?"
 
-msgctxt "Enable custom SMTP"
 msgid "Enable custom SMTP"
 msgstr "Aangepaste SMTP inschakelen"
 
-msgctxt "Enable search filters:"
 msgid "Enable search filters:"
 msgstr "Inschakelen zoekfilters:"
 
-msgctxt "Enter your AdMob ID for each platform."
 msgid "Enter your AdMob ID for each platform."
 msgstr "Vul uw AdMob ID voor elk platform."
 
-msgctxt "Enter your Facebook page"
 msgid "Enter your Facebook page"
 msgstr "Vul hier uw Facebookpagina in"
 
-msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Vermaak"
 
-msgctxt "Event"
 msgid "Event"
 msgstr "Evenement"
 
-msgctxt "Events"
 msgid "Events"
 msgstr "Evenementen"
 
-msgctxt "Export"
 msgid "Export"
 msgstr "Exporteer"
 
-msgctxt "Export App & Selected features."
 msgid "Export App & Selected features."
 msgstr "Export App & Geselecteerde functies."
 
-msgctxt "Export as global Template"
 msgid "Export as global Template"
 msgstr "Exporteren als algemeen Sjabloon"
 
-msgctxt ""
-"Export your application to a re-usable template & share it across Apps & "
-"Platforms."
 msgid ""
 "Export your application to a re-usable template & share it across Apps & "
 "Platforms."
@@ -844,37 +635,27 @@ msgstr ""
 "Exporteer uw applicatie naar een herbruikbare sjabloon en deel deze via Apps "
 "& Platforms."
 
-msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "Extensie niet toegestaan, '%s' alleen"
 
-msgctxt "Facebook"
 msgid "Facebook"
 msgstr "Facebook"
 
-msgctxt "Facebook API Keys"
 msgid "Facebook API Keys"
 msgstr "Facebook API sleutels"
 
-msgctxt "Facebook API settings"
 msgid "Facebook API settings"
 msgstr "Facebook API-instellingen"
 
-msgctxt "Feature icons"
 msgid "Feature icons"
 msgstr "Toekomstige pictogrammen"
 
-msgctxt "Features"
 msgid "Features"
 msgstr "Kenmerken"
 
-msgctxt "Features Access Settings"
 msgid "Features Access Settings"
 msgstr "Eigenschappen Toegangs instellingen"
 
-msgctxt ""
-"Fetching data from Facebook and creating your features. It can take a while, "
-"be patient!"
 msgid ""
 "Fetching data from Facebook and creating your features. It can take a while, "
 "be patient!"
@@ -882,225 +663,168 @@ msgstr ""
 "Gegevens ophalen van Facebook en uw functies maken. Het kan even duren, wees "
 "geduldig!"
 
-msgctxt "Fidelity points"
 msgid "Fidelity points"
 msgstr "Loyalty-punten"
 
-msgctxt "Fidelity points rate"
 msgid "Fidelity points rate"
 msgstr "Loyalty punten"
 
-msgctxt "Filter"
 msgid "Filter"
 msgstr "Filter"
 
-msgctxt "Finance"
 msgid "Finance"
 msgstr "Financieel"
 
-msgctxt "Fixed: pixels"
 msgid "Fixed: pixels"
 msgstr "Opgelost: pixels"
 
-msgctxt "Flickr API key"
 msgid "Flickr API key"
 msgstr "Flickr API-sleutel"
 
-msgctxt "Flickr API secret"
 msgid "Flickr API secret"
 msgstr "Flickr API geheim"
 
-msgctxt "Flickr API settings"
 msgid "Flickr API settings"
 msgstr "Flickr API-instellingen"
 
-msgctxt "Font-size"
 msgid "Font-size"
 msgstr "Font-grote"
 
-msgctxt "Food & Drink"
 msgid "Food & Drink"
 msgstr "Voedsel & Dranken"
 
-msgctxt "Form has the following errors"
 msgid "Form has the following errors"
 msgstr "Het formulier heeft de volgende fouten"
 
-msgctxt "Fred W."
 msgid "Fred W."
 msgstr "Fred W."
 
-msgctxt "Free until %s"
 msgid "Free until %s"
 msgstr "Gratis tot %s"
 
-msgctxt "Front"
 msgid "Front"
 msgstr "Voorzijde"
 
-msgctxt "Games"
 msgid "Games"
 msgstr "Spellen"
 
-msgctxt "General Information"
 msgid "General Information"
 msgstr "Algemene informatie"
 
-msgctxt "General Settings"
 msgid "General Settings"
 msgstr "Algemene instellingen"
 
-msgctxt "General information"
 msgid "General information"
 msgstr "Algemene informatie"
 
-msgctxt "Generate"
 msgid "Generate"
 msgstr "Genereren"
 
-msgctxt "Generate APK"
 msgid "Generate APK"
 msgstr "Genereer APK"
 
-msgctxt "Generate Android APK"
 msgid "Generate Android APK"
 msgstr "Genereer Android APK"
 
-msgctxt "Generate analytics for given period"
 msgid "Generate analytics for given period"
 msgstr "Genereer analytics voor bepaalde tijd"
 
-msgctxt "Generate analytics for the current day"
 msgid "Generate analytics for the current day"
 msgstr "Genereer analytics voor de huidige dag"
 
-msgctxt "Generate and Publish"
 msgid "Generate and Publish"
 msgstr "Genereren en publiceren"
 
-msgctxt "Generate and publish iOS Application"
 msgid "Generate and publish iOS Application"
 msgstr "Genereer en publiceer iOS Application"
 
-msgctxt "Generate builds"
 msgid "Generate builds"
 msgstr "Genereer builds"
 
-msgctxt "Generate source"
 msgid "Generate source"
 msgstr "Source aanmaken"
 
-msgctxt "Generate the source code"
 msgid "Generate the source code"
 msgstr "Genereer de broncode"
 
-msgctxt "Generation cancelled."
 msgid "Generation cancelled."
 msgstr "Genereren geannuleerd."
 
-msgctxt "Generation successfully queued."
 msgid "Generation successfully queued."
 msgstr "Code bouw in de wachtrij geplaatst."
 
-msgctxt "Global visits"
 msgid "Global visits"
 msgstr "Globale bezoeken"
 
-msgctxt "Go to first images on loop"
 msgid "Go to first images on loop"
 msgstr "Ga naar het eerste beeld van de slider"
 
-msgctxt "Google Maps JavaScript API Key"
 msgid "Google Maps JavaScript API Key"
 msgstr "Google Maps JavaScript API sleutel"
 
-msgctxt "Google Play Icon"
 msgid "Google Play Icon"
 msgstr "Google Play Icoon"
 
-msgctxt "Google's Information"
 msgid "Google's Information"
 msgstr "Google informatie"
 
-msgctxt "Header"
 msgid "Header"
 msgstr "Kop tekst (header)"
 
-msgctxt "Health & Fitness"
 msgid "Health & Fitness"
 msgstr "Gezondheid & Fitness"
 
-msgctxt "Here is our latest creation. What do you think?"
 msgid "Here is our latest creation. What do you think?"
 msgstr "Hier is onze nieuwste creatie. Wat vind je er van?"
 
-msgctxt "Hidden"
 msgid "Hidden"
 msgstr "Verborgen"
 
-msgctxt "Hide Android status bar"
 msgid "Hide Android status bar"
 msgstr "Verberg Android status bar"
 
-msgctxt "Hide iOS status bar"
 msgid "Hide iOS status bar"
 msgstr "Verbergen iOS status bar"
 
-msgctxt "Homepage preview"
 msgid "Homepage preview"
 msgstr "Thuispagina voorvertoning"
 
-msgctxt "Homepage slider options"
 msgid "Homepage slider options"
 msgstr "Thuispage slider opties"
 
-msgctxt "I don't have a Google developer account and I want to create one"
 msgid "I don't have a Google developer account and I want to create one"
 msgstr "Ik heb geen Google-developer-account maar ik wil er een te maken"
 
-msgctxt "I don't have an Apple developer account and I want to create one"
 msgid "I don't have an Apple developer account and I want to create one"
 msgstr "Ik heb geen Apple developer account maar ik wil er een te maken"
 
-msgctxt "I have an Apple developer account"
 msgid "I have an Apple developer account"
 msgstr "Ik heb een Apple-developer account"
 
-msgctxt "I have an Google developer account"
 msgid "I have an Google developer account"
 msgstr "Ik heb een Google-developer account"
 
-msgctxt "I let you publish my application under your Apple developer account"
 msgid "I let you publish my application under your Apple developer account"
 msgstr "Ik laat jullie mijn App publiceren op jullie Apple developer account"
 
-msgctxt "I let you publish my application under your Google developer account"
 msgid "I let you publish my application under your Google developer account"
 msgstr "Ik laat jullie mijn App publiceren op jullie Google developer account"
 
-msgctxt "Icon"
 msgid "Icon"
 msgstr "Icoon"
 
-msgctxt "Icons"
 msgid "Icons"
 msgstr "Iconen"
 
-msgctxt "Icons & Images"
 msgid "Icons & Images"
 msgstr "Iconen en Afbeeldingen"
 
-msgctxt "Id"
 msgid "Id"
 msgstr "id"
 
-msgctxt "If a feature is not listed, it yet can't be exported."
 msgid "If a feature is not listed, it yet can't be exported."
 msgstr "Als een functie niet wordt vermeld, kan het niet worden geëxporteerd."
 
-msgctxt ""
-"If you decide to change the slider size, all images will be dropped. Are you "
-"sure ?"
 msgid ""
 "If you decide to change the slider size, all images will be dropped. Are you "
 "sure ?"
@@ -1108,16 +832,11 @@ msgstr ""
 "Als u besluit de Slider grootte te veranderen, worden alle beelden "
 "verwijderd. Bent u zeker ?"
 
-msgctxt ""
-"If you validate, your app's colors and background image will be replaced"
 msgid ""
 "If you validate, your app's colors and background image will be replaced"
 msgstr ""
 "Als je bevestigt, worden uw App kleuren en achtergrond afbeelding vervangen"
 
-msgctxt ""
-"If you want to change the push icon, you <b>must re-publish</b> the "
-"application"
 msgid ""
 "If you want to change the push icon, you <b>must re-publish</b> the "
 "application"
@@ -1125,9 +844,6 @@ msgstr ""
 "Als u  de push-pictogram wilt wijzigen, dan moet je de <b>App opnieuw "
 "publiceren</b>"
 
-msgctxt ""
-"If your app is already published, changing the URL key or domain will break "
-"it. You will have to republish it. Change it anyway?"
 msgid ""
 "If your app is already published, changing the URL key or domain will break "
 "it. You will have to republish it. Change it anyway?"
@@ -1135,9 +851,6 @@ msgstr ""
 "Als uw app al is gepubliceerd en je veranderd de URL Key!. Moet je de App "
 "opnieuw publiceren.. Toch veranderen?"
 
-msgctxt ""
-"If your app is already published, changing the domain will break it. You "
-"will have to republish it. Change it anyway?"
 msgid ""
 "If your app is already published, changing the domain will break it. You "
 "will have to republish it. Change it anyway?"
@@ -1145,10 +858,6 @@ msgstr ""
 "Als uw app al is gepubliceerd, en je veranderd de domeinnaam!. Moet je de "
 "App opnieuw publiceren.. Toch veranderen?"
 
-msgctxt ""
-"If your app is already published on the stores, be sure you have sent an "
-"update with the Ionic version, and that this update has already been "
-"accepted, otherwise your app may be broken."
 msgid ""
 "If your app is already published on the stores, be sure you have sent an "
 "update with the Ionic version, and that this update has already been "
@@ -1157,9 +866,6 @@ msgstr ""
 "Als uw app al in de appstore is gepubliceerd, moet u een update van de Ionic "
 "versie sturen, anders zal uw app niet werken."
 
-msgctxt ""
-"If your messages do not comply with App Store Review Guidelines, %s, your "
-"app might be possibly refused after Apple's review."
 msgid ""
 "If your messages do not comply with App Store Review Guidelines, %s, your "
 "app might be possibly refused after Apple's review."
@@ -1167,41 +873,30 @@ msgstr ""
 "Als uw berichten niet voldoen aan de richtlijnen voor beoordeling van de app "
 "store,% s, kan uw app mogelijk worden geweigerd na de beoordeling van Apple."
 
-msgctxt "Image size"
 msgid "Image size"
 msgstr "Afbeeldingsgrootte"
 
-msgctxt "Images"
 msgid "Images"
 msgstr "Afbeeldingen"
 
-msgctxt "Images height"
 msgid "Images height"
 msgstr "Afbeeldingshoogte"
 
-msgctxt "Import / Export"
 msgid "Import / Export"
 msgstr "Importeren / Exporteren"
 
-msgctxt "Import an application template or a single feature."
 msgid "Import an application template or a single feature."
 msgstr "Een applicatiesjabloon of een enkele functie importeren."
 
-msgctxt "Import features from Facebook"
 msgid "Import features from Facebook"
 msgstr "Importeren van Facebook gegevens"
 
-msgctxt "Import zip or yml"
 msgid "Import zip or yml"
 msgstr "Importeren zip of yml"
 
-msgctxt "Imported features"
 msgid "Imported features"
 msgstr "Geïmporteerde functies"
 
-msgctxt ""
-"In case you have a main domain containing numbers you can change here the "
-"base for your App identifiers."
 msgid ""
 "In case you have a main domain containing numbers you can change here the "
 "base for your App identifiers."
@@ -1209,9 +904,6 @@ msgstr ""
 "Als u een hoofddomein met nummers heeft, kunt u hier de basis voor uw app-"
 "ID's wijzigen."
 
-msgctxt ""
-"In order to help you start your application, we can retrieve some data from "
-"Facebook."
 msgid ""
 "In order to help you start your application, we can retrieve some data from "
 "Facebook."
@@ -1219,9 +911,6 @@ msgstr ""
 "Om u te helpen uw applicatie te starten, kunnen we wat gegevens van Facebook "
 "ophalen."
 
-msgctxt ""
-"In order to insert a promote banner for your application on your site, "
-"please follow those steps:"
 msgid ""
 "In order to insert a promote banner for your application on your site, "
 "please follow those steps:"
@@ -1229,314 +918,235 @@ msgstr ""
 "Om een banner voor uw toepassing op uw site te plaatsen, volg dan deze "
 "stappen:"
 
-msgctxt "In-App Messages"
 msgid "In-App Messages"
 msgstr "In-app Berichten"
 
-msgctxt "In-app links"
 msgid "In-app links"
 msgstr "In-app-links"
 
-msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "Info succesvol opgeslagen"
 
-msgctxt "Input your SCSS here, save to validate & preview"
 msgid "Input your SCSS here, save to validate & preview"
 msgstr ""
 "Voer hier je SCSS in, bewaar om te valideren en een voorbeeld te bekijken"
 
-msgctxt "Insert"
 msgid "Insert"
 msgstr "Plaats"
 
-msgctxt "Insert & close"
 msgid "Insert & close"
 msgstr "Invoegen en sluiten"
 
-msgctxt "Instagram API Keys"
 msgid "Instagram API Keys"
 msgstr "Instagram API Sleutels"
 
-msgctxt "Instagram API settings"
 msgid "Instagram API settings"
 msgstr "Instagram API-instellingen"
 
-msgctxt "Installed application"
 msgid "Installed application"
 msgstr "Geïnstalleerde applicatie"
 
-msgctxt "Installer"
 msgid "Installer"
 msgstr "installatieprogramma"
 
-msgctxt "Integration"
 msgid "Integration"
 msgstr "Integratie"
 
-msgctxt "Invalid period, end date is before start date."
 msgid "Invalid period, end date is before start date."
 msgstr "Ongeldige periode, einddatum is voor de startdatum."
 
-msgctxt "Invalid version"
 msgid "Invalid version"
 msgstr "Ongeldige versie"
 
-msgctxt "Job"
 msgid "Job"
 msgstr "Vacatures"
 
-msgctxt "Key Password"
 msgid "Key Password"
 msgstr "Sleutel wachtwoord"
 
-msgctxt "Keywords"
 msgid "Keywords"
 msgstr "Trefwoorden"
 
-msgctxt "Label"
 msgid "Label"
 msgstr "Label"
 
-msgctxt "Landscape Left"
 msgid "Landscape Left"
 msgstr "Liggend Links"
 
-msgctxt "Landscape Right"
 msgid "Landscape Right"
 msgstr "Liggend rechts"
 
-msgctxt "Language"
 msgid "Language"
 msgstr "Taal"
 
-msgctxt "Languages"
 msgid "Languages"
 msgstr "Talen"
 
-msgctxt "Last name:"
 msgid "Last name:"
 msgstr "Achternaam:"
 
-msgctxt "Latitude"
 msgid "Latitude"
 msgstr "Breedtegraad"
 
-msgctxt "Layout options"
 msgid "Layout options"
 msgstr "Lay-out opties"
 
-msgctxt "Left"
 msgid "Left"
 msgstr "Links"
 
-msgctxt "Left position"
 msgid "Left position"
 msgstr "Positie links"
 
-msgctxt "Library icons"
 msgid "Library icons"
 msgstr "bibliotheek iconen"
 
-msgctxt "License key"
 msgid "License key"
 msgstr "Licentiesleutel"
 
-msgctxt "Lifestyle"
 msgid "Lifestyle"
 msgstr "Levensstijl"
 
-msgctxt "Line-height"
 msgid "Line-height"
 msgstr "Lijnhoogte"
 
-msgctxt "List of my applications"
 msgid "List of my applications"
 msgstr "Lijst van mijn applicaties"
 
-msgctxt "List of your applications"
 msgid "List of your applications"
 msgstr "Lijst van uw applicaties"
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "Laden"
 
-msgctxt "Lock the entire application"
 msgid "Lock the entire application"
 msgstr "Vergrendel de gehele applicatie"
 
-msgctxt "Longitude"
 msgid "Longitude"
 msgstr "Lengtegraad"
 
-msgctxt "Loop features"
 msgid "Loop features"
 msgstr "Loop functies"
 
-msgctxt "Loop over images"
 msgid "Loop over images"
 msgstr "Loop over afbeeldingen"
 
-msgctxt "Love it <3"
 msgid "Love it <3"
 msgstr "Houd ervan <3"
 
-msgctxt "Lower case"
 msgid "Lower case"
 msgstr "Kleine letters"
 
-msgctxt "LoyaltyCard"
 msgid "LoyaltyCard"
 msgstr "Loyaliteitskaart"
 
-msgctxt "Main"
 msgid "Main"
 msgstr "Hoofd"
 
-msgctxt "Manage Access"
 msgid "Manage Access"
 msgstr "Beheer Toegang"
 
-msgctxt "Manage Admins access feature by feature."
 msgid "Manage Admins access feature by feature."
 msgstr "Beheer Beheerders toegang functie per functie."
 
-msgctxt "Manage Companies"
 msgid "Manage Companies"
 msgstr "Beheer Bedrijven"
 
-msgctxt "Manage icons"
 msgid "Manage icons"
 msgstr "Beheer iconen"
 
-msgctxt "Manage your app's features"
 msgid "Manage your app's features"
 msgstr "Beheren van uw app functies"
 
-msgctxt "Mcommerce"
 msgid "Mcommerce"
 msgstr "mCommerce"
 
-msgctxt "Media"
 msgid "Media"
 msgstr "Media"
 
-msgctxt "Medical"
 msgid "Medical"
 msgstr "Medisch"
 
-msgctxt "Menu-position"
 msgid "Menu-position"
 msgstr "Menu-positie"
 
-msgctxt "Message"
 msgid "Message"
 msgstr "Bericht"
 
-msgctxt "Message for both the two previous usages."
 msgid "Message for both the two previous usages."
 msgstr "Bericht voor beide vorige gebruiksmogelijkheden."
 
-msgctxt "Misc"
 msgid "Misc"
 msgstr "Diversen"
 
-msgctxt "Missing Information"
 msgid "Missing Information"
 msgstr "Ontbrekende informatie"
 
-msgctxt "Missing parameters for cancellation."
 msgid "Missing parameters for cancellation."
 msgstr "Ontbrekende parameters voor de annulering."
 
-msgctxt "Mobile Source Codes"
 msgid "Mobile Source Codes"
 msgstr "Mobiele Source Codes"
 
-msgctxt "Mobile source codes"
 msgid "Mobile source codes"
 msgstr "Mobiele Source Codes"
 
-msgctxt "Mobile website information"
 msgid "Mobile website information"
 msgstr "Mobiele website informatie"
 
-msgctxt "Monetization"
 msgid "Monetization"
 msgstr "Ten gelde maken"
 
-msgctxt "Monetize my app using AdMob?"
 msgid "Monetize my app using AdMob?"
 msgstr "Geld verdienen met mijn app met behulp van AdMob?"
 
-msgctxt "Monetize your app"
 msgid "Monetize your app"
 msgstr "Geld verdienen met uw app"
 
-msgctxt "My Invoices"
 msgid "My Invoices"
 msgstr "Mijn facturen"
 
-msgctxt "My QRCode"
 msgid "My QRCode"
 msgstr "Mijn QRCode"
 
-msgctxt "My application in figures"
 msgid "My application in figures"
 msgstr "Mijn App's in cijfers"
 
-msgctxt "Name"
 msgid "Name"
 msgstr "Naam"
 
-msgctxt "Navigation"
 msgid "Navigation"
 msgstr "Navigatie"
 
-msgctxt "News"
 msgid "News"
 msgstr "Nieuws"
 
-msgctxt "Next"
 msgid "Next"
 msgstr "Volgende"
 
-msgctxt "No"
 msgid "No"
 msgstr "Nee"
 
-msgctxt "No Facebook page? You can"
 msgid "No Facebook page? You can"
 msgstr "Geen Facebook pagina? U kunt"
 
-msgctxt "No account for now."
 msgid "No account for now."
 msgstr "Nog geen account voor nu."
 
-msgctxt "No data found"
 msgid "No data found"
 msgstr "Geen data gevonden"
 
-msgctxt "No features available for this application."
 msgid "No features available for this application."
 msgstr "Geen functies beschikbaar voor deze toepassing."
 
-msgctxt "No message sent, there is no available applications."
 msgid "No message sent, there is no available applications."
 msgstr "Geen bericht is verzonden, er is geen beschikbare applicaties."
 
-msgctxt "No options available."
 msgid "No options available."
 msgstr "Geen opties beschikbaar."
 
-msgctxt "Not available offline."
 msgid "Not available offline."
 msgstr "Niet offline beschikbaar."
 
-msgctxt ""
-"Note that if you want to add ads later, you will have to publish the app "
-"again."
 msgid ""
 "Note that if you want to add ads later, you will have to publish the app "
 "again."
@@ -1544,89 +1154,66 @@ msgstr ""
 "Opmerking: als u advertenties later wilt toevoegen, moet u de app opnieuw "
 "publiceren."
 
-msgctxt "Nothing to show for now."
 msgid "Nothing to show for now."
 msgstr "Niets meer te zien voor nu."
 
-msgctxt "Notification center"
 msgid "Notification center"
 msgstr "Meldingscentrum"
 
-msgctxt "Off"
 msgid "Off"
 msgstr "UIt"
 
-msgctxt "Offset"
 msgid "Offset"
 msgstr "compenseren"
 
-msgctxt "On!"
 msgid "On!"
 msgstr "Aan!"
 
-msgctxt "One free coffee"
 msgid "One free coffee"
 msgstr "Één gratis koffie"
 
-msgctxt "Option successfully saved"
 msgid "Option successfully saved"
 msgstr "Optie succesvol opgeslagen"
 
-msgctxt "Options"
 msgid "Options"
 msgstr "Opties"
 
-msgctxt "Options saved"
 msgid "Options saved"
 msgstr "Opties opgeslagen"
 
-msgctxt "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgid "Or go on your store<br />and look for 'Apps Company Previewer'"
 msgstr "Of ga op uw winkel<br />en zoek naar 'Apps Bedrijf Previewer'"
 
-msgctxt "Order places"
 msgid "Order places"
 msgstr "Bestelling plaatsen"
 
-msgctxt "Order places by distance:"
 msgid "Order places by distance:"
 msgstr "Bestelling plaatsen door op afstand:"
 
-msgctxt "Order results alphebetically:"
 msgid "Order results alphebetically:"
 msgstr "Orden de resultaten alfabetisch:"
 
-msgctxt "Orientations saved!"
 msgid "Orientations saved!"
 msgstr "Oriëntaties opgeslagen!"
 
-msgctxt "Other"
 msgid "Other"
 msgstr "Ander"
 
-msgctxt "Package Name"
 msgid "Package Name"
 msgstr "Pakket Naam"
 
-msgctxt "Page name:"
 msgid "Page name:"
 msgstr "Pagina naam:"
 
-msgctxt "Partially available offline."
 msgid "Partially available offline."
 msgstr "Gedeeltelijk offline beschikbaar."
 
-msgctxt "Percentage of returning customers"
 msgid "Percentage of returning customers"
 msgstr "Percentage terugkerende klanten"
 
-msgctxt "Period to long, please select less than one month."
 msgid "Period to long, please select less than one month."
 msgstr "Periode te lang, kies dan minder dan een maand."
 
-msgctxt ""
-"Permissions Modal Alerts messages describe why your apps requires some "
-"permissions,"
 msgid ""
 "Permissions Modal Alerts messages describe why your apps requires some "
 "permissions,"
@@ -1634,18 +1221,12 @@ msgstr ""
 "Machtigingen Modal Alerts-berichten beschrijven waarom uw apps bepaalde "
 "rechten nodig hebben,"
 
-msgctxt "Photo & Video"
 msgid "Photo & Video"
 msgstr "Foto & Video"
 
-msgctxt "Places"
 msgid "Places"
 msgstr "Plaatsen"
 
-msgctxt ""
-"Please check your messages before sending your app to be published, "
-"specifically if you are using iOS Auto publish service: if your app is "
-"refused after review, one build will be consumed."
 msgid ""
 "Please check your messages before sending your app to be published, "
 "specifically if you are using iOS Auto publish service: if your app is "
@@ -1655,37 +1236,27 @@ msgstr ""
 "de iOS Auto Publish-service gebruikt: als uw app wordt geweigerd na "
 "beoordeling, wordt één build verbruikt."
 
-msgctxt "Please enter a correct URL for the %s store"
 msgid "Please enter a correct URL for the %s store"
 msgstr "Vul een juiste URL voor de %s winkel"
 
-msgctxt "Please enter a number for the duration."
 msgid "Please enter a number for the duration."
 msgstr "Vul een getal voor de duur."
 
-msgctxt "Please enter a subdomain."
 msgid "Please enter a subdomain."
 msgstr "Vul een subdomein in."
 
-msgctxt "Please enter a valid URL"
 msgid "Please enter a valid URL"
 msgstr "Vul een geldige URL in"
 
-msgctxt "Please enter a valid address"
 msgid "Please enter a valid address"
 msgstr "Vul een geldig adres in"
 
-msgctxt "Please enter a valid mobile website address."
 msgid "Please enter a valid mobile website address."
 msgstr "Vul een geldig mobiele website-adres in."
 
-msgctxt "Please fill iTunes Connect Identifier."
 msgid "Please fill iTunes Connect Identifier."
 msgstr "Vul de iTunes Connect Identifier in."
 
-msgctxt ""
-"Please note that AAC+ streams aren't managed yet on Firefox browser, but it "
-"will work well in the app."
 msgid ""
 "Please note that AAC+ streams aren't managed yet on Firefox browser, but it "
 "will work well in the app."
@@ -1693,177 +1264,132 @@ msgstr ""
 "Houdt u er rekening mee dat AAC+ streams niet werken in de Firefox-browser, "
 "maar het zal goed werken in de app."
 
-msgctxt "Please select at least one language."
 msgid "Please select at least one language."
 msgstr "Selecteer ten minste één taal."
 
-msgctxt "Please wait while we generate application source."
 msgid "Please wait while we generate application source."
 msgstr "Geduld aub, we genereren applicatie source."
 
-msgctxt "Port"
 msgid "Port"
 msgstr "Poort"
 
-msgctxt "Portrait"
 msgid "Portrait"
 msgstr "Staand"
 
-msgctxt "Preset"
 msgid "Preset"
 msgstr "Voor instellingen"
 
-msgctxt "Preview"
 msgid "Preview"
 msgstr "Voorbeeld"
 
-msgctxt "Preview and test your native apps directly on your mobile."
 msgid "Preview and test your native apps directly on your mobile."
 msgstr "Bekijk en test uw native apps rechtstreeks op uw mobiel."
 
-msgctxt "Preview on your phone"
 msgid "Preview on your phone"
 msgstr "Voorbeeld op uw telefoon"
 
-msgctxt "Privacy policy URL"
 msgid "Privacy policy URL"
 msgstr "Privacy Beleid URL"
 
-msgctxt "Proceed to checkout before downloading the source code."
 msgid "Proceed to checkout before downloading the source code."
 msgstr "Ga door naar de kassa voordat je de broncode downloadt."
 
-msgctxt "Productivity"
 msgid "Productivity"
 msgstr "Productiviteit"
 
-msgctxt "Promote"
 msgid "Promote"
 msgstr "Promoot"
 
-msgctxt "Promote your app!"
 msgid "Promote your app!"
 msgstr "Promoot je app!"
 
-msgctxt "Promotion"
 msgid "Promotion"
 msgstr "Promotie"
 
-msgctxt "Publication"
 msgid "Publication"
 msgstr "Publicatie"
 
-msgctxt "Publish automatically to iTunes Connect"
 msgid "Publish automatically to iTunes Connect"
 msgstr "Publiceer automatisch naar iTunes Connect"
 
-msgctxt "Publish the application"
 msgid "Publish the application"
 msgstr "Publiceer de App"
 
-msgctxt "Publish under our account"
 msgid "Publish under our account"
 msgstr "Publiceren onder onze account"
 
-msgctxt "QR Coupons"
 msgid "QR Coupons"
 msgstr "QR-coupons"
 
-msgctxt "Ready ? Publish my app!"
 msgid "Ready ? Publish my app!"
 msgstr "Klaar? Publiceer mijn App!"
 
-msgctxt "Recommended size:"
 msgid "Recommended size:"
 msgstr "Aanbevolen grootte:"
 
-msgctxt "Reference"
 msgid "Reference"
 msgstr "Referentie"
 
-msgctxt "Remaining build"
 msgid "Remaining build"
 msgstr "Resterende build"
 
-msgctxt "Remaining builds"
 msgid "Remaining builds"
 msgstr "Resterende builds"
 
-msgctxt "Remove this page from this folder?"
 msgid "Remove this page from this folder?"
 msgstr "Verwijder pagina uit deze map?"
 
-msgctxt "Reset"
 msgid "Reset"
 msgstr "Reset"
 
-msgctxt "Return to current feature"
 msgid "Return to current feature"
 msgstr "Keer terug naar de huidige functie"
 
-msgctxt "Right"
 msgid "Right"
 msgstr "Rechts"
 
-msgctxt "Right position"
 msgid "Right position"
 msgstr "Positie rechts"
 
-msgctxt "Rss"
 msgid "Rss"
 msgstr "Rss"
 
-msgctxt "SMTP Configuration"
 msgid "SMTP Configuration"
 msgstr "SMTP-Configuratie"
 
-msgctxt "SSL"
 msgid "SSL"
 msgstr "SSL"
 
-msgctxt "Save"
 msgid "Save"
 msgstr "Bewaar"
 
-msgctxt "Save publication settings"
 msgid "Save publication settings"
 msgstr "Publicatie Instellingen opslaan"
 
-msgctxt "Scan this QR Code"
 msgid "Scan this QR Code"
 msgstr "Scan deze QR Code"
 
-msgctxt "Search by keywords ..."
 msgid "Search by keywords ..."
 msgstr "Zoeken op trefwoorden ..."
 
-msgctxt "Search filters & Options"
 msgid "Search filters & Options"
 msgstr "Zoek filters en Opties"
 
-msgctxt "Search radius"
 msgid "Search radius"
 msgstr "Zoek straal"
 
-msgctxt "Search settings"
 msgid "Search settings"
 msgstr "Zoek instellingen"
 
-msgctxt "Secondary category"
 msgid "Secondary category"
 msgstr "Secundaire categorie"
 
-msgctxt "Secondary category<br />(Optional)"
 msgid "Secondary category<br />(Optional)"
 msgstr "Secundaire categorie <br/> (optioneel)"
 
-msgctxt "Secret Key"
 msgid "Secret Key"
 msgstr "Geheime sleutel"
 
-msgctxt ""
-"Send here your iOS certificate to enable the push notifications for this "
-"application."
 msgid ""
 "Send here your iOS certificate to enable the push notifications for this "
 "application."
@@ -1871,73 +1397,54 @@ msgstr ""
 "Plaats hier uw iOS-certificaat, om de pushmeldingen voor deze App in te "
 "schakelen."
 
-msgctxt "Send request"
 msgid "Send request"
 msgstr "Verzoek versturen"
 
-msgctxt "Send you .pem certificate"
 msgid "Send you .pem certificate"
 msgstr "Verzend je .pem-certificaat"
 
-msgctxt "Sender name/e-mail"
 msgid "Sender name/e-mail"
 msgstr "E-mail afzender"
 
-msgctxt "Sender name/e-mail & Custom SMTP"
 msgid "Sender name/e-mail & Custom SMTP"
 msgstr "Naam afzender / e-mail & Aangepaste SMTP"
 
-msgctxt "Server"
 msgid "Server"
 msgstr "Server"
 
-msgctxt "Show"
 msgid "Show"
 msgstr "Toon"
 
-msgctxt "Show the applications waiting for publication only."
 msgid "Show the applications waiting for publication only."
 msgstr "Toon alleen App's die wachten op publicatie."
 
-msgctxt "Sidebar width"
 msgid "Sidebar width"
 msgstr "Zijbalk breedte"
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr "Slider"
 
-msgctxt "Slider height"
 msgid "Slider height"
 msgstr "Slider hoogte"
 
-msgctxt "Slider images duration, in seconds:"
 msgid "Slider images duration, in seconds:"
 msgstr "Slider afbeeldingen looptijd, in seconden:"
 
-msgctxt "Slideshow duration"
 msgid "Slideshow duration"
 msgstr "Duur slideshow"
 
-msgctxt "Social"
 msgid "Social"
 msgstr "Sociaal"
 
-msgctxt "Social Networking"
 msgid "Social Networking"
 msgstr "Sociaal netwerken"
 
-msgctxt "Social Sharing"
 msgid "Social Sharing"
 msgstr "Sociaal delen"
 
-msgctxt "Socialgaming"
 msgid "Socialgaming"
 msgstr "Socialgaming"
 
-msgctxt ""
-"Sorry, an error occurred while fetching data from Facebook. Please contact "
-"an admin."
 msgid ""
 "Sorry, an error occurred while fetching data from Facebook. Please contact "
 "an admin."
@@ -1945,9 +1452,6 @@ msgstr ""
 "Sorry, er is een fout opgetreden tijdens het ophalen van gegevens bij "
 "Facebook. Neem contact op met een admin."
 
-msgctxt ""
-"Sorry, it seems that Facebook credentials are invalid. Please contact an "
-"administrator."
 msgid ""
 "Sorry, it seems that Facebook credentials are invalid. Please contact an "
 "administrator."
@@ -1955,40 +1459,30 @@ msgstr ""
 "Sorry, het lijkt erop dat Facebook aanmeldingsgegevens ongeldig zijn. Neem "
 "contact op met een beheerder."
 
-msgctxt ""
-"Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgid ""
 "Sorry, no data was found for this page. Maybe you used the wrong page id?"
 msgstr ""
 "Sorry, er is geen data gevonden voor deze pagina. Misschien heb je de "
 "verkeerde pagina-id gebruikt?"
 
-msgctxt "Sorry, we need a page id."
 msgid "Sorry, we need a page id."
 msgstr "Sorry, we hebben een pagina-id nodig."
 
-msgctxt "Source type"
 msgid "Source type"
 msgstr "Bron Type"
 
-msgctxt "Sourcecode"
 msgid "Sourcecode"
 msgstr "Broncode"
 
-msgctxt "Specifies the reason for your app to access the device's accelerometer."
 msgid "Specifies the reason for your app to access the device's accelerometer."
 msgstr ""
 "Geeft de reden aan voor uw app om toegang te krijgen tot de accelerometer "
 "van het apparaat."
 
-msgctxt "Specifies the reason for your app to access the device's camera."
 msgid "Specifies the reason for your app to access the device's camera."
 msgstr ""
 "Hiermee geeft u de reden voor uw app toegang tot de camera van het apparaat."
 
-msgctxt ""
-"Specifies the reason for your app to access the user's location information "
-"at all times."
 msgid ""
 "Specifies the reason for your app to access the user's location information "
 "at all times."
@@ -1996,15 +1490,11 @@ msgstr ""
 "Hiermee geeft u de reden voor uw app toegang tot de locatie van de gebruiker "
 "ten alle tijden."
 
-msgctxt "Specifies the reason for your app to access the user's photo library."
 msgid "Specifies the reason for your app to access the user's photo library."
 msgstr ""
 "Hiermee geeft u de reden op voor uw app om toegang te krijgen tot de "
 "fotobibliotheek van de gebruiker."
 
-msgctxt ""
-"Specifies the reason for your app to access the user’s location information "
-"while your app is in use."
 msgid ""
 "Specifies the reason for your app to access the user’s location information "
 "while your app is in use."
@@ -2012,212 +1502,157 @@ msgstr ""
 "Geeft de reden aan voor uw app om toegang te krijgen tot de locatiegegevens "
 "van de gebruiker terwijl uw app in gebruik is."
 
-msgctxt "Sports"
 msgid "Sports"
 msgstr "Sport"
 
-msgctxt "Square icons"
 msgid "Square icons"
 msgstr "Vierkante pictogrammen"
 
-msgctxt "Startup image"
 msgid "Startup image"
 msgstr "Opstart afbeelding"
 
-msgctxt "Status"
 msgid "Status"
 msgstr "Status"
 
-msgctxt "Status bar"
 msgid "Status bar"
 msgstr "Status bar"
 
-msgctxt "Store App ID"
 msgid "Store App ID"
 msgstr "App Store ID"
 
-msgctxt "Store Password"
 msgid "Store Password"
 msgstr "Wachtwoord winkel"
 
-msgctxt "Store URL"
 msgid "Store URL"
 msgstr "Winkel URL"
 
-msgctxt "Stores Info"
 msgid "Stores Info"
 msgstr "Winkel Info"
 
-msgctxt "Stores URL"
 msgid "Stores URL"
 msgstr "Winkel URL"
 
-msgctxt "Stretch"
 msgid "Stretch"
 msgstr "Uitrekken"
 
-msgctxt "Subheader"
 msgid "Subheader"
 msgstr "Sub-kop"
 
-msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr "Ondertitel:"
 
-msgctxt "Success."
 msgid "Success."
 msgstr "Gelukt."
 
-msgctxt "System"
 msgid "System"
 msgstr "Systeem"
 
-msgctxt "Tabbar"
 msgid "Tabbar"
 msgstr "Tabbalk"
 
-msgctxt "Tags"
 msgid "Tags"
 msgstr "Tags"
 
-msgctxt "Tags separated by commas"
 msgid "Tags separated by commas"
 msgstr "tags (gescheiden door komma's)"
 
-msgctxt "Template"
 msgid "Template"
 msgstr "Sjabloon"
 
-msgctxt "Template description"
 msgid "Template description"
 msgstr "Sjabloon beschrijving"
 
-msgctxt "Template name"
 msgid "Template name"
 msgstr "Sjabloon naam"
 
-msgctxt "Template preview"
 msgid "Template preview"
 msgstr "Sjabloonvoorbeeld"
 
-msgctxt "Template version"
 msgid "Template version"
 msgstr "Sjabloon versie"
 
-msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr "Voorwaarden & Condities"
 
-msgctxt "The Bundle Id is required"
 msgid "The Bundle Id is required"
 msgstr "De Bundle Id is verplicht"
 
-msgctxt "The QR Code is not available at this moment"
 msgid "The QR Code is not available at this moment"
 msgstr "De QR code is niet beschikbaar op dit moment"
 
-msgctxt "The White-label you are trying to edit doesn't exists."
 msgid "The White-label you are trying to edit doesn't exists."
 msgstr "Het White-label dat u probeert te bewerken, bestaat niet."
 
-msgctxt "The application has been successfully saved"
 msgid "The application has been successfully saved"
 msgstr "De App is met succes opgeslagen"
 
-msgctxt "The application name"
 msgid "The application name"
 msgstr "De applicatie naam"
 
-msgctxt "The application's name cannot start with a number"
 msgid "The application's name cannot start with a number"
 msgstr "De naam van de applicatie kan niet beginnen met een getal"
 
-msgctxt "The bundle id"
 msgid "The bundle id"
 msgstr "Het bundel-ID"
 
-msgctxt "The description"
 msgid "The description"
 msgstr "De beschrijving"
 
-msgctxt "The description must be at least 200 characters"
 msgid "The description must be at least 200 characters"
 msgstr "De beschrijving moet minstens 200 tekens bevatten"
 
-msgctxt "The desktop icon"
 msgid "The desktop icon"
 msgstr "Het bureaublad icoon"
 
-msgctxt ""
-"The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgid ""
 "The entered bundle id is incorrect, it should be like: com.siberiancms.app"
 msgstr ""
 "De ingevoerde bundel ID onjuist, het zou hier op moeten lijken: "
 "com.siberiancms.app"
 
-msgctxt "The field is required"
 msgid "The field is required"
 msgstr "Dit veld is verplicht"
 
-msgctxt "The file has been successfully uploaded"
 msgid "The file has been successfully uploaded"
 msgstr "Het bestand is met succes geüpload"
 
-msgctxt ""
-"The following information are needed to download the source codes:<br />"
 msgid ""
 "The following information are needed to download the source codes:<br />"
 msgstr "De volgende gegevens zijn nodig om de broncodes downloaden: <br/>"
 
-msgctxt "The homepage image"
 msgid "The homepage image"
 msgstr "De thuis(home)pagina afbeelding"
 
-msgctxt "The key cannot be empty."
 msgid "The key cannot be empty."
 msgstr "De sleutel kan niet leeg zijn."
 
-msgctxt "The key is already used by another application."
 msgid "The key is already used by another application."
 msgstr "De sleutel wordt al gebruikt door een andere toepassing."
 
-msgctxt "The keywords"
 msgid "The keywords"
 msgstr "De trefwoorden"
 
-msgctxt "The main category"
 msgid "The main category"
 msgstr "De hoofd categorie"
 
-msgctxt "The startup image"
 msgid "The startup image"
 msgstr "Opstart afbeelding"
 
-msgctxt "This application does not exist"
 msgid "This application does not exist"
 msgstr "Deze applicatie bestaat niet"
 
-msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr "Deze applicatie is niet meer beschikbaar"
 
-msgctxt "This application is visible on the front"
 msgid "This application is visible on the front"
 msgstr "Deze applicatie is zichtbaar aan de voorkant"
 
-msgctxt "This key is already used by system features."
 msgid "This key is already used by system features."
 msgstr "Deze sleutel wordt gebruikt door systeemfuncties."
 
-msgctxt "This option enables you to set the currency used in your app"
 msgid "This option enables you to set the currency used in your app"
 msgstr "Met deze optie kunt u de valuta instellen die in uw app wordt gebruikt"
 
-msgctxt ""
-"This page will be displayed to mobile users to enable them to login and "
-"manage their account. It is automatically added when you use features which "
-"need user login."
 msgid ""
 "This page will be displayed to mobile users to enable them to login and "
 "manage their account. It is automatically added when you use features which "
@@ -2227,175 +1662,130 @@ msgstr ""
 "inloggen en hun account kunnen beheren. Het wordt automatisch toegevoegd "
 "wanneer u functies gebruikt waarvoor gebruikers aanmelding nodig is."
 
-msgctxt "This user can add pages to this application."
 msgid "This user can add pages to this application."
 msgstr "Deze gebruiker kan pagina's toe te voegen aan deze applicatie."
 
-msgctxt "Tip"
 msgid "Tip"
 msgstr "Tip"
 
-msgctxt "Tips calculator"
 msgid "Tips calculator"
 msgstr "Fooi calculator"
 
-msgctxt "Title"
 msgid "Title"
 msgstr "Titel"
 
-msgctxt "Title case"
 msgid "Title case"
 msgstr "Titel case"
 
-msgctxt "Title position"
 msgid "Title position"
 msgstr "Titel positie"
 
-msgctxt "Titles"
 msgid "Titles"
 msgstr "Titels"
 
-msgctxt ""
-"To be able to download source codes, please provide the following "
-"information:<br />"
 msgid ""
 "To be able to download source codes, please provide the following "
 "information:<br />"
 msgstr ""
 "Geef de volgende informatie op om de broncodes te kunnen downloaden: <br />"
 
-msgctxt "Top"
 msgid "Top"
 msgstr "Top"
 
-msgctxt "Topic"
 msgid "Topic"
 msgstr "Onderwerp"
 
-msgctxt "Translation"
 msgid "Translation"
 msgstr "Vertaling"
 
-msgctxt "Transparent"
 msgid "Transparent"
 msgstr "Transparant"
 
-msgctxt "Travel"
 msgid "Travel"
 msgstr "Reizen"
 
-msgctxt "Twitter API Keys"
 msgid "Twitter API Keys"
 msgstr "Twitter API Sleutels"
 
-msgctxt "Twitter API secret"
 msgid "Twitter API secret"
 msgstr "Twitter API geheim"
 
-msgctxt "Twitter API settings"
 msgid "Twitter API settings"
 msgstr "Twitter-API-instellingen"
 
-msgctxt "Twitter API token"
 msgid "Twitter API token"
 msgstr "Twitter API-token"
 
-msgctxt "Twitter consumer key"
 msgid "Twitter consumer key"
 msgstr "Twitter-consumentssleutel"
 
-msgctxt "Twitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr "Twitter consument geheim"
 
-msgctxt "Type"
 msgid "Type"
 msgstr "Type"
 
-msgctxt "UP"
 msgid "UP"
 msgstr "TOT"
 
-msgctxt "URL"
 msgid "URL"
 msgstr "URL"
 
-msgctxt "URL Key"
 msgid "URL Key"
 msgstr "URL Sleutel"
 
-msgctxt "Upload icon"
 msgid "Upload icon"
 msgstr "Upload icoon"
 
-msgctxt "Upload image"
 msgid "Upload image"
 msgstr "Upload afbeelding"
 
-msgctxt "Upper case"
 msgid "Upper case"
 msgstr "Hoofdletters"
 
-msgctxt "Upside Down"
 msgid "Upside Down"
 msgstr "Ondersteboven"
 
-msgctxt "Use Owner AdMob"
 msgid "Use Owner AdMob"
 msgstr "Gebruik Eigenaar AdMob"
 
-msgctxt "Use ads for platform owner"
 msgid "Use ads for platform owner"
 msgstr "Gebruik advertenties van platform eigenaar"
 
-msgctxt "Use background into all of your application's pages"
 msgid "Use background into all of your application's pages"
 msgstr "Gebruik de achtergrond in alle pagina's van uw applicatie"
 
-msgctxt "Use into all of your application's pages"
 msgid "Use into all of your application's pages"
 msgstr "Gebruik in alle pagina's van uw applicatie"
 
-msgctxt "Used points"
 msgid "Used points"
 msgstr "Gebruikte punten"
 
-msgctxt "User:"
 msgid "User:"
 msgstr "Gebruiker:"
 
-msgctxt "User Information"
 msgid "User Information"
 msgstr "Gebruiker Informatie"
 
-msgctxt "Utilities"
 msgid "Utilities"
 msgstr "Hulpprogamma's"
 
-msgctxt "Version"
 msgid "Version"
 msgstr "Versie"
 
-msgctxt "Video"
 msgid "Video"
 msgstr "Video"
 
-msgctxt "Visible"
 msgid "Visible"
 msgstr "Zichtbaar"
 
-msgctxt "Visible from all pages"
 msgid "Visible from all pages"
 msgstr "Zichtbaar vanuit alle pagina's"
 
-msgctxt "Visible from all the application's pages (removes the homepage)"
 msgid "Visible from all the application's pages (removes the homepage)"
 msgstr ""
 "Zichtbaar vanaf alle pagina's van de applicatie (verwijdert de homepage)"
 
-msgctxt ""
-"We are sorry but this application has been deactivated and may not be re-"
-"activated."
 msgid ""
 "We are sorry but this application has been deactivated and may not be re-"
 "activated."
@@ -2403,49 +1793,36 @@ msgstr ""
 "Het spijt ons maar deze applicatie is uitgeschakeld en kan niet opnieuw "
 "worden geactiveerd."
 
-msgctxt "Weather"
 msgid "Weather"
 msgstr "Weer"
 
-msgctxt "Weblink"
 msgid "Weblink"
 msgstr "Weblink"
 
-msgctxt "White Label Editor Settings"
 msgid "White Label Editor Settings"
 msgstr "White Label Editor Instellingen"
 
-msgctxt "Width"
 msgid "Width"
 msgstr "Breedte"
 
-msgctxt "With ads functionality"
 msgid "With ads functionality"
 msgstr "Met advertenties functionaliteit"
 
-msgctxt "With background audio playing"
 msgid "With background audio playing"
 msgstr "Met achtergrond audio afspelen"
 
-msgctxt "With background geolocation"
 msgid "With background geolocation"
 msgstr "Met achtergrond locatie"
 
-msgctxt "With options"
 msgid "With options"
 msgstr "Met opties"
 
-msgctxt "Yes"
 msgid "Yes"
 msgstr "Ja"
 
-msgctxt "You already have sent a certificate."
 msgid "You already have sent a certificate."
 msgstr "Je hebt al een certificaat verstuurd."
 
-msgctxt ""
-"You already sent a request, please wait 3 days from your previous request to "
-"retry."
 msgid ""
 "You already sent a request, please wait 3 days from your previous request to "
 "retry."
@@ -2453,9 +1830,6 @@ msgstr ""
 "Je hebt al een verzoek verzonden. Wacht 3 dagen vanaf je vorige verzoek om "
 "het opnieuw te proberen."
 
-msgctxt ""
-"You can add or change license in (<strong>Settings / General</strong>).<br/"
-"><em>note: builds are only consumed if they're successful.</em>"
 msgid ""
 "You can add or change license in (<strong>Settings / General</strong>).<br/"
 "><em>note: builds are only consumed if they're successful.</em>"
@@ -2464,14 +1838,10 @@ msgstr ""
 "Algemeen</strong> ). <br/> <em>opmerking: builds worden alleen verbruikt als "
 "ze succesvol zijn.</em>"
 
-msgctxt "You can use <b>%s</b> as variable for your application name."
 msgid "You can use <b>%s</b> as variable for your application name."
 msgstr ""
 "U kunt <b>% s gebruiken</b> als variabele voor de naam van uw applicatie."
 
-msgctxt ""
-"You cannot have multiple sessions to manage apps, so the session for this "
-"app is closed. This page is about to be reloaded."
 msgid ""
 "You cannot have multiple sessions to manage apps, so the session for this "
 "app is closed. This page is about to be reloaded."
@@ -2479,72 +1849,52 @@ msgstr ""
 "Je kan niet meerdere sessies beheren voor app's, de sessie voor deze app is "
 "gesloten. Deze pagina wordt opnieuw geladen."
 
-msgctxt "You can't go back to Angular design."
 msgid "You can't go back to Angular design."
 msgstr "Je kan niet terug naar Angular."
 
-msgctxt "You can't use this domain."
 msgid "You can't use this domain."
 msgstr "U kunt dit domein niet gebruiken."
 
-msgctxt "You don't have any applications yet"
 msgid "You don't have any applications yet"
 msgstr "U heeft nog geen applicaties"
 
-msgctxt "You have already sent a certificate"
 msgid "You have already sent a certificate"
 msgstr "Je hebt al een certificaat verstuurd"
 
-msgctxt "You have sent a certificate."
 msgid "You have sent a certificate."
 msgstr "Je hebt een certificaat verstuurd."
 
-msgctxt ""
-"You have to purchase the application before downloading the mobile source "
-"code."
 msgid ""
 "You have to purchase the application before downloading the mobile source "
 "code."
 msgstr "U moet de applicatie kopen voordat u de mobiele broncode downloadt."
 
-msgctxt "You haven't chosen any template yet"
 msgid "You haven't chosen any template yet"
 msgstr "U heeft nog geen sjabloon gekozen"
 
-msgctxt "You may not delete a library icon"
 msgid "You may not delete a library icon"
 msgstr "Je mag geen bibliotheek icoon verwijderen"
 
-msgctxt "You must choose an ads type"
 msgid "You must choose an ads type"
 msgstr "U moet een advertentietype kiezen"
 
-msgctxt "You must have published your application to access this feature"
 msgid "You must have published your application to access this feature"
 msgstr ""
 "U moet uw applicatie hebben gepubliceerd om toegang tot deze functie te "
 "krijgen"
 
-msgctxt "You must select at least one orientation for iPad!"
 msgid "You must select at least one orientation for iPad!"
 msgstr "U moet ten minste één oriëntatie voor de iPad selecteren!"
 
-msgctxt "You must select at least one orientation for iPhone!"
 msgid "You must select at least one orientation for iPhone!"
 msgstr "U moet ten minste één oriëntatie voor de iPhone selecteren!"
 
-msgctxt "Your CNAME is not properly set"
 msgid "Your CNAME is not properly set"
 msgstr "Je CNAME is niet correct ingesteld"
 
-msgctxt "Your CNAME is properly set"
 msgid "Your CNAME is properly set"
 msgstr "Je CNAME is niet correct ingesteld"
 
-msgctxt ""
-"Your administrator is using a custom smtp provider, if you don't want to use "
-"your own SMTP provider, you are invited to send a whitelist request via the "
-"button below"
 msgid ""
 "Your administrator is using a custom smtp provider, if you don't want to use "
 "your own SMTP provider, you are invited to send a whitelist request via the "
@@ -2554,83 +1904,62 @@ msgstr ""
 "SMTP-provider niet wilt gebruiken, kunt u via de onderstaande knop een "
 "whitelist-aanvraag verzenden"
 
-msgctxt "Your analytics has been computed."
 msgid "Your analytics has been computed."
 msgstr "Uw analyses zijn berekend."
 
-msgctxt "Your app will be published"
 msgid "Your app will be published"
 msgstr "Je app wordt gepubliceerd"
 
-msgctxt "Your application in few numbers"
 msgid "Your application in few numbers"
 msgstr "Uw applicatie in enkele cijfers"
 
-msgctxt "Your application is now switched to Ionic"
 msgid "Your application is now switched to Ionic"
 msgstr "Uw applicatie is nu overgeschakeld naar Ionic"
 
-msgctxt "Your application is ready to be published."
 msgid "Your application is ready to be published."
 msgstr "Uw applicatie is klaar om te worden gepubliceerd."
 
-msgctxt "Your best customers"
 msgid "Your best customers"
 msgstr "Je beste klanten"
 
-msgctxt "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgid "Your bundle id is invalid, format should looks like com.mydomain.iosid"
 msgstr ""
 "Uw bundel-ID is ongeldig, het formaat zou moeten lijken op "
 "com.mijndomein.iosid"
 
-msgctxt "Your customers in figures"
 msgid "Your customers in figures"
 msgstr "Uw klanten in cijfers"
 
-msgctxt "Your customization has been applied to %s."
 msgid "Your customization has been applied to %s."
 msgstr "Uw aanpassing is toegepast op %s."
 
-msgctxt "Your customization has been applied to your white label panel."
 msgid "Your customization has been applied to your white label panel."
 msgstr "Uw aanpassing is toegepast op uw white label-paneel."
 
-msgctxt "Your design"
 msgid "Your design"
 msgstr "Uw ontwerp"
 
-msgctxt "Your iOS autobuild License Key"
 msgid "Your iOS autobuild License Key"
 msgstr "Uw iOS app bouw licentiecode"
 
-msgctxt "Your mobile address should not contain special characters"
 msgid "Your mobile address should not contain special characters"
 msgstr "Uw mobiele-adres mag geen speciale tekens bevatten"
 
-msgctxt ""
-"Your package name is invalid, format should looks like com.mydomain.androidid"
 msgid ""
 "Your package name is invalid, format should looks like com.mydomain.androidid"
 msgstr ""
 "Uw pakketnaam is ongeldig, het formaat zou moeten lijken op "
 "com.mijndomein.androidid"
 
-msgctxt "Your pages"
 msgid "Your pages"
 msgstr "Uw pagina's"
 
-msgctxt "address"
 msgid "address"
 msgstr "adres"
 
-msgctxt "alphabetically"
 msgid "alphabetically"
 msgstr "alfabetisch"
 
-msgctxt ""
-"<b>Around you</b> option for the Overview & HTML5 will be displayed & work "
-"only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgid ""
 "<b>Around you</b> option for the Overview & HTML5 will be displayed & work "
 "only when using HTTPS, however it works in Android & iOS apps without HTTPS."
@@ -2639,13 +1968,9 @@ msgstr ""
 "werkt alleen als je HTTPS gebruikt, maar het werkt in Android- en iOS-apps "
 "zonder HTTPS."
 
-msgctxt "<b>File type:</b> %s"
 msgid "<b>File type:</b> %s"
 msgstr "<b>Bestands- type:</b> %s"
 
-msgctxt ""
-"<b>Note: </b>Icon must be white with transparency, the crop window will "
-"colorize it otherwise"
 msgid ""
 "<b>Note: </b>Icon must be white with transparency, the crop window will "
 "colorize it otherwise"
@@ -2653,9 +1978,6 @@ msgstr ""
 "<b>Opmerking: </b>Pictogram moet wit worden met transparantie, het venster "
 "bijsnijden zal het anders inkleuren"
 
-msgctxt ""
-"<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the "
-"cron interval can increase your server load, be careful."
 msgid ""
 "<b>Note</b>: the cron scheduler minimum interval is 10 seconds, reducing the "
 "cron interval can increase your server load, be careful."
@@ -2663,9 +1985,6 @@ msgstr ""
 "<b>Opmerking</b> : het minimale interval van de cron-planner is 10 seconden, "
 "waardoor het cron-interval uw serverbelasting kan verhogen, wees voorzichtig."
 
-msgctxt ""
-"<b>Push image & Color</b> are dynamic and doesn't require the app to be re-"
-"published."
 msgid ""
 "<b>Push image & Color</b> are dynamic and doesn't require the app to be re-"
 "published."
@@ -2673,93 +1992,69 @@ msgstr ""
 "<b>Afbeelding en kleur pushen</b> zijn dynamisch en vereisen niet dat de app "
 "opnieuw wordt gepubliceerd."
 
-msgctxt "building"
 msgid "building"
 msgstr "Genereren code"
 
-msgctxt "by distance"
 msgid "by distance"
 msgstr "op afstand"
 
-msgctxt "default, by creation date"
 msgid "default, by creation date"
 msgstr "standaard, op aanmaakdatum"
 
-msgctxt "eBanner iOS price"
 msgid "eBanner iOS price"
 msgstr "eBanner iOS prijs"
 
-msgctxt "e.g: On %s"
 msgid "e.g: On %s"
 msgstr "b.v: Op %s"
 
-msgctxt "failed"
 msgid "failed"
 msgstr "Mislukt"
 
-msgctxt "from"
 msgid "from"
 msgstr "van"
 
-msgctxt "iOS"
 msgid "iOS"
 msgstr "iOS"
 
-msgctxt "iOS Certificate"
 msgid "iOS Certificate"
 msgstr "iOS Certificaat"
 
-msgctxt "iPad Retina:"
 msgid "iPad Retina:"
 msgstr "iPad Retina :"
 
-msgctxt "iPad orientation settings"
 msgid "iPad orientation settings"
 msgstr "iPad-oriëntatie-instellingen"
 
-msgctxt "iPhone & iPad orientation"
 msgid "iPhone & iPad orientation"
 msgstr "iPhone & iPad oriëntatie"
 
-msgctxt "iPhone 5 / 5S:"
 msgid "iPhone 5 / 5S:"
 msgstr "iPhone 5 / 5S :"
 
-msgctxt "iPhone 6:"
 msgid "iPhone 6:"
 msgstr "IPhone 6 :"
 
-msgctxt "iPhone 6 Plus:"
 msgid "iPhone 6 Plus:"
 msgstr "iPhone 6 Plus :"
 
-msgctxt "iPhone Version"
 msgid "iPhone Version"
 msgstr "iPhone versie"
 
-msgctxt "iPhone Version (No Ads)"
 msgid "iPhone Version (No Ads)"
 msgstr "iPhone-versie (geen advertenties)"
 
-msgctxt "iPhone orientation settings"
 msgid "iPhone orientation settings"
 msgstr "iPhone oriëntatie-instellingen"
 
-msgctxt "iTunes Connect Login"
 msgid "iTunes Connect Login"
 msgstr "iTunes Connect Inloggen"
 
-msgctxt "iTunes Connect Password"
 msgid "iTunes Connect Password"
 msgstr "iTunes Connect Wachtwoord"
 
-msgctxt "icon"
 msgid "icon"
 msgstr "icoon"
 
-msgctxt ""
-"like using the GPS or the camera. After the first installation of your app, "
-"those messages will be shown to the app user."
 msgid ""
 "like using the GPS or the camera. After the first installation of your app, "
 "those messages will be shown to the app user."
@@ -2767,42 +2062,32 @@ msgstr ""
 "zoals het gebruik van de GPS of de camera. Na de eerste installatie van uw "
 "app worden deze berichten getoond aan de app-gebruiker."
 
-msgctxt "logo"
 msgid "logo"
 msgstr "logo"
 
-msgctxt "pending"
 msgid "pending"
 msgstr "In afwachting"
 
-msgctxt "%s Text"
 msgid "%s Text"
 msgstr "%s Tekst"
 
-msgctxt "seconds"
 msgid "seconds"
 msgstr "seconden"
 
-msgctxt "skip this step"
 msgid "skip this step"
 msgstr "deze stap overslaan"
 
-msgctxt "success"
 msgid "success"
 msgstr "succes"
 
-msgctxt "times"
 msgid "times"
 msgstr "tijden"
 
-msgctxt "to"
 msgid "to"
 msgstr "naar"
 
-msgctxt "with image"
 msgid "with image"
 msgstr "met afbeelding"
 
-msgctxt "without image"
 msgid "without image"
 msgstr "zonder afbeelding"

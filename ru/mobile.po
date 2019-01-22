@@ -15,476 +15,356 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Access my personal data"
 msgid "Access my personal data"
 msgstr "Доступ к моим персональным данным"
 
-msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr "Добавить комментарий"
 
-msgctxt "Add image"
 msgid "Add image"
 msgstr "Добавить фото"
 
-msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr "Добавить в адресную книгу"
 
-msgctxt "Address"
 msgid "Address"
 msgstr "Адрес"
 
-msgctxt "Albums"
 msgid "Albums"
 msgstr "Альбомы"
 
-msgctxt "An error occurred while loading the media."
 msgid "An error occurred while loading the media."
 msgstr "Произошла ошибка при загрузке события"
 
-msgctxt "An error occurred while loading the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Произошла ошибка при добавлении опции"
 
-msgctxt "An error occurred while reading the code."
 msgid "An error occurred while reading the code."
 msgstr "Произошла ошибка при удалении события"
 
-msgctxt "An unexpected error occurred while calculating the route."
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Произошла непредвиденная ошибка при расчете маршрута."
 
-msgctxt "Application is Locked"
 msgid "Application is Locked"
 msgstr "Приложение заблокировано"
 
-msgctxt "Buffering"
 msgid "Buffering"
 msgstr "Буферизация"
 
-msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr "Купить Билеты"
 
-msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr "Купить Билеты"
 
-msgctxt "CVC ***"
 msgid "CVC ***"
 msgstr "CVC ***"
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Отменить"
 
-msgctxt "Cancel delete"
 msgid "Cancel delete"
 msgstr "Отменить удаление"
 
-msgctxt "Cancel edit"
 msgid "Cancel edit"
 msgstr "Отменить редактирование"
 
-msgctxt "Civility"
 msgid "Civility"
 msgstr "Вежливость"
 
-msgctxt "Clear"
 msgid "Clear"
 msgstr "Очистить"
 
-msgctxt "Click here to log-in"
 msgid "Click here to log-in"
 msgstr "Нажмите здесь, чтобы войти"
 
-msgctxt "Close"
 msgid "Close"
 msgstr "Закрыть"
 
-msgctxt "Comment"
 msgid "Comment"
 msgstr "Комментарий"
 
-msgctxt "Copy"
 msgid "Copy"
 msgstr "Копия"
 
-msgctxt "Create an account"
 msgid "Create an account"
 msgstr "Создать аккаунт"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Дата и время"
 
-msgctxt "Delete"
 msgid "Delete"
 msgstr "Удалить"
 
-msgctxt "Delivery address"
 msgid "Delivery address"
 msgstr "Область доставки"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "Описание"
 
-msgctxt "Discount code"
 msgid "Discount code"
 msgstr "Код скидки"
 
-msgctxt "Dismiss"
 msgid "Dismiss"
 msgstr "Отменить"
 
-msgctxt "Done"
 msgid "Done"
 msgstr "Готово"
 
-msgctxt "Downloading..."
 msgid "Downloading..."
 msgstr "Загрузка..."
 
-msgctxt "EXP"
 msgid "EXP"
 msgstr "EXP"
 
-msgctxt "Email"
 msgid "Email"
 msgstr "Email"
 
-msgctxt "Error"
 msgid "Error"
 msgstr "Ошибка"
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Имя / Фамилия"
 
-msgctxt "Firstname"
 msgid "Firstname"
 msgstr "Имя"
 
-msgctxt "Flag"
 msgid "Flag"
 msgstr "Отметить"
 
-msgctxt "Forgot your password?"
 msgid "Forgot your password?"
 msgstr "Забыли пароль?"
 
-msgctxt "Hi. I just found: $1 in the $2 app."
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr "Привет. Я только что нашел: $1 в приложении 2$."
 
-msgctxt "I accept the privacy policy"
 msgid "I accept the privacy policy"
 msgstr "Я принимаю <u> политику конфиденциальности </u>"
 
-msgctxt "I just found this discount $1 in $2 app."
 msgid "I just found this discount $1 in $2 app."
 msgstr "Я только что нашел скидку $1 в приложение $2."
 
-msgctxt "Identity"
 msgid "Identity"
 msgstr "Личность"
 
-msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "Я слушаю до $1 из $2 на $3 приложения."
 
-msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr "Я слушаю 1 $на Приложение $2."
 
-msgctxt "Info"
 msgid "Info"
 msgstr "Информация"
 
-msgctxt "Informations"
 msgid "Informations"
 msgstr "Информация"
 
-msgctxt "Invoicing address"
 msgid "Invoicing address"
 msgstr "Адрес для выставления счета"
 
-msgctxt "Lastname"
 msgid "Lastname"
 msgstr "Фамилия"
 
-msgctxt "Like"
 msgid "Like"
 msgstr "Нравится"
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "Загрузка"
 
-msgctxt "Locate"
 msgid "Locate"
 msgstr "Навигация по карте"
 
-msgctxt "Location"
 msgid "Location"
 msgstr "Места"
 
-msgctxt "Log-in"
 msgid "Log-in"
 msgstr "Авторизоваться"
 
-msgctxt "Login error"
 msgid "Login error"
 msgstr "Ошибка входа"
 
-msgctxt "Log-in with Facebook"
 msgid "Log-in with Facebook"
 msgstr "Войти в систему с Facebook"
 
-msgctxt "Map"
 msgid "Map"
 msgstr "Карта"
 
-msgctxt "Miss"
 msgid "Miss"
 msgstr "Мисс"
 
-msgctxt "Mr"
 msgid "Mr"
 msgstr "Мистер"
 
-msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Миссис"
 
-msgctxt "My account"
 msgid "My account"
 msgstr "Мой аккаунт"
 
-msgctxt "New Post"
 msgid "New Post"
 msgstr "Новый Пост"
 
-msgctxt "Nickname"
 msgid "Nickname"
 msgstr "Прозвище"
 
-msgctxt "No comments for now."
 msgid "No comments for now."
 msgstr "Нет комментариев."
 
-msgctxt "No form available"
 msgid "No form available"
 msgstr "Нет доступных форм"
 
-msgctxt "No images found"
 msgid "No images found"
 msgstr "Изображений не найдено"
 
-msgctxt "No items found"
 msgid "No items found"
 msgstr "Нет пунктов"
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr "Нет результатов для вашего запроса."
 
-msgctxt "Notes"
 msgid "Notes"
 msgstr "Примечания"
 
-msgctxt "Notification"
 msgid "Notification"
 msgstr "Уведомление"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Количество людей"
 
-msgctxt "OK"
 msgid "OK"
 msgstr "ДА"
 
-msgctxt "Offline mode"
 msgid "Offline mode"
 msgstr "Автономный режим"
 
-msgctxt "Ok"
 msgid "Ok"
 msgstr "Ок"
 
-msgctxt "Open link"
 msgid "Open link"
 msgstr "Открыть ссылку"
 
-msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "Или с вашего счета"
 
-msgctxt "Order Details"
 msgid "Order Details"
 msgstr "Детали заказа"
 
-msgctxt "Overview"
 msgid "Overview"
 msgstr "Обзор"
 
-msgctxt "Password"
 msgid "Password"
 msgstr "Пароль"
 
-msgctxt "Phone"
 msgid "Phone"
 msgstr "Телефон"
 
-msgctxt "Photos"
 msgid "Photos"
 msgstr "Фото"
 
-msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Плейлист"
 
-msgctxt "Please enter a valid email address"
 msgid "Please enter a valid email address"
 msgstr "Пожалуйста, введите верный адрес"
 
-msgctxt "Please enter your email address."
 msgid "Please enter your email address."
 msgstr "Пожалуйста, введите ваш адрес электронной почты"
 
-msgctxt ""
-"Please enter your email address. We'll send you your password right now."
 msgid ""
 "Please enter your email address. We'll send you your password right now."
 msgstr ""
 "Пожалуйста, введите Ваш адрес электронной почты. Мы вышлем вам пароль сейчас."
 
-msgctxt "Please wait..."
 msgid "Please wait..."
 msgstr "Пожалуйста, подождите..."
 
-msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Подкаст"
 
-msgctxt "Prices"
 msgid "Prices"
 msgstr "Прайс"
 
-msgctxt "Privacy"
 msgid "Privacy"
 msgstr "Конфиденциальность"
 
-msgctxt "Privacy Policy"
 msgid "Privacy Policy"
 msgstr "Политика Конфиденциальности"
 
-msgctxt "Pull to refresh..."
 msgid "Pull to refresh..."
 msgstr "Потяните, чтобы обновить..."
 
-msgctxt "RSVP"
 msgid "RSVP"
 msgstr "Посмотреть подробности"
 
-msgctxt "Read all"
 msgid "Read all"
 msgstr "Прослушать все треки"
 
-msgctxt "Scan result"
 msgid "Scan result"
 msgstr "Результат сканирования"
 
-msgctxt "See details"
 msgid "See details"
 msgstr "См. подробности"
 
-msgctxt "Send"
 msgid "Send"
 msgstr "ОТПРАВИТЬ"
 
-msgctxt "Send contact request"
 msgid "Send contact request"
 msgstr "Отправить запрос контакта"
 
-msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Покажите меня в рейтинге"
 
-msgctxt "Success"
 msgid "Success"
 msgstr "Успех"
 
-msgctxt "Tap to download in background"
 msgid "Tap to download in background"
 msgstr "Нажмите для загрузки в фоновом режиме"
 
-msgctxt "Terms & Conditions"
 msgid "Terms & Conditions"
 msgstr "Условия"
 
-msgctxt "The address you're looking for does not exists."
 msgid "The address you're looking for does not exists."
 msgstr "Адрес, который вы ищете не существует."
 
-msgctxt "The sign in flow was canceled"
 msgid "The sign in flow was canceled"
 msgstr "Вход в поток был отменен"
 
-msgctxt "There is no route available with these informations."
 msgid "There is no route available with these informations."
 msgstr "Нет трассы доступны с этих информаций."
 
-msgctxt "This application is no longer available"
 msgid "This application is no longer available"
 msgstr "Это приложение больше не доступно"
 
-msgctxt "This feature is disabled in this preview"
 msgid "This feature is disabled in this preview"
 msgstr "Эта функция отключена в режиме предварительного просмотра"
 
-msgctxt "This feature is not available in offline mode!"
 msgid "This feature is not available in offline mode!"
 msgstr "Эта функция недоступна в автономном режиме!"
 
-msgctxt "This field is required"
 msgid "This field is required"
 msgstr "Заполнение данного поля обязательно"
 
-msgctxt "This will open the code scan camera on your device."
 msgid "This will open the code scan camera on your device."
 msgstr "Это откроет камеру для сканирования кода на вашем устройстве."
 
-msgctxt "Title"
 msgid "Title"
 msgstr "название"
 
-msgctxt "Tracks"
 msgid "Tracks"
 msgstr "треки"
 
-msgctxt "Triple tap to close the preview"
 msgid "Triple tap to close the preview"
 msgstr "Тройной тап, чтобы закрыть окно предварительного просмотра"
 
-msgctxt "Use this coupon"
 msgid "Use this coupon"
 msgstr "Используйте этот купон"
 
-msgctxt "Valid Until"
 msgid "Valid Until"
 msgstr "Действует до"
 
-msgctxt "View"
 msgid "View"
 msgstr "Вид"
 
-msgctxt ""
-"We are sorry but this application has been deactivated and may not be re-"
-"activated."
 msgid ""
 "We are sorry but this application has been deactivated and may not be re-"
 "activated."
@@ -492,17 +372,12 @@ msgstr ""
 "Нам очень жаль, но это приложение было отключено и не может быть повторно "
 "активирован."
 
-msgctxt "Website"
 msgid "Website"
 msgstr "Сайт"
 
-msgctxt "We'll send you your password right now."
 msgid "We'll send you your password right now."
 msgstr "Мы пришлем вам ваш пароль прямо сейчас."
 
-msgctxt ""
-"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
-"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -510,38 +385,29 @@ msgstr ""
 "Неверный пароль. <br /> Будьте осторожны! %d остальные попытки%s могут "
 "блокировать карту. <br />Попросите в магазине продавца проверить ваши точки"
 
-msgctxt "XXXX XXXX XXXX"
 msgid "XXXX XXXX XXXX"
 msgstr "ХХХХ ХХХХ ХХХХ"
 
-msgctxt "You must fill at least one field!"
 msgid "You must fill at least one field!"
 msgstr "Вы должны заполнить хотя бы одно поле!"
 
-msgctxt "Your comment"
 msgid "Your comment"
 msgstr "Ваш комментарий"
 
-msgctxt ""
-"Your location could not be found because your application doesn't use SSL."
 msgid ""
 "Your location could not be found because your application doesn't use SSL."
 msgstr ""
 "Ваше местоположение не может быть найдено, потому что ваше приложение не "
 "использовать SSL."
 
-msgctxt "followers"
 msgid "followers"
 msgstr "последователи"
 
-msgctxt "following"
 msgid "following"
 msgstr "следующим"
 
-msgctxt "track"
 msgid "track"
 msgstr "трек"
 
-msgctxt "tracks"
 msgid "tracks"
 msgstr "треки"

@@ -14,68 +14,52 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Un error ha surgido al guardar sus datos de contacto."
 
-msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr ""
 "Un error ha surgido durante el envío de su pregunta Por favor inténtelo de "
 "nuevo más tarde."
 
-msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "O por teléfono a"
 
-msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "¿Está seguro de eliminar la imagen?"
 
-msgctxt "City"
 msgid "City"
 msgstr "Ciudad"
 
-msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Información de contacto"
 
-msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Usted puede responderle a la dirección siguiente"
 
-msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Esto es su mensaje:"
 
-msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Por favor introduzca correctamente estos campos : <br />"
 
-msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-msgctxt "Website"
 msgid "Website"
 msgstr "Página Web"
 
-msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Usted recibió un mensaje de"
 
-msgctxt "Your email"
 msgid "Your email"
 msgstr "Su e-mail"
 
-msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Su mensaje ha sido enviado"
 
-msgctxt "Your request"
 msgid "Your request"
 msgstr "Su pedido"
 
-msgctxt "Zip code"
 msgid "Zip code"
 msgstr "Código Postal"

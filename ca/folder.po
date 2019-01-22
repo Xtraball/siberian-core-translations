@@ -14,126 +14,94 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Afegiu una pàgina"
 
-msgctxt "Add feature"
 msgid "Add feature"
 msgstr ""
 
-msgctxt "Allow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr ""
 
-msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Cancel·la"
 
-msgctxt "Click on"
 msgid "Click on"
 msgstr "Feu clic a"
 
-msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Feu clic a una pàgina per afegir-lo a la carpeta"
 
-msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Feu clic a una pàgina per afegir-lo a la carpeta"
 
-msgctxt ""
-"Click on a page to add it to the folder <span id='folder_name' "
-"class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
 msgstr ""
 
-msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "A prop display per a mòbils"
 
-msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Voleu suprimir aquesta carpeta i totes les seves subcarpetes?"
 
-msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr ""
 
-msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr ""
 
-msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Títol de la carpeta és necessari"
 
-msgctxt "Folders"
 msgid "Folders"
 msgstr "Carpetes"
 
-msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr ""
 
-msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Display per a mòbils"
 
-msgctxt "New folder"
 msgid "New folder"
 msgstr "Carpeta nova"
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr ""
 
-msgctxt "Override layout"
 msgid "Override layout"
 msgstr ""
 
-msgctxt "Search results"
 msgid "Search results"
 msgstr ""
 
-msgctxt "Show cover"
 msgid "Show cover"
 msgstr ""
 
-msgctxt "Show search field"
 msgid "Show search field"
 msgstr ""
 
-msgctxt "Show title"
 msgid "Show title"
 msgstr "Article Mostra"
 
-msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "Use card design"
 msgid "Use card design"
 msgstr ""
 
-msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "No podeu afegir aquesta característica"
 
-msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Primer heu de completar el procés de creació de categoria actual"
 
-msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Vostè es perd tots els canvis no desats, continuar?"
 
-msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "per afegir una carpeta."

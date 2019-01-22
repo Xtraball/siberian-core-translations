@@ -14,282 +14,208 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Action"
 msgid "Action"
 msgstr "Akce"
 
-msgctxt "Actions"
 msgid "Actions"
 msgstr "Akce"
 
-msgctxt "All of your modules are up to date"
 msgid "All of your modules are up to date"
 msgstr "Všechny vaše moduly jsou aktuální"
 
-msgctxt "An update is available. Click here to download it."
 msgid "An update is available. Click here to download it."
 msgstr "Update je dostupný."
 
-msgctxt "Check for updates"
 msgid "Check for updates"
 msgstr ""
 
-msgctxt "Click here to see the release notes"
 msgid "Click here to see the release notes"
 msgstr ""
 
-msgctxt "Click here to send your module"
 msgid "Click here to send your module"
 msgstr "Klikněte zde pro upload modulu"
 
-msgctxt "Details"
 msgid "Details"
 msgstr "Podrobnosti"
 
-msgctxt "Drop your module here"
 msgid "Drop your module here"
 msgstr "Vložit modul"
 
-msgctxt "Host"
 msgid "Host"
 msgstr "Host"
 
-msgctxt "Install"
 msgid "Install"
 msgstr ""
 
-msgctxt "Installing"
 msgid "Installing"
 msgstr "Instalace"
 
-msgctxt "Installing your module"
 msgid "Installing your module"
 msgstr "Instalace modulu"
 
-msgctxt "Module successfully installed"
 msgid "Module successfully installed"
 msgstr "Modul úspěšně nainstalován"
 
-msgctxt "Module to upload"
 msgid "Module to upload"
 msgstr "Moduly k nahrání"
 
-msgctxt "Modules Installation"
 msgid "Modules Installation"
 msgstr "Instalace modulů"
 
-msgctxt "Modules successfully installed!"
 msgid "Modules successfully installed!"
 msgstr "Moduly úspěšně nainstalován!"
 
-msgctxt "Name"
 msgid "Name"
 msgstr "Název"
 
-msgctxt "No directory provided"
 msgid "No directory provided"
 msgstr "No directory provided"
 
-msgctxt "No module to install"
 msgid "No module to install"
 msgstr "Žádný modul k instalaci"
 
-msgctxt "No modules uploaded yet"
 msgid "No modules uploaded yet"
 msgstr "Žádné modyly zatím nebyly nahrány"
 
-msgctxt ""
-"Or set the correct permissions to the following files and folders and try "
-"again:"
 msgid ""
 "Or set the correct permissions to the following files and folders and try "
 "again:"
 msgstr "Nebo změňte práva u následujících souboru a složek  a zkuste znovu"
 
-msgctxt "Package"
 msgid "Package"
 msgstr ""
 
-msgctxt "Package Details"
 msgid "Package Details"
 msgstr "Package - detail"
 
-msgctxt "Path to your system"
 msgid "Path to your system"
 msgstr "Cesta k systemu"
 
-msgctxt "Please, enter a name"
 msgid "Please, enter a name"
 msgstr "Prosím, zadejte název"
 
-msgctxt "Please, fill out all fields"
 msgid "Please, fill out all fields"
 msgstr "Prosíme, vyplňte všechna pole"
 
-msgctxt ""
-"Please update the module to the %s version before installing this update."
 msgid ""
 "Please update the module to the %s version before installing this update."
 msgstr "Před instalací tohoto updatu prosím updatujte modul na verzi %s"
 
-msgctxt ""
-"Please update your system to the %s version before installing this update."
 msgid ""
 "Please update your system to the %s version before installing this update."
 msgstr "Před instalací tohoto updatu prosím updatujte Váš systém na verzi %s"
 
-msgctxt "Please wait, we're installing your module"
 msgid "Please wait, we're installing your module"
 msgstr "Čekejte prosím, modul se instaluje"
 
-msgctxt "Port"
 msgid "Port"
 msgstr "Port"
 
-msgctxt "Processing the installation"
 msgid "Processing the installation"
 msgstr "Zpracování instalace"
 
-msgctxt "Progress"
 msgid "Progress"
 msgstr ""
 
-msgctxt "Retry"
 msgid "Retry"
 msgstr "Opakovat"
 
-msgctxt "Select a module to upload"
 msgid "Select a module to upload"
 msgstr "Vyberte modul"
 
-msgctxt "Size"
 msgid "Size"
 msgstr "Velikost"
 
-msgctxt ""
-"Some files and folder are not writable. You can either provide your FTP "
-"access to install this update:"
 msgid ""
 "Some files and folder are not writable. You can either provide your FTP "
 "access to install this update:"
 msgstr "Do některých složek a souboru nelze zapisovat"
 
-msgctxt "Some files don't have the right permissions and can't be updated"
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr "Některé soubory nemají správná práva a nelze je updatovat"
 
-msgctxt "Status"
 msgid "Status"
 msgstr "Status"
 
-msgctxt "The database connection failed. Please, check the entered information."
 msgid "The database connection failed. Please, check the entered information."
 msgstr "Připojení k databázi se nezdařilo. Prosím, zkontrolujte zadané údaje."
 
-msgctxt "The entered password confirmation does not match the entered password."
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Heslo k potvrzení se neshoduje s původním"
 
-msgctxt "The file %s does not exist"
 msgid "The file %s does not exist"
 msgstr "Soubor %s neexistuje"
 
-msgctxt "The file %s is not writable."
 msgid "The file %s is not writable."
 msgstr "Do souboru %s nelze zapisovat"
 
-msgctxt "The folder %s is not writable. Please fix this issue and try again."
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr "Do složky %s nelze zapisovat. Opravte tento problém a zkuste znovu"
 
-msgctxt "The following files and folders are not writable:"
 msgid "The following files and folders are not writable:"
 msgstr "Do těchto souborů a adresářů nelze zapisovat"
 
-msgctxt "The following files and folders are not writable: <br /> - %s"
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr "Do následujících souborů a složek nelze zapisovat: <br /> - %s"
 
-msgctxt "The package you have uploaded is invalid."
 msgid "The package you have uploaded is invalid."
 msgstr "Nahraný package je poškozený"
 
-msgctxt "There is no CMS license key set."
 msgid "There is no CMS license key set."
 msgstr ""
 
-msgctxt "This process may take few minutes, please do not refresh the page"
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr "Tento proces může chvíli trvat, prosím NEAKTUALIZUJTE stránku"
 
-msgctxt "This update is designed for the %s, you can't install it in your %s."
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr "Tento update je navrhnut pro %s, nelze nainstalovat na Váš %s"
 
-msgctxt "Unable to check for updates now. Please, try again later."
 msgid "Unable to check for updates now. Please, try again later."
 msgstr "Není možné zkontrolovat updaty. Zkuste to prosím později"
 
-msgctxt "Unable to connect to your FTP. Please check the connection information."
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr "Nelze se připojit k FTP. Zkontrolujte spojení"
 
-msgctxt ""
-"Unable to detect your site. Please make sure the entered path is correct."
 msgid ""
 "Unable to detect your site. Please make sure the entered path is correct."
 msgstr "Stránku nelze smazat. Zkontrolujte, zda je cesta v pořádku"
 
-msgctxt "Unable to extract the archive."
 msgid "Unable to extract the archive."
 msgstr "Archiv nelze rozbalit"
 
-msgctxt "Unable to fetch the update. Please, try again later."
 msgid "Unable to fetch the update. Please, try again later."
 msgstr "Není možné zkontrolovat updaty. Zkuste to prosím později"
 
-msgctxt "Unable to open the archive."
 msgid "Unable to open the archive."
 msgstr "Archiv nelze otevřít"
 
-msgctxt ""
-"Unable to open the file. Please, make sure that you sent a valid archive."
 msgid ""
 "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr "Soubor nelze otevřít. Ujistěte se,že byl platný"
 
-msgctxt "Upload a module"
 msgid "Upload a module"
 msgstr "Nahrát modul"
 
-msgctxt "Upload your modules"
 msgid "Upload your modules"
 msgstr "Nahrát modul"
 
-msgctxt "Username"
 msgid "Username"
 msgstr "Uživatelské jméno"
 
-msgctxt "Version"
 msgid "Version"
 msgstr "Verze"
 
-msgctxt "We are checking for updates. Please, do not refresh the page."
 msgid "We are checking for updates. Please, do not refresh the page."
 msgstr "Kontroluji updaty. Neaktualizujte stránku!!!"
 
-msgctxt "You already have installed this template."
 msgid "You already have installed this template."
 msgstr "Tento update je již nainstalován"
 
-msgctxt "You already have installed this update."
 msgid "You already have installed this update."
 msgstr "Tento update je již nainstalován"
 
-msgctxt "Your system is up to date."
 msgid "Your system is up to date."
 msgstr "Váš systém je aktuální"
 
-msgctxt "%s Update"
 msgid "%s Update"
 msgstr "%s Update"

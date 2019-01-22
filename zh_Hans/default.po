@@ -14,3647 +14,2705 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "10 seconds"
 msgid "10 seconds"
 msgstr "秒"
 
-msgctxt "15 seconds"
 msgid "15 seconds"
 msgstr "秒"
 
-msgctxt "20 seconds"
 msgid "20 seconds"
 msgstr "秒"
 
-msgctxt "2Checkout"
 msgid "2Checkout"
 msgstr ""
 
-msgctxt "30 seconds"
 msgid "30 seconds"
 msgstr "秒"
 
-msgctxt "404, page not found"
 msgid "404, page not found"
 msgstr "404找不到网页"
 
-msgctxt "A step requires at least a title and a text."
 msgid "A step requires at least a title and a text."
 msgstr ""
 
-msgctxt "API"
 msgid "API"
 msgstr "API"
 
-msgctxt "APIs"
 msgid "APIs"
 msgstr "API"
 
-msgctxt "APK Generator Service"
 msgid "APK Generator Service"
 msgstr ""
 
-msgctxt "APK Generator advanced settings"
 msgid "APK Generator advanced settings"
 msgstr ""
 
-msgctxt "APK Generator for builds from the Editor (Local or Service)"
 msgid "APK Generator for builds from the Editor (Local or Service)"
 msgstr ""
 
-msgctxt "Access Management"
 msgid "Access Management"
 msgstr ""
 
-msgctxt "Account"
 msgid "Account"
 msgstr "帐户"
 
-msgctxt "Accounts"
 msgid "Accounts"
 msgstr "帐户"
 
-msgctxt "Acl"
 msgid "Acl"
 msgstr ""
 
-msgctxt "Actions"
 msgid "Actions"
 msgstr "行动"
 
-msgctxt "Activate"
 msgid "Activate"
 msgstr "活性"
 
-msgctxt "Activity"
 msgid "Activity"
 msgstr ""
 
-msgctxt "AdMob Banner ID"
 msgid "AdMob Banner ID"
 msgstr ""
 
-msgctxt "AdMob Interstitial ID"
 msgid "AdMob Interstitial ID"
 msgstr ""
 
-msgctxt "Add"
 msgid "Add"
 msgstr "添加在"
 
-msgctxt "Add Image"
 msgid "Add Image"
 msgstr "添加页面"
 
-msgctxt "Add a"
 msgid "Add a"
 msgstr "添加/个"
 
-msgctxt "Add a page"
 msgid "Add a page"
 msgstr "添加页面"
 
-msgctxt "Add a picture"
 msgid "Add a picture"
 msgstr ""
 
-msgctxt "Add content"
 msgid "Add content"
 msgstr ""
 
-msgctxt "Add extension"
 msgid "Add extension"
 msgstr ""
 
-msgctxt "Add feature"
 msgid "Add feature"
 msgstr ""
 
-msgctxt "Add image"
 msgid "Add image"
 msgstr "添加页面"
 
-msgctxt "Add new upload extensions."
 msgid "Add new upload extensions."
 msgstr ""
 
-msgctxt "Address"
 msgid "Address"
 msgstr "街道地址"
 
-msgctxt "Address (more)"
 msgid "Address (more)"
 msgstr ""
 
-msgctxt "Addresses"
 msgid "Addresses"
 msgstr ""
 
-msgctxt "Admin"
 msgid "Admin"
 msgstr ""
 
-msgctxt "Admin panel type"
 msgid "Admin panel type"
 msgstr ""
 
-msgctxt "Admob Banner ID"
 msgid "Admob Banner ID"
 msgstr ""
 
-msgctxt "Admob Interstitial ID"
 msgid "Admob Interstitial ID"
 msgstr ""
 
-msgctxt "Advanced options"
 msgid "Advanced options"
 msgstr ""
 
-msgctxt ""
-"After validating, you will be redirected to the 2Checkout checkout page."
 msgid ""
 "After validating, you will be redirected to the 2Checkout checkout page."
 msgstr ""
 
-msgctxt "After validating, you will be redirected to the PayPal checkout page."
 msgid "After validating, you will be redirected to the PayPal checkout page."
 msgstr ""
 
-msgctxt "Alert: The SSL Certificate %s automatic renewal failed."
 msgid "Alert: The SSL Certificate %s automatic renewal failed."
 msgstr ""
 
-msgctxt "Alignment"
 msgid "Alignment"
 msgstr "调整："
 
-msgctxt "All data"
 msgid "All data"
 msgstr ""
 
-msgctxt "All items"
 msgid "All items"
 msgstr "所有项目"
 
-msgctxt "All user list"
 msgid "All user list"
 msgstr ""
 
-msgctxt "Allow users to export features"
 msgid "Allow users to export features"
 msgstr ""
 
-msgctxt "Allow users to import features"
 msgid "Allow users to import features"
 msgstr ""
 
-msgctxt "Allowed upload extensions."
 msgid "Allowed upload extensions."
 msgstr ""
 
-msgctxt "An error occurred during process. Please try again later."
 msgid "An error occurred during process. Please try again later."
 msgstr "在处理过程中发生了错误。请稍后再试。"
 
-msgctxt "An error occurred during process.<br />Please try again later."
 msgid "An error occurred during process.<br />Please try again later."
 msgstr "在处理过程中发生了错误。请稍后再试。"
 
-msgctxt "An error occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr "有在此过程中的错误。请稍后再试。"
 
-msgctxt "An error occurred while editing your invoice : can't find order"
 msgid "An error occurred while editing your invoice : can't find order"
 msgstr ""
 
-msgctxt "An error occurred while loading. Please try again later."
 msgid "An error occurred while loading. Please try again later."
 msgstr "有一个错误加载。请稍后再试。"
 
-msgctxt "An error occurred while loading places."
 msgid "An error occurred while loading places."
 msgstr "有同时加载错误"
 
-msgctxt "An error occurred while processing your payment."
 msgid "An error occurred while processing your payment."
 msgstr "有一个错误删除的事件"
 
-msgctxt "An error occurred while saving"
 msgid "An error occurred while saving"
 msgstr "有错误节能"
 
-msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "有一个错误的节省。请稍后再试。"
 
-msgctxt "An error occurred while saving your account. Please try again later."
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "有一个错误节省你自己。请稍后再试。"
 
-msgctxt "An error occurred while saving your picture. Please try again later."
 msgid "An error occurred while saving your picture. Please try again later."
 msgstr "有一个错误保存图像。请稍后再试。"
 
-msgctxt "An error occurred while uploading your file. Please, try again later."
 msgid "An error occurred while uploading your file. Please, try again later."
 msgstr "有错误上传文件。请稍后再试。"
 
-msgctxt "An unexpected error occurred while calculating the route."
 msgid "An unexpected error occurred while calculating the route."
 msgstr ""
 
-msgctxt "An unknown error occurred while creating the push notification."
 msgid "An unknown error occurred while creating the push notification."
 msgstr ""
 
-msgctxt "An unknown error occurred while issue-ing your certificate."
 msgid "An unknown error occurred while issue-ing your certificate."
 msgstr ""
 
-msgctxt "An unknown error occurred while loading the page."
 msgid "An unknown error occurred while loading the page."
 msgstr ""
 
-msgctxt "Android APK"
 msgid "Android APK"
 msgstr ""
 
-msgctxt "Android SDK is not installed"
 msgid "Android SDK is not installed"
 msgstr ""
 
-msgctxt "Android Source"
 msgid "Android Source"
 msgstr ""
 
-msgctxt "Android Spinner"
 msgid "Android Spinner"
 msgstr ""
 
-msgctxt "Android base Package Name can't be empty."
 msgid "Android base Package Name can't be empty."
 msgstr ""
 
-msgctxt "Android base Package Name must contain only letters, dots & minus."
 msgid "Android base Package Name must contain only letters, dots & minus."
 msgstr ""
 
-msgctxt ""
-"Android base Package Name must contain only letters, dots & minus with at "
-"least two dots.<br />Example: com.mydomain.admin"
 msgid ""
 "Android base Package Name must contain only letters, dots & minus with at "
 "least two dots.<br />Example: com.mydomain.admin"
 msgstr ""
 
-msgctxt "Android only"
 msgid "Android only"
 msgstr ""
 
-msgctxt "Answers"
 msgid "Answers"
 msgstr ""
 
-msgctxt "App"
 msgid "App"
 msgstr ""
 
-msgctxt "App analytics"
 msgid "App analytics"
 msgstr ""
 
-msgctxt "App id"
 msgid "App id"
 msgstr ""
 
-msgctxt "Appearance"
 msgid "Appearance"
 msgstr "出现"
 
-msgctxt "Apple Development teams"
 msgid "Apple Development teams"
 msgstr ""
 
-msgctxt "Application"
 msgid "Application"
 msgstr "应用"
 
-msgctxt "Application Name"
 msgid "Application Name"
 msgstr "应用程序名称"
 
-msgctxt "Application base Bundle ID (iOS)"
 msgid "Application base Bundle ID (iOS)"
 msgstr ""
 
-msgctxt "Application base Package Name (Android)"
 msgid "Application base Package Name (Android)"
 msgstr ""
 
-msgctxt "Applications"
 msgid "Applications"
 msgstr "应用"
 
-msgctxt "Are you sure you want to delete this admin?"
 msgid "Are you sure you want to delete this admin?"
 msgstr "你确定要删除该相簿？"
 
-msgctxt "Are you sure you want to delete this element?"
 msgid "Are you sure you want to delete this element?"
 msgstr "你确定你要删除这个项目吗？"
 
-msgctxt "Are you sure you want to delete this invoice?"
 msgid "Are you sure you want to delete this invoice?"
 msgstr "你确定你要删除这家店？"
 
-msgctxt "Are you sure you want to delete this subscription?"
 msgid "Are you sure you want to delete this subscription?"
 msgstr "你确定你要删除这个应用程序？"
 
-msgctxt "Are you sure you want to remove this account?"
 msgid "Are you sure you want to remove this account?"
 msgstr "你确定要删除此帐户？"
 
-msgctxt "Artist"
 msgid "Artist"
 msgstr "艺术家："
 
-msgctxt "At least, 1 page in the application"
 msgid "At least, 1 page in the application"
 msgstr "在应用程序中至少有4个功能"
 
-msgctxt ""
-"At least one <b>published</b> application is required in order to use global "
-"push notifications."
 msgid ""
 "At least one <b>published</b> application is required in order to use global "
 "push notifications."
 msgstr ""
 
-msgctxt "Attachment"
 msgid "Attachment"
 msgstr ""
 
-msgctxt "Audio"
 msgid "Audio"
 msgstr "音频"
 
-msgctxt "Authentication failed"
 msgid "Authentication failed"
 msgstr ""
 
-msgctxt "Authentication failed. Please, check the username and/or the password"
 msgid "Authentication failed. Please, check the username and/or the password"
 msgstr "验证失败。请检查您的电子邮件和/或密码"
 
-msgctxt "Authentication failed. Please check your email and/or your password"
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "验证失败。请检查您的电子邮件和/或密码"
 
-msgctxt "Autocomplete & Suggestions ..."
 msgid "Autocomplete & Suggestions ..."
 msgstr ""
 
-msgctxt "Average cart"
 msgid "Average cart"
 msgstr ""
 
-msgctxt "Average for active users"
 msgid "Average for active users"
 msgstr ""
 
-msgctxt "Average for all users"
 msgid "Average for all users"
 msgstr ""
 
-msgctxt "Back"
 msgid "Back"
 msgstr "回来"
 
-msgctxt "Back button icon"
 msgid "Back button icon"
 msgstr ""
 
-msgctxt "Background"
 msgid "Background"
 msgstr ""
 
-msgctxt "Background (landscape)"
 msgid "Background (landscape)"
 msgstr ""
 
-msgctxt "Background (portrait)"
 msgid "Background (portrait)"
 msgstr ""
 
-msgctxt "Backoffice"
 msgid "Backoffice"
 msgstr ""
 
-msgctxt "Bad settings can break your APK Generator, leave empty to use defaults."
 msgid "Bad settings can break your APK Generator, leave empty to use defaults."
 msgstr ""
 
-msgctxt "Banner"
 msgid "Banner"
 msgstr ""
 
-msgctxt "Banner & Interstitial"
 msgid "Banner & Interstitial"
 msgstr ""
 
-msgctxt "Be careful you are working in"
 msgid "Be careful you are working in"
 msgstr ""
 
-msgctxt "Bearer Token"
 msgid "Bearer Token"
 msgstr ""
 
-msgctxt ""
-"Before you can send push notification, you must have at least one of iOS or "
-"Android application in a published state."
 msgid ""
 "Before you can send push notification, you must have at least one of iOS or "
 "Android application in a published state."
 msgstr ""
 
-msgctxt "Booking"
 msgid "Booking"
 msgstr "储备"
 
-msgctxt "Booking details"
 msgid "Booking details"
 msgstr "预订信息"
 
-msgctxt "Booking::findAction An unknown error occurred, please try again later."
 msgid "Booking::findAction An unknown error occurred, please try again later."
 msgstr ""
 
-msgctxt "Bottom"
 msgid "Bottom"
 msgstr ""
 
-msgctxt "Browse"
 msgid "Browse"
 msgstr "探索"
 
-msgctxt "Button"
 msgid "Button"
 msgstr ""
 
-msgctxt "Button assertive"
 msgid "Button assertive"
 msgstr ""
 
-msgctxt "Button balanced"
 msgid "Button balanced"
 msgstr ""
 
-msgctxt "Button calm"
 msgid "Button calm"
 msgstr ""
 
-msgctxt "Button dark"
 msgid "Button dark"
 msgstr ""
 
-msgctxt "Button energized"
 msgid "Button energized"
 msgstr ""
 
-msgctxt "Button light"
 msgid "Button light"
 msgstr ""
 
-msgctxt "Button positive"
 msgid "Button positive"
 msgstr ""
 
-msgctxt "Button royal"
 msgid "Button royal"
 msgstr ""
 
-msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 
-msgctxt ""
-"By default, popups steps try to use a smart placement. You can force this "
-"placement if needed."
 msgid ""
 "By default, popups steps try to use a smart placement. You can force this "
 "placement if needed."
 msgstr ""
 
-msgctxt "Cache"
 msgid "Cache"
 msgstr ""
 
-msgctxt "Calendar"
 msgid "Calendar"
 msgstr "日记"
 
-msgctxt "Callback URIs"
 msgid "Callback URIs"
 msgstr ""
 
-msgctxt "Can only be used once"
 msgid "Can only be used once"
 msgstr "它只能使用一次"
 
-msgctxt "Cancel"
 msgid "Cancel"
 msgstr "取消"
 
-msgctxt "Card"
 msgid "Card"
 msgstr "购物车"
 
-msgctxt "Card Item"
 msgid "Card Item"
 msgstr ""
 
-msgctxt "Careful, someone else is working on this application."
 msgid "Careful, someone else is working on this application."
 msgstr ""
 
-msgctxt "Cart"
 msgid "Cart"
 msgstr "购物车"
 
-msgctxt "Catalog"
 msgid "Catalog"
 msgstr "目录"
 
-msgctxt ""
-"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 msgid ""
 "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 msgstr ""
 
-msgctxt "Change password"
 msgid "Change password"
 msgstr "更改密码"
 
-msgctxt "Change your<br /><span class='bold'>picture</span>"
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr ""
 
-msgctxt "Changing the Application icon requires a rebuild / republication."
 msgid "Changing the Application icon requires a rebuild / republication."
 msgstr ""
 
-msgctxt "Changing this option requires you to republish your iOS application."
 msgid "Changing this option requires you to republish your iOS application."
 msgstr ""
 
-msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "复选框"
 
-msgctxt "Checkbox off"
 msgid "Checkbox off"
 msgstr ""
 
-msgctxt "Checkbox on"
 msgid "Checkbox on"
 msgstr "复选框"
 
-msgctxt "Checking Permissions"
 msgid "Checking Permissions"
 msgstr ""
 
-msgctxt "Choose a file to import:"
 msgid "Choose a file to import:"
 msgstr ""
 
-msgctxt "Choose an object to import:"
 msgid "Choose an object to import:"
 msgstr ""
 
-msgctxt "City"
 msgid "City"
 msgstr "城市"
 
-msgctxt "ClamAV is an optional anti-virus, you can enable it up below."
 msgid "ClamAV is an optional anti-virus, you can enable it up below."
 msgstr ""
 
-msgctxt "ClamAV settings"
 msgid "ClamAV settings"
 msgstr ""
 
-msgctxt "ClamAV settings have been saved."
 msgid "ClamAV settings have been saved."
 msgstr ""
 
-msgctxt "Click here to log-in"
 msgid "Click here to log-in"
 msgstr ""
 
-msgctxt "Click here to open the application"
 msgid "Click here to open the application"
 msgstr ""
 
-msgctxt "Click on"
 msgid "Click on"
 msgstr "点击"
 
-msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "点击页面上添加到文件夹"
 
-msgctxt "Click on a feature to add it to the folder %s"
 msgid "Click on a feature to add it to the folder %s"
 msgstr "点击页面上添加到文件夹"
 
-msgctxt "Click to import your file"
 msgid "Click to import your file"
 msgstr ""
 
-msgctxt "Close"
 msgid "Close"
 msgstr "关闭"
 
-msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "关闭手机屏幕"
 
-msgctxt "CloudFlare is not supported, please use a CNAME."
 msgid "CloudFlare is not supported, please use a CNAME."
 msgstr ""
 
-msgctxt ""
-"CloudFlare is not supported, you must use a CNAME targeting your main domain."
 msgid ""
 "CloudFlare is not supported, you must use a CNAME targeting your main domain."
 msgstr ""
 
-msgctxt "Cms"
 msgid "Cms"
 msgstr "COMS"
 
-msgctxt "Codescan"
 msgid "Codescan"
 msgstr ""
 
-msgctxt "Comment"
 msgid "Comment"
 msgstr "评论"
 
-msgctxt "Comments"
 msgid "Comments"
 msgstr "点评"
 
-msgctxt "Commerce"
 msgid "Commerce"
 msgstr "店"
 
-msgctxt "Communication"
 msgid "Communication"
 msgstr "沟通"
 
-msgctxt "Company"
 msgid "Company"
 msgstr "业务"
 
-msgctxt "Coms"
 msgid "Coms"
 msgstr "COMS"
 
-msgctxt "Conditions"
 msgid "Conditions"
 msgstr "条款"
 
-msgctxt "Configuration partially saved"
 msgid "Configuration partially saved"
 msgstr ""
 
-msgctxt "Confirm"
 msgid "Confirm"
 msgstr ""
 
-msgctxt "Confirm Password"
 msgid "Confirm Password"
 msgstr "确认密码"
 
-msgctxt "Confirm new password"
 msgid "Confirm new password"
 msgstr "确认新密码"
 
-msgctxt "Confirmation"
 msgid "Confirmation"
 msgstr ""
 
-msgctxt "Confirmation required"
 msgid "Confirmation required"
 msgstr ""
 
-msgctxt "Connection type"
 msgid "Connection type"
 msgstr ""
 
-msgctxt "Contact"
 msgid "Contact"
 msgstr "联系"
 
-msgctxt "Contact successfully added to your address book"
 msgid "Contact successfully added to your address book"
 msgstr ""
 
-msgctxt "Contact us"
 msgid "Contact us"
 msgstr "联系"
 
-msgctxt "Contest"
 msgid "Contest"
 msgstr "竞争"
 
-msgctxt "Coordinates"
 msgid "Coordinates"
 msgstr ""
 
-msgctxt "Copy"
 msgid "Copy"
 msgstr ""
 
-msgctxt "Copying"
 msgid "Copying"
 msgstr ""
 
-msgctxt "Core"
 msgid "Core"
 msgstr "代码"
 
-msgctxt "Country"
 msgid "Country"
 msgstr "国家"
 
-msgctxt "Cover"
 msgid "Cover"
 msgstr ""
 
-msgctxt "Create"
 msgid "Create"
 msgstr "创建"
 
-msgctxt "Create / Edit a User"
 msgid "Create / Edit a User"
 msgstr ""
 
-msgctxt "Create a new account"
 msgid "Create a new account"
 msgstr "创建新帐号"
 
-msgctxt "Create an account"
 msgid "Create an account"
 msgstr "创建一个帐户"
 
-msgctxt "Created at"
 msgid "Created at"
 msgstr "创建于"
 
-msgctxt "Creator Email"
 msgid "Creator Email"
 msgstr ""
 
-msgctxt "Currency"
 msgid "Currency"
 msgstr "货币"
 
-msgctxt "Current load is"
 msgid "Current load is"
 msgstr ""
 
-msgctxt "Current password"
 msgid "Current password"
 msgstr "当前密码"
 
-msgctxt "Current status is"
 msgid "Current status is"
 msgstr ""
 
-msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "页面"
 
-msgctxt "Customization"
 msgid "Customization"
 msgstr ""
 
-msgctxt "Customization mode activated"
 msgid "Customization mode activated"
 msgstr ""
 
-msgctxt "Customize your app's colors"
 msgid "Customize your app's colors"
 msgstr ""
 
-msgctxt "DEFAULT"
 msgid "DEFAULT"
 msgstr ""
 
-msgctxt "DELETE"
 msgid "DELETE"
 msgstr ""
 
-msgctxt "(DEMO)"
 msgid "(DEMO)"
 msgstr ""
 
-msgctxt "Dashboard"
 msgid "Dashboard"
 msgstr "控制面板"
 
-msgctxt "Data saved successfully."
 msgid "Data saved successfully."
 msgstr ""
 
-msgctxt "Date"
 msgid "Date"
 msgstr "日期"
 
-msgctxt "Date and time"
 msgid "Date and time"
 msgstr "日期和时间"
 
-msgctxt "Date of birth"
 msgid "Date of birth"
 msgstr "出生日期"
 
-msgctxt "Deactivate"
 msgid "Deactivate"
 msgstr "离"
 
-msgctxt "Debug"
 msgid "Debug"
 msgstr ""
 
-msgctxt "Debug output"
 msgid "Debug output"
 msgstr ""
 
-msgctxt "Default Languages"
 msgid "Default Languages"
 msgstr "默认语言"
 
-msgctxt "Default role for all new users"
 msgid "Default role for all new users"
 msgstr ""
 
-msgctxt "Default search distance"
 msgid "Default search distance"
 msgstr ""
 
-msgctxt "Delete"
 msgid "Delete"
 msgstr "删除"
 
-msgctxt "Delete a feature"
 msgid "Delete a feature"
 msgstr ""
 
-msgctxt "Delete the Application"
 msgid "Delete the Application"
 msgstr ""
 
-msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "删除此文件夹及其所有子文件夹？"
 
-msgctxt "Delivered"
 msgid "Delivered"
 msgstr ""
 
-msgctxt "Delivery Cost"
 msgid "Delivery Cost"
 msgstr ""
 
-msgctxt "Delivery method"
 msgid "Delivery method"
 msgstr "运输方式"
 
-msgctxt "Description"
 msgid "Description"
 msgstr "描述"
 
-msgctxt "Details"
 msgid "Details"
 msgstr "详细信息"
 
-msgctxt "Development"
 msgid "Development"
 msgstr ""
 
-msgctxt "Dialog"
 msgid "Dialog"
 msgstr ""
 
-msgctxt "Dialog background"
 msgid "Dialog background"
 msgstr ""
 
-msgctxt "Dialog button"
 msgid "Dialog button"
 msgstr ""
 
-msgctxt "Dialog text"
 msgid "Dialog text"
 msgstr ""
 
-msgctxt "Discount"
 msgid "Discount"
 msgstr "折扣"
 
-msgctxt "Discounts"
 msgid "Discounts"
 msgstr "折扣"
 
-msgctxt "Display pictogram instead of image in map"
 msgid "Display pictogram instead of image in map"
 msgstr ""
 
-msgctxt "Distance unit"
 msgid "Distance unit"
 msgstr ""
 
-msgctxt "Do not export"
 msgid "Do not export"
 msgstr ""
 
-msgctxt ""
-"Do you want to download all the contents now to access it when offline? If "
-"you do, we recommend you to use a WiFi connection."
 msgid ""
 "Do you want to download all the contents now to access it when offline? If "
 "you do, we recommend you to use a WiFi connection."
 msgstr ""
 
-msgctxt "Do you want to return to the homepage?"
 msgid "Do you want to return to the homepage?"
 msgstr ""
 
-msgctxt "Done"
 msgid "Done"
 msgstr ""
 
-msgctxt "Don't close the app while downloading. This may take a while."
 msgid "Don't close the app while downloading. This may take a while."
 msgstr ""
 
-msgctxt "Download APK"
 msgid "Download APK"
 msgstr "下载"
 
-msgctxt "Download a copy of my data"
 msgid "Download a copy of my data"
 msgstr ""
 
-msgctxt "Download as zip"
 msgid "Download as zip"
 msgstr ""
 
-msgctxt "Download complete list for this metric"
 msgid "Download complete list for this metric"
 msgstr ""
 
-msgctxt "Download current search as CSV"
 msgid "Download current search as CSV"
 msgstr ""
 
-msgctxt "Download file is not available in DEMO mode."
 msgid "Download file is not available in DEMO mode."
 msgstr ""
 
-msgctxt "Download latest APK"
 msgid "Download latest APK"
 msgstr ""
 
-msgctxt "Download latest sources"
 msgid "Download latest sources"
 msgstr ""
 
-msgctxt "Download list of user who used this discount"
 msgid "Download list of user who used this discount"
 msgstr ""
 
-msgctxt "Download list of user who used this loyalty card"
 msgid "Download list of user who used this loyalty card"
 msgstr ""
 
-msgctxt "Download list of user who used this scratch card"
 msgid "Download list of user who used this scratch card"
 msgstr ""
 
-msgctxt "Download only winner list for this scratch card"
 msgid "Download only winner list for this scratch card"
 msgstr ""
 
-msgctxt "Download the APK"
 msgid "Download the APK"
 msgstr ""
 
-msgctxt "Download the Source code"
 msgid "Download the Source code"
 msgstr ""
 
-msgctxt "Downloading..."
 msgid "Downloading..."
 msgstr ""
 
-msgctxt "Drop your json here"
 msgid "Drop your json here"
 msgstr "留下您的徽标在这里"
 
-msgctxt "EDIT"
 msgid "EDIT"
 msgstr ""
 
-msgctxt "Edit"
 msgid "Edit"
 msgstr "编辑"
 
-msgctxt "Edit an invoice for this plan"
 msgid "Edit an invoice for this plan"
 msgstr ""
 
-msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr ""
 
-msgctxt "Edit step for this element"
 msgid "Edit step for this element"
 msgstr ""
 
-msgctxt "Editing"
 msgid "Editing"
 msgstr "版"
 
-msgctxt "Editor"
 msgid "Editor"
 msgstr "编辑"
 
-msgctxt ""
-"Editor note: A user with a given role can only assign Self role (if the role "
-"is SELF-ASSIGNABLE) & Child roles."
 msgid ""
 "Editor note: A user with a given role can only assign Self role (if the role "
 "is SELF-ASSIGNABLE) & Child roles."
 msgstr ""
 
-msgctxt ""
-"Editor note: A user with a given role can only assign self & child roles."
 msgid ""
 "Editor note: A user with a given role can only assign self & child roles."
 msgstr ""
 
-msgctxt "Element n°"
 msgid "Element n°"
 msgstr ""
 
-msgctxt "Email"
 msgid "Email"
 msgstr "电子邮件"
 
-msgctxt "Email address"
 msgid "Email address"
 msgstr "电子邮件地址"
 
-msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr ""
 
-msgctxt "Enable test API ?"
 msgid "Enable test API ?"
 msgstr ""
 
-msgctxt "End at"
 msgid "End at"
 msgstr "在结果"
 
-msgctxt "End tour"
 msgid "End tour"
 msgstr ""
 
-msgctxt "Enter your twitter handle"
 msgid "Enter your twitter handle"
 msgstr ""
 
-msgctxt "Error"
 msgid "Error"
 msgstr ""
 
-msgctxt "Error : <br/>"
 msgid "Error : <br/>"
 msgstr "错误: <br>"
 
-msgctxt "Error on import configuration."
 msgid "Error on import configuration."
 msgstr ""
 
-msgctxt "Errors : <br/>"
 msgid "Errors : <br/>"
 msgstr "错误: <br>"
 
-msgctxt "European <b>General Data Protection Regulation (GDPR)</b>"
 msgid "European <b>General Data Protection Regulation (GDPR)</b>"
 msgstr ""
 
-msgctxt "Event"
 msgid "Event"
 msgstr "事件"
 
-msgctxt "Events"
 msgid "Events"
 msgstr "事件"
 
-msgctxt "Export / Import"
 msgid "Export / Import"
 msgstr ""
 
-msgctxt ""
-"Export / Import of features is currently in beta and available only with "
-"some features."
 msgid ""
 "Export / Import of features is currently in beta and available only with "
 "some features."
 msgstr ""
 
-msgctxt "Export your customers"
 msgid "Export your customers"
 msgstr "导出你的客户"
 
-msgctxt "Extension"
 msgid "Extension"
 msgstr ""
 
-msgctxt "Extension can't be empty."
 msgid "Extension can't be empty."
 msgstr ""
 
-msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "该扩展是不允许的， '％s' 的唯一"
 
-msgctxt "Extension %s is strictly forbidden."
 msgid "Extension %s is strictly forbidden."
 msgstr ""
 
-msgctxt "Extension: txt, png, jpeg, avi, etc..."
 msgid "Extension: txt, png, jpeg, avi, etc..."
 msgstr ""
 
-msgctxt "Facebook"
 msgid "Facebook"
 msgstr "Facebook的"
 
-msgctxt "Fan Wall"
 msgid "Fan Wall"
 msgstr ""
 
-msgctxt "Fanwall"
 msgid "Fanwall"
 msgstr ""
 
-msgctxt "Feature Analytics"
 msgid "Feature Analytics"
 msgstr ""
 
-msgctxt "Feature Top 5 visits"
 msgid "Feature Top 5 visits"
 msgstr ""
 
-msgctxt "Features"
 msgid "Features"
 msgstr "功能"
 
-msgctxt "Filter metrics"
 msgid "Filter metrics"
 msgstr ""
 
-msgctxt "Firewall"
 msgid "Firewall"
 msgstr ""
 
-msgctxt "First Name"
 msgid "First Name"
 msgstr "名字"
 
-msgctxt "First name"
 msgid "First name"
 msgstr "名字"
 
-msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "名字/姓"
 
-msgctxt "Firstname"
 msgid "Firstname"
 msgstr "名字"
 
-msgctxt "Folder"
 msgid "Folder"
 msgstr "夹"
 
-msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "所需的文件夹称号"
 
-msgctxt "Folders"
 msgid "Folders"
 msgstr "文件夹"
 
-msgctxt "Folders (v2)"
 msgid "Folders (v2)"
 msgstr ""
 
-msgctxt "Forbidden image format"
 msgid "Forbidden image format"
 msgstr ""
 
-msgctxt "Force request & Upload to panel"
 msgid "Force request & Upload to panel"
 msgstr ""
 
-msgctxt "Forgot your password?"
 msgid "Forgot your password?"
 msgstr "忘记密码了吗？"
 
-msgctxt ""
-"Forgot your password? Don't worry! Simply enter your email address and we'll "
-"send you a new one right now."
 msgid ""
 "Forgot your password? Don't worry! Simply enter your email address and we'll "
 "send you a new one right now."
 msgstr "忘记密码了吗？不用担心！只要输入您的电子邮件地址，我们将马上送你一个新的。"
 
-msgctxt "Form"
 msgid "Form"
 msgstr "形式"
 
-msgctxt "Form has the following errors"
 msgid "Form has the following errors"
 msgstr ""
 
-msgctxt "Free until"
 msgid "Free until"
 msgstr ""
 
-msgctxt "From:"
 msgid "From:"
 msgstr ""
 
-msgctxt "Front"
 msgid "Front"
 msgstr ""
 
-msgctxt "GCM settings saved."
 msgid "GCM settings saved."
 msgstr ""
 
-msgctxt "GRADLE extended options"
 msgid "GRADLE extended options"
 msgstr ""
 
-msgctxt "General"
 msgid "General"
 msgstr "一般"
 
-msgctxt "Generate"
 msgid "Generate"
 msgstr ""
 
-msgctxt "Generate an invoice for this offline plan by using the form below."
 msgid "Generate an invoice for this offline plan by using the form below."
 msgstr ""
 
-msgctxt "Generate build"
 msgid "Generate build"
 msgstr ""
 
-msgctxt "Generate sources"
 msgid "Generate sources"
 msgstr ""
 
-msgctxt "Global push"
 msgid "Global push"
 msgstr ""
 
-msgctxt "Global push notifications"
 msgid "Global push notifications"
 msgstr ""
 
-msgctxt "Go back"
 msgid "Go back"
 msgstr ""
 
-msgctxt "Google Maps settings"
 msgid "Google Maps settings"
 msgstr ""
 
-msgctxt "HH:mm a"
 msgid "HH:mm a"
 msgstr ""
 
-msgctxt "Hello,"
 msgid "Hello,"
 msgstr "您好，"
 
-msgctxt "Here is your new password:"
 msgid "Here is your new password:"
 msgstr "这是你的新密码："
 
-msgctxt "Hi. I just found: $1 in the $2 app."
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr ""
 
-msgctxt "Hide"
 msgid "Hide"
 msgstr "隐藏"
 
-msgctxt "Hide iOS status bar"
 msgid "Hide iOS status bar"
 msgstr ""
 
-msgctxt "Hint"
 msgid "Hint"
 msgstr ""
 
-msgctxt "Home"
 msgid "Home"
 msgstr ""
 
-msgctxt "Homepage"
 msgid "Homepage"
 msgstr ""
 
-msgctxt "Host"
 msgid "Host"
 msgstr ""
 
-msgctxt "Hostnames associated with this Certificate"
 msgid "Hostnames associated with this Certificate"
 msgstr ""
 
-msgctxt ""
-"How do you want to access the backoffice if you remove the only user "
-"remaining?"
 msgid ""
 "How do you want to access the backoffice if you remove the only user "
 "remaining?"
 msgstr "你将如何访问后台，如果用户仅剩下了吗？"
 
-msgctxt "ID"
 msgid "ID"
 msgstr "ID"
 
-msgctxt "IP"
 msgid "IP"
 msgstr ""
 
-msgctxt "IP, example: 127.0.0.1"
 msgid "IP, example: 127.0.0.1"
 msgstr ""
 
-msgctxt "Icons size"
 msgid "Icons size"
 msgstr ""
 
-msgctxt "If user doesn't use AdMob, split revenue will default to 100."
 msgid "If user doesn't use AdMob, split revenue will default to 100."
 msgstr ""
 
-msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr ""
 
-msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr ""
 
-msgctxt "Image"
 msgid "Image"
 msgstr "意象"
 
-msgctxt "Image not high enough, %spx minimum allowed."
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "图像不够高，最小％spx允许的。"
 
-msgctxt "Image not large enough, '%s' allowed."
 msgid "Image not large enough, '%s' allowed."
 msgstr "图像不够大， ' ％s'的允许。"
 
-msgctxt "Image not large enough, %spx minimum allowed."
 msgid "Image not large enough, %spx minimum allowed."
 msgstr "图像不够大，至少％spx 的限制。"
 
-msgctxt "Image successfully saved"
 msgid "Image successfully saved"
 msgstr "照片保存成功"
 
-msgctxt "Image too high, %spx maximum allowed."
 msgid "Image too high, %spx maximum allowed."
 msgstr "图像太高，最大值％spx 允许的。"
 
-msgctxt "Image too large, '%s' allowed."
 msgid "Image too large, '%s' allowed."
 msgstr "图像太大， ' ％s'的允许。"
 
-msgctxt "Image too large, %spx maximum allowed."
 msgid "Image too large, %spx maximum allowed."
 msgstr "图像太大，最多％spx 允许的。"
 
-msgctxt "Images"
 msgid "Images"
 msgstr "意象"
 
-msgctxt "Images opacity"
 msgid "Images opacity"
 msgstr ""
 
-msgctxt "Import"
 msgid "Import"
 msgstr ""
 
-msgctxt "Import a background image"
 msgid "Import a background image"
 msgstr ""
 
-msgctxt "Import a cover image"
 msgid "Import a cover image"
 msgstr ""
 
-msgctxt "Import a single feature."
 msgid "Import a single feature."
 msgstr ""
 
-msgctxt "Import a thumbnail"
 msgid "Import a thumbnail"
 msgstr ""
 
-msgctxt "Import a thumbnail image"
 msgid "Import a thumbnail image"
 msgstr ""
 
-msgctxt "Import yml"
 msgid "Import yml"
 msgstr ""
 
-msgctxt ""
-"In order to fully enjoy our features, we encourage you to use at least:.<br "
-"/>"
 msgid ""
 "In order to fully enjoy our features, we encourage you to use at least:.<br "
 "/>"
 msgstr "为了充分享受我们的特点，我们建议至少使用。<br/>"
 
-msgctxt "In order to publish your application, we need:"
 msgid "In order to publish your application, we need:"
 msgstr ""
 
-msgctxt "In order to use global push notifications your app must be published."
 msgid "In order to use global push notifications your app must be published."
 msgstr ""
 
-msgctxt "Incorrect filetype."
 msgid "Incorrect filetype."
 msgstr "不正确的文件类型。"
 
-msgctxt "Info"
 msgid "Info"
 msgstr ""
 
-msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "信息保存成功"
 
-msgctxt "Information"
 msgid "Information"
 msgstr "信息"
 
-msgctxt "Infos successfully saved"
 msgid "Infos successfully saved"
 msgstr "相关信息保存成功"
 
-msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr ""
 
-msgctxt "Insert a <br /><span class'bold'>cover image</span>"
 msgid "Insert a <br /><span class'bold'>cover image</span>"
 msgstr ""
 
-msgctxt "Insert a cover image"
 msgid "Insert a cover image"
 msgstr ""
 
-msgctxt "Insert a picture"
 msgid "Insert a picture"
 msgstr ""
 
-msgctxt "Installer"
 msgid "Installer"
 msgstr ""
 
-msgctxt "Installs"
 msgid "Installs"
 msgstr ""
 
-msgctxt "Integration"
 msgid "Integration"
 msgstr ""
 
-msgctxt "Interstitial"
 msgid "Interstitial"
 msgstr ""
 
-msgctxt "Invalid place"
 msgid "Invalid place"
 msgstr ""
 
-msgctxt "Invoice creation date"
 msgid "Invoice creation date"
 msgstr ""
 
-msgctxt "Invoice payment date"
 msgid "Invoice payment date"
 msgstr ""
 
-msgctxt "Invoices"
 msgid "Invoices"
 msgstr "发票"
 
-msgctxt "Issuer"
 msgid "Issuer"
 msgstr ""
 
-msgctxt ""
-"It seems that the renewal of the following SSL Certificate %s is failing, "
-"please check in <b>Settings > Advanced > Configuration</b> for the specified "
-"certificate."
 msgid ""
 "It seems that the renewal of the following SSL Certificate %s is failing, "
 "please check in <b>Settings > Advanced > Configuration</b> for the specified "
 "certificate."
 msgstr ""
 
-msgctxt "JAVA Extended options"
 msgid "JAVA Extended options"
 msgstr ""
 
-msgctxt "Landscape"
 msgid "Landscape"
 msgstr ""
 
-msgctxt "Last Name"
 msgid "Last Name"
 msgstr "姓"
 
-msgctxt "Last action"
 msgid "Last action"
 msgstr ""
 
-msgctxt "Last error"
 msgid "Last error"
 msgstr ""
 
-msgctxt "Last login"
 msgid "Last login"
 msgstr ""
 
-msgctxt "Last name"
 msgid "Last name"
 msgstr "姓"
 
-msgctxt "Last update date"
 msgid "Last update date"
 msgstr ""
 
-msgctxt "Lastname"
 msgid "Lastname"
 msgstr "姓"
 
-msgctxt "Layout #1"
 msgid "Layout #1"
 msgstr ""
 
-msgctxt "Layout #2"
 msgid "Layout #2"
 msgstr ""
 
-msgctxt "Layout #3"
 msgid "Layout #3"
 msgstr ""
 
-msgctxt "Layout #4"
 msgid "Layout #4"
 msgstr ""
 
-msgctxt "Layout #5"
 msgid "Layout #5"
 msgstr ""
 
-msgctxt "Layout #6"
 msgid "Layout #6"
 msgstr ""
 
-msgctxt "Leave blank if your web space is the current domain."
 msgid "Leave blank if your web space is the current domain."
 msgstr ""
 
-msgctxt "Left"
 msgid "Left"
 msgstr ""
 
-msgctxt "Let your users know what is locked"
 msgid "Let your users know what is locked"
 msgstr ""
 
-msgctxt "Like"
 msgid "Like"
 msgstr "我喜欢"
 
-msgctxt "Likes"
 msgid "Likes"
 msgstr "我喜欢"
 
-msgctxt "Link"
 msgid "Link"
 msgstr "链接"
 
-msgctxt "Links"
 msgid "Links"
 msgstr "链接"
 
-msgctxt "Links are now re-ordered!"
 msgid "Links are now re-ordered!"
 msgstr ""
 
-msgctxt "List"
 msgid "List"
 msgstr ""
 
-msgctxt "List Item"
 msgid "List Item"
 msgstr ""
 
-msgctxt "List of your invoices"
 msgid "List of your invoices"
 msgstr "您的角色列表"
 
-msgctxt "Load More"
 msgid "Load More"
 msgstr ""
 
-msgctxt "Loading"
 msgid "Loading"
 msgstr "载入中"
 
-msgctxt "Loading picture"
 msgid "Loading picture"
 msgstr "加载图像："
 
-msgctxt "Local APK Generator"
 msgid "Local APK Generator"
 msgstr ""
 
-msgctxt "Local APK build"
 msgid "Local APK build"
 msgstr ""
 
-msgctxt "Locate"
 msgid "Locate"
 msgstr "定位"
 
-msgctxt "Location"
 msgid "Location"
 msgstr ""
 
-msgctxt "Location: %s"
 msgid "Location: %s"
 msgstr ""
 
-msgctxt "Log in"
 msgid "Log in"
 msgstr "登录"
 
-msgctxt "Logged in as"
 msgid "Logged in as"
 msgstr "登录为"
 
-msgctxt "Log-in"
 msgid "Log-in"
 msgstr "登录"
 
-msgctxt "Login to access your data"
 msgid "Login to access your data"
 msgstr ""
 
-msgctxt "Login to your admin interface"
 msgid "Login to your admin interface"
 msgstr "输入您的后台界面"
 
-msgctxt "Log-out"
 msgid "Log-out"
 msgstr "注销"
 
-msgctxt "Loyalty Card"
 msgid "Loyalty Card"
 msgstr "点卡"
 
-msgctxt "LoyaltyCard"
 msgid "LoyaltyCard"
 msgstr ""
 
-msgctxt "MMMM dd y"
 msgid "MMMM dd y"
 msgstr "MMMM dd y"
 
-msgctxt "MM,d yy"
 msgid "MM,d yy"
 msgstr "MM/dd/yyyy"
 
-msgctxt "MM.dd.y"
 msgid "MM.dd.y"
 msgstr ""
 
-msgctxt "MM.dd.y 'at' HH:mm a"
 msgid "MM.dd.y 'at' HH:mm a"
 msgstr "MM/dd/y 'at' hh:mm a"
 
-msgctxt "MM/dd/y 'at' hh:mm a"
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "MM/dd/y 'at' hh:mm a"
 
-msgctxt "MM/dd/y hh:mm a"
 msgid "MM/dd/y hh:mm a"
 msgstr "MM/dd/y hh:mm a"
 
-msgctxt "MM/dd/yy"
 msgid "MM/dd/yy"
 msgstr "MM/dd/yy"
 
-msgctxt "MM/dd/yyyy"
 msgid "MM/dd/yyyy"
 msgstr "DD / MM / YYYY"
 
-msgctxt "Main Platform"
 msgid "Main Platform"
 msgstr ""
 
-msgctxt "Main category"
 msgid "Main category"
 msgstr "大类"
 
-msgctxt "Main domain"
 msgid "Main domain"
 msgstr ""
 
-msgctxt "Main domain (without https?://) is required for services, and tools."
 msgid "Main domain (without https?://) is required for services, and tools."
 msgstr ""
 
-msgctxt "Main hostname"
 msgid "Main hostname"
 msgstr ""
 
-msgctxt "Make this image colorizable"
 msgid "Make this image colorizable"
 msgstr "使这个colorizable图像"
 
-msgctxt "Manage"
 msgid "Manage"
 msgstr "管理"
 
-msgctxt "Manage Folders"
 msgid "Manage Folders"
 msgstr ""
 
-msgctxt "Manage Places"
 msgid "Manage Places"
 msgstr ""
 
-msgctxt "Manage Tour"
 msgid "Manage Tour"
 msgstr ""
 
-msgctxt "Manage content"
 msgid "Manage content"
 msgstr ""
 
-msgctxt "Map"
 msgid "Map"
 msgstr "地图"
 
-msgctxt "Maps"
 msgid "Maps"
 msgstr "地图"
 
-msgctxt "Mcommerce"
 msgid "Mcommerce"
 msgstr ""
 
-msgctxt "Media"
 msgid "Media"
 msgstr "媒体"
 
-msgctxt "Message"
 msgid "Message"
 msgstr "信息"
 
-msgctxt "Message from your app %s"
 msgid "Message from your app %s"
 msgstr "消息应用程序％s"
 
-msgctxt "Messages"
 msgid "Messages"
 msgstr "帖子"
 
-msgctxt "Metadata"
 msgid "Metadata"
 msgstr ""
 
-msgctxt "Method"
 msgid "Method"
 msgstr ""
 
-msgctxt "Middle"
 msgid "Middle"
 msgstr ""
 
-msgctxt "Migrate sessions"
 msgid "Migrate sessions"
 msgstr ""
 
-msgctxt "Migrate sessions to Redis"
 msgid "Migrate sessions to Redis"
 msgstr ""
 
-msgctxt "Misc"
 msgid "Misc"
 msgstr "女士."
 
-msgctxt "Missing appId"
 msgid "Missing appId"
 msgstr ""
 
-msgctxt "Missing gallery_id"
 msgid "Missing gallery_id"
 msgstr ""
 
-msgctxt "Missing parameters."
 msgid "Missing parameters."
 msgstr ""
 
-msgctxt "Missing params"
 msgid "Missing params"
 msgstr ""
 
-msgctxt "Missing status"
 msgid "Missing status"
 msgstr ""
 
-msgctxt "Missing value"
 msgid "Missing value"
 msgstr ""
 
-msgctxt "Missing values"
 msgid "Missing values"
 msgstr ""
 
-msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "手机屏幕"
 
-msgctxt "Modal"
 msgid "Modal"
 msgstr ""
 
-msgctxt "Modules"
 msgid "Modules"
 msgstr "模块"
 
-msgctxt "Monetization"
 msgid "Monetization"
 msgstr ""
 
-msgctxt "Month"
 msgid "Month"
 msgstr ""
 
-msgctxt "Monthly"
 msgid "Monthly"
 msgstr ""
 
-msgctxt "More"
 msgid "More"
 msgstr "更多"
 
-msgctxt "My Users List"
 msgid "My Users List"
 msgstr ""
 
-msgctxt "My account"
 msgid "My account"
 msgstr "我的账户"
 
-msgctxt "My custom template"
 msgid "My custom template"
 msgstr ""
 
-msgctxt "My invoices"
 msgid "My invoices"
 msgstr "我的发票"
 
-msgctxt "MyTemplate"
 msgid "MyTemplate"
 msgstr ""
 
-msgctxt "NSCameraUsageDescription"
 msgid "NSCameraUsageDescription"
 msgstr ""
 
-msgctxt "NSLocationAlwaysAndWhenInUseUsageDescription"
 msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
 msgstr ""
 
-msgctxt "NSLocationAlwaysUsageDescription"
 msgid "NSLocationAlwaysUsageDescription"
 msgstr ""
 
-msgctxt "NSLocationWhenInUseUsageDescription"
 msgid "NSLocationWhenInUseUsageDescription"
 msgstr ""
 
-msgctxt "NSMotionUsageDescription"
 msgid "NSMotionUsageDescription"
 msgstr ""
 
-msgctxt "NSPhotoLibraryUsageDescription"
 msgid "NSPhotoLibraryUsageDescription"
 msgstr ""
 
-msgctxt "Name"
 msgid "Name"
 msgstr "名字"
 
-msgctxt "Never"
 msgid "Never"
 msgstr "从来没有"
 
-msgctxt "New"
 msgid "New"
 msgstr "新"
 
-msgctxt "New folder"
 msgid "New folder"
 msgstr "新建文件夹"
 
-msgctxt "New format"
 msgid "New format"
 msgstr ""
 
-msgctxt "New password"
 msgid "New password"
 msgstr "密码"
 
-msgctxt "New positions are missing."
 msgid "New positions are missing."
 msgstr ""
 
-msgctxt "New subfolder"
 msgid "New subfolder"
 msgstr "新建文件夹"
 
-msgctxt "Newswall"
 msgid "Newswall"
 msgstr "新闻"
 
-msgctxt "Next"
 msgid "Next"
 msgstr "下一个"
 
-msgctxt "No"
 msgid "No"
 msgstr "别"
 
-msgctxt "No Results"
 msgid "No Results"
 msgstr ""
 
-msgctxt "No address to display on map."
 msgid "No address to display on map."
 msgstr ""
 
-msgctxt "No data for this metrics for now."
 msgid "No data for this metrics for now."
 msgstr ""
 
-msgctxt "No features"
 msgid "No features"
 msgstr ""
 
-msgctxt "No invoice for now."
 msgid "No invoice for now."
 msgstr ""
 
-msgctxt "No items found"
 msgid "No items found"
 msgstr ""
 
-msgctxt "No linkable element found on this page."
 msgid "No linkable element found on this page."
 msgstr ""
 
-msgctxt "No logs"
 msgid "No logs"
 msgstr ""
 
-msgctxt "No modules"
 msgid "No modules"
 msgstr ""
 
-msgctxt "No place to display on map."
 msgid "No place to display on map."
 msgstr ""
 
-msgctxt "No profile found. Please create one in Settings tab."
 msgid "No profile found. Please create one in Settings tab."
 msgstr ""
 
-msgctxt "No published applications available."
 msgid "No published applications available."
 msgstr ""
 
-msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr ""
 
-msgctxt "No rules"
 msgid "No rules"
 msgstr ""
 
-msgctxt "No uploaded image"
 msgid "No uploaded image"
 msgstr ""
 
-msgctxt "Not available offline."
 msgid "Not available offline."
 msgstr ""
 
-msgctxt "Note"
 msgid "Note"
 msgstr ""
 
-msgctxt ""
-"Note: A disabled feature is not removed from published applications & can "
-"still be edited, but users can't add it anymore!"
 msgid ""
 "Note: A disabled feature is not removed from published applications & can "
 "still be edited, but users can't add it anymore!"
 msgstr ""
 
-msgctxt "Note: Let's encrypt X1 is a staging certificate."
 msgid "Note: Let's encrypt X1 is a staging certificate."
 msgstr ""
 
-msgctxt "Nothing to display."
 msgid "Nothing to display."
 msgstr ""
 
-msgctxt "Number"
 msgid "Number"
 msgstr "号码"
 
-msgctxt "Number of people"
 msgid "Number of people"
 msgstr "人数"
 
-msgctxt "Number of reward used"
 msgid "Number of reward used"
 msgstr ""
 
-msgctxt "OK"
 msgid "OK"
 msgstr "行"
 
-msgctxt "OR"
 msgid "OR"
 msgstr "Ø"
 
-msgctxt "Offline Payment"
 msgid "Offline Payment"
 msgstr ""
 
-msgctxt "Offline content"
 msgid "Offline content"
 msgstr ""
 
-msgctxt "Old Password"
 msgid "Old Password"
 msgstr "密钥密码"
 
-msgctxt "Only active"
 msgid "Only active"
 msgstr ""
 
-msgctxt "Only inactive"
 msgid "Only inactive"
 msgstr ""
 
-msgctxt "Only offline"
 msgid "Only offline"
 msgstr ""
 
-msgctxt "Only published application are available for global push notifications."
 msgid "Only published application are available for global push notifications."
 msgstr ""
 
-msgctxt "Open custom URL"
 msgid "Open custom URL"
 msgstr ""
 
-msgctxt "Open settings"
 msgid "Open settings"
 msgstr ""
 
-msgctxt "Options"
 msgid "Options"
 msgstr "选项"
 
-msgctxt "Or do you want to return to editor?"
 msgid "Or do you want to return to editor?"
 msgstr ""
 
-msgctxt "Order"
 msgid "Order"
 msgstr "订单"
 
-msgctxt "Order date"
 msgid "Order date"
 msgstr ""
 
-msgctxt "Origin"
 msgid "Origin"
 msgstr ""
 
-msgctxt "Ouch, this page doesn't exist"
 msgid "Ouch, this page doesn't exist"
 msgstr "哎哟，这个页面不存在"
 
-msgctxt "Override layout"
 msgid "Override layout"
 msgstr ""
 
-msgctxt "PHP Version"
 msgid "PHP Version"
 msgstr ""
 
-msgctxt "Package name"
 msgid "Package name"
 msgstr ""
 
-msgctxt "Padlock"
 msgid "Padlock"
 msgstr "访问"
 
-msgctxt "Page settings"
 msgid "Page settings"
 msgstr ""
 
-msgctxt "Paid At"
 msgid "Paid At"
 msgstr ""
 
-msgctxt "Paid amount"
 msgid "Paid amount"
 msgstr ""
 
-msgctxt "Paid at"
 msgid "Paid at"
 msgstr ""
 
-msgctxt "Parent"
 msgid "Parent"
 msgstr ""
 
-msgctxt "Password"
 msgid "Password"
 msgstr "密码"
 
-msgctxt "Password (clear)"
 msgid "Password (clear)"
 msgstr ""
 
-msgctxt "Password (hashed)"
 msgid "Password (hashed)"
 msgstr ""
 
-msgctxt "Passwords don't match"
 msgid "Passwords don't match"
 msgstr "密码不匹配"
 
-msgctxt "PayPal Express Checkout"
 msgid "PayPal Express Checkout"
 msgstr ""
 
-msgctxt "Payment"
 msgid "Payment"
 msgstr "付款"
 
-msgctxt "Payment ID"
 msgid "Payment ID"
 msgstr "付款"
 
-msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "付款方式"
 
-msgctxt "Payment method"
 msgid "Payment method"
 msgstr "付款方式"
 
-msgctxt "Payments"
 msgid "Payments"
 msgstr "付款"
 
-msgctxt "Permissions"
 msgid "Permissions"
 msgstr ""
 
-msgctxt "Personal data"
 msgid "Personal data"
 msgstr ""
 
-msgctxt "Phone"
 msgid "Phone"
 msgstr "电话"
 
-msgctxt "Phone and/or E-mail"
 msgid "Phone and/or E-mail"
 msgstr ""
 
-msgctxt "Photos"
 msgid "Photos"
 msgstr ""
 
-msgctxt "Place disabled"
 msgid "Place disabled"
 msgstr ""
 
-msgctxt "Places"
 msgid "Places"
 msgstr "地方"
 
-msgctxt "Plain"
 msgid "Plain"
 msgstr ""
 
-msgctxt "Plans"
 msgid "Plans"
 msgstr "飞机"
 
-msgctxt "Platform"
 msgid "Platform"
 msgstr ""
 
-msgctxt "Platform Name"
 msgid "Platform Name"
 msgstr "名称平台"
 
-msgctxt "Platform hostname"
 msgid "Platform hostname"
 msgstr "名称平台"
 
-msgctxt "Player"
 msgid "Player"
 msgstr "播放机"
 
-msgctxt "Please create the API keys to enable this feature."
 msgid "Please create the API keys to enable this feature."
 msgstr ""
 
-msgctxt "Please, enter a correct email address."
 msgid "Please, enter a correct email address."
 msgstr "请输入正确的电子邮件地址。"
 
-msgctxt "Please enter a password"
 msgid "Please enter a password"
 msgstr "请输入密码"
 
-msgctxt "Please enter a valid URL."
 msgid "Please enter a valid URL."
 msgstr "请输入有效的URL"
 
-msgctxt "Please enter a valid credit card number."
 msgid "Please enter a valid credit card number."
 msgstr ""
 
-msgctxt "Please, enter a valid date"
 msgid "Please, enter a valid date"
 msgstr "有效日期请输入"
 
-msgctxt "Please enter a valid date (ISO)."
 msgid "Please enter a valid date (ISO)."
 msgstr "有效日期请输入"
 
-msgctxt "Please enter a valid email address"
 msgid "Please enter a valid email address"
 msgstr "请输入有效的电子邮件地址"
 
-msgctxt "Please enter a valid number."
 msgid "Please enter a valid number."
 msgstr "请输入有效的URL"
 
-msgctxt "Please enter a valid url"
 msgid "Please enter a valid url"
 msgstr "请输入有效的URL"
 
-msgctxt "Please enter a value between {0} and {1}."
 msgid "Please enter a value between {0} and {1}."
 msgstr ""
 
-msgctxt "Please enter a value between {0} and {1} characters long."
 msgid "Please enter a value between {0} and {1} characters long."
 msgstr ""
 
-msgctxt "Please enter a value greater than or equal to {0}."
 msgid "Please enter a value greater than or equal to {0}."
 msgstr ""
 
-msgctxt "Please enter a value less than or equal to {0}."
 msgid "Please enter a value less than or equal to {0}."
 msgstr ""
 
-msgctxt "Please enter at least {0} characters."
 msgid "Please enter at least {0} characters."
 msgstr ""
 
-msgctxt "Please enter no more than {0} characters."
 msgid "Please enter no more than {0} characters."
 msgstr ""
 
-msgctxt "Please enter only digits."
 msgid "Please enter only digits."
 msgstr ""
 
-msgctxt "Please enter the same value again."
 msgid "Please enter the same value again."
 msgstr ""
 
-msgctxt "Please enter your email address"
 msgid "Please enter your email address"
 msgstr "请输入您的电子邮件地址"
 
-msgctxt "Please fill in the following fields:"
 msgid "Please fill in the following fields:"
 msgstr "请填写以下字段："
 
-msgctxt "Please fill out the following fields"
 msgid "Please fill out the following fields"
 msgstr "请填写以下字段："
 
-msgctxt "Please fix this field."
 msgid "Please fix this field."
 msgstr ""
 
-msgctxt "Please log in."
 msgid "Please log in."
 msgstr "请登录。"
 
-msgctxt ""
-"Please note that this page is currently displaying DEMO data. Real data will "
-"be displayed when the %s applications limit is reached."
 msgid ""
 "Please note that this page is currently displaying DEMO data. Real data will "
 "be displayed when the %s applications limit is reached."
 msgstr ""
 
-msgctxt ""
-"Please note that this page is currently displaying DEMO data. Real data will "
-"be displayed when your application is published."
 msgid ""
 "Please note that this page is currently displaying DEMO data. Real data will "
 "be displayed when your application is published."
 msgstr ""
 
-msgctxt "Please provide a certificate."
 msgid "Please provide a certificate."
 msgstr ""
 
-msgctxt "Please select at least one application."
 msgid "Please select at least one application."
 msgstr ""
 
-msgctxt "Please wait..."
 msgid "Please wait..."
 msgstr ""
 
-msgctxt "Podcast"
 msgid "Podcast"
 msgstr "播客"
 
-msgctxt "Podcast URL"
 msgid "Podcast URL"
 msgstr "播客的网址："
 
-msgctxt "Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "URL播客（ iTunes的格式）"
 
-msgctxt "Podcast type is invalid or can't be found"
 msgid "Podcast type is invalid or can't be found"
 msgstr "播客类型无效或无法找到"
 
-msgctxt "Port"
 msgid "Port"
 msgstr ""
 
-msgctxt "Port, example: 3310"
 msgid "Port, example: 3310"
 msgstr ""
 
-msgctxt "Position Menu"
 msgid "Position Menu"
 msgstr ""
 
-msgctxt "Postcode"
 msgid "Postcode"
 msgstr "邮政编码"
 
-msgctxt "Previewer"
 msgid "Previewer"
 msgstr ""
 
-msgctxt "Previews"
 msgid "Previews"
 msgstr "预览"
 
-msgctxt "Privacy"
 msgid "Privacy"
 msgstr ""
 
-msgctxt "Privacy Policy"
 msgid "Privacy Policy"
 msgstr "隐私政策"
 
-msgctxt "Privacy policy"
 msgid "Privacy policy"
 msgstr "隐私政策"
 
-msgctxt "Privacy policy section for GDPR"
 msgid "Privacy policy section for GDPR"
 msgstr ""
 
-msgctxt "Privacy policy successfully saved"
 msgid "Privacy policy successfully saved"
 msgstr ""
 
-msgctxt "Privacy settings"
 msgid "Privacy settings"
 msgstr ""
 
-msgctxt "Products"
 msgid "Products"
 msgstr "产品"
 
-msgctxt "Profile"
 msgid "Profile"
 msgstr ""
 
-msgctxt "Promotion"
 msgid "Promotion"
 msgstr ""
 
-msgctxt "Publication settings"
 msgid "Publication settings"
 msgstr ""
 
-msgctxt "Publish your app"
 msgid "Publish your app"
 msgstr ""
 
-msgctxt "Publishable Key"
 msgid "Publishable Key"
 msgstr ""
 
-msgctxt "Push"
 msgid "Push"
 msgstr "推"
 
-msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "警报"
 
-msgctxt "Push message"
 msgid "Push message"
 msgstr ""
 
-msgctxt "Push message is sent."
 msgid "Push message is sent."
 msgstr ""
 
-msgctxt "Push notification"
 msgid "Push notification"
 msgstr "警报"
 
-msgctxt "Push notifications"
 msgid "Push notifications"
 msgstr "警报"
 
-msgctxt ""
-"Push notifications Your account doesn't exists on editor side. Please create "
-"it before using tour edition."
 msgid ""
 "Push notifications Your account doesn't exists on editor side. Please create "
 "it before using tour edition."
 msgstr ""
 
-msgctxt "QR Code"
 msgid "QR Code"
 msgstr ""
 
-msgctxt "QRCode"
 msgid "QRCode"
 msgstr ""
 
-msgctxt "Qty"
 msgid "Qty"
 msgstr "数量"
 
-msgctxt "Query"
 msgid "Query"
 msgstr ""
 
-msgctxt "RSS Feed"
 msgid "RSS Feed"
 msgstr "RSS"
 
-msgctxt "Radio"
 msgid "Radio"
 msgstr "无线电"
 
-msgctxt "Redis AUTH KEY"
 msgid "Redis AUTH KEY"
 msgstr ""
 
-msgctxt "Registration date"
 msgid "Registration date"
 msgstr ""
 
-msgctxt "Release"
 msgid "Release"
 msgstr ""
 
-msgctxt "Remove"
 msgid "Remove"
 msgstr ""
 
-msgctxt "Remove this page from this folder?"
 msgid "Remove this page from this folder?"
 msgstr "从这个文件夹中删除此页面？"
 
-msgctxt "Remove this step"
 msgid "Remove this step"
 msgstr ""
 
-msgctxt "Request & Upload to panel"
 msgid "Request & Upload to panel"
 msgstr ""
 
-msgctxt "Request APK generation"
 msgid "Request APK generation"
 msgstr ""
 
-msgctxt "Request or renew the certificate via Let's Encrypt."
 msgid "Request or renew the certificate via Let's Encrypt."
 msgstr ""
 
-msgctxt "Requested by"
 msgid "Requested by"
 msgstr ""
 
-msgctxt "Required fields"
 msgid "Required fields"
 msgstr "必填项"
 
-msgctxt "Reset to default Privacy Policy."
 msgid "Reset to default Privacy Policy."
 msgstr ""
 
-msgctxt "Resize your picture"
 msgid "Resize your picture"
 msgstr "调整图片大小"
 
-msgctxt "Restart"
 msgid "Restart"
 msgstr ""
 
-msgctxt "Restore Apps"
 msgid "Restore Apps"
 msgstr ""
 
-msgctxt "Restore Apps sources"
 msgid "Restore Apps sources"
 msgstr ""
 
-msgctxt "Right"
 msgid "Right"
 msgstr ""
 
-msgctxt "Roles"
 msgid "Roles"
 msgstr "规则"
 
-msgctxt "Rss"
 msgid "Rss"
 msgstr ""
 
-msgctxt "Rule have been added."
 msgid "Rule have been added."
 msgstr ""
 
-msgctxt "Rule have been removed."
 msgid "Rule have been removed."
 msgstr ""
 
-msgctxt "Run Android SDK update"
 msgid "Run Android SDK update"
 msgstr ""
 
-msgctxt "SCSS successfully saved"
 msgid "SCSS successfully saved"
 msgstr "保持成功保存"
 
-msgctxt "SELF-ASSIGNABLE"
 msgid "SELF-ASSIGNABLE"
 msgstr ""
 
-msgctxt "SEND"
 msgid "SEND"
 msgstr "发送"
 
-msgctxt "SMTP"
 msgid "SMTP"
 msgstr ""
 
-msgctxt ""
-"SMTP - Whitelist: An administrator sent a request for white-listing his "
-"domain."
 msgid ""
 "SMTP - Whitelist: An administrator sent a request for white-listing his "
 "domain."
 msgstr ""
 
-msgctxt "SMTP Credentials (Affiliated to the White-Label %s)"
 msgid "SMTP Credentials (Affiliated to the White-Label %s)"
 msgstr ""
 
-msgctxt "Sales by Categories (TOP 10)"
 msgid "Sales by Categories (TOP 10)"
 msgstr ""
 
-msgctxt "Sales by Payment method"
 msgid "Sales by Payment method"
 msgstr ""
 
-msgctxt "Sales by Store"
 msgid "Sales by Store"
 msgstr ""
 
-msgctxt "Sales by product (TOP 20)"
 msgid "Sales by product (TOP 20)"
 msgstr ""
 
-msgctxt "Sample"
 msgid "Sample"
 msgstr ""
 
-msgctxt "Save"
 msgid "Save"
 msgstr "保存"
 
-msgctxt "Save GCM settings"
 msgid "Save GCM settings"
 msgstr ""
 
-msgctxt "Save iTunes credentials"
 msgid "Save iTunes credentials"
 msgstr ""
 
-msgctxt "Save sender id & key"
 msgid "Save sender id & key"
 msgstr ""
 
-msgctxt "Scan it."
 msgid "Scan it."
 msgstr ""
 
-msgctxt "Scan now to unlock"
 msgid "Scan now to unlock"
 msgstr ""
 
-msgctxt "Scheduled for"
 msgid "Scheduled for"
 msgstr ""
 
-msgctxt "Scheduled for <i>%s</i>"
 msgid "Scheduled for <i>%s</i>"
 msgstr ""
 
-msgctxt "Scratchcard Users"
 msgid "Scratchcard Users"
 msgstr ""
 
-msgctxt "Search"
 msgid "Search"
 msgstr "搜索"
 
-msgctxt "Search ..."
 msgid "Search ..."
 msgstr ""
 
-msgctxt "Search / Filter"
 msgid "Search / Filter"
 msgstr ""
 
-msgctxt "Search, filter ..."
 msgid "Search, filter ..."
 msgstr ""
 
-msgctxt "Search results"
 msgid "Search results"
 msgstr ""
 
-msgctxt "See"
 msgid "See"
 msgstr ""
 
-msgctxt "Select a Development team"
 msgid "Select a Development team"
 msgstr ""
 
-msgctxt "Select a country"
 msgid "Select a country"
 msgstr "选择一个国家"
 
-msgctxt "Select a hostname"
 msgid "Select a hostname"
 msgstr ""
 
-msgctxt "Select a panel type or self-managed"
 msgid "Select a panel type or self-managed"
 msgstr ""
 
-msgctxt "Select all"
 msgid "Select all"
 msgstr "选择所有"
 
-msgctxt "Select an album"
 msgid "Select an album"
 msgstr ""
 
-msgctxt "Select an iTunes Connect provider"
 msgid "Select an iTunes Connect provider"
 msgstr ""
 
-msgctxt "Select target applications"
 msgid "Select target applications"
 msgstr ""
 
-msgctxt "Select your back button appearance"
 msgid "Select your back button appearance"
 msgstr ""
 
-msgctxt "Selected hostname"
 msgid "Selected hostname"
 msgstr ""
 
-msgctxt "Selected main hostname"
 msgid "Selected main hostname"
 msgstr ""
 
-msgctxt "Send"
 msgid "Send"
 msgstr "发送"
 
-msgctxt "Send a cover image"
 msgid "Send a cover image"
 msgstr ""
 
-msgctxt "Send push"
 msgid "Send push"
 msgstr ""
 
-msgctxt "Send report"
 msgid "Send report"
 msgstr ""
 
-msgctxt "Send to all applications."
 msgid "Send to all applications."
 msgstr ""
 
-msgctxt "Send your pictures"
 msgid "Send your pictures"
 msgstr "发送影像"
 
-msgctxt "Sender ID"
 msgid "Sender ID"
 msgstr ""
 
-msgctxt "Sender email"
 msgid "Sender email"
 msgstr ""
 
-msgctxt "Sender name"
 msgid "Sender name"
 msgstr ""
 
-msgctxt "Server key"
 msgid "Server key"
 msgstr ""
 
-msgctxt "Service APK Generator"
 msgid "Service APK Generator"
 msgstr ""
 
-msgctxt "Service APK generator"
 msgid "Service APK generator"
 msgstr ""
 
-msgctxt "Service notes"
 msgid "Service notes"
 msgstr ""
 
-msgctxt "Session settings"
 msgid "Session settings"
 msgstr ""
 
-msgctxt "Set Meal"
 msgid "Set Meal"
 msgstr "菜单"
 
-msgctxt "Settings"
 msgid "Settings"
 msgstr "设置"
 
-msgctxt "Show"
 msgid "Show"
 msgstr ""
 
-msgctxt "Show cover"
 msgid "Show cover"
 msgstr ""
 
-msgctxt "Show search field"
 msgid "Show search field"
 msgstr ""
 
-msgctxt "Show title"
 msgid "Show title"
 msgstr "查看文章"
 
-msgctxt "Siberian current installation path"
 msgid "Siberian current installation path"
 msgstr ""
 
-msgctxt "Siberian domain"
 msgid "Siberian domain"
 msgstr ""
 
-msgctxt "Siberian informations"
 msgid "Siberian informations"
 msgstr "一般信息"
 
-msgctxt ""
-"Siberian uses it to scan all uploaded files that have passed the soft "
-"Firewall."
 msgid ""
 "Siberian uses it to scan all uploaded files that have passed the soft "
 "Firewall."
 msgstr ""
 
-msgctxt "Size:"
 msgid "Size:"
 msgstr "尺寸："
 
-msgctxt "Size on disk"
 msgid "Size on disk"
 msgstr ""
 
-msgctxt "Slack notification settings"
 msgid "Slack notification settings"
 msgstr ""
 
-msgctxt "Slider"
 msgid "Slider"
 msgstr ""
 
-msgctxt "Social"
 msgid "Social"
 msgstr ""
 
-msgctxt "Socialgaming"
 msgid "Socialgaming"
 msgstr ""
 
-msgctxt "Socket"
 msgid "Socket"
 msgstr ""
 
-msgctxt "Soundcloud"
 msgid "Soundcloud"
 msgstr ""
 
-msgctxt "Source code"
 msgid "Source code"
 msgstr "代码"
 
-msgctxt ""
-"Source code generation is not configured, ask your administrator for more "
-"informations."
 msgid ""
 "Source code generation is not configured, ask your administrator for more "
 "informations."
 msgstr ""
 
-msgctxt "Sourcecode"
 msgid "Sourcecode"
 msgstr ""
 
-msgctxt "Sources"
 msgid "Sources"
 msgstr ""
 
-msgctxt "Spinner"
 msgid "Spinner"
 msgstr ""
 
-msgctxt "Split Ad revenue (percent for you)"
 msgid "Split Ad revenue (percent for you)"
 msgstr ""
 
-msgctxt "Start date must be lower than end date."
 msgid "Start date must be lower than end date."
 msgstr ""
 
-msgctxt "State / Province"
 msgid "State / Province"
 msgstr ""
 
-msgctxt "Step placement (optional)"
 msgid "Step placement (optional)"
 msgstr ""
 
-msgctxt "Step saved successfully."
 msgid "Step saved successfully."
 msgstr ""
 
-msgctxt "Step text"
 msgid "Step text"
 msgstr ""
 
-msgctxt "Step title"
 msgid "Step title"
 msgstr ""
 
-msgctxt "Street"
 msgid "Street"
 msgstr "街头"
 
-msgctxt "Subscriptions"
 msgid "Subscriptions"
 msgstr "订阅"
 
-msgctxt "Subtitle"
 msgid "Subtitle"
 msgstr ""
 
-msgctxt "Success"
 msgid "Success"
 msgstr ""
 
-msgctxt "Support"
 msgid "Support"
 msgstr "支持"
 
-msgctxt "Support Link"
 msgid "Support Link"
 msgstr "Link支持"
 
-msgctxt "Support link"
 msgid "Support link"
 msgstr "Link支持"
 
-msgctxt "Switch to Ionic design"
 msgid "Switch to Ionic design"
 msgstr ""
 
-msgctxt "System"
 msgid "System"
 msgstr ""
 
-msgctxt "TLS"
 msgid "TLS"
 msgstr ""
 
-msgctxt "Target applications"
 msgid "Target applications"
 msgstr ""
 
-msgctxt "Target devices"
 msgid "Target devices"
 msgstr ""
 
-msgctxt "Target specific devices"
 msgid "Target specific devices"
 msgstr ""
 
-msgctxt "Tax"
 msgid "Tax"
 msgstr "税"
 
-msgctxt "Taxes"
 msgid "Taxes"
 msgstr "税收"
 
-msgctxt "Template"
 msgid "Template"
 msgstr ""
 
-msgctxt "Test SMTP"
 msgid "Test SMTP"
 msgstr ""
 
-msgctxt "Text"
 msgid "Text"
 msgstr "文本"
 
-msgctxt "Thank you"
 msgid "Thank you"
 msgstr "谢谢！"
 
-msgctxt "Thank you for your request.<br />We'll answer you as soon as possible."
 msgid "Thank you for your request.<br />We'll answer you as soon as possible."
 msgstr "感谢您的要求。我们会尽快回复。"
 
-msgctxt "The account has been successfully saved"
 msgid "The account has been successfully saved"
 msgstr "该帐户已成功保存"
 
-msgctxt "The address you're looking for does not exists."
 msgid "The address you're looking for does not exists."
 msgstr ""
 
-msgctxt "The admin_id is required"
 msgid "The admin_id is required"
 msgstr "它要求该字段"
 
-msgctxt "The admin_id parameter is required"
 msgid "The admin_id parameter is required"
 msgstr ""
 
-msgctxt "The app_id is required"
 msgid "The app_id is required"
 msgstr "它要求该字段"
 
-msgctxt "The app_id parameter is required"
 msgid "The app_id parameter is required"
 msgstr ""
 
-msgctxt ""
-"The certificate request failed 3 times, please check the certificate "
-"information, your panel credentials, and everything else.<br />If your "
-"certificate is valid, you can try to upload to panel only."
 msgid ""
 "The certificate request failed 3 times, please check the certificate "
 "information, your panel credentials, and everything else.<br />If your "
 "certificate is valid, you can try to upload to panel only."
 msgstr ""
 
-msgctxt "The email is required"
 msgid "The email is required"
 msgstr "它要求的电子邮件"
 
-msgctxt "The entered text mismatch"
 msgid "The entered text mismatch"
 msgstr ""
 
-msgctxt "The file '%s' does not exist"
 msgid "The file '%s' does not exist"
 msgstr "该文件'％s '不存在"
 
-msgctxt "The image '%s' does not exist"
 msgid "The image '%s' does not exist"
 msgstr "图像'％s'不存在"
 
-msgctxt "The image size '%s' could not be detected."
 msgid "The image size '%s' could not be detected."
 msgstr "不能被检测到的图像“％ s”的大小。"
 
-msgctxt "The name is required"
 msgid "The name is required"
 msgstr "它要求的电子邮件"
 
-msgctxt "The old password does not match the entered password."
 msgid "The old password does not match the entered password."
 msgstr "旧密码不输入的密码相匹配。"
 
-msgctxt "The password is required"
 msgid "The password is required"
 msgstr "密码是必需的"
 
-msgctxt "The password must be at least 6 characters"
 msgid "The password must be at least 6 characters"
 msgstr "密码必须至少6个字符"
 
-msgctxt ""
-"The payment has been cancelled, something wrong happened? Feel free to "
-"contact us."
 msgid ""
 "The payment has been cancelled, something wrong happened? Feel free to "
 "contact us."
 msgstr "付款已被取消，坏事发生？不要犹豫与我们联系"
 
-msgctxt "The sent request is empty."
 msgid "The sent request is empty."
 msgstr ""
 
-msgctxt "The user_id is required"
 msgid "The user_id is required"
 msgstr "它要求该字段"
 
-msgctxt "The value_id is required."
 msgid "The value_id is required."
 msgstr "它要求该字段"
 
-msgctxt "This URL is already used"
 msgid "This URL is already used"
 msgstr ""
 
-msgctxt "This admin can generate APK"
 msgid "This admin can generate APK"
 msgstr ""
 
-msgctxt "This admin does not exist"
 msgid "This admin does not exist"
 msgstr "该管理员不存在"
 
-msgctxt "This admin gives you the required information to publish applications"
 msgid "This admin gives you the required information to publish applications"
 msgstr ""
 
-msgctxt "This administrator does not exist"
 msgid "This administrator does not exist"
 msgstr "该管理员不存在"
 
-msgctxt "This application does not exist"
 msgid "This application does not exist"
 msgstr "本申请中不存在"
 
-msgctxt "This block type doesn't exist"
 msgid "This block type doesn't exist"
 msgstr ""
 
-msgctxt "This code is unrecognized"
 msgid "This code is unrecognized"
 msgstr ""
 
-msgctxt "This email address does not exist"
 msgid "This email address does not exist"
 msgstr "您的电子邮件地址不存在"
 
-msgctxt "This email address is already used"
 msgid "This email address is already used"
 msgstr "此电子邮件地址已被使用"
 
-msgctxt "This feature is available from the application only"
 msgid "This feature is available from the application only"
 msgstr ""
 
-msgctxt ""
-"This feature is disabled by default since update 4.12.24 and is deprecated "
-"in favor of Folders v2."
 msgid ""
 "This feature is disabled by default since update 4.12.24 and is deprecated "
 "in favor of Folders v2."
 msgstr ""
 
-msgctxt "This feature opens the Code Scan camera"
 msgid "This feature opens the Code Scan camera"
 msgstr ""
 
-msgctxt "This field is required"
 msgid "This field is required"
 msgstr "这是必填栏"
 
-msgctxt "This layout has no option."
 msgid "This layout has no option."
 msgstr ""
 
-msgctxt "This option doesn't exists."
 msgid "This option doesn't exists."
 msgstr ""
 
-msgctxt ""
-"This option is not compatible with applications using Forms and/or features "
-"with Keyboard."
 msgid ""
 "This option is not compatible with applications using Forms and/or features "
 "with Keyboard."
 msgstr ""
 
-msgctxt "This plan is an offline plan."
 msgid "This plan is an offline plan."
 msgstr ""
 
-msgctxt "This section is unlocked for mobile users only"
 msgid "This section is unlocked for mobile users only"
 msgstr ""
 
-msgctxt "This will open the code scan camera on your device."
 msgid "This will open the code scan camera on your device."
 msgstr ""
 
-msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr ""
 
-msgctxt "Time spent in application"
 msgid "Time spent in application"
 msgstr ""
 
-msgctxt "Timezone"
 msgid "Timezone"
 msgstr "时区"
 
-msgctxt "Tip"
 msgid "Tip"
 msgstr ""
 
-msgctxt "Title"
 msgid "Title"
 msgstr "称号"
 
-msgctxt "Title & Message are both required."
 msgid "Title & Message are both required."
 msgstr ""
 
-msgctxt "Title's Card"
 msgid "Title's Card"
 msgstr ""
 
-msgctxt "Title's List"
 msgid "Title's List"
 msgstr ""
 
-msgctxt ""
-"To be able to use ClamAV you must have it installed on your server and "
-"configured accordingly to our documentation."
 msgid ""
 "To be able to use ClamAV you must have it installed on your server and "
 "configured accordingly to our documentation."
 msgstr ""
 
-msgctxt "Toggle"
 msgid "Toggle"
 msgstr ""
 
-msgctxt "Toggle off"
 msgid "Toggle off"
 msgstr ""
 
-msgctxt "Toggle on"
 msgid "Toggle on"
 msgstr ""
 
-msgctxt "Toggle's Handle off"
 msgid "Toggle's Handle off"
 msgstr ""
 
-msgctxt "Toggle's Handle on"
 msgid "Toggle's Handle on"
 msgstr ""
 
-msgctxt "Token"
 msgid "Token"
 msgstr ""
 
-msgctxt "Tooltip"
 msgid "Tooltip"
 msgstr ""
 
-msgctxt "Top"
 msgid "Top"
 msgstr ""
 
-msgctxt "Top installs"
 msgid "Top installs"
 msgstr ""
 
-msgctxt "Top position"
 msgid "Top position"
 msgstr ""
 
-msgctxt "Top visits"
 msgid "Top visits"
 msgstr ""
 
-msgctxt "Topic"
 msgid "Topic"
 msgstr ""
 
-msgctxt "Topics"
 msgid "Topics"
 msgstr ""
 
-msgctxt "Total"
 msgid "Total"
 msgstr "总"
 
-msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "合计不含税"
 
-msgctxt "Total installs"
 msgid "Total installs"
 msgstr ""
 
-msgctxt "Total sales"
 msgid "Total sales"
 msgstr ""
 
-msgctxt "Total visits"
 msgid "Total visits"
 msgstr "全球意见"
 
-msgctxt "Tour"
 msgid "Tour"
 msgstr ""
 
-msgctxt "Tour Edition"
 msgid "Tour Edition"
 msgstr ""
 
-msgctxt "Translation"
 msgid "Translation"
 msgstr ""
 
-msgctxt "Translations"
 msgid "Translations"
 msgstr ""
 
-msgctxt "URL"
 msgid "URL"
 msgstr "URL"
 
-msgctxt "Unable to add the contact to your address book"
 msgid "Unable to add the contact to your address book"
 msgstr ""
 
-msgctxt "Unable to calculate the route."
 msgid "Unable to calculate the route."
 msgstr ""
 
-msgctxt ""
-"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
-"your are not in `Staging`"
 msgid ""
 "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
 "your are not in `Staging`"
 msgstr ""
 
-msgctxt "Unable to find TC with id %s."
 msgid "Unable to find TC with id %s."
 msgstr ""
 
-msgctxt "Unable to save image"
 msgid "Unable to save image"
 msgstr ""
 
-msgctxt "Unrecognized image format"
 msgid "Unrecognized image format"
 msgstr ""
 
-msgctxt "Until:"
 msgid "Until:"
 msgstr ""
 
-msgctxt "Updated at"
 msgid "Updated at"
 msgstr "更新"
 
-msgctxt "Upload to panel"
 msgid "Upload to panel"
 msgstr ""
 
-msgctxt "Upload your json here"
 msgid "Upload your json here"
 msgstr ""
 
-msgctxt "Use card design"
 msgid "Use card design"
 msgstr ""
 
-msgctxt "Use the homepage image as background in all features"
 msgid "Use the homepage image as background in all features"
 msgstr ""
 
-msgctxt "Use this coupon"
 msgid "Use this coupon"
 msgstr "使用此优惠券"
 
-msgctxt "User"
 msgid "User"
 msgstr "用户"
 
-msgctxt "User successfully saved"
 msgid "User successfully saved"
 msgstr "用户成功保存"
 
-msgctxt "Username"
 msgid "Username"
 msgstr "用户名"
 
-msgctxt "Users"
 msgid "Users"
 msgstr "用户"
 
-msgctxt "Users activity"
 msgid "Users activity"
 msgstr ""
 
-msgctxt "Users localization"
 msgid "Users localization"
 msgstr ""
 
-msgctxt "VAT Number"
 msgid "VAT Number"
 msgstr "增值税号"
 
-msgctxt "Valid until"
 msgid "Valid until"
 msgstr "有效期至"
 
-msgctxt "Validate"
 msgid "Validate"
 msgstr "验证"
 
-msgctxt "Validated points"
 msgid "Validated points"
 msgstr ""
 
-msgctxt "Validated points by Loyalty card Analytics"
 msgid "Validated points by Loyalty card Analytics"
 msgstr ""
 
-msgctxt "Validations by Discount Analytics"
 msgid "Validations by Discount Analytics"
 msgstr ""
 
-msgctxt "Version %s"
 msgid "Version %s"
 msgstr "％s的版本"
 
-msgctxt "Video"
 msgid "Video"
 msgstr "视频"
 
-msgctxt "Video URL"
 msgid "Video URL"
 msgstr "视频网址："
 
-msgctxt "Videos"
 msgid "Videos"
 msgstr "视频"
 
-msgctxt "View"
 msgid "View"
 msgstr "见"
 
-msgctxt "View full article"
 msgid "View full article"
 msgstr ""
 
-msgctxt "View my actual data"
 msgid "View my actual data"
 msgstr ""
 
-msgctxt "Visits"
 msgid "Visits"
 msgstr ""
 
-msgctxt "Visits by feature (All)"
 msgid "Visits by feature (All)"
 msgstr ""
 
-msgctxt "Visits by feature (Top 5)"
 msgid "Visits by feature (Top 5)"
 msgstr ""
 
-msgctxt "Visits by product (TOP 20)"
 msgid "Visits by product (TOP 20)"
 msgstr ""
 
-msgctxt "We are sorry but this address is already used."
 msgid "We are sorry but this address is already used."
 msgstr "很抱歉，但这个地址已被使用。"
 
-msgctxt "We are sorry but this email address already exists."
 msgid "We are sorry but this email address already exists."
 msgstr "很抱歉，但已经有此电子邮件。"
 
-msgctxt "We are sorry but this username already exists."
 msgid "We are sorry but this username already exists."
 msgstr "很抱歉，但已经有此电子邮件。"
 
-msgctxt "Web folder Owner"
 msgid "Web folder Owner"
 msgstr ""
 
-msgctxt "Web space"
 msgid "Web space"
 msgstr ""
 
-msgctxt "Webhook"
 msgid "Webhook"
 msgstr ""
 
-msgctxt "Weblink"
 msgid "Weblink"
 msgstr ""
 
-msgctxt "Website"
 msgid "Website"
 msgstr "现场"
 
-msgctxt "We've sent you an e-mail with your access token."
 msgid "We've sent you an e-mail with your access token."
 msgstr ""
 
-msgctxt ""
-"When selecting 'Enable test API' in a payment method, be sure to create test "
-"credentials, check the documentation of your payment method."
 msgid ""
 "When selecting 'Enable test API' in a payment method, be sure to create test "
 "credentials, check the documentation of your payment method."
 msgstr ""
 
-msgctxt "White Label Editor"
 msgid "White Label Editor"
 msgstr ""
 
-msgctxt "Who is online"
 msgid "Who is online"
 msgstr ""
 
-msgctxt "Winners list"
 msgid "Winners list"
 msgstr ""
 
-msgctxt "WordPress"
 msgid "WordPress"
 msgstr ""
 
-msgctxt "Wordpress"
 msgid "Wordpress"
 msgstr ""
 
-msgctxt "Year"
 msgid "Year"
 msgstr ""
 
-msgctxt "Yearly"
 msgid "Yearly"
 msgstr ""
 
-msgctxt "Yes"
 msgid "Yes"
 msgstr "是的"
 
-msgctxt "You already have this user in your contact"
 msgid "You already have this user in your contact"
 msgstr ""
 
-msgctxt "You are about to delete this certificate, Are you sure ?"
 msgid "You are about to delete this certificate, Are you sure ?"
 msgstr ""
 
-msgctxt "You are gone offline"
 msgid "You are gone offline"
 msgstr ""
 
-msgctxt "You are not allowed to delete a feature!"
 msgid "You are not allowed to delete a feature!"
 msgstr ""
 
-msgctxt ""
-"You are using a custom SMTP configuration, and the following white-label "
-"administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
-"listed.<br /><br />You can add his domain in your SMTP provider panel and "
-"send him the instructions to configure it for his domain."
 msgid ""
 "You are using a custom SMTP configuration, and the following white-label "
 "administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
@@ -3662,406 +2720,301 @@ msgid ""
 "send him the instructions to configure it for his domain."
 msgstr ""
 
-msgctxt ""
-"You can add allowed extensions, please note that .php, .js & .ico are "
-"strictly forbidden and can't be added"
 msgid ""
 "You can add allowed extensions, please note that .php, .js & .ico are "
 "strictly forbidden and can't be added"
 msgstr ""
 
-msgctxt ""
-"You can extend JAVA & GRADLE options to better fit your server hardware."
 msgid ""
 "You can extend JAVA & GRADLE options to better fit your server hardware."
 msgstr ""
 
-msgctxt "You can follow the URL below to access your data report"
 msgid "You can follow the URL below to access your data report"
 msgstr ""
 
-msgctxt "You can globally disable a feature!"
 msgid "You can globally disable a feature!"
 msgstr ""
 
-msgctxt "You can upload a pem certificate only."
 msgid "You can upload a pem certificate only."
 msgstr "您只能加载PEM证书。"
 
-msgctxt "You can upload a png only (.png)."
 msgid "You can upload a png only (.png)."
 msgstr ""
 
-msgctxt "You can upload a zip archive only."
 msgid "You can upload a zip archive only."
 msgstr "你只能上传一个zip文件。"
 
-msgctxt "You can upload an icon only (.ico and .png)."
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "您可以加载一个单一的（ .ICO和.png ）图标。"
 
-msgctxt "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgstr "您可以上传只有一个图像（ .JPG ， .JPEG ，.GIF和.png ） 。"
 
-msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "你可以不加这个功能"
 
-msgctxt "You can't upload more than one file at a time."
 msgid "You can't upload more than one file at a time."
 msgstr "你不能上传多个文件的时间。"
 
-msgctxt "You current working environment is"
 msgid "You current working environment is"
 msgstr ""
 
-msgctxt "You don't have any applications yet"
 msgid "You don't have any applications yet"
 msgstr "你有没有应用程序还"
 
-msgctxt "You don't have any invoices yet"
 msgid "You don't have any invoices yet"
 msgstr "你还没有任何角色"
 
-msgctxt "You have gone offline"
 msgid "You have gone offline"
 msgstr ""
 
-msgctxt "You have to chose a start and an end date."
 msgid "You have to chose a start and an end date."
 msgstr ""
 
-msgctxt "You must be logged in to like something!"
 msgid "You must be logged in to like something!"
 msgstr "你必须登录验证点"
 
-msgctxt "You must be logged in to post a comment"
 msgid "You must be logged in to post a comment"
 msgstr "您必须登录后才能发表评论"
 
-msgctxt "You must fill ip & port."
 msgid "You must fill ip & port."
 msgstr ""
 
-msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "你必须先完成创建类的当前进程"
 
-msgctxt ""
-"You must give the permission to the app to add a contact to your address book"
 msgid ""
 "You must give the permission to the app to add a contact to your address book"
 msgstr ""
 
-msgctxt "You must share your location to access this page."
 msgid "You must share your location to access this page."
 msgstr ""
 
-msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "你将失去所有未保存的更改，是否继续？"
 
-msgctxt "Your PHP version is too old, please upgrade to PHP 5.4+."
 msgid "Your PHP version is too old, please upgrade to PHP 5.4+."
 msgstr ""
 
-msgctxt "Your access token is"
 msgid "Your access token is"
 msgstr ""
 
-msgctxt "Your analytics will be computed and available soon"
 msgid "Your analytics will be computed and available soon"
 msgstr ""
 
-msgctxt "Your are not allowed to assign this role."
 msgid "Your are not allowed to assign this role."
 msgstr ""
 
-msgctxt "Your browser is too old to view the content of our website.<br />"
 msgid "Your browser is too old to view the content of our website.<br />"
 msgstr "您的浏览器太旧，以显示我们的网站的内容。<br />"
 
-msgctxt "Your build should be ready"
 msgid "Your build should be ready"
 msgstr ""
 
-msgctxt "Your comment"
 msgid "Your comment"
 msgstr "您的评论"
 
-msgctxt "Your email address"
 msgid "Your email address"
 msgstr "您的电子邮件地址"
 
-msgctxt "Your email address does not exist"
 msgid "Your email address does not exist"
 msgstr "您的电子邮件地址不存在"
 
-msgctxt "Your invoice has been edited successfully."
 msgid "Your invoice has been edited successfully."
 msgstr ""
 
-msgctxt "Your name"
 msgid "Your name"
 msgstr "你的名字"
 
-msgctxt "Your new password has been sent to the entered email address"
 msgid "Your new password has been sent to the entered email address"
 msgstr "您的新密码已发送到输入的电子邮件地址"
 
-msgctxt "Your password does not match the entered password."
 msgid "Your password does not match the entered password."
 msgstr "您的密码不输入的密码相匹配。"
 
-msgctxt ""
-"Your request has been successfully sent, please wait for your administrator "
-"to answer."
 msgid ""
 "Your request has been successfully sent, please wait for your administrator "
 "to answer."
 msgstr ""
 
-msgctxt "Your subscription has been deleted successfully."
 msgid "Your subscription has been deleted successfully."
 msgstr ""
 
-msgctxt "Your subscription status has been changed successfully."
 msgid "Your subscription status has been changed successfully."
 msgstr ""
 
-msgctxt "Youtube"
 msgid "Youtube"
 msgstr "的Youtube"
 
-msgctxt "Zip code"
 msgid "Zip code"
 msgstr "邮政编码"
 
-msgctxt "average"
 msgid "average"
 msgstr ""
 
-msgctxt "be careful or set it back to"
 msgid "be careful or set it back to"
 msgstr ""
 
-msgctxt "close"
 msgid "close"
 msgstr "关闭"
 
-msgctxt "confirm action, deletion, etc ..."
 msgid "confirm action, deletion, etc ..."
 msgstr ""
 
-msgctxt "contextual, depends on module/layout"
 msgid "contextual, depends on module/layout"
 msgstr ""
 
-msgctxt "day"
 msgid "day"
 msgstr "天"
 
-msgctxt "days"
 msgid "days"
 msgstr "天"
 
-msgctxt "disabled"
 msgid "disabled"
 msgstr ""
 
-msgctxt "en"
 msgid "en"
 msgstr "在"
 
-msgctxt "enabled"
 msgid "enabled"
 msgstr ""
 
-msgctxt "form submit, search, validation, confirmation"
 msgid "form submit, search, validation, confirmation"
 msgstr ""
 
-msgctxt "hh:mm a"
 msgid "hh:mm a"
 msgstr ""
 
-msgctxt "high"
 msgid "high"
 msgstr ""
 
-msgctxt "hour"
 msgid "hour"
 msgstr "时间"
 
-msgctxt "hours"
 msgid "hours"
 msgstr "小时"
 
-msgctxt "iOS & Android"
 msgid "iOS & Android"
 msgstr ""
 
-msgctxt "iOS Source"
 msgid "iOS Source"
 msgstr ""
 
-msgctxt "iOS Spinner"
 msgid "iOS Spinner"
 msgstr ""
 
-msgctxt "iOS base Bundle ID  must contain only letters, dots & minus."
 msgid "iOS base Bundle ID  must contain only letters, dots & minus."
 msgstr ""
 
-msgctxt ""
-"iOS base Bundle ID  must contain only letters, dots & minus with at least "
-"two dots.<br />Example: com.mydomain.admin"
 msgid ""
 "iOS base Bundle ID  must contain only letters, dots & minus with at least "
 "two dots.<br />Example: com.mydomain.admin"
 msgstr ""
 
-msgctxt "iOS base Bundle ID can't be empty."
 msgid "iOS base Bundle ID can't be empty."
 msgstr ""
 
-msgctxt "iOS only"
 msgid "iOS only"
 msgstr ""
 
-msgctxt "iPhone"
 msgid "iPhone"
 msgstr ""
 
-msgctxt "iTunes"
 msgid "iTunes"
 msgstr ""
 
-msgctxt "iTunes Connect providers"
 msgid "iTunes Connect providers"
 msgstr ""
 
-msgctxt "idle"
 msgid "idle"
 msgstr ""
 
-msgctxt "informative, modal"
 msgid "informative, modal"
 msgstr ""
 
-msgctxt "is updated once a day"
 msgid "is updated once a day"
 msgstr ""
 
-msgctxt "loading"
 msgid "loading"
 msgstr "加载"
 
-msgctxt "low"
 msgid "low"
 msgstr ""
 
-msgctxt "maintenance"
 msgid "maintenance"
 msgstr ""
 
-msgctxt "minute"
 msgid "minute"
 msgstr "分钟"
 
-msgctxt "minutes"
 msgid "minutes"
 msgstr "分钟"
 
-msgctxt "nd"
 msgid "nd"
 msgstr ""
 
-msgctxt "never"
 msgid "never"
 msgstr "从来没有"
 
-msgctxt "online"
 msgid "online"
 msgstr ""
 
-msgctxt "phone, locate, facebook, email, etc.."
 msgid "phone, locate, facebook, email, etc.."
 msgstr ""
 
-msgctxt "picture"
 msgid "picture"
 msgstr "图像"
 
-msgctxt "posts"
 msgid "posts"
 msgstr ""
 
-msgctxt "remaining characters"
 msgid "remaining characters"
 msgstr ""
 
-msgctxt "%s / Month"
 msgid "%s / Month"
 msgstr ""
 
-msgctxt "%s / Year"
 msgid "%s / Year"
 msgstr ""
 
-msgctxt "%s An unknown error occurred, please try again later."
 msgid "%s An unknown error occurred, please try again later."
 msgstr "有一个错误的节省。请稍后再试。"
 
-msgctxt "%s Image"
 msgid "%s Image"
 msgstr ""
 
-msgctxt "%s Images"
 msgid "%s Images"
 msgstr ""
 
-msgctxt "%s, No params sent."
 msgid "%s, No params sent."
 msgstr ""
 
-msgctxt "%s ago"
 msgid "%s ago"
 msgstr ""
 
-msgctxt "second"
 msgid "second"
 msgstr "第二"
 
-msgctxt "seconds"
 msgid "seconds"
 msgstr "秒"
 
-msgctxt "this feature is globally disabled!"
 msgid "this feature is globally disabled!"
 msgstr ""
 
-msgctxt "title"
 msgid "title"
 msgstr "称号"
 
-msgctxt "titles"
 msgid "titles"
 msgstr "证券"
 
-msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "添加一个文件夹。"
 
-msgctxt "to add a subfolder."
 msgid "to add a subfolder."
 msgstr "添加一个子文件夹。"
 
-msgctxt "twitter"
 msgid "twitter"
 msgstr "叽叽喳喳"
 
-msgctxt "unreachable"
 msgid "unreachable"
 msgstr ""

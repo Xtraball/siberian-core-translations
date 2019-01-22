@@ -14,13 +14,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
-msgctxt "Allow offline mode"
 msgid "Allow offline mode"
 msgstr "Offline-Modus zulassen"
 
-msgctxt ""
-"Be aware that if the code you enter here requires any kind of server "
-"interaction it will not work properly in offline mode.)"
 msgid ""
 "Be aware that if the code you enter here requires any kind of server "
 "interaction it will not work properly in offline mode.)"
@@ -28,14 +24,11 @@ msgstr ""
 "Bitte beachten Sie, wenn der von Ihnen eingegebene Code Serverabfragen "
 "erfordert, wird es im Offline-Modus nicht ordnungsgemäß funktionieren."
 
-msgctxt "Insert in-app link"
 msgid "Insert in-app link"
 msgstr "In-App-Link einfügen"
 
-msgctxt "Insert your HTML code:"
 msgid "Insert your HTML code:"
 msgstr "Fügen Sie den HTML-Code ein:"
 
-msgctxt "Source Code"
 msgid "Source Code"
 msgstr "Source-Code"
