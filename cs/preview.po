@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/preview/cs/"
@@ -14,100 +14,134 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add"
 msgid "Add"
 msgstr "Přidat"
 
+msgctxt "An error occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr "Došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred while deleting your preview. Please try again later."
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr "Při mazání došlo k chybě, zkuste to prosí později"
 
+msgctxt "An error occurred while saving your previews. Please try again later."
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr "Při ukládání došlo k chybě, zkuste to prosí později"
 
+msgctxt "Click here to send your image"
 msgid "Click here to send your image"
 msgstr "Pro vložení obrázku klikněte zde"
 
+msgctxt "Create a new preview"
 msgid "Create a new preview"
 msgstr "Vytvořit novou Info o modulu"
 
+msgctxt "Delete image"
 msgid "Delete image"
 msgstr "Smazat obrázek"
 
+msgctxt "Delete translation"
 msgid "Delete translation"
 msgstr "Smazat překlad"
 
+msgctxt "Description"
 msgid "Description"
 msgstr "Popis"
 
+msgctxt "Drag and drop images to reorder them."
 msgid "Drag and drop images to reorder them."
 msgstr "Přetahováním změníte pořadí"
 
+msgctxt "Drop your image here"
 msgid "Drop your image here"
 msgstr "Vložte obrázek"
 
+msgctxt "Edit the preview"
 msgid "Edit the preview"
 msgstr "Upravit Info o modulu"
 
+msgctxt "Existing images :"
 msgid "Existing images :"
 msgstr "Stávající obrázky"
 
+msgctxt "Feature"
 msgid "Feature"
 msgstr "Modul/funkce"
 
+msgctxt "Language"
 msgid "Language"
 msgstr "Jazyk"
 
+msgctxt "List of existing previews"
 msgid "List of existing previews"
 msgstr "Seznam Info o modulech"
 
+msgctxt "OR"
 msgid "OR"
 msgstr ""
 
+msgctxt "Preview images"
 msgid "Preview images"
 msgstr "Obrázky"
 
+msgctxt "Preview successfully saved"
 msgid "Preview successfully saved"
 msgstr "Info o modulu uloženo"
 
+msgctxt "Previews"
 msgid "Previews"
 msgstr "Náhledy"
 
+msgctxt "Search"
 msgid "Search"
 msgstr "Vyhledat"
 
+msgctxt ""
+"Sorry, but an existing preview for this feature has been found. Please edit "
+"existing one."
 msgid ""
 "Sorry, but an existing preview for this feature has been found. Please edit "
 "existing one."
 msgstr "Info o tomto modulu již existuje, upravte prosím existující"
 
+msgctxt "Title"
 msgid "Title"
 msgstr "Oslovení"
 
+msgctxt "Unable to copy the file."
 msgid "Unable to copy the file."
 msgstr "Soubor nelze kopírovat"
 
+msgctxt "Unable to create the directory."
 msgid "Unable to create the directory."
 msgstr "Adresář nelze vytvořit"
 
+msgctxt "Unable to delete the file."
 msgid "Unable to delete the file."
 msgstr "Soubor nelze smazat"
 
+msgctxt "Unable to delete the file %s"
 msgid "Unable to delete the file %s"
 msgstr "Soubor %s nelze smazat"
 
+msgctxt "You don't have any previews yet"
 msgid "You don't have any previews yet"
 msgstr "Zatím nemáte žádné Info o modulech"
 
+msgctxt "Your image has been successfully saved"
 msgid "Your image has been successfully saved"
 msgstr "Obrázek byl uložen"
 
+msgctxt "Your preview has been deleted successfully."
 msgid "Your preview has been deleted successfully."
 msgstr "Info o modulu bylo smazáno"
 
+msgctxt "Your preview translation has been deleted successfully."
 msgid "Your preview translation has been deleted successfully."
 msgstr "Info o modulu bylo smazáno"
 
+msgctxt "<b>File types:</b> %s<br />"
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Druhy souborů:</b> %s<br />"

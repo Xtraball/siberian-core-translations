@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/form/cs/>\n"
@@ -13,45 +13,61 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Přidat pole formuláře"
 
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Přidat sekci"
 
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Přidat možnost"
 
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Při ukládání došlo k chybě. Pole nelze identifikovat."
 
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Určitě chcete odstranit toto pole?"
 
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Určitě chcete odstranit tuto sekci?"
 
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Checkbox - výběr více možností"
 
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Vyberte typ pole:"
 
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Vytvořit nové pole formuláře"
 
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Datum a čas"
 
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Drop down menu - výběr z rolovacího seznamu"
 
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "Upravit pole %s"
 
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Název pole"
 
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
 msgid ""
 "Form data will be sent to this email. Until you fill out this field, your "
 "form won't be displayed on client side."
@@ -59,71 +75,94 @@ msgstr ""
 "Po vytvoření formuláře se zde objeví pole pro zadání emailu, kam budou "
 "vyplněné formuláře odeslány."
 
+msgctxt "Geolocation"
 msgid "Geolocation"
 msgstr "Lokalizace aktualní polohy"
 
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Dobrý den,"
 
+msgctxt "Import a picture"
 msgid "Import a picture"
 msgstr "Vložit obrázek"
 
+msgctxt "Import from Library"
 msgid "Import from Library"
 msgstr "Vložit z fotogalerie"
 
+msgctxt "Manage fields"
 msgid "Manage fields"
 msgstr "Struktura formuláře"
 
+msgctxt "Manage options:"
 msgid "Manage options:"
 msgstr "Možnosti:"
 
+msgctxt "Multiline text"
 msgid "Multiline text"
 msgstr "Textové pole - rozšířené"
 
+msgctxt "Option"
 msgid "Option"
 msgstr "Volba"
 
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Radio button - výběr jedné z možností"
 
+msgctxt "Recipient email"
 msgid "Recipient email"
 msgstr "Email příjemce"
 
+msgctxt "Take a picture"
 msgid "Take a picture"
 msgstr "Vyfotit obrázek"
 
+msgctxt "The form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "Formulář byl úspěšně odeslán"
 
+msgctxt "You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Můžete si vybrat typ pole"
 
+msgctxt "Your app's form"
 msgid "Your app's form"
 msgstr "Formulář vaší aplikace"
 
+msgctxt "Your form has been filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Vyplněný formulář z Vaší mobilní aplikace.  Zde jsou odpovědi:"
 
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "%s, musí být číselná hodnota..."
 
+msgctxt "<strong>%s</strong> is not valid email address<br />"
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr "%s, musí být platná e-mailová adresa..."
 
+msgctxt "<strong>%s</strong> is required<br />"
 msgid "<strong>%s</strong> is required<br />"
 msgstr "%s je nutné vyplnit..."
 
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong>, musí být číselná hodnota<br/>"
 
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong>, musí být platné datum (např. dd/mm/rrrr)<br/>"
 
+msgctxt "<strong>%s</strong> must be a valid date<br />"
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong>, musí být platné datum<br/>"
 
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong>, musí být platná e-mailová adresa<br/>"
 
+msgctxt "<strong>%s</strong> must be filled<br />"
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> je nutné vyplnit<br/>"

@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
-"PO-Revision-Date: 2019-01-15 17:30+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/acl/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -13,52 +13,68 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Actions"
 msgid "Actions"
 msgstr "Acties"
 
+msgctxt "An error occurred while deleting your role. Please, try again later."
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het verwijderen van uw rol. Probeer het "
 "later opnieuw."
 
+msgctxt "Code"
 msgid "Code"
 msgstr "Code"
 
+msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr "Maak een nieuwe rol"
 
+msgctxt "Delete"
 msgid "Delete"
 msgstr "Verwijder"
 
+msgctxt "Edit"
 msgid "Edit"
 msgstr "Bewerk"
 
+msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr "Bewerk %s rol"
 
+msgctxt "Id"
 msgid "Id"
 msgstr "id"
 
+msgctxt "Label"
 msgid "Label"
 msgstr "Label"
 
+msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr "lijst van je rollen"
 
+msgctxt "Role"
 msgid "Role"
 msgstr "Rol"
 
+msgctxt "Search"
 msgid "Search"
 msgstr "Zoeken"
 
+msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr "Deze rol is de standaard voor het hele platform."
 
+msgctxt "You don't have any role yet"
 msgid "You don't have any role yet"
 msgstr "Je hebt nog geen rol"
 
+msgctxt "Your role has been successfully deleted"
 msgid "Your role has been successfully deleted"
 msgstr "Uw rol is met succes verwijderd"
 
+msgctxt "Your role has been successfully saved"
 msgid "Your role has been successfully saved"
 msgstr "Uw rol is met succes bewaard"

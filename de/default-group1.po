@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/"
@@ -14,44 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt " of the "
 msgid " of the "
 msgstr ""
 
+msgctxt " setting."
 msgid " setting."
 msgstr " - Einstellung."
 
+msgctxt "1 An error occurred while saving. Please try again later."
 msgid "1 An error occurred while saving. Please try again later."
 msgstr ""
 "1 ist Ein Fehler aufgetreten beim speichern. Bitte versuchen Sie es später "
 "erneut."
 
+msgctxt "1An error occurred while saving. Please try again later."
 msgid "1An error occurred while saving. Please try again later."
 msgstr "1An Fehler beim speichern. Bitte versuchen Sie es später erneut."
 
+msgctxt "2 An error occurred while saving. Please try again later."
 msgid "2 An error occurred while saving. Please try again later."
 msgstr "2 Fehler beim speichern. Bitte versuchen Sie es später erneut."
 
+msgctxt "20,00 %"
 msgid "20,00 %"
 msgstr "20,00 %"
 
+msgctxt "2An error occurred while saving. Please try again later."
 msgid "2An error occurred while saving. Please try again later."
 msgstr "2 eine Fehler beim speichern. Bitte versuchen Sie es später erneut."
 
+msgctxt "2Checkout subscription is inactive, tray again later."
 msgid "2Checkout subscription is inactive, tray again later."
 msgstr "2Checkout-Abonnement deaktiviert ist, wird das Tablett später wieder."
 
+msgctxt "3 An error occurred while saving. Please try again later."
 msgid "3 An error occurred while saving. Please try again later."
 msgstr "3 Fehler beim speichern. Bitte versuchen Sie es später erneut."
 
+msgctxt "3An error occurred while saving. Please try again later."
 msgid "3An error occurred while saving. Please try again later."
 msgstr "3An Fehler beim speichern. Bitte versuchen Sie es später erneut."
 
+msgctxt "403 Forbidden"
 msgid "403 Forbidden"
 msgstr "403 Forbidden"
 
+msgctxt "A new user just registered!"
 msgid "A new user just registered!"
 msgstr "Ein neuer Benutzer registriert!"
 
+msgctxt ""
+"A user just made a new subscription on the Platform <b>%s</b>, for the "
+"Application <b>%s</b>."
 msgid ""
 "A user just made a new subscription on the Platform <b>%s</b>, for the "
 "Application <b>%s</b>."
@@ -59,59 +74,80 @@ msgstr ""
 "Ein Benutzer gerade ein neues Abonnement auf der Plattform <b>%s</b> für den "
 "Einsatz <b>%s</b>."
 
+msgctxt "A user registered on your Platform %s"
 msgid "A user registered on your Platform %s"
 msgstr "Ein registrierter Nutzer auf Ihre Plattform zu %s"
 
+msgctxt "APK Generation"
 msgid "APK Generation"
 msgstr "APK-Generation"
 
+msgctxt "APK build failed!"
 msgid "APK build failed!"
 msgstr "APK-build failed!"
 
+msgctxt "APK build succeed!"
 msgid "APK build succeed!"
 msgstr "APK-build Erfolg haben!"
 
+msgctxt "APK generation for App: %s"
 msgid "APK generation for App: %s"
 msgstr "APK-generation für die App: %s"
 
+msgctxt "Account Created"
 msgid "Account Created"
 msgstr "Konto Erstellt"
 
+msgctxt "Activate the user"
 msgid "Activate the user"
 msgstr "Aktivieren Sie die Benutzer"
 
+msgctxt ""
+"Activating or Deactivating a parent subscription will apply to it's childs."
 msgid ""
 "Activating or Deactivating a parent subscription will apply to it's childs."
 msgstr ""
 "Aktivieren oder Deaktivieren eines Elternteils Abonnement gilt es die childs."
 
+msgctxt "Activation"
 msgid "Activation"
 msgstr "Aktivierung"
 
+msgctxt "Activation of your Subscription!"
 msgid "Activation of your Subscription!"
 msgstr "Die Aktivierung Ihres Abonnements!"
 
+msgctxt "Active subscriptions with remaining slots."
 msgid "Active subscriptions with remaining slots."
 msgstr "Aktive Abonnements mit den restlichen slots."
 
+msgctxt "Add a region"
 msgid "Add a region"
 msgstr "Eine region hinzufügen"
 
+msgctxt "Adding %s to SAN."
 msgid "Adding %s to SAN."
 msgstr "Hinzufügen von %s auf SAN."
 
+msgctxt "Admin Cancellation"
 msgid "Admin Cancellation"
 msgstr "Admin Stornierung"
 
+msgctxt "AdminId is required to save the Application."
 msgid "AdminId is required to save the Application."
 msgstr "AdminId ist erforderlich, um die Anwendung zu speichern."
 
+msgctxt "Album:"
 msgid "Album:"
 msgstr "Album:"
 
+msgctxt "All sessions are now migrated to Redis."
 msgid "All sessions are now migrated to Redis."
 msgstr "Alle Sitzungen werden jetzt migriert zu Redis."
 
+msgctxt ""
+"An administrator of the Platform <b>%s</b>, activated your subscription for "
+"the Application <b>%s</b>"
 msgid ""
 "An administrator of the Platform <b>%s</b>, activated your subscription for "
 "the Application <b>%s</b>"
@@ -119,6 +155,9 @@ msgstr ""
 "Ein administrator der Plattform <b>%s</b>, aktiviert Ihr Abonnement für die "
 "Anwendung <b>%s</b>"
 
+msgctxt ""
+"An administrator of the Platform <b>%s</b>, cancelled your subscription for "
+"the Application <b>%s</b>"
 msgid ""
 "An administrator of the Platform <b>%s</b>, cancelled your subscription for "
 "the Application <b>%s</b>"
@@ -126,6 +165,9 @@ msgstr ""
 "Ein administrator der Plattform <b>%s</b>, storniert Ihr Abonnement für die "
 "Anwendung <b>%s</b>"
 
+msgctxt ""
+"An administrator of the Platform <b>%s</b>, deactivated your subscription "
+"for the Application <b>%s</b>"
 msgid ""
 "An administrator of the Platform <b>%s</b>, deactivated your subscription "
 "for the Application <b>%s</b>"
@@ -133,27 +175,37 @@ msgstr ""
 "Ein administrator der Plattform <b>%s</b>, deaktiviert Ihr Abonnement für "
 "die Anwendung <b>%s</b>"
 
+msgctxt "An error occured while adding the block."
 msgid "An error occured while adding the block."
 msgstr "Es ist ein Fehler aufgetreten beim hinzufügen des Blocks."
 
+msgctxt "An error occurred. Please try again later."
 msgid "An error occurred. Please try again later."
 msgstr "Ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
 
+msgctxt "An error occurred, backButton is required!"
 msgid "An error occurred, backButton is required!"
 msgstr "Ein Fehler ist aufgetreten, backButton ist erforderlich!"
 
+msgctxt "An error occurred, please try again."
 msgid "An error occurred, please try again."
 msgstr "Ein Fehler ist aufgetreten, bitte versuchen Sie es erneut."
 
+msgctxt "An error occurred when generating the apk"
 msgid "An error occurred when generating the apk"
 msgstr "Fehler bei der Erzeugung der apk"
 
+msgctxt "An error occurred while hidding the Android Status Bar."
 msgid "An error occurred while hidding the Android Status Bar."
 msgstr "Fehler beim investieren wollte, verheimlichte der Android-Statusleiste."
 
+msgctxt "An error occurred while hidding the iOS Status Bar."
 msgid "An error occurred while hidding the iOS Status Bar."
 msgstr "Fehler beim investieren wollte, verheimlichte die iOS-Statusleiste."
 
+msgctxt ""
+"An error occurred while importing line %s : impossible to save the object. "
+"Please check your file format."
 msgid ""
 "An error occurred while importing line %s : impossible to save the object. "
 "Please check your file format."
@@ -161,50 +213,64 @@ msgstr ""
 "Fehler beim importieren der Zeile %s : unmöglich, das Objekt zu speichern. "
 "Bitte überprüfen Sie Ihre Datei-format."
 
+msgctxt "An error occurred while loading. Please, try again later."
 msgid "An error occurred while loading. Please, try again later."
 msgstr ""
 "Ein Fehler ist aufgetreten beim laden. Bitte versuchen Sie es später erneut."
 
+msgctxt "An error occurred while saving the password. Please try again later."
 msgid "An error occurred while saving the password. Please try again later."
 msgstr ""
 "Fehler beim speichern des Passworts. Bitte versuchen Sie es später erneut."
 
+msgctxt "An error occurred while saving your APK. Please try again later."
 msgid "An error occurred while saving your APK. Please try again later."
 msgstr ""
 "Ein Fehler ist beim speichern Ihrer APK. Bitte versuchen Sie es später "
 "erneut."
 
+msgctxt "An error occurred while saving your Keystore. Please try again later."
 msgid "An error occurred while saving your Keystore. Please try again later."
 msgstr ""
 "Ein Fehler ist beim speichern Ihrer Keystore. Bitte versuchen Sie es später "
 "erneut."
 
+msgctxt "An error occurred while saving your page subtitle."
 msgid "An error occurred while saving your page subtitle."
 msgstr "Ein Fehler ist beim speichern Ihrer Seite Untertitel."
 
+msgctxt "An error occurred while saving your picture. Please try againg later."
 msgid "An error occurred while saving your picture. Please try againg later."
 msgstr "Fehler beim speichern Ihres Bildes. Bitte versuchen Sie againg später."
 
+msgctxt "An error occurred while upload the APK. Please try again later."
 msgid "An error occurred while upload the APK. Please try again later."
 msgstr ""
 "Ein Fehler ist beim hochladen der APK. Bitte versuchen Sie es später erneut."
 
+msgctxt "An error occurred while validating point<br />Please try again later."
 msgid "An error occurred while validating point<br />Please try again later."
 msgstr ""
 "Ein Fehler ist aufgetreten während der Validierung zeigen<br />Bitte "
 "versuchen Sie es später erneut."
 
+msgctxt "An unknown error occured."
 msgid "An unknown error occured."
 msgstr "Ein unbekannter Fehler ist aufgetreten."
 
+msgctxt "An unknown error occurred, please try again later."
 msgid "An unknown error occurred, please try again later."
 msgstr ""
 "Ein unbekannter Fehler ist aufgetreten, bitte versuchen Sie es später erneut."
 
+msgctxt "An unknown error occurred while listing applications."
 msgid "An unknown error occurred while listing applications."
 msgstr ""
 "Ein unbekannter Fehler ist aufgetreten, während die Liste der Anwendungen."
 
+msgctxt ""
+"An user of the Platform <b>%s</b>, cancelled the subscription of the "
+"Application <b>%s</b>"
 msgid ""
 "An user of the Platform <b>%s</b>, cancelled the subscription of the "
 "Application <b>%s</b>"
@@ -212,57 +278,77 @@ msgstr ""
 "Ein Nutzer der Plattform <b>%s</b>, storniert das Abonnement der Anwendung "
 "<b>%s</b>"
 
+msgctxt "Android SDK is marked for update."
 msgid "Android SDK is marked for update."
 msgstr "Android SDK ist markiert für das update."
 
+msgctxt "Anniversary"
 msgid "Anniversary"
 msgstr "Jubiläum"
 
+msgctxt "App ID:"
 msgid "App ID:"
 msgstr "App-ID:"
 
+msgctxt "App Id is required!"
 msgid "App Id is required!"
 msgstr "App-Id ist erforderlich!"
 
+msgctxt "App name:"
 msgid "App name:"
 msgstr "App-name:"
 
+msgctxt "Application id %s not found."
 msgid "Application id %s not found."
 msgstr "Anwendungs-id %s nicht gefunden."
 
+msgctxt "Application identifier:"
 msgid "Application identifier:"
 msgstr "Anwendungs-id:"
 
+msgctxt "Application not found!"
 msgid "Application not found!"
 msgstr "Anwendung nicht gefunden!!!"
 
+msgctxt "Application template successfully imported."
 msgid "Application template successfully imported."
 msgstr "Anwendung Vorlage erfolgreich importiert."
 
+msgctxt "Applications tied to this subscription"
 msgid "Applications tied to this subscription"
 msgstr "Anwendungen gebunden an das Abonnement"
 
+msgctxt "Apps Qty"
 msgid "Apps Qty"
 msgstr "Apps Qty"
 
+msgctxt "Authentication failed."
 msgid "Authentication failed."
 msgstr "Ist die Authentifizierung fehlgeschlagen."
 
+msgctxt "Automatic Cancellation"
 msgid "Automatic Cancellation"
 msgstr "Automatische Stornierung"
 
+msgctxt "Back button choice saved!"
 msgid "Back button choice saved!"
 msgstr "Zurück-Taste Wahl gespeichert!"
 
+msgctxt "Background Color"
 msgid "Background Color"
 msgstr "Hintergrundfarbe"
 
+msgctxt "Banner %s price"
 msgid "Banner %s price"
 msgstr "Banner %s Preis"
 
+msgctxt "Banner %s store label"
 msgid "Banner %s store label"
 msgstr "Banner %s store label"
 
+msgctxt ""
+"Be aware that if the code you enter here requires any kind of server "
+"interaction it will not work properly in offline mode."
 msgid ""
 "Be aware that if the code you enter here requires any kind of server "
 "interaction it will not work properly in offline mode."
@@ -271,61 +357,82 @@ msgstr ""
 "erfordert jede Art von server-Interaktion wird nicht richtig funktionieren "
 "im offline-Modus."
 
+msgctxt ""
+"Before publishing your Application you must upload a homepage background."
 msgid ""
 "Before publishing your Application you must upload a homepage background."
 msgstr ""
 "Vor der Veröffentlichung Ihrer Anwendung, die Sie hochladen muss ein "
 "homepage hintergrund."
 
+msgctxt "Before publishing your Application you must upload a splashscreen."
 msgid "Before publishing your Application you must upload a splashscreen."
 msgstr ""
 "Vor der Veröffentlichung Ihrer Anwendung, die Sie hochladen müssen ein "
 "splashscreen."
 
+msgctxt "Below you'll find important informations required in some services!"
 msgid "Below you'll find important informations required in some services!"
 msgstr ""
 "Nachfolgend finden Sie wichtige Hinweise, die erforderlich, einige Dienste!"
 
+msgctxt "Bin SQLite3:"
 msgid "Bin SQLite3:"
 msgstr "Bin SQLite3:"
 
+msgctxt "Black"
 msgid "Black"
 msgstr "Schwarz"
 
+msgctxt "Booking details:"
 msgid "Booking details:"
 msgstr "Buchungsdetails:"
 
+msgctxt "Border Color"
 msgid "Border Color"
 msgstr "Rahmenfarbe"
 
+msgctxt "Build Mobile Social Gaming"
 msgid "Build Mobile Social Gaming"
 msgstr "Bauen Mobile Social Gaming"
 
+msgctxt "Build failed"
 msgid "Build failed"
 msgstr "Build failed"
 
+msgctxt "Build succeed"
 msgid "Build succeed"
 msgstr "Bauen Sie erfolgreich"
 
+msgctxt "CORE TEMPLATE"
 msgid "CORE TEMPLATE"
 msgstr "CORE-VORLAGE"
 
+msgctxt "Cache cleared."
 msgid "Cache cleared."
 msgstr "- Cache gelöscht."
 
+msgctxt "Cancel current Subscription"
 msgid "Cancel current Subscription"
 msgstr "Kündigen des Abonnements"
 
+msgctxt "Cancel subscription"
 msgid "Cancel subscription"
 msgstr "Abonnement kündigen"
 
+msgctxt "Cancellation of your Subscription!"
 msgid "Cancellation of your Subscription!"
 msgstr "Kündigung Ihres Abonnements!"
 
+msgctxt ""
+"Cancelling a child subscription will only affect the concerned application."
 msgid ""
 "Cancelling a child subscription will only affect the concerned application."
 msgstr "Abbruch einer Kind-Abonnement wird nur auf die betreffende Anwendung."
 
+msgctxt ""
+"Cancelling a paid subscription will mark it as cancelled, and the "
+"subscription will automatically expire on it's expiration date."
 msgid ""
 "Cancelling a paid subscription will mark it as cancelled, and the "
 "subscription will automatically expire on it's expiration date."
@@ -333,473 +440,629 @@ msgstr ""
 "Kündigung eines kostenpflichtigen Abonnements zu markieren es als storniert "
 "und das Abonnement läuft automatisch auf das Ablaufdatum."
 
+msgctxt "Cancelling a parent subscription will also cancel it's childs."
 msgid "Cancelling a parent subscription will also cancel it's childs."
 msgstr "Abbrechen eines übergeordneten Abonnement auch kündigen, es ' s childs."
 
+msgctxt "Cannot find application from token."
 msgid "Cannot find application from token."
 msgstr "Kann nicht finden, die Anwendung von token."
 
+msgctxt "Cannot send APK build to service %s."
 msgid "Cannot send APK build to service %s."
 msgstr "Kann nicht senden APK-build-service %s."
 
+msgctxt "Cannot send build to service %s."
 msgid "Cannot send build to service %s."
 msgstr "Kann nicht senden build service %s."
 
+msgctxt "Catalog not found!"
 msgid "Catalog not found!"
 msgstr "Katalog nicht gefunden!!!"
 
+msgctxt "Category has been deleted."
 msgid "Category has been deleted."
 msgstr "Kategorie wurde gelöscht."
 
+msgctxt "Category not found!"
 msgid "Category not found!"
 msgstr "Kategorie wurde nicht gefunden!"
 
+msgctxt "Category successfully deleted."
 msgid "Category successfully deleted."
 msgstr "Kategorie wurde erfolgreich gelöscht."
 
+msgctxt "Certificate renewal is disabled until %s due to rate limit hit."
 msgid "Certificate renewal is disabled until %s due to rate limit hit."
 msgstr ""
 "Die Erneuerung des Zertifikats ist solange deaktiviert, bis Sie %s wegen "
 "limit Treffer."
 
+msgctxt "Change your homepage"
 msgid "Change your homepage"
 msgstr "Ändern Sie Ihre homepage"
 
+msgctxt "Change your startup image"
 msgid "Change your startup image"
 msgstr "Ändern Sie Ihre Start-Bild"
 
+msgctxt "Check out our support pages:"
 msgid "Check out our support pages:"
 msgstr "Schauen Sie sich unsere support-Seiten:"
 
+msgctxt "Chef de projet"
 msgid "Chef de projet"
 msgstr "Chef de projet"
 
+msgctxt "Child"
 msgid "Child"
 msgstr "Kind"
 
+msgctxt "Choose a"
 msgid "Choose a"
 msgstr "Wählen Sie eine"
 
+msgctxt "City:"
 msgid "City:"
 msgstr "Stadt:"
 
+msgctxt "ClamAV:"
 msgid "ClamAV:"
 msgstr "ClamAV:"
 
+msgctxt "Code Used"
 msgid "Code Used"
 msgstr "Code Verwendet"
 
+msgctxt "Coiffeurs"
 msgid "Coiffeurs"
 msgstr "Coiffeurs"
 
+msgctxt "Company successfully deleted."
 msgid "Company successfully deleted."
 msgstr "Unternehmen, die erfolgreich gelöscht wurde."
 
+msgctxt "Create a new plan"
 msgid "Create a new plan"
 msgstr "Erstellen Sie einen neuen plan"
 
+msgctxt "Created at:"
 msgid "Created at:"
 msgstr "Erstellt am:"
 
+msgctxt "Credentials successfully saved!"
 msgid "Credentials successfully saved!"
 msgstr "Anmeldeinformationen erfolgreich gespeichert!"
 
+msgctxt "Date and time:"
 msgid "Date and time:"
 msgstr "Datum & Uhrzeit:"
 
+msgctxt "Deactivation"
 msgid "Deactivation"
 msgstr "Deaktivierung"
 
+msgctxt "Deactivation of your Subscription!"
 msgid "Deactivation of your Subscription!"
 msgstr "Sperrung Ihres Abonnements!"
 
+msgctxt "Define how many applications can be activated with this Subscription"
 msgid "Define how many applications can be activated with this Subscription"
 msgstr ""
 "Definieren Sie, wie viele Anwendungen aktiviert werden können mit diesem "
 "Abonnement"
 
+msgctxt "Delete my account."
 msgid "Delete my account."
 msgstr "Mein account löschen."
 
+msgctxt "Delivery fees:"
 msgid "Delivery fees:"
 msgstr "Zustellgebühren:"
 
+msgctxt "Delivery methods:"
 msgid "Delivery methods:"
 msgstr "Liefermethoden:"
 
+msgctxt "Delivery radius:"
 msgid "Delivery radius:"
 msgstr "Lieferradius:"
 
+msgctxt "Delivery time:"
 msgid "Delivery time:"
 msgstr "Lieferzeit:"
 
+msgctxt "Description:"
 msgid "Description:"
 msgstr "Beschreibung:"
 
+msgctxt "Disable this Subscription!"
 msgid "Disable this Subscription!"
 msgstr "Deaktivieren Sie dieses Abonnement!"
 
+msgctxt "Disabling cache can have significant performance impacts."
 msgid "Disabling cache can have significant performance impacts."
 msgstr "Deaktivieren der cache kann erhebliche Auswirkungen auf die Leistung."
 
+msgctxt "Distributeur logiciel"
 msgid "Distributeur logiciel"
 msgstr "Distributeur logiciel"
 
+msgctxt "Do not edit the following settings if your APK Generator is working!"
 msgid "Do not edit the following settings if your APK Generator is working!"
 msgstr ""
 "Nicht Bearbeiten Sie die folgenden Einstellungen, wenn Sie Ihre APK-"
 "Generator arbeitet!"
 
+msgctxt "Download QRCode for employee"
 msgid "Download QRCode for employee"
 msgstr "Herunterladen QRCode für Mitarbeiter"
 
+msgctxt "Download images archive"
 msgid "Download images archive"
 msgstr "Download Bilder-Archiv"
 
+msgctxt "Download template as"
 msgid "Download template as"
 msgstr "Download Vorlage als"
 
+msgctxt "Download the APK !"
 msgid "Download the APK !"
 msgstr "Download der APK !"
 
+msgctxt "Download the source archive !"
 msgid "Download the source archive !"
 msgstr "Laden Sie die Quellcode-Archiv !"
 
+msgctxt "Downloading your package."
 msgid "Downloading your package."
 msgstr "Herunterladen der Paket."
 
+msgctxt "Edit the account \"%s\""
 msgid "Edit the account \"%s\""
 msgstr "Den Account %s ändern"
 
+msgctxt "Edit the plan"
 msgid "Edit the plan"
 msgstr "Bearbeiten der plan"
 
+msgctxt "Employee's name"
 msgid "Employee's name"
 msgstr "Mitarbeiters name"
 
+msgctxt "Employee's password"
 msgid "Employee's password"
 msgstr "Mitarbeiter Kennwort"
 
+msgctxt "Enable this Subscription!"
 msgid "Enable this Subscription!"
 msgstr "Aktivieren Sie dieses Abonnement!"
 
+msgctxt "Error: unable to write Environment in config.php"
 msgid "Error: unable to write Environment in config.php"
 msgstr "Error: unable to write Umgebung, in config.php"
 
+msgctxt "Essayez gratuitement !"
 msgid "Essayez gratuitement !"
 msgstr "Essayez gratuitement !"
 
+msgctxt "Expired on"
 msgid "Expired on"
 msgstr "Abgelaufen am"
 
+msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "Erweiterung nicht erlaubt, nur für %s"
 
+msgctxt "Feature is now %s"
 msgid "Feature is now %s"
 msgstr "Funktion ist nun %s"
 
+msgctxt "Feature not found."
 msgid "Feature not found."
 msgstr "Funktion nicht gefunden."
 
+msgctxt "Feature successfully added inside folder!"
 msgid "Feature successfully added inside folder!"
 msgstr "Funktion wurde erfolgreich Hinzugefügt Insider-Ordner!"
 
+msgctxt "Feature successfuly imported."
 msgid "Feature successfuly imported."
 msgstr "Funktion erfolgreich importiert."
 
+msgctxt "Firebase is not well configured."
 msgid "Firebase is not well configured."
 msgstr "FB ist nicht gut konfiguriert."
 
+msgctxt "Firewall Slack settings have been saved."
 msgid "Firewall Slack settings have been saved."
 msgstr "Firewall Slack-Einstellungen gespeichert wurden."
 
+msgctxt "Firstname:"
 msgid "Firstname:"
 msgstr "Vorname:"
 
+msgctxt "Fixed"
 msgid "Fixed"
 msgstr "Behoben"
 
+msgctxt "Folder not found!"
 msgid "Folder not found!"
 msgstr "Ordner nicht gefunden!!!"
 
+msgctxt "Free"
 msgid "Free"
 msgstr "Frei"
 
+msgctxt "Free delivery starting from:"
 msgid "Free delivery starting from:"
 msgstr "Kostenlose Lieferung ab:"
 
+msgctxt "Free plan"
 msgid "Free plan"
 msgstr "Free-plan"
 
+msgctxt "Free plans have no expiration date."
 msgid "Free plans have no expiration date."
 msgstr "Kostenlose Pläne haben kein Verfallsdatum."
 
+msgctxt "Free trial period duration must be a numeric value."
 msgid "Free trial period duration must be a numeric value."
 msgstr "Kostenlose Probezeit Dauer muss ein numerischer Wert."
 
+msgctxt "Galerie photos"
 msgid "Galerie photos"
 msgstr "Galerie Fotos"
 
+msgctxt "Gallery has been deleted!"
 msgid "Gallery has been deleted!"
 msgstr "Galerie wurde gelöscht!"
 
+msgctxt "Google Service file successfully saved!"
 msgid "Google Service file successfully saved!"
 msgstr "Google-Dienst die Datei erfolgreich gespeichert!"
 
+msgctxt "Hide overlay"
 msgid "Hide overlay"
 msgstr "Hide overlay"
 
+msgctxt "IP:Port"
 msgid "IP:Port"
 msgstr "IP:Port"
 
+msgctxt ""
+"If your credit card, or subscription expired, you can purchase a new one."
 msgid ""
 "If your credit card, or subscription expired, you can purchase a new one."
 msgstr ""
 "Wenn Ihre Kreditkarte oder Abonnement abgelaufen ist, können Sie einen neuen "
 "kaufen."
 
+msgctxt "Immobilier"
 msgid "Immobilier"
 msgstr "Immobilier"
 
+msgctxt "Import success."
 msgid "Import success."
 msgstr "Import-Erfolg."
 
+msgctxt "Installed templates"
 msgid "Installed templates"
 msgstr "Installierte Vorlagen"
 
+msgctxt "Interface en Marque Blanche"
 msgid "Interface en Marque Blanche"
 msgstr "Schnittstelle en Marque Blanche"
 
+msgctxt "Invalid QRCode parameters."
 msgid "Invalid QRCode parameters."
 msgstr "Ungültige QRCode Parameter."
 
+msgctxt "Invalid twitter handle/url!"
 msgid "Invalid twitter handle/url!"
 msgstr "Ungültige twitter-Griff/url!"
 
+msgctxt "Invoice"
 msgid "Invoice"
 msgstr "Rechnung"
 
+msgctxt "Invoice %s"
 msgid "Invoice %s"
 msgstr "Rechnung %s"
 
+msgctxt "Is Active?"
 msgid "Is Active?"
 msgstr ""
 
+msgctxt "JpegOptim:"
 msgid "JpegOptim:"
 msgstr "JpegOptim:"
 
+msgctxt "Label:"
 msgid "Label:"
 msgstr "Label:"
 
+msgctxt "Lastname:"
 msgid "Lastname:"
 msgstr "Lastname:"
 
+msgctxt "Let your users know what is locked."
 msgid "Let your users know what is locked."
 msgstr "Lassen Sie Ihre Benutzer wissen, was gesperrt ist."
 
+msgctxt "Linked to Subscription"
 msgid "Linked to Subscription"
 msgstr "Verbunden mit Abonnement"
 
+msgctxt "List of your taxes"
 msgid "List of your taxes"
 msgstr "Liste der Steuern"
 
+msgctxt "Listing produits"
 msgid "Listing produits"
 msgstr "Auflistung produits"
 
+msgctxt "Listing produits / tarifs"
 msgid "Listing produits / tarifs"
 msgstr "Auflistung produits / tarifs"
 
+msgctxt "Loading your white label editor."
 msgid "Loading your white label editor."
 msgstr "Laden Sie Ihre white-label-editor."
 
+msgctxt "MM/dd/y"
 msgid "MM/dd/y"
 msgstr "MM/dd/y"
 
+msgctxt "Main domain is required!"
 msgid "Main domain is required!"
 msgstr "Haupt-domain ist erforderlich!"
 
+msgctxt "Main domain is required, you can set it in <b>Settings > General</b>"
 msgid "Main domain is required, you can set it in <b>Settings > General</b>"
 msgstr ""
 "Haupt-Domäne erforderlich ist, können Sie es in <b>Einstellungen > "
 "allgemein</b>"
 
+msgctxt "Major update disclaimer, confirmation required!"
 msgid "Major update disclaimer, confirmation required!"
 msgstr "Großes update Haftungsausschluss, Bestätigung erforderlich!"
 
+msgctxt "Manifest rebuilt with succes."
 msgid "Manifest rebuilt with succes."
 msgstr "Manifest umgebaut, mit Erfolg."
 
+msgctxt "Message:"
 msgid "Message:"
 msgstr "Meldung:"
 
+msgctxt "Message is required."
 msgid "Message is required."
 msgstr "Nachricht ist erforderlich."
 
+msgctxt "Migration done!"
 msgid "Migration done!"
 msgstr "Migration fertig!"
 
+msgctxt "Minimum order:"
 msgid "Minimum order:"
 msgstr "Mindestbestellwert:"
 
+msgctxt "Missing categories."
 msgid "Missing categories."
 msgstr "Fehlende Kategorien."
 
+msgctxt "Missing data."
 msgid "Missing data."
 msgstr "Fehlende Daten."
 
+msgctxt "Missing design_id."
 msgid "Missing design_id."
 msgstr "Fehlt design_id."
 
+msgctxt "Missing form data!"
 msgid "Missing form data!"
 msgstr "Fehlende Formulardaten!"
 
+msgctxt "Missing parameter value_id."
 msgid "Missing parameter value_id."
 msgstr "Fehlende parameter value_id."
 
+msgctxt "Missing parameters!"
 msgid "Missing parameters!"
 msgstr "Fehlende Parameter!"
 
+msgctxt "Missing parameters, value_id or message."
 msgid "Missing parameters, value_id or message."
 msgstr "Fehlende Parameter, value_id oder Nachricht."
 
+msgctxt "Missing params!"
 msgid "Missing params!"
 msgstr "Fehlende params!"
 
+msgctxt "Missing request."
 msgid "Missing request."
 msgstr "Fehlende Anfrage."
 
+msgctxt "Missing token and/or status."
 msgid "Missing token and/or status."
 msgstr "Fehlende token und/oder den status."
 
+msgctxt "Missing value_id!"
 msgid "Missing value_id!"
 msgstr "Fehlt value_id!"
 
+msgctxt "Mode"
 msgid "Mode"
 msgstr "Modus"
 
+msgctxt "Mur de news"
 msgid "Mur de news"
 msgstr "Mur de news"
 
+msgctxt "Mur de news mobile"
 msgid "Mur de news mobile"
 msgstr "Mur de news mobile"
 
+msgctxt "My Subscriptions"
 msgid "My Subscriptions"
 msgstr "Meine Abonnements"
 
+msgctxt "My subscriptions"
 msgid "My subscriptions"
 msgstr "Meine Abonnements"
 
+msgctxt "N.A."
 msgid "N.A."
 msgstr "N. A."
 
+msgctxt "Name is required to save the Application."
 msgid "Name is required to save the Application."
 msgstr "Name ist erforderlich, um die Anwendung zu speichern."
 
+msgctxt "National"
 msgid "National"
 msgstr "National"
 
+msgctxt "New sale"
 msgid "New sale"
 msgstr "Neue Verkauf"
 
+msgctxt "New subscription on your Platform %s!"
 msgid "New subscription on your Platform %s!"
 msgstr "Neues Abonnement auf Ihrer Plattform, %s!"
 
+msgctxt "New user Account"
 msgid "New user Account"
 msgstr "Neues Benutzerkonto"
 
+msgctxt "Next payment date"
 msgid "Next payment date"
 msgstr "Nächste Fälligkeit"
 
+msgctxt "No build."
 msgid "No build."
 msgstr "Kein build."
 
+msgctxt "No credentials found!"
 msgid "No credentials found!"
 msgstr "Werden keine Anmeldeinformationen gefunden!!!"
 
+msgctxt "No customers available."
 msgid "No customers available."
 msgstr "Keine Kunden zur Verfügung."
 
+msgctxt "No data sent."
 msgid "No data sent."
 msgstr "Keine Daten gesendet."
 
+msgctxt "No file found."
 msgid "No file found."
 msgstr "Keine Datei gefunden."
 
+msgctxt "No, go back!"
 msgid "No, go back!"
 msgstr "Nein, gehen Sie zurück!"
 
+msgctxt "No templates"
 msgid "No templates"
 msgstr "Keine Vorlagen"
 
+msgctxt "Nobody is online."
 msgid "Nobody is online."
 msgstr "Niemand ist online."
 
+msgctxt "Nos plateformes"
 msgid "Nos plateformes"
 msgstr "Nos plateformes"
 
+msgctxt "Not a Yahoo weather request, aborting."
 msgid "Not a Yahoo weather request, aborting."
 msgstr "Nicht eine Yahoo-Wetter-request Abbrechen."
 
+msgctxt "Notifications Push"
 msgid "Notifications Push"
 msgstr "Push-Benachrichtigungen"
 
+msgctxt "Notifications Push en marque blanche"
 msgid "Notifications Push en marque blanche"
 msgstr "Benachrichtigungen Push-en marque blanche"
 
+msgctxt "Nous supportons toutes les plateformes"
 msgid "Nous supportons toutes les plateformes"
 msgstr "Nous supportons toutes les plateformes"
 
+msgctxt "Number of Applications"
 msgid "Number of Applications"
 msgstr "Anzahl der Anwendungen"
 
+msgctxt "Offline"
 msgid "Offline"
 msgstr "Offline"
 
+msgctxt "Only cancelled"
 msgid "Only cancelled"
 msgstr "Nur storniert"
 
+msgctxt "OptiPNG:"
 msgid "OptiPNG:"
 msgstr "OptiPNG:"
 
+msgctxt "Option name:"
 msgid "Option name:"
 msgstr "Option name:"
 
+msgctxt "Or purchase a new subscription"
 msgid "Or purchase a new subscription"
 msgstr "Oder ein neues Abonnement erwerben"
 
+msgctxt "Order: "
 msgid "Order: "
 msgstr "Reihenfolge: "
 
+msgctxt "Order successfully saved saved."
 msgid "Order successfully saved saved."
 msgstr "Bestellung wurde erfolgreich gespeichert gespeichert."
 
+msgctxt "Overlay color"
 msgid "Overlay color"
 msgstr "Overlay-Farbe"
 
+msgctxt "Owner"
 msgid "Owner"
 msgstr "Eigentümer"
 
+msgctxt "Owner Cancellation"
 msgid "Owner Cancellation"
 msgstr "Eigentümer Kündigung"
 
+msgctxt "PEM Request generally takes 1 minute to complete."
 msgid "PEM Request generally takes 1 minute to complete."
 msgstr "PEM-Anfrage dauert in der Regel 1 minute abgeschlossen sein."
 
+msgctxt "PHP SQLite3:"
 msgid "PHP SQLite3:"
 msgstr "PHP SQLite3:"
 
+msgctxt "PNGQuant:"
 msgid "PNGQuant:"
 msgstr "PNGQuant:"
 
+msgctxt "PROTECTED"
 msgid "PROTECTED"
 msgstr "GESCHÜTZT"
 
+msgctxt "Partially saved."
 msgid "Partially saved."
 msgstr "Teilweise gespeichert."
 
+msgctxt "Password:"
 msgid "Password:"
 msgstr "Passwort:"
 
+msgctxt ""
+"PayPal is not configured in your Backoffice, recurrencies will not work "
+"correctly."
 msgid ""
 "PayPal is not configured in your Backoffice, recurrencies will not work "
 "correctly."
@@ -807,315 +1070,421 @@ msgstr ""
 "PayPal ist nicht konfiguriert in Ihre Backoffice, recurrencies wird nicht "
 "richtig funktionieren."
 
+msgctxt "PayPal subscription is %s."
 msgid "PayPal subscription is %s."
 msgstr "PayPal Abonnement ist %s."
 
+msgctxt "Payment Information:"
 msgid "Payment Information:"
 msgstr "Zahlungsinformationen:"
 
+msgctxt "Payments are verified through their respective APIs."
 msgid "Payments are verified through their respective APIs."
 msgstr "Zahlungen sind verifiziert durch Ihre jeweiligen APIs."
 
+msgctxt "Percentage"
 msgid "Percentage"
 msgstr "Prozentsatz"
 
+msgctxt "Please correct the following errors <br>"
 msgid "Please correct the following errors <br>"
 msgstr "Bitte korrigieren Sie die folgenden Fehler <br>"
 
+msgctxt "Please enter a correct version for the %s app"
 msgid "Please enter a correct version for the %s app"
 msgstr "Bitte geben Sie eine korrekte version für die %s-app"
 
+msgctxt "Please, enter a password."
 msgid "Please, enter a password."
 msgstr "Bitte geben Sie ein Passwort ein."
 
+msgctxt "Please enter a valid date."
 msgid "Please enter a valid date."
 msgstr "Bitte geben Sie ein gültiges Datum."
 
+msgctxt "Please fill iTunes Connect Credentials."
 msgid "Please fill iTunes Connect Credentials."
 msgstr "Bitte füllen Sie die iTunes Connect-Anmeldeinformationen."
 
+msgctxt "Please verify the "
 msgid "Please verify the "
 msgstr "Bitte überprüfen Sie die "
 
+msgctxt "Plesk from 12.0 to 17.0"
 msgid "Plesk from 12.0 to 17.0"
 msgstr "Plesk von 12,0 bis 17.0"
 
+msgctxt "Plus d'infos"
 msgid "Plus d'infos"
 msgstr "Plus d'infos"
 
+msgctxt "Postal code or city:"
 msgid "Postal code or city:"
 msgstr "Postleitzahl oder Stadt:"
 
+msgctxt "Previous and/or Expired subscriptions"
 msgid "Previous and/or Expired subscriptions"
 msgstr "Vorherigen und/oder Abgelaufenen Abonnements"
 
+msgctxt "Previous version"
 msgid "Previous version"
 msgstr "Vorgängerversion"
 
+msgctxt "Price:"
 msgid "Price:"
 msgstr "Preis:"
 
+msgctxt "Product has been deleted."
 msgid "Product has been deleted."
 msgstr "Produkt wurde gelöscht."
 
+msgctxt "Product name:"
 msgid "Product name:"
 msgstr "Produkt-name:"
 
+msgctxt "Product not found!"
 msgid "Product not found!"
 msgstr "Produkt nicht gefunden!!!"
 
+msgctxt "Promo not found"
 msgid "Promo not found"
 msgstr "Promo nicht gefunden"
 
+msgctxt "Promo successfully deleted"
 msgid "Promo successfully deleted"
 msgstr "Promo erfolgreich gelöscht"
 
+msgctxt "Promotion successfully deleted."
 msgid "Promotion successfully deleted."
 msgstr "Promotion erfolgreich gelöscht."
 
+msgctxt "Provider"
 msgid "Provider"
 msgstr "Anbieter"
 
+msgctxt "Purchase a new subscription!"
 msgid "Purchase a new subscription!"
 msgstr "Kaufen Sie ein neues Abonnement!"
 
+msgctxt "Query successfully deleted."
 msgid "Query successfully deleted."
 msgstr "Abfrage erfolgreich gelöscht."
 
+msgctxt "Question"
 msgid "Question"
 msgstr "Frage"
 
+msgctxt "RSS application mobile"
 msgid "RSS application mobile"
 msgstr "RSS-Anwendung mobile"
 
+msgctxt "RSS/Atom"
 msgid "RSS/Atom"
 msgstr "RSS/Atom"
 
+msgctxt "Rate"
 msgid "Rate"
 msgstr "Bewerten"
 
+msgctxt "Reason:"
 msgid "Reason:"
 msgstr "Grund:"
 
+msgctxt "Recipient email:"
 msgid "Recipient email:"
 msgstr "Empfänger-E-Mail:"
 
+msgctxt "Recurrent fee"
 msgid "Recurrent fee"
 msgstr "Wiederkehrende Gebühr"
 
+msgctxt "Region"
 msgid "Region"
 msgstr "Region"
 
+msgctxt "Regular fee"
 msgid "Regular fee"
 msgstr "Regulärer Preis"
 
+msgctxt "Removing CRON Scheduler generator lock files."
 msgid "Removing CRON Scheduler generator lock files."
 msgstr "Entfernen CRON Scheduler generator lock-Dateien."
 
+msgctxt "Removing CRON Scheduler source lock files."
 msgid "Removing CRON Scheduler source lock files."
 msgstr "Entfernen CRON Scheduler source lock-Dateien."
 
+msgctxt "Removing domain %s, domain in dot notation is not supported."
 msgid "Removing domain %s, domain in dot notation is not supported."
 msgstr "Entfernen von domain %s, domain in dot-notation nicht unterstützt."
 
+msgctxt "Render Test"
 msgid "Render Test"
 msgstr "Render-Test"
 
+msgctxt "Request a new PEM certificate."
 msgid "Request a new PEM certificate."
 msgstr "Die Anforderung eines neuen PEM-Zertifikat."
 
+msgctxt "Reset to default Privacy Policy GDPR."
 msgid "Reset to default Privacy Policy GDPR."
 msgstr "Zurücksetzen auf Standard-Datenschutzrichtlinie GDPR."
 
+msgctxt "Resize your picture:"
 msgid "Resize your picture:"
 msgstr "Resize Ihr Bild:"
 
+msgctxt "Safe in landscape"
 msgid "Safe in landscape"
 msgstr "Sicher in der Landschaft"
 
+msgctxt "Safe in portrait"
 msgid "Safe in portrait"
 msgstr "Sicher im portrait"
 
+msgctxt "Safe zone overlay"
 msgid "Safe zone overlay"
 msgstr "Safe zone-overlay"
 
+msgctxt "Scan this QR Code:"
 msgid "Scan this QR Code:"
 msgstr "Diesen QR-Code Scannen:"
 
+msgctxt "Scratchcard"
 msgid "Scratchcard"
 msgstr "Rubbellos"
 
+msgctxt "Secret Key:"
 msgid "Secret Key:"
 msgstr "Schlüssel:"
 
+msgctxt "Seems the appId is empty or invalid, aborting!"
 msgid "Seems the appId is empty or invalid, aborting!"
 msgstr "Scheint die Anwendungs-id ist leer oder ungültig, Abbruch!"
 
+msgctxt "Seems we could delete unwanted files, aborting!"
 msgid "Seems we could delete unwanted files, aborting!"
 msgstr "Scheint könnten wir löschen Sie unerwünschte Dateien, aborting!"
 
+msgctxt "Select a connection type:"
 msgid "Select a connection type:"
 msgstr "Wählen Sie einen Verbindungstyp:"
 
+msgctxt "Select one of the available subscriptions with remaining slots"
 msgid "Select one of the available subscriptions with remaining slots"
 msgstr "Wählen Sie eine der verfügbaren Abonnements mit den restlichen slots"
 
+msgctxt "Send your favicon"
 msgid "Send your favicon"
 msgstr "Senden Sie Ihre favicon"
 
+msgctxt "Send your logo"
 msgid "Send your logo"
 msgstr "Senden Sie Ihr logo"
 
+msgctxt "Service status / load"
 msgid "Service status / load"
 msgstr "Service status / laden"
 
+msgctxt "Setting successfully saved."
 msgid "Setting successfully saved."
 msgstr "Einstellung erfolgreich gespeichert."
 
+msgctxt "Show applications removed from the editor."
 msgid "Show applications removed from the editor."
 msgstr "Zeigen Sie Anwendungen entfernt aus der Redaktion."
 
+msgctxt "Show child subscriptions"
 msgid "Show child subscriptions"
 msgstr "Zeigen Kind Abonnements"
 
+msgctxt "Signature:"
 msgid "Signature:"
 msgstr "Signatur:"
 
+msgctxt "Snacking / Restaurants"
 msgid "Snacking / Restaurants"
 msgstr "Imbiss / Restaurants"
 
+msgctxt "Snacking<br />Restaurants"
 msgid "Snacking<br />Restaurants"
 msgstr "Naschen<br />Restaurants"
 
+msgctxt "Social Gaming"
 msgid "Social Gaming"
 msgstr "Social Gaming"
 
+msgctxt "Something went wrong while restoring files, process aborted!"
 msgid "Something went wrong while restoring files, process aborted!"
 msgstr ""
 "Etwas ging schief beim wiederherstellen von Dateien, Prozess abgebrochen!"
 
+msgctxt "Sorry but an error occurred while duplicating your application."
 msgid "Sorry but an error occurred while duplicating your application."
 msgstr "Sorry, aber ein Fehler trat beim duplizieren der Anwendung."
 
+msgctxt "Source type:"
 msgid "Source type:"
 msgstr "Art der Quelle:"
 
+msgctxt "Sources Generation"
 msgid "Sources Generation"
 msgstr "Quellen-Generation"
 
+msgctxt "Sources are successfully restored."
 msgid "Sources are successfully restored."
 msgstr "Quellen sind erfolgreich wiederhergestellt."
 
+msgctxt "Subscription: "
 msgid "Subscription: "
 msgstr "Abonnement: "
 
+msgctxt "Subscription date"
 msgid "Subscription date"
 msgstr "Abonnement Datum"
 
+msgctxt "Subscription updated."
 msgid "Subscription updated."
 msgstr "Abonnement aktualisiert."
 
+msgctxt "Successfully saved default project."
 msgid "Successfully saved default project."
 msgstr "Erfolgreich gerettet Standard-Projekt."
 
+msgctxt "Tax:"
 msgid "Tax:"
 msgstr "Steuer:"
 
+msgctxt "Tax name:"
 msgid "Tax name:"
 msgstr "Steuer-name:"
 
+msgctxt "Tax rate:"
 msgid "Tax rate:"
 msgstr "Steuersatz:"
 
+msgctxt "Teams successfully refreshed!"
 msgid "Teams successfully refreshed!"
 msgstr "Teams erfolgreich aktualisiert!"
 
+msgctxt "Telephone"
 msgid "Telephone"
 msgstr "Telefon"
 
+msgctxt "Temp cleared."
 msgid "Temp cleared."
 msgstr "Temp gelöscht."
 
+msgctxt "Test App"
 msgid "Test App"
 msgstr "Test-App"
 
+msgctxt "Text Color"
 msgid "Text Color"
 msgstr "Textfarbe"
 
+msgctxt "Thanks for working with us!"
 msgid "Thanks for working with us!"
 msgstr "Vielen Dank für die Zusammenarbeit mit uns!"
 
+msgctxt "Thanks for your report."
 msgid "Thanks for your report."
 msgstr "Vielen Dank für Ihren Bericht."
 
+msgctxt "Thanks for your subscription."
 msgid "Thanks for your subscription."
 msgstr "Vielen Dank für Ihr Abonnement."
 
+msgctxt "The APK for the application %s has been generated !"
 msgid "The APK for the application %s has been generated !"
 msgstr "Die APK für die Anwendung %s generiert wurde !"
 
+msgctxt "The APK generation failed !"
 msgid "The APK generation failed !"
 msgstr "Die APK-generation ist gescheitert !"
 
+msgctxt "The APK generation is done !"
 msgid "The APK generation is done !"
 msgstr "Die APK-generation ist fertig !"
 
+msgctxt "The APK has been generated!"
 msgid "The APK has been generated!"
 msgstr "Die APK generiert wurde!"
 
+msgctxt "The CNAME for the URL \"%s\" is not properly set"
 msgid "The CNAME for the URL \"%s\" is not properly set"
 msgstr "Der CNAME für die URL \"%s\" ist nicht korrekt festgelegt"
 
+msgctxt "The CNAME for the domain \"%s\" is not properly set"
 msgid "The CNAME for the domain \"%s\" is not properly set"
 msgstr "Der CNAME für die domain \"%s\" ist nicht korrekt festgelegt"
 
+msgctxt "The Source code for the application %s has been generated !"
 msgid "The Source code for the application %s has been generated !"
 msgstr "Der Quellcode für die Anwendung %s generiert wurde !"
 
+msgctxt "The Source code generation failed !"
 msgid "The Source code generation failed !"
 msgstr "Der Source-code-Generierung ist fehlgeschlagen !"
 
+msgctxt ""
+"The categories for line %s couldn't be created : no parent category found."
 msgid ""
 "The categories for line %s couldn't be created : no parent category found."
 msgstr ""
 "Die Kategorien für die Zeile %s konnte nicht angelegt werden : keine "
 "übergeordnete Kategorie gefunden."
 
+msgctxt ""
+"The categories for line %s couldn't be created : no root category found."
 msgid ""
 "The categories for line %s couldn't be created : no root category found."
 msgstr ""
 "Die Kategorien für die Zeile %s konnte nicht angelegt werden : keine root-"
 "Kategorie gefunden."
 
+msgctxt "The categories for line %s couldn't be read."
 msgid "The categories for line %s couldn't be read."
 msgstr "Die Kategorien für die Zeile %s konnte nicht gelesen werden."
 
+msgctxt "The data has been saved successfully"
 msgid "The data has been saved successfully"
 msgstr "Die Daten wurden erfolgreich gespeichert"
 
+msgctxt ""
+"The entered package name is incorrect, it should be like: com.siberiancms.app"
 msgid ""
 "The entered package name is incorrect, it should be like: com.siberiancms.app"
 msgstr ""
 "Die eingegebenen Pakets name ist falsch, es sollte wie: com.siberiancms.app"
 
+msgctxt "The feature you are trying to edit doesn't exists!"
 msgid "The feature you are trying to edit doesn't exists!"
 msgstr "Die Funktion, die Sie Bearbeiten möchten, nicht vorhanden ist!"
 
+msgctxt "The formats for line %s couldn't be read."
 msgid "The formats for line %s couldn't be read."
 msgstr "Die Formate für die Zeile %s konnte nicht gelesen werden."
 
+msgctxt "The given template does not exists."
 msgid "The given template does not exists."
 msgstr "Die angegebene Vorlage nicht vorhanden ist."
 
+msgctxt "The local APK generator requires %s"
 msgid "The local APK generator requires %s"
 msgstr "Die lokale APK-generator erfordert %s"
 
+msgctxt "The options for line %s couldn't be read."
 msgid "The options for line %s couldn't be read."
 msgstr "Die Optionen für die Zeile %s konnte nicht gelesen werden."
 
+msgctxt "The options for line %s couldn't be saved."
 msgid "The options for line %s couldn't be saved."
 msgstr "Die Optionen für die Zeile %s konnte nicht gespeichert werden."
 
+msgctxt ""
+"The overlay helps you check if important content and/or text on your "
+"homepage image is inside the safe boundaries."
 msgid ""
 "The overlay helps you check if important content and/or text on your "
 "homepage image is inside the safe boundaries."
@@ -1123,45 +1492,61 @@ msgstr ""
 "Das overlay hilft Ihnen zu überprüfen, wenn Sie wichtige Inhalte und/oder "
 "text auf Ihrer homepage, Bild ist innerhalb der sicheren Grenzen."
 
+msgctxt "The requested APK generation failed: %s"
 msgid "The requested APK generation failed: %s"
 msgstr "Die angeforderte APK-Generierung ist fehlgeschlagen: %s"
 
+msgctxt "The requested APK/Source generation failed !"
 msgid "The requested APK/Source generation failed !"
 msgstr "Die angeforderte APK/Quelle-Generierung ist fehlgeschlagen !"
 
+msgctxt "The search request is empty."
 msgid "The search request is empty."
 msgstr "Die Suchanfrage leer ist."
 
+msgctxt "The selected subscription is not valid."
 msgid "The selected subscription is not valid."
 msgstr "Das gewählte Abonnement ist nicht gültig."
 
+msgctxt "The source generation is done !"
 msgid "The source generation is done !"
 msgstr "Die source-Generierung erfolgt !"
 
+msgctxt "The subscription is cancelled!"
 msgid "The subscription is cancelled!"
 msgstr "Das Abonnement ist gekündigt!"
 
+msgctxt "The subscription is now active."
 msgid "The subscription is now active."
 msgstr "Das Abonnement ist nun aktiv."
 
+msgctxt "The subscription is now inactive."
 msgid "The subscription is now inactive."
 msgstr "Das Abonnement ist nun inaktiv."
 
+msgctxt "The user doesn't exist."
 msgid "The user doesn't exist."
 msgstr "Der Benutzer ist nicht vorhanden."
 
+msgctxt "There is not corresponding release to restore from, process aborted!"
 msgid "There is not corresponding release to restore from, process aborted!"
 msgstr ""
 "Es ist nicht die entsprechende Version wiederherstellen aus, Vorgang "
 "abgebrochen!"
 
+msgctxt "This Application doesn't exists, aborting!"
 msgid "This Application doesn't exists, aborting!"
 msgstr "Diese Anwendung nicht vorhanden, Abbruch!"
 
+msgctxt "This Application has some invoices associated, you can not delete it!"
 msgid "This Application has some invoices associated, you can not delete it!"
 msgstr ""
 "Diese Anwendung hat einige Rechnungen verbunden, können Sie nicht löschen!"
 
+msgctxt ""
+"This action is used to migrate all current active session into a Redis "
+"server instance, use this only with care if you want to migrate from MySQL "
+"session to Redis session storage."
 msgid ""
 "This action is used to migrate all current active session into a Redis "
 "server instance, use this only with care if you want to migrate from MySQL "
@@ -1172,25 +1557,34 @@ msgstr ""
 "Vorsicht, wenn Sie wollen, um die Migration von MySQL-Sitzung zu Redis "
 "session-Speicherung."
 
+msgctxt "This admin can download application sources code."
 msgid "This admin can download application sources code."
 msgstr "Diese kann der admin download-Anwendung Quellen-code."
 
+msgctxt "This application does not belong to you."
 msgid "This application does not belong to you."
 msgstr "Diese Anwendung gehört nicht zu Ihnen."
 
+msgctxt "This block type doesn't exists."
 msgid "This block type doesn't exists."
 msgstr "Dieser block-Typ nicht vorhanden ist."
 
+msgctxt "This feature is not ready yet. Please try again later."
 msgid "This feature is not ready yet. Please try again later."
 msgstr ""
 "Dieses feature ist noch nicht fertig. Bitte versuchen Sie es später erneut."
 
+msgctxt "This field is required."
 msgid "This field is required."
 msgstr "Dieses Feld ist erforderlich."
 
+msgctxt "This icon is not allowed!"
 msgid "This icon is not allowed!"
 msgstr "Dieses Symbol ist nicht erlaubt!"
 
+msgctxt ""
+"This is a child subscription, it is tied to a parent with 2 or more "
+"application slots."
 msgid ""
 "This is a child subscription, it is tied to a parent with 2 or more "
 "application slots."
@@ -1198,45 +1592,58 @@ msgstr ""
 "Dies ist ein Kind-Abonnement, es ist gebunden an ein Elternteil mit 2 oder "
 "mehr Anwendung slots."
 
+msgctxt "This is a demo version, these changes can't be saved."
 msgid "This is a demo version, these changes can't be saved."
 msgstr ""
 "Dies ist eine demo-version, diese änderungen können nicht gespeichert werden."
 
+msgctxt "This is a demo version, you are not allowed to change the default role."
 msgid "This is a demo version, you are not allowed to change the default role."
 msgstr ""
 "Dies ist eine demo-version, Sie sind nicht erlaubt, ändern Sie die Standard-"
 "Rolle."
 
+msgctxt "This is a demo version, you cannot deactive an user."
 msgid "This is a demo version, you cannot deactive an user."
 msgstr ""
 "Dies ist eine demo-version, Sie können nicht deaktivieren Sie einen Benutzer "
 "an."
 
+msgctxt "This is a demo version, you cannot save these settings."
 msgid "This is a demo version, you cannot save these settings."
 msgstr ""
 "Dies ist eine demo-version können Sie nicht speichern Sie diese "
 "Einstellungen."
 
+msgctxt "This is a demo version, you can't download any source codes / APKs"
 msgid "This is a demo version, you can't download any source codes / APKs"
 msgstr ""
 "Dies ist eine demo-version, die Sie nicht herunterladen können jedem source-"
 "codes / APKs"
 
+msgctxt "This is probably %s"
 msgid "This is probably %s"
 msgstr "Dies ist die wahrscheinlich %s"
 
+msgctxt "This method is deprecated, please update!"
 msgid "This method is deprecated, please update!"
 msgstr "Diese Methode ist veraltet, bitte update!"
 
+msgctxt "This subscription does not exists!"
 msgid "This subscription does not exists!"
 msgstr "Dieses Abonnement ist nicht vorhanden!"
 
+msgctxt "This subscription doesn't exists!"
 msgid "This subscription doesn't exists!"
 msgstr "Dieses Abonnement nicht existiert!"
 
+msgctxt "This subscription is cancelled, and will expire by <b>%s</b>."
 msgid "This subscription is cancelled, and will expire by <b>%s</b>."
 msgstr "Dieses Abonnement wird storniert, und verfällt von <b>%s</b>."
 
+msgctxt ""
+"This template installer is not supported anymore, please refer to the "
+"documentation to update your installer."
 msgid ""
 "This template installer is not supported anymore, please refer to the "
 "documentation to update your installer."
@@ -1244,103 +1651,138 @@ msgstr ""
 "Dieses template installer nicht mehr unterstützt wird, entnehmen Sie bitte "
 "der Dokumentation zu aktualisieren Sie Ihren Installateur."
 
+msgctxt "This user does not exist."
 msgid "This user does not exist."
 msgstr "Dieser Benutzer ist nicht vorhanden."
 
+msgctxt "Tip: %s"
 msgid "Tip: %s"
 msgstr "Tipp: %s"
 
+msgctxt "Title:"
 msgid "Title:"
 msgstr "Titel:"
 
+msgctxt "Touch To Call"
 msgid "Touch To Call"
 msgstr "Kontakt Zu Nennen"
 
+msgctxt "Translation in progress ... "
 msgid "Translation in progress ... "
 msgstr "Translation in progress ... "
 
+msgctxt "UPGRADE NOW!"
 msgid "UPGRADE NOW!"
 msgstr "AKTUALISIEREN SIE JETZT!"
 
+msgctxt "Unable to cancel 2Checkout subscription, tray again later."
 msgid "Unable to cancel 2Checkout subscription, tray again later."
 msgstr "Nicht stornieren 2Checkout Abonnement, Tablett später wieder."
 
+msgctxt "Unable to cancel PayPal subscription, tray again later."
 msgid "Unable to cancel PayPal subscription, tray again later."
 msgstr ""
 "Nicht in der Lage zu stornieren, PayPal-Abonnements, Tablett später wieder."
 
+msgctxt "Unable to fetch your application background images."
 msgid "Unable to fetch your application background images."
 msgstr "Nicht in der Lage zu Holen Ihre Anwendung-hintergrund-Bilder."
 
+msgctxt "Unable to find either folder or feature!"
 msgid "Unable to find either folder or feature!"
 msgstr "Nicht finden entweder Ordner oder ein feature!"
 
+msgctxt "Unable to find option."
 msgid "Unable to find option."
 msgstr "Keine option finden."
 
+msgctxt "Unable to find the corresponding build."
 msgid "Unable to find the corresponding build."
 msgstr "Nicht finden das entsprechende bauen."
 
+msgctxt "Unable to find the order id!"
 msgid "Unable to find the order id!"
 msgstr "Nicht in der Lage zu finden, die Bestell-id!"
 
+msgctxt "Unable to load CMS Blocks without value_id."
 msgid "Unable to load CMS Blocks without value_id."
 msgstr "Nicht laden CMS-Blöcke ohne value_id."
 
+msgctxt "Unable to parse certificate."
 msgid "Unable to parse certificate."
 msgstr "Unable to parse certificate."
 
+msgctxt "Unable to retrieve 2Checkout subscription, tray again later."
 msgid "Unable to retrieve 2Checkout subscription, tray again later."
 msgstr "Unable to retrieve 2Checkout Abonnement, Tablett später wieder."
 
+msgctxt "Unable to update a user from here."
 msgid "Unable to update a user from here."
 msgstr "Kann nicht zum aktualisieren einer user von hier."
 
+msgctxt "Unauthorized access to feature."
 msgid "Unauthorized access to feature."
 msgstr "Unbefugten Zugriff zu verfügen."
 
+msgctxt "Unified homepage"
 msgid "Unified homepage"
 msgstr "Unified homepage"
 
+msgctxt "Unified splashscreen"
 msgid "Unified splashscreen"
 msgstr "Unified splashscreen"
 
+msgctxt "Unknown action for this module."
 msgid "Unknown action for this module."
 msgstr "Unbekannte Aktion für dieses Modul."
 
+msgctxt "Unkown error!"
 msgid "Unkown error!"
 msgstr "Unkown error!"
 
+msgctxt "Until %s"
 msgid "Until %s"
 msgstr "Bis %s"
 
+msgctxt "Upgrade required"
 msgid "Upgrade required"
 msgstr "Upgrade erforderlich"
 
+msgctxt "Upload your %s file below."
 msgid "Upload your %s file below."
 msgstr "Laden Sie Ihre %s-Datei unten."
 
+msgctxt "User: "
 msgid "User: "
 msgstr "Benutzer: "
 
+msgctxt "User ID:"
 msgid "User ID:"
 msgstr "Benutzer-ID:"
 
+msgctxt "User cancelled his Subscription!"
 msgid "User cancelled his Subscription!"
 msgstr "Benutzer abgebrochen sein Abonnement!"
 
+msgctxt "User email:"
 msgid "User email:"
 msgstr "Benutzer-E-Mail:"
 
+msgctxt "User name"
 msgid "User name"
 msgstr "Benutzername"
 
+msgctxt "Username:"
 msgid "Username:"
 msgstr "Benutzername:"
 
+msgctxt "View the Application"
 msgid "View the Application"
 msgstr "Ansicht die Anwendung"
 
+msgctxt ""
+"We are sorry but our Wordpress plugin hasn't been detected on your website. "
+"Please be sure it is correctly installed and activated."
 msgid ""
 "We are sorry but our Wordpress plugin hasn't been detected on your website. "
 "Please be sure it is correctly installed and activated."
@@ -1349,16 +1791,22 @@ msgstr ""
 "gefunden. Bitte überprüfen Sie, ob sie das Plugin korrekt installiert haben "
 "und es aktiviert ist."
 
+msgctxt "We are sorry but this nickname is already used."
 msgid "We are sorry but this nickname is already used."
 msgstr "Tut uns Leid, aber dieser nickname wird schon benutzt."
 
+msgctxt "We can't delete the only application from your installation."
 msgid "We can't delete the only application from your installation."
 msgstr ""
 "Wir nicht löschen können, die einzige Anwendung, die aus Ihrer installation."
 
+msgctxt "We were unable to determine your %s version."
 msgid "We were unable to determine your %s version."
 msgstr "Wir waren nicht in der Lage, um zu bestimmen, Ihre %s-version."
 
+msgctxt ""
+"We were unable to find your last payment for the subscription of the "
+"Application <b>%s</b>"
 msgid ""
 "We were unable to find your last payment for the subscription of the "
 "Application <b>%s</b>"
@@ -1366,24 +1814,34 @@ msgstr ""
 "Wir waren nicht in der Lage zu finden, Ihre Letzte Zahlung für das "
 "Abonnement der Anwendung <b>%s</b>"
 
+msgctxt "Website:"
 msgid "Website:"
 msgstr "Website:"
 
+msgctxt "Welcome on our Platform %s"
 msgid "Welcome on our Platform %s"
 msgstr "Herzlich willkommen auf unserer Plattform, %s"
 
+msgctxt "White"
 msgid "White"
 msgstr "Weiß"
 
+msgctxt "Xcode 9.2"
 msgid "Xcode 9.2"
 msgstr "Xcode 9.2"
 
+msgctxt "Yes, Delete!"
 msgid "Yes, Delete!"
 msgstr "Ja, Löschen!!!"
 
+msgctxt "Yes, Proceed to update!"
 msgid "Yes, Proceed to update!"
 msgstr "Ja, Gehen Sie zu update!"
 
+msgctxt ""
+"You are about to cancel this subscription, the payments will be stopped, and "
+"the application will be disabled!<br />You can enter a customer message "
+"below to inform the Application owner!<br /><br />"
 msgid ""
 "You are about to cancel this subscription, the payments will be stopped, and "
 "the application will be disabled!<br />You can enter a customer message "
@@ -1393,6 +1851,9 @@ msgstr ""
 "die Anwendung wird deaktiviert!<br />können Sie einen Kunden nachstehende "
 "Meldung zu informieren, die Anwendung Besitzer!<br /><br />"
 
+msgctxt ""
+"You are about to update to version %s, this version introduces breaking "
+"changes in the platform,"
 msgid ""
 "You are about to update to version %s, this version introduces breaking "
 "changes in the platform,"
@@ -1400,6 +1861,9 @@ msgstr ""
 "Sie sind über ein update auf version %s, diese version enthält wichtige "
 "änderungen in der Plattform,"
 
+msgctxt ""
+"You are going to love it!<br />Thanks to our effective features, you will be "
+"able to create great mobile apps in your name, within minutes."
 msgid ""
 "You are going to love it!<br />Thanks to our effective features, you will be "
 "able to create great mobile apps in your name, within minutes."
@@ -1408,73 +1872,98 @@ msgstr ""
 "der Lage sein, um großartige mobile apps in Ihrem Namen, innerhalb von "
 "Minuten."
 
+msgctxt "You are not allowed to access this page"
 msgid "You are not allowed to access this page"
 msgstr "Sie sind nicht berechtigt, diese Seite zu betreten"
 
+msgctxt "You are not allowed to cancel child subscriptions."
 msgid "You are not allowed to cancel child subscriptions."
 msgstr "Sie sind nicht berechtigt zu kündigen, Kind Abonnements."
 
+msgctxt "You are not allowed to cancel free subscriptions."
 msgid "You are not allowed to cancel free subscriptions."
 msgstr "Sie dürfen nicht stornieren Kostenlose Abonnements."
 
+msgctxt "You are not allowed to cancel offline/paid subscriptions."
 msgid "You are not allowed to cancel offline/paid subscriptions."
 msgstr ""
 "Sie sind nicht berechtigt zu kündigen offline/kostenpflichtige Abonnements."
 
+msgctxt "You are not allowed to cancel online/paid subscriptions."
 msgid "You are not allowed to cancel online/paid subscriptions."
 msgstr "Sie sind nicht berechtigt zu kündigen, online - /bezahlte Abonnements."
 
+msgctxt "You are not allowed to delete applications."
 msgid "You are not allowed to delete applications."
 msgstr "Sie dürfen nicht zum löschen von Anwendungen."
 
+msgctxt "You can activate <b>%s</b> more App%s"
 msgid "You can activate <b>%s</b> more App%s"
 msgstr "Aktivieren Sie <b>%s</b> mehr App%s"
 
+msgctxt "You can contact your Administrator to get more informations."
 msgid "You can contact your Administrator to get more informations."
 msgstr "Können Sie sich an Ihren Administrator, um mehr Informationen."
 
+msgctxt "You can disable a template globally!"
 msgid "You can disable a template globally!"
 msgstr "Sie können deaktivieren Sie eine Vorlage, weltweit!"
 
+msgctxt "You can only edit offline subscriptions!"
 msgid "You can only edit offline subscriptions!"
 msgstr "Sie können nur Bearbeiten, offline-Abos!"
 
+msgctxt "You can publish <b>up to %s Apps</b>"
 msgid "You can publish <b>up to %s Apps</b>"
 msgstr "Veröffentlichen Sie <b>bis zu %s Apps</b>"
 
+msgctxt "You cannot add a Folder feature inside a folder!"
 msgid "You cannot add a Folder feature inside a folder!"
 msgstr "Sie können einen Ordner hinzufügen-Funktion in einen Ordner!"
 
+msgctxt "You cannot change Firewall settings, it's a demo version."
 msgid "You cannot change Firewall settings, it's a demo version."
 msgstr "Sie können die Firewall-Einstellungen ändern, es ist eine demo-version."
 
+msgctxt "You cannot change translation, it's a demo version."
 msgid "You cannot change translation, it's a demo version."
 msgstr "Sie können nicht ändern, übersetzung, es ist eine demo-version."
 
+msgctxt "You can't activate an online subscription!"
 msgid "You can't activate an online subscription!"
 msgstr "Sie können nicht aktivieren, ein online-Abo!"
 
+msgctxt ""
+"You can't assign a role to this child role, this will break the hierarchy!"
 msgid ""
 "You can't assign a role to this child role, this will break the hierarchy!"
 msgstr ""
 "Sie können nicht zuweisen einer Rolle zu dieser untergeordneten Rolle, dies "
 "wird brechen die Hierarchie!"
 
+msgctxt "You can't deactivate an online subscription!"
 msgid "You can't deactivate an online subscription!"
 msgstr "Sie können nicht deaktivieren Sie ein online-Abo!"
 
+msgctxt "You can't go back to Angular."
 msgid "You can't go back to Angular."
 msgstr "Sie können nicht zurück zu Eckig."
 
+msgctxt "You can't go back with Angular."
 msgid "You can't go back with Angular."
 msgstr "Sie können nicht zurück mit Winkelgetriebe."
 
+msgctxt "You don't have any plans yet"
 msgid "You don't have any plans yet"
 msgstr "Sie haben keine Pläne noch"
 
+msgctxt "You don't have created any taxes yet"
 msgid "You don't have created any taxes yet"
 msgstr "Sie nicht erstellt haben, die Steuern noch"
 
+msgctxt ""
+"You have exceeded the number of attempts to validate points.<br />Your card "
+"is locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points.<br />Your card "
 "is locked for 24h"
@@ -1482,23 +1971,32 @@ msgstr ""
 "Sie überschritten die Anzahl der versuche zu validieren Punkte.<br />Ihre "
 "Karte ist gesperrt für 24h"
 
+msgctxt "You have no subscription."
 msgid "You have no subscription."
 msgstr "Sie haben kein Abo."
 
+msgctxt ""
+"You have no subscription with free slots, please proceed to a new purchase."
 msgid ""
 "You have no subscription with free slots, please proceed to a new purchase."
 msgstr ""
 "Sie haben kein Abo mit gratis slots, gehen Sie bitte zu einem neuen Kauf."
 
+msgctxt "You have no users."
 msgid "You have no users."
 msgstr "Sie haben keine Benutzer."
 
+msgctxt "You have no whitelabel yet."
 msgid "You have no whitelabel yet."
 msgstr "Sie haben keine whitelabel-noch."
 
+msgctxt "You have received a publication request:"
 msgid "You have received a publication request:"
 msgstr "Sie haben eine Publikation der Anfrage:"
 
+msgctxt ""
+"You manually handle the payments via check, cash, etc... and activations/"
+"deactivations."
 msgid ""
 "You manually handle the payments via check, cash, etc... and activations/"
 "deactivations."
@@ -1506,15 +2004,21 @@ msgstr ""
 "Sie manuell behandeln die Zahlungen per Scheck, Bargeld, etc... und "
 "Aktivierungen/deaktivierungen erfolgen."
 
+msgctxt "You must be connected to create a post!"
 msgid "You must be connected to create a post!"
 msgstr "Sie müssen angeschlossen werden, um einen Beitrag erstellen!"
 
+msgctxt "You must select a subscription!"
 msgid "You must select a subscription!"
 msgstr "Sie müssen wählen Sie ein Abonnement!"
 
+msgctxt "You must select an existing subscription!"
 msgid "You must select an existing subscription!"
 msgstr "Sie müssen wählen Sie ein vorhandenes Abonnement!"
 
+msgctxt ""
+"You must set a Google Maps API Key in <b>Settings > Advanced</b> in order to "
+"use this feature."
 msgid ""
 "You must set a Google Maps API Key in <b>Settings > Advanced</b> in order to "
 "use this feature."
@@ -1522,9 +2026,13 @@ msgstr ""
 "Sie müssen einen Google Maps API Key in <b>Einstellungen > Erweitert</b>, um "
 "diese Funktion zu nutzen."
 
+msgctxt "You must upgrade Java to 1.8"
 msgid "You must upgrade Java to 1.8"
 msgstr "Sie müssen aktualisieren Sie Java auf 1.8"
 
+msgctxt ""
+"You will disable the current Application subscription!<br />You can enter a "
+"customer message below to inform the Application owner!<br /><br />"
 msgid ""
 "You will disable the current Application subscription!<br />You can enter a "
 "customer message below to inform the Application owner!<br /><br />"
@@ -1533,6 +2041,9 @@ msgstr ""
 "Kunden nachstehende Meldung zu informieren, die Anwendung Besitzer!<br /><br "
 "/>"
 
+msgctxt ""
+"You will enable the current Application subscription!<br />You can enter a "
+"customer message below to inform the Application owner!<br /><br />"
 msgid ""
 "You will enable the current Application subscription!<br />You can enter a "
 "customer message below to inform the Application owner!<br /><br />"
@@ -1541,9 +2052,13 @@ msgstr ""
 "Kunden nachstehende Meldung zu informieren, die Anwendung Besitzer!<br /><br "
 "/>"
 
+msgctxt "Your APK is being generated. Please come back in a few minutes."
 msgid "Your APK is being generated. Please come back in a few minutes."
 msgstr "Ihre APK generiert wird. Bitte komm zurück in ein paar Minuten."
 
+msgctxt ""
+"Your PHP version %s is not supported, PHP versions from 5.6 to 7.0 are "
+"supported."
 msgid ""
 "Your PHP version %s is not supported, PHP versions from 5.6 to 7.0 are "
 "supported."
@@ -1551,6 +2066,9 @@ msgstr ""
 "Ihre PHP-version %s wird nicht unterstützt, PHP-Versionen von 5.6 bis 7.0 "
 "werden unterstützt."
 
+msgctxt ""
+"Your account doesn't exists on editor side. Please create it before using "
+"tour edition."
 msgid ""
 "Your account doesn't exists on editor side. Please create it before using "
 "tour edition."
@@ -1558,30 +2076,41 @@ msgstr ""
 "Ihrem Konto nicht existiert, auf die editor-Seite. Bitte erstellen Sie vor "
 "der Verwendung von tour edition."
 
+msgctxt "Your application has been successfully added to your subscription!"
 msgid "Your application has been successfully added to your subscription!"
 msgstr "Ihre Bewerbung wurde erfolgreich Hinzugefügt, um Ihr Abonnement!"
 
+msgctxt "Your %s version is %s."
 msgid "Your %s version is %s."
 msgstr "Ihre %s-version ist %s."
 
+msgctxt "Your subscription expired!"
 msgid "Your subscription expired!"
 msgstr "Ihr Abonnement ist abgelaufen!"
 
+msgctxt "Your subscription was automatically cancelled."
 msgid "Your subscription was automatically cancelled."
 msgstr "Ihr Abonnement wurde automatisch storniert."
 
+msgctxt "Your subscription was manually cancelled."
 msgid "Your subscription was manually cancelled."
 msgstr "Ihr Abonnement manuell abgebrochen wurde."
 
+msgctxt "Zip Code:"
 msgid "Zip Code:"
 msgstr "Postleitzahl"
 
+msgctxt "Zone overlay"
 msgid "Zone overlay"
 msgstr "Zone overlay"
 
+msgctxt "<b>Danger zone</b>: below you can definitively delete your account."
 msgid "<b>Danger zone</b>: below you can definitively delete your account."
 msgstr "<b>Danger zone</b>: hier können Sie endgültig löschen Ihr Konto."
 
+msgctxt ""
+"<b>Warning:</b> translation API is experimental for the current language and "
+"may fail."
 msgid ""
 "<b>Warning:</b> translation API is experimental for the current language and "
 "may fail."
@@ -1589,6 +2118,9 @@ msgstr ""
 "<b>Warnung:</b> übersetzungs-API ist experimentell für die aktuelle Sprache "
 "und kann fehlschlagen."
 
+msgctxt ""
+"before updating we strongly advise you to read the release note and the "
+"following document."
 msgid ""
 "before updating we strongly advise you to read the release note and the "
 "following document."
@@ -1596,38 +2128,50 @@ msgstr ""
 "vor dem Update empfehlen wir Ihnen, Lesen Sie die release note und dem "
 "folgenden Dokument."
 
+msgctxt "<b>%s</b> is not supported with the current currency <b>%s</b>!"
 msgid "<b>%s</b> is not supported with the current currency <b>%s</b>!"
 msgstr "<b>%s</b> nicht unterstützt mit der aktuellen Währung <b>%s</b>!"
 
+msgctxt "dismiss"
 msgid "dismiss"
 msgstr "entlassen"
 
+msgctxt "home/features/admin_marque_blanche.png"
 msgid "home/features/admin_marque_blanche.png"
 msgstr "home/features/admin_marque_blanche.png"
 
+msgctxt "home/features/appel_en_un_clique.png"
 msgid "home/features/appel_en_un_clique.png"
 msgstr "home/features/appel_en_un_clique.png"
 
+msgctxt "home/features/geolocalisation.png"
 msgid "home/features/geolocalisation.png"
 msgstr "home/features/Geolokalisierung.png"
 
+msgctxt "home/features/listing_produits.png"
 msgid "home/features/listing_produits.png"
 msgstr "home/features/listing_produits.png"
 
+msgctxt "iOS Descriptions saved!"
 msgid "iOS Descriptions saved!"
 msgstr "iOS-Beschreibungen gespeichert!"
 
+msgctxt "iPhone X:"
 msgid "iPhone X:"
 msgstr "iPhone X:"
 
+msgctxt "password"
 msgid "password"
 msgstr "Passwort"
 
+msgctxt "%s Image%s"
 msgid "%s Image%s"
 msgstr "%s Image%s"
 
+msgctxt "%s %s"
 msgid "%s %s"
 msgstr ""
 
+msgctxt "you know it!"
 msgid "you know it!"
 msgstr "Sie wissen es!"

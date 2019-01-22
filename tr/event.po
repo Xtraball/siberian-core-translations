@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Turkish <http://translate.siberiancms.com/projects/siberian/"
-"event/tr/>\n"
+"Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/event/tr/"
+">\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,119 +14,158 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a Website"
 msgid "Add a Website"
 msgstr "Websitesi Ekle"
 
+msgctxt "Address:"
 msgid "Address:"
 msgstr "Adres:"
 
+msgctxt "An error occurred while deleting the event"
 msgid "An error occurred while deleting the event"
 msgstr "Etkinlik silinirken bir hata oluştu"
 
+msgctxt "An error occurred while loading this event"
 msgid "An error occurred while loading this event"
 msgstr "Etkinlik yüklenirken bir hata oluştu"
 
+msgctxt "Beginning date:"
 msgid "Beginning date:"
 msgstr "Başlangıç tarihi:"
 
+msgctxt "Beginning time:"
 msgid "Beginning time:"
 msgstr "Başlangıç zamanı:"
 
+msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr "Biletleri Satın al"
 
+msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr "Bilet Satın Al"
 
+msgctxt "Calendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Takvim başarıyla silindi"
 
+msgctxt "Calendar's URL"
 msgid "Calendar's URL"
 msgstr "Takvim URL"
 
+msgctxt "Calendar's title"
 msgid "Calendar's title"
 msgstr "Takvim başlığı"
 
+msgctxt "Change picture"
 msgid "Change picture"
 msgstr "Resmi değiştir"
 
+msgctxt "Create a new event"
 msgid "Create a new event"
 msgstr "Yeni bir etkinlik oluştur"
 
+msgctxt "Custom Calendar"
 msgid "Custom Calendar"
 msgstr "Özel Takvim"
 
+msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "Müşteri Sayfası"
 
+msgctxt "Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Takvim silinsin mi?"
 
+msgctxt "Delete this event?"
 msgid "Delete this event?"
 msgstr "Etkinlik silinsin mi?"
 
+msgctxt "Ending date:"
 msgid "Ending date:"
 msgstr "Bitiş tarihi:"
 
+msgctxt "Enter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Takviminizin başlığını girin"
 
+msgctxt "Entrance:"
 msgid "Entrance:"
 msgstr "Başlama:"
 
+msgctxt "Entrance: %s"
 msgid "Entrance: %s"
 msgstr "Başlama: %s"
 
+msgctxt "Event"
 msgid "Event"
 msgstr "Etkinlik"
 
+msgctxt "Event successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Etkinlik başarıyla silindi"
 
+msgctxt "Event successfully saved"
 msgid "Event successfully saved"
 msgstr "Etkinlik başarıyla kaydedildi"
 
+msgctxt "Event title:"
 msgid "Event title:"
 msgstr "Etkinlik başlığı:"
 
+msgctxt "Illustration:"
 msgid "Illustration:"
 msgstr "Örnekleme:"
 
+msgctxt "Location:"
 msgid "Location:"
 msgstr "Lokasyon:"
 
+msgctxt "Max size: 2000x2000px - allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Max boyut: 2000x2000px – izin verilen formatlar: jpg & png"
 
+msgctxt "Modify the event"
 msgid "Modify the event"
 msgstr "Etkinliği düzenleyin"
 
+msgctxt "RSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
+msgctxt "RSVP URL:"
 msgid "RSVP URL:"
 msgstr "RSVP URL:"
 
+msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr "Altyazı:"
 
+msgctxt "Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr "Bilet Satış URL:"
 
+msgctxt "To:"
 msgid "To:"
 msgstr ""
 
+msgctxt "Your Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "Facebook sayfa ID si"
 
+msgctxt "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr "Facebook sayfa ID <span class=\" required-entry\">*</span> :"
 
+msgctxt "Your calendar is empty"
 msgid "Your calendar is empty"
 msgstr "Takviminiz boş"
 
+msgctxt "iCal"
 msgid "iCal"
 msgstr "iCal"
 
+msgctxt "to"
 msgid "to"
 msgstr "ve"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/template/"
@@ -14,59 +14,78 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "All"
 msgid "All"
 msgstr "Vše"
 
+msgctxt "Arts"
 msgid "Arts"
 msgstr ""
 
+msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Vyberte si předlohu k úpravě"
 
+msgctxt "City"
 msgid "City"
 msgstr "Město"
 
+msgctxt "Corporate"
 msgid "Corporate"
 msgstr ""
 
+msgctxt "Design"
 msgid "Design"
 msgstr "Design"
 
+msgctxt "Education"
 msgid "Education"
 msgstr "Vzdělání"
 
+msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Zábava"
 
+msgctxt "Fashion"
 msgid "Fashion"
 msgstr "Móda"
 
+msgctxt "Health & Beauty"
 msgid "Health & Beauty"
 msgstr "Zdraví a krása"
 
+msgctxt "Hotels"
 msgid "Hotels"
 msgstr "Hotely"
 
+msgctxt "List of your categories"
 msgid "List of your categories"
 msgstr "Seznam kategorií"
 
+msgctxt "Local Business"
 msgid "Local Business"
 msgstr "Restaurace"
 
+msgctxt "Music"
 msgid "Music"
 msgstr "Hudba"
 
+msgctxt "Organizations"
 msgid "Organizations"
 msgstr "Organizace"
 
+msgctxt "Real Estate"
 msgid "Real Estate"
 msgstr "Realitní kancelář"
 
+msgctxt "Sports"
 msgid "Sports"
 msgstr "Sport"
 
+msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "VZORY"
 
+msgctxt "Templates"
 msgid "Templates"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
@@ -14,50 +14,66 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "A month"
 msgid "A month"
 msgstr "Um mês"
 
+msgctxt "A week"
 msgid "A week"
 msgstr "Uma semana"
 
+msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Competidores"
 
+msgctxt "Current game"
 msgid "Current game"
 msgstr "Jogo Atual"
 
+msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Atualmente não há competidores"
 
+msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Nome do Jogo"
 
+msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Jogo salvo com sucesso"
 
+msgctxt "Next game"
 msgid "Next game"
 msgstr "Próximo Jogo"
 
+msgctxt "On the"
 msgid "On the"
 msgstr "No"
 
+msgctxt "Period"
 msgid "Period"
 msgstr "Período"
 
+msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Periodicidade"
 
+msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Data Publicação"
 
+msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Ranking do mês"
 
+msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Ranking da semana"
 
+msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "Líder do Jogo"
 
+msgctxt "%s point%s"
 msgid "%s point%s"
 msgstr "%s ponto%s"

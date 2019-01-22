@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/"
@@ -14,126 +14,167 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "punt 1 lleialtat ="
 
+msgctxt "1 point"
 msgid "1 point"
 msgstr "1 punt validat"
 
+msgctxt "1 validated point ="
 msgid "1 validated point ="
 msgstr ""
 
+msgctxt "An error occurred while retrieving QRCode. Please try again later"
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr ""
 "S'ha produït un error en pujar el fitxer. Si us plau, torneu a intentar-ho "
 "més tard."
 
+msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
 msgstr ""
 "S'ha produït un error mentre es desava la contrasenya. Si us plau provar una "
 "altra vegada més tard"
 
+msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "S'ha produït un error mentre es desava la targeta de fidelització."
 
+msgctxt ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
 msgid ""
 "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr ""
 "S'ha produït un error mentre es desava la targeta de fidelització. Empleneu "
 "tots els camps."
 
+msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
 msgstr ""
 "S'ha produït un error en validar el punt. Si us plau provar una altra vegada "
 "més tard."
 
+msgctxt "An error occurred with your QRCode."
 msgid "An error occurred with your QRCode."
 msgstr ""
 
+msgctxt "Card name"
 msgid "Card name"
 msgstr "Nom de la targeta"
 
+msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "Felicitacions"
 
+msgctxt "Current card"
 msgid "Current card"
 msgstr "Targeta actual"
 
+msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "Voleu suprimir aquesta contrasenya?"
 
+msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "Nom del treballador:"
 
+msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "Contrasenya del treballador:"
 
+msgctxt "Enter password"
 msgid "Enter password"
 msgstr "Introduïu la contrasenya"
 
+msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "Introduïu la contrasenya"
 
+msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "La meva nova targeta de fidelització"
 
+msgctxt "My passwords"
 msgid "My passwords"
 msgstr "Meves contrasenyes"
 
+msgctxt "No cards available"
 msgid "No cards available"
 msgstr ""
 
+msgctxt "Number of points"
 msgid "Number of points"
 msgstr "Nombre de punts"
 
+msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Introduïu un nom"
 
+msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "Si us plau, introdueixi la contrasenya"
 
+msgctxt ""
+"Please show your phone to the store person so that he enters his password"
 msgid ""
 "Please show your phone to the store person so that he enters his password"
 msgstr ""
 "Si us plau mostri el seu telèfon a la botiga de persona que entra a la "
 "contrasenya"
 
+msgctxt "Point active"
 msgid "Point active"
 msgstr ""
 
+msgctxt "Point inactive"
 msgid "Point inactive"
 msgstr ""
 
+msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Punt validat correctament %s"
 
+msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "Cartes anteriors"
 
+msgctxt "Reward"
 msgid "Reward"
 msgstr "Recompensa"
 
+msgctxt "Rewards"
 msgid "Rewards"
 msgstr "Recompensa"
 
+msgctxt "Scan QRCode"
 msgid "Scan QRCode"
 msgstr ""
 
+msgctxt "This card is uniq:"
 msgid "This card is uniq:"
 msgstr ""
 
+msgctxt "Unlock by QRCode"
 msgid "Unlock by QRCode"
 msgstr ""
 
+msgctxt "Unreadable QRCode, sorry."
 msgid "Unreadable QRCode, sorry."
 msgstr ""
 
+msgctxt "Use only once?"
 msgid "Use only once?"
 msgstr "utilitzar només una vegada"
 
+msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Ho sentim però aquesta targeta està temporalment bloquejat"
 
+msgctxt ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
 msgid ""
 "Wrong password. Be carefull! %d remaining attempt%s before locking your "
 "card. Ask the store person for validating your point"
@@ -142,6 +183,9 @@ msgstr ""
 "tancar la seva targeta. Pregunti a la persona de botiga per a validar el seu "
 "punt"
 
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -150,6 +194,9 @@ msgstr ""
 "tancar la seva targeta. Pregunti a la persona de botiga per a validar el seu "
 "punt"
 
+msgctxt ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points. Your card is "
 "locked for 24h"
@@ -157,29 +204,38 @@ msgstr ""
 "Heu superat el nombre d'intents per validar punts. La targeta està blocada "
 "per a 24h"
 
+msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "Que acaba de finalitzar la targeta"
 
+msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "Vostè estar enregistat per validar punts"
 
+msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "Targeta fidelitat s'ha desat correctament"
 
+msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "La contrasenya ha de ser 4 dígits"
 
+msgctxt "is now yours!"
 msgid "is now yours!"
 msgstr ""
 
+msgctxt "point"
 msgid "point"
 msgstr "punt"
 
+msgctxt "point to validate"
 msgid "point to validate"
 msgstr "punt per validar"
 
+msgctxt "points to validate"
 msgid "points to validate"
 msgstr "punts per validar"
 
+msgctxt "validated points ="
 msgid "validated points ="
 msgstr ""

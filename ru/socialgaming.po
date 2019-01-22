@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/"
@@ -15,50 +15,66 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "A month"
 msgid "A month"
 msgstr "Месяцы"
 
+msgctxt "A week"
 msgid "A week"
 msgstr "Недели"
 
+msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Претенденты"
 
+msgctxt "Current game"
 msgid "Current game"
 msgstr "Текущая игра"
 
+msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "В настоящее время отсутствуют претенденты"
 
+msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Название игры"
 
+msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Игра успешно сохранена"
 
+msgctxt "Next game"
 msgid "Next game"
 msgstr "Следующая игра"
 
+msgctxt "On the"
 msgid "On the"
 msgstr "На"
 
+msgctxt "Period"
 msgid "Period"
 msgstr "Период"
 
+msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Периодичность"
 
+msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Дата публикации"
 
+msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Звание месяца"
 
+msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Звание недели"
 
+msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "Лидер группы"
 
+msgctxt "%s point%s"
 msgid "%s point%s"
 msgstr "%s пункт%s"

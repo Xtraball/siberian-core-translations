@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:25+0000\n"
+"POT-Creation-Date: 2019-01-22 10:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/weblink/"
@@ -14,71 +14,94 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Bir link ekle"
 
+msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr "Resminiz kaydedilirken bir hata oluştu. Daha sonra tekrar deneyiniz."
 
+msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Bu bağlantıyı silmek istediğinizden emin misiniz?"
 
+msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Bu resmi silmek istediğinizden emin misiniz?"
 
+msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr "Magento URLnizi giriniz"
 
+msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr "Prestashop URLnizi  giriniz"
 
+msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr "Shopify URLnizi  giriniz"
 
+msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr "Volusion URLnizi  giriniz"
 
+msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr "WooCommerce URLnizi  giriniz"
 
+msgctxt "Link"
 msgid "Link"
 msgstr "Link"
 
+msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "Bağlantı başarıyla silindi"
 
+msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "Bağlantı başarıyla kaydedildi"
 
+msgctxt "Magento"
 msgid "Magento"
 msgstr "Magento"
 
+msgctxt "Picto"
 msgid "Picto"
 msgstr "Resim"
 
+msgctxt "Prestashop"
 msgid "Prestashop"
 msgstr "Prestashop"
 
+msgctxt "Shopify"
 msgid "Shopify"
 msgstr "Shopify"
 
+msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "Görüntü başarıyla silindi"
 
+msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "Görüntü başarıyla kaydedildi"
 
+msgctxt "Use external application"
 msgid "Use external application"
 msgstr "Harici uygulama kullan"
 
+msgctxt "Volusion"
 msgid "Volusion"
 msgstr "Volusion"
 
+msgctxt "Without navbar"
 msgid "Without navbar"
 msgstr "Gezinti çubuğu olmadan"
 
+msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
+msgctxt "Your links"
 msgid "Your links"
 msgstr "Linkleriniz"

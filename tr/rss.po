@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:25+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/rss/tr/>"
@@ -14,32 +14,42 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving your RSS feed"
 msgid "An error occurred while saving your RSS feed"
 msgstr "RSS beslemesi kaydedilirken bir hata oluştu"
 
+msgctxt "Display feed pictures whenever possible"
 msgid "Display feed pictures whenever possible"
 msgstr "Ekran geribesleme resimleri herzaman mümkün"
 
+msgctxt "Enter the URL of this RSS feed"
 msgid "Enter the URL of this RSS feed"
 msgstr "Bu RSS beslemesine URL'sini girin"
 
+msgctxt "Found feeds"
 msgid "Found feeds"
 msgstr "Bulunan beslemeler"
 
+msgctxt "No RSS feed could be found"
 msgid "No RSS feed could be found"
 msgstr "RSS besleme bulunamadı"
 
+msgctxt "RSS feed successfully saved"
 msgid "RSS feed successfully saved"
 msgstr "RSS beslemesi başarıyla kaydedildi"
 
+msgctxt "Show article"
 msgid "Show article"
 msgstr "Makale göster"
 
+msgctxt "day"
 msgid "day"
 msgstr "gün"
 
+msgctxt "hour"
 msgid "hour"
 msgstr "saat"
 
+msgctxt "minute"
 msgid "minute"
 msgstr "dakika"

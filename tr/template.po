@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:25+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/template/"
@@ -14,59 +14,78 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "All"
 msgid "All"
 msgstr "Tümü"
 
+msgctxt "Arts"
 msgid "Arts"
 msgstr "Sanat"
 
+msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Düzenleme yapmak için bir tema seçiniz"
 
+msgctxt "City"
 msgid "City"
 msgstr "Şehir"
 
+msgctxt "Corporate"
 msgid "Corporate"
 msgstr "Kurumsal"
 
+msgctxt "Design"
 msgid "Design"
 msgstr "Tasarım"
 
+msgctxt "Education"
 msgid "Education"
 msgstr "Eğitim"
 
+msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Eğlence"
 
+msgctxt "Fashion"
 msgid "Fashion"
 msgstr "Moda"
 
+msgctxt "Health & Beauty"
 msgid "Health & Beauty"
 msgstr "Sağlık ve Güzellik"
 
+msgctxt "Hotels"
 msgid "Hotels"
 msgstr "Oteller"
 
+msgctxt "List of your categories"
 msgid "List of your categories"
 msgstr "Kategoriler listesi"
 
+msgctxt "Local Business"
 msgid "Local Business"
 msgstr "Yerel işletme"
 
+msgctxt "Music"
 msgid "Music"
 msgstr "Müzik"
 
+msgctxt "Organizations"
 msgid "Organizations"
 msgstr "Organizasyon"
 
+msgctxt "Real Estate"
 msgid "Real Estate"
 msgstr "Gayrimenkul"
 
+msgctxt "Sports"
 msgid "Sports"
 msgstr "Spor"
 
+msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "ŞABLONLAR"
 
+msgctxt "Templates"
 msgid "Templates"
 msgstr "Şablonları"

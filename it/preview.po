@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Italian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian <http://yvain.xtraball.com/projects/siberian/preview/"
@@ -14,105 +14,139 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add"
 msgid "Add"
 msgstr "Aggiungi"
 
+msgctxt "An error occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr ""
 "Si è verificato un errore durante il processo. Per favore riprova più tardi."
 
+msgctxt "An error occurred while deleting your preview. Please try again later."
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr ""
 "Si è verificato un errore nella cancellazione della tua anteprima. Per "
 "favore riprova più tardi."
 
+msgctxt "An error occurred while saving your previews. Please try again later."
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr ""
 "Si è verificato un errore nel salvataggio della tua anteprima. Per favore "
 "riprova più tardi."
 
+msgctxt "Click here to send your image"
 msgid "Click here to send your image"
 msgstr "Clicca qui per inviare la tua immagine"
 
+msgctxt "Create a new preview"
 msgid "Create a new preview"
 msgstr "Crea una nuova anteprima"
 
+msgctxt "Delete image"
 msgid "Delete image"
 msgstr "Cancella l'immagine"
 
+msgctxt "Delete translation"
 msgid "Delete translation"
 msgstr "Cancella traduzione"
 
+msgctxt "Description"
 msgid "Description"
 msgstr "Descrizione"
 
+msgctxt "Drag and drop images to reorder them."
 msgid "Drag and drop images to reorder them."
 msgstr "Trascina e rilascia le immagini per riordinarle."
 
+msgctxt "Drop your image here"
 msgid "Drop your image here"
 msgstr "Inserisci la tua immagine qui"
 
+msgctxt "Edit the preview"
 msgid "Edit the preview"
 msgstr "Modifica l'anteprima"
 
+msgctxt "Existing images :"
 msgid "Existing images :"
 msgstr "Immagini esistenti:"
 
+msgctxt "Feature"
 msgid "Feature"
 msgstr "Funzioni"
 
+msgctxt "Language"
 msgid "Language"
 msgstr ""
 
+msgctxt "List of existing previews"
 msgid "List of existing previews"
 msgstr ""
 
+msgctxt "OR"
 msgid "OR"
 msgstr ""
 
+msgctxt "Preview images"
 msgid "Preview images"
 msgstr ""
 
+msgctxt "Preview successfully saved"
 msgid "Preview successfully saved"
 msgstr "Stampante salvata con successo"
 
+msgctxt "Previews"
 msgid "Previews"
 msgstr "Anterime"
 
+msgctxt "Search"
 msgid "Search"
 msgstr "Cerca"
 
+msgctxt ""
+"Sorry, but an existing preview for this feature has been found. Please edit "
+"existing one."
 msgid ""
 "Sorry, but an existing preview for this feature has been found. Please edit "
 "existing one."
 msgstr ""
 
+msgctxt "Title"
 msgid "Title"
 msgstr "Titolo"
 
+msgctxt "Unable to copy the file."
 msgid "Unable to copy the file."
 msgstr "Impossibile aprire l'archivio."
 
+msgctxt "Unable to create the directory."
 msgid "Unable to create the directory."
 msgstr ""
 
+msgctxt "Unable to delete the file."
 msgid "Unable to delete the file."
 msgstr ""
 
+msgctxt "Unable to delete the file %s"
 msgid "Unable to delete the file %s"
 msgstr ""
 
+msgctxt "You don't have any previews yet"
 msgid "You don't have any previews yet"
 msgstr "Non hai ancora nessun ruolo"
 
+msgctxt "Your image has been successfully saved"
 msgid "Your image has been successfully saved"
 msgstr "Il tuo messaggio è stato salvato con successo"
 
+msgctxt "Your preview has been deleted successfully."
 msgid "Your preview has been deleted successfully."
 msgstr "Il ruolo è stato cancellato con successo"
 
+msgctxt "Your preview translation has been deleted successfully."
 msgid "Your preview translation has been deleted successfully."
 msgstr "Il ruolo è stato cancellato con successo"
 
+msgctxt "<b>File types:</b> %s<br />"
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Tipi di file:</b> %s<br/>"

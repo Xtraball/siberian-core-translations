@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/"
@@ -14,115 +14,154 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "-"
 msgid "-"
 msgstr ""
 
+msgctxt " \"Remove this page from this folder?\""
 msgid " \"Remove this page from this folder?\""
 msgstr "¿Esta seguro que desea eliminar la pagina de esta carpeta?"
 
+msgctxt "#100: Unable to fetch the update. Please, try again later."
 msgid "#100: Unable to fetch the update. Please, try again later."
 msgstr ""
 "No es posible realizar la actualizacion. Por favor, pruebe de nuevo mas "
 "tarde."
 
+msgctxt "#101: An error occurred while saving"
 msgid "#101: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#101: Unable to fetch the update. Please, try again later."
 msgid "#101: Unable to fetch the update. Please, try again later."
 msgstr ""
 "No es posible realizar la actualizacion. Por favor, pruebe de nuevo mas "
 "tarde."
 
+msgctxt "#102: An error occurred while saving"
 msgid "#102: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#102: Unable to fetch the update. Please, try again later."
 msgid "#102: Unable to fetch the update. Please, try again later."
 msgstr ""
 "No es posible realizar la actualizacion. Por favor, pruebe de nuevo mas "
 "tarde."
 
+msgctxt "#103: An error occurred while saving. Please try again later."
 msgid "#103: An error occurred while saving. Please try again later."
 msgstr "Error mientras se guardaba. Por favor prueba más tarde."
 
+msgctxt "#104: An error occurred while saving. Please try again later."
 msgid "#104: An error occurred while saving. Please try again later."
 msgstr "Error mientras se guardaba. Por favor prueba más tarde."
 
+msgctxt "#105: An error occurred while saving"
 msgid "#105: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#106: An error occurred while saving"
 msgid "#106: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#107: An error occurred while saving"
 msgid "#107: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#108: An error occurred while saving"
 msgid "#108: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#109: An error occurred while saving"
 msgid "#109: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#110: An error occurred while saving"
 msgid "#110: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#111: An error occurred while saving"
 msgid "#111: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#112: An error occurred while saving"
 msgid "#112: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#114: An error occurred while saving"
 msgid "#114: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#115: An error occurred while saving"
 msgid "#115: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#116: An error occurred while saving"
 msgid "#116: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#117: An error occurred while saving"
 msgid "#117: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#118: An error occurred while saving"
 msgid "#118: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#119: An error occurred while saving"
 msgid "#119: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#120: An error occurred while saving"
 msgid "#120: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#121: An error occurred while saving"
 msgid "#121: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#122: An error occurred while saving"
 msgid "#122: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#123: An error occurred while saving"
 msgid "#123: An error occurred while saving"
 msgstr "Se produjo un error al guardar"
 
+msgctxt "#156: Missing params!"
 msgid "#156: Missing params!"
 msgstr "Parametros perdidos."
 
+msgctxt ""
+"#19-001 The folder %s is not writable. Please fix this issue and try again."
 msgid ""
 "#19-001 The folder %s is not writable. Please fix this issue and try again."
 msgstr ""
 "La carpeta %s no tiene permisos de escritura. Por favor, corrija este error "
 "y vuelva a intentarlo."
 
+msgctxt ""
+"#19-002 Unable to extract the archive. Please make sure that the 'zip' "
+"extension is installed."
 msgid ""
 "#19-002 Unable to extract the archive. Please make sure that the 'zip' "
 "extension is installed."
 msgstr ""
 
+msgctxt ""
+"#19-003: This update is designed for the %s, you can't install it in your %s."
 msgid ""
 "#19-003: This update is designed for the %s, you can't install it in your %s."
 msgstr ""
 "Esta actualizacion esta diseñada para %s, no puedes instalarla en tu %s."
 
+msgctxt "#19-004: You already have installed this update."
 msgid "#19-004: You already have installed this update."
 msgstr "Ya tienes instalada esta actualizacion."
 
+msgctxt ""
+"#19-005: Please update your system to the %s version before installing this "
+"update."
 msgid ""
 "#19-005: Please update your system to the %s version before installing this "
 "update."
@@ -130,6 +169,9 @@ msgstr ""
 "Por favor actualice el sistema a la version %s despues instale esta "
 "actualizacion."
 
+msgctxt ""
+"#19-007: Please update your system to the %s version before installing this "
+"update."
 msgid ""
 "#19-007: Please update your system to the %s version before installing this "
 "update."
@@ -137,9 +179,13 @@ msgstr ""
 "Por favor actualice el sistema a la version %s despues instale esta "
 "actualizacion."
 
+msgctxt "#19-008: You already have installed this template."
 msgid "#19-008: You already have installed this template."
 msgstr "Ya has instalado esta plantilla."
 
+msgctxt ""
+"#19-009: Please update your system to the %s version before installing this "
+"update."
 msgid ""
 "#19-009: Please update your system to the %s version before installing this "
 "update."
@@ -147,187 +193,259 @@ msgstr ""
 "Por favor actualice el sistema a la version %s despues instale esta "
 "actualizacion."
 
+msgctxt "#19-010: The package you have uploaded is invalid."
 msgid "#19-010: The package you have uploaded is invalid."
 msgstr "El paquete subido no es valido."
 
+msgctxt "#19-011: The package you have uploaded is invalid."
 msgid "#19-011: The package you have uploaded is invalid."
 msgstr "El paquete subido no es valido."
 
+msgctxt "#19-013: The folder %s is not writable."
 msgid "#19-013: The folder %s is not writable."
 msgstr "La carpeta %s no tiene permisos de escritura."
 
+msgctxt ""
+"#19-014: Your system doesn't meet the requirements for this module, version "
+">=%s is required."
 msgid ""
 "#19-014: Your system doesn't meet the requirements for this module, version "
 ">=%s is required."
 msgstr ""
 
+msgctxt "#19-016: You already have installed this %s or a newer version."
 msgid "#19-016: You already have installed this %s or a newer version."
 msgstr ""
 
+msgctxt "#354-01: An error occurred while saving your colors."
 msgid "#354-01: An error occurred while saving your colors."
 msgstr "Se ha producido un error al guardar sus colores."
 
+msgctxt "#354-02: An error occurred while saving your colors."
 msgid "#354-02: An error occurred while saving your colors."
 msgstr "Se ha producido un error al guardar sus colores."
 
+msgctxt "#354-03: SCSS Compilation error, you must input valid SCSS."
 msgid "#354-03: SCSS Compilation error, you must input valid SCSS."
 msgstr ""
 
+msgctxt "#498-01: An error occured while exporting your application."
 msgid "#498-01: An error occured while exporting your application."
 msgstr "Lo sentimos, ha ocurrido un error mientras se duplicaba la aplicación."
 
+msgctxt "#500-01: This application does not exist"
 msgid "#500-01: This application does not exist"
 msgstr "La aplicación no existe"
 
+msgctxt "#500-02: This application does not exist"
 msgid "#500-02: This application does not exist"
 msgstr "La aplicación no existe"
 
+msgctxt "#567-03: Missing value_id or place_id."
 msgid "#567-03: Missing value_id or place_id."
 msgstr ""
 
+msgctxt "#567-04: An error occured."
 msgid "#567-04: An error occured."
 msgstr ""
 
+msgctxt "#567-07: Missing value_id or place_id."
 msgid "#567-07: Missing value_id or place_id."
 msgstr ""
 
+msgctxt "#567-09: Missing value_id or company_id."
 msgid "#567-09: Missing value_id or company_id."
 msgstr ""
 
+msgctxt "#734-01: Missing yandex API key"
 msgid "#734-01: Missing yandex API key"
 msgstr ""
 
+msgctxt "#734-03: Invalid yandex API key OR Free limit request exceeded."
 msgid "#734-03: Invalid yandex API key OR Free limit request exceeded."
 msgstr ""
 
+msgctxt "A e-mail has been sent to %s, please check your inbox."
 msgid "A e-mail has been sent to %s, please check your inbox."
 msgstr ""
 
+msgctxt "A place can belong to multiple categories."
 msgid "A place can belong to multiple categories."
 msgstr ""
 
+msgctxt "ACTIVATE"
 msgid "ACTIVATE"
 msgstr ""
 
+msgctxt ""
+"Above 50 active whitelabels, Siberian's automated Let's Encrypt SSL "
+"certificate generation is not supported."
 msgid ""
 "Above 50 active whitelabels, Siberian's automated Let's Encrypt SSL "
 "certificate generation is not supported."
 msgstr ""
 
+msgctxt "Accepted Terms of Service"
 msgid "Accepted Terms of Service"
 msgstr ""
 
+msgctxt "Account Settings"
 msgid "Account Settings"
 msgstr "Configuración de descuento"
 
+msgctxt "Action '{$action}' executed for module '{$module}'."
 msgid "Action '{$action}' executed for module '{$module}'."
 msgstr ""
 
+msgctxt "Add an <br /><span class=\"bold\">image</span>"
 msgid "Add an <br /><span class=\"bold\">image</span>"
 msgstr "Añadir una <br /><span class=\"bold\">imagen</span>"
 
+msgctxt "Add<br /><span class=\"bold\">Attachment</span>"
 msgid "Add<br /><span class=\"bold\">Attachment</span>"
 msgstr "Añadir<br /><span class=\"bold\">Adjunto</span>"
 
+msgctxt "Add<br /><span class=\"bold\">Pictures</span>"
 msgid "Add<br /><span class=\"bold\">Pictures</span>"
 msgstr "Añadir <br /><span class=\"bold\">imágenes</span>"
 
+msgctxt "Addresses blocks can now have a website & a phone number."
 msgid "Addresses blocks can now have a website & a phone number."
 msgstr ""
 
+msgctxt "Ads type"
 msgid "Ads type"
 msgstr "Tipo AdMob"
 
+msgctxt ""
+"After the upgrade you will be required to upload new homepage & "
+"splashscreen, actual homepages & splashscreens can still be downloaded."
 msgid ""
 "After the upgrade you will be required to upload new homepage & "
 "splashscreen, actual homepages & splashscreens can still be downloaded."
 msgstr ""
 
+msgctxt "All places"
 msgid "All places"
 msgstr "Añadir lugar"
 
+msgctxt "Allow line return?"
 msgid "Allow line return?"
 msgstr ""
 
+msgctxt "Alphabetically"
 msgid "Alphabetically"
 msgstr "orden alfabético"
 
+msgctxt "An error occurred while processing the payment."
 msgid "An error occurred while processing the payment."
 msgstr "Un error ha ocurrido mientras se procesaba el pago."
 
+msgctxt "Android 4.4+"
 msgid "Android 4.4+"
 msgstr ""
 
+msgctxt "Android Studio 3+"
 msgid "Android Studio 3+"
 msgstr ""
 
+msgctxt ""
+"Android being more restrictive with screen orientation some combination are "
+"not possible."
 msgid ""
 "Android being more restrictive with screen orientation some combination are "
 "not possible."
 msgstr ""
 
+msgctxt "Android only (You must set a Firebase Key)"
 msgid "Android only (You must set a Firebase Key)"
 msgstr ""
 
+msgctxt "Android orientation is invalid!"
 msgid "Android orientation is invalid!"
 msgstr ""
 
+msgctxt "Android orientation settings"
 msgid "Android orientation settings"
 msgstr "Configuración orientación iPad"
 
+msgctxt "Api User"
 msgid "Api User"
 msgstr "Usuarios De Api"
 
+msgctxt "Apple"
 msgid "Apple"
 msgstr ""
 
+msgctxt "Application %s"
 msgid "Application %s"
 msgstr "Aplicaciones"
 
+msgctxt ""
+"Application_Mobile_DataController::findall, class: {$model} doesn't exists."
 msgid ""
 "Application_Mobile_DataController::findall, class: {$model} doesn't exists."
 msgstr ""
 
+msgctxt "Apps efficaces + Prix minime = Des clients heureux"
 msgid "Apps efficaces + Prix minime = Des clients heureux"
 msgstr ""
 
+msgctxt "Are you sure you want to delete this discount?"
 msgid "Are you sure you want to delete this discount?"
 msgstr "¿Seguro que quieres eliminar esta foto?"
 
+msgctxt "Background Color - Active"
 msgid "Background Color - Active"
 msgstr "Color de fondo - Activo"
 
+msgctxt "Background Color - Hover"
 msgid "Background Color - Hover"
 msgstr "Color de fondo - Encima"
 
+msgctxt "Backoffice access"
 msgid "Backoffice access"
 msgstr ""
 
+msgctxt "Backoffice page Title"
 msgid "Backoffice page Title"
 msgstr ""
 
+msgctxt "Backoffice theme (BETA)"
 msgid "Backoffice theme (BETA)"
 msgstr ""
 
+msgctxt "Banner ID"
 msgid "Banner ID"
 msgstr ""
 
+msgctxt ""
+"Before you can generate your application, you must upload new homepage & "
+"splashscreen."
 msgid ""
 "Before you can generate your application, you must upload new homepage & "
 "splashscreen."
 msgstr ""
 
+msgctxt ""
+"Before you can re-publish your application, you must upgrade it to the new "
+"<b>unified</b> homepage & splashscreen."
 msgid ""
 "Before you can re-publish your application, you must upgrade it to the new "
 "<b>unified</b> homepage & splashscreen."
 msgstr ""
 
+msgctxt "Build failed!"
 msgid "Build failed!"
 msgstr ""
 
+msgctxt "Build succeed!"
 msgid "Build succeed!"
 msgstr ""
 
+msgctxt ""
+"By checking this box, you agree <a href=\"%s\" target=\"_blank\" class=\""
+"underline\">to our terms and conditions</a>"
 msgid ""
 "By checking this box, you agree <a href=\"%s\" target=\"_blank\" class=\""
 "underline\">to our terms and conditions</a>"
@@ -335,51 +453,69 @@ msgstr ""
 "Marcando esta casilla, estás aceptando <a href=\"%s\" target=\"_blank\" "
 "class=\"underline\">nuestros términos y condiciones</a>"
 
+msgctxt "CANCEL"
 msgid "CANCEL"
 msgstr ""
 
+msgctxt "CSS Editor is saved!"
 msgid "CSS Editor is saved!"
 msgstr ""
 
+msgctxt "Cancel Subscription"
 msgid "Cancel Subscription"
 msgstr ""
 
+msgctxt "Cancel current Offline subscription"
 msgid "Cancel current Offline subscription"
 msgstr ""
 
+msgctxt "Cancel subscription!"
 msgid "Cancel subscription!"
 msgstr ""
 
+msgctxt "Cancelled and expired"
 msgid "Cancelled and expired"
 msgstr ""
 
+msgctxt "Cancelled to be expired"
 msgid "Cancelled to be expired"
 msgstr ""
 
+msgctxt "Catalog is up-to-date."
 msgid "Catalog is up-to-date."
 msgstr ""
 
+msgctxt "Category is up-to-date."
 msgid "Category is up-to-date."
 msgstr ""
 
+msgctxt "Channel: #security, #notifications, etc..."
 msgid "Channel: #security, #notifications, etc..."
 msgstr ""
 
+msgctxt "Check payments"
 msgid "Check payments"
 msgstr ""
 
+msgctxt "Choose your font family"
 msgid "Choose your font family"
 msgstr "Seleccionar una fuente"
 
+msgctxt "Clean-up sensible data"
 msgid "Clean-up sensible data"
 msgstr ""
 
+msgctxt "Click here for more information about AdMob"
 msgid "Click here for more information about AdMob"
 msgstr ""
 
+msgctxt "Click here to send your fullchain"
 msgid "Click here to send your fullchain"
 msgstr "Clic aquí para enviar su favicon"
 
+msgctxt ""
+"Click on a page to add it to the folder <span id=\"folder_name\" class=\""
+"folder_name\">\"%s\"</span>"
 msgid ""
 "Click on a page to add it to the folder <span id=\"folder_name\" class=\""
 "folder_name\">\"%s\"</span>"
@@ -387,542 +523,741 @@ msgstr ""
 "Haga clic en una página para agregarla a la carpeta <span id=\"folder_name\" "
 "class=\"folder_name\">\"%s\"</span>"
 
+msgctxt "Cram-MD5"
 msgid "Cram-MD5"
 msgstr ""
 
+msgctxt "Create a new category"
 msgid "Create a new category"
 msgstr "Crear una nueva categoría"
 
+msgctxt "Custom font"
 msgid "Custom font"
 msgstr "Icono personalizado"
 
+msgctxt "DEACTIVATE"
 msgid "DEACTIVATE"
 msgstr ""
 
+msgctxt "Default layout"
 msgid "Default layout"
 msgstr ""
 
+msgctxt "Default page"
 msgid "Default page"
 msgstr ""
 
+msgctxt "Delete category!"
 msgid "Delete category!"
 msgstr ""
 
+msgctxt "Delete product!"
 msgid "Delete product!"
 msgstr ""
 
+msgctxt "Display"
 msgid "Display"
 msgstr "Mostrar"
 
+msgctxt "Display phone"
 msgid "Display phone"
 msgstr "Mostrar sueldo"
 
+msgctxt "Display website"
 msgid "Display website"
 msgstr ""
 
+msgctxt "Download CA"
 msgid "Download CA"
 msgstr "Descargar CSV"
 
+msgctxt "Download Certificate"
 msgid "Download Certificate"
 msgstr ""
 
+msgctxt "Download Private"
 msgid "Download Private"
 msgstr ""
 
+msgctxt "Download icon pack example"
 msgid "Download icon pack example"
 msgstr ""
 
+msgctxt "Download non-unified previous images!"
 msgid "Download non-unified previous images!"
 msgstr ""
 
+msgctxt "During the <b>beta</b> stage, themes are likely to evolve slightly."
 msgid "During the <b>beta</b> stage, themes are likely to evolve slightly."
 msgstr ""
 
+msgctxt "E-Mail render preview"
 msgid "E-Mail render preview"
 msgstr ""
 
+msgctxt "Editing subscription:"
 msgid "Editing subscription:"
 msgstr "Editar la suscripción %s"
 
+msgctxt "Editor access"
 msgid "Editor access"
 msgstr ""
 
+msgctxt "Elegance"
 msgid "Elegance"
 msgstr ""
 
+msgctxt "E-mail is required!"
 msgid "E-mail is required!"
 msgstr "El Email es obligatorio"
 
+msgctxt "E-mail is required in order to test SMTP"
 msgid "E-mail is required in order to test SMTP"
 msgstr ""
 
+msgctxt "E-mail test"
 msgid "E-mail test"
 msgstr ""
 
+msgctxt "Enable search"
 msgid "Enable search"
 msgstr ""
 
+msgctxt "Enabled?"
 msgid "Enabled?"
 msgstr ""
 
+msgctxt "Enter the token you received by e-mail to access your personal data."
 msgid "Enter the token you received by e-mail to access your personal data."
 msgstr ""
 
+msgctxt "Environment is"
 msgid "Environment is"
 msgstr "Entorno"
 
+msgctxt "Everything seems ok."
 msgid "Everything seems ok."
 msgstr ""
 
+msgctxt ""
+"Example: https://hooks.slack.com/services/XDEFFE/DE45GFV/"
+"RxwdF4bnhtRDsqsqzd234, "
 msgid ""
 "Example: https://hooks.slack.com/services/XDEFFE/DE45GFV/"
 "RxwdF4bnhtRDsqsqzd234, "
 msgstr ""
 
+msgctxt "FIX"
 msgid "FIX"
 msgstr ""
 
+msgctxt "Feature this place?"
 msgid "Feature this place?"
 msgstr ""
 
+msgctxt "Featured label"
 msgid "Featured label"
 msgstr ""
 
+msgctxt "Features to export & Options"
 msgid "Features to export & Options"
 msgstr ""
 
+msgctxt "Feed URL <span class=\"required-entry\">*</span> :"
 msgid "Feed URL <span class=\"required-entry\">*</span> :"
 msgstr "URL de su Feed RSS <span class=\"required-entry\">*</span> :"
 
+msgctxt "Field name:"
 msgid "Field name:"
 msgstr "Nombre campo:"
 
+msgctxt "Firebase Cloud Messaging"
 msgid "Firebase Cloud Messaging"
 msgstr ""
 
+msgctxt "Folder is up-to-date."
 msgid "Folder is up-to-date."
 msgstr ""
 
+msgctxt "Font saved!"
 msgid "Font saved!"
 msgstr ""
 
+msgctxt ""
+"For instance <b>Account A</b> creates an app, all other accounts tied to "
+"this app, will have the <b>publication type settings of the Account A</b>."
 msgid ""
 "For instance <b>Account A</b> creates an app, all other accounts tied to "
 "this app, will have the <b>publication type settings of the Account A</b>."
 msgstr ""
 
+msgctxt "For more information, please feel free to contact us."
 msgid "For more information, please feel free to contact us."
 msgstr ""
 
+msgctxt "Forgot your password ?"
 msgid "Forgot your password ?"
 msgstr "Olvidó su password ?"
 
+msgctxt "Full chain"
 msgid "Full chain"
 msgstr ""
 
+msgctxt "Fulltext"
 msgid "Fulltext"
 msgstr ""
 
+msgctxt "Gallery Name <span class=\"required-entry\">*</span> :"
 msgid "Gallery Name <span class=\"required-entry\">*</span> :"
 msgstr "Nombre de la galería <span class=\"required-entry\">*</span> :"
 
+msgctxt "Global notifications"
 msgid "Global notifications"
 msgstr "Notificaciones Global Push"
 
+msgctxt "Go back to homepage"
 msgid "Go back to homepage"
 msgstr ""
 
+msgctxt "Google"
 msgid "Google"
 msgstr ""
 
+msgctxt "Google Cloud Messaging (GCM, Deprecated)"
 msgid "Google Cloud Messaging (GCM, Deprecated)"
 msgstr ""
 
+msgctxt "Grid view"
 msgid "Grid view"
 msgstr ""
 
+msgctxt "Handwriting"
 msgid "Handwriting"
 msgstr ""
 
+msgctxt "How to install the cron scheduler ?"
 msgid "How to install the cron scheduler ?"
 msgstr ""
 
+msgctxt ""
+"I agree to receive information & commercial offers about the WhiteLabel "
+"program."
 msgid ""
 "I agree to receive information & commercial offers about the WhiteLabel "
 "program."
 msgstr ""
 
+msgctxt "I have a Google developer account"
 msgid "I have a Google developer account"
 msgstr "Tengo una cuenta de desarrollador de Google"
 
+msgctxt "I have read & agree the Terms of Service"
 msgid "I have read & agree the Terms of Service"
 msgstr ""
 
+msgctxt "IMPERSONATE"
 msgid "IMPERSONATE"
 msgstr ""
 
+msgctxt ""
+"If you need it to work you will need to manually generate your corresponding "
+"SSL certificate."
 msgid ""
 "If you need it to work you will need to manually generate your corresponding "
 "SSL certificate."
 msgstr ""
 
+msgctxt ""
+"In case your Stripe subscription is not linked (ie: missing or wrong "
+"sub_xxxx id), you can search the right reference here and apply it to the "
+"subscription."
 msgid ""
 "In case your Stripe subscription is not linked (ie: missing or wrong "
 "sub_xxxx id), you can search the right reference here and apply it to the "
 "subscription."
 msgstr ""
 
+msgctxt "In-App links"
 msgid "In-App links"
 msgstr "Enlaces In-App"
 
+msgctxt "Inactive, Cancelled or Expired"
 msgid "Inactive, Cancelled or Expired"
 msgstr ""
 
+msgctxt "Insert a <br /><span class=\"bold\">cover image</span>"
 msgid "Insert a <br /><span class=\"bold\">cover image</span>"
 msgstr "Insertar una <br /><span class=\"bold\">imagen de fondo</span>"
 
+msgctxt "Insert a <span class=\"bold\">cover image</span>"
 msgid "Insert a <span class=\"bold\">cover image</span>"
 msgstr "Insertar una <br /><span class=\"bold\">imagen de fondo</span>"
 
+msgctxt "Installing module <em><span id=\"label_module\"></span></em>"
 msgid "Installing module <em><span id=\"label_module\"></span></em>"
 msgstr "Instalando módulo <em><span id=\"label_module\"></span></em>"
 
+msgctxt "Interstitial ID"
 msgid "Interstitial ID"
 msgstr "Interstitial"
 
+msgctxt "Invoice N°"
 msgid "Invoice N°"
 msgstr "Factura N°"
 
+msgctxt ""
+"Is self assignable (a user with a self-assignable role can create users with "
+"the same role)"
 msgid ""
 "Is self assignable (a user with a self-assignable role can create users with "
 "the same role)"
 msgstr ""
 
+msgctxt "Kilometers"
 msgid "Kilometers"
 msgstr "Kilometros"
 
+msgctxt ""
+"[Let's Encrypt] cron renewal is disabled until %s due to rate limit hit, "
+"skipping."
 msgid ""
 "[Let's Encrypt] cron renewal is disabled until %s due to rate limit hit, "
 "skipping."
 msgstr ""
 
+msgctxt "[Let's Encrypt] will expire in %s days."
 msgid "[Let's Encrypt] will expire in %s days."
 msgstr ""
 
+msgctxt "Licenses"
 msgid "Licenses"
 msgstr ""
 
+msgctxt "List view"
 msgid "List view"
 msgstr ""
 
+msgctxt "Loading ..."
 msgid "Loading ..."
 msgstr "Cargando..."
 
+msgctxt "Location settings"
 msgid "Location settings"
 msgstr "Configuración aplicación"
 
+msgctxt "M-Commerce"
 msgid "M-Commerce"
 msgstr "Tiendas"
 
+msgctxt "Mail logger"
 msgid "Mail logger"
 msgstr ""
 
+msgctxt "Mail logs"
 msgid "Mail logs"
 msgstr ""
 
+msgctxt "Main siberian domain"
 msgid "Main siberian domain"
 msgstr ""
 
+msgctxt "Mais encore ?"
 msgid "Mais encore ?"
 msgstr ""
 
+msgctxt "Manage tour"
 msgid "Manage tour"
 msgstr "Gestion Tour"
 
+msgctxt "Miles"
 msgid "Miles"
 msgstr "Millas"
 
+msgctxt "Missing font family!"
 msgid "Missing font family!"
 msgstr ""
 
+msgctxt "Missing name parameter."
 msgid "Missing name parameter."
 msgstr "Parametros perdidos."
 
+msgctxt "Missing params."
 msgid "Missing params."
 msgstr "Parametros perdidos."
 
+msgctxt "Missing value_id."
 msgid "Missing value_id."
 msgstr ""
 
+msgctxt "Modern"
 msgid "Modern"
 msgstr ""
 
+msgctxt "Module installed/updated"
 msgid "Module installed/updated"
 msgstr ""
 
+msgctxt "Monetize my app using AdMob"
 msgid "Monetize my app using AdMob"
 msgstr "¿Monetizar mi app usando AdMob?"
 
+msgctxt "Monospace"
 msgid "Monospace"
 msgstr ""
 
+msgctxt "My users"
 msgid "My users"
 msgstr ""
 
+msgctxt "MySQL (Default)"
 msgid "MySQL (Default)"
 msgstr ""
 
+msgctxt "NO"
 msgid "NO"
 msgstr "NO"
 
+msgctxt "Nearest"
 msgid "Nearest"
 msgstr ""
 
+msgctxt ""
+"New backoffice themes are available, check them out <a href=\"/system/"
+"backoffice_config_design\">here</a>."
 msgid ""
 "New backoffice themes are available, check them out <a href=\"/system/"
 "backoffice_config_design\">here</a>."
 msgstr ""
 
+msgctxt "New publication request on your platform %s, for the Application %s."
 msgid "New publication request on your platform %s, for the Application %s."
 msgstr ""
 
+msgctxt "No result found."
 msgid "No result found."
 msgstr ""
 
+msgctxt "No results."
 msgid "No results."
 msgstr "Sin resultados"
 
+msgctxt "Non-featured label"
 msgid "Non-featured label"
 msgstr ""
 
+msgctxt "Note: the migration will only work if redis is configured & running!"
 msgid "Note: the migration will only work if redis is configured & running!"
 msgstr ""
 
+msgctxt ""
+"Note: we recommand to install under the web user to maintain file & folders "
+"permissions, but if this is not possible at all you can install it under the "
+"root user."
 msgid ""
 "Note: we recommand to install under the web user to maintain file & folders "
 "permissions, but if this is not possible at all you can install it under the "
 "root user."
 msgstr ""
 
+msgctxt "Nothing to do!"
 msgid "Nothing to do!"
 msgstr ""
 
+msgctxt "(Offline)"
 msgid "(Offline)"
 msgstr ""
 
+msgctxt "Offline awaiting validation"
 msgid "Offline awaiting validation"
 msgstr ""
 
+msgctxt "Ok, proceed to minimal upgrade!"
 msgid "Ok, proceed to minimal upgrade!"
 msgstr ""
 
+msgctxt "Ok, skip automated upgrade!"
 msgid "Ok, skip automated upgrade!"
 msgstr ""
 
+msgctxt "Only active subscriptions not linked are shown below!"
 msgid "Only active subscriptions not linked are shown below!"
 msgstr ""
 
+msgctxt "Only showing latest 100 e-mail logs."
 msgid "Only showing latest 100 e-mail logs."
 msgstr ""
 
+msgctxt "Opt-in e-mails"
 msgid "Opt-in e-mails"
 msgstr ""
 
+msgctxt "Order places by"
 msgid "Order places by"
 msgstr "Ordenar lugares"
 
+msgctxt "Outstanding balance of %s %s."
 msgid "Outstanding balance of %s %s."
 msgstr ""
 
+msgctxt "Owner / Application"
 msgid "Owner / Application"
 msgstr ""
 
+msgctxt "PNG icons are recommended for a better display result."
 msgid "PNG icons are recommended for a better display result."
 msgstr ""
 
+msgctxt "Page design"
 msgid "Page design"
 msgstr ""
 
+msgctxt "Path to your Fullchain"
 msgid "Path to your Fullchain"
 msgstr ""
 
+msgctxt "PayPal subscription is Active"
 msgid "PayPal subscription is Active"
 msgstr "La suscripción está activada"
 
+msgctxt ""
+"PayPal subscription is now correctly synced and will correctly expire by %s!"
 msgid ""
 "PayPal subscription is now correctly synced and will correctly expire by %s!"
 msgstr ""
 
+msgctxt ""
+"Places upgrade! New version with a better search engine, categories & "
+"display options."
 msgid ""
 "Places upgrade! New version with a better search engine, categories & "
 "display options."
 msgstr ""
 
+msgctxt "Plan"
 msgid "Plan"
 msgstr "Planes"
 
+msgctxt "Platform contact informations"
 msgid "Platform contact informations"
 msgstr ""
 
+msgctxt "[Plesk] %s"
 msgid "[Plesk] %s"
 msgstr ""
 
+msgctxt "Position"
 msgid "Position"
 msgstr "Puestos"
 
+msgctxt "Proceed to full ugrade!"
 msgid "Proceed to full ugrade!"
 msgstr ""
 
+msgctxt "Proceed to ugrade!"
 msgid "Proceed to ugrade!"
 msgstr ""
 
+msgctxt "Product is up-to-date."
 msgid "Product is up-to-date."
 msgstr ""
 
+msgctxt "Publication request"
 msgid "Publication request"
 msgstr ""
 
+msgctxt "Publication type"
 msgid "Publication type"
 msgstr "Fecha de publicación"
 
+msgctxt "REDUCE"
 msgid "REDUCE"
 msgstr ""
 
+msgctxt "RESTORE"
 msgid "RESTORE"
 msgstr ""
 
+msgctxt "Re-check payments"
 msgid "Re-check payments"
 msgstr ""
 
+msgctxt "Recipients"
 msgid "Recipients"
 msgstr ""
 
+msgctxt "Redis AUTH KEY, only required if configured on your Redis server."
 msgid "Redis AUTH KEY, only required if configured on your Redis server."
 msgstr ""
 
+msgctxt "Redis enpoint (example: tcp://127.0.0.1:6379)"
 msgid "Redis enpoint (example: tcp://127.0.0.1:6379)"
 msgstr ""
 
+msgctxt "Redis (requires to install php-redis & Redis server)"
 msgid "Redis (requires to install php-redis & Redis server)"
 msgstr ""
 
+msgctxt "Refresh available Teams & Providers"
 msgid "Refresh available Teams & Providers"
 msgstr ""
 
+msgctxt "SELECT"
 msgid "SELECT"
 msgstr ""
 
+msgctxt "SYNC"
 msgid "SYNC"
 msgstr ""
 
+msgctxt "Safe in portrait & landscape"
 msgid "Safe in portrait & landscape"
 msgstr ""
 
+msgctxt "Safe in portrait (locked)"
 msgid "Safe in portrait (locked)"
 msgstr ""
 
+msgctxt "Sans Serif"
 msgid "Sans Serif"
 msgstr ""
 
+msgctxt "Save settings & Publish"
 msgid "Save settings & Publish"
 msgstr ""
 
+msgctxt "Search, filter ..."
 msgid "Search, filter ..."
 msgstr "Buscar, filtrar ..."
 
+msgctxt "Secondary category (optional)"
 msgid "Secondary category (optional)"
 msgstr "Categoría secundaria<br />(Opcional)"
 
+msgctxt "Security logs (last 50 triggers)"
 msgid "Security logs (last 50 triggers)"
 msgstr ""
 
+msgctxt "Sender"
 msgid "Sender"
 msgstr ""
 
+msgctxt "Serif"
 msgid "Serif"
 msgstr ""
 
+msgctxt "Settings & Options"
 msgid "Settings & Options"
 msgstr ""
 
+msgctxt "Show featured labels"
 msgid "Show featured labels"
 msgstr ""
 
+msgctxt "Show non-featured labels"
 msgid "Show non-featured labels"
 msgstr ""
 
+msgctxt "Showing"
 msgid "Showing"
 msgstr "Mostrando"
 
+msgctxt ""
+"Siberian main domain (without https?://) is required for services, and tools."
 msgid ""
 "Siberian main domain (without https?://) is required for services, and tools."
 msgstr ""
 
+msgctxt "Slots"
 msgid "Slots"
 msgstr ""
 
+msgctxt "Socket, example: /var/run/clamav/clamd.ctl"
 msgid "Socket, example: /var/run/clamav/clamd.ctl"
 msgstr ""
 
+msgctxt "Something went wrong, the category do not exists!"
 msgid "Something went wrong, the category do not exists!"
 msgstr ""
 
+msgctxt "Start search"
 msgid "Start search"
 msgstr ""
 
+msgctxt "Status color chart"
 msgid "Status color chart"
 msgstr ""
 
+msgctxt "Stores Informations"
 msgid "Stores Informations"
 msgstr "Información de la tienda"
 
+msgctxt "Stripe subscription ID"
 msgid "Stripe subscription ID"
 msgstr ""
 
+msgctxt "Stripe subscription saved!"
 msgid "Stripe subscription saved!"
 msgstr ""
 
+msgctxt "Stripe utility tools!"
 msgid "Stripe utility tools!"
 msgstr ""
 
+msgctxt "Subject"
 msgid "Subject"
 msgstr ""
 
+msgctxt "Subscription date & time"
 msgid "Subscription date & time"
 msgstr "Suscripción para"
 
+msgctxt "Sur quelles plateformes ?"
 msgid "Sur quelles plateformes ?"
 msgstr ""
 
+msgctxt "T&C's"
 msgid "T&C's"
 msgstr ""
 
+msgctxt "Tags are used to improve full-text search."
 msgid "Tags are used to improve full-text search."
 msgstr ""
 
+msgctxt ""
+"Tags will be de-duplicated, migrated to categories & associated to existing "
+"places."
 msgid ""
 "Tags will be de-duplicated, migrated to categories & associated to existing "
 "places."
 msgstr ""
 
+msgctxt "Text Color - Active"
 msgid "Text Color - Active"
 msgstr "Color de texto - Activo"
 
+msgctxt "Text Color - Hover"
 msgid "Text Color - Hover"
 msgstr "Color de texto - Encima"
 
+msgctxt "The Platform name"
 msgid "The Platform name"
 msgstr "Nombre de la plataforma"
 
+msgctxt "The category you are trying to edit doesn't exists.."
 msgid "The category you are trying to edit doesn't exists.."
 msgstr "La categoría que estás intentando editar no existe."
 
+msgctxt "The folder & it's sub-folders have been removed!"
 msgid "The folder & it's sub-folders have been removed!"
 msgstr ""
 
+msgctxt "The following folders are not writable: <br /> - %s"
 msgid "The following folders are not writable: <br /> - %s"
 msgstr "Les dossiers suivants n'ont pas les droits en écriture : <br /> - %s"
 
+msgctxt ""
+"The installation of the module <span id=\"installation_failed_module_name\""
+"></span> has failed: <span id=\"installation_failed_because\"></span>"
 msgid ""
 "The installation of the module <span id=\"installation_failed_module_name\""
 "></span> has failed: <span id=\"installation_failed_because\"></span>"
@@ -930,165 +1265,233 @@ msgstr ""
 "La instalación del módulo <span id=\"installation_failed_module_name\""
 "></span> ha fallado: <span id=\"installation_failed_because\"></span>"
 
+msgctxt ""
+"The publication access type of an Application is determined by the "
+"publication type settings that are set for its Creator."
 msgid ""
 "The publication access type of an Application is determined by the "
 "publication type settings that are set for its Creator."
 msgstr ""
 
+msgctxt "The setup fee is not a valid price (e.g. 12.34"
 msgid "The setup fee is not a valid price (e.g. 12.34"
 msgstr "La cuota de alta no es un precio válido (e.g. 12,34)"
 
+msgctxt "The splashscreen image"
 msgid "The splashscreen image"
 msgstr ""
 
+msgctxt "The store & mcommerce instances mismatch!"
 msgid "The store & mcommerce instances mismatch!"
 msgstr ""
 
+msgctxt "The strip customer '%s' is missing!"
 msgid "The strip customer '%s' is missing!"
 msgstr ""
 
+msgctxt "The stripe subscription '%s' is missing!"
 msgid "The stripe subscription '%s' is missing!"
 msgstr ""
 
+msgctxt "The subscription '%s' doesn't exists!"
 msgid "The subscription '%s' doesn't exists!"
 msgstr "La aplicación no existe"
 
+msgctxt "The subscription was already inactive or cancelled"
 msgid "The subscription was already inactive or cancelled"
 msgstr ""
 
+msgctxt ""
+"The version number format is invalid, please use x.y.z where x, y & z are "
+"only digits."
 msgid ""
 "The version number format is invalid, please use x.y.z where x, y & z are "
 "only digits."
 msgstr ""
 
+msgctxt "Theme"
 msgid "Theme"
 msgstr ""
 
+msgctxt "There is no user with this ID."
 msgid "There is no user with this ID."
 msgstr ""
 
+msgctxt ""
+"This Application has some M-Commerce invoices associated, you can not delete "
+"it!"
 msgid ""
 "This Application has some M-Commerce invoices associated, you can not delete "
 "it!"
 msgstr ""
 
+msgctxt "This Google Font do not exists!"
 msgid "This Google Font do not exists!"
 msgstr ""
 
+msgctxt "This action is not allowed in demo."
 msgid "This action is not allowed in demo."
 msgstr ""
 
+msgctxt "This application does not exists."
 msgid "This application does not exists."
 msgstr "La aplicación no existe"
 
+msgctxt ""
+"This application was not upgraded to the unified splashscreens & can't be "
+"published right now."
 msgid ""
 "This application was not upgraded to the unified splashscreens & can't be "
 "published right now."
 msgstr ""
 
+msgctxt "This build do not exists."
 msgid "This build do not exists."
 msgstr "Este usuario no existe."
 
+msgctxt ""
+"This combination is not valid, if you want both portrait & landscape please "
+"check all orientations."
 msgid ""
 "This combination is not valid, if you want both portrait & landscape please "
 "check all orientations."
 msgstr ""
 
+msgctxt "This is not a valid e-mail address."
 msgid "This is not a valid e-mail address."
 msgstr ""
 
+msgctxt ""
+"This is only a generic preview, header & footer are adjusted depending on "
+"the context!"
 msgid ""
 "This is only a generic preview, header & footer are adjusted depending on "
 "the context!"
 msgstr ""
 
+msgctxt "This place do not exists!"
 msgid "This place do not exists!"
 msgstr ""
 
+msgctxt "Three columns"
 msgid "Three columns"
 msgstr ""
 
+msgctxt "Title for featured places"
 msgid "Title for featured places"
 msgstr ""
 
+msgctxt "Title for non-featured places"
 msgid "Title for non-featured places"
 msgstr ""
 
+msgctxt "Two columns"
 msgid "Two columns"
 msgstr ""
 
+msgctxt "URL (.mp3)"
 msgid "URL (.mp3)"
 msgstr "URL (.mp3):"
 
+msgctxt "Upgrade done!"
 msgid "Upgrade done!"
 msgstr ""
 
+msgctxt "Upgrade required for Sources APK / IPA"
 msgid "Upgrade required for Sources APK / IPA"
 msgstr ""
 
+msgctxt "User %s just signed-up on the platform."
 msgid "User %s just signed-up on the platform."
 msgstr ""
 
+msgctxt "User-Styler Module"
 msgid "User-Styler Module"
 msgstr ""
 
+msgctxt "Username: siberian-notifier, etc..."
 msgid "Username: siberian-notifier, etc..."
 msgstr ""
 
+msgctxt "VIEW"
 msgid "VIEW"
 msgstr ""
 
+msgctxt ""
+"We were unable to automatically cancel the subscription, please check "
+"manually on your %s dashboard."
 msgid ""
 "We were unable to automatically cancel the subscription, please check "
 "manually on your %s dashboard."
 msgstr ""
 
+msgctxt "We were unable to verify you payment, please try again later!"
 msgid "We were unable to verify you payment, please try again later!"
 msgstr ""
 
+msgctxt ""
+"Website must start with http:// or https://, invalid value have been removed!"
 msgid ""
 "Website must start with http:// or https://, invalid value have been removed!"
 msgstr ""
 
+msgctxt "What if I choose the minimal upgrade?"
 msgid "What if I choose the minimal upgrade?"
 msgstr ""
 
+msgctxt "What if I skip the upgrade?"
 msgid "What if I skip the upgrade?"
 msgstr ""
 
+msgctxt "What will the full upgrade do?"
 msgid "What will the full upgrade do?"
 msgstr ""
 
+msgctxt "What will the upgrade do?"
 msgid "What will the upgrade do?"
 msgstr ""
 
+msgctxt "What's new?"
 msgid "What's new?"
 msgstr ""
 
+msgctxt "Whitelabel Settings"
 msgid "Whitelabel Settings"
 msgstr ""
 
+msgctxt "YES"
 msgid "YES"
 msgstr "SI"
 
+msgctxt "Yes, Cancel my subscription"
 msgid "Yes, Cancel my subscription"
 msgstr ""
 
+msgctxt "Yes, activate"
 msgid "Yes, activate"
 msgstr ""
 
+msgctxt "Yes, cancel!"
 msgid "Yes, cancel!"
 msgstr ""
 
+msgctxt "Yes, deactivate"
 msgid "Yes, deactivate"
 msgstr ""
 
+msgctxt "Yes, delete!"
 msgid "Yes, delete!"
 msgstr ""
 
+msgctxt "You already have a google-services.json file"
 msgid "You already have a google-services.json file"
 msgstr ""
 
+msgctxt ""
+"You are about to cancel your Subscription, if this is a paid plan the "
+"subscription will be cancelled at the end of the recurring period, otherwise "
+"the subscription will be immediately cancelled and the application locked.<"
+"br /><br />Below you can leave a message for the Administrator.<br />"
 msgid ""
 "You are about to cancel your Subscription, if this is a paid plan the "
 "subscription will be cancelled at the end of the recurring period, otherwise "
@@ -1096,38 +1499,58 @@ msgid ""
 "br /><br />Below you can leave a message for the Administrator.<br />"
 msgstr ""
 
+msgctxt ""
+"You are about to delete the category #CATEGORY_NAME# with all it's "
+"subcategories<br />Please note that any products inside the category and "
+"it's subcategories will be deleted!"
 msgid ""
 "You are about to delete the category #CATEGORY_NAME# with all it's "
 "subcategories<br />Please note that any products inside the category and "
 "it's subcategories will be deleted!"
 msgstr ""
 
+msgctxt ""
+"You are about to delete the folder #FOLDER_NAME# with all it's subfolders, "
+"please note that any features inside the folder and it's subfolders will be "
+"re-assigned to the Homepage!"
 msgid ""
 "You are about to delete the folder #FOLDER_NAME# with all it's subfolders, "
 "please note that any features inside the folder and it's subfolders will be "
 "re-assigned to the Homepage!"
 msgstr ""
 
+msgctxt "You are about to delete the product #PRODUCT_NAME#"
 msgid "You are about to delete the product #PRODUCT_NAME#"
 msgstr ""
 
+msgctxt "You are not allowed to delete this account in demo!"
 msgid "You are not allowed to delete this account in demo!"
 msgstr ""
 
+msgctxt "You are not allowed to edit this account in demo!"
 msgid "You are not allowed to edit this account in demo!"
 msgstr ""
 
+msgctxt "You can also use another Google Font not listed up there"
 msgid "You can also use another Google Font not listed up there"
 msgstr ""
 
+msgctxt ""
+"You can change the browser tab title with the translations: Edit the "
+"backoffice.csv and translate Siberian - Backoffice."
 msgid ""
 "You can change the browser tab title with the translations: Edit the "
 "backoffice.csv and translate Siberian - Backoffice."
 msgstr ""
 
+msgctxt "You have no mail logs."
 msgid "You have no mail logs."
 msgstr ""
 
+msgctxt ""
+"You have to create a Google account before publishing your application. <a "
+"href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click "
+"here to create one.</a>"
 msgid ""
 "You have to create a Google account before publishing your application. <a "
 "href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">Click "
@@ -1137,6 +1560,10 @@ msgstr ""
 "https://play.google.com/apps/publish/signup\" target=\"_blank\">Click para "
 "crear una.</a>"
 
+msgctxt ""
+"You have to create a Google account before publishing your application.<br "
+"/><a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">"
+"Click here to create one.</a>"
 msgid ""
 "You have to create a Google account before publishing your application.<br "
 "/><a href=\"https://play.google.com/apps/publish/signup\" target=\"_blank\">"
@@ -1146,6 +1573,10 @@ msgstr ""
 "https://play.google.com/apps/publish/signup\" target=\"_blank\">Click para "
 "crear una.</a>"
 
+msgctxt ""
+"You have to create an Apple account before publishing your application. <a "
+"href=\"https://appleid.apple.com/account#!&page=create\" target=\"_blank\">"
+"Click here to create one.</a>"
 msgid ""
 "You have to create an Apple account before publishing your application. <a "
 "href=\"https://appleid.apple.com/account#!&page=create\" target=\"_blank\">"
@@ -1155,6 +1586,10 @@ msgstr ""
 "https://appleid.apple.com/account#!&page=create\" target=\"_blank\">Click "
 "aquí para crear una.</a>'"
 
+msgctxt ""
+"You have to create an Apple account before publishing your application.<br "
+"/><a href=\"https://appleid.apple.com/account#!&page=create\" target=\""
+"_blank\">Click here to create one.</a>"
 msgid ""
 "You have to create an Apple account before publishing your application.<br "
 "/><a href=\"https://appleid.apple.com/account#!&page=create\" target=\""
@@ -1164,56 +1599,80 @@ msgstr ""
 "https://appleid.apple.com/account#!&page=create\" target=\"_blank\">Click "
 "aquí para crear una.</a>'"
 
+msgctxt "You just received a publication request:"
 msgid "You just received a publication request:"
 msgstr ""
 
+msgctxt "You must agree our Terms of Service"
 msgid "You must agree our Terms of Service"
 msgstr ""
 
+msgctxt "You must agree to Terms of Service."
 msgid "You must agree to Terms of Service."
 msgstr ""
 
+msgctxt "You must agree to our Terms of Service."
 msgid "You must agree to our Terms of Service."
 msgstr ""
 
+msgctxt "You must be logged-in to request a new token."
 msgid "You must be logged-in to request a new token."
 msgstr ""
 
+msgctxt "You must select at least one orientation for Android!"
 msgid "You must select at least one orientation for Android!"
 msgstr "Debes seleccionar al menos una orientación para iPad!"
 
+msgctxt "You must select both a Development Team & an iTunes Connect provider!"
 msgid "You must select both a Development Team & an iTunes Connect provider!"
 msgstr ""
 
+msgctxt "You offline subscription is awaiting approval from an Administrator!"
 msgid "You offline subscription is awaiting approval from an Administrator!"
 msgstr ""
 
+msgctxt ""
+"Your application is set to use the homepage background for all the features!<"
+"br />You can't upload individual backgrounds for the features."
 msgid ""
 "Your application is set to use the homepage background for all the features!<"
 "br />You can't upload individual backgrounds for the features."
 msgstr ""
 
+msgctxt ""
+"Your are about to replace the current application template, colors & "
+"features.\n"
+"Are you sure ?"
 msgid ""
 "Your are about to replace the current application template, colors & "
 "features.\n"
 "Are you sure ?"
 msgstr ""
 
+msgctxt "Your licenses"
 msgid "Your licenses"
 msgstr ""
 
+msgctxt ""
+"<a href=\"%s\" target=\"_blank\">Click here for more information about "
+"AdMob</a>"
 msgid ""
 "<a href=\"%s\" target=\"_blank\">Click here for more information about "
 "AdMob</a>"
 msgstr ""
 "<a href=\"%s\" target=\"_blank\">Click aqui para más información de AdMob</a>"
 
+msgctxt "<a href=\"%s\">Click here</a> to go back to your applications list"
 msgid "<a href=\"%s\">Click here</a> to go back to your applications list"
 msgstr "<a href=\"%s\">Click aquí</a> para volver a tu lista de aplicaciones"
 
+msgctxt "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
 msgid "<b>File type:</b> %s<br /><b>Recommended size:</b> %s"
 msgstr "<b>Tipos de archivo: </b> %s<br /><b>Tamaño recomendado:</b> %s"
 
+msgctxt ""
+"<b>Geolocation</b> option for the Overview & HTML5 will be displayed & work "
+"only when using HTTPS, however it works in Android & iOS apps without HTTPS."
 msgid ""
 "<b>Geolocation</b> option for the Overview & HTML5 will be displayed & work "
 "only when using HTTPS, however it works in Android & iOS apps without HTTPS."
@@ -1222,78 +1681,106 @@ msgstr ""
 "trabajo sólo cuando el uso de HTTPS, sin embargo funciona en Android y iOS "
 "apps sin HTTPS."
 
+msgctxt ""
+"<button class=\"add btn color-blue\" type=\"button\"><i class=\"fa fa-plus-"
+"circle\"></i><span> Click to add an item</span></button>"
 msgid ""
 "<button class=\"add btn color-blue\" type=\"button\"><i class=\"fa fa-plus-"
 "circle\"></i><span> Click to add an item</span></button>"
 msgstr ""
 
+msgctxt "category_id"
 msgid "category_id"
 msgstr ""
 
+msgctxt "fa-toggle-on"
 msgid "fa-toggle-on"
 msgstr ""
 
+msgctxt "filtered from #TOTAL# total records"
 msgid "filtered from #TOTAL# total records"
 msgstr ""
 
+msgctxt ""
+"iOS & Android (You must set both a Firebase Key & upload a Push Certificate "
+"for the Application)"
 msgid ""
 "iOS & Android (You must set both a Firebase Key & upload a Push Certificate "
 "for the Application)"
 msgstr ""
 
+msgctxt "iOS 9+"
 msgid "iOS 9+"
 msgstr ""
 
+msgctxt "iOS NS*Descriptions"
 msgid "iOS NS*Descriptions"
 msgstr ""
 
+msgctxt "iOS only (You must upload a Push Certificate for the Application)"
 msgid "iOS only (You must upload a Push Certificate for the Application)"
 msgstr ""
 
+msgctxt "iOS-Autopublish service is unreachable."
 msgid "iOS-Autopublish service is unreachable."
 msgstr ""
 
+msgctxt "iPhone & iPad & Android orientation"
 msgid "iPhone & iPad & Android orientation"
 msgstr "Orientación iPhone & iPad"
 
+msgctxt "iPhone (No Ads)"
 msgid "iPhone (No Ads)"
 msgstr ""
 
+msgctxt "<img src=\"%s\" width=\"160\" title=\"%s\" />"
 msgid "<img src=\"%s\" width=\"160\" title=\"%s\" />"
 msgstr ""
 
+msgctxt "of"
 msgid "of"
 msgstr ""
 
+msgctxt "or"
 msgid "or"
 msgstr ""
 
+msgctxt "or unlimited?"
 msgid "or unlimited?"
 msgstr ""
 
+msgctxt "php-redis module is required!"
 msgid "php-redis module is required!"
 msgstr ""
 
+msgctxt "please respect the font name case!"
 msgid "please respect the font name case!"
 msgstr ""
 
+msgctxt "record"
 msgid "record"
 msgstr ""
 
+msgctxt "records"
 msgid "records"
 msgstr ""
 
+msgctxt "%s - Access to your personal data."
 msgid "%s - Access to your personal data."
 msgstr ""
 
+msgctxt "%s - v%s"
 msgid "%s - v%s"
 msgstr ""
 
+msgctxt "to"
 msgid "to"
 msgstr ""
 
+msgctxt "value_id"
 msgid "value_id"
 msgstr ""
 
+msgctxt "Firebase is not yet configured, please contact your Administrator."
 msgid "Firebase is not yet configured, please contact your Administrator."
 msgstr ""

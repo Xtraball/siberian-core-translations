@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/weather/"
@@ -14,48 +14,65 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Astronomy"
 msgid "Astronomy"
 msgstr "Astronomie"
 
+msgctxt "Atmosphere"
 msgid "Atmosphere"
 msgstr "Atmosphäre"
 
+msgctxt "Change location"
 msgid "Change location"
 msgstr "Standort ändern"
 
+msgctxt "Chill:"
 msgid "Chill:"
 msgstr "Gefühlt:"
 
+msgctxt "Click here to view more details on current weather."
 msgid "Click here to view more details on current weather."
 msgstr "Klicken Sie hier, für weitere Informationen zu aktuellem Wetter."
 
+msgctxt "Country:"
 msgid "Country:"
 msgstr "Land:"
 
+msgctxt "Direction:"
 msgid "Direction:"
 msgstr "Richtung:"
 
+msgctxt "Fri"
 msgid "Fri"
 msgstr "Fr"
 
+msgctxt "Humidity:"
 msgid "Humidity:"
 msgstr "Feuchtigkeit:"
 
+msgctxt "Mon"
 msgid "Mon"
 msgstr "Mo"
 
+msgctxt "Postal code or city"
 msgid "Postal code or city"
 msgstr "Postleitzahl oder Stadt"
 
+msgctxt "Pressure:"
 msgid "Pressure:"
 msgstr "Luftdruck:"
 
+msgctxt "Rising:"
 msgid "Rising:"
 msgstr "Steigend:"
 
+msgctxt "Sat"
 msgid "Sat"
 msgstr "Sa"
 
+msgctxt ""
+"Sorry, but the weather service is not available for the moment. Please try "
+"again later."
 msgid ""
 "Sorry, but the weather service is not available for the moment. Please try "
 "again later."
@@ -63,38 +80,50 @@ msgstr ""
 "Leider ist der Wetterdienst momentan nicht verfügbar. Bitte versuchen Sie es "
 "später noch einmal."
 
+msgctxt "Speed:"
 msgid "Speed:"
 msgstr "Geschwindigkeit:"
 
+msgctxt "Sun"
 msgid "Sun"
 msgstr "So"
 
+msgctxt "Sunrise:"
 msgid "Sunrise:"
 msgstr "Sonnenaufgang:"
 
+msgctxt "Sunset:"
 msgid "Sunset:"
 msgstr "Sonnenuntergang:"
 
+msgctxt "Thu"
 msgid "Thu"
 msgstr "Do"
 
+msgctxt "Tue"
 msgid "Tue"
 msgstr "Di"
 
+msgctxt "Units:"
 msgid "Units:"
 msgstr "Einheiten:"
 
+msgctxt "Use my location"
 msgid "Use my location"
 msgstr "Benutze meinen Standort"
 
+msgctxt "Visibility:"
 msgid "Visibility:"
 msgstr "Sichtweite:"
 
+msgctxt "Weather information"
 msgid "Weather information"
 msgstr "Wetterinformationen"
 
+msgctxt "Wed"
 msgid "Wed"
 msgstr "Mi"
 
+msgctxt "Wind"
 msgid "Wind"
 msgstr "Wind"

@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Czech <http://translate.siberiancms.com/projects/siberian/"
-"contact/cs/>\n"
+"Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/contact/cs/"
+">\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,50 +14,66 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Při ukládání kontaktních informací došlo k chybě."
 
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr "Při odesílání Vaší zprávy došlo k chybě. Zkuste to prosím později."
 
+msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "Telefonní číslo:"
 
+msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Opravdu chcete odstranit obrázek?"
 
+msgctxt "City"
 msgid "City"
 msgstr "Město"
 
+msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Kontaktní informace"
 
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Kontaktní email:"
 
+msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Zde je zpráva/dotaz:"
 
+msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Vyplňte prosím následující údaje: <br />"
 
+msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
+msgctxt "Website"
 msgid "Website"
 msgstr "Webová stránka"
 
+msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Obdželi jste zprávu od:"
 
+msgctxt "Your email"
 msgid "Your email"
 msgstr "Váš e-mail"
 
+msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Vaše zpráva byla odeslána"
 
+msgctxt "Your request"
 msgid "Your request"
 msgstr "Zpráva"
 
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "PSČ"

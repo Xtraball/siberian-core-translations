@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/customer/"
@@ -14,11 +14,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "A request to reset your password has been made."
 msgid "A request to reset your password has been made."
 msgstr ""
 "Una demanda de reinicialización de su contraseña ha sido hecha para "
 "conectarse a nuestra aplicación."
 
+msgctxt ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
 msgid ""
 "An error occurred while connecting to your Facebook account. Please try "
 "again later"
@@ -26,125 +30,167 @@ msgstr ""
 "Se ha producido un error al conectar con su cuenta de Facebook. Por favor "
 "inténtelo de nuevo más tarde."
 
+msgctxt "Are you sure you want to remove this user?"
 msgid "Are you sure you want to remove this user?"
 msgstr "¿Seguro que quieres eliminar este usuario?"
 
+msgctxt "Change Password"
 msgid "Change Password"
 msgstr "Cambiar password"
 
+msgctxt "Civility"
 msgid "Civility"
 msgstr "Cortesia"
 
+msgctxt "Congratulations,"
 msgid "Congratulations,"
 msgstr "Felicidades,"
 
+msgctxt "Create"
 msgid "Create"
 msgstr "Crear"
 
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Crear un nuevo usuario"
 
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Cliente"
 
+msgctxt "Customers"
 msgid "Customers"
 msgstr "Clientes"
 
+msgctxt "Disconnect"
 msgid "Disconnect"
 msgstr "Desconectar"
 
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Editar el usuario %s"
 
+msgctxt "First name"
 msgid "First name"
 msgstr "Nombre"
 
+msgctxt "Here are your credentials:"
 msgid "Here are your credentials:"
 msgstr "Esto es sus identificadores :"
 
+msgctxt "I accept the privacy policy"
 msgid "I accept the privacy policy"
 msgstr "Acepto la política de privacidad"
 
+msgctxt "If you encounter any problems, do not hesitate to contact us:"
 msgid "If you encounter any problems, do not hesitate to contact us:"
 msgstr ""
 "Si usted encuentra problemas, no dude en ponerse en contacto con nosotros : "
 
+msgctxt "Last name"
 msgid "Last name"
 msgstr "Apellidos"
 
+msgctxt "Login:"
 msgid "Login:"
 msgstr "Correro electrónico :"
 
+msgctxt "Log-in with Facebook"
 msgid "Log-in with Facebook"
 msgstr "Entrar con Facebook"
 
+msgctxt "Miss"
 msgid "Miss"
 msgstr "Srta."
 
+msgctxt "Mr"
 msgid "Mr"
 msgstr "Sr."
 
+msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Sra."
 
+msgctxt "My Account"
 msgid "My Account"
 msgstr "Mi Cuenta"
 
+msgctxt "My application's users"
 msgid "My application's users"
 msgstr "Los usuarios de mi app"
 
+msgctxt "No user for now."
 msgid "No user for now."
 msgstr "Sin usuario por ahora."
 
+msgctxt "No user match your request."
 msgid "No user match your request."
 msgstr "No hay usuarios que coincidan."
 
+msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "O con su cuenta"
 
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
 msgid ""
 "Please enter your email address. We'll send you your password right now."
 msgstr ""
 "Ingrese su dirección de correo electrónico, donde recibirá su contraseña."
 
+msgctxt "Please log in with your mobile phone"
 msgid "Please log in with your mobile phone"
 msgstr "Por favor acceda con su teléfono móvil"
 
+msgctxt "See you soon,"
 msgid "See you soon,"
 msgstr "Hasta pronto"
 
+msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Aparecer en el ranking"
 
+msgctxt "The old email address does not match the entered email address."
 msgid "The old email address does not match the entered email address."
 msgstr ""
 "La antigua dirección de email no coincide con la dirección de email "
 "introducida"
 
+msgctxt "This user is visible in ranking"
 msgid "This user is visible in ranking"
 msgstr "Este usuario es visible en el ranking"
 
+msgctxt "Title"
 msgid "Title"
 msgstr "Título"
 
+msgctxt "User"
 msgid "User"
 msgstr "Usuario"
 
+msgctxt "User Information"
 msgid "User Information"
 msgstr "Información del usuario"
 
+msgctxt "Users"
 msgid "Users"
 msgstr "Usuarios"
 
+msgctxt ""
+"We are sorry but the %s account is already linked to one of our customers"
 msgid ""
 "We are sorry but the %s account is already linked to one of our customers"
 msgstr ""
 "Lo sentimos pero la cuenta %s ya está siendo usada por uno de nuestros "
 "clientes."
 
+msgctxt "We are sorry but this nickname is already used"
 msgid "We are sorry but this nickname is already used"
 msgstr "Lo sentimos pero tu nick ya está en uso"
 
+msgctxt ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
 msgid ""
 "We are sorry but this nickname is not valid. Use only alphanumerical "
 "characters and underscores and use 15 characters maximum"
@@ -152,6 +198,9 @@ msgstr ""
 "Lo sentimos pero el nick no es valido. Usa solo caracteres alfanuméricos y "
 "usa 15 caracteres máximo."
 
+msgctxt ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
 msgid ""
 "You have created your account. With this account, you will be able to enjoy "
 "great offers available in our application."
@@ -159,20 +208,26 @@ msgstr ""
 "Usted acaba de crear su cuenta. Con esta cuenta, usted podrá aprovechar de "
 "ofertas ventajosas disponibles en nuestra aplicación."
 
+msgctxt "You must agree to our privacy policy to create an account."
 msgid "You must agree to our privacy policy to create an account."
 msgstr "Debes aceptar nuestras políticas de privacidad para crear una cuenta."
 
+msgctxt "You must fill firstname and lastname fields."
 msgid "You must fill firstname and lastname fields."
 msgstr "Debes rellenar los campos nombre y apellido."
 
+msgctxt "Your account has been successfully saved"
 msgid "Your account has been successfully saved"
 msgstr "Su cuenta ha sido guardada correctamente"
 
+msgctxt "Your points"
 msgid "Your points"
 msgstr "Tus puntos"
 
+msgctxt "%s - Account creation"
 msgid "%s - Account creation"
 msgstr "%s - Creación de cuenta"
 
+msgctxt "%s - Your new password"
 msgid "%s - Your new password"
 msgstr "%s - Tu nueva password"

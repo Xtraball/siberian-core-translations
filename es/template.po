@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/template/"
@@ -14,59 +14,78 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "All"
 msgid "All"
 msgstr "Todas"
 
+msgctxt "Arts"
 msgid "Arts"
 msgstr "Artes"
 
+msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Elija una plantilla para personalizar"
 
+msgctxt "City"
 msgid "City"
 msgstr "Ciudad"
 
+msgctxt "Corporate"
 msgid "Corporate"
 msgstr "Corporativo"
 
+msgctxt "Design"
 msgid "Design"
 msgstr "Diseño"
 
+msgctxt "Education"
 msgid "Education"
 msgstr "Educación"
 
+msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Entretenimiento"
 
+msgctxt "Fashion"
 msgid "Fashion"
 msgstr "Moda"
 
+msgctxt "Health & Beauty"
 msgid "Health & Beauty"
 msgstr "Belleza y salud"
 
+msgctxt "Hotels"
 msgid "Hotels"
 msgstr "Hoteles"
 
+msgctxt "List of your categories"
 msgid "List of your categories"
 msgstr "Lista de categorías"
 
+msgctxt "Local Business"
 msgid "Local Business"
 msgstr "Negocios"
 
+msgctxt "Music"
 msgid "Music"
 msgstr "Música"
 
+msgctxt "Organizations"
 msgid "Organizations"
 msgstr "Organizaciones"
 
+msgctxt "Real Estate"
 msgid "Real Estate"
 msgstr "Inmobiliaría"
 
+msgctxt "Sports"
 msgid "Sports"
 msgstr "Deportes"
 
+msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "PLANTILLAS"
 
+msgctxt "Templates"
 msgid "Templates"
 msgstr "Plantillas"

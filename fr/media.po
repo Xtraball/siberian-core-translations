@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/media/fr/>"
@@ -14,311 +14,410 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "+ Add a track"
 msgid "+ Add a track"
 msgstr "+ Ajouter une piste"
 
+msgctxt "Add albums and tracks to the playlist:"
 msgid "Add albums and tracks to the playlist:"
 msgstr "Ajouter des albums et des pistes à la playlist:"
 
+msgctxt "Album"
 msgid "Album"
 msgstr "Album"
 
+msgctxt "Albums"
 msgid "Albums"
 msgstr "Albums"
 
+msgctxt ""
+"An error occurred while deleting you images gallery. Please try again later."
 msgid ""
 "An error occurred while deleting you images gallery. Please try again later."
 msgstr ""
 "Une erreur est survenue pendant que vous la suppression de galerie d'images. "
 "Merci de réessayer plus tard."
 
+msgctxt "An error occurred while deleting your album. Thanks for trying later."
 msgid "An error occurred while deleting your album. Thanks for trying later."
 msgstr ""
 "Une erreur est survenue lors de la suppression de votre album. Merci "
 "d'essayer plus tard."
 
+msgctxt ""
+"An error occurred while deleting your playlist. Thanks for trying later."
 msgid ""
 "An error occurred while deleting your playlist. Thanks for trying later."
 msgstr ""
 "Une erreur est survenue lors de la suppression de votre playlist. Merci "
 "d'essayer plus tard."
 
+msgctxt "An error occurred while deleting your track. Thanks for trying later."
 msgid "An error occurred while deleting your track. Thanks for trying later."
 msgstr ""
 "Une erreur est survenue lors de la suppression de votre piste. Merci "
 "d'essayer plus tard."
 
+msgctxt "An error occurred while loading pictures. Please try later."
 msgid "An error occurred while loading pictures. Please try later."
 msgstr ""
 "Oouups.. Une erreur est survenue lors du chargement des images. Merci de "
 "réessayer plus tard."
 
+msgctxt "An error occurred while loading the media."
 msgid "An error occurred while loading the media."
 msgstr "Une erreur est survenue lors du chargement des médias."
 
+msgctxt "An error occurred while loading the radio."
 msgid "An error occurred while loading the radio."
 msgstr "Une erreur est survenue lors du chargement de la radio."
 
+msgctxt "An error occurred while loading videos. Please try later."
 msgid "An error occurred while loading videos. Please try later."
 msgstr ""
 "Une erreur est survenue lors du chargement des vidéos. Merci de réessayer "
 "plus tard."
 
+msgctxt ""
+"An error occurred while retrieving your page. Please check your page id."
 msgid ""
 "An error occurred while retrieving your page. Please check your page id."
 msgstr ""
 "Une erreur s'est produite lors de la récupération de votre page. Veuillez "
 "vérifier l'identification de votre page."
 
+msgctxt ""
+"An error occurred while saving your images gallery. Please try again later."
 msgid ""
 "An error occurred while saving your images gallery. Please try again later."
 msgstr ""
 "Une erreur est survenue lors de l'enregistrement de votre galerie d'images. "
 "Merci de réessayer plus tard."
 
+msgctxt "An error occurred while saving your playlist. Thanks for trying later."
 msgid "An error occurred while saving your playlist. Thanks for trying later."
 msgstr ""
 "Une erreur est survenue lors de l'enregistrement de votre playlist. Merci "
 "d'essayer plus tard."
 
+msgctxt ""
+"An error occurred while saving your videos gallery. Please try again later."
 msgid ""
 "An error occurred while saving your videos gallery. Please try again later."
 msgstr ""
 "Une erreur est survenue lors de l'enregistrement de votre galerie de vidéos. "
 "Mercci de réessayer plus tard."
 
+msgctxt "Are you sure you don't want to create an album for these tracks?"
 msgid "Are you sure you don't want to create an album for these tracks?"
 msgstr "Etes-vous sûr de ne pas vouloir créer un album pour ces pistes?"
 
+msgctxt "Are you sure you don't want to create an album for this track?"
 msgid "Are you sure you don't want to create an album for this track?"
 msgstr "Etes-vous sûr de pas vouloir créer un album pour ce morceau?"
 
+msgctxt "Are you sure you want to delete this album?"
 msgid "Are you sure you want to delete this album?"
 msgstr "Etes-vous sûr de supprimer cet album?"
 
+msgctxt "Are you sure you want to delete this album (this won't delete tracks)?"
 msgid "Are you sure you want to delete this album (this won't delete tracks)?"
 msgstr "Etes vous sûre de vouloir supprimer cet album?"
 
+msgctxt "Are you sure you want to delete this playlist?"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Etes-vous sûr de supprimer ce playlist?"
 
+msgctxt "Are you sure you want to delete this track?"
 msgid "Are you sure you want to delete this track?"
 msgstr "Etes vous sûr de vouloir supprimer cette piste?"
 
+msgctxt "Artist:"
 msgid "Artist:"
 msgstr "Artiste"
 
+msgctxt "Audio"
 msgid "Audio"
 msgstr "Audio"
 
+msgctxt "Channel"
 msgid "Channel"
 msgstr "Chaîne"
 
+msgctxt "Choose an album"
 msgid "Choose an album"
 msgstr "Choisir un album"
 
+msgctxt "Custom"
 msgid "Custom"
 msgstr "Personnalisé"
 
+msgctxt "Delete this gallery?"
 msgid "Delete this gallery?"
 msgstr "Supprimer cette galerie?"
 
+msgctxt "Facebook page ID"
 msgid "Facebook page ID"
 msgstr "ID de la page Facebook"
 
+msgctxt "Feed URL"
 msgid "Feed URL"
 msgstr "URL du flux RSS"
 
+msgctxt "Flickr"
 msgid "Flickr"
 msgstr "Flickr"
 
+msgctxt "Flickr API settings can't be found."
 msgid "Flickr API settings can't be found."
 msgstr "Les paramètres de l'API Flickr sont introuvables."
 
+msgctxt "Flickr user"
 msgid "Flickr user"
 msgstr "Utilisateur de Flickr"
 
+msgctxt "Gallery Name"
 msgid "Gallery Name"
 msgstr "Nom de la galerie"
 
+msgctxt "Group"
 msgid "Group"
 msgstr "Groupe"
 
+msgctxt "If set, will appear instead of the Facebook page Id in app."
 msgid "If set, will appear instead of the Facebook page Id in app."
 msgstr ""
 "Si définie, apparaîtra à la place de l'identification de la page Facebook "
 "dans l'application."
 
+msgctxt "I'm listening to"
 msgid "I'm listening to"
 msgstr "J'écoute"
 
+msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr "Je suis à l'écoute de $1 $2 sur l'application $3."
 
+msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr "Je suis en train d'écouter $1 sur l'application $2."
 
+msgctxt "Images gallery has been saved successfully"
 msgid "Images gallery has been saved successfully"
 msgstr "La galerie d'images a été enregistré avec succès"
 
+msgctxt "Instagram"
 msgid "Instagram"
 msgstr "Instagram"
 
+msgctxt "Instagram API settings can't be found."
 msgid "Instagram API settings can't be found."
 msgstr "Instagram API paramètres ne peut pas être trouvé."
 
+msgctxt "Last update:"
 msgid "Last update:"
 msgstr "Dernière mise à jour"
 
+msgctxt "Login"
 msgid "Login"
 msgstr "S'identifier"
 
+msgctxt "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgid "Maximum size : 2000*2000 px - Allowed filetypes : jpg and png"
 msgstr "Taille maximale: 2000 * 2000 px - Type de fichiers permis: jpg et png"
 
+msgctxt "My images"
 msgid "My images"
 msgstr "Mes Images"
 
+msgctxt "No album found"
 msgid "No album found"
 msgstr "Aucun album trouvé"
 
+msgctxt "No artist found"
 msgid "No artist found"
 msgstr "Aucun artiste trouvé"
 
+msgctxt "No current stream to play so far."
 msgid "No current stream to play so far."
 msgstr "Pas de stream actuel à jouer jusqu'à présent."
 
+msgctxt "No track found"
 msgid "No track found"
 msgstr "Aucune piste trouvée"
 
+msgctxt "No valid Facebook API key and secret."
 msgid "No valid Facebook API key and secret."
 msgstr "Aucune clé d'API Facebook ou code secret valide."
 
+msgctxt "PLAYER"
 msgid "PLAYER"
 msgstr "Player"
 
+msgctxt "Page ID"
 msgid "Page ID"
 msgstr "L'ID de la Page"
 
+msgctxt "Page not found"
 msgid "Page not found"
 msgstr "Page non trouvée"
 
+msgctxt "Parameter"
 msgid "Parameter"
 msgstr "Paramètres"
 
+msgctxt "Parameter/Feed Url"
 msgid "Parameter/Feed Url"
 msgstr "Paramètres/URL du flux RSS"
 
+msgctxt "Picasa"
 msgid "Picasa"
 msgstr "Picasa"
 
+msgctxt "Playlist"
 msgid "Playlist"
 msgstr "Playlist"
 
+msgctxt "Playlist successfully saved."
 msgid "Playlist successfully saved."
 msgstr "Playlist sauvegardé avec succès."
 
+msgctxt "Playlist title:"
 msgid "Playlist title:"
 msgstr "Titre playlist"
 
+msgctxt "Playlists"
 msgid "Playlists"
 msgstr "Playlists"
 
+msgctxt "Please specify the page ID"
 msgid "Please specify the page ID"
 msgstr "Veuillez spécifier l'ID de la page"
 
+msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Podcast"
 
+msgctxt "Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (format iTunes)"
 
+msgctxt "Read all"
 msgid "Read all"
 msgstr "Lire tout"
 
+msgctxt "Reload album list?"
 msgid "Reload album list?"
 msgstr "Recharger la liste des albums?"
 
+msgctxt "Required field"
 msgid "Required field"
 msgstr "Champs obligatoire"
 
+msgctxt "Search/Url"
 msgid "Search/Url"
 msgstr "Rechercher/Url"
 
+msgctxt "The entered name is not a valid Instagram user."
 msgid "The entered name is not a valid Instagram user."
 msgstr "Le nom saisi n'est pas un utilisateur Instagram valide."
 
+msgctxt "This element is not an album."
 msgid "This element is not an album."
 msgstr "Cet élément n'est pas un album."
 
+msgctxt "Track"
 msgid "Track"
 msgstr "Piste"
 
+msgctxt "Tracks"
 msgid "Tracks"
 msgstr "Piste"
 
+msgctxt "Type"
 msgid "Type"
 msgstr "Type"
 
+msgctxt "URL (.mp3):"
 msgid "URL (.mp3):"
 msgstr "URL (.mp3):"
 
+msgctxt "Videos gallery has been saved successfully"
 msgid "Videos gallery has been saved successfully"
 msgstr "La galerie de vidéos a été enregistré avec succès"
 
+msgctxt "Vimeo"
 msgid "Vimeo"
 msgstr "Vimeo"
 
+msgctxt "buy"
 msgid "buy"
 msgstr "acheter"
 
+msgctxt "by"
 msgid "by"
 msgstr "par"
 
+msgctxt "close"
 msgid "close"
 msgstr "fermer"
 
+msgctxt "empty"
 msgid "empty"
 msgstr "vide"
 
+msgctxt "from"
 msgid "from"
 msgstr "de"
 
+msgctxt "hide"
 msgid "hide"
 msgstr "Masquer"
 
+msgctxt "loop"
 msgid "loop"
 msgstr "boucle"
 
+msgctxt "music"
 msgid "music"
 msgstr "Musique"
 
+msgctxt "next"
 msgid "next"
 msgstr "suivant"
 
+msgctxt "on"
 msgid "on"
 msgstr "sur"
 
+msgctxt "pause"
 msgid "pause"
 msgstr "pause"
 
+msgctxt "play"
 msgid "play"
 msgstr "play"
 
+msgctxt "previous"
 msgid "previous"
 msgstr "précédent"
 
+msgctxt "%s by %s"
 msgid "%s by %s"
 msgstr "%s par %s"
 
+msgctxt "share"
 msgid "share"
 msgstr "partager"
 
+msgctxt "shuffle"
 msgid "shuffle"
 msgstr "shuffle"
 
+msgctxt "track"
 msgid "track"
 msgstr "piste"
 
+msgctxt "tracks"
 msgid "tracks"
 msgstr "piste"

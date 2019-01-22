@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/contact/nl/"
@@ -14,52 +14,68 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Er is een fout opgetreden bij het opslaan van uw contact informatie."
 
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr ""
 "Er is een fout opgetreden tijdens het versturen van uw aanvraag. Probeer het "
 "later opnieuw."
 
+msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "En zijn telefoonnummer:"
 
+msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Weet u zeker dat u de afbeelding wilt verwijderen?"
 
+msgctxt "City"
 msgid "City"
 msgstr "Plaats"
 
+msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Contact informatie"
 
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Hier is zijn e-mail:"
 
+msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Hier is zijn boodschap:"
 
+msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Vul a.u.b. de volgende velden in: <br />"
 
+msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
+msgctxt "Website"
 msgid "Website"
 msgstr "Website"
 
+msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Je hebt een bericht van een contact ontvangen:"
 
+msgctxt "Your email"
 msgid "Your email"
 msgstr "Uw email"
 
+msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Je bericht is verzonden"
 
+msgctxt "Your request"
 msgid "Your request"
 msgstr "Uw vraag"
 
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "Postcode"

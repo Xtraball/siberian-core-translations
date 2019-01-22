@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/whitelabel/"
@@ -14,99 +14,133 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "App Name"
 msgid "App Name"
 msgstr "App naam"
 
+msgctxt "Area"
 msgid "Area"
 msgstr "Gebied"
 
+msgctxt "Border Blue"
 msgid "Border Blue"
 msgstr "Rand Blauw"
 
+msgctxt "Border Green"
 msgid "Border Green"
 msgstr "Rand Groen"
 
+msgctxt "Border Grey"
 msgid "Border Grey"
 msgstr "Rand Grijs"
 
+msgctxt "Border Purple"
 msgid "Border Purple"
 msgstr "Rand Paars"
 
+msgctxt "Border Red"
 msgid "Border Red"
 msgstr "Rand Rood"
 
+msgctxt "Border Yellow"
 msgid "Border Yellow"
 msgstr "Rand Geel"
 
+msgctxt "Buttons"
 msgid "Buttons"
 msgstr "Knoppen"
 
+msgctxt "Color blue"
 msgid "Color blue"
 msgstr "Kleur blauw"
 
+msgctxt "Color green"
 msgid "Color green"
 msgstr "Kleur groen"
 
+msgctxt "Color purple"
 msgid "Color purple"
 msgstr "Kleur paars"
 
+msgctxt "Color red"
 msgid "Color red"
 msgstr "Kleur rood"
 
+msgctxt "Color yellow"
 msgid "Color yellow"
 msgstr "Kleur geel"
 
+msgctxt "Company or Fullname"
 msgid "Company or Fullname"
 msgstr "Bedrijf of volledige naam"
 
+msgctxt "Contact e-mail"
 msgid "Contact e-mail"
 msgstr "Contact email"
 
+msgctxt "Content background"
 msgid "Content background"
 msgstr "Inhoud achtergrond"
 
+msgctxt "Content color"
 msgid "Content color"
 msgstr "Kleur inhoud"
 
+msgctxt "Country"
 msgid "Country"
 msgstr "Land"
 
+msgctxt "Customize My Editor"
 msgid "Customize My Editor"
 msgstr "Pas mijn editor aan"
 
+msgctxt "Delete/Cancel buttons"
 msgid "Delete/Cancel buttons"
 msgstr "Verwijder/Annuleer knoppen"
 
+msgctxt "Drop Down"
 msgid "Drop Down"
 msgstr "Dropdown"
 
+msgctxt "E-mail"
 msgid "E-mail"
 msgstr "Email"
 
+msgctxt "Enable GDPR features & rules"
 msgid "Enable GDPR features & rules"
 msgstr "GDPR-functies en -regels inschakelen"
 
+msgctxt "Enable White-Label"
 msgid "Enable White-Label"
 msgstr "Witte label inschakelen"
 
+msgctxt "Favicon"
 msgid "Favicon"
 msgstr "favicon"
 
+msgctxt "Font Color blue"
 msgid "Font Color blue"
 msgstr "Letterkleur blauw"
 
+msgctxt "Full address"
 msgid "Full address"
 msgstr "Volledig adres"
 
+msgctxt "General"
 msgid "General"
 msgstr "Algemeen"
 
+msgctxt "Grey buttons"
 msgid "Grey buttons"
 msgstr "Grijze knoppen"
 
+msgctxt "Header"
 msgid "Header"
 msgstr "Kop tekst (header)"
 
+msgctxt ""
+"In application of the GDPR regulation text, you must fullfill legal contact "
+"informations, whether you are a Company or an Individual."
 msgid ""
 "In application of the GDPR regulation text, you must fullfill legal contact "
 "informations, whether you are a Company or an Individual."
@@ -114,29 +148,38 @@ msgstr ""
 "In toepassing van de GDPR-regelgevingstekst, moet u wettelijke "
 "contactinformatie invullen, of u nu een bedrijf of een individu bent."
 
+msgctxt "Input flat"
 msgid "Input flat"
 msgstr "Invoer plat"
 
+msgctxt "Logo"
 msgid "Logo"
 msgstr "Logo"
 
+msgctxt "Menu"
 msgid "Menu"
 msgstr "Menu"
 
+msgctxt "Page"
 msgid "Page"
 msgstr "Pagina"
 
+msgctxt "Phone"
 msgid "Phone"
 msgstr "Telefoon"
 
+msgctxt "Sidebar background"
 msgid "Sidebar background"
 msgstr "Zijbalk achtergrond"
 
+msgctxt "Step menu background"
 msgid "Step menu background"
 msgstr "Stap menu achtergrond"
 
+msgctxt "Titles"
 msgid "Titles"
 msgstr "Titels"
 
+msgctxt "White-Label name"
 msgid "White-Label name"
 msgstr "White-label naam"

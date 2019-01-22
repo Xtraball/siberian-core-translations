@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/folder/"
@@ -15,30 +15,41 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Добавить страницу"
 
+msgctxt "Add feature"
 msgid "Add feature"
-msgstr ""
+msgstr "Добавить модуль"
 
+msgctxt "Allow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
-msgstr ""
+msgstr "Разрешить перевод строки в Названии и Подзаголовке"
 
+msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
-msgstr ""
+msgstr "При включении вы получите поле поиска в Папке"
 
+msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Отменить"
 
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Нажмите на"
 
+msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Нажмите на странице, чтобы добавить его в папку"
 
+msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Нажмите на странице, чтобы добавить его в папку"
 
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
@@ -46,65 +57,86 @@ msgstr ""
 "Нажмите на странице, чтобы добавить его в папку <span id=\"folder_name\" "
 "class=\"folder_name\">\"%s\"</span>"
 
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Закрыть моб. дисплей"
 
+msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Удалить эту папку и все вложенные папки?"
 
+msgctxt "Edit folder"
 msgid "Edit folder"
-msgstr ""
+msgstr "Изменить папку "
 
+msgctxt "Enable search in folders"
 msgid "Enable search in folders"
-msgstr ""
+msgstr "Включить поиск в папках"
 
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Требуется дать название папки"
 
+msgctxt "Folders"
 msgid "Folders"
 msgstr "Папки"
 
+msgctxt "Inherit global layout"
 msgid "Inherit global layout"
-msgstr ""
+msgstr "Наследовать глобальный макет"
 
+msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Моб. дисплей"
 
+msgctxt "New folder"
 msgid "New folder"
 msgstr "Новая папка"
 
+msgctxt "No results for your request."
 msgid "No results for your request."
-msgstr ""
+msgstr "Нет результатов для вашего запроса."
 
+msgctxt "Override layout"
 msgid "Override layout"
-msgstr ""
+msgstr "Переопределить макет"
 
+msgctxt "Search results"
 msgid "Search results"
-msgstr ""
+msgstr "Результаты поиска"
 
+msgctxt "Show cover"
 msgid "Show cover"
-msgstr ""
+msgstr "Показать обложку"
 
+msgctxt "Show search field"
 msgid "Show search field"
-msgstr ""
+msgstr "Показать поле поиска"
 
+msgctxt "Show title"
 msgid "Show title"
 msgstr "Показать статью"
 
+msgctxt "Thumbnail"
 msgid "Thumbnail"
-msgstr ""
+msgstr "Эскиз"
 
+msgctxt "Use card design"
 msgid "Use card design"
-msgstr ""
+msgstr "Использовать карточки"
 
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Вы не можете добавить эту функцию"
 
+msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Вы должны сначала завершить текущий процесс по созданию категории"
 
+msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Вы можете потерять все не сохраненные изменения!"
 
+msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "добавить папку."

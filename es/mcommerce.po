@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/"
@@ -14,64 +14,86 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt ": activate to sort column ascending"
 msgid ": activate to sort column ascending"
 msgstr ": activar para ordenar columna ascendente"
 
+msgctxt ": activate to sort column descending"
 msgid ": activate to sort column descending"
 msgstr ": activar para ordenar columna descendente"
 
+msgctxt "1 points ="
 msgid "1 points ="
 msgstr "1 punto ="
 
+msgctxt "20.00%"
 msgid "20.00%"
 msgstr "21.00%"
 
+msgctxt "Add Discount"
 msgid "Add Discount"
 msgstr "Añadir Descuento"
 
+msgctxt "Add a format"
 msgid "Add a format"
 msgstr "Añadir un formato"
 
+msgctxt "Add card"
 msgid "Add card"
 msgstr "Añadir tarjeta"
 
+msgctxt "Add gratuity (Optional)"
 msgid "Add gratuity (Optional)"
 msgstr "Agregar propinas (Opcional)"
 
+msgctxt "Add options"
 msgid "Add options"
 msgstr "Añadir opciones"
 
+msgctxt "Add pictures"
 msgid "Add pictures"
 msgstr "Añadir imagenes"
 
+msgctxt "Add to cart"
 msgid "Add to cart"
 msgstr "Añadir al carrito"
 
+msgctxt "All fields with a * are required."
 msgid "All fields with a * are required."
 msgstr "Todos los campos con * son obligatorios."
 
+msgctxt "Amount remaining:"
 msgid "Amount remaining:"
 msgstr "Importe restante:"
 
+msgctxt "Amount you will pay"
 msgid "Amount you will pay"
 msgstr "Importe que pagarás"
 
+msgctxt "An error occurred during the payment process."
 msgid "An error occurred during the payment process."
 msgstr "Ha ocurrido un error durante el pago."
 
+msgctxt "An error occurred while cancelling. Please try again later."
 msgid "An error occurred while cancelling. Please try again later."
 msgstr ""
 "Se ha producido un error durante la cancelación. Prueba de nuevo más tarde."
 
+msgctxt ""
+"An error occurred while proceeding the payment. Please, try again later."
 msgid ""
 "An error occurred while proceeding the payment. Please, try again later."
 msgstr ""
 "Ha ocurrido un error al intentar continuar con el proceso de pago. Por "
 "favor, inténtelo más tarde."
 
+msgctxt "An error occurred while proceeding your order:"
 msgid "An error occurred while proceeding your order:"
 msgstr "Error mientras se procesaba tu pedido:"
 
+msgctxt ""
+"An error occurred while proceeding your order. Please, check the following "
+"information:"
 msgid ""
 "An error occurred while proceeding your order. Please, check the following "
 "information:"
@@ -79,723 +101,964 @@ msgstr ""
 "Ha ocurrido un error al intentar continuar con su pedido. Por favor, revise "
 "la siguiente información:"
 
+msgctxt "Are you sure you want to close without saving"
 msgid "Are you sure you want to close without saving"
 msgstr "Está seguro de que desea cerrar sin guardar ?"
 
+msgctxt ""
+"Are you sure you want to delete this category and all its subcategories?"
 msgid ""
 "Are you sure you want to delete this category and all its subcategories?"
 msgstr ""
 "Estás seguro que quieres borrar esta categoria y todas sus subcategorias?"
 
+msgctxt "Are you sure you want to delete this store?"
 msgid "Are you sure you want to delete this store?"
 msgstr "Está completamente seguro de que desea eliminar esta tienda ?"
 
+msgctxt "Are you sure you want to delete this tax?"
 msgid "Are you sure you want to delete this tax?"
 msgstr "Está seguro de que desea eliminar esta tasa ?"
 
+msgctxt "Are you sure you want to remove this product?"
 msgid "Are you sure you want to remove this product?"
 msgstr "Está seguro de que desea eliminar este producto ?"
 
+msgctxt "At least one option is required:"
 msgid "At least one option is required:"
 msgstr "Debe marcar al menos una opción:"
 
+msgctxt "Birthday"
 msgid "Birthday"
 msgstr "Cumpleaños"
 
+msgctxt "CVC"
 msgid "CVC"
 msgstr "CVC"
 
+msgctxt "Calculate the change for the client"
 msgid "Calculate the change for the client"
 msgstr "Calcular el cambio para el cliente"
 
+msgctxt "Cancel order"
 msgid "Cancel order"
 msgstr "Cancelar pedido"
 
+msgctxt "Cancelled"
 msgid "Cancelled"
 msgstr "Cancelada"
 
+msgctxt "Card Number"
 msgid "Card Number"
 msgstr "Número De Tarjeta"
 
+msgctxt "Carry Out"
 msgid "Carry Out"
 msgstr "Procesar pedido"
 
+msgctxt "Cart"
 msgid "Cart"
 msgstr "Carrito"
 
+msgctxt "Cash"
 msgid "Cash"
 msgstr "Caja"
 
+msgctxt "Category"
 msgid "Category"
 msgstr "Categoría"
 
+msgctxt "Category successfully saved."
 msgid "Category successfully saved."
 msgstr "Categoría guardada correctamente"
 
+msgctxt "Check"
 msgid "Check"
 msgstr "Verificar"
 
+msgctxt "Choose a delivery method:"
 msgid "Choose a delivery method:"
 msgstr "Elija un método de entrega:"
 
+msgctxt "Choose a payment method:"
 msgid "Choose a payment method:"
 msgstr "Elija un método de pago:"
 
+msgctxt "Choose a store"
 msgid "Choose a store"
 msgstr "Elige una tienda"
 
+msgctxt "City"
 msgid "City"
 msgstr "Ciudad"
 
+msgctxt "Client"
 msgid "Client"
 msgstr "Cliente"
 
+msgctxt "Client will pay"
 msgid "Client will pay"
 msgstr "El cliente pagará"
 
+msgctxt "Code"
 msgid "Code"
 msgstr "Codigo"
 
+msgctxt "Code used"
 msgid "Code used"
 msgstr "Código utilizado"
 
+msgctxt "Completed"
 msgid "Completed"
 msgstr "Completada"
 
+msgctxt "Confirmation"
 msgid "Confirmation"
 msgstr "Confirmación"
 
+msgctxt "Connected Printers"
 msgid "Connected Printers"
 msgstr "Impresoras conectadas"
 
+msgctxt "Continue shopping"
 msgid "Continue shopping"
 msgstr "Continuar comprando"
 
+msgctxt "Create a new choice list group"
 msgid "Create a new choice list group"
 msgstr "Crear nueva lista de eleccion en grupo"
 
+msgctxt "Create a new discount"
 msgid "Create a new discount"
 msgstr "Crear un nuevo descuento"
 
+msgctxt "Create a new options group"
 msgid "Create a new options group"
 msgstr "Crear una nueva opción de grupo"
 
+msgctxt "Create a new product"
 msgid "Create a new product"
 msgstr "Crear un nuevo producto"
 
+msgctxt "Create a new tax"
 msgid "Create a new tax"
 msgstr "Crear una nueva tasa"
 
+msgctxt "Create a store"
 msgid "Create a store"
 msgstr "Crear una tienda"
 
+msgctxt "Credit Card by phone"
 msgid "Credit Card by phone"
 msgstr "Tarjeta de Crédito por teléfono"
 
+msgctxt "Credit card (online payment)"
 msgid "Credit card (online payment)"
 msgstr "Tarjeta de credito (pago online)"
 
+msgctxt "Credit card (pay upon pickup or delivery)"
 msgid "Credit card (pay upon pickup or delivery)"
 msgstr ""
 "\n"
 "Tarjeta de crédito (pagar en el momento de la entrega)"
 
+msgctxt "Credit card payment"
 msgid "Credit card payment"
 msgstr "Pago con tarjeta"
 
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Cliente"
 
+msgctxt "Customer Service"
 msgid "Customer Service"
 msgstr "Atención al cliente"
 
+msgctxt "Customer can add tip to a command?"
 msgid "Customer can add tip to a command?"
 msgstr "El cliente puede agregar apuntes a un pedido?"
 
+msgctxt "Date of birth"
 msgid "Date of birth"
 msgstr "Fecha de nacimiento"
 
+msgctxt "Deductable"
 msgid "Deductable"
 msgstr "Deducibles"
 
+msgctxt "Deduction"
 msgid "Deduction"
 msgstr "Deducción"
 
+msgctxt "Delete"
 msgid "Delete"
 msgstr "Borrar"
 
+msgctxt "Delivery"
 msgid "Delivery"
 msgstr "Entrega"
 
+msgctxt "Delivery Fees"
 msgid "Delivery Fees"
 msgstr "Gastos de Envío"
 
+msgctxt "Delivery Method"
 msgid "Delivery Method"
 msgstr "Método de Entrega"
 
+msgctxt "Delivery address"
 msgid "Delivery address"
 msgstr "Dirección envios"
 
+msgctxt "Delivery area"
 msgid "Delivery area"
 msgstr "Área de Entrega"
 
+msgctxt "Delivery fees"
 msgid "Delivery fees"
 msgstr "Gastos de Envío"
 
+msgctxt "Delivery methods"
 msgid "Delivery methods"
 msgstr "Métodos de Entrega"
 
+msgctxt "Delivery radius"
 msgid "Delivery radius"
 msgstr "Radio de entrega"
 
+msgctxt "Delivery time"
 msgid "Delivery time"
 msgstr "Tiempo de entrega"
 
+msgctxt "Details"
 msgid "Details"
 msgstr "Detalles"
 
+msgctxt "Discound code"
 msgid "Discound code"
 msgstr "Código Descuento"
 
+msgctxt "Discount"
 msgid "Discount"
 msgstr "Descuento"
 
+msgctxt "Discount Settings"
 msgid "Discount Settings"
 msgstr "Configuración de descuento"
 
+msgctxt "Discount amount"
 msgid "Discount amount"
 msgstr "Total descuento"
 
+msgctxt "Discount amount si very high"
 msgid "Discount amount si very high"
 msgstr "El monto de descuento si muy alto"
 
+msgctxt "Discount code"
 msgid "Discount code"
 msgstr "Código descuento"
 
+msgctxt "Discount code already exists"
 msgid "Discount code already exists"
 msgstr "Código de descuento ya existe"
 
+msgctxt "Discount code is missing"
 msgid "Discount code is missing"
 msgstr "Código de descuento falta"
 
+msgctxt "Discount label is missing"
 msgid "Discount label is missing"
 msgstr "Etiqueta Descuento falta"
 
+msgctxt "Discount minimum amount is missing"
 msgid "Discount minimum amount is missing"
 msgstr "Descuento cantidad mínima falta"
 
+msgctxt "Discount no longer available"
 msgid "Discount no longer available"
 msgstr "El descuento ya no está disponible"
 
+msgctxt "Discount only for carts with total more than: "
 msgid "Discount only for carts with total more than: "
 msgstr "Descuento solo para los carros con un total de más de: "
 
+msgctxt "Discount settings"
 msgid "Discount settings"
 msgstr "Descuento Configuración"
 
+msgctxt "Discount total"
 msgid "Discount total"
 msgstr "Descuento total"
 
+msgctxt "Discount type"
 msgid "Discount type"
 msgstr "Tipo de descuento"
 
+msgctxt "Discount type is missing"
 msgid "Discount type is missing"
 msgstr "Tipo de descuento falta"
 
+msgctxt "Discount used"
 msgid "Discount used"
 msgstr "Descuento usado"
 
+msgctxt "Discount validation date"
 msgid "Discount validation date"
 msgstr "Validacion fecha descuento"
 
+msgctxt "Discounted amount is missing"
 msgid "Discounted amount is missing"
 msgstr "Total del descuento falta"
 
+msgctxt "Discounted amount should be a positive number"
 msgid "Discounted amount should be a positive number"
 msgstr "Monto del descuento debe ser un número positivo"
 
+msgctxt "Do you confirm you want to remove your card?"
 msgid "Do you confirm you want to remove your card?"
 msgstr "¿Confirma que desea quitar su tarjeta?"
 
+msgctxt "Done"
 msgid "Done"
 msgstr "Hecho"
 
+msgctxt "Duplicate this product"
 msgid "Duplicate this product"
 msgstr "Duplicar este producto"
 
+msgctxt "Edit a store"
 msgid "Edit a store"
 msgstr "Editar una tienda"
 
+msgctxt "Edit the choice list group"
 msgid "Edit the choice list group"
 msgstr "Editar lista de grupo de eleccion"
 
+msgctxt "Edit the discount %s"
 msgid "Edit the discount %s"
 msgstr "Editar el descuento %s"
 
+msgctxt "Edit the options group %s"
 msgid "Edit the options group %s"
 msgstr "Editar las opciones de grupo %s"
 
+msgctxt "Edit the product %s"
 msgid "Edit the product %s"
 msgstr "Editar el producto %s"
 
+msgctxt "Edit the tax %s"
 msgid "Edit the tax %s"
 msgstr "Editar la tasa %s"
 
+msgctxt "Email"
 msgid "Email"
 msgstr "Email"
 
+msgctxt "Enabled"
 msgid "Enabled"
 msgstr "Habilitado"
 
+msgctxt "Error while using your points"
 msgid "Error while using your points"
 msgstr "Error mientras se usaban tus puntos"
 
+msgctxt "Estimated discount:"
 msgid "Estimated discount:"
 msgstr "Descuento estimado:"
 
+msgctxt "First"
 msgid "First"
 msgstr "Primero"
 
+msgctxt "First Name"
 msgid "First Name"
 msgstr "Nombre"
 
+msgctxt "Firstname"
 msgid "Firstname"
 msgstr "Nombre"
 
+msgctxt "Format:"
 msgid "Format:"
 msgstr "Formato:"
 
+msgctxt "Free delivery starting from"
 msgid "Free delivery starting from"
 msgstr "Entrega gratuita a partir de"
 
+msgctxt "Free purchase"
 msgid "Free purchase"
 msgstr "Gratis"
 
+msgctxt "From"
 msgid "From"
 msgstr ""
 
+msgctxt "Gratuity"
 msgid "Gratuity"
 msgstr "De propina"
 
+msgctxt "Guest Order"
 msgid "Guest Order"
 msgstr "Pedido de invitado"
 
+msgctxt "Here is the detail of the order"
 msgid "Here is the detail of the order"
 msgstr "Detalle de su pedido"
 
+msgctxt "Here is the detail of your order"
 msgid "Here is the detail of your order"
 msgstr "Detalle de su pedido"
 
+msgctxt "Hidden"
 msgid "Hidden"
 msgstr "Oculto"
 
+msgctxt "Hours of operation"
 msgid "Hours of operation"
 msgstr "Horario de apertura, atención"
 
+msgctxt "I will pay"
 msgid "I will pay"
 msgstr "Pagaré"
 
+msgctxt "In store"
 msgid "In store"
 msgstr "En tienda"
 
+msgctxt "Incl."
 msgid "Incl."
 msgstr "Incl."
 
+msgctxt "Invalid code"
 msgid "Invalid code"
 msgstr "Código no válido"
 
+msgctxt "Invoicing address"
 msgid "Invoicing address"
 msgstr "Dirección facturación"
 
+msgctxt "Keep card information"
 msgid "Keep card information"
 msgstr "Mantener información de la tarjeta"
 
+msgctxt "Label"
 msgid "Label"
 msgstr "Etiqueta"
 
+msgctxt "Last"
 msgid "Last"
 msgstr "Último"
 
+msgctxt "Last Name"
 msgid "Last Name"
 msgstr "Apellidos"
 
+msgctxt "Lastname"
 msgid "Lastname"
 msgstr "Apellidos"
 
+msgctxt "Loading..."
 msgid "Loading..."
 msgstr "Cargando..."
 
+msgctxt "Login"
 msgid "Login"
 msgstr "Login"
 
+msgctxt "MM"
 msgid "MM"
 msgstr "MM"
 
+msgctxt "Manage discounts"
 msgid "Manage discounts"
 msgstr "Gestionar descuentos"
 
+msgctxt "Manage user fields"
 msgid "Manage user fields"
 msgstr "Gestionar campos de usuario"
 
+msgctxt "Mandatory"
 msgid "Mandatory"
 msgstr "Obligatorio"
 
+msgctxt "Meal Voucher"
 msgid "Meal Voucher"
 msgstr "Vale de comida"
 
+msgctxt "Merchant ID:"
 msgid "Merchant ID:"
 msgstr "ID comercio:"
 
+msgctxt "Minimum amount"
 msgid "Minimum amount"
 msgstr "Cantidad mínima"
 
+msgctxt "Minimum amount should be a positive number"
 msgid "Minimum amount should be a positive number"
 msgstr "Cantidad mínima debe ser un número positivo"
 
+msgctxt "Minimum order"
 msgid "Minimum order"
 msgstr "Pedido minimo"
 
+msgctxt "My Cart"
 msgid "My Cart"
 msgstr "Mi Carrito"
 
+msgctxt "My cart is empty"
 msgid "My cart is empty"
 msgstr "Mi Carrito está vacío"
 
+msgctxt "My categories"
 msgid "My categories"
 msgstr "Mis categorías"
 
+msgctxt "My information"
 msgid "My information"
 msgstr "Mi información"
 
+msgctxt "My orders"
 msgid "My orders"
 msgstr "Mis pedidos"
 
+msgctxt "My products"
 msgid "My products"
 msgstr "Mis productos"
 
+msgctxt "My product's categories"
 msgid "My product's categories"
 msgstr "Categorias de mis productos"
 
+msgctxt "My product's list choice options"
 msgid "My product's list choice options"
 msgstr "Elige opciones lista de mis productos"
 
+msgctxt "My product's options"
 msgid "My product's options"
 msgstr "Opciones de mis productos"
 
+msgctxt "My stores"
 msgid "My stores"
 msgstr "Mis tiendas"
 
+msgctxt "My taxes"
 msgid "My taxes"
 msgstr "Mis tasas"
 
+msgctxt "Name of the options group:"
 msgid "Name of the options group:"
 msgstr "Nombre de las opciones de grupo:"
 
+msgctxt "New order from the application"
 msgid "New order from the application"
 msgstr "Nuevo pedido desde la App"
 
+msgctxt "Next"
 msgid "Next"
 msgstr "Siguiente"
 
+msgctxt "No data available in table"
 msgid "No data available in table"
 msgstr "No se dispone de datos en la tabla"
 
+msgctxt "No matching records found"
 msgid "No matching records found"
 msgstr "No hay registros coincidentes"
 
+msgctxt "Notes"
 msgid "Notes"
 msgstr "Notas"
 
+msgctxt "Number"
 msgid "Number"
 msgstr "Número"
 
+msgctxt "Option $1 is required."
 msgid "Option $1 is required."
 msgstr "Opción $1 es requerido."
 
+msgctxt "Option name"
 msgid "Option name"
 msgstr "Nombre de Opción"
 
+msgctxt "Optional"
 msgid "Optional"
 msgstr "Opcional"
 
+msgctxt "Options"
 msgid "Options"
 msgstr "Opciones"
 
+msgctxt "Options group successfully deleted"
 msgid "Options group successfully deleted"
 msgstr "Grupo de opciones borrado correctamente"
 
+msgctxt "Options group successfully saved"
 msgid "Options group successfully saved"
 msgstr "Grupo de opciones grabado correctamente"
 
+msgctxt "Order Number"
 msgid "Order Number"
 msgstr "Número de Pedido"
 
+msgctxt "Order N°"
 msgid "Order N°"
 msgstr "Nº Pedido"
 
+msgctxt "Order Total"
 msgid "Order Total"
 msgstr "Total pedido"
 
+msgctxt "Order confirmation"
 msgid "Order confirmation"
 msgstr "Confirmación de Pedido"
 
+msgctxt "Order details"
 msgid "Order details"
 msgstr "Detalle de pedido"
 
+msgctxt "Order history"
 msgid "Order history"
 msgstr "Historia pedidos"
 
+msgctxt "Order %s cancelled"
 msgid "Order %s cancelled"
 msgstr "Pedido %s cancelado"
 
+msgctxt "Order successfully cancelled"
 msgid "Order successfully cancelled"
 msgstr "Pedido correctamente cancelado"
 
+msgctxt "Order successfully saved"
 msgid "Order successfully saved"
 msgstr "Pedido guardado correctamente"
 
+msgctxt "Orders"
 msgid "Orders"
 msgstr "Pedidos"
 
+msgctxt "Paid"
 msgid "Paid"
 msgstr "Pagado"
 
+msgctxt "Paid by the client:"
 msgid "Paid by the client:"
 msgstr "Pagado por el cliente:"
 
+msgctxt "Password"
 msgid "Password"
 msgstr "Clave"
 
+msgctxt "Pay"
 msgid "Pay"
 msgstr "Pagar"
 
+msgctxt "Payment"
 msgid "Payment"
 msgstr "Pago"
 
+msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Método de pago"
 
+msgctxt "Payment methods:"
 msgid "Payment methods:"
 msgstr "Métodos de Pago:"
 
+msgctxt "Paypal"
 msgid "Paypal"
 msgstr "Paypal"
 
+msgctxt "Paypal settings"
 msgid "Paypal settings"
 msgstr "Configuración Paypal"
 
+msgctxt "Pending payment"
 msgid "Pending payment"
 msgstr "Pago pendiente"
 
+msgctxt "Percentage is a least 1%, at max 99%"
 msgid "Percentage is a least 1%, at max 99%"
 msgstr "Porcentaje es de por lo menos un 1%, con un máximo de 99%"
 
+msgctxt "Percentage must be at least 1 percent, at most 99 percent"
 msgid "Percentage must be at least 1 percent, at most 99 percent"
 msgstr "Porcentaje debe ser de al menos el 1 por ciento, maximo 99 por ciento"
 
+msgctxt "Permit unregistered user to make order?"
 msgid "Permit unregistered user to make order?"
 msgstr "Permitir a usuarios no registrados hacer pedidos?"
 
+msgctxt "Phone"
 msgid "Phone"
 msgstr "Teléfono"
 
+msgctxt "Phone number"
 msgid "Phone number"
 msgstr "Teléfono"
 
+msgctxt "Picture"
 msgid "Picture"
 msgstr "Imagen"
 
+msgctxt "Please choose a delivery method"
 msgid "Please choose a delivery method"
 msgstr "Por favor, elija un método de entrega"
 
+msgctxt "Please choose a payment method"
 msgid "Please choose a payment method"
 msgstr "Por favor, elija un método de pago"
 
+msgctxt "Please, enter an email address for the store %s"
 msgid "Please, enter an email address for the store %s"
 msgstr "Por favor, introduzca una dirección de Email para la tienda %s"
 
+msgctxt "Please fill in your card information to process Credit card payment:"
 msgid "Please fill in your card information to process Credit card payment:"
 msgstr ""
 "Por favor rellene su información de tarjeta para proceder al pago por "
 "tarjeta:"
 
+msgctxt "Points"
 msgid "Points"
 msgstr "Puntos"
 
+msgctxt "Points available:"
 msgid "Points available:"
 msgstr "Puntos disponibles:"
 
+msgctxt "Postcode"
 msgid "Postcode"
 msgstr "Código Postal"
 
+msgctxt "Previous"
 msgid "Previous"
 msgstr "Anterior"
 
+msgctxt "Price"
 msgid "Price"
 msgstr "Precio"
 
+msgctxt "Price: %s"
 msgid "Price: %s"
 msgstr "Precio: %s"
 
+msgctxt "Prices"
 msgid "Prices"
 msgstr "Precios"
 
+msgctxt "Printer successfully saved"
 msgid "Printer successfully saved"
 msgstr "Impresora guardada correctamente"
 
+msgctxt "Proceed"
 msgid "Proceed"
 msgstr "Proceder"
 
+msgctxt "Processing..."
 msgid "Processing..."
 msgstr "Procesando..."
 
+msgctxt "Product"
 msgid "Product"
 msgstr "Producto"
 
+msgctxt "Product formats"
 msgid "Product formats"
 msgstr "Formato del producto"
 
+msgctxt "Product name"
 msgid "Product name"
 msgstr "Nombre del Producto"
 
+msgctxt "Product successfully duplicated"
 msgid "Product successfully duplicated"
 msgstr "Producto correctamente duplicado"
 
+msgctxt "Product successfully saved"
 msgid "Product successfully saved"
 msgstr "Producto guardado correctamente"
 
+msgctxt "Publishable Key:"
 msgid "Publishable Key:"
 msgstr "Clave Publicable"
 
+msgctxt "Qty"
 msgid "Qty"
 msgstr "Cant"
 
+msgctxt "Qty: %s"
 msgid "Qty: %s"
 msgstr "Cantidad: %s"
 
+msgctxt "Radius in Km"
 msgid "Radius in Km"
 msgstr "Radio en Km"
 
+msgctxt "Remaining amount due"
 msgid "Remaining amount due"
 msgstr "Restante cantidad debida"
 
+msgctxt "Remaining due"
 msgid "Remaining due"
 msgstr "Pendiente de pago"
 
+msgctxt "Remove card"
 msgid "Remove card"
 msgstr "Quitar tarjeta"
 
+msgctxt "Return URL:"
 msgid "Return URL:"
 msgstr "URL retorno:"
 
+msgctxt "Review"
 msgid "Review"
 msgstr "Revisión"
 
+msgctxt "Search:"
 msgid "Search:"
 msgstr "Buscar:"
 
+msgctxt "Secret Key"
 msgid "Secret Key"
 msgstr "Key secreta"
 
+msgctxt "Settings"
 msgid "Settings"
 msgstr "Configuración"
 
+msgctxt "Settings successfully saved"
 msgid "Settings successfully saved"
 msgstr "Configuracion guardada"
 
+msgctxt "Show _MENU_ entries"
 msgid "Show _MENU_ entries"
 msgstr "Mostrar _MENU_ entradas"
 
+msgctxt "Show search fields on product list ?"
 msgid "Show search fields on product list ?"
 msgstr "¿Mostrar busqueda en la lista de productos?"
 
+msgctxt "Showing 0 to 0 of 0 entries"
 msgid "Showing 0 to 0 of 0 entries"
 msgstr "Mostrando 0 a 0 de 0 entradas"
 
+msgctxt "Showing _START_ to _END_ of _TOTAL_ entries"
 msgid "Showing _START_ to _END_ of _TOTAL_ entries"
 msgstr "Mostrando _START_ a _END_ de _TOTAL_ de entradas"
 
+msgctxt "Signature"
 msgid "Signature"
 msgstr "Firma"
 
+msgctxt "Signup"
 msgid "Signup"
 msgstr "Registrate"
 
+msgctxt "Some mandatory fields are empty."
 msgid "Some mandatory fields are empty."
 msgstr "Hay campos obligatorios vacios."
 
+msgctxt "Sorry we can't proceed to deliver your order. It has been canceled."
 msgid "Sorry we can't proceed to deliver your order. It has been canceled."
 msgstr "Lo sentimos, no podemos proceder a entregar su pedido. Se ha cancelado."
 
+msgctxt "Status"
 msgid "Status"
 msgstr "Estado"
 
+msgctxt "Store choice"
 msgid "Store choice"
 msgstr "Elegir tienda"
 
+msgctxt "Store information"
 msgid "Store information"
 msgstr "Información de la tienda"
 
+msgctxt "Store name"
 msgid "Store name"
 msgstr "Nombre de la tienda"
 
+msgctxt "Store successfully deleted"
 msgid "Store successfully deleted"
 msgstr "Tienda borrada correctamente"
 
+msgctxt "Store successfully saved"
 msgid "Store successfully saved"
 msgstr "Tienda guardada correctamente"
 
+msgctxt "Stored card information."
 msgid "Stored card information."
 msgstr "Informacion de tarjeta almacenada."
 
+msgctxt "Stores"
 msgid "Stores"
 msgstr "Tiendas"
 
+msgctxt "Street"
 msgid "Street"
 msgstr "calle"
 
+msgctxt "Stripe settings"
 msgid "Stripe settings"
 msgstr "Configuración Stripe"
 
+msgctxt "Subtotal"
 msgid "Subtotal"
 msgstr "Subtotal"
 
+msgctxt "Subtotal Excl. Tax"
 msgid "Subtotal Excl. Tax"
 msgstr "Subtotal Excl. De impuestos"
 
+msgctxt "Subtotal before deduction"
 msgid "Subtotal before deduction"
 msgstr "Subtotal antes de la deducción"
 
+msgctxt "Tax"
 msgid "Tax"
 msgstr "Impuesto"
 
+msgctxt "Tax name"
 msgid "Tax name"
 msgstr "Nombre de la tasa/impuesto"
 
+msgctxt "Tax rate"
 msgid "Tax rate"
 msgstr "Tasa de impuesto"
 
+msgctxt "Tax successfully deleted"
 msgid "Tax successfully deleted"
 msgstr "Tasa borrada correctamente"
 
+msgctxt "Tax successfully saved"
 msgid "Tax successfully saved"
 msgstr "Tasa guardada correctamente"
 
+msgctxt "Thank you!"
 msgid "Thank you!"
 msgstr "Gracias !"
 
+msgctxt "The clients calculate the change:"
 msgid "The clients calculate the change:"
 msgstr "Los clientes calculan el cambio:"
 
+msgctxt "The delivery method"
 msgid "The delivery method"
 msgstr "Método de Entrega"
 
+msgctxt "The following options are required:<br />%s"
 msgid "The following options are required:<br />%s"
 msgstr "Las siguientes opciones son obligatorias:<br />%s"
 
+msgctxt "The option %s is required"
 msgid "The option %s is required"
 msgstr "La opción %s es obligatoria"
 
+msgctxt ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us"
 msgid ""
 "The payment has been cancelled, something wrong happened? Feel free to "
 "contact us"
@@ -803,127 +1066,167 @@ msgstr ""
 "El pago ha sido cancelado, ocurrió un error durante el mismo? Por favor, "
 "póngase en contacto con nosotros"
 
+msgctxt "The payment method"
 msgid "The payment method"
 msgstr "Radio de entrega"
 
+msgctxt "Time in minutes"
 msgid "Time in minutes"
 msgstr "Tiempo en minutos"
 
+msgctxt "Tip"
 msgid "Tip"
 msgstr "Apunte"
 
+msgctxt "Total"
 msgid "Total"
 msgstr "Total"
 
+msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Total Imp. Excl."
 
+msgctxt "Total Tax"
 msgid "Total Tax"
 msgstr "Total Impuestos"
 
+msgctxt "Total: %s"
 msgid "Total: %s"
 msgstr "Total: %s"
 
+msgctxt "Unable to proceed to checkout the minimum order amount is %s"
 msgid "Unable to proceed to checkout the minimum order amount is %s"
 msgstr "No es posible proceder al pago sin un minimo de %s articulos"
 
+msgctxt "Unit Price"
 msgid "Unit Price"
 msgstr "Precio por unidad"
 
+msgctxt "Unit price"
 msgid "Unit price"
 msgstr "Precio por unidad"
 
+msgctxt "Updating price"
 msgid "Updating price"
 msgstr "Actualización de precios"
 
+msgctxt "Usable once"
 msgid "Usable once"
 msgstr "Utilizable una vez"
 
+msgctxt "Use:"
 msgid "Use:"
 msgstr "Uso:"
 
+msgctxt "Use my points?"
 msgid "Use my points?"
 msgstr "Usar mis puntos?"
 
+msgctxt "Username"
 msgid "Username"
 msgstr "Nombre de usuario"
 
+msgctxt "Validity date"
 msgid "Validity date"
 msgstr "Fecha de validez"
 
+msgctxt "Validity date should be a valid date"
 msgid "Validity date should be a valid date"
 msgstr "Fecha de validez debe ser una fecha válida"
 
+msgctxt "Verify Key:"
 msgid "Verify Key:"
 msgstr "Clave de verificación:"
 
+msgctxt "Waiting for payment"
 msgid "Waiting for payment"
 msgstr "A la espera de pago"
 
+msgctxt "We apologize but the payment method %s is currently not available"
 msgid "We apologize but the payment method %s is currently not available"
 msgstr "Lo sentimos, pero el método de pago %s no está disponible"
 
+msgctxt "We thank you for your order. A confirmation email has been sent"
 msgid "We thank you for your order. A confirmation email has been sent"
 msgstr ""
 "Le damos las gracias por efectuar su pedido. Le hemos enviado un email de "
 "confirmación"
 
+msgctxt "YYYY"
 msgid "YYYY"
 msgstr "YYYY"
 
+msgctxt "You did not login."
 msgid "You did not login."
 msgstr "No estás logueado."
 
+msgctxt "You don't have any categories yet"
 msgid "You don't have any categories yet"
 msgstr "No tiene categorías creadas todavía"
 
+msgctxt "You don't have enough points"
 msgid "You don't have enough points"
 msgstr "Usted no tiene suficientes puntos"
 
+msgctxt "You have a connected printer? Enter the email address"
 msgid "You have a connected printer? Enter the email address"
 msgstr ""
 "¿Donde te enviamos las notificaciones?. Introduzca una dirección de Email"
 
+msgctxt "You have a connected printer? Enter the email address for each store"
 msgid "You have a connected printer? Enter the email address for each store"
 msgstr ""
 "¿Donde te enviamos las notificaciones?. Introduzca una dirección de Email "
 "para cada tienda"
 
+msgctxt "You have to choose a delivery method."
 msgid "You have to choose a delivery method."
 msgstr "Usted tiene que elegir un método de entrega."
 
+msgctxt "You must be logged in to continue"
 msgid "You must be logged in to continue"
 msgstr "Debes estar logueado para continuar"
 
+msgctxt "You used the code before"
 msgid "You used the code before"
 msgstr "Utiliza el código antes de"
 
+msgctxt "Your address"
 msgid "Your address"
 msgstr "Su dirección"
 
+msgctxt "Your email address"
 msgid "Your email address"
 msgstr "Su Email"
 
+msgctxt "Your firstname"
 msgid "Your firstname"
 msgstr "Su nombre"
 
+msgctxt "Your lastname"
 msgid "Your lastname"
 msgstr "Sus Apellidos"
 
+msgctxt "Your phone number"
 msgid "Your phone number"
 msgstr "Su número de teléfono"
 
+msgctxt "e.g., Sauces"
 msgid "e.g., Sauces"
 msgstr "Por ejemplo, Salsas"
 
+msgctxt "(filtered from _MAX_ total entries)"
 msgid "(filtered from _MAX_ total entries)"
 msgstr "(filtrado por _MAX_ total entradas)"
 
+msgctxt "%s - Customer Service"
 msgid "%s - Customer Service"
 msgstr "%s – Servicio al cliente"
 
+msgctxt "without taxes"
 msgid "without taxes"
 msgstr "Sin impuestos"
 
+msgctxt "your choice"
 msgid "your choice"
 msgstr "tu elección"

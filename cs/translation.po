@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/"
@@ -14,55 +14,74 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Create a new language"
 msgid "Create a new language"
 msgstr "Přidejte nový jazyk"
 
+msgctxt "Default text"
 msgid "Default text"
 msgstr "Výchozí text"
 
+msgctxt "Edit the language: %s"
 msgid "Edit the language: %s"
 msgstr "Upravte jazyk: %s"
 
+msgctxt "Language"
 msgid "Language"
 msgstr "Jazyk"
 
+msgctxt "Language successfully saved"
 msgid "Language successfully saved"
 msgstr "Jazyk úspěšně uložen"
 
+msgctxt "List of your languages"
 msgid "List of your languages"
 msgstr "Seznam jazyků"
 
+msgctxt "Please, choose a file."
 msgid "Please, choose a file."
 msgstr "Prosím, vyberte soubor"
 
+msgctxt "Please, choose a language."
 msgid "Please, choose a language."
 msgstr "Prosím, vyberte jazyk"
 
+msgctxt "Select a file"
 msgid "Select a file"
 msgstr "Vyberte soubor"
 
+msgctxt "Select a language"
 msgid "Select a language"
 msgstr "Vyberte si jazyk"
 
+msgctxt "Text translation"
 msgid "Text translation"
 msgstr "Překlad textu"
 
+msgctxt "Translate all"
 msgid "Translate all"
 msgstr ""
 
+msgctxt "Translate missing entries"
 msgid "Translate missing entries"
 msgstr ""
 
+msgctxt "Translate the 'e.g.' between parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr ""
 
+msgctxt "Translation API is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr ""
 
+msgctxt ""
+"Warning: translation API is experimental for the current language and may "
+"fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
 msgstr ""
 
+msgctxt "Your translation"
 msgid "Your translation"
 msgstr "Váš překlad"

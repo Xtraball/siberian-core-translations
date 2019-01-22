@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/cms/tr/>"
@@ -14,147 +14,196 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add "
 msgid "Add "
 msgstr "Ekle"
 
+msgctxt "Add attachement"
 msgid "Add attachement"
 msgstr "Eklenti Ekle"
 
+msgctxt "Add cover"
 msgid "Add cover"
 msgstr "Kapak Resmi Ekle"
 
+msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "Bölümler ekleyin:"
 
+msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr "Adres Defteri Ekle"
 
+msgctxt "Address:"
 msgid "Address:"
 msgstr "Adres:"
 
+msgctxt "Alignment:"
 msgid "Alignment:"
 msgstr "Hizalama:"
 
+msgctxt "An error occured."
 msgid "An error occured."
 msgstr "Bir hata oluştu."
 
+msgctxt "An error occurred while saving your page."
 msgid "An error occurred while saving your page."
 msgstr "Sayfanız kaydedilirken bir hata oluştu."
 
+msgctxt "Are you sure you want to delete this page?"
 msgid "Are you sure you want to delete this page?"
 msgstr "Bu sayfayı silmek istediğinizden eminmisiniz?"
 
+msgctxt "At least one section is required to save."
 msgid "At least one section is required to save."
 msgstr "En az bir bölüm kaydetmeniz  gereklidir."
 
+msgctxt "Attachement"
 msgid "Attachement"
 msgstr "Eklenti"
 
+msgctxt "Attachment:"
 msgid "Attachment:"
 msgstr "Eklenti:"
 
+msgctxt "Custom icon"
 msgid "Custom icon"
 msgstr "Özel İkon"
 
+msgctxt "Custom page"
 msgid "Custom page"
 msgstr "Özel sayfa"
 
+msgctxt "Description"
 msgid "Description"
 msgstr "Açıklama"
 
+msgctxt "Display address"
 msgid "Display address"
 msgstr "Adresi göster"
 
+msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr "Resmi sayfada göster"
 
+msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Lokasyon gösterme düğmesi"
 
+msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr "Başlık ve altbaşlığı sayfada göster"
 
+msgctxt "Email:"
 msgid "Email:"
 msgstr "E-posta:"
 
+msgctxt "Hide navbar"
 msgid "Hide navbar"
 msgstr "Gezinti çubuğu gizle"
 
+msgctxt "Label"
 msgid "Label"
 msgstr "Etiket"
 
+msgctxt "Large"
 msgid "Large"
 msgstr "Geniş"
 
+msgctxt "Latitude:"
 msgid "Latitude:"
 msgstr "Latitude:"
 
+msgctxt "Link:"
 msgid "Link:"
 msgstr "Link:"
 
+msgctxt "Loading picture:"
 msgid "Loading picture:"
 msgstr "Resim yükle:"
 
+msgctxt "Longitude:"
 msgid "Longitude:"
 msgstr "Longitude:"
 
+msgctxt "Make a search or enter the Youtube Url:"
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Youtube Url girin:"
 
+msgctxt "Medium"
 msgid "Medium"
 msgstr "Orta"
 
+msgctxt "My Youtube video:"
 msgid "My Youtube video:"
 msgstr "Youtube videolarım:"
 
+msgctxt "My video"
 msgid "My video"
 msgstr "Videom"
 
+msgctxt "No videos matching your selection"
 msgid "No videos matching your selection"
 msgstr "Seçiminizi eşleşen video yok"
 
+msgctxt "Page successfully deleted"
 msgid "Page successfully deleted"
 msgstr "Sayfa başarıyla silindi"
 
+msgctxt "Page successfully saved"
 msgid "Page successfully saved"
 msgstr "Sayfa başarıyla kaydedildi"
 
+msgctxt "Phone:"
 msgid "Phone:"
 msgstr "Telefon:"
 
+msgctxt "Podcast URL:"
 msgid "Podcast URL:"
 msgstr "Podcast URL:"
 
+msgctxt "Select a button type:"
 msgid "Select a button type:"
 msgstr "Bir puton türü seçin:"
 
+msgctxt "Select a video type:"
 msgid "Select a video type:"
 msgstr "Bir video çeşidi seçin:"
 
+msgctxt "Size"
 msgid "Size"
 msgstr "Boyut"
 
+msgctxt "Slider"
 msgid "Slider"
 msgstr "Kaydırıcı"
 
+msgctxt "Small"
 msgid "Small"
 msgstr "Küçük"
 
+msgctxt "Text"
 msgid "Text"
 msgstr "Metin"
 
+msgctxt ""
+"The block N°%s, %s was not saved, the block was either empty or invalid."
 msgid ""
 "The block N°%s, %s was not saved, the block was either empty or invalid."
 msgstr "Blok N°%s, %s kaydedilmedi, blok boş veya geçersiz."
 
+msgctxt "Use external app"
 msgid "Use external app"
 msgstr "Harici uygulama kullan"
 
+msgctxt "Video URL:"
 msgid "Video URL:"
 msgstr "Video URL:"
 
+msgctxt "Your Podcast:"
 msgid "Your Podcast:"
 msgstr "Podcast ınız:"
 
+msgctxt ".mp4 or .3gp format"
 msgid ".mp4 or .3gp format"
 msgstr ".mp4 or .3gp format"

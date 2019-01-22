@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:25+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/padlock/"
@@ -14,44 +14,59 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Access restricted to authorized members only"
 msgid "Access restricted to authorized members only"
 msgstr "Erişim yetkili üyelere sınırlı"
 
+msgctxt "Allow all the users by default:"
 msgid "Allow all the users by default:"
 msgstr "Varsayılan olarak tüm kullanıcılara izin ver:"
 
+msgctxt "Choose the features to lock:"
 msgid "Choose the features to lock:"
 msgstr "Kilitlemek için özellikleri seçin:"
 
+msgctxt "Lock the entire application?"
 msgid "Lock the entire application?"
 msgstr "Tüm uygulamayı kilitleyin?"
 
+msgctxt "Restrict Access"
 msgid "Restrict Access"
 msgstr "Erişim sınırla"
 
+msgctxt "Scan now to unlock"
 msgid "Scan now to unlock"
 msgstr "Kilidi açmak için şimdi tara"
 
+msgctxt "Unlock by:"
 msgid "Unlock by:"
 msgstr "Kitleyen:"
 
+msgctxt ""
+"We are sorry but your account does not have enough permissions to access "
+"this page"
 msgid ""
 "We are sorry but your account does not have enough permissions to access "
 "this page"
 msgstr ""
 "Üzgünüz ama hesabınız bu sayfaya erişmek için yeterli izinlere sahip değil"
 
+msgctxt "the email address"
 msgid "the email address"
 msgstr "email "
 
+msgctxt "the first name"
 msgid "the first name"
 msgstr "ad"
 
+msgctxt "the gender"
 msgid "the gender"
 msgstr "cinsiyet"
 
+msgctxt "the last name"
 msgid "the last name"
 msgstr "soyad"
 
+msgctxt "the password"
 msgid "the password"
 msgstr "şifre"

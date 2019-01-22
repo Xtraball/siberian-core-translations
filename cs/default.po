@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/default/cs/"
@@ -14,949 +14,1278 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "10 seconds"
 msgid "10 seconds"
 msgstr "vteřinami"
 
+msgctxt "15 seconds"
 msgid "15 seconds"
 msgstr "vteřinami"
 
+msgctxt "20 seconds"
 msgid "20 seconds"
 msgstr "vteřinami"
 
+msgctxt "2Checkout"
 msgid "2Checkout"
 msgstr ""
 
+msgctxt "30 seconds"
 msgid "30 seconds"
 msgstr "vteřinami"
 
+msgctxt "404, page not found"
 msgid "404, page not found"
 msgstr "404, stránka nebyla nalezena"
 
+msgctxt "A step requires at least a title and a text."
 msgid "A step requires at least a title and a text."
 msgstr ""
 
+msgctxt "API"
 msgid "API"
 msgstr "API"
 
+msgctxt "APIs"
 msgid "APIs"
 msgstr "API"
 
+msgctxt "APK Generator Service"
 msgid "APK Generator Service"
 msgstr ""
 
+msgctxt "APK Generator advanced settings"
 msgid "APK Generator advanced settings"
 msgstr ""
 
+msgctxt "APK Generator for builds from the Editor (Local or Service)"
 msgid "APK Generator for builds from the Editor (Local or Service)"
 msgstr ""
 
+msgctxt "Access Management"
 msgid "Access Management"
 msgstr "Správa přístupů/uživatelů"
 
+msgctxt "Account"
 msgid "Account"
 msgstr "Účet"
 
+msgctxt "Accounts"
 msgid "Accounts"
 msgstr "Účty"
 
+msgctxt "Acl"
 msgid "Acl"
 msgstr ""
 
+msgctxt "Actions"
 msgid "Actions"
 msgstr "Akce"
 
+msgctxt "Activate"
 msgid "Activate"
 msgstr "Aktivováno"
 
+msgctxt "Activity"
 msgid "Activity"
 msgstr ""
 
+msgctxt "AdMob Banner ID"
 msgid "AdMob Banner ID"
 msgstr ""
 
+msgctxt "AdMob Interstitial ID"
 msgid "AdMob Interstitial ID"
 msgstr ""
 
+msgctxt "Add"
 msgid "Add"
 msgstr "Přidat"
 
+msgctxt "Add Image"
 msgid "Add Image"
 msgstr "Přidat obrázek"
 
+msgctxt "Add a"
 msgid "Add a"
 msgstr "Přidat"
 
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Přidat stránku"
 
+msgctxt "Add a picture"
 msgid "Add a picture"
 msgstr "Přidat obrázek"
 
+msgctxt "Add content"
 msgid "Add content"
 msgstr ""
 
+msgctxt "Add extension"
 msgid "Add extension"
 msgstr ""
 
+msgctxt "Add feature"
 msgid "Add feature"
 msgstr ""
 
+msgctxt "Add image"
 msgid "Add image"
 msgstr "Přidat obrázek"
 
+msgctxt "Add new upload extensions."
 msgid "Add new upload extensions."
 msgstr ""
 
+msgctxt "Address"
 msgid "Address"
 msgstr "Adresa"
 
+msgctxt "Address (more)"
 msgid "Address (more)"
 msgstr ""
 
+msgctxt "Addresses"
 msgid "Addresses"
 msgstr ""
 
+msgctxt "Admin"
 msgid "Admin"
 msgstr ""
 
+msgctxt "Admin panel type"
 msgid "Admin panel type"
 msgstr ""
 
+msgctxt "Admob Banner ID"
 msgid "Admob Banner ID"
 msgstr ""
 
+msgctxt "Admob Interstitial ID"
 msgid "Admob Interstitial ID"
 msgstr ""
 
+msgctxt "Advanced options"
 msgid "Advanced options"
 msgstr ""
 
+msgctxt ""
+"After validating, you will be redirected to the 2Checkout checkout page."
 msgid ""
 "After validating, you will be redirected to the 2Checkout checkout page."
 msgstr ""
 
+msgctxt "After validating, you will be redirected to the PayPal checkout page."
 msgid "After validating, you will be redirected to the PayPal checkout page."
 msgstr ""
 
+msgctxt "Alert: The SSL Certificate %s automatic renewal failed."
 msgid "Alert: The SSL Certificate %s automatic renewal failed."
 msgstr ""
 
+msgctxt "Alignment"
 msgid "Alignment"
 msgstr "Zarovnání:"
 
+msgctxt "All data"
 msgid "All data"
 msgstr ""
 
+msgctxt "All items"
 msgid "All items"
 msgstr "Všechny položky"
 
+msgctxt "All user list"
 msgid "All user list"
 msgstr ""
 
+msgctxt "Allow users to export features"
 msgid "Allow users to export features"
 msgstr ""
 
+msgctxt "Allow users to import features"
 msgid "Allow users to import features"
 msgstr ""
 
+msgctxt "Allowed upload extensions."
 msgid "Allowed upload extensions."
 msgstr ""
 
+msgctxt "An error occurred during process. Please try again later."
 msgid "An error occurred during process. Please try again later."
 msgstr "Došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred during process.<br />Please try again later."
 msgid "An error occurred during process.<br />Please try again later."
 msgstr "Došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr "Došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred while editing your invoice : can't find order"
 msgid "An error occurred while editing your invoice : can't find order"
 msgstr ""
 
+msgctxt "An error occurred while loading. Please try again later."
 msgid "An error occurred while loading. Please try again later."
 msgstr "Při načítání došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred while loading places."
 msgid "An error occurred while loading places."
 msgstr "Při načítání míst došlo k chybě"
 
+msgctxt "An error occurred while processing your payment."
 msgid "An error occurred while processing your payment."
 msgstr "Při zpracování Vaší platby došlo k chybě"
 
+msgctxt "An error occurred while saving"
 msgid "An error occurred while saving"
 msgstr "Při ukládání došlo k chybě"
 
+msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "Při ukládání došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred while saving your account. Please try again later."
 msgid "An error occurred while saving your account. Please try again later."
 msgstr "Při ukládání vašeho účtu došlo k chybě. Zkuste to prosím později."
 
+msgctxt "An error occurred while saving your picture. Please try again later."
 msgid "An error occurred while saving your picture. Please try again later."
 msgstr "Při ukládání obrázku došlo k chybě. zkuste to prosím znovu"
 
+msgctxt "An error occurred while uploading your file. Please, try again later."
 msgid "An error occurred while uploading your file. Please, try again later."
 msgstr "Při nahrávání souboru došlo k chybě. Zkuste to prosím později"
 
+msgctxt "An unexpected error occurred while calculating the route."
 msgid "An unexpected error occurred while calculating the route."
 msgstr "Při vypočítávání cesty došlo k chybě"
 
+msgctxt "An unknown error occurred while creating the push notification."
 msgid "An unknown error occurred while creating the push notification."
 msgstr ""
 
+msgctxt "An unknown error occurred while issue-ing your certificate."
 msgid "An unknown error occurred while issue-ing your certificate."
 msgstr ""
 
+msgctxt "An unknown error occurred while loading the page."
 msgid "An unknown error occurred while loading the page."
 msgstr "Při nahrávání došlo k chybě"
 
+msgctxt "Android APK"
 msgid "Android APK"
 msgstr ""
 
+msgctxt "Android SDK is not installed"
 msgid "Android SDK is not installed"
 msgstr ""
 
+msgctxt "Android Source"
 msgid "Android Source"
 msgstr ""
 
+msgctxt "Android Spinner"
 msgid "Android Spinner"
 msgstr ""
 
+msgctxt "Android base Package Name can't be empty."
 msgid "Android base Package Name can't be empty."
 msgstr ""
 
+msgctxt "Android base Package Name must contain only letters, dots & minus."
 msgid "Android base Package Name must contain only letters, dots & minus."
 msgstr ""
 
+msgctxt ""
+"Android base Package Name must contain only letters, dots & minus with at "
+"least two dots.<br />Example: com.mydomain.admin"
 msgid ""
 "Android base Package Name must contain only letters, dots & minus with at "
 "least two dots.<br />Example: com.mydomain.admin"
 msgstr ""
 
+msgctxt "Android only"
 msgid "Android only"
 msgstr ""
 
+msgctxt "Answers"
 msgid "Answers"
 msgstr ""
 
+msgctxt "App"
 msgid "App"
 msgstr ""
 
+msgctxt "App analytics"
 msgid "App analytics"
 msgstr ""
 
+msgctxt "App id"
 msgid "App id"
 msgstr ""
 
+msgctxt "Appearance"
 msgid "Appearance"
 msgstr "Vzhled"
 
+msgctxt "Apple Development teams"
 msgid "Apple Development teams"
 msgstr ""
 
+msgctxt "Application"
 msgid "Application"
 msgstr "Aplikace"
 
+msgctxt "Application Name"
 msgid "Application Name"
 msgstr "Název aplikace"
 
+msgctxt "Application base Bundle ID (iOS)"
 msgid "Application base Bundle ID (iOS)"
 msgstr ""
 
+msgctxt "Application base Package Name (Android)"
 msgid "Application base Package Name (Android)"
 msgstr ""
 
+msgctxt "Applications"
 msgid "Applications"
 msgstr "Aplikace"
 
+msgctxt "Are you sure you want to delete this admin?"
 msgid "Are you sure you want to delete this admin?"
 msgstr "Opravdu chcete smazat tohoto administrátora?"
 
+msgctxt "Are you sure you want to delete this element?"
 msgid "Are you sure you want to delete this element?"
 msgstr "Jste si jisti, že chcete smazat tento prvek?"
 
+msgctxt "Are you sure you want to delete this invoice?"
 msgid "Are you sure you want to delete this invoice?"
 msgstr "Opravdu chcete smazat tento obchod/sklad?"
 
+msgctxt "Are you sure you want to delete this subscription?"
 msgid "Are you sure you want to delete this subscription?"
 msgstr "Jste si jisti, že chcete smazat tuto aplikaci?"
 
+msgctxt "Are you sure you want to remove this account?"
 msgid "Are you sure you want to remove this account?"
 msgstr "Jste si jisti, že chcete odstranit tento účet?"
 
+msgctxt "Artist"
 msgid "Artist"
 msgstr "Skupina/Interpret"
 
+msgctxt "At least, 1 page in the application"
 msgid "At least, 1 page in the application"
 msgstr "Je třeba vytvořit alespoň 4 záložky (stránky)"
 
+msgctxt ""
+"At least one <b>published</b> application is required in order to use global "
+"push notifications."
 msgid ""
 "At least one <b>published</b> application is required in order to use global "
 "push notifications."
 msgstr ""
 
+msgctxt "Attachment"
 msgid "Attachment"
 msgstr "Příloha"
 
+msgctxt "Audio"
 msgid "Audio"
 msgstr "Hudba"
 
+msgctxt "Authentication failed"
 msgid "Authentication failed"
 msgstr ""
 
+msgctxt "Authentication failed. Please, check the username and/or the password"
 msgid "Authentication failed. Please, check the username and/or the password"
 msgstr "Ověření selhalo. Zkuste prosím zkontrolovat uživatelské jméno a heslo"
 
+msgctxt "Authentication failed. Please check your email and/or your password"
 msgid "Authentication failed. Please check your email and/or your password"
 msgstr "Ověření se nezdařilo. Zkontrolujte prosím svůj e-mail a/nebo heslo"
 
+msgctxt "Autocomplete & Suggestions ..."
 msgid "Autocomplete & Suggestions ..."
 msgstr ""
 
+msgctxt "Average cart"
 msgid "Average cart"
 msgstr ""
 
+msgctxt "Average for active users"
 msgid "Average for active users"
 msgstr ""
 
+msgctxt "Average for all users"
 msgid "Average for all users"
 msgstr ""
 
+msgctxt "Back"
 msgid "Back"
 msgstr "Zpět"
 
+msgctxt "Back button icon"
 msgid "Back button icon"
 msgstr ""
 
+msgctxt "Background"
 msgid "Background"
 msgstr "Pozadí"
 
+msgctxt "Background (landscape)"
 msgid "Background (landscape)"
 msgstr ""
 
+msgctxt "Background (portrait)"
 msgid "Background (portrait)"
 msgstr ""
 
+msgctxt "Backoffice"
 msgid "Backoffice"
 msgstr ""
 
+msgctxt "Bad settings can break your APK Generator, leave empty to use defaults."
 msgid "Bad settings can break your APK Generator, leave empty to use defaults."
 msgstr ""
 
+msgctxt "Banner"
 msgid "Banner"
 msgstr ""
 
+msgctxt "Banner & Interstitial"
 msgid "Banner & Interstitial"
 msgstr ""
 
+msgctxt "Be careful you are working in"
 msgid "Be careful you are working in"
 msgstr ""
 
+msgctxt "Bearer Token"
 msgid "Bearer Token"
 msgstr ""
 
+msgctxt ""
+"Before you can send push notification, you must have at least one of iOS or "
+"Android application in a published state."
 msgid ""
 "Before you can send push notification, you must have at least one of iOS or "
 "Android application in a published state."
 msgstr ""
 
+msgctxt "Booking"
 msgid "Booking"
 msgstr "Rezervace"
 
+msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Rezervační údaje"
 
+msgctxt "Booking::findAction An unknown error occurred, please try again later."
 msgid "Booking::findAction An unknown error occurred, please try again later."
 msgstr ""
 
+msgctxt "Bottom"
 msgid "Bottom"
 msgstr ""
 
+msgctxt "Browse"
 msgid "Browse"
 msgstr "Prohlížet"
 
+msgctxt "Button"
 msgid "Button"
 msgstr ""
 
+msgctxt "Button assertive"
 msgid "Button assertive"
 msgstr ""
 
+msgctxt "Button balanced"
 msgid "Button balanced"
 msgstr ""
 
+msgctxt "Button calm"
 msgid "Button calm"
 msgstr ""
 
+msgctxt "Button dark"
 msgid "Button dark"
 msgstr ""
 
+msgctxt "Button energized"
 msgid "Button energized"
 msgstr ""
 
+msgctxt "Button light"
 msgid "Button light"
 msgstr ""
 
+msgctxt "Button positive"
 msgid "Button positive"
 msgstr ""
 
+msgctxt "Button royal"
 msgid "Button royal"
 msgstr ""
 
+msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr ""
 
+msgctxt ""
+"By default, popups steps try to use a smart placement. You can force this "
+"placement if needed."
 msgid ""
 "By default, popups steps try to use a smart placement. You can force this "
 "placement if needed."
 msgstr ""
 
+msgctxt "Cache"
 msgid "Cache"
 msgstr ""
 
+msgctxt "Calendar"
 msgid "Calendar"
 msgstr "Kalendář"
 
+msgctxt "Callback URIs"
 msgid "Callback URIs"
 msgstr ""
 
+msgctxt "Can only be used once"
 msgid "Can only be used once"
 msgstr "Lze použít pouze jednou"
 
+msgctxt "Cancel"
 msgid "Cancel"
 msgstr "Zrušit"
 
+msgctxt "Card"
 msgid "Card"
 msgstr "Košík"
 
+msgctxt "Card Item"
 msgid "Card Item"
 msgstr ""
 
+msgctxt "Careful, someone else is working on this application."
 msgid "Careful, someone else is working on this application."
 msgstr ""
 "Pozor, někdo jiný právě pracuje na aplikaci! Můžete si navzájem kolidovat"
 
+msgctxt "Cart"
 msgid "Cart"
 msgstr "Košík"
 
+msgctxt "Catalog"
 msgid "Catalog"
 msgstr "Produkty"
 
+msgctxt ""
+"Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 msgid ""
 "Certificate is valid and SSL is reachable, valid until: %s.<br />Issuer: %s%s"
 msgstr ""
 
+msgctxt "Change password"
 msgid "Change password"
 msgstr "Změnit heslo"
 
+msgctxt "Change your<br /><span class='bold'>picture</span>"
 msgid "Change your<br /><span class='bold'>picture</span>"
 msgstr "Změnit<br /><span class='bold'>obrázek</span>"
 
+msgctxt "Changing the Application icon requires a rebuild / republication."
 msgid "Changing the Application icon requires a rebuild / republication."
 msgstr ""
 
+msgctxt "Changing this option requires you to republish your iOS application."
 msgid "Changing this option requires you to republish your iOS application."
 msgstr ""
 
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Checkbox - výběr více možností"
 
+msgctxt "Checkbox off"
 msgid "Checkbox off"
 msgstr ""
 
+msgctxt "Checkbox on"
 msgid "Checkbox on"
 msgstr "Checkbox - výběr více možností"
 
+msgctxt "Checking Permissions"
 msgid "Checking Permissions"
 msgstr ""
 
+msgctxt "Choose a file to import:"
 msgid "Choose a file to import:"
 msgstr "Vyberte soubor k importu"
 
+msgctxt "Choose an object to import:"
 msgid "Choose an object to import:"
 msgstr "Vyberte objekt k importu"
 
+msgctxt "City"
 msgid "City"
 msgstr "Město"
 
+msgctxt "ClamAV is an optional anti-virus, you can enable it up below."
 msgid "ClamAV is an optional anti-virus, you can enable it up below."
 msgstr ""
 
+msgctxt "ClamAV settings"
 msgid "ClamAV settings"
 msgstr ""
 
+msgctxt "ClamAV settings have been saved."
 msgid "ClamAV settings have been saved."
 msgstr ""
 
+msgctxt "Click here to log-in"
 msgid "Click here to log-in"
 msgstr "Klikněte zde pro přihlášení"
 
+msgctxt "Click here to open the application"
 msgid "Click here to open the application"
 msgstr ""
 
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Klikněte na"
 
+msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Vyberte stránku/modul, kterou chcete přidat do složky"
 
+msgctxt "Click on a feature to add it to the folder %s"
 msgid "Click on a feature to add it to the folder %s"
 msgstr "Vyberte stránku/modul, kterou chcete přidat do složky"
 
+msgctxt "Click to import your file"
 msgid "Click to import your file"
 msgstr "Klikněte pro import souboru"
 
+msgctxt "Close"
 msgid "Close"
 msgstr "Zavřít"
 
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Zavřít zobrazení v mobilu"
 
+msgctxt "CloudFlare is not supported, please use a CNAME."
 msgid "CloudFlare is not supported, please use a CNAME."
 msgstr ""
 
+msgctxt ""
+"CloudFlare is not supported, you must use a CNAME targeting your main domain."
 msgid ""
 "CloudFlare is not supported, you must use a CNAME targeting your main domain."
 msgstr ""
 
+msgctxt "Cms"
 msgid "Cms"
 msgstr "?Coms?"
 
+msgctxt "Codescan"
 msgid "Codescan"
 msgstr ""
 
+msgctxt "Comment"
 msgid "Comment"
 msgstr "Komentář"
 
+msgctxt "Comments"
 msgid "Comments"
 msgstr "Komentáře"
 
+msgctxt "Commerce"
 msgid "Commerce"
 msgstr "e-shop"
 
+msgctxt "Communication"
 msgid "Communication"
 msgstr "Komunikace"
 
+msgctxt "Company"
 msgid "Company"
 msgstr "Společnost"
 
+msgctxt "Coms"
 msgid "Coms"
 msgstr "?Coms?"
 
+msgctxt "Conditions"
 msgid "Conditions"
 msgstr "Podmínky"
 
+msgctxt "Configuration partially saved"
 msgid "Configuration partially saved"
 msgstr ""
 
+msgctxt "Confirm"
 msgid "Confirm"
 msgstr "Podvrdit"
 
+msgctxt "Confirm Password"
 msgid "Confirm Password"
 msgstr "Potvrzení hesla"
 
+msgctxt "Confirm new password"
 msgid "Confirm new password"
 msgstr "Potvrdit heslo"
 
+msgctxt "Confirmation"
 msgid "Confirmation"
 msgstr ""
 
+msgctxt "Confirmation required"
 msgid "Confirmation required"
 msgstr ""
 
+msgctxt "Connection type"
 msgid "Connection type"
 msgstr ""
 
+msgctxt "Contact"
 msgid "Contact"
 msgstr "Kontakt"
 
+msgctxt "Contact successfully added to your address book"
 msgid "Contact successfully added to your address book"
 msgstr "Kontakt přidán do seznamu"
 
+msgctxt "Contact us"
 msgid "Contact us"
 msgstr "Kontaktujte nás"
 
+msgctxt "Contest"
 msgid "Contest"
 msgstr "Soutěž"
 
+msgctxt "Coordinates"
 msgid "Coordinates"
 msgstr ""
 
+msgctxt "Copy"
 msgid "Copy"
 msgstr "Kopie"
 
+msgctxt "Copying"
 msgid "Copying"
 msgstr ""
 
+msgctxt "Core"
 msgid "Core"
 msgstr "Název"
 
+msgctxt "Country"
 msgid "Country"
 msgstr "Země"
 
+msgctxt "Cover"
 msgid "Cover"
 msgstr ""
 
+msgctxt "Create"
 msgid "Create"
 msgstr "Vytvořit"
 
+msgctxt "Create / Edit a User"
 msgid "Create / Edit a User"
 msgstr ""
 
+msgctxt "Create a new account"
 msgid "Create a new account"
 msgstr "Vytvořit nový účet"
 
+msgctxt "Create an account"
 msgid "Create an account"
 msgstr "Vytvořit účet"
 
+msgctxt "Created at"
 msgid "Created at"
 msgstr "Vytvořeno"
 
+msgctxt "Creator Email"
 msgid "Creator Email"
 msgstr ""
 
+msgctxt "Currency"
 msgid "Currency"
 msgstr "Měna"
 
+msgctxt "Current load is"
 msgid "Current load is"
 msgstr ""
 
+msgctxt "Current password"
 msgid "Current password"
 msgstr "Současné heslo"
 
+msgctxt "Current status is"
 msgid "Current status is"
 msgstr ""
 
+msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "Vlastní"
 
+msgctxt "Customization"
 msgid "Customization"
 msgstr "Vlastní"
 
+msgctxt "Customization mode activated"
 msgid "Customization mode activated"
 msgstr ""
 
+msgctxt "Customize your app's colors"
 msgid "Customize your app's colors"
 msgstr ""
 
+msgctxt "DEFAULT"
 msgid "DEFAULT"
 msgstr ""
 
+msgctxt "DELETE"
 msgid "DELETE"
 msgstr ""
 
+msgctxt "(DEMO)"
 msgid "(DEMO)"
 msgstr ""
 
+msgctxt "Dashboard"
 msgid "Dashboard"
 msgstr "Aplikace"
 
+msgctxt "Data saved successfully."
 msgid "Data saved successfully."
 msgstr "Data byla úspěšně uložena"
 
+msgctxt "Date"
 msgid "Date"
 msgstr "Datum"
 
+msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Datum a čas"
 
+msgctxt "Date of birth"
 msgid "Date of birth"
 msgstr "Datum narození"
 
+msgctxt "Deactivate"
 msgid "Deactivate"
 msgstr "Neaktivní"
 
+msgctxt "Debug"
 msgid "Debug"
 msgstr ""
 
+msgctxt "Debug output"
 msgid "Debug output"
 msgstr ""
 
+msgctxt "Default Languages"
 msgid "Default Languages"
 msgstr "Výchozí jazyky"
 
+msgctxt "Default role for all new users"
 msgid "Default role for all new users"
 msgstr ""
 
+msgctxt "Default search distance"
 msgid "Default search distance"
 msgstr ""
 
+msgctxt "Delete"
 msgid "Delete"
 msgstr "Smazat"
 
+msgctxt "Delete a feature"
 msgid "Delete a feature"
 msgstr ""
 
+msgctxt "Delete the Application"
 msgid "Delete the Application"
 msgstr ""
 
+msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Odstranit tuto složku a všechny její podsložky?"
 
+msgctxt "Delivered"
 msgid "Delivered"
 msgstr ""
 
+msgctxt "Delivery Cost"
 msgid "Delivery Cost"
 msgstr "Poplatky za doručení:"
 
+msgctxt "Delivery method"
 msgid "Delivery method"
 msgstr "Způsob doručení"
 
+msgctxt "Description"
 msgid "Description"
 msgstr "Popis"
 
+msgctxt "Details"
 msgid "Details"
 msgstr "Podrobnosti"
 
+msgctxt "Development"
 msgid "Development"
 msgstr ""
 
+msgctxt "Dialog"
 msgid "Dialog"
 msgstr ""
 
+msgctxt "Dialog background"
 msgid "Dialog background"
 msgstr ""
 
+msgctxt "Dialog button"
 msgid "Dialog button"
 msgstr ""
 
+msgctxt "Dialog text"
 msgid "Dialog text"
 msgstr ""
 
+msgctxt "Discount"
 msgid "Discount"
 msgstr "Slevy"
 
+msgctxt "Discounts"
 msgid "Discounts"
 msgstr "Slevy"
 
+msgctxt "Display pictogram instead of image in map"
 msgid "Display pictogram instead of image in map"
 msgstr ""
 
+msgctxt "Distance unit"
 msgid "Distance unit"
 msgstr "Jednotky vzdálenosti"
 
+msgctxt "Do not export"
 msgid "Do not export"
 msgstr ""
 
+msgctxt ""
+"Do you want to download all the contents now to access it when offline? If "
+"you do, we recommend you to use a WiFi connection."
 msgid ""
 "Do you want to download all the contents now to access it when offline? If "
 "you do, we recommend you to use a WiFi connection."
 msgstr "Chcete stáhnout obsah aplikace, aby byla přístupná i offline?"
 
+msgctxt "Do you want to return to the homepage?"
 msgid "Do you want to return to the homepage?"
 msgstr ""
 
+msgctxt "Done"
 msgid "Done"
 msgstr "Hotovo"
 
+msgctxt "Don't close the app while downloading. This may take a while."
 msgid "Don't close the app while downloading. This may take a while."
 msgstr "Při stahování nezavírejte aplikaci. Může to chvíli trvat"
 
+msgctxt "Download APK"
 msgid "Download APK"
 msgstr "Stáhnout"
 
+msgctxt "Download a copy of my data"
 msgid "Download a copy of my data"
 msgstr ""
 
+msgctxt "Download as zip"
 msgid "Download as zip"
 msgstr ""
 
+msgctxt "Download complete list for this metric"
 msgid "Download complete list for this metric"
 msgstr ""
 
+msgctxt "Download current search as CSV"
 msgid "Download current search as CSV"
 msgstr ""
 
+msgctxt "Download file is not available in DEMO mode."
 msgid "Download file is not available in DEMO mode."
 msgstr ""
 
+msgctxt "Download latest APK"
 msgid "Download latest APK"
 msgstr ""
 
+msgctxt "Download latest sources"
 msgid "Download latest sources"
 msgstr ""
 
+msgctxt "Download list of user who used this discount"
 msgid "Download list of user who used this discount"
 msgstr ""
 
+msgctxt "Download list of user who used this loyalty card"
 msgid "Download list of user who used this loyalty card"
 msgstr ""
 
+msgctxt "Download list of user who used this scratch card"
 msgid "Download list of user who used this scratch card"
 msgstr ""
 
+msgctxt "Download only winner list for this scratch card"
 msgid "Download only winner list for this scratch card"
 msgstr ""
 
+msgctxt "Download the APK"
 msgid "Download the APK"
 msgstr ""
 
+msgctxt "Download the Source code"
 msgid "Download the Source code"
 msgstr ""
 
+msgctxt "Downloading..."
 msgid "Downloading..."
 msgstr "Stahování..."
 
+msgctxt "Drop your json here"
 msgid "Drop your json here"
 msgstr "Vložte logo"
 
+msgctxt "EDIT"
 msgid "EDIT"
 msgstr ""
 
+msgctxt "Edit"
 msgid "Edit"
 msgstr "Upravit"
 
+msgctxt "Edit an invoice for this plan"
 msgid "Edit an invoice for this plan"
 msgstr ""
 
+msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr ""
 
+msgctxt "Edit step for this element"
 msgid "Edit step for this element"
 msgstr ""
 
+msgctxt "Editing"
 msgid "Editing"
 msgstr "Úpravy"
 
+msgctxt "Editor"
 msgid "Editor"
 msgstr "Editor"
 
+msgctxt ""
+"Editor note: A user with a given role can only assign Self role (if the role "
+"is SELF-ASSIGNABLE) & Child roles."
 msgid ""
 "Editor note: A user with a given role can only assign Self role (if the role "
 "is SELF-ASSIGNABLE) & Child roles."
 msgstr ""
 
+msgctxt ""
+"Editor note: A user with a given role can only assign self & child roles."
 msgid ""
 "Editor note: A user with a given role can only assign self & child roles."
 msgstr ""
 
+msgctxt "Element n°"
 msgid "Element n°"
 msgstr ""
 
+msgctxt "Email"
 msgid "Email"
 msgstr "E-mail"
 
+msgctxt "Email address"
 msgid "Email address"
 msgstr "E-mailová adresa"
 
+msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr ""
 
+msgctxt "Enable test API ?"
 msgid "Enable test API ?"
 msgstr ""
 
+msgctxt "End at"
 msgid "End at"
 msgstr "Platnost do"
 
+msgctxt "End tour"
 msgid "End tour"
 msgstr ""
 
+msgctxt "Enter your twitter handle"
 msgid "Enter your twitter handle"
 msgstr ""
 
+msgctxt "Error"
 msgid "Error"
 msgstr "Chyba"
 
+msgctxt "Error : <br/>"
 msgid "Error : <br/>"
 msgstr "Chyba: <br/>"
 
+msgctxt "Error on import configuration."
 msgid "Error on import configuration."
 msgstr "Chyba v konfiguraci importu"
 
+msgctxt "Errors : <br/>"
 msgid "Errors : <br/>"
 msgstr "Chyby: <br/>"
 
+msgctxt "European <b>General Data Protection Regulation (GDPR)</b>"
 msgid "European <b>General Data Protection Regulation (GDPR)</b>"
 msgstr ""
 
+msgctxt "Event"
 msgid "Event"
 msgstr "Událost"
 
+msgctxt "Events"
 msgid "Events"
 msgstr "Eventy"
 
+msgctxt "Export / Import"
 msgid "Export / Import"
 msgstr ""
 
+msgctxt ""
+"Export / Import of features is currently in beta and available only with "
+"some features."
 msgid ""
 "Export / Import of features is currently in beta and available only with "
 "some features."
 msgstr ""
 
+msgctxt "Export your customers"
 msgid "Export your customers"
 msgstr "Exportujte své zákazníky"
 
+msgctxt "Extension"
 msgid "Extension"
 msgstr ""
 
+msgctxt "Extension can't be empty."
 msgid "Extension can't be empty."
 msgstr ""
 
+msgctxt "Extension not allowed, '%s' only"
 msgid "Extension not allowed, '%s' only"
 msgstr "Rozšíření není povoleno, pouze '%s'"
 
+msgctxt "Extension %s is strictly forbidden."
 msgid "Extension %s is strictly forbidden."
 msgstr ""
 
+msgctxt "Extension: txt, png, jpeg, avi, etc..."
 msgid "Extension: txt, png, jpeg, avi, etc..."
 msgstr ""
 
+msgctxt "Facebook"
 msgid "Facebook"
 msgstr "Facebook"
 
+msgctxt "Fan Wall"
 msgid "Fan Wall"
 msgstr "Nástěnka"
 
+msgctxt "Fanwall"
 msgid "Fanwall"
 msgstr ""
 
+msgctxt "Feature Analytics"
 msgid "Feature Analytics"
 msgstr ""
 
+msgctxt "Feature Top 5 visits"
 msgid "Feature Top 5 visits"
 msgstr ""
 
+msgctxt "Features"
 msgid "Features"
 msgstr "Funkce"
 
+msgctxt "Filter metrics"
 msgid "Filter metrics"
 msgstr ""
 
+msgctxt "Firewall"
 msgid "Firewall"
 msgstr ""
 
+msgctxt "First Name"
 msgid "First Name"
 msgstr "Jméno"
 
+msgctxt "First name"
 msgid "First name"
 msgstr "Jméno"
 
+msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Jméno, Příjmení"
 
+msgctxt "Firstname"
 msgid "Firstname"
 msgstr "Jméno"
 
+msgctxt "Folder"
 msgid "Folder"
 msgstr "Struktura"
 
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Název složky je nutné vyplnit"
 
+msgctxt "Folders"
 msgid "Folders"
 msgstr "Složky"
 
+msgctxt "Folders (v2)"
 msgid "Folders (v2)"
 msgstr ""
 
+msgctxt "Forbidden image format"
 msgid "Forbidden image format"
 msgstr ""
 
+msgctxt "Force request & Upload to panel"
 msgid "Force request & Upload to panel"
 msgstr ""
 
+msgctxt "Forgot your password?"
 msgid "Forgot your password?"
 msgstr "Zapomněli jste heslo?"
 
+msgctxt ""
+"Forgot your password? Don't worry! Simply enter your email address and we'll "
+"send you a new one right now."
 msgid ""
 "Forgot your password? Don't worry! Simply enter your email address and we'll "
 "send you a new one right now."
@@ -964,165 +1293,222 @@ msgstr ""
 "Zapomněli jste heslo? Nebojte se! Jednoduše zadejte svou e-mailovou adresu a "
 "my Vám obratem zašleme nové!"
 
+msgctxt "Form"
 msgid "Form"
 msgstr "Formulář"
 
+msgctxt "Form has the following errors"
 msgid "Form has the following errors"
 msgstr ""
 
+msgctxt "Free until"
 msgid "Free until"
 msgstr ""
 
+msgctxt "From:"
 msgid "From:"
 msgstr ""
 
+msgctxt "Front"
 msgid "Front"
 msgstr ""
 
+msgctxt "GCM settings saved."
 msgid "GCM settings saved."
 msgstr ""
 
+msgctxt "GRADLE extended options"
 msgid "GRADLE extended options"
 msgstr ""
 
+msgctxt "General"
 msgid "General"
 msgstr "Obecné"
 
+msgctxt "Generate"
 msgid "Generate"
 msgstr "Vygenerovat"
 
+msgctxt "Generate an invoice for this offline plan by using the form below."
 msgid "Generate an invoice for this offline plan by using the form below."
 msgstr ""
 
+msgctxt "Generate build"
 msgid "Generate build"
 msgstr ""
 
+msgctxt "Generate sources"
 msgid "Generate sources"
 msgstr ""
 
+msgctxt "Global push"
 msgid "Global push"
 msgstr ""
 
+msgctxt "Global push notifications"
 msgid "Global push notifications"
 msgstr ""
 
+msgctxt "Go back"
 msgid "Go back"
 msgstr ""
 
+msgctxt "Google Maps settings"
 msgid "Google Maps settings"
 msgstr ""
 
+msgctxt "HH:mm a"
 msgid "HH:mm a"
 msgstr ""
 
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Dobrý den,"
 
+msgctxt "Here is your new password:"
 msgid "Here is your new password:"
 msgstr "Zde je vaše nové heslo:"
 
+msgctxt "Hi. I just found: $1 in the $2 app."
 msgid "Hi. I just found: $1 in the $2 app."
 msgstr ""
 
+msgctxt "Hide"
 msgid "Hide"
 msgstr "skrýt"
 
+msgctxt "Hide iOS status bar"
 msgid "Hide iOS status bar"
 msgstr "Skrýt stavovou lištu na iOS"
 
+msgctxt "Hint"
 msgid "Hint"
 msgstr ""
 
+msgctxt "Home"
 msgid "Home"
 msgstr ""
 
+msgctxt "Homepage"
 msgid "Homepage"
 msgstr ""
 
+msgctxt "Host"
 msgid "Host"
 msgstr "Host"
 
+msgctxt "Hostnames associated with this Certificate"
 msgid "Hostnames associated with this Certificate"
 msgstr ""
 
+msgctxt ""
+"How do you want to access the backoffice if you remove the only user "
+"remaining?"
 msgid ""
 "How do you want to access the backoffice if you remove the only user "
 "remaining?"
 msgstr ""
 "Jak chcete přistupovat do backoffice, pokud odeberete posledního uživatele??"
 
+msgctxt "ID"
 msgid "ID"
 msgstr "ID"
 
+msgctxt "IP"
 msgid "IP"
 msgstr ""
 
+msgctxt "IP, example: 127.0.0.1"
 msgid "IP, example: 127.0.0.1"
 msgstr ""
 
+msgctxt "Icons size"
 msgid "Icons size"
 msgstr ""
 
+msgctxt "If user doesn't use AdMob, split revenue will default to 100."
 msgid "If user doesn't use AdMob, split revenue will default to 100."
 msgstr ""
 
+msgctxt "I'm listening to $1 from $2 on $3 app."
 msgid "I'm listening to $1 from $2 on $3 app."
 msgstr ""
 
+msgctxt "I'm listening to $1 on $2 app."
 msgid "I'm listening to $1 on $2 app."
 msgstr ""
 
+msgctxt "Image"
 msgid "Image"
 msgstr "Obrázek"
 
+msgctxt "Image not high enough, %spx minimum allowed."
 msgid "Image not high enough, %spx minimum allowed."
 msgstr "Obrázek není dostatečně vysoký, musí mít minimálně %spx"
 
+msgctxt "Image not large enough, '%s' allowed."
 msgid "Image not large enough, '%s' allowed."
 msgstr "Obrázek není dostatečně velký, '%s' povolen."
 
+msgctxt "Image not large enough, %spx minimum allowed."
 msgid "Image not large enough, %spx minimum allowed."
 msgstr "Obrázek není dostatečně široký, musí mít minimálně %spx"
 
+msgctxt "Image successfully saved"
 msgid "Image successfully saved"
 msgstr "Stránka byla úspěšně uložena"
 
+msgctxt "Image too high, %spx maximum allowed."
 msgid "Image too high, %spx maximum allowed."
 msgstr "Obrázek je příliš vysoký, může mít maximálně %spx"
 
+msgctxt "Image too large, '%s' allowed."
 msgid "Image too large, '%s' allowed."
 msgstr "Obrázek je příliš velký, '%s' povolen."
 
+msgctxt "Image too large, %spx maximum allowed."
 msgid "Image too large, %spx maximum allowed."
 msgstr "Obrázek je přílišširoký, může mít maximálně %spx"
 
+msgctxt "Images"
 msgid "Images"
 msgstr "Obrázky"
 
+msgctxt "Images opacity"
 msgid "Images opacity"
 msgstr ""
 
+msgctxt "Import"
 msgid "Import"
 msgstr "Import"
 
+msgctxt "Import a background image"
 msgid "Import a background image"
 msgstr ""
 
+msgctxt "Import a cover image"
 msgid "Import a cover image"
 msgstr ""
 
+msgctxt "Import a single feature."
 msgid "Import a single feature."
 msgstr ""
 
+msgctxt "Import a thumbnail"
 msgid "Import a thumbnail"
 msgstr ""
 
+msgctxt "Import a thumbnail image"
 msgid "Import a thumbnail image"
 msgstr ""
 
+msgctxt "Import yml"
 msgid "Import yml"
 msgstr ""
 
+msgctxt ""
+"In order to fully enjoy our features, we encourage you to use at least:.<br "
+"/>"
 msgid ""
 "In order to fully enjoy our features, we encourage you to use at least:.<br "
 "/>"
@@ -1130,1595 +1516,2151 @@ msgstr ""
 "Aby bylo možné plně využívat všechny funkce, doporučujeme použít alespoň: <"
 "br />"
 
+msgctxt "In order to publish your application, we need:"
 msgid "In order to publish your application, we need:"
 msgstr "Aby bylo možné publikovat Vaši aplikaci, potřebujeme:<br />-"
 
+msgctxt "In order to use global push notifications your app must be published."
 msgid "In order to use global push notifications your app must be published."
 msgstr ""
 
+msgctxt "Incorrect filetype."
 msgid "Incorrect filetype."
 msgstr "Nesprávný typ souboru"
 
+msgctxt "Info"
 msgid "Info"
 msgstr "Info"
 
+msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "Informace úspěšně uložena"
 
+msgctxt "Information"
 msgid "Information"
 msgstr "Informace"
 
+msgctxt "Infos successfully saved"
 msgid "Infos successfully saved"
 msgstr "Informace úspěšně uloženy"
 
+msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr ""
 
+msgctxt "Insert a <br /><span class'bold'>cover image</span>"
 msgid "Insert a <br /><span class'bold'>cover image</span>"
 msgstr "Vložit <br /><span class=\"bold\">obrázek</span>"
 
+msgctxt "Insert a cover image"
 msgid "Insert a cover image"
 msgstr ""
 
+msgctxt "Insert a picture"
 msgid "Insert a picture"
 msgstr "Vložit obrázek"
 
+msgctxt "Installer"
 msgid "Installer"
 msgstr ""
 
+msgctxt "Installs"
 msgid "Installs"
 msgstr ""
 
+msgctxt "Integration"
 msgid "Integration"
 msgstr "Redirect"
 
+msgctxt "Interstitial"
 msgid "Interstitial"
 msgstr ""
 
+msgctxt "Invalid place"
 msgid "Invalid place"
 msgstr "Neplatné místo"
 
+msgctxt "Invoice creation date"
 msgid "Invoice creation date"
 msgstr ""
 
+msgctxt "Invoice payment date"
 msgid "Invoice payment date"
 msgstr ""
 
+msgctxt "Invoices"
 msgid "Invoices"
 msgstr "Faktury"
 
+msgctxt "Issuer"
 msgid "Issuer"
 msgstr ""
 
+msgctxt ""
+"It seems that the renewal of the following SSL Certificate %s is failing, "
+"please check in <b>Settings > Advanced > Configuration</b> for the specified "
+"certificate."
 msgid ""
 "It seems that the renewal of the following SSL Certificate %s is failing, "
 "please check in <b>Settings > Advanced > Configuration</b> for the specified "
 "certificate."
 msgstr ""
 
+msgctxt "JAVA Extended options"
 msgid "JAVA Extended options"
 msgstr ""
 
+msgctxt "Landscape"
 msgid "Landscape"
 msgstr ""
 
+msgctxt "Last Name"
 msgid "Last Name"
 msgstr "Příjmení"
 
+msgctxt "Last action"
 msgid "Last action"
 msgstr ""
 
+msgctxt "Last error"
 msgid "Last error"
 msgstr ""
 
+msgctxt "Last login"
 msgid "Last login"
 msgstr ""
 
+msgctxt "Last name"
 msgid "Last name"
 msgstr "Příjmení"
 
+msgctxt "Last update date"
 msgid "Last update date"
 msgstr ""
 
+msgctxt "Lastname"
 msgid "Lastname"
 msgstr "Příjmení"
 
+msgctxt "Layout #1"
 msgid "Layout #1"
 msgstr ""
 
+msgctxt "Layout #2"
 msgid "Layout #2"
 msgstr ""
 
+msgctxt "Layout #3"
 msgid "Layout #3"
 msgstr ""
 
+msgctxt "Layout #4"
 msgid "Layout #4"
 msgstr ""
 
+msgctxt "Layout #5"
 msgid "Layout #5"
 msgstr ""
 
+msgctxt "Layout #6"
 msgid "Layout #6"
 msgstr ""
 
+msgctxt "Leave blank if your web space is the current domain."
 msgid "Leave blank if your web space is the current domain."
 msgstr ""
 
+msgctxt "Left"
 msgid "Left"
 msgstr ""
 
+msgctxt "Let your users know what is locked"
 msgid "Let your users know what is locked"
 msgstr ""
 
+msgctxt "Like"
 msgid "Like"
 msgstr "Like"
 
+msgctxt "Likes"
 msgid "Likes"
 msgstr "Like"
 
+msgctxt "Link"
 msgid "Link"
 msgstr "Odkaz"
 
+msgctxt "Links"
 msgid "Links"
 msgstr "Odkazy"
 
+msgctxt "Links are now re-ordered!"
 msgid "Links are now re-ordered!"
 msgstr ""
 
+msgctxt "List"
 msgid "List"
 msgstr ""
 
+msgctxt "List Item"
 msgid "List Item"
 msgstr ""
 
+msgctxt "List of your invoices"
 msgid "List of your invoices"
 msgstr "Seznam faktur"
 
+msgctxt "Load More"
 msgid "Load More"
 msgstr "Nahrát další"
 
+msgctxt "Loading"
 msgid "Loading"
 msgstr "Nahrávám"
 
+msgctxt "Loading picture"
 msgid "Loading picture"
 msgstr "Nahrát obrázek:"
 
+msgctxt "Local APK Generator"
 msgid "Local APK Generator"
 msgstr ""
 
+msgctxt "Local APK build"
 msgid "Local APK build"
 msgstr ""
 
+msgctxt "Locate"
 msgid "Locate"
 msgstr "MAPA"
 
+msgctxt "Location"
 msgid "Location"
 msgstr "Místo"
 
+msgctxt "Location: %s"
 msgid "Location: %s"
 msgstr "Místo: %s"
 
+msgctxt "Log in"
 msgid "Log in"
 msgstr "Přihlásit se"
 
+msgctxt "Logged in as"
 msgid "Logged in as"
 msgstr "Přihlášen jako"
 
+msgctxt "Log-in"
 msgid "Log-in"
 msgstr "Přihlásit se"
 
+msgctxt "Login to access your data"
 msgid "Login to access your data"
 msgstr ""
 
+msgctxt "Login to your admin interface"
 msgid "Login to your admin interface"
 msgstr "Přihlaste se do svého backoffice rozhraní"
 
+msgctxt "Log-out"
 msgid "Log-out"
 msgstr "Odhlásit se"
 
+msgctxt "Loyalty Card"
 msgid "Loyalty Card"
 msgstr "Věrnost"
 
+msgctxt "LoyaltyCard"
 msgid "LoyaltyCard"
 msgstr ""
 
+msgctxt "MMMM dd y"
 msgid "MMMM dd y"
 msgstr "dd MMMM y"
 
+msgctxt "MM,d yy"
 msgid "MM,d yy"
 msgstr "d, MM yy"
 
+msgctxt "MM.dd.y"
 msgid "MM.dd.y"
 msgstr "dd.MM.y"
 
+msgctxt "MM.dd.y 'at' HH:mm a"
 msgid "MM.dd.y 'at' HH:mm a"
 msgstr "dd.MM.y 'v' HH:mm"
 
+msgctxt "MM/dd/y 'at' hh:mm a"
 msgid "MM/dd/y 'at' hh:mm a"
 msgstr "dd / MM / y 'at' hh:mm"
 
+msgctxt "MM/dd/y hh:mm a"
 msgid "MM/dd/y hh:mm a"
 msgstr "DD / MM / y hh:mm"
 
+msgctxt "MM/dd/yy"
 msgid "MM/dd/yy"
 msgstr "dd / MM / yy"
 
+msgctxt "MM/dd/yyyy"
 msgid "MM/dd/yyyy"
 msgstr "dd / MM / yyyy"
 
+msgctxt "Main Platform"
 msgid "Main Platform"
 msgstr ""
 
+msgctxt "Main category"
 msgid "Main category"
 msgstr "Hlavní kategorie"
 
+msgctxt "Main domain"
 msgid "Main domain"
 msgstr ""
 
+msgctxt "Main domain (without https?://) is required for services, and tools."
 msgid "Main domain (without https?://) is required for services, and tools."
 msgstr ""
 
+msgctxt "Main hostname"
 msgid "Main hostname"
 msgstr ""
 
+msgctxt "Make this image colorizable"
 msgid "Make this image colorizable"
 msgstr "?Obrázek bude obarvitelný?"
 
+msgctxt "Manage"
 msgid "Manage"
 msgstr "Upravit"
 
+msgctxt "Manage Folders"
 msgid "Manage Folders"
 msgstr ""
 
+msgctxt "Manage Places"
 msgid "Manage Places"
 msgstr ""
 
+msgctxt "Manage Tour"
 msgid "Manage Tour"
 msgstr ""
 
+msgctxt "Manage content"
 msgid "Manage content"
 msgstr ""
 
+msgctxt "Map"
 msgid "Map"
 msgstr "Mapa"
 
+msgctxt "Maps"
 msgid "Maps"
 msgstr "Mapy"
 
+msgctxt "Mcommerce"
 msgid "Mcommerce"
 msgstr ""
 
+msgctxt "Media"
 msgid "Media"
 msgstr "Media"
 
+msgctxt "Message"
 msgid "Message"
 msgstr "Zpráva"
 
+msgctxt "Message from your app %s"
 msgid "Message from your app %s"
 msgstr "Zpráva z Vaší mobilní aplikace %s"
 
+msgctxt "Messages"
 msgid "Messages"
 msgstr "Zprávy"
 
+msgctxt "Metadata"
 msgid "Metadata"
 msgstr ""
 
+msgctxt "Method"
 msgid "Method"
 msgstr ""
 
+msgctxt "Middle"
 msgid "Middle"
 msgstr ""
 
+msgctxt "Migrate sessions"
 msgid "Migrate sessions"
 msgstr ""
 
+msgctxt "Migrate sessions to Redis"
 msgid "Migrate sessions to Redis"
 msgstr ""
 
+msgctxt "Misc"
 msgid "Misc"
 msgstr "Různé"
 
+msgctxt "Missing appId"
 msgid "Missing appId"
 msgstr ""
 
+msgctxt "Missing gallery_id"
 msgid "Missing gallery_id"
 msgstr ""
 
+msgctxt "Missing parameters."
 msgid "Missing parameters."
 msgstr ""
 
+msgctxt "Missing params"
 msgid "Missing params"
 msgstr ""
 
+msgctxt "Missing status"
 msgid "Missing status"
 msgstr ""
 
+msgctxt "Missing value"
 msgid "Missing value"
 msgstr ""
 
+msgctxt "Missing values"
 msgid "Missing values"
 msgstr ""
 
+msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Zobrazení v mobilu"
 
+msgctxt "Modal"
 msgid "Modal"
 msgstr ""
 
+msgctxt "Modules"
 msgid "Modules"
 msgstr "Moduly"
 
+msgctxt "Monetization"
 msgid "Monetization"
 msgstr "Finanční"
 
+msgctxt "Month"
 msgid "Month"
 msgstr "Měsíc"
 
+msgctxt "Monthly"
 msgid "Monthly"
 msgstr "Měsíčně"
 
+msgctxt "More"
 msgid "More"
 msgstr "Více"
 
+msgctxt "My Users List"
 msgid "My Users List"
 msgstr ""
 
+msgctxt "My account"
 msgid "My account"
 msgstr "Můj účet"
 
+msgctxt "My custom template"
 msgid "My custom template"
 msgstr ""
 
+msgctxt "My invoices"
 msgid "My invoices"
 msgstr "Moje faktury"
 
+msgctxt "MyTemplate"
 msgid "MyTemplate"
 msgstr ""
 
+msgctxt "NSCameraUsageDescription"
 msgid "NSCameraUsageDescription"
 msgstr ""
 
+msgctxt "NSLocationAlwaysAndWhenInUseUsageDescription"
 msgid "NSLocationAlwaysAndWhenInUseUsageDescription"
 msgstr ""
 
+msgctxt "NSLocationAlwaysUsageDescription"
 msgid "NSLocationAlwaysUsageDescription"
 msgstr ""
 
+msgctxt "NSLocationWhenInUseUsageDescription"
 msgid "NSLocationWhenInUseUsageDescription"
 msgstr ""
 
+msgctxt "NSMotionUsageDescription"
 msgid "NSMotionUsageDescription"
 msgstr ""
 
+msgctxt "NSPhotoLibraryUsageDescription"
 msgid "NSPhotoLibraryUsageDescription"
 msgstr ""
 
+msgctxt "Name"
 msgid "Name"
 msgstr "Název"
 
+msgctxt "Never"
 msgid "Never"
 msgstr "Nikdy"
 
+msgctxt "New"
 msgid "New"
 msgstr "Nový"
 
+msgctxt "New folder"
 msgid "New folder"
 msgstr "Nová složka"
 
+msgctxt "New format"
 msgid "New format"
 msgstr ""
 
+msgctxt "New password"
 msgid "New password"
 msgstr "Nové heslo"
 
+msgctxt "New positions are missing."
 msgid "New positions are missing."
 msgstr ""
 
+msgctxt "New subfolder"
 msgid "New subfolder"
 msgstr "Nová složka"
 
+msgctxt "Newswall"
 msgid "Newswall"
 msgstr "Novinky"
 
+msgctxt "Next"
 msgid "Next"
 msgstr "Další"
 
+msgctxt "No"
 msgid "No"
 msgstr "Ne"
 
+msgctxt "No Results"
 msgid "No Results"
 msgstr "Žádné výsledky"
 
+msgctxt "No address to display on map."
 msgid "No address to display on map."
 msgstr "Chybí adresa ke zobrazení v mapě"
 
+msgctxt "No data for this metrics for now."
 msgid "No data for this metrics for now."
 msgstr ""
 
+msgctxt "No features"
 msgid "No features"
 msgstr ""
 
+msgctxt "No invoice for now."
 msgid "No invoice for now."
 msgstr "Dosud nemáte žádná Témata"
 
+msgctxt "No items found"
 msgid "No items found"
 msgstr "Nic nenalezeno"
 
+msgctxt "No linkable element found on this page."
 msgid "No linkable element found on this page."
 msgstr ""
 
+msgctxt "No logs"
 msgid "No logs"
 msgstr ""
 
+msgctxt "No modules"
 msgid "No modules"
 msgstr ""
 
+msgctxt "No place to display on map."
 msgid "No place to display on map."
 msgstr "Chybí místo ke zobrazení v mapě"
 
+msgctxt "No profile found. Please create one in Settings tab."
 msgid "No profile found. Please create one in Settings tab."
 msgstr ""
 
+msgctxt "No published applications available."
 msgid "No published applications available."
 msgstr ""
 
+msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr ""
 
+msgctxt "No rules"
 msgid "No rules"
 msgstr "Žádné výsledky"
 
+msgctxt "No uploaded image"
 msgid "No uploaded image"
 msgstr "Žádné nahrané obrázky"
 
+msgctxt "Not available offline."
 msgid "Not available offline."
 msgstr ""
 
+msgctxt "Note"
 msgid "Note"
 msgstr "Žádný"
 
+msgctxt ""
+"Note: A disabled feature is not removed from published applications & can "
+"still be edited, but users can't add it anymore!"
 msgid ""
 "Note: A disabled feature is not removed from published applications & can "
 "still be edited, but users can't add it anymore!"
 msgstr ""
 
+msgctxt "Note: Let's encrypt X1 is a staging certificate."
 msgid "Note: Let's encrypt X1 is a staging certificate."
 msgstr ""
 
+msgctxt "Nothing to display."
 msgid "Nothing to display."
 msgstr "Nic ke zobrazení"
 
+msgctxt "Number"
 msgid "Number"
 msgstr "Číslo"
 
+msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Počet lidí"
 
+msgctxt "Number of reward used"
 msgid "Number of reward used"
 msgstr ""
 
+msgctxt "OK"
 msgid "OK"
 msgstr "OK"
 
+msgctxt "OR"
 msgid "OR"
 msgstr "NEBO"
 
+msgctxt "Offline Payment"
 msgid "Offline Payment"
 msgstr "Offline obsah"
 
+msgctxt "Offline content"
 msgid "Offline content"
 msgstr "Offline obsah"
 
+msgctxt "Old Password"
 msgid "Old Password"
 msgstr "Staré heslo"
 
+msgctxt "Only active"
 msgid "Only active"
 msgstr ""
 
+msgctxt "Only inactive"
 msgid "Only inactive"
 msgstr ""
 
+msgctxt "Only offline"
 msgid "Only offline"
 msgstr ""
 
+msgctxt "Only published application are available for global push notifications."
 msgid "Only published application are available for global push notifications."
 msgstr ""
 
+msgctxt "Open custom URL"
 msgid "Open custom URL"
 msgstr ""
 
+msgctxt "Open settings"
 msgid "Open settings"
 msgstr ""
 
+msgctxt "Options"
 msgid "Options"
 msgstr "Možnosti"
 
+msgctxt "Or do you want to return to editor?"
 msgid "Or do you want to return to editor?"
 msgstr ""
 
+msgctxt "Order"
 msgid "Order"
 msgstr "Objednávka"
 
+msgctxt "Order date"
 msgid "Order date"
 msgstr ""
 
+msgctxt "Origin"
 msgid "Origin"
 msgstr ""
 
+msgctxt "Ouch, this page doesn't exist"
 msgid "Ouch, this page doesn't exist"
 msgstr "Ups, tato stránka neexistuje"
 
+msgctxt "Override layout"
 msgid "Override layout"
 msgstr ""
 
+msgctxt "PHP Version"
 msgid "PHP Version"
 msgstr ""
 
+msgctxt "Package name"
 msgid "Package name"
 msgstr ""
 
+msgctxt "Padlock"
 msgid "Padlock"
 msgstr "Zámek"
 
+msgctxt "Page settings"
 msgid "Page settings"
 msgstr "Nastavení banneru"
 
+msgctxt "Paid At"
 msgid "Paid At"
 msgstr "Zaplaceno"
 
+msgctxt "Paid amount"
 msgid "Paid amount"
 msgstr ""
 
+msgctxt "Paid at"
 msgid "Paid at"
 msgstr "Zaplaceno:"
 
+msgctxt "Parent"
 msgid "Parent"
 msgstr ""
 
+msgctxt "Password"
 msgid "Password"
 msgstr "Heslo"
 
+msgctxt "Password (clear)"
 msgid "Password (clear)"
 msgstr ""
 
+msgctxt "Password (hashed)"
 msgid "Password (hashed)"
 msgstr ""
 
+msgctxt "Passwords don't match"
 msgid "Passwords don't match"
 msgstr "Hesla se neshodují"
 
+msgctxt "PayPal Express Checkout"
 msgid "PayPal Express Checkout"
 msgstr ""
 
+msgctxt "Payment"
 msgid "Payment"
 msgstr "Platba"
 
+msgctxt "Payment ID"
 msgid "Payment ID"
 msgstr "Platby"
 
+msgctxt "Payment Method"
 msgid "Payment Method"
 msgstr "Způsob platby"
 
+msgctxt "Payment method"
 msgid "Payment method"
 msgstr "Způsob platby"
 
+msgctxt "Payments"
 msgid "Payments"
 msgstr "Platby"
 
+msgctxt "Permissions"
 msgid "Permissions"
 msgstr ""
 
+msgctxt "Personal data"
 msgid "Personal data"
 msgstr ""
 
+msgctxt "Phone"
 msgid "Phone"
 msgstr "Telefon"
 
+msgctxt "Phone and/or E-mail"
 msgid "Phone and/or E-mail"
 msgstr ""
 
+msgctxt "Photos"
 msgid "Photos"
 msgstr "Fotografie"
 
+msgctxt "Place disabled"
 msgid "Place disabled"
 msgstr ""
 
+msgctxt "Places"
 msgid "Places"
 msgstr "Lokality"
 
+msgctxt "Plain"
 msgid "Plain"
 msgstr ""
 
+msgctxt "Plans"
 msgid "Plans"
 msgstr "Tarify"
 
+msgctxt "Platform"
 msgid "Platform"
 msgstr ""
 
+msgctxt "Platform Name"
 msgid "Platform Name"
 msgstr "Název platformy"
 
+msgctxt "Platform hostname"
 msgid "Platform hostname"
 msgstr "Název platformy"
 
+msgctxt "Player"
 msgid "Player"
 msgstr "Hráč"
 
+msgctxt "Please create the API keys to enable this feature."
 msgid "Please create the API keys to enable this feature."
 msgstr ""
 
+msgctxt "Please, enter a correct email address."
 msgid "Please, enter a correct email address."
 msgstr "Prosím, zadejte správnou e-mailovou adresu."
 
+msgctxt "Please enter a password"
 msgid "Please enter a password"
 msgstr "Prosím, zadejte heslo"
 
+msgctxt "Please enter a valid URL."
 msgid "Please enter a valid URL."
 msgstr "Zadejte prosím platnou URL"
 
+msgctxt "Please enter a valid credit card number."
 msgid "Please enter a valid credit card number."
 msgstr "Zadejte prosím platné číslo karty"
 
+msgctxt "Please, enter a valid date"
 msgid "Please, enter a valid date"
 msgstr "Prosím, zadejte platné datum"
 
+msgctxt "Please enter a valid date (ISO)."
 msgid "Please enter a valid date (ISO)."
 msgstr "Zadejte prosím platné datum"
 
+msgctxt "Please enter a valid email address"
 msgid "Please enter a valid email address"
 msgstr "Zadejte prosím platnou e-mailovou adresu"
 
+msgctxt "Please enter a valid number."
 msgid "Please enter a valid number."
 msgstr "Zadejte prosím platné číslo"
 
+msgctxt "Please enter a valid url"
 msgid "Please enter a valid url"
 msgstr "Zadejte prosím platnou adresu URL"
 
+msgctxt "Please enter a value between {0} and {1}."
 msgid "Please enter a value between {0} and {1}."
 msgstr "Zadejte prosím hodnotu mezi {0} a {1}"
 
+msgctxt "Please enter a value between {0} and {1} characters long."
 msgid "Please enter a value between {0} and {1} characters long."
 msgstr "Zadejte prosím hodnotu mezi {0} a {1}"
 
+msgctxt "Please enter a value greater than or equal to {0}."
 msgid "Please enter a value greater than or equal to {0}."
 msgstr "Zadejte prosím hodnotu větší nebo rovno {0}."
 
+msgctxt "Please enter a value less than or equal to {0}."
 msgid "Please enter a value less than or equal to {0}."
 msgstr "Zadejte prosím hodnotu menší nebo rovno {0}."
 
+msgctxt "Please enter at least {0} characters."
 msgid "Please enter at least {0} characters."
 msgstr "Zadejte prosím nejméně {0} znaků"
 
+msgctxt "Please enter no more than {0} characters."
 msgid "Please enter no more than {0} characters."
 msgstr "Nesmí být delší než {0} znaků"
 
+msgctxt "Please enter only digits."
 msgid "Please enter only digits."
 msgstr "Zadejte prosím pouze čísla"
 
+msgctxt "Please enter the same value again."
 msgid "Please enter the same value again."
 msgstr "Zadejte prosím znovu stejnou hodnotu"
 
+msgctxt "Please enter your email address"
 msgid "Please enter your email address"
 msgstr "Prosím, zadejte svou e-mailovou adresu"
 
+msgctxt "Please fill in the following fields:"
 msgid "Please fill in the following fields:"
 msgstr "Prosim vyplnte nasledujici udaje:"
 
+msgctxt "Please fill out the following fields"
 msgid "Please fill out the following fields"
 msgstr "Vyplňte prosím následující položky:"
 
+msgctxt "Please fix this field."
 msgid "Please fix this field."
 msgstr "Opravte prosím toto pole"
 
+msgctxt "Please log in."
 msgid "Please log in."
 msgstr "Přihlašte se prosím"
 
+msgctxt ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when the %s applications limit is reached."
 msgid ""
 "Please note that this page is currently displaying DEMO data. Real data will "
 "be displayed when the %s applications limit is reached."
 msgstr ""
 
+msgctxt ""
+"Please note that this page is currently displaying DEMO data. Real data will "
+"be displayed when your application is published."
 msgid ""
 "Please note that this page is currently displaying DEMO data. Real data will "
 "be displayed when your application is published."
 msgstr ""
 
+msgctxt "Please provide a certificate."
 msgid "Please provide a certificate."
 msgstr "Nahrajte certifikát prosím"
 
+msgctxt "Please select at least one application."
 msgid "Please select at least one application."
 msgstr ""
 
+msgctxt "Please wait..."
 msgid "Please wait..."
 msgstr "Čekejte prosím"
 
+msgctxt "Podcast"
 msgid "Podcast"
 msgstr "Podcast"
 
+msgctxt "Podcast URL"
 msgid "Podcast URL"
 msgstr "Podcast URL:"
 
+msgctxt "Podcast URL (iTunes format)"
 msgid "Podcast URL (iTunes format)"
 msgstr "Podcast URL (ve formátu iTunes)"
 
+msgctxt "Podcast type is invalid or can't be found"
 msgid "Podcast type is invalid or can't be found"
 msgstr "Podcast typ je neplatný nebo ho nelze nalézt"
 
+msgctxt "Port"
 msgid "Port"
 msgstr "Port"
 
+msgctxt "Port, example: 3310"
 msgid "Port, example: 3310"
 msgstr ""
 
+msgctxt "Position Menu"
 msgid "Position Menu"
 msgstr ""
 
+msgctxt "Postcode"
 msgid "Postcode"
 msgstr "PSČ"
 
+msgctxt "Previewer"
 msgid "Previewer"
 msgstr "Prohlížeč"
 
+msgctxt "Previews"
 msgid "Previews"
 msgstr "Náhledy"
 
+msgctxt "Privacy"
 msgid "Privacy"
 msgstr ""
 
+msgctxt "Privacy Policy"
 msgid "Privacy Policy"
 msgstr "Ochrana osobních údajů"
 
+msgctxt "Privacy policy"
 msgid "Privacy policy"
 msgstr "Ochrana osobních údajů"
 
+msgctxt "Privacy policy section for GDPR"
 msgid "Privacy policy section for GDPR"
 msgstr ""
 
+msgctxt "Privacy policy successfully saved"
 msgid "Privacy policy successfully saved"
 msgstr ""
 
+msgctxt "Privacy settings"
 msgid "Privacy settings"
 msgstr ""
 
+msgctxt "Products"
 msgid "Products"
 msgstr "Produkt"
 
+msgctxt "Profile"
 msgid "Profile"
 msgstr ""
 
+msgctxt "Promotion"
 msgid "Promotion"
 msgstr ""
 
+msgctxt "Publication settings"
 msgid "Publication settings"
 msgstr ""
 
+msgctxt "Publish your app"
 msgid "Publish your app"
 msgstr ""
 
+msgctxt "Publishable Key"
 msgid "Publishable Key"
 msgstr ""
 
+msgctxt "Push"
 msgid "Push"
 msgstr "Push"
 
+msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "PUSH"
 
+msgctxt "Push message"
 msgid "Push message"
 msgstr ""
 
+msgctxt "Push message is sent."
 msgid "Push message is sent."
 msgstr ""
 
+msgctxt "Push notification"
 msgid "Push notification"
 msgstr "PUSH"
 
+msgctxt "Push notifications"
 msgid "Push notifications"
 msgstr "PUSH"
 
+msgctxt ""
+"Push notifications Your account doesn't exists on editor side. Please create "
+"it before using tour edition."
 msgid ""
 "Push notifications Your account doesn't exists on editor side. Please create "
 "it before using tour edition."
 msgstr ""
 
+msgctxt "QR Code"
 msgid "QR Code"
 msgstr ""
 
+msgctxt "QRCode"
 msgid "QRCode"
 msgstr "QR kód"
 
+msgctxt "Qty"
 msgid "Qty"
 msgstr "Množství"
 
+msgctxt "Query"
 msgid "Query"
 msgstr ""
 
+msgctxt "RSS Feed"
 msgid "RSS Feed"
 msgstr "RSS"
 
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Rádio"
 
+msgctxt "Redis AUTH KEY"
 msgid "Redis AUTH KEY"
 msgstr ""
 
+msgctxt "Registration date"
 msgid "Registration date"
 msgstr "Datum vypršení platnosti"
 
+msgctxt "Release"
 msgid "Release"
 msgstr ""
 
+msgctxt "Remove"
 msgid "Remove"
 msgstr "Odstranit"
 
+msgctxt "Remove this page from this folder?"
 msgid "Remove this page from this folder?"
 msgstr "Odstranit tuto stránku z této složky?"
 
+msgctxt "Remove this step"
 msgid "Remove this step"
 msgstr ""
 
+msgctxt "Request & Upload to panel"
 msgid "Request & Upload to panel"
 msgstr ""
 
+msgctxt "Request APK generation"
 msgid "Request APK generation"
 msgstr ""
 
+msgctxt "Request or renew the certificate via Let's Encrypt."
 msgid "Request or renew the certificate via Let's Encrypt."
 msgstr ""
 
+msgctxt "Requested by"
 msgid "Requested by"
 msgstr ""
 
+msgctxt "Required fields"
 msgid "Required fields"
 msgstr "Povinné položky"
 
+msgctxt "Reset to default Privacy Policy."
 msgid "Reset to default Privacy Policy."
 msgstr ""
 
+msgctxt "Resize your picture"
 msgid "Resize your picture"
 msgstr "Změnit velikost obrázku"
 
+msgctxt "Restart"
 msgid "Restart"
 msgstr ""
 
+msgctxt "Restore Apps"
 msgid "Restore Apps"
 msgstr ""
 
+msgctxt "Restore Apps sources"
 msgid "Restore Apps sources"
 msgstr ""
 
+msgctxt "Right"
 msgid "Right"
 msgstr ""
 
+msgctxt "Roles"
 msgid "Roles"
 msgstr "Práva"
 
+msgctxt "Rss"
 msgid "Rss"
 msgstr ""
 
+msgctxt "Rule have been added."
 msgid "Rule have been added."
 msgstr ""
 
+msgctxt "Rule have been removed."
 msgid "Rule have been removed."
 msgstr ""
 
+msgctxt "Run Android SDK update"
 msgid "Run Android SDK update"
 msgstr ""
 
+msgctxt "SCSS successfully saved"
 msgid "SCSS successfully saved"
 msgstr "Obchod/sklad úspěšně uložen"
 
+msgctxt "SELF-ASSIGNABLE"
 msgid "SELF-ASSIGNABLE"
 msgstr ""
 
+msgctxt "SEND"
 msgid "SEND"
 msgstr "ODESLAT"
 
+msgctxt "SMTP"
 msgid "SMTP"
 msgstr ""
 
+msgctxt ""
+"SMTP - Whitelist: An administrator sent a request for white-listing his "
+"domain."
 msgid ""
 "SMTP - Whitelist: An administrator sent a request for white-listing his "
 "domain."
 msgstr ""
 
+msgctxt "SMTP Credentials (Affiliated to the White-Label %s)"
 msgid "SMTP Credentials (Affiliated to the White-Label %s)"
 msgstr ""
 
+msgctxt "Sales by Categories (TOP 10)"
 msgid "Sales by Categories (TOP 10)"
 msgstr ""
 
+msgctxt "Sales by Payment method"
 msgid "Sales by Payment method"
 msgstr ""
 
+msgctxt "Sales by Store"
 msgid "Sales by Store"
 msgstr ""
 
+msgctxt "Sales by product (TOP 20)"
 msgid "Sales by product (TOP 20)"
 msgstr ""
 
+msgctxt "Sample"
 msgid "Sample"
 msgstr ""
 
+msgctxt "Save"
 msgid "Save"
 msgstr "Uložit"
 
+msgctxt "Save GCM settings"
 msgid "Save GCM settings"
 msgstr ""
 
+msgctxt "Save iTunes credentials"
 msgid "Save iTunes credentials"
 msgstr ""
 
+msgctxt "Save sender id & key"
 msgid "Save sender id & key"
 msgstr ""
 
+msgctxt "Scan it."
 msgid "Scan it."
 msgstr "Skenovat"
 
+msgctxt "Scan now to unlock"
 msgid "Scan now to unlock"
 msgstr "Naskenujte k odemčení"
 
+msgctxt "Scheduled for"
 msgid "Scheduled for"
 msgstr ""
 
+msgctxt "Scheduled for <i>%s</i>"
 msgid "Scheduled for <i>%s</i>"
 msgstr ""
 
+msgctxt "Scratchcard Users"
 msgid "Scratchcard Users"
 msgstr ""
 
+msgctxt "Search"
 msgid "Search"
 msgstr "Vyhledat"
 
+msgctxt "Search ..."
 msgid "Search ..."
 msgstr ""
 
+msgctxt "Search / Filter"
 msgid "Search / Filter"
 msgstr ""
 
+msgctxt "Search, filter ..."
 msgid "Search, filter ..."
 msgstr ""
 
+msgctxt "Search results"
 msgid "Search results"
 msgstr ""
 
+msgctxt "See"
 msgid "See"
 msgstr "Zobrazit"
 
+msgctxt "Select a Development team"
 msgid "Select a Development team"
 msgstr ""
 
+msgctxt "Select a country"
 msgid "Select a country"
 msgstr "Vyberte zemi"
 
+msgctxt "Select a hostname"
 msgid "Select a hostname"
 msgstr ""
 
+msgctxt "Select a panel type or self-managed"
 msgid "Select a panel type or self-managed"
 msgstr ""
 
+msgctxt "Select all"
 msgid "Select all"
 msgstr "Vybrat vše"
 
+msgctxt "Select an album"
 msgid "Select an album"
 msgstr ""
 
+msgctxt "Select an iTunes Connect provider"
 msgid "Select an iTunes Connect provider"
 msgstr ""
 
+msgctxt "Select target applications"
 msgid "Select target applications"
 msgstr ""
 
+msgctxt "Select your back button appearance"
 msgid "Select your back button appearance"
 msgstr ""
 
+msgctxt "Selected hostname"
 msgid "Selected hostname"
 msgstr ""
 
+msgctxt "Selected main hostname"
 msgid "Selected main hostname"
 msgstr ""
 
+msgctxt "Send"
 msgid "Send"
 msgstr "ODESLAT"
 
+msgctxt "Send a cover image"
 msgid "Send a cover image"
 msgstr ""
 
+msgctxt "Send push"
 msgid "Send push"
 msgstr ""
 
+msgctxt "Send report"
 msgid "Send report"
 msgstr ""
 
+msgctxt "Send to all applications."
 msgid "Send to all applications."
 msgstr ""
 
+msgctxt "Send your pictures"
 msgid "Send your pictures"
 msgstr "Vložte fotografie"
 
+msgctxt "Sender ID"
 msgid "Sender ID"
 msgstr "ID odesílatele"
 
+msgctxt "Sender email"
 msgid "Sender email"
 msgstr ""
 
+msgctxt "Sender name"
 msgid "Sender name"
 msgstr ""
 
+msgctxt "Server key"
 msgid "Server key"
 msgstr ""
 
+msgctxt "Service APK Generator"
 msgid "Service APK Generator"
 msgstr ""
 
+msgctxt "Service APK generator"
 msgid "Service APK generator"
 msgstr ""
 
+msgctxt "Service notes"
 msgid "Service notes"
 msgstr ""
 
+msgctxt "Session settings"
 msgid "Session settings"
 msgstr ""
 
+msgctxt "Set Meal"
 msgid "Set Meal"
 msgstr "Menu"
 
+msgctxt "Settings"
 msgid "Settings"
 msgstr "Nastavení"
 
+msgctxt "Show"
 msgid "Show"
 msgstr ""
 
+msgctxt "Show cover"
 msgid "Show cover"
 msgstr ""
 
+msgctxt "Show search field"
 msgid "Show search field"
 msgstr ""
 
+msgctxt "Show title"
 msgid "Show title"
 msgstr "Zobrazit článek"
 
+msgctxt "Siberian current installation path"
 msgid "Siberian current installation path"
 msgstr ""
 
+msgctxt "Siberian domain"
 msgid "Siberian domain"
 msgstr ""
 
+msgctxt "Siberian informations"
 msgid "Siberian informations"
 msgstr "Všeobecné informace"
 
+msgctxt ""
+"Siberian uses it to scan all uploaded files that have passed the soft "
+"Firewall."
 msgid ""
 "Siberian uses it to scan all uploaded files that have passed the soft "
 "Firewall."
 msgstr ""
 
+msgctxt "Size:"
 msgid "Size:"
 msgstr "Velikost:"
 
+msgctxt "Size on disk"
 msgid "Size on disk"
 msgstr ""
 
+msgctxt "Slack notification settings"
 msgid "Slack notification settings"
 msgstr "PUSH zprávy - nastavení"
 
+msgctxt "Slider"
 msgid "Slider"
 msgstr "Slider"
 
+msgctxt "Social"
 msgid "Social"
 msgstr "Komunikace"
 
+msgctxt "Socialgaming"
 msgid "Socialgaming"
 msgstr ""
 
+msgctxt "Socket"
 msgid "Socket"
 msgstr ""
 
+msgctxt "Soundcloud"
 msgid "Soundcloud"
 msgstr ""
 
+msgctxt "Source code"
 msgid "Source code"
 msgstr "HTML kód"
 
+msgctxt ""
+"Source code generation is not configured, ask your administrator for more "
+"informations."
 msgid ""
 "Source code generation is not configured, ask your administrator for more "
 "informations."
 msgstr ""
 
+msgctxt "Sourcecode"
 msgid "Sourcecode"
 msgstr ""
 
+msgctxt "Sources"
 msgid "Sources"
 msgstr ""
 
+msgctxt "Spinner"
 msgid "Spinner"
 msgstr ""
 
+msgctxt "Split Ad revenue (percent for you)"
 msgid "Split Ad revenue (percent for you)"
 msgstr ""
 
+msgctxt "Start date must be lower than end date."
 msgid "Start date must be lower than end date."
 msgstr ""
 
+msgctxt "State / Province"
 msgid "State / Province"
 msgstr "State/Province"
 
+msgctxt "Step placement (optional)"
 msgid "Step placement (optional)"
 msgstr ""
 
+msgctxt "Step saved successfully."
 msgid "Step saved successfully."
 msgstr "Data byla úspěšně uložena"
 
+msgctxt "Step text"
 msgid "Step text"
 msgstr ""
 
+msgctxt "Step title"
 msgid "Step title"
 msgstr ""
 
+msgctxt "Street"
 msgid "Street"
 msgstr "Ulice"
 
+msgctxt "Subscriptions"
 msgid "Subscriptions"
 msgstr "Předplatné"
 
+msgctxt "Subtitle"
 msgid "Subtitle"
 msgstr "Popis"
 
+msgctxt "Success"
 msgid "Success"
 msgstr ""
 
+msgctxt "Support"
 msgid "Support"
 msgstr "Podpora"
 
+msgctxt "Support Link"
 msgid "Support Link"
 msgstr "Odkaz na podporu"
 
+msgctxt "Support link"
 msgid "Support link"
 msgstr "Odkaz na podporu"
 
+msgctxt "Switch to Ionic design"
 msgid "Switch to Ionic design"
 msgstr ""
 
+msgctxt "System"
 msgid "System"
 msgstr ""
 
+msgctxt "TLS"
 msgid "TLS"
 msgstr ""
 
+msgctxt "Target applications"
 msgid "Target applications"
 msgstr ""
 
+msgctxt "Target devices"
 msgid "Target devices"
 msgstr ""
 
+msgctxt "Target specific devices"
 msgid "Target specific devices"
 msgstr ""
 
+msgctxt "Tax"
 msgid "Tax"
 msgstr "Daň"
 
+msgctxt "Taxes"
 msgid "Taxes"
 msgstr "Daně"
 
+msgctxt "Template"
 msgid "Template"
 msgstr ""
 
+msgctxt "Test SMTP"
 msgid "Test SMTP"
 msgstr ""
 
+msgctxt "Text"
 msgid "Text"
 msgstr "Text"
 
+msgctxt "Thank you"
 msgid "Thank you"
 msgstr "Děkujeme!"
 
+msgctxt "Thank you for your request.<br />We'll answer you as soon as possible."
 msgid "Thank you for your request.<br />We'll answer you as soon as possible."
 msgstr "Děkujeme za Vaši žádost. Budeme Vás kontaktovat co nejdříve."
 
+msgctxt "The account has been successfully saved"
 msgid "The account has been successfully saved"
 msgstr "Účet byl úspěšně uložen"
 
+msgctxt "The address you're looking for does not exists."
 msgid "The address you're looking for does not exists."
 msgstr "Adresa, kterou hledáte, neexistuje"
 
+msgctxt "The admin_id is required"
 msgid "The admin_id is required"
 msgstr "Je vyžadováno admin_ID"
 
+msgctxt "The admin_id parameter is required"
 msgid "The admin_id parameter is required"
 msgstr "Je vyžadováno admin_ID"
 
+msgctxt "The app_id is required"
 msgid "The app_id is required"
 msgstr "Je vyžadováno app_ID"
 
+msgctxt "The app_id parameter is required"
 msgid "The app_id parameter is required"
 msgstr ""
 
+msgctxt ""
+"The certificate request failed 3 times, please check the certificate "
+"information, your panel credentials, and everything else.<br />If your "
+"certificate is valid, you can try to upload to panel only."
 msgid ""
 "The certificate request failed 3 times, please check the certificate "
 "information, your panel credentials, and everything else.<br />If your "
 "certificate is valid, you can try to upload to panel only."
 msgstr ""
 
+msgctxt "The email is required"
 msgid "The email is required"
 msgstr "Emailová ardesa je vyžadována"
 
+msgctxt "The entered text mismatch"
 msgid "The entered text mismatch"
 msgstr ""
 
+msgctxt "The file '%s' does not exist"
 msgid "The file '%s' does not exist"
 msgstr "Soubor '%s' neexistuje"
 
+msgctxt "The image '%s' does not exist"
 msgid "The image '%s' does not exist"
 msgstr "Obrázek '%s' neexistuje"
 
+msgctxt "The image size '%s' could not be detected."
 msgid "The image size '%s' could not be detected."
 msgstr "Nepodařilo zjistit velikost obrázku '%s'"
 
+msgctxt "The name is required"
 msgid "The name is required"
 msgstr "Jméno je vyžadováno"
 
+msgctxt "The old password does not match the entered password."
 msgid "The old password does not match the entered password."
 msgstr "Staré heslo neodpovídá zadanému heslu"
 
+msgctxt "The password is required"
 msgid "The password is required"
 msgstr "Je vyžadováno heslo"
 
+msgctxt "The password must be at least 6 characters"
 msgid "The password must be at least 6 characters"
 msgstr "Heslo musí mít nejméně 6 znaků"
 
+msgctxt ""
+"The payment has been cancelled, something wrong happened? Feel free to "
+"contact us."
 msgid ""
 "The payment has been cancelled, something wrong happened? Feel free to "
 "contact us."
 msgstr "Platba byla zrušena, něco se stalo? V případě potřeby nás kontaktujte"
 
+msgctxt "The sent request is empty."
 msgid "The sent request is empty."
 msgstr ""
 
+msgctxt "The user_id is required"
 msgid "The user_id is required"
 msgstr "Je vyžadováno app_ID"
 
+msgctxt "The value_id is required."
 msgid "The value_id is required."
 msgstr "Je vyžadováno app_ID"
 
+msgctxt "This URL is already used"
 msgid "This URL is already used"
 msgstr "Tato URL se již používá"
 
+msgctxt "This admin can generate APK"
 msgid "This admin can generate APK"
 msgstr ""
 
+msgctxt "This admin does not exist"
 msgid "This admin does not exist"
 msgstr "Tento administrátor neexistuje"
 
+msgctxt "This admin gives you the required information to publish applications"
 msgid "This admin gives you the required information to publish applications"
 msgstr "Uživatelé dali požadované informace k vypublikování aplikace"
 
+msgctxt "This administrator does not exist"
 msgid "This administrator does not exist"
 msgstr "Tento správce neexistuje"
 
+msgctxt "This application does not exist"
 msgid "This application does not exist"
 msgstr "Tato aplikace neexistuje"
 
+msgctxt "This block type doesn't exist"
 msgid "This block type doesn't exist"
 msgstr ""
 
+msgctxt "This code is unrecognized"
 msgid "This code is unrecognized"
 msgstr "Tento kód není rozpoznatelný"
 
+msgctxt "This email address does not exist"
 msgid "This email address does not exist"
 msgstr "Tato emailová adresa neexistuje"
 
+msgctxt "This email address is already used"
 msgid "This email address is already used"
 msgstr "Tato e-mailová adresa je již používána"
 
+msgctxt "This feature is available from the application only"
 msgid "This feature is available from the application only"
 msgstr "Tato funkce bude dostupná až v online aplikaci"
 
+msgctxt ""
+"This feature is disabled by default since update 4.12.24 and is deprecated "
+"in favor of Folders v2."
 msgid ""
 "This feature is disabled by default since update 4.12.24 and is deprecated "
 "in favor of Folders v2."
 msgstr ""
 
+msgctxt "This feature opens the Code Scan camera"
 msgid "This feature opens the Code Scan camera"
 msgstr "Tato funkce otevře kameru pro skenování QR kódu"
 
+msgctxt "This field is required"
 msgid "This field is required"
 msgstr "Toto pole je povinné"
 
+msgctxt "This layout has no option."
 msgid "This layout has no option."
 msgstr ""
 
+msgctxt "This option doesn't exists."
 msgid "This option doesn't exists."
 msgstr "Tento administrátor neexistuje"
 
+msgctxt ""
+"This option is not compatible with applications using Forms and/or features "
+"with Keyboard."
 msgid ""
 "This option is not compatible with applications using Forms and/or features "
 "with Keyboard."
 msgstr ""
 
+msgctxt "This plan is an offline plan."
 msgid "This plan is an offline plan."
 msgstr ""
 
+msgctxt "This section is unlocked for mobile users only"
 msgid "This section is unlocked for mobile users only"
 msgstr "Tato sekce je přístupná pouze pro mobilní uživatele"
 
+msgctxt "This will open the code scan camera on your device."
 msgid "This will open the code scan camera on your device."
 msgstr ""
 
+msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr ""
 
+msgctxt "Time spent in application"
 msgid "Time spent in application"
 msgstr ""
 
+msgctxt "Timezone"
 msgid "Timezone"
 msgstr "Časové pásmo"
 
+msgctxt "Tip"
 msgid "Tip"
 msgstr ""
 
+msgctxt "Title"
 msgid "Title"
 msgstr "název"
 
+msgctxt "Title & Message are both required."
 msgid "Title & Message are both required."
 msgstr ""
 
+msgctxt "Title's Card"
 msgid "Title's Card"
 msgstr ""
 
+msgctxt "Title's List"
 msgid "Title's List"
 msgstr ""
 
+msgctxt ""
+"To be able to use ClamAV you must have it installed on your server and "
+"configured accordingly to our documentation."
 msgid ""
 "To be able to use ClamAV you must have it installed on your server and "
 "configured accordingly to our documentation."
 msgstr ""
 
+msgctxt "Toggle"
 msgid "Toggle"
 msgstr ""
 
+msgctxt "Toggle off"
 msgid "Toggle off"
 msgstr ""
 
+msgctxt "Toggle on"
 msgid "Toggle on"
 msgstr ""
 
+msgctxt "Toggle's Handle off"
 msgid "Toggle's Handle off"
 msgstr ""
 
+msgctxt "Toggle's Handle on"
 msgid "Toggle's Handle on"
 msgstr ""
 
+msgctxt "Token"
 msgid "Token"
 msgstr ""
 
+msgctxt "Tooltip"
 msgid "Tooltip"
 msgstr ""
 
+msgctxt "Top"
 msgid "Top"
 msgstr ""
 
+msgctxt "Top installs"
 msgid "Top installs"
 msgstr ""
 
+msgctxt "Top position"
 msgid "Top position"
 msgstr ""
 
+msgctxt "Top visits"
 msgid "Top visits"
 msgstr ""
 
+msgctxt "Topic"
 msgid "Topic"
 msgstr "Témata"
 
+msgctxt "Topics"
 msgid "Topics"
 msgstr "Témata"
 
+msgctxt "Total"
 msgid "Total"
 msgstr "Celkem"
 
+msgctxt "Total Excl. Tax"
 msgid "Total Excl. Tax"
 msgstr "Celkem bez DPH"
 
+msgctxt "Total installs"
 msgid "Total installs"
 msgstr ""
 
+msgctxt "Total sales"
 msgid "Total sales"
 msgstr ""
 
+msgctxt "Total visits"
 msgid "Total visits"
 msgstr "Počet návštěv"
 
+msgctxt "Tour"
 msgid "Tour"
 msgstr ""
 
+msgctxt "Tour Edition"
 msgid "Tour Edition"
 msgstr ""
 
+msgctxt "Translation"
 msgid "Translation"
 msgstr "Překlady"
 
+msgctxt "Translations"
 msgid "Translations"
 msgstr "Překlady"
 
+msgctxt "URL"
 msgid "URL"
 msgstr "URL"
 
+msgctxt "Unable to add the contact to your address book"
 msgid "Unable to add the contact to your address book"
 msgstr "Nelze vložit kontakt do adresáře"
 
+msgctxt "Unable to calculate the route."
 msgid "Unable to calculate the route."
 msgstr "Trasa nelze naplánovat"
 
+msgctxt ""
+"Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
+"your are not in `Staging`"
 msgid ""
 "Unable to connect in HTTPS or to validate the SSL Certificate.<br />Check if "
 "your are not in `Staging`"
 msgstr ""
 
+msgctxt "Unable to find TC with id %s."
 msgid "Unable to find TC with id %s."
 msgstr ""
 
+msgctxt "Unable to save image"
 msgid "Unable to save image"
 msgstr "Obrázek nelze uložit"
 
+msgctxt "Unrecognized image format"
 msgid "Unrecognized image format"
 msgstr "Neznámý formát obrázku"
 
+msgctxt "Until:"
 msgid "Until:"
 msgstr "Do:"
 
+msgctxt "Updated at"
 msgid "Updated at"
 msgstr "Aktualizováno"
 
+msgctxt "Upload to panel"
 msgid "Upload to panel"
 msgstr ""
 
+msgctxt "Upload your json here"
 msgid "Upload your json here"
 msgstr ""
 
+msgctxt "Use card design"
 msgid "Use card design"
 msgstr ""
 
+msgctxt "Use the homepage image as background in all features"
 msgid "Use the homepage image as background in all features"
 msgstr ""
 
+msgctxt "Use this coupon"
 msgid "Use this coupon"
 msgstr "Použijte tento kupón"
 
+msgctxt "User"
 msgid "User"
 msgstr "Uživatel"
 
+msgctxt "User successfully saved"
 msgid "User successfully saved"
 msgstr "Uživatel úspěšně uložen"
 
+msgctxt "Username"
 msgid "Username"
 msgstr "Uživatelské jméno"
 
+msgctxt "Users"
 msgid "Users"
 msgstr "Uživatelé"
 
+msgctxt "Users activity"
 msgid "Users activity"
 msgstr ""
 
+msgctxt "Users localization"
 msgid "Users localization"
 msgstr ""
 
+msgctxt "VAT Number"
 msgid "VAT Number"
 msgstr "DIČ"
 
+msgctxt "Valid until"
 msgid "Valid until"
 msgstr "Platí do:"
 
+msgctxt "Validate"
 msgid "Validate"
 msgstr "Potvrdit"
 
+msgctxt "Validated points"
 msgid "Validated points"
 msgstr "x ověřený bod ="
 
+msgctxt "Validated points by Loyalty card Analytics"
 msgid "Validated points by Loyalty card Analytics"
 msgstr ""
 
+msgctxt "Validations by Discount Analytics"
 msgid "Validations by Discount Analytics"
 msgstr ""
 
+msgctxt "Version %s"
 msgid "Version %s"
 msgstr "Verze %s"
 
+msgctxt "Video"
 msgid "Video"
 msgstr "Videa"
 
+msgctxt "Video URL"
 msgid "Video URL"
 msgstr "Video URL:"
 
+msgctxt "Videos"
 msgid "Videos"
 msgstr "Videa"
 
+msgctxt "View"
 msgid "View"
 msgstr "Náhled"
 
+msgctxt "View full article"
 msgid "View full article"
 msgstr ""
 
+msgctxt "View my actual data"
 msgid "View my actual data"
 msgstr ""
 
+msgctxt "Visits"
 msgid "Visits"
 msgstr ""
 
+msgctxt "Visits by feature (All)"
 msgid "Visits by feature (All)"
 msgstr ""
 
+msgctxt "Visits by feature (Top 5)"
 msgid "Visits by feature (Top 5)"
 msgstr ""
 
+msgctxt "Visits by product (TOP 20)"
 msgid "Visits by product (TOP 20)"
 msgstr ""
 
+msgctxt "We are sorry but this address is already used."
 msgid "We are sorry but this address is already used."
 msgstr "Omlouváme se, ale tato adresa je již používána"
 
+msgctxt "We are sorry but this email address already exists."
 msgid "We are sorry but this email address already exists."
 msgstr "Je nám líto, ale tato e-mailová adresa již existuje."
 
+msgctxt "We are sorry but this username already exists."
 msgid "We are sorry but this username already exists."
 msgstr "Omlouváme se, ale toto uživatelské jméno již existuje"
 
+msgctxt "Web folder Owner"
 msgid "Web folder Owner"
 msgstr ""
 
+msgctxt "Web space"
 msgid "Web space"
 msgstr ""
 
+msgctxt "Webhook"
 msgid "Webhook"
 msgstr ""
 
+msgctxt "Weblink"
 msgid "Weblink"
 msgstr ""
 
+msgctxt "Website"
 msgid "Website"
 msgstr "Webová stránka"
 
+msgctxt "We've sent you an e-mail with your access token."
 msgid "We've sent you an e-mail with your access token."
 msgstr ""
 
+msgctxt ""
+"When selecting 'Enable test API' in a payment method, be sure to create test "
+"credentials, check the documentation of your payment method."
 msgid ""
 "When selecting 'Enable test API' in a payment method, be sure to create test "
 "credentials, check the documentation of your payment method."
 msgstr ""
 
+msgctxt "White Label Editor"
 msgid "White Label Editor"
 msgstr "Nastavení vlastních barev"
 
+msgctxt "Who is online"
 msgid "Who is online"
 msgstr ""
 
+msgctxt "Winners list"
 msgid "Winners list"
 msgstr ""
 
+msgctxt "WordPress"
 msgid "WordPress"
 msgstr "Wordpress"
 
+msgctxt "Wordpress"
 msgid "Wordpress"
 msgstr "Wordpress"
 
+msgctxt "Year"
 msgid "Year"
 msgstr "Rok"
 
+msgctxt "Yearly"
 msgid "Yearly"
 msgstr "Ročně"
 
+msgctxt "Yes"
 msgid "Yes"
 msgstr "Ano"
 
+msgctxt "You already have this user in your contact"
 msgid "You already have this user in your contact"
 msgstr "Tento uživatel je již ve Vašich kontaktech"
 
+msgctxt "You are about to delete this certificate, Are you sure ?"
 msgid "You are about to delete this certificate, Are you sure ?"
 msgstr ""
 
+msgctxt "You are gone offline"
 msgid "You are gone offline"
 msgstr "Právě jste offline"
 
+msgctxt "You are not allowed to delete a feature!"
 msgid "You are not allowed to delete a feature!"
 msgstr ""
 
+msgctxt ""
+"You are using a custom SMTP configuration, and the following white-label "
+"administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
+"listed.<br /><br />You can add his domain in your SMTP provider panel and "
+"send him the instructions to configure it for his domain."
 msgid ""
 "You are using a custom SMTP configuration, and the following white-label "
 "administrator <b>%s</b> is requesting his domain <b>%s</b> to be white-"
@@ -2726,302 +3668,407 @@ msgid ""
 "send him the instructions to configure it for his domain."
 msgstr ""
 
+msgctxt ""
+"You can add allowed extensions, please note that .php, .js & .ico are "
+"strictly forbidden and can't be added"
 msgid ""
 "You can add allowed extensions, please note that .php, .js & .ico are "
 "strictly forbidden and can't be added"
 msgstr ""
 
+msgctxt ""
+"You can extend JAVA & GRADLE options to better fit your server hardware."
 msgid ""
 "You can extend JAVA & GRADLE options to better fit your server hardware."
 msgstr ""
 
+msgctxt "You can follow the URL below to access your data report"
 msgid "You can follow the URL below to access your data report"
 msgstr ""
 
+msgctxt "You can globally disable a feature!"
 msgid "You can globally disable a feature!"
 msgstr ""
 
+msgctxt "You can upload a pem certificate only."
 msgid "You can upload a pem certificate only."
 msgstr "Můžete nahrát pouze certifikát pem"
 
+msgctxt "You can upload a png only (.png)."
 msgid "You can upload a png only (.png)."
 msgstr "Můžete nahrát pouze .png formát"
 
+msgctxt "You can upload a zip archive only."
 msgid "You can upload a zip archive only."
 msgstr "Můžete nahrát pouze ZIP archiv."
 
+msgctxt "You can upload an icon only (.ico and .png)."
 msgid "You can upload an icon only (.ico and .png)."
 msgstr "Můžete nahrát pouze ikonu (ICO a PNG)."
 
+msgctxt "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgid "You can upload an image only (.jpg, .jpeg, .gif and .png)."
 msgstr "Můžete nahrát pouze obrázek (JPG, JPEG, GIF a PNG)."
 
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Tato funkce nelze přidat"
 
+msgctxt "You can't upload more than one file at a time."
 msgid "You can't upload more than one file at a time."
 msgstr "Nemůžete nahrát více než jeden soubor najednou."
 
+msgctxt "You current working environment is"
 msgid "You current working environment is"
 msgstr ""
 
+msgctxt "You don't have any applications yet"
 msgid "You don't have any applications yet"
 msgstr "Zatím nemáte žádné aplikace"
 
+msgctxt "You don't have any invoices yet"
 msgid "You don't have any invoices yet"
 msgstr "Zatím nemáte žádné faktury"
 
+msgctxt "You have gone offline"
 msgid "You have gone offline"
 msgstr "Právě jste offline"
 
+msgctxt "You have to chose a start and an end date."
 msgid "You have to chose a start and an end date."
 msgstr ""
 
+msgctxt "You must be logged in to like something!"
 msgid "You must be logged in to like something!"
 msgstr "K potvrzení věrnostních bodů musíte být přihlášeni"
 
+msgctxt "You must be logged in to post a comment"
 msgid "You must be logged in to post a comment"
 msgstr "Pro psaní komentářů musíte být přihlášení"
 
+msgctxt "You must fill ip & port."
 msgid "You must fill ip & port."
 msgstr ""
 
+msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Nejdříve musíte dokončit právě vytvářenou složku"
 
+msgctxt ""
+"You must give the permission to the app to add a contact to your address book"
 msgid ""
 "You must give the permission to the app to add a contact to your address book"
 msgstr "Přidání kontaktu do adresáře musíte povolit v aplikaci"
 
+msgctxt "You must share your location to access this page."
 msgid "You must share your location to access this page."
 msgstr "Pro přístup na tuto stránku musíte sdílet Vaši pozici"
 
+msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Chcete pokračovat? Ztratíte všechny neuložené změny"
 
+msgctxt "Your PHP version is too old, please upgrade to PHP 5.4+."
 msgid "Your PHP version is too old, please upgrade to PHP 5.4+."
 msgstr ""
 
+msgctxt "Your access token is"
 msgid "Your access token is"
 msgstr ""
 
+msgctxt "Your analytics will be computed and available soon"
 msgid "Your analytics will be computed and available soon"
 msgstr ""
 
+msgctxt "Your are not allowed to assign this role."
 msgid "Your are not allowed to assign this role."
 msgstr ""
 
+msgctxt "Your browser is too old to view the content of our website.<br />"
 msgid "Your browser is too old to view the content of our website.<br />"
 msgstr ""
 "Váš prohlížeč je příliš starý pro zobrazení obsahu našich stránek.<br />"
 
+msgctxt "Your build should be ready"
 msgid "Your build should be ready"
 msgstr ""
 
+msgctxt "Your comment"
 msgid "Your comment"
 msgstr "Váš komentář"
 
+msgctxt "Your email address"
 msgid "Your email address"
 msgstr "Vaše e-mailová adresa"
 
+msgctxt "Your email address does not exist"
 msgid "Your email address does not exist"
 msgstr "Vaše e-mailová adresa neexistuje"
 
+msgctxt "Your invoice has been edited successfully."
 msgid "Your invoice has been edited successfully."
 msgstr "Vybrané Právo k účtu bylo smazáno"
 
+msgctxt "Your name"
 msgid "Your name"
 msgstr "Vaše jméno"
 
+msgctxt "Your new password has been sent to the entered email address"
 msgid "Your new password has been sent to the entered email address"
 msgstr "Vaše nové heslo bylo odesláno na zadanou e-mailovou adresu"
 
+msgctxt "Your password does not match the entered password."
 msgid "Your password does not match the entered password."
 msgstr "Vaše heslo neodpovídá vloženému heslu"
 
+msgctxt ""
+"Your request has been successfully sent, please wait for your administrator "
+"to answer."
 msgid ""
 "Your request has been successfully sent, please wait for your administrator "
 "to answer."
 msgstr ""
 
+msgctxt "Your subscription has been deleted successfully."
 msgid "Your subscription has been deleted successfully."
 msgstr "Info o modulu bylo smazáno"
 
+msgctxt "Your subscription status has been changed successfully."
 msgid "Your subscription status has been changed successfully."
 msgstr ""
 
+msgctxt "Youtube"
 msgid "Youtube"
 msgstr "Youtube"
 
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "PSČ"
 
+msgctxt "average"
 msgid "average"
 msgstr ""
 
+msgctxt "be careful or set it back to"
 msgid "be careful or set it back to"
 msgstr ""
 
+msgctxt "close"
 msgid "close"
 msgstr "Zavřít"
 
+msgctxt "confirm action, deletion, etc ..."
 msgid "confirm action, deletion, etc ..."
 msgstr ""
 
+msgctxt "contextual, depends on module/layout"
 msgid "contextual, depends on module/layout"
 msgstr ""
 
+msgctxt "day"
 msgid "day"
 msgstr "den"
 
+msgctxt "days"
 msgid "days"
 msgstr "dny"
 
+msgctxt "disabled"
 msgid "disabled"
 msgstr ""
 
+msgctxt "en"
 msgid "en"
 msgstr "cz"
 
+msgctxt "enabled"
 msgid "enabled"
 msgstr ""
 
+msgctxt "form submit, search, validation, confirmation"
 msgid "form submit, search, validation, confirmation"
 msgstr ""
 
+msgctxt "hh:mm a"
 msgid "hh:mm a"
 msgstr ""
 
+msgctxt "high"
 msgid "high"
 msgstr ""
 
+msgctxt "hour"
 msgid "hour"
 msgstr "hodina"
 
+msgctxt "hours"
 msgid "hours"
 msgstr "hodiny"
 
+msgctxt "iOS & Android"
 msgid "iOS & Android"
 msgstr ""
 
+msgctxt "iOS Source"
 msgid "iOS Source"
 msgstr ""
 
+msgctxt "iOS Spinner"
 msgid "iOS Spinner"
 msgstr ""
 
+msgctxt "iOS base Bundle ID  must contain only letters, dots & minus."
 msgid "iOS base Bundle ID  must contain only letters, dots & minus."
 msgstr ""
 
+msgctxt ""
+"iOS base Bundle ID  must contain only letters, dots & minus with at least "
+"two dots.<br />Example: com.mydomain.admin"
 msgid ""
 "iOS base Bundle ID  must contain only letters, dots & minus with at least "
 "two dots.<br />Example: com.mydomain.admin"
 msgstr ""
 
+msgctxt "iOS base Bundle ID can't be empty."
 msgid "iOS base Bundle ID can't be empty."
 msgstr ""
 
+msgctxt "iOS only"
 msgid "iOS only"
 msgstr ""
 
+msgctxt "iPhone"
 msgid "iPhone"
 msgstr ""
 
+msgctxt "iTunes"
 msgid "iTunes"
 msgstr ""
 
+msgctxt "iTunes Connect providers"
 msgid "iTunes Connect providers"
 msgstr ""
 
+msgctxt "idle"
 msgid "idle"
 msgstr ""
 
+msgctxt "informative, modal"
 msgid "informative, modal"
 msgstr ""
 
+msgctxt "is updated once a day"
 msgid "is updated once a day"
 msgstr ""
 
+msgctxt "loading"
 msgid "loading"
 msgstr "nahrávám"
 
+msgctxt "low"
 msgid "low"
 msgstr ""
 
+msgctxt "maintenance"
 msgid "maintenance"
 msgstr ""
 
+msgctxt "minute"
 msgid "minute"
 msgstr "minuta"
 
+msgctxt "minutes"
 msgid "minutes"
 msgstr "minuty"
 
+msgctxt "nd"
 msgid "nd"
 msgstr ""
 
+msgctxt "never"
 msgid "never"
 msgstr "Nikdy"
 
+msgctxt "online"
 msgid "online"
 msgstr ""
 
+msgctxt "phone, locate, facebook, email, etc.."
 msgid "phone, locate, facebook, email, etc.."
 msgstr ""
 
+msgctxt "picture"
 msgid "picture"
 msgstr "obrázek"
 
+msgctxt "posts"
 msgid "posts"
 msgstr ""
 
+msgctxt "remaining characters"
 msgid "remaining characters"
 msgstr ""
 
+msgctxt "%s / Month"
 msgid "%s / Month"
 msgstr "%s / Měsíc"
 
+msgctxt "%s / Year"
 msgid "%s / Year"
 msgstr "%s / Rok"
 
+msgctxt "%s An unknown error occurred, please try again later."
 msgid "%s An unknown error occurred, please try again later."
 msgstr "Při ukládání došlo k chybě. Zkuste to prosím později."
 
+msgctxt "%s Image"
 msgid "%s Image"
 msgstr "%s Obrázek"
 
+msgctxt "%s Images"
 msgid "%s Images"
 msgstr "%s Obrázky"
 
+msgctxt "%s, No params sent."
 msgid "%s, No params sent."
 msgstr ""
 
+msgctxt "%s ago"
 msgid "%s ago"
 msgstr "vloženo před: %s"
 
+msgctxt "second"
 msgid "second"
 msgstr "druhý"
 
+msgctxt "seconds"
 msgid "seconds"
 msgstr "sekundy"
 
+msgctxt "this feature is globally disabled!"
 msgid "this feature is globally disabled!"
 msgstr ""
 
+msgctxt "title"
 msgid "title"
 msgstr "název"
 
+msgctxt "titles"
 msgid "titles"
 msgstr "názvy"
 
+msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "k přidání další složky"
 
+msgctxt "to add a subfolder."
 msgid "to add a subfolder."
 msgstr "přidat podsložky."
 
+msgctxt "twitter"
 msgid "twitter"
 msgstr "Twitter"
 
+msgctxt "unreachable"
 msgid "unreachable"
 msgstr ""

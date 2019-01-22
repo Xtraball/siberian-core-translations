@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Czech (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech <http://yvain.xtraball.com/projects/siberian/"
@@ -14,50 +14,66 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "A month"
 msgid "A month"
 msgstr "Měsíčně"
 
+msgctxt "A week"
 msgid "A week"
 msgstr "Týdně"
 
+msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Soutěžící"
 
+msgctxt "Current game"
 msgid "Current game"
 msgstr "Aktuální hra"
 
+msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Aktuálně nikdo nesoutěží"
 
+msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Název hry"
 
+msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Hra byla úspěšně uložena"
 
+msgctxt "Next game"
 msgid "Next game"
 msgstr "Další hra"
 
+msgctxt "On the"
 msgid "On the"
 msgstr "Na"
 
+msgctxt "Period"
 msgid "Period"
 msgstr "Období"
 
+msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Opakování"
 
+msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Datum vydání"
 
+msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Žebříček měsíce"
 
+msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Žebříček týdne"
 
+msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "První v pořadí"
 
+msgctxt "%s point%s"
 msgid "%s point%s"
 msgstr "%s bod%s"

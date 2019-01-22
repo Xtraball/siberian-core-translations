@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/comment/el/"
@@ -14,124 +14,164 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a comment"
 msgid "Add a comment"
 msgstr ""
 
+msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr ""
 "Παρουσιάστηκε σφάλμα κατά τη διαγραφή αυτής της απάντησης. Παρακαλώ "
 "δοκιμάστε ξανά αργότερα."
 
+msgctxt "COMMENTS"
 msgid "COMMENTS"
 msgstr ""
 
+msgctxt "Create a news"
 msgid "Create a news"
 msgstr "Δημιουργήστε μια νέα"
 
+msgctxt "Delete this info"
 msgid "Delete this info"
 msgstr "Διαγραφή αυτής της εκδήλωσης?"
 
+msgctxt "Flag"
 msgid "Flag"
 msgstr ""
 
+msgctxt "Flag as inappropriate"
 msgid "Flag as inappropriate"
 msgstr "Επισημάνθηκε ως ακατάλληλο"
 
+msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Απέκρυψε αυτές τις πληροφορίες"
 
+msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Πληροφορίες διαγράφηκαν με επιτυχία"
 
+msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Κρυμμένες πληροφορίες επιτυχώς"
 
+msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Πληροφορίες αποθηκεύτηκαν με επιτυχία"
 
+msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Πληροφορίες φαίνονται επιτυχώς"
 
+msgctxt "Insert a"
 msgid "Insert a"
 msgstr "Τοποθετήστε ένα"
 
+msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Θα είναι ορατό μόνο μετά την επικύρωση από την ομάδα μας."
 
+msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Οι απαντήσεις των πελατών μου"
 
+msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Σχόλια πελατών μου"
 
+msgctxt "Near me"
 msgid "Near me"
 msgstr "Κοντά μου"
 
+msgctxt "'Near me' radius (in km):"
 msgid "'Near me' radius (in km):"
 msgstr "«Κοντά μου» ακτίνα (σε χλμ):"
 
+msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Κοντινές μου ρυθμίσεις"
 
+msgctxt "New post"
 msgid "New post"
 msgstr ""
 
+msgctxt "No comment for now"
 msgid "No comment for now"
 msgstr ""
 
+msgctxt "No comments for now"
 msgid "No comments for now"
 msgstr ""
 
+msgctxt "Post"
 msgid "Post"
 msgstr "Δημοσίευση"
 
+msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "Ημερομηνία Δημοσίευσης"
 
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Ακτίνα"
 
+msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Η ακτίνα πρέπει να είναι μια έγκυρη αριθμητική τιμή."
 
+msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Πρέπει να παρέχεται ακτίνα."
 
+msgctxt "Read More"
 msgid "Read More"
 msgstr "Φόρτωση περισσoτέρων"
 
+msgctxt "Recent"
 msgid "Recent"
 msgstr "Πρόσφατος"
 
+msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Δείτε αυτές τις πληροφορίες"
 
+msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Δεν υπάρχει κανένα σχόλιο για αυτή την είδηση"
 
+msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "Επισημάνθηκε ως ακατάλληλο"
 
+msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Δεν μπορείτε να σας αρέσει περισσότερο από μία φορά οι ίδιες ειδήσεις"
 
+msgctxt "You have to enter a text message."
 msgid "You have to enter a text message."
 msgstr ""
 
+msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Θα πρέπει να είστε συνδεδεμένοι για να δημιουργήσει μια δημοσίευση"
 
+msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "Η σημαία σας έχει κοινοποιηθεί επιτυχώς"
 
+msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Το μου αρέσει έχει προστεθεί με επιτυχία"
 
+msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "Το μήνυμά σας έχει αποθηκευτεί με επιτυχία."
 
+msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Η δημοσίευση σας προστέθηκε με επιτυχία"
 
+msgctxt "en"
 msgid "en"
 msgstr "el"

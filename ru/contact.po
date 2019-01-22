@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/contact/"
@@ -15,52 +15,68 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Произошла ошибка при сохранении ваших данных."
 
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr ""
 "Произошла ошибка при отправке вашего запроса. Пожалуйста, повторите попытку "
 "позже."
 
+msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "И его номер телефона:"
 
+msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Вы уверены, что хотите удалить фотографию?"
 
+msgctxt "City"
 msgid "City"
 msgstr "Город"
 
+msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Контактная информация"
 
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Вот его адрес электронной почты:"
 
+msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Вот его сообщение:"
 
+msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Пожалуйста, введите правильно для настройки следующих полей: <br />"
 
+msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
+msgctxt "Website"
 msgid "Website"
 msgstr "Сайт"
 
+msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Вы получили сообщение от контакта:"
 
+msgctxt "Your email"
 msgid "Your email"
 msgstr "Ваш адрес электронной почты"
 
+msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Ваше сообщение было отправлено"
 
+msgctxt "Your request"
 msgid "Your request"
 msgstr "Ваш запрос"
 
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "Почтовый индекс"

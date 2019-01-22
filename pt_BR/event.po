@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Portuguese (Brazil) <http://translate.siberiancms.com/"
-"projects/siberian/event/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
+"siberian/event/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,119 +14,158 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a Website"
 msgid "Add a Website"
 msgstr ""
 
+msgctxt "Address:"
 msgid "Address:"
 msgstr "Endereço:"
 
+msgctxt "An error occurred while deleting the event"
 msgid "An error occurred while deleting the event"
 msgstr "Ocorreu um erro ao excluir o evento"
 
+msgctxt "An error occurred while loading this event"
 msgid "An error occurred while loading this event"
 msgstr "Ocorreu um erro ao carregar este evento"
 
+msgctxt "Beginning date:"
 msgid "Beginning date:"
 msgstr "Data de início:"
 
+msgctxt "Beginning time:"
 msgid "Beginning time:"
 msgstr "Data de início:"
 
+msgctxt "Buy Tickets"
 msgid "Buy Tickets"
 msgstr ""
 
+msgctxt "Buy tickets"
 msgid "Buy tickets"
 msgstr ""
 
+msgctxt "Calendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Calendário excluído com sucesso"
 
+msgctxt "Calendar's URL"
 msgid "Calendar's URL"
 msgstr "Calendário's URL"
 
+msgctxt "Calendar's title"
 msgid "Calendar's title"
 msgstr "Título Calendário's"
 
+msgctxt "Change picture"
 msgid "Change picture"
 msgstr "Alterar imagem"
 
+msgctxt "Create a new event"
 msgid "Create a new event"
 msgstr "Criar um novo evento"
 
+msgctxt "Custom Calendar"
 msgid "Custom Calendar"
 msgstr ""
 
+msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "Personalizar página"
 
+msgctxt "Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Deletar este calendário?"
 
+msgctxt "Delete this event?"
 msgid "Delete this event?"
 msgstr "Deletar este evento?"
 
+msgctxt "Ending date:"
 msgid "Ending date:"
 msgstr "Data de conclusão:"
 
+msgctxt "Enter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Entrar com o título do calendário's"
 
+msgctxt "Entrance:"
 msgid "Entrance:"
 msgstr ""
 
+msgctxt "Entrance: %s"
 msgid "Entrance: %s"
 msgstr ""
 
+msgctxt "Event"
 msgid "Event"
 msgstr "Evento"
 
+msgctxt "Event successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Evento deletado com sucesso"
 
+msgctxt "Event successfully saved"
 msgid "Event successfully saved"
 msgstr "Evento salvo com sucesso"
 
+msgctxt "Event title:"
 msgid "Event title:"
 msgstr "Título evento:"
 
+msgctxt "Illustration:"
 msgid "Illustration:"
 msgstr ""
 
+msgctxt "Location:"
 msgid "Location:"
 msgstr ""
 
+msgctxt "Max size: 2000x2000px - allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Tamanho Máx: 2000x2000px - formatos permitidos: jpg & png"
 
+msgctxt "Modify the event"
 msgid "Modify the event"
 msgstr "Modificar o evento"
 
+msgctxt "RSVP"
 msgid "RSVP"
 msgstr "RSVP"
 
+msgctxt "RSVP URL:"
 msgid "RSVP URL:"
 msgstr "RSVP URL:"
 
+msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr ""
 
+msgctxt "Ticket Shop URL:"
 msgid "Ticket Shop URL:"
 msgstr ""
 
+msgctxt "To:"
 msgid "To:"
 msgstr ""
 
+msgctxt "Your Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "ID da sua página do Facebook"
 
+msgctxt "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr ""
 
+msgctxt "Your calendar is empty"
 msgid "Your calendar is empty"
 msgstr "Sua calendário está vazio"
 
+msgctxt "iCal"
 msgid "iCal"
 msgstr "iCal"
 
+msgctxt "to"
 msgid "to"
 msgstr ""

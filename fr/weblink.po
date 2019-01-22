@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/weblink/"
@@ -14,73 +14,96 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a link"
 msgid "Add a link"
 msgstr "Ajouter un lien"
 
+msgctxt "An error occurred while saving your picto. Please try againg later."
 msgid "An error occurred while saving your picto. Please try againg later."
 msgstr ""
 "Une erreur s'est produite lors de l'enregistrement de votre picto. Merci "
 "d'essayez plus tard."
 
+msgctxt "Are you sure you want to delete this link?"
 msgid "Are you sure you want to delete this link?"
 msgstr "Etestes-vous sûr de vouloir supprimer ce lien?"
 
+msgctxt "Are you sure you want to delete this picture?"
 msgid "Are you sure you want to delete this picture?"
 msgstr "Etes-vous sûr de vouloir supprimer cette image?"
 
+msgctxt "Enter your Magento URL"
 msgid "Enter your Magento URL"
 msgstr "Entrez votre URL Magento"
 
+msgctxt "Enter your Prestashop URL"
 msgid "Enter your Prestashop URL"
 msgstr "Entrez votre URL Prestashop"
 
+msgctxt "Enter your Shopify URL"
 msgid "Enter your Shopify URL"
 msgstr "Entrez votre URL Shopify"
 
+msgctxt "Enter your Volusion URL"
 msgid "Enter your Volusion URL"
 msgstr "Entrez votre URL Volusion"
 
+msgctxt "Enter your WooCommerce URL"
 msgid "Enter your WooCommerce URL"
 msgstr "Entrez votre URL WooComerce"
 
+msgctxt "Link"
 msgid "Link"
 msgstr "Lien"
 
+msgctxt "Link has been successfully deleted"
 msgid "Link has been successfully deleted"
 msgstr "Lien a été supprimé"
 
+msgctxt "Link has been successfully saved"
 msgid "Link has been successfully saved"
 msgstr "Le lien a été enregistré avec succès"
 
+msgctxt "Magento"
 msgid "Magento"
 msgstr "Magento"
 
+msgctxt "Picto"
 msgid "Picto"
 msgstr "Picto"
 
+msgctxt "Prestashop"
 msgid "Prestashop"
 msgstr "Prestashop"
 
+msgctxt "Shopify"
 msgid "Shopify"
 msgstr "Shopify"
 
+msgctxt "The image has been successfully deleted"
 msgid "The image has been successfully deleted"
 msgstr "L'image a été supprimé avec succès"
 
+msgctxt "The image has been successfully saved"
 msgid "The image has been successfully saved"
 msgstr "L'image a été enregistrée avec succès"
 
+msgctxt "Use external application"
 msgid "Use external application"
 msgstr "Utiliser une application externe"
 
+msgctxt "Volusion"
 msgid "Volusion"
 msgstr "Volusion"
 
+msgctxt "Without navbar"
 msgid "Without navbar"
 msgstr "Sans barre de navigation"
 
+msgctxt "WooCommerce"
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
+msgctxt "Your links"
 msgid "Your links"
 msgstr "Vos liens"

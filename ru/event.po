@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
-"PO-Revision-Date: 2019-01-18 14:41+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/event/ru/"
 ">\n"
 "Language: ru\n"
@@ -15,119 +15,158 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a Website"
 msgid "Add a Website"
-msgstr ""
+msgstr "Добавить сайт"
 
+msgctxt "Address:"
 msgid "Address:"
 msgstr "Адрес:"
 
+msgctxt "An error occurred while deleting the event"
 msgid "An error occurred while deleting the event"
 msgstr "Произошла ошибка при удалении события"
 
+msgctxt "An error occurred while loading this event"
 msgid "An error occurred while loading this event"
 msgstr "Произошла ошибка при загрузке события"
 
+msgctxt "Beginning date:"
 msgid "Beginning date:"
 msgstr "Дата начала:"
 
+msgctxt "Beginning time:"
 msgid "Beginning time:"
 msgstr "Дата начала:"
 
+msgctxt "Buy Tickets"
 msgid "Buy Tickets"
-msgstr ""
+msgstr "Купить Билеты"
 
+msgctxt "Buy tickets"
 msgid "Buy tickets"
-msgstr ""
+msgstr "Купить Билеты"
 
+msgctxt "Calendar successfully deleted"
 msgid "Calendar successfully deleted"
 msgstr "Календарь успешно удален"
 
+msgctxt "Calendar's URL"
 msgid "Calendar's URL"
 msgstr "URL календаря"
 
+msgctxt "Calendar's title"
 msgid "Calendar's title"
 msgstr "Название календаря"
 
+msgctxt "Change picture"
 msgid "Change picture"
 msgstr "Сменить картинку"
 
+msgctxt "Create a new event"
 msgid "Create a new event"
 msgstr "Создать новое событие"
 
+msgctxt "Custom Calendar"
 msgid "Custom Calendar"
-msgstr ""
+msgstr "Пользовательский Календарь"
 
+msgctxt "Custom Page"
 msgid "Custom Page"
 msgstr "Свой"
 
+msgctxt "Delete this calendar?"
 msgid "Delete this calendar?"
 msgstr "Удалить этот календарь?"
 
+msgctxt "Delete this event?"
 msgid "Delete this event?"
 msgstr "Удалить это событие?"
 
+msgctxt "Ending date:"
 msgid "Ending date:"
 msgstr "Дата окончания:"
 
+msgctxt "Enter your calendar's title"
 msgid "Enter your calendar's title"
 msgstr "Введите название вашего календаря"
 
+msgctxt "Entrance:"
 msgid "Entrance:"
-msgstr ""
+msgstr "Вход:"
 
+msgctxt "Entrance: %s"
 msgid "Entrance: %s"
-msgstr ""
+msgstr "Вход: %s"
 
+msgctxt "Event"
 msgid "Event"
 msgstr "Событие"
 
+msgctxt "Event successfully deleted"
 msgid "Event successfully deleted"
 msgstr "Событие успешно удалено"
 
+msgctxt "Event successfully saved"
 msgid "Event successfully saved"
 msgstr "Событие успешно сохранено"
 
+msgctxt "Event title:"
 msgid "Event title:"
 msgstr "Название мероприятия:"
 
+msgctxt "Illustration:"
 msgid "Illustration:"
 msgstr "Иллюстрация"
 
+msgctxt "Location:"
 msgid "Location:"
 msgstr "Места"
 
+msgctxt "Max size: 2000x2000px - allowed formats: jpg & png"
 msgid "Max size: 2000x2000px - allowed formats: jpg & png"
 msgstr "Максимальный размер: 2000x2000px,  допустимые форматы: JPG & PNG"
 
+msgctxt "Modify the event"
 msgid "Modify the event"
 msgstr "Изменить событие"
 
+msgctxt "RSVP"
 msgid "RSVP"
 msgstr "Посмотреть подробности"
 
+msgctxt "RSVP URL:"
 msgid "RSVP URL:"
 msgstr "Подробности по URL:"
 
+msgctxt "Subtitle:"
 msgid "Subtitle:"
 msgstr "Подзаголовок"
 
+msgctxt "Ticket Shop URL:"
 msgid "Ticket Shop URL:"
-msgstr ""
+msgstr "URL Магазина билетов:"
 
+msgctxt "To:"
 msgid "To:"
 msgstr "Кому:"
 
+msgctxt "Your Facebook page ID"
 msgid "Your Facebook page ID"
 msgstr "Ваш ID на странице Facebook "
 
+msgctxt "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgid "Your Facebook page ID <span class='' required-entry''>*</span> :"
 msgstr "Ваш ID на странице Facebook <span class=\"требует ввода\">*</span> :"
 
+msgctxt "Your calendar is empty"
 msgid "Your calendar is empty"
 msgstr "Ваш календарь пуст"
 
+msgctxt "iCal"
 msgid "iCal"
 msgstr "iCal - Apple"
 
+msgctxt "to"
 msgid "to"
 msgstr "по"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:19+0000\n"
+"POT-Creation-Date: 2019-01-22 10:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/customer/"
@@ -14,9 +14,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "A request to reset your password has been made."
 msgid "A request to reset your password has been made."
 msgstr "Una sol·licitud per restablir la contrasenya s'ha fet."
 
+msgctxt ""
+"An error occurred while connecting to your Facebook account. Please try "
+"again later"
 msgid ""
 "An error occurred while connecting to your Facebook account. Please try "
 "again later"
@@ -24,126 +28,171 @@ msgstr ""
 "S'ha produït un error en connectar amb el teu compte de Facebook. Torneu-ho "
 "de nou més tard"
 
+msgctxt "Are you sure you want to remove this user?"
 msgid "Are you sure you want to remove this user?"
 msgstr "Segur que vols eliminar aquest usuari?"
 
+msgctxt "Change Password"
 msgid "Change Password"
 msgstr "Canviar La Contrasenya"
 
+msgctxt "Civility"
 msgid "Civility"
 msgstr ""
 
+msgctxt "Congratulations,"
 msgid "Congratulations,"
 msgstr "Felicitats,"
 
+msgctxt "Create"
 msgid "Create"
 msgstr "Crear"
 
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Crea un nou usuari"
 
+msgctxt "Customer"
 msgid "Customer"
 msgstr "Client"
 
+msgctxt "Customers"
 msgid "Customers"
 msgstr "Clients"
 
+msgctxt "Disconnect"
 msgid "Disconnect"
 msgstr "Desconnectar"
 
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Editeu l'usuari%s"
 
+msgctxt "First name"
 msgid "First name"
 msgstr "Nom de pila"
 
+msgctxt "Here are your credentials:"
 msgid "Here are your credentials:"
 msgstr "Aquí estan els seus credencials:"
 
+msgctxt "I accept the privacy policy"
 msgid "I accept the privacy policy"
 msgstr ""
 
+msgctxt "If you encounter any problems, do not hesitate to contact us:"
 msgid "If you encounter any problems, do not hesitate to contact us:"
 msgstr "Si té algun problema, no dubti en contactar amb nosaltres:"
 
+msgctxt "Last name"
 msgid "Last name"
 msgstr "Cognom"
 
+msgctxt "Login:"
 msgid "Login:"
 msgstr "Iniciar Sessió:"
 
+msgctxt "Log-in with Facebook"
 msgid "Log-in with Facebook"
 msgstr ""
 
+msgctxt "Miss"
 msgid "Miss"
 msgstr "Senyoreta"
 
+msgctxt "Mr"
 msgid "Mr"
 msgstr "Sr"
 
+msgctxt "Mrs"
 msgid "Mrs"
 msgstr "Sra"
 
+msgctxt "My Account"
 msgid "My Account"
 msgstr "El meu compte"
 
+msgctxt "My application's users"
 msgid "My application's users"
 msgstr "Els usuaris de la meva sol·licitud"
 
+msgctxt "No user for now."
 msgid "No user for now."
 msgstr ""
 
+msgctxt "No user match your request."
 msgid "No user match your request."
 msgstr ""
 
+msgctxt "Or with your account"
 msgid "Or with your account"
 msgstr "O amb el vostre compte"
 
+msgctxt ""
+"Please enter your email address. We'll send you your password right now."
 msgid ""
 "Please enter your email address. We'll send you your password right now."
 msgstr ""
 "Introduïu la vostra adreça de correu electrònic. T'enviarem la contrasenya "
 "ara."
 
+msgctxt "Please log in with your mobile phone"
 msgid "Please log in with your mobile phone"
 msgstr "Si us plau, accedeixi amb el seu telèfon mòbil"
 
+msgctxt "See you soon,"
 msgid "See you soon,"
 msgstr "Fins aviat,"
 
+msgctxt "Show me in ranking"
 msgid "Show me in ranking"
 msgstr "Mostreu-me en el rànquing"
 
+msgctxt "The old email address does not match the entered email address."
 msgid "The old email address does not match the entered email address."
 msgstr "Mostreu-me en el rànquing"
 
+msgctxt "This user is visible in ranking"
 msgid "This user is visible in ranking"
 msgstr "Aquest usuari és visible en el rànquing"
 
+msgctxt "Title"
 msgid "Title"
 msgstr "Títol"
 
+msgctxt "User"
 msgid "User"
 msgstr "Usuari"
 
+msgctxt "User Information"
 msgid "User Information"
 msgstr "Informació de l'usuari"
 
+msgctxt "Users"
 msgid "Users"
 msgstr "Usuaris"
 
+msgctxt ""
+"We are sorry but the %s account is already linked to one of our customers"
 msgid ""
 "We are sorry but the %s account is already linked to one of our customers"
 msgstr "Ho sentim però el compte%s ja està vinculada a un dels nostres clients"
 
+msgctxt "We are sorry but this nickname is already used"
 msgid "We are sorry but this nickname is already used"
 msgstr "Ho sentim però ja s'utilitza aquesta adreça."
 
+msgctxt ""
+"We are sorry but this nickname is not valid. Use only alphanumerical "
+"characters and underscores and use 15 characters maximum"
 msgid ""
 "We are sorry but this nickname is not valid. Use only alphanumerical "
 "characters and underscores and use 15 characters maximum"
 msgstr ""
 
+msgctxt ""
+"You have created your account. With this account, you will be able to enjoy "
+"great offers available in our application."
 msgid ""
 "You have created your account. With this account, you will be able to enjoy "
 "great offers available in our application."
@@ -151,20 +200,26 @@ msgstr ""
 "S'ha creat el seu compte. Amb aquest compte, vostè serà capaç de gaudir de "
 "grans ofertes disponibles a la nostra aplicació."
 
+msgctxt "You must agree to our privacy policy to create an account."
 msgid "You must agree to our privacy policy to create an account."
 msgstr ""
 
+msgctxt "You must fill firstname and lastname fields."
 msgid "You must fill firstname and lastname fields."
 msgstr ""
 
+msgctxt "Your account has been successfully saved"
 msgid "Your account has been successfully saved"
 msgstr "El seu compte ha estat guardat amb èxit"
 
+msgctxt "Your points"
 msgid "Your points"
 msgstr ""
 
+msgctxt "%s - Account creation"
 msgid "%s - Account creation"
 msgstr "% S - La creació de comptes"
 
+msgctxt "%s - Your new password"
 msgid "%s - Your new password"
 msgstr "% S - La seva nova contrasenya"

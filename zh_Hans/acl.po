@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Chinese (Simplified) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:25+0000\n"
+"POT-Creation-Date: 2019-01-22 10:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese (Simplified) <http://yvain.xtraball.com/projects/"
@@ -14,50 +14,66 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Actions"
 msgid "Actions"
 msgstr ""
 
+msgctxt "An error occurred while deleting your role. Please, try again later."
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
 
+msgctxt "Code"
 msgid "Code"
 msgstr ""
 
+msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr ""
 
+msgctxt "Delete"
 msgid "Delete"
 msgstr ""
 
+msgctxt "Edit"
 msgid "Edit"
 msgstr ""
 
+msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr ""
 
+msgctxt "Id"
 msgid "Id"
 msgstr ""
 
+msgctxt "Label"
 msgid "Label"
 msgstr ""
 
+msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr ""
 
+msgctxt "Role"
 msgid "Role"
 msgstr ""
 
+msgctxt "Search"
 msgid "Search"
 msgstr ""
 
+msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr ""
 
+msgctxt "You don't have any role yet"
 msgid "You don't have any role yet"
 msgstr ""
 
+msgctxt "Your role has been successfully deleted"
 msgid "Your role has been successfully deleted"
 msgstr ""
 
+msgctxt "Your role has been successfully saved"
 msgid "Your role has been successfully saved"
 msgstr ""

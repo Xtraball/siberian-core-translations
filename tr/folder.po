@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/folder/"
@@ -14,30 +14,41 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a page"
 msgid "Add a page"
 msgstr "Bir sayfa ekle"
 
+msgctxt "Add feature"
 msgid "Add feature"
 msgstr "Özellik Ekle "
 
+msgctxt "Allow line return in Title & Subtitles"
 msgid "Allow line return in Title & Subtitles"
 msgstr "Başlık ve Altyazılarda satır dönüşüne izin ver"
 
+msgctxt "By checking this, a search field will appear in your folder feature"
 msgid "By checking this, a search field will appear in your folder feature"
 msgstr "Bu kontrol, bir arama alanı gösterir klasör özelliği içinde"
 
+msgctxt "Cancel"
 msgid "Cancel"
 msgstr "İptal"
 
+msgctxt "Click on"
 msgid "Click on"
 msgstr "Üzerine tıkla"
 
+msgctxt "Click on a feature to add it to the folder"
 msgid "Click on a feature to add it to the folder"
 msgstr "Klasör bir özellik  eklemek için tıklayınız"
 
+msgctxt "Click on a page to add it to the folder"
 msgid "Click on a page to add it to the folder"
 msgstr "Klasöre eklemek için bir sayfaya tıklayın"
 
+msgctxt ""
+"Click on a page to add it to the folder <span id='folder_name' "
+"class='folder_name'>%s</span>"
 msgid ""
 "Click on a page to add it to the folder <span id='folder_name' "
 "class='folder_name'>%s</span>"
@@ -45,65 +56,86 @@ msgstr ""
 "Dosyayı klasöre eklemek için bir sayfayı tıklayı<span id='folder_name' "
 "class='folder_name'>%s</span>"
 
+msgctxt "Close mobile display"
 msgid "Close mobile display"
 msgstr "Mobil ekranı kapatın"
 
+msgctxt "Delete this folder and all its subfolders?"
 msgid "Delete this folder and all its subfolders?"
 msgstr "Bu klasörü ve tüm alt klasörleri sil?"
 
+msgctxt "Edit folder"
 msgid "Edit folder"
 msgstr "Klasör düzenle"
 
+msgctxt "Enable search in folders"
 msgid "Enable search in folders"
 msgstr "Klasörlerde aramayı etkinleştir"
 
+msgctxt "Folder title is required"
 msgid "Folder title is required"
 msgstr "Klasör başlığı gereklidir"
 
+msgctxt "Folders"
 msgid "Folders"
 msgstr "Klasörler"
 
+msgctxt "Inherit global layout"
 msgid "Inherit global layout"
 msgstr "Mevcut düzen"
 
+msgctxt "Mobile display"
 msgid "Mobile display"
 msgstr "Mobil ekran"
 
+msgctxt "New folder"
 msgid "New folder"
 msgstr "Yeni klasör"
 
+msgctxt "No results for your request."
 msgid "No results for your request."
 msgstr "İsteğiniz için sonuç yok."
 
+msgctxt "Override layout"
 msgid "Override layout"
 msgstr "Katman Düzeni"
 
+msgctxt "Search results"
 msgid "Search results"
 msgstr "Arama sonuçları"
 
+msgctxt "Show cover"
 msgid "Show cover"
 msgstr "Kapağı göster"
 
+msgctxt "Show search field"
 msgid "Show search field"
 msgstr "Arama alanına göster"
 
+msgctxt "Show title"
 msgid "Show title"
 msgstr "Başlığı göster"
 
+msgctxt "Thumbnail"
 msgid "Thumbnail"
 msgstr "Küçük resim"
 
+msgctxt "Use card design"
 msgid "Use card design"
 msgstr "Kart tasarımı kullan"
 
+msgctxt "You cannot add this feature"
 msgid "You cannot add this feature"
 msgstr "Bu özelliği eklenemez"
 
+msgctxt "You must first complete the current category creation process"
 msgid "You must first complete the current category creation process"
 msgstr "Önce mevcut kategori oluşturma işlemini tamamlamanız gerekir"
 
+msgctxt "You will lose all unsaved changes, continue?"
 msgid "You will lose all unsaved changes, continue?"
 msgstr "Devam ederseniz tüm kaydedilmemiş değişiklikleri kaybedersiniz?"
 
+msgctxt "to add a folder."
 msgid "to add a folder."
 msgstr "bir klasör eklemek için."

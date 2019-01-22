@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/"
@@ -14,50 +14,66 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "A month"
 msgid "A month"
 msgstr "το μήνα"
 
+msgctxt "A week"
 msgid "A week"
 msgstr "την εβδομάδα"
 
+msgctxt "Challengers"
 msgid "Challengers"
 msgstr "Αντίπαλοι"
 
+msgctxt "Current game"
 msgid "Current game"
 msgstr "Τρέχον παιχνίδι"
 
+msgctxt "Currently no challengers"
 msgid "Currently no challengers"
 msgstr "Δεν υπάρχουν αντίπαλοι αυτή τη στιγμή"
 
+msgctxt "Game Name"
 msgid "Game Name"
 msgstr "Όνομα Παιχνιδιού"
 
+msgctxt "Game successfully saved"
 msgid "Game successfully saved"
 msgstr "Το παιχνίδι αποθηκεύτηκε επιτυχώς"
 
+msgctxt "Next game"
 msgid "Next game"
 msgstr "Επόμενο παιχνίδι"
 
+msgctxt "On the"
 msgid "On the"
 msgstr "Την"
 
+msgctxt "Period"
 msgid "Period"
 msgstr "Περίοδο"
 
+msgctxt "Periodicity"
 msgid "Periodicity"
 msgstr "Περιοδικότητα"
 
+msgctxt "Publication date"
 msgid "Publication date"
 msgstr "Ημ/νία δημοσίευσης"
 
+msgctxt "Rank of the month"
 msgid "Rank of the month"
 msgstr "Βαθμός του μήνα"
 
+msgctxt "Rank of the week"
 msgid "Rank of the week"
 msgstr "Βαθμός της εβδομάδας"
 
+msgctxt "Team Leader"
 msgid "Team Leader"
 msgstr "Αρχηγός ομάδας"
 
+msgctxt "%s point%s"
 msgid "%s point%s"
 msgstr "%s πόντος%s"

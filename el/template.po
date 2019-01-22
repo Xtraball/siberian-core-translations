@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/template/"
@@ -14,59 +14,78 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "All"
 msgid "All"
 msgstr "Όλα"
 
+msgctxt "Arts"
 msgid "Arts"
 msgstr ""
 
+msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Επιλέξτε ένα πρότυπο ώστε να το τροποποιήσετε"
 
+msgctxt "City"
 msgid "City"
 msgstr "Πόλη"
 
+msgctxt "Corporate"
 msgid "Corporate"
 msgstr ""
 
+msgctxt "Design"
 msgid "Design"
 msgstr "Εμφάνιση"
 
+msgctxt "Education"
 msgid "Education"
 msgstr "Εκπαίδευση"
 
+msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Ψυχαγωγία"
 
+msgctxt "Fashion"
 msgid "Fashion"
 msgstr ""
 
+msgctxt "Health & Beauty"
 msgid "Health & Beauty"
 msgstr ""
 
+msgctxt "Hotels"
 msgid "Hotels"
 msgstr ""
 
+msgctxt "List of your categories"
 msgid "List of your categories"
 msgstr ""
 
+msgctxt "Local Business"
 msgid "Local Business"
 msgstr ""
 
+msgctxt "Music"
 msgid "Music"
 msgstr "μουσική"
 
+msgctxt "Organizations"
 msgid "Organizations"
 msgstr ""
 
+msgctxt "Real Estate"
 msgid "Real Estate"
 msgstr ""
 
+msgctxt "Sports"
 msgid "Sports"
 msgstr "Αθλητικά"
 
+msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "Templates"
 
+msgctxt "Templates"
 msgid "Templates"
 msgstr ""

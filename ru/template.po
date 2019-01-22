@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/template/"
@@ -15,61 +15,80 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "All"
 msgid "All"
 msgstr "Все"
 
+msgctxt "Arts"
 msgid "Arts"
-msgstr ""
+msgstr "Искусства"
 
+msgctxt "Choose a template to customize"
 msgid "Choose a template to customize"
 msgstr "Выберите шаблон, чтобы настроить"
 
+msgctxt "City"
 msgid "City"
 msgstr "Город"
 
+msgctxt "Corporate"
 msgid "Corporate"
-msgstr ""
+msgstr "Корпоративные"
 
+msgctxt "Design"
 msgid "Design"
 msgstr "Дизайн"
 
+msgctxt "Education"
 msgid "Education"
 msgstr ""
 "\n"
 "Образование"
 
+msgctxt "Entertainment"
 msgid "Entertainment"
 msgstr "Развлечения"
 
+msgctxt "Fashion"
 msgid "Fashion"
-msgstr ""
+msgstr "Мода"
 
+msgctxt "Health & Beauty"
 msgid "Health & Beauty"
-msgstr ""
+msgstr "Здоровье И Красота"
 
+msgctxt "Hotels"
 msgid "Hotels"
-msgstr ""
+msgstr "Отели"
 
+msgctxt "List of your categories"
 msgid "List of your categories"
 msgstr "Список ваших переводов"
 
+msgctxt "Local Business"
 msgid "Local Business"
-msgstr ""
+msgstr "Местный Бизнес"
 
+msgctxt "Music"
 msgid "Music"
 msgstr "музыка"
 
+msgctxt "Organizations"
 msgid "Organizations"
-msgstr ""
+msgstr "Организации"
 
+msgctxt "Real Estate"
 msgid "Real Estate"
-msgstr ""
+msgstr "Недвижимость"
 
+msgctxt "Sports"
 msgid "Sports"
 msgstr "Спорт"
 
+msgctxt "TEMPLATES"
 msgid "TEMPLATES"
 msgstr "ШАБЛОНЫ"
 
+msgctxt "Templates"
 msgid "Templates"
-msgstr ""
+msgstr "Шаблоны"

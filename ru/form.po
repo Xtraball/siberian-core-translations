@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Russian <http://translate.siberiancms.com/projects/siberian/"
-"form/ru/>\n"
+"Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/form/ru/>"
+"\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,119 +15,160 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Добавить поле"
 
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Добавить раздел"
 
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Добавить опцию"
 
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "Произошла ошибка при сохранении. Поле не может быть идентифицировано."
 
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Вы уверены, что хотите удалить это поле?"
 
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Вы уверены, что хотите удалить этот раздел?"
 
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Флажок"
 
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Выберите тип поля:"
 
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Создать новое поле"
 
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Дата / час"
 
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Вниз"
 
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "Редактировать поле %s"
 
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Наименование поля"
 
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
 msgid ""
 "Form data will be sent to this email. Until you fill out this field, your "
 "form won't be displayed on client side."
 msgstr ""
+"Данные формы будут посланы на данный емайл. До заполнения этого поля форма "
+"будет скрыта от клиентов"
 
+msgctxt "Geolocation"
 msgid "Geolocation"
 msgstr "Геолокация"
 
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Привет,"
 
+msgctxt "Import a picture"
 msgid "Import a picture"
-msgstr ""
+msgstr "Импорт изображения"
 
+msgctxt "Import from Library"
 msgid "Import from Library"
-msgstr ""
+msgstr "Импорт из Библиотеки"
 
+msgctxt "Manage fields"
 msgid "Manage fields"
 msgstr "Управление полем"
 
+msgctxt "Manage options:"
 msgid "Manage options:"
 msgstr "Управление параметрами:"
 
+msgctxt "Multiline text"
 msgid "Multiline text"
 msgstr "Текст многострочный"
 
+msgctxt "Option"
 msgid "Option"
 msgstr "Опция"
 
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Радио"
 
+msgctxt "Recipient email"
 msgid "Recipient email"
 msgstr "Адрес электронной почты получателя:"
 
+msgctxt "Take a picture"
 msgid "Take a picture"
 msgstr "Добавить фотографию"
 
+msgctxt "The form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "Форма успешно отправлена"
 
+msgctxt "You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Вы должны выбрать тип поля."
 
+msgctxt "Your app's form"
 msgid "Your app's form"
 msgstr "Форма вашего приложения"
 
+msgctxt "Your form has been filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Ваша форма была заполнена, вот ответы:"
 
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "<strong>%s</strong> должно быть числовое значение<br />"
 
+msgctxt "<strong>%s</strong> is not valid email address<br />"
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr ""
 "<strong>%s</strong> должен быть действительный адрес электронной почты<br />"
 
+msgctxt "<strong>%s</strong> is required<br />"
 msgid "<strong>%s</strong> is required<br />"
 msgstr "<strong>%s</strong> нужно заполнить<br />"
 
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> должно быть числовое значение<br />"
 
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr ""
 "<strong>%s</strong> должна быть действительная дата (например дд/мм/год)<br "
 "/>"
 
+msgctxt "<strong>%s</strong> must be a valid date<br />"
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</должна быть действительная дата<br />"
 
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr ""
 "<strong>%s</strong> должен быть действительный адрес электронной почты<br />"
 
+msgctxt "<strong>%s</strong> must be filled<br />"
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> нужно заполнить<br />"

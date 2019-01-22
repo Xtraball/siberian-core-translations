@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/"
@@ -14,51 +14,69 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Create a new language"
 msgid "Create a new language"
 msgstr "Erstellen Sie eine neue Sprache"
 
+msgctxt "Default text"
 msgid "Default text"
 msgstr "Standardtext"
 
+msgctxt "Edit the language: %s"
 msgid "Edit the language: %s"
 msgstr "Editieren Sie die Sprache: %s"
 
+msgctxt "Language"
 msgid "Language"
 msgstr "Sprache"
 
+msgctxt "Language successfully saved"
 msgid "Language successfully saved"
 msgstr "Sprache erfolgreich gespeichert"
 
+msgctxt "List of your languages"
 msgid "List of your languages"
 msgstr "Liste der Sprachen"
 
+msgctxt "Please, choose a file."
 msgid "Please, choose a file."
 msgstr "Bitte wählen Sie eine Datei."
 
+msgctxt "Please, choose a language."
 msgid "Please, choose a language."
 msgstr "Bitte wählen Sie eine Sprache."
 
+msgctxt "Select a file"
 msgid "Select a file"
 msgstr "Wählen Sie eine Datei"
 
+msgctxt "Select a language"
 msgid "Select a language"
 msgstr "Wählen Sie eine Sprache"
 
+msgctxt "Text translation"
 msgid "Text translation"
 msgstr "Textübersetzung"
 
+msgctxt "Translate all"
 msgid "Translate all"
 msgstr "Übersetzen Sie alle"
 
+msgctxt "Translate missing entries"
 msgid "Translate missing entries"
 msgstr "Übersetzen Sie fehlende Einträge"
 
+msgctxt "Translate the 'e.g.' between parentheses only."
 msgid "Translate the 'e.g.' between parentheses only."
 msgstr "Übersetzen Sie das 'z.B.' nur zwischen Klammern."
 
+msgctxt "Translation API is not available for the current language."
 msgid "Translation API is not available for the current language."
 msgstr "Die Übersetzungs-API ist für die aktuelle Sprache nicht verfügbar."
 
+msgctxt ""
+"Warning: translation API is experimental for the current language and may "
+"fail."
 msgid ""
 "Warning: translation API is experimental for the current language and may "
 "fail."
@@ -66,5 +84,6 @@ msgstr ""
 "<b>Warnung:</b> übersetzungs-API ist experimentell für die aktuelle Sprache "
 "und kann fehlschlagen."
 
+msgctxt "Your translation"
 msgid "Your translation"
 msgstr "Ihre Übersetzung"

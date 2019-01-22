@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Russian (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian <http://yvain.xtraball.com/projects/siberian/comment/"
@@ -15,124 +15,164 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a comment"
 msgid "Add a comment"
-msgstr ""
+msgstr "Добавить комментарий"
 
+msgctxt "An error occurred while deleting this answer. Please try again later."
 msgid "An error occurred while deleting this answer. Please try again later."
 msgstr ""
 "Произошла ошибка во время удаления этого ответа. Пожалуйста, повторите "
 "попытку позже."
 
+msgctxt "COMMENTS"
 msgid "COMMENTS"
-msgstr ""
+msgstr "КОММЕНТАРИИ"
 
+msgctxt "Create a news"
 msgid "Create a news"
 msgstr "Создать новость"
 
+msgctxt "Delete this info"
 msgid "Delete this info"
 msgstr "Удалить это событие?"
 
+msgctxt "Flag"
 msgid "Flag"
-msgstr ""
+msgstr "Отметить"
 
+msgctxt "Flag as inappropriate"
 msgid "Flag as inappropriate"
 msgstr "Был помечен как нарушение"
 
+msgctxt "Hide this info"
 msgid "Hide this info"
 msgstr "Скрыть эту информацию"
 
+msgctxt "Information successfully deleted"
 msgid "Information successfully deleted"
 msgstr "Информация успешно удалена"
 
+msgctxt "Information successfully hidden"
 msgid "Information successfully hidden"
 msgstr "Информация успешно скрыта"
 
+msgctxt "Information successfully saved"
 msgid "Information successfully saved"
 msgstr "Информация успешно сохранена"
 
+msgctxt "Information successfully shown"
 msgid "Information successfully shown"
 msgstr "Информация успешно показана"
 
+msgctxt "Insert a"
 msgid "Insert a"
 msgstr "Вставьте"
 
+msgctxt "It will be visible only after validation by our team."
 msgid "It will be visible only after validation by our team."
 msgstr "Это будет видно только после проверки нашей командой"
 
+msgctxt "My customers answers"
 msgid "My customers answers"
 msgstr "Мои ответы клиентам"
 
+msgctxt "My customers' comments"
 msgid "My customers' comments"
 msgstr "Комментарии моих клиентов"
 
+msgctxt "Near me"
 msgid "Near me"
 msgstr "Рядом"
 
+msgctxt "'Near me' radius (in km):"
 msgid "'Near me' radius (in km):"
 msgstr "\"Рядом со мной\" в  радиусе  (км):"
 
+msgctxt "Near me settings"
 msgid "Near me settings"
 msgstr "Настройки - Рядом со мной "
 
+msgctxt "New post"
 msgid "New post"
-msgstr ""
+msgstr "Новый пост"
 
+msgctxt "No comment for now"
 msgid "No comment for now"
-msgstr ""
+msgstr "Комментарий пока отсутствует"
 
+msgctxt "No comments for now"
 msgid "No comments for now"
-msgstr ""
+msgstr "Комментарии пока отсутствуют"
 
+msgctxt "Post"
 msgid "Post"
 msgstr "Пост"
 
+msgctxt "Publishing date"
 msgid "Publishing date"
 msgstr "Дата публикации"
 
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Радиус"
 
+msgctxt "Radius must be a valid numeric value."
 msgid "Radius must be a valid numeric value."
 msgstr "Радиус должен иметь допустимое числовое значение."
 
+msgctxt "Radius must be provided."
 msgid "Radius must be provided."
 msgstr "Радиус должен быть обеспечен."
 
+msgctxt "Read More"
 msgid "Read More"
 msgstr "Загрузить еще"
 
+msgctxt "Recent"
 msgid "Recent"
 msgstr "Новые"
 
+msgctxt "Show this info"
 msgid "Show this info"
 msgstr "Показать эту информацию"
 
+msgctxt "There is no comment for this news"
 msgid "There is no comment for this news"
 msgstr "Там нет комментариев к новости"
 
+msgctxt "Was flagged as inappropriate"
 msgid "Was flagged as inappropriate"
 msgstr "Был помечен как нарушение"
 
+msgctxt "You can't like more than once the same news"
 msgid "You can't like more than once the same news"
 msgstr "Новость может нравиться не более одного раза"
 
+msgctxt "You have to enter a text message."
 msgid "You have to enter a text message."
-msgstr ""
+msgstr "Вы должны ввести текстовое сообщение"
 
+msgctxt "You need to be connected to create a post"
 msgid "You need to be connected to create a post"
 msgstr "Вы должны быть соединены, чтобы создать запись"
 
+msgctxt "Your flag has successfully been notified"
 msgid "Your flag has successfully been notified"
 msgstr "Ваш флаг был успешно добавлен"
 
+msgctxt "Your like has been successfully added"
 msgid "Your like has been successfully added"
 msgstr "Ваш лайк был успешно добавлен"
 
+msgctxt "Your message has been successfully saved."
 msgid "Your message has been successfully saved."
 msgstr "Ваше сообщение было успешно сохранено"
 
+msgctxt "Your post was successfully added"
 msgid "Your post was successfully added"
 msgstr "Ваше сообщение было успешно добавлено"
 
+msgctxt "en"
 msgid "en"
 msgstr "en"

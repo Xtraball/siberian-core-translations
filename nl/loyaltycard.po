@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dutch (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch <http://yvain.xtraball.com/projects/siberian/"
@@ -14,126 +14,167 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1 Loyaliteit punt ="
 
+msgctxt "1 point"
 msgid "1 point"
 msgstr "1 punt"
 
+msgctxt "1 validated point ="
 msgid "1 validated point ="
 msgstr "1 gecontroleerd punt ="
 
+msgctxt "An error occurred while retrieving QRCode. Please try again later"
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr ""
 "Er is een fout opgetreden bij het ophalen van QRCode. Probeer het later "
 "opnieuw"
 
+msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van het wachtwoord. Probeer "
 "het later opnieuw"
 
+msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "Er is een fout opgetreden tijdens het opslaan van uw klantenkaart."
 
+msgctxt ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
 msgid ""
 "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr ""
 "Er is een fout opgetreden tijdens het opslaan van uw klantenkaart. Vul alle "
 "velden in."
 
+msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
 msgstr ""
 "Er is een fout opgetreden bij het keuren van de punten. Probeer het later "
 "opnieuw."
 
+msgctxt "An error occurred with your QRCode."
 msgid "An error occurred with your QRCode."
 msgstr "Er is een fout opgetreden met je QRCode."
 
+msgctxt "Card name"
 msgid "Card name"
 msgstr "Kaart naam"
 
+msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "Gefeliciteerd"
 
+msgctxt "Current card"
 msgid "Current card"
 msgstr "Huidige kaart"
 
+msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "Verwijder dit wachtwoord?"
 
+msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "Naam van werknemer:"
 
+msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "Wachtwoord werknemer:"
 
+msgctxt "Enter password"
 msgid "Enter password"
 msgstr "Voer het wachtwoord in"
 
+msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "Vul het wachtwoord in"
 
+msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "Mijn nieuwe klantenkaart"
 
+msgctxt "My passwords"
 msgid "My passwords"
 msgstr "Mijn wachtwoorden"
 
+msgctxt "No cards available"
 msgid "No cards available"
 msgstr "Geen kaarten beschikbaar"
 
+msgctxt "Number of points"
 msgid "Number of points"
 msgstr "Aantal punten"
 
+msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Vul een naam in"
 
+msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "Vul het wachtwoord in"
 
+msgctxt ""
+"Please show your phone to the store person so that he enters his password"
 msgid ""
 "Please show your phone to the store person so that he enters his password"
 msgstr ""
 "laat je telefoon aan de winkel medewerker zien zodat hij zijn wachtwoord kan "
 "invullen"
 
+msgctxt "Point active"
 msgid "Point active"
 msgstr "Punt actief"
 
+msgctxt "Point inactive"
 msgid "Point inactive"
 msgstr "Punt inactief"
 
+msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Punten%s met succes gekeurd"
 
+msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "Vorige kaarten"
 
+msgctxt "Reward"
 msgid "Reward"
 msgstr "Beloning"
 
+msgctxt "Rewards"
 msgid "Rewards"
 msgstr "Beloning"
 
+msgctxt "Scan QRCode"
 msgid "Scan QRCode"
 msgstr "Scan QR-code"
 
+msgctxt "This card is uniq:"
 msgid "This card is uniq:"
 msgstr "Deze kaart is uniek:"
 
+msgctxt "Unlock by QRCode"
 msgid "Unlock by QRCode"
 msgstr "Ontgrendeld door QRCode"
 
+msgctxt "Unreadable QRCode, sorry."
 msgid "Unreadable QRCode, sorry."
 msgstr "Onleesbare QRCode, sorry."
 
+msgctxt "Use only once?"
 msgid "Use only once?"
 msgstr "Gebruik slechts één keer?"
 
+msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Sorry uw kaart is tijdelijk geblokkeerd"
 
+msgctxt ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
 msgid ""
 "Wrong password. Be carefull! %d remaining attempt%s before locking your "
 "card. Ask the store person for validating your point"
@@ -142,6 +183,9 @@ msgstr ""
 "vergrendeling van uw kaart. Vraag aan het winkelpersoneel voor uw punt te "
 "valideren"
 
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -150,6 +194,9 @@ msgstr ""
 "pogingen vóór vergrendeling van uw kaart.<br/>Vraag het winkelpersoneel om "
 "uw punt te valideren"
 
+msgctxt ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points. Your card is "
 "locked for 24h"
@@ -157,29 +204,38 @@ msgstr ""
 "U hebt het aantal pogingen om punten te valideren overschreden. Uw kaart is "
 "geblokkeerd voor 24 uur"
 
+msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "U heeft uw kaart vol"
 
+msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "Je moet ingelogd zijn om punten te valideren"
 
+msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "Uw klantenkaart is succesvol opgeslagen"
 
+msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "Uw wachtwoord moet uit 4 cijfers bestaan"
 
+msgctxt "is now yours!"
 msgid "is now yours!"
 msgstr "is nu van u!"
 
+msgctxt "point"
 msgid "point"
 msgstr "punt"
 
+msgctxt "point to validate"
 msgid "point to validate"
 msgstr "punten valideren"
 
+msgctxt "points to validate"
 msgid "points to validate"
 msgstr "punten valideren"
 
+msgctxt "validated points ="
 msgid "validated points ="
 msgstr "Gecontroleerde punten ="

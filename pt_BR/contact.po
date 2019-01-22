@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
@@ -14,52 +14,68 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving your contact informations."
 msgid "An error occurred while saving your contact informations."
 msgstr "Ocorreu um erro ao salvar suas informações de contato."
 
+msgctxt "An error occurred while sending your request. Please try again later."
 msgid "An error occurred while sending your request. Please try again later."
 msgstr ""
 "Ocorreu um erro ao enviar o seu pedido. Por favor, tente novamente mais "
 "tarde."
 
+msgctxt "And his phone number:"
 msgid "And his phone number:"
 msgstr "E o seu número de telefone:"
 
+msgctxt "Are you sure you want to remove the picture?"
 msgid "Are you sure you want to remove the picture?"
 msgstr "Tem certeza de que deseja remover a imagem?"
 
+msgctxt "City"
 msgid "City"
 msgstr "Cidade"
 
+msgctxt "Contact information"
 msgid "Contact information"
 msgstr "Informação de Contato"
 
+msgctxt "Here is his email:"
 msgid "Here is his email:"
 msgstr "Aqui é o seu email:"
 
+msgctxt "Here is his message:"
 msgid "Here is his message:"
 msgstr "Aqui é a sua mensagem:"
 
+msgctxt "Please enter properly the following fields: <br />"
 msgid "Please enter properly the following fields: <br />"
 msgstr "Digite corretamente os seguintes campos: <br />"
 
+msgctxt "Twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
+msgctxt "Website"
 msgid "Website"
 msgstr "Site"
 
+msgctxt "You have received a message from a contact:"
 msgid "You have received a message from a contact:"
 msgstr "Você recebeu uma mensagem de um contato:"
 
+msgctxt "Your email"
 msgid "Your email"
 msgstr "Seu e-mail"
 
+msgctxt "Your message has been sent"
 msgid "Your message has been sent"
 msgstr "Sua mensagem foi enviada com sucesso"
 
+msgctxt "Your request"
 msgid "Your request"
 msgstr "O seu pedido"
 
+msgctxt "Zip code"
 msgid "Zip code"
 msgstr "CEP"

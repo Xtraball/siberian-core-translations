@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/admin/el/>"
@@ -14,6 +14,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt ""
+"A request to reset your password has been made to log in to your "
+"administration panel."
 msgid ""
 "A request to reset your password has been made to log in to your "
 "administration panel."
@@ -21,197 +24,263 @@ msgstr ""
 "Η αίτηση για την επαναφορά του Κωδικού σας έχει γίνει για να συνδεθείτε στον "
 "πίνακα διαχείρισης."
 
+msgctxt "Access"
 msgid "Access"
 msgstr ""
 
+msgctxt "Account Role"
 msgid "Account Role"
 msgstr ""
 
+msgctxt "Account role"
 msgid "Account role"
 msgstr ""
 
+msgctxt "Address:"
 msgid "Address:"
 msgstr ""
 
+msgctxt "Address 2:"
 msgid "Address 2:"
 msgstr ""
 
+msgctxt "Administrator : full access"
 msgid "Administrator : full access"
 msgstr ""
 
+msgctxt "Administrator: full access"
 msgid "Administrator: full access"
 msgstr ""
 
+msgctxt "An error occurred while saving. The country is not valid."
 msgid "An error occurred while saving. The country is not valid."
 msgstr "Παρουσιάστηκε σφάλμα κατά την αποθήκευση. Η χώρα δεν είναι έγκυρη."
 
+msgctxt "Application"
 msgid "Application"
 msgstr ""
 
+msgctxt "Application have been duplicated successfully."
 msgid "Application have been duplicated successfully."
 msgstr ""
 
+msgctxt "Are you sure you want to delete this application?"
 msgid "Are you sure you want to delete this application?"
 msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την εφαρμογή?"
 
+msgctxt "Are you sure you want to duplicate this application?"
 msgid "Are you sure you want to duplicate this application?"
 msgstr ""
 
+msgctxt "Can add pages"
 msgid "Can add pages"
 msgstr "Μπορεί να προσθέσει σελίδες"
 
+msgctxt "Can generate APK"
 msgid "Can generate APK"
 msgstr ""
 
+msgctxt "Can manage guided tour"
 msgid "Can manage guided tour"
 msgstr ""
 
+msgctxt "Change my password"
 msgid "Change my password"
 msgstr "Αλλαγή του Κωδικού μου"
 
+msgctxt "Company:"
 msgid "Company:"
 msgstr ""
 
+msgctxt "Confirm your password"
 msgid "Confirm your password"
 msgstr "Επιβεβαίωση Κωδικού σας"
 
+msgctxt "Connect to your backoffice to validate this account."
 msgid "Connect to your backoffice to validate this account."
 msgstr ""
 
+msgctxt "Create a new application"
 msgid "Create a new application"
 msgstr "Δημιουργήστε μια καινούργια εφαρμογή"
 
+msgctxt "Create a new user"
 msgid "Create a new user"
 msgstr "Δημιουργήστε έναν καινούριο χρήστη"
 
+msgctxt "Created At"
 msgid "Created At"
 msgstr "Δημιουργήθηκε"
 
+msgctxt "Created at %s"
 msgid "Created at %s"
 msgstr "Δημιουργήθηκε %s"
 
+msgctxt "Do not hesitate to give us your feedback by sharing your needs:"
 msgid "Do not hesitate to give us your feedback by sharing your needs:"
 msgstr ""
 "Μην διστάσσετε να μας στείλετε τα σχόλιά σας, μοιράζοντας τις ανάγκες σας "
 "μαζί μας:"
 
+msgctxt "Edit the account %s"
 msgid "Edit the account %s"
 msgstr ""
 
+msgctxt "Edit the user %s"
 msgid "Edit the user %s"
 msgstr "Επεξεργασία  χρήστη %s"
 
+msgctxt "Enjoy!"
 msgid "Enjoy!"
 msgstr "Απολαύστε!"
 
+msgctxt "Filter your apps..."
 msgid "Filter your apps..."
 msgstr ""
 
+msgctxt "Find some advices here:"
 msgid "Find some advices here:"
 msgstr "Βρείτε κάποιες συμβουλές εδώ:"
 
+msgctxt "From"
 msgid "From"
 msgstr ""
 
+msgctxt "Hello, a new user has registered on your platform : %s."
 msgid "Hello, a new user has registered on your platform : %s."
 msgstr ""
 
+msgctxt "Here are your credentials, keep them preciously:"
 msgid "Here are your credentials, keep them preciously:"
 msgstr "Εδώ είναι τα στοιχεία πρόσβασής σας, φυλάξτε τα:"
 
+msgctxt "List of admin accounts"
 msgid "List of admin accounts"
 msgstr "Λίστα Λογαριασμών Διαχειριστή"
 
+msgctxt "List of my accounts"
 msgid "List of my accounts"
 msgstr "Λίστα των λογαριασμών μου"
 
+msgctxt "List of your users"
 msgid "List of your users"
 msgstr "Λίστα των χρηστών σας"
 
+msgctxt "Log-in As"
 msgid "Log-in As"
 msgstr "Συνδεθείτε ώς"
 
+msgctxt "Manage access"
 msgid "Manage access"
 msgstr "Διαχείριση πρόσβασης"
 
+msgctxt "My Applications"
 msgid "My Applications"
 msgstr "Οι εφαρμογές μου"
 
+msgctxt "My information"
 msgid "My information"
 msgstr "Οι πληροφορίες μου"
 
+msgctxt "Need some help?"
 msgid "Need some help?"
 msgstr "Χρειάζεστε κάποια βοήθεια?"
 
+msgctxt "New user registration on your platform"
 msgid "New user registration on your platform"
 msgstr ""
 
+msgctxt "No account for now."
 msgid "No account for now."
 msgstr ""
 
+msgctxt "Please enter a valid email address."
 msgid "Please enter a valid email address."
 msgstr "Παρακαλώ εισάγετε ένα έγκυρο E-mail."
 
+msgctxt "Please, enter an application name"
 msgid "Please, enter an application name"
 msgstr "Παρακαλώ, εισάγετε όνομα εφαρμογής"
 
+msgctxt "Publication access type"
 msgid "Publication access type"
 msgstr ""
 
+msgctxt "Ready to create your own apps?"
 msgid "Ready to create your own apps?"
 msgstr "Είστε έτοιμοι να δημιουργήσετε τις δικές σας εφαρμογές?"
 
+msgctxt "Role"
 msgid "Role"
 msgstr ""
 
+msgctxt "Show All Applications"
 msgid "Show All Applications"
 msgstr ""
 
+msgctxt "Sign up"
 msgid "Sign up"
 msgstr "Εγγραφή"
 
+msgctxt "Sorry but an error occured while duplicating your application."
 msgid "Sorry but an error occured while duplicating your application."
 msgstr ""
 
+msgctxt "State/Province"
 msgid "State/Province"
 msgstr ""
 
+msgctxt "Thanks for choosing us!"
 msgid "Thanks for choosing us!"
 msgstr "Ευχαριστούμε που μας επιλέξατε!"
 
+msgctxt "The Support Team"
 msgid "The Support Team"
 msgstr "Ομάδα Υποστήριξης"
 
+msgctxt "The account role is required"
 msgid "The account role is required"
 msgstr ""
 
+msgctxt "The password and the confirmation does not match."
 msgid "The password and the confirmation does not match."
 msgstr "Ο Κωδικός και η επιβεβαίωση Κωδικού δεν ταιριάζουν."
 
+msgctxt "The password must be at least 6 characters."
 msgid "The password must be at least 6 characters."
 msgstr "Ο Κωδικός σας πρέπει να περιλαμβάνει τουλάχιστον 6 χαρακτήρες."
 
+msgctxt "This account is not activated yet. Please contact an administrator."
 msgid "This account is not activated yet. Please contact an administrator."
 msgstr ""
 
+msgctxt "This admin can manage guided tour from editor"
 msgid "This admin can manage guided tour from editor"
 msgstr ""
 
+msgctxt "This user has no applications yet."
 msgid "This user has no applications yet."
 msgstr ""
 
+msgctxt "User successfully deleted"
 msgid "User successfully deleted"
 msgstr ""
 
+msgctxt "View my current data"
 msgid "View my current data"
 msgstr ""
 
+msgctxt "We are sorry but this email address is already used."
 msgid "We are sorry but this email address is already used."
 msgstr "Λυπούμαστε, αλλά αυτό το E-mail χρησιμοποιείται ήδη."
 
+msgctxt "Welcome!"
 msgid "Welcome!"
 msgstr "Καλώς ήρθατε!"
 
+msgctxt ""
+"You are going to love it! Thanks to our effective features, you will be able "
+"to create great mobile apps in your name, within minutes."
 msgid ""
 "You are going to love it! Thanks to our effective features, you will be able "
 "to create great mobile apps in your name, within minutes."
@@ -219,29 +288,38 @@ msgstr ""
 "Θα το αγαπήσετε! Χάρη στα αποτελεσματικά μας χαρακτηριστικά, θα είστε σε "
 "θέση να δημιουργήσετε σπουδαίες εφαρμογές για κινητά, μέσα σε λίγα λεπτά."
 
+msgctxt "You can't delete the main account"
 msgid "You can't delete the main account"
 msgstr "Δεν μπορείτε να διαγράψετε τον κύριο λογαριασμό"
 
+msgctxt "You don't have any users yet"
 msgid "You don't have any users yet"
 msgstr "Δεν έχετε ακόμη χρήστες"
 
+msgctxt "Your account have been created successfully. It will be activated soon."
 msgid "Your account have been created successfully. It will be activated soon."
 msgstr ""
 
+msgctxt "Your credentials"
 msgid "Your credentials"
 msgstr "Τα στοιχεία εισόδου σας"
 
+msgctxt "Your login:"
 msgid "Your login:"
 msgstr "Είσοδος:"
 
+msgctxt "Your password:"
 msgid "Your password:"
 msgstr "Κωδικός:"
 
+msgctxt "Zip Code"
 msgid "Zip Code"
 msgstr ""
 
+msgctxt "%s - Your new password"
 msgid "%s - Your new password"
 msgstr "%s - Ο νέος σας Κωδικός"
 
+msgctxt "to"
 msgid "to"
 msgstr ""

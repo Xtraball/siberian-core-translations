@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/booking/"
@@ -14,76 +14,100 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Détails de la réservation"
 
+msgctxt "Booking location:"
 msgid "Booking location:"
 msgstr "Emplacement de la réservation :"
 
+msgctxt "Booking subject:"
 msgid "Booking subject:"
 msgstr "Sujet de la réservation :"
 
+msgctxt "Comment:"
 msgid "Comment:"
 msgstr "Commentaire :"
 
+msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Date et heure"
 
+msgctxt "Email address:"
 msgid "Email address:"
 msgstr "Adresse email :"
 
+msgctxt "Enter the location name and contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "Saisissez le nom et l'email du lieu :"
 
+msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Prénom / Nom"
 
+msgctxt "Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "Voici ses informations personnelles :"
 
+msgctxt "Information"
 msgid "Information"
 msgstr "Informations"
 
+msgctxt "Location"
 msgid "Location"
 msgstr "Emplacement"
 
+msgctxt "Name:"
 msgid "Name:"
 msgstr "Nom :"
 
+msgctxt "Number of people"
 msgid "Number of people"
 msgstr "Nombre de personnes"
 
+msgctxt "Phone number:"
 msgid "Phone number:"
 msgstr "Numéro de téléphone :"
 
+msgctxt "Please, choose a store"
 msgid "Please, choose a store"
 msgstr "Veuillez saisir le nom du lieu"
 
+msgctxt "Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "Veuillez remplir les champs suivants:"
 
+msgctxt "Please fill out the following fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "Veuillez remplir les champs suivants:<br/>"
 
+msgctxt "Thank you for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr ""
 "Nous vous remercions pour votre message. Nous vous répondrons dans les plus "
 "brefs délais."
 
+msgctxt "The booking information"
 msgid "The booking information"
 msgstr "Le motif de la réservation"
 
+msgctxt "The date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "La date et heure de réservation"
 
+msgctxt "The number of people"
 msgid "The number of people"
 msgstr "Le nombre de personnes"
 
+msgctxt "You have received a message for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "Vous avez reçu un message de réservation de"
 
+msgctxt "Your name"
 msgid "Your name"
 msgstr "Votre nom"
 
+msgctxt "Your phone number or email address"
 msgid "Your phone number or email address"
 msgstr "Votre téléphone ou adresse email"

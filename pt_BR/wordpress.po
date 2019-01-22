@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
@@ -14,33 +14,45 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "1 day"
 msgid "1 day"
 msgstr ""
 
+msgctxt "1 hour"
 msgid "1 hour"
 msgstr ""
 
+msgctxt "1 minute"
 msgid "1 minute"
 msgstr "minuto"
 
+msgctxt "12 hours"
 msgid "12 hours"
 msgstr ""
 
+msgctxt "15 minutes"
 msgid "15 minutes"
 msgstr "minutos"
 
+msgctxt "3 hours"
 msgid "3 hours"
 msgstr "horas"
 
+msgctxt "30 minutes"
 msgid "30 minutes"
 msgstr "minutos"
 
+msgctxt "6 hours"
 msgid "6 hours"
 msgstr "horas"
 
+msgctxt "Add a query"
 msgid "Add a query"
 msgstr ""
 
+msgctxt ""
+"An error occurred while accessing your Wordpress website. Please, verify the "
+"domain name %s"
 msgid ""
 "An error occurred while accessing your Wordpress website. Please, verify the "
 "domain name %s"
@@ -48,92 +60,127 @@ msgstr ""
 "Ocorreu um erro ao acessar o seu site Wordpress. Por favor, verifique o nome "
 "de domínio %s"
 
+msgctxt "Ascending"
 msgid "Ascending"
 msgstr ""
 
+msgctxt "Author"
 msgid "Author"
 msgstr ""
 
+msgctxt "Cache lifetime (excluding pull to refresh)"
 msgid "Cache lifetime (excluding pull to refresh)"
 msgstr ""
 
+msgctxt "Categories successfully saved"
 msgid "Categories successfully saved"
 msgstr "Categorias salvas com sucesso"
 
+msgctxt "Click here to download our Wordpress plugin"
 msgid "Click here to download our Wordpress plugin"
 msgstr "Clique aqui para baixar nosso plugin Wordpress"
 
+msgctxt "Cover & Thumbnails are only visible when queries are not grouped."
 msgid "Cover & Thumbnails are only visible when queries are not grouped."
 msgstr ""
 
+msgctxt "Date"
 msgid "Date"
 msgstr "Data"
 
+msgctxt "Descending"
 msgid "Descending"
 msgstr ""
 
+msgctxt "Enter your Wordpress URL:"
 msgid "Enter your Wordpress URL:"
 msgstr "Digite sua URL Wordpress:"
 
+msgctxt "Group all queries into a single list"
 msgid "Group all queries into a single list"
 msgstr ""
 
+msgctxt "ID"
 msgid "ID"
 msgstr "ID"
 
+msgctxt ""
+"If your WordPress is secured by a login/password, and/or you want to display "
+"private posts you can set here a user to be used to retrieve posts."
 msgid ""
 "If your WordPress is secured by a login/password, and/or you want to display "
 "private posts you can set here a user to be used to retrieve posts."
 msgstr ""
 
+msgctxt "Loading categories"
 msgid "Loading categories"
 msgstr "Carregando categorias"
 
+msgctxt "Manage WordPress"
 msgid "Manage WordPress"
 msgstr ""
 
+msgctxt "Manage queries"
 msgid "Manage queries"
 msgstr ""
 
+msgctxt "No cache"
 msgid "No cache"
 msgstr ""
 
+msgctxt ""
+"Note: cache is automatically refreshed on any user pull to refresh action "
+"whatever the lifetime set."
 msgid ""
 "Note: cache is automatically refreshed on any user pull to refresh action "
 "whatever the lifetime set."
 msgstr ""
 
+msgctxt "Pages"
 msgid "Pages"
 msgstr ""
 
+msgctxt "Relevance"
 msgid "Relevance"
 msgstr ""
 
+msgctxt "Show title & subtitle"
 msgid "Show title & subtitle"
 msgstr ""
 
+msgctxt "Sorry, we are unable to fetch any category or post from your WordPress."
 msgid "Sorry, we are unable to fetch any category or post from your WordPress."
 msgstr ""
 
+msgctxt "Sort by"
 msgid "Sort by"
 msgstr ""
 
+msgctxt "Sort order"
 msgid "Sort order"
 msgstr ""
 
+msgctxt "Strip shortcodes"
 msgid "Strip shortcodes"
 msgstr ""
 
+msgctxt "Unable to find your WordPress or /wp-json/ endpoint."
 msgid "Unable to find your WordPress or /wp-json/ endpoint."
 msgstr ""
 
+msgctxt "Unlimited (until any pull to refresh)"
 msgid "Unlimited (until any pull to refresh)"
 msgstr ""
 
+msgctxt ""
+"We are sorry but no category has been detected on your Wordpress website."
 msgid ""
 "We are sorry but no category has been detected on your Wordpress website."
 msgstr "Lamentamos, mas nenhuma categoria foi encontrada em seu site Wordpress."
 
+msgctxt ""
+"We are sorry but our Wordpress plugin hasn't been detected on your website. "
+"Please be sure it is correctly installed and activated."
 msgid ""
 "We are sorry but our Wordpress plugin hasn't been detected on your website. "
 "Please be sure it is correctly installed and activated."
@@ -141,15 +188,21 @@ msgstr ""
 "Lamentamos, mas nosso plugin Wordpress não foi encontrado em seu site. Por "
 "favor, certifique-se de que esteja corretamente instalado e ativado."
 
+msgctxt "WordPress URL"
 msgid "WordPress URL"
 msgstr ""
 
+msgctxt "Wordpress"
 msgid "Wordpress"
 msgstr "Wordpress"
 
+msgctxt "You can mix posts & pages in the queries if needed."
 msgid "You can mix posts & pages in the queries if needed."
 msgstr ""
 
+msgctxt ""
+"You can mix posts & pages in the queries if needed, however it's not "
+"recommended and can lead to random sorting."
 msgid ""
 "You can mix posts & pages in the queries if needed, however it's not "
 "recommended and can lead to random sorting."

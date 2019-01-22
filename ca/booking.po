@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:19+0000\n"
+"POT-Creation-Date: 2019-01-22 10:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/booking/"
@@ -14,74 +14,98 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Booking details"
 msgid "Booking details"
 msgstr "Dades de la reserva"
 
+msgctxt "Booking location:"
 msgid "Booking location:"
 msgstr ""
 
+msgctxt "Booking subject:"
 msgid "Booking subject:"
 msgstr "Subjecte de reserva:"
 
+msgctxt "Comment:"
 msgid "Comment:"
 msgstr "comentari:"
 
+msgctxt "Date and time"
 msgid "Date and time"
 msgstr "Data i hora"
 
+msgctxt "Email address:"
 msgid "Email address:"
 msgstr "Adreça de correu electrònic:"
 
+msgctxt "Enter the location name and contact email:"
 msgid "Enter the location name and contact email:"
 msgstr "Introduïu el nom de la ubicació i correu electrònic de contacte:"
 
+msgctxt "First name / Last name"
 msgid "First name / Last name"
 msgstr "Nom / Cognoms"
 
+msgctxt "Here are his personal information:"
 msgid "Here are his personal information:"
 msgstr "Heus aquí les seves dades personals:"
 
+msgctxt "Information"
 msgid "Information"
 msgstr "Informació"
 
+msgctxt "Location"
 msgid "Location"
 msgstr ""
 
+msgctxt "Name:"
 msgid "Name:"
 msgstr "nom:"
 
+msgctxt "Number of people"
 msgid "Number of people"
 msgstr "El nombre de persones"
 
+msgctxt "Phone number:"
 msgid "Phone number:"
 msgstr "Número de telèfon:"
 
+msgctxt "Please, choose a store"
 msgid "Please, choose a store"
 msgstr "Si us plau, tria una botiga"
 
+msgctxt "Please fill out the following fields:"
 msgid "Please fill out the following fields:"
 msgstr "Si us plau, ompli els següents camps:"
 
+msgctxt "Please fill out the following fields:<br/>"
 msgid "Please fill out the following fields:<br/>"
 msgstr "Si us plau, ompli els següents camps:"
 
+msgctxt "Thank you for your request. We'll answer you as soon as possible."
 msgid "Thank you for your request. We'll answer you as soon as possible."
 msgstr "Gràcies per la seva sol·licitud. Li contestarem el més aviat possible."
 
+msgctxt "The booking information"
 msgid "The booking information"
 msgstr "La informació de la reserva"
 
+msgctxt "The date and time of the booking"
 msgid "The date and time of the booking"
 msgstr "La data i hora de la reserva"
 
+msgctxt "The number of people"
 msgid "The number of people"
 msgstr "El nombre de persones"
 
+msgctxt "You have received a message for the booking of"
 msgid "You have received a message for the booking of"
 msgstr "Ha rebut un missatge de la reserva de"
 
+msgctxt "Your name"
 msgid "Your name"
 msgstr "El seu nom"
 
+msgctxt "Your phone number or email address"
 msgid "Your phone number or email address"
 msgstr "El seu número de telèfon o correu electrònic adreça"

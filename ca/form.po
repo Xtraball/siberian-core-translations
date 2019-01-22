@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:19+0000\n"
+"POT-Creation-Date: 2019-01-22 10:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/form/ca/>"
@@ -14,116 +14,155 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Afegeix un camp"
 
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Afegeix una secció"
 
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Afegir l'opció"
 
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr "S'ha produït un error mentre es desava. Un camp no es pot identificar."
 
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Esteu segur que voleu suprimir aquest camp?"
 
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Esteu segur que voleu suprimir aquesta secció?"
 
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Casella de selecció"
 
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Trieu un tipus de camp:"
 
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Crear un nou camp"
 
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Data/hora"
 
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Desplegable"
 
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "Editar camp %s"
 
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Nom del camp"
 
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
 msgid ""
 "Form data will be sent to this email. Until you fill out this field, your "
 "form won't be displayed on client side."
 msgstr ""
 
+msgctxt "Geolocation"
 msgid "Geolocation"
 msgstr "Geolocalització"
 
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Hola,"
 
+msgctxt "Import a picture"
 msgid "Import a picture"
 msgstr ""
 
+msgctxt "Import from Library"
 msgid "Import from Library"
 msgstr ""
 
+msgctxt "Manage fields"
 msgid "Manage fields"
 msgstr "Administra els camps"
 
+msgctxt "Manage options:"
 msgid "Manage options:"
 msgstr "Administrar opcions:"
 
+msgctxt "Multiline text"
 msgid "Multiline text"
 msgstr "Text múltiples línies"
 
+msgctxt "Option"
 msgid "Option"
 msgstr "Opció"
 
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Ràdio"
 
+msgctxt "Recipient email"
 msgid "Recipient email"
 msgstr ""
 
+msgctxt "Take a picture"
 msgid "Take a picture"
 msgstr ""
 
+msgctxt "The form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "El formulari ha estat enviat correctament"
 
+msgctxt "You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Vostè ha de triar un tipus de camp."
 
+msgctxt "Your app's form"
 msgid "Your app's form"
 msgstr "Forma del seu app"
 
+msgctxt "Your form has been filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "El formulari emplenat, aquí hi ha les respostes:"
 
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "<strong>%s</strong> ha de ser un valor numèric < br / >"
 
+msgctxt "<strong>%s</strong> is not valid email address<br />"
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr "<strong>%s</strong> ha de ser una adreça electrònica vàlida < br / >"
 
+msgctxt "<strong>%s</strong> is required<br />"
 msgid "<strong>%s</strong> is required<br />"
 msgstr "<strong>%s</strong> són obligatoris < br / >"
 
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> ha de ser un valor numèric < br / >"
 
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr ""
 "<strong>%s</strong> ha de ser una data vàlida (p. ex. dd/mm/aaaa) < br / >"
 
+msgctxt "<strong>%s</strong> must be a valid date<br />"
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong> ha de ser una data vàlida < br / >"
 
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> ha de ser una adreça electrònica vàlida < br / >"
 
+msgctxt "<strong>%s</strong> must be filled<br />"
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> són obligatoris < br / >"

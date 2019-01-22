@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: French (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French <http://yvain.xtraball.com/projects/siberian/form/fr/>"
@@ -14,47 +14,63 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add a field"
 msgid "Add a field"
 msgstr "Ajouter un champ"
 
+msgctxt "Add a section"
 msgid "Add a section"
 msgstr "Ajouter une section"
 
+msgctxt "Add an option"
 msgid "Add an option"
 msgstr "Ajouter une option"
 
+msgctxt "An error occurred while saving. A field can't be identified."
 msgid "An error occurred while saving. A field can't be identified."
 msgstr ""
 "Une erreur est survenue lors de la sauvegarde. Un champ n'a pas pu être "
 "identifié."
 
+msgctxt "Are you sure you want to remove this field?"
 msgid "Are you sure you want to remove this field?"
 msgstr "Etes-vous sûr de vouloir supprimer ce champ ?"
 
+msgctxt "Are you sure you want to remove this section?"
 msgid "Are you sure you want to remove this section?"
 msgstr "Etes-vous sûr de vouloir supprimer cette section ?"
 
+msgctxt "Checkbox"
 msgid "Checkbox"
 msgstr "Checkbox"
 
+msgctxt "Choose a field type:"
 msgid "Choose a field type:"
 msgstr "Choisissez un type de champ :"
 
+msgctxt "Create a new field"
 msgid "Create a new field"
 msgstr "Créer un nouveau champ"
 
+msgctxt "Date/Hour"
 msgid "Date/Hour"
 msgstr "Date/Heure"
 
+msgctxt "Drop down"
 msgid "Drop down"
 msgstr "Liste déroulante"
 
+msgctxt "Edit field %s"
 msgid "Edit field %s"
 msgstr "Editer le champ %s"
 
+msgctxt "Field name"
 msgid "Field name"
 msgstr "Nom du champ"
 
+msgctxt ""
+"Form data will be sent to this email. Until you fill out this field, your "
+"form won't be displayed on client side."
 msgid ""
 "Form data will be sent to this email. Until you fill out this field, your "
 "form won't be displayed on client side."
@@ -63,71 +79,94 @@ msgstr ""
 "remplissiez ce champ, votre formulaire ne sera pas affiché sur le côté "
 "client."
 
+msgctxt "Geolocation"
 msgid "Geolocation"
 msgstr "Géolocalisation"
 
+msgctxt "Hello,"
 msgid "Hello,"
 msgstr "Bonjour,"
 
+msgctxt "Import a picture"
 msgid "Import a picture"
 msgstr "Importer une photo"
 
+msgctxt "Import from Library"
 msgid "Import from Library"
 msgstr "Importer depuis la bibliothèque"
 
+msgctxt "Manage fields"
 msgid "Manage fields"
 msgstr "Gérer les champs"
 
+msgctxt "Manage options:"
 msgid "Manage options:"
 msgstr "Gérer les options :"
 
+msgctxt "Multiline text"
 msgid "Multiline text"
 msgstr "Texte multi-ligne"
 
+msgctxt "Option"
 msgid "Option"
 msgstr "Option"
 
+msgctxt "Radio"
 msgid "Radio"
 msgstr "Radio"
 
+msgctxt "Recipient email"
 msgid "Recipient email"
 msgstr "E-mail du destinataire"
 
+msgctxt "Take a picture"
 msgid "Take a picture"
 msgstr "Prendre une photo"
 
+msgctxt "The form has been sent successfully"
 msgid "The form has been sent successfully"
 msgstr "Le formulaire a été envoyé avec succès"
 
+msgctxt "You have to choose a field type."
 msgid "You have to choose a field type."
 msgstr "Vous devez choisir un type de champ."
 
+msgctxt "Your app's form"
 msgid "Your app's form"
 msgstr "Formulaire de votre application"
 
+msgctxt "Your form has been filled out, here are the answers:"
 msgid "Your form has been filled out, here are the answers:"
 msgstr "Votre formulaire a été rempli, voici les réponses :"
 
+msgctxt "<strong>%s</strong> is not a numerical value<br />"
 msgid "<strong>%s</strong> is not a numerical value<br />"
 msgstr "<strong>%s</strong> doit être une valeur numérique<br />"
 
+msgctxt "<strong>%s</strong> is not valid email address<br />"
 msgid "<strong>%s</strong> is not valid email address<br />"
 msgstr "<strong>%s</strong> doit être une adresse email valide<br />"
 
+msgctxt "<strong>%s</strong> is required<br />"
 msgid "<strong>%s</strong> is required<br />"
 msgstr "<strong>%s</strong> doit être rempli<br />"
 
+msgctxt "<strong>%s</strong> must be a numerical value<br />"
 msgid "<strong>%s</strong> must be a numerical value<br />"
 msgstr "<strong>%s</strong> doit être une valeur numerique<br />"
 
+msgctxt "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgid "<strong>%s</strong> must be a valid date (e.g. dd/mm/yyyy)<br />"
 msgstr "<strong>%s</strong> doit être une date valide (e.g. dd/mm/yyyy)<br />"
 
+msgctxt "<strong>%s</strong> must be a valid date<br />"
 msgid "<strong>%s</strong> must be a valid date<br />"
 msgstr "<strong>%s</strong> doit être une date<br />"
 
+msgctxt "<strong>%s</strong> must be a valid email address<br />"
 msgid "<strong>%s</strong> must be a valid email address<br />"
 msgstr "<strong>%s</strong> doit être une adresse email valide<br />"
 
+msgctxt "<strong>%s</strong> must be filled<br />"
 msgid "<strong>%s</strong> must be filled<br />"
 msgstr "<strong>%s</strong> doit être renseigné<br />"

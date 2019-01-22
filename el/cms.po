@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/cms/el/>\n"
@@ -13,147 +13,196 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add "
 msgid "Add "
 msgstr "Προσθήκη"
 
+msgctxt "Add attachement"
 msgid "Add attachement"
 msgstr ""
 
+msgctxt "Add cover"
 msgid "Add cover"
 msgstr ""
 
+msgctxt "Add sections:"
 msgid "Add sections:"
 msgstr "Προσθήκη τμημάτων:"
 
+msgctxt "Add to address book"
 msgid "Add to address book"
 msgstr ""
 
+msgctxt "Address:"
 msgid "Address:"
 msgstr "Διεύθυνση:"
 
+msgctxt "Alignment:"
 msgid "Alignment:"
 msgstr "Ευθυγράμμιση:"
 
+msgctxt "An error occured."
 msgid "An error occured."
 msgstr ""
 
+msgctxt "An error occurred while saving your page."
 msgid "An error occurred while saving your page."
 msgstr "Υπήρξε σφάλμα κατά την αποθήκευση της σελίδας σας."
 
+msgctxt "Are you sure you want to delete this page?"
 msgid "Are you sure you want to delete this page?"
 msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την σελίδα?"
 
+msgctxt "At least one section is required to save."
 msgid "At least one section is required to save."
 msgstr "Τουλάχιστον μία επιλογή είναι υποχρεωτική:"
 
+msgctxt "Attachement"
 msgid "Attachement"
 msgstr ""
 
+msgctxt "Attachment:"
 msgid "Attachment:"
 msgstr ""
 
+msgctxt "Custom icon"
 msgid "Custom icon"
 msgstr ""
 
+msgctxt "Custom page"
 msgid "Custom page"
 msgstr "Προσαρμοσμένη σελίδα"
 
+msgctxt "Description"
 msgid "Description"
 msgstr "Περιγραφή"
 
+msgctxt "Display address"
 msgid "Display address"
 msgstr "Προβολή διεύθυνσης"
 
+msgctxt "Display image in page"
 msgid "Display image in page"
 msgstr ""
 
+msgctxt "Display location button"
 msgid "Display location button"
 msgstr "Προβολή κουμπιού τοποθεσίας"
 
+msgctxt "Display title and subtitle in page"
 msgid "Display title and subtitle in page"
 msgstr ""
 
+msgctxt "Email:"
 msgid "Email:"
 msgstr "E-mail"
 
+msgctxt "Hide navbar"
 msgid "Hide navbar"
 msgstr ""
 
+msgctxt "Label"
 msgid "Label"
 msgstr "Ετικέτα"
 
+msgctxt "Large"
 msgid "Large"
 msgstr "Μεγάλο"
 
+msgctxt "Latitude:"
 msgid "Latitude:"
 msgstr ""
 
+msgctxt "Link:"
 msgid "Link:"
 msgstr "Σύνδεσμοι"
 
+msgctxt "Loading picture:"
 msgid "Loading picture:"
 msgstr "Φόρτωση εικόνας:"
 
+msgctxt "Longitude:"
 msgid "Longitude:"
 msgstr ""
 
+msgctxt "Make a search or enter the Youtube Url:"
 msgid "Make a search or enter the Youtube Url:"
 msgstr "Κάντε αναζήτηση ή εισάγετε το YouTube link:"
 
+msgctxt "Medium"
 msgid "Medium"
 msgstr "Μέτριο"
 
+msgctxt "My Youtube video:"
 msgid "My Youtube video:"
 msgstr "Τα YouTube video μου:"
 
+msgctxt "My video"
 msgid "My video"
 msgstr "Τα video μου"
 
+msgctxt "No videos matching your selection"
 msgid "No videos matching your selection"
 msgstr "Δεν υπάρχουν video που να ταιριάζουν στην επιλογή σας"
 
+msgctxt "Page successfully deleted"
 msgid "Page successfully deleted"
 msgstr "Η σελίδα διεγράφη επιτυχώς"
 
+msgctxt "Page successfully saved"
 msgid "Page successfully saved"
 msgstr "Η σελίδα αποθηκεύτηκε επιτυχώς"
 
+msgctxt "Phone:"
 msgid "Phone:"
 msgstr "Τηλέφωνο"
 
+msgctxt "Podcast URL:"
 msgid "Podcast URL:"
 msgstr "URL του Podcast σας:"
 
+msgctxt "Select a button type:"
 msgid "Select a button type:"
 msgstr "Επιλέξτε έναν τύπο κουμπιού:"
 
+msgctxt "Select a video type:"
 msgid "Select a video type:"
 msgstr "Επιλέξτε έναν τύπο video:"
 
+msgctxt "Size"
 msgid "Size"
 msgstr "Μέγεθος:"
 
+msgctxt "Slider"
 msgid "Slider"
 msgstr ""
 
+msgctxt "Small"
 msgid "Small"
 msgstr "Μικρό"
 
+msgctxt "Text"
 msgid "Text"
 msgstr "Κείμενο"
 
+msgctxt ""
+"The block N°%s, %s was not saved, the block was either empty or invalid."
 msgid ""
 "The block N°%s, %s was not saved, the block was either empty or invalid."
 msgstr ""
 
+msgctxt "Use external app"
 msgid "Use external app"
 msgstr ""
 
+msgctxt "Video URL:"
 msgid "Video URL:"
 msgstr "Σύνδεσμος video:"
 
+msgctxt "Your Podcast:"
 msgid "Your Podcast:"
 msgstr "Το Podcast σας:"
 
+msgctxt ".mp4 or .3gp format"
 msgid ".mp4 or .3gp format"
 msgstr "τύπος αρχείου .mp4 ή .3gp"

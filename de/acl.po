@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: German (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
-"PO-Revision-Date: 2019-01-15 17:09+0000\n"
-"Last-Translator: Weblate Admin <anders@xtraball.com>\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German <http://yvain.xtraball.com/projects/siberian/acl/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -13,54 +13,70 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Actions"
 msgid "Actions"
 msgstr "Aktionen"
 
+msgctxt "An error occurred while deleting your role. Please, try again later."
 msgid "An error occurred while deleting your role. Please, try again later."
 msgstr ""
 "Ein Fehler beim löschen der Rollen ist aufgetreten. Bitte später noch einmal "
 "versuchen."
 
+msgctxt "Code"
 msgid "Code"
 msgstr "Code"
 
+msgctxt "Create a new role"
 msgid "Create a new role"
 msgstr "Neue Rolle erstellen"
 
+msgctxt "Delete"
 msgid "Delete"
 msgstr "Löschen"
 
+msgctxt "Edit"
 msgid "Edit"
 msgstr "Bearbeiten"
 
+msgctxt "Edit %s role"
 msgid "Edit %s role"
 msgstr "Rolle %s bearbeiten"
 
+msgctxt "Id"
 msgid "Id"
 msgstr "ID"
 
+msgctxt "Label"
 msgid "Label"
 msgstr "Label"
 
+msgctxt "List of your roles"
 msgid "List of your roles"
 msgstr "Liste Ihrer Rollen"
 
+msgctxt "Role"
 msgid "Role"
 msgstr "Rolle"
 
+msgctxt "Search"
 msgid "Search"
 msgstr "Suchen"
 
+msgctxt "This role will be the default one for the whole platform."
 msgid "This role will be the default one for the whole platform."
 msgstr ""
 "Diese Rolle ist Standart eingestellt, Sie wird in der gesamten Plattform "
 "gelöscht"
 
+msgctxt "You don't have any role yet"
 msgid "You don't have any role yet"
 msgstr "Sie haben noch keine Rollen verteilt"
 
+msgctxt "Your role has been successfully deleted"
 msgid "Your role has been successfully deleted"
 msgstr "Ihre Rolle wurde erfolgreich gelöscht"
 
+msgctxt "Your role has been successfully saved"
 msgid "Your role has been successfully saved"
 msgstr "Ihre Rolle wurde erfolgreich gespeichert"

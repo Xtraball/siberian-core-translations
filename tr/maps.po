@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Turkish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:24+0000\n"
+"POT-Creation-Date: 2019-01-22 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish <http://yvain.xtraball.com/projects/siberian/maps/tr/>"
@@ -14,38 +14,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "About"
 msgid "About"
 msgstr "Hakkında"
 
+msgctxt "Address is mandatory."
 msgid "Address is mandatory."
 msgstr "Adres zorunludur."
 
+msgctxt "Destination address"
 msgid "Destination address"
 msgstr "Varış Adresi"
 
+msgctxt "From:"
 msgid "From:"
 msgstr ""
 
+msgctxt "Hide itinerary steps"
 msgid "Hide itinerary steps"
 msgstr "Güzergah adımları gizle"
 
+msgctxt "Maps configuration"
 msgid "Maps configuration"
 msgstr "Harita Ayarı"
 
+msgctxt "Maps navigation"
 msgid "Maps navigation"
 msgstr "Harita navigasyonu"
 
+msgctxt "More Information"
 msgid "More Information"
 msgstr "Daha fazla bilgi"
 
+msgctxt "See itinerary steps"
 msgid "See itinerary steps"
 msgstr "Güzergah adımları göster"
 
+msgctxt "Sorry, the route cannot be calculated."
 msgid "Sorry, the route cannot be calculated."
 msgstr "Maalesef , güzergah hesap edilemiyor"
 
+msgctxt "To:"
 msgid "To:"
 msgstr ""
 
+msgctxt "Unit distance"
 msgid "Unit distance"
 msgstr "Birim mesafesi"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/preview/"
@@ -14,75 +14,99 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Add"
 msgid "Add"
 msgstr "Agregar"
 
+msgctxt "An error occurred during the process. Please try again later."
 msgid "An error occurred during the process. Please try again later."
 msgstr ""
 "Se produjo un error durante el proceso. Por favor, inténtelo de nuevo más "
 "tarde."
 
+msgctxt "An error occurred while deleting your preview. Please try again later."
 msgid "An error occurred while deleting your preview. Please try again later."
 msgstr ""
 "Un error ha ocurrido mientras se borraba tu previa. Por favor prueba más "
 "tarde."
 
+msgctxt "An error occurred while saving your previews. Please try again later."
 msgid "An error occurred while saving your previews. Please try again later."
 msgstr ""
 "Un error ha ocurrido mientras guardabas tu previa. Por favor prueba más "
 "tarde."
 
+msgctxt "Click here to send your image"
 msgid "Click here to send your image"
 msgstr "Click aquí para enviar tu imagen."
 
+msgctxt "Create a new preview"
 msgid "Create a new preview"
 msgstr "Crear una nueva previa"
 
+msgctxt "Delete image"
 msgid "Delete image"
 msgstr "Borrar imagen"
 
+msgctxt "Delete translation"
 msgid "Delete translation"
 msgstr "Borrar traducción"
 
+msgctxt "Description"
 msgid "Description"
 msgstr "Descripción"
 
+msgctxt "Drag and drop images to reorder them."
 msgid "Drag and drop images to reorder them."
 msgstr "Arrastra las imagenes para ordenarlas."
 
+msgctxt "Drop your image here"
 msgid "Drop your image here"
 msgstr "Arrastra tu imagen aquí"
 
+msgctxt "Edit the preview"
 msgid "Edit the preview"
 msgstr "Editar la previa"
 
+msgctxt "Existing images :"
 msgid "Existing images :"
 msgstr "Imagenes existentes:"
 
+msgctxt "Feature"
 msgid "Feature"
 msgstr "Caracteristica"
 
+msgctxt "Language"
 msgid "Language"
 msgstr "Idioma"
 
+msgctxt "List of existing previews"
 msgid "List of existing previews"
 msgstr "Lista de previas existentes"
 
+msgctxt "OR"
 msgid "OR"
 msgstr ""
 
+msgctxt "Preview images"
 msgid "Preview images"
 msgstr "Imagenes de vista previa"
 
+msgctxt "Preview successfully saved"
 msgid "Preview successfully saved"
 msgstr "Vista previa guardada correctamente"
 
+msgctxt "Previews"
 msgid "Previews"
 msgstr "Previas"
 
+msgctxt "Search"
 msgid "Search"
 msgstr "Buscar"
 
+msgctxt ""
+"Sorry, but an existing preview for this feature has been found. Please edit "
+"existing one."
 msgid ""
 "Sorry, but an existing preview for this feature has been found. Please edit "
 "existing one."
@@ -90,32 +114,42 @@ msgstr ""
 "Lo sentimos, pero ya hay una vista previa para esta caracteristica. Por "
 "favor edita la existente."
 
+msgctxt "Title"
 msgid "Title"
 msgstr "Título"
 
+msgctxt "Unable to copy the file."
 msgid "Unable to copy the file."
 msgstr "No se puede copiar el archivo."
 
+msgctxt "Unable to create the directory."
 msgid "Unable to create the directory."
 msgstr "No se puede crear el directorio."
 
+msgctxt "Unable to delete the file."
 msgid "Unable to delete the file."
 msgstr "No se puede borrar el archivo."
 
+msgctxt "Unable to delete the file %s"
 msgid "Unable to delete the file %s"
 msgstr "No se puede borrar el archivo %s"
 
+msgctxt "You don't have any previews yet"
 msgid "You don't have any previews yet"
 msgstr "No tienes vistas previas aún"
 
+msgctxt "Your image has been successfully saved"
 msgid "Your image has been successfully saved"
 msgstr "Tu imagen ha sido guardada correctamente"
 
+msgctxt "Your preview has been deleted successfully."
 msgid "Your preview has been deleted successfully."
 msgstr "Tu vista previa ha sido borrada correctamente."
 
+msgctxt "Your preview translation has been deleted successfully."
 msgid "Your preview translation has been deleted successfully."
 msgstr "Tu vista previa de traducción ha sido borrada correctamente."
 
+msgctxt "<b>File types:</b> %s<br />"
 msgid "<b>File types:</b> %s<br />"
 msgstr "<b>Tipos de fichero:</b> %s<br />"

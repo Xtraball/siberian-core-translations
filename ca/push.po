@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catalan (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:20+0000\n"
+"POT-Creation-Date: 2019-01-22 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan <http://yvain.xtraball.com/projects/siberian/push/ca/>"
@@ -14,130 +14,173 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Additionnal Information"
 msgid "Additionnal Information"
 msgstr "Supletori informació"
 
+msgctxt "An error occurred while deleting the push. Please try again later."
 msgid "An error occurred while deleting the push. Please try again later."
 msgstr ""
 "S'ha produït un error en suprimir aquesta resposta. Intenta-ho de nou més "
 "tard."
 
+msgctxt "And a radius (in Km):"
 msgid "And a radius (in Km):"
 msgstr "I un radi (en Km):"
 
+msgctxt "Android"
 msgid "Android"
 msgstr "Android"
 
+msgctxt "Creation date"
 msgid "Creation date"
 msgstr "Data de creació"
 
+msgctxt "Custom URL"
 msgid "Custom URL"
 msgstr ""
 
+msgctxt "Enter a location:"
 msgid "Enter a location:"
 msgstr "Introduïu una ubicació:"
 
+msgctxt "GCM Key"
 msgid "GCM Key"
 msgstr "GCM clau"
 
+msgctxt "I want to send it"
 msgid "I want to send it"
 msgstr "Vull enviar-lo"
 
+msgctxt "Keys successfully saved"
 msgid "Keys successfully saved"
 msgstr "Claus salvats correctament"
 
+msgctxt "Message"
 msgid "Message"
 msgstr "Missatge"
 
+msgctxt "No device found for this user"
 msgid "No device found for this user"
 msgstr ""
 
+msgctxt "No items."
 msgid "No items."
 msgstr ""
 
+msgctxt "Open a feature or a custom URL"
 msgid "Open a feature or a custom URL"
 msgstr ""
 
+msgctxt "Pending"
 msgid "Pending"
 msgstr "Pendent"
 
+msgctxt "Please enter an expiration date for your message:"
 msgid "Please enter an expiration date for your message:"
 msgstr ""
 
+msgctxt "Project Number"
 msgid "Project Number"
 msgstr ""
 
+msgctxt "Push Notifications"
 msgid "Push Notifications"
 msgstr "Notificacions d'empenta"
 
+msgctxt "Push Notifications Settings"
 msgid "Push Notifications Settings"
 msgstr "Configuració de notificacions d'empenta"
 
+msgctxt "Push successfully deleted."
 msgid "Push successfully deleted."
 msgstr "Usuari eliminat correctament"
 
+msgctxt "Radius"
 msgid "Radius"
 msgstr "Radi"
 
+msgctxt "Send to a specific location"
 msgid "Send to a specific location"
 msgstr "Enviar a una ubicació específica"
 
+msgctxt "Send to all applications"
 msgid "Send to all applications"
 msgstr ""
 
+msgctxt "Send to all my users"
 msgid "Send to all my users"
 msgstr "Enviar a tots els meus usuaris"
 
+msgctxt "Send to no specific locations"
 msgid "Send to no specific locations"
 msgstr "Enviar a una ubicació específica"
 
+msgctxt "Send to specific topics"
 msgid "Send to specific topics"
 msgstr "Enviar a una ubicació específica"
 
+msgctxt "Send to specific users"
 msgid "Send to specific users"
 msgstr ""
 
+msgctxt "Sending date"
 msgid "Sending date"
 msgstr "Data d'enviament"
 
+msgctxt "The duration limit must be higher than the sent date"
 msgid "The duration limit must be higher than the sent date"
 msgstr "El límit de durada ha de ser superior a la data d'enviat"
 
+msgctxt "Topics"
 msgid "Topics"
 msgstr ""
 
+msgctxt "Users"
 msgid "Users"
 msgstr "Usuaris"
 
+msgctxt "You must choose a topic before sending your message."
 msgid "You must choose a topic before sending your message."
 msgstr ""
 
+msgctxt "You must choose at least one user before sending your message."
 msgid "You must choose at least one user before sending your message."
 msgstr ""
 
+msgctxt "Your app must be published to send a push notification."
 msgid "Your app must be published to send a push notification."
 msgstr "Cal publicar el seu app per enviar una notificació d'empenta."
 
+msgctxt "Your message has been saved successfully."
 msgid "Your message has been saved successfully."
 msgstr "Targeta fidelitat s'ha desat correctament"
 
+msgctxt ""
+"Your message has been saved successfully and will be sent at the entered date"
 msgid ""
 "Your message has been saved successfully and will be sent at the entered date"
 msgstr ""
 "El seu missatge s'ha desat correctament i s'enviarà a la data introduïda"
 
+msgctxt ""
+"Your message has been saved successfully and will be sent in a few minutes"
 msgid ""
 "Your message has been saved successfully and will be sent in a few minutes"
 msgstr "El seu missatge s'ha desat correctament i s'enviarà en pocs minuts"
 
+msgctxt "and users entering the area"
 msgid "and users entering the area"
 msgstr "i entrar a la zona d'usuaris"
 
+msgctxt "for a limited period"
 msgid "for a limited period"
 msgstr "durant un període limitat"
 
+msgctxt "now"
 msgid "now"
 msgstr "ara"
 
+msgctxt "on a specific date"
 msgid "on a specific date"
 msgstr "en una data concreta"

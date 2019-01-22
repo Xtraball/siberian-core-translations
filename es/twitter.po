@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Spanish (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:22+0000\n"
+"POT-Creation-Date: 2019-01-22 10:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish <http://yvain.xtraball.com/projects/siberian/twitter/"
@@ -14,50 +14,66 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "An error occurred while saving."
 msgid "An error occurred while saving."
 msgstr "Ocurrió un error al guardar."
 
+msgctxt "An error occurred while saving. Please try again later."
 msgid "An error occurred while saving. Please try again later."
 msgstr "Error mientras se guardaba. Por favor prueba más tarde."
 
+msgctxt "Could not authenticate you."
 msgid "Could not authenticate you."
 msgstr "No se pudo autenticar."
 
+msgctxt "Enter your twitter handle/url"
 msgid "Enter your twitter handle/url"
 msgstr "Introduce tu url de Twitter"
 
+msgctxt "Handle"
 msgid "Handle"
 msgstr "Manejar"
 
+msgctxt "Info successfully saved"
 msgid "Info successfully saved"
 msgstr "Info guardada correctamente"
 
+msgctxt "Sorry, that page does not exist."
 msgid "Sorry, that page does not exist."
 msgstr "Lo sentimos, la página no existe."
 
+msgctxt "Twitter API secret"
 msgid "Twitter API secret"
 msgstr "API de Twitter secreta"
 
+msgctxt "Twitter API settings"
 msgid "Twitter API settings"
 msgstr "Configuración API Twitter"
 
+msgctxt "Twitter API token"
 msgid "Twitter API token"
 msgstr "Twitter API token"
 
+msgctxt "Twitter consumer key"
 msgid "Twitter consumer key"
 msgstr "Twitter key consumer"
 
+msgctxt "Twitter consumer secret"
 msgid "Twitter consumer secret"
 msgstr "Twitter secret consumer"
 
+msgctxt "Verify"
 msgid "Verify"
 msgstr "Verificar"
 
+msgctxt "followers"
 msgid "followers"
 msgstr "seguidores"
 
+msgctxt "following"
 msgid "following"
 msgstr "siguiendo"
 
+msgctxt "was verified with success"
 msgid "was verified with success"
 msgstr "fue verificado con éxito"

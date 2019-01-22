@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:21+0000\n"
+"POT-Creation-Date: 2019-01-22 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek <http://yvain.xtraball.com/projects/siberian/installer/"
@@ -14,69 +14,93 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "Action"
 msgid "Action"
 msgstr "Ενέργειες"
 
+msgctxt "Actions"
 msgid "Actions"
 msgstr "Ενέργειες"
 
+msgctxt "All of your modules are up to date"
 msgid "All of your modules are up to date"
 msgstr "Όλα τα πρόσθετά σας είναι ενημερωμένα"
 
+msgctxt "An update is available. Click here to download it."
 msgid "An update is available. Click here to download it."
 msgstr ""
 
+msgctxt "Check for updates"
 msgid "Check for updates"
 msgstr ""
 
+msgctxt "Click here to see the release notes"
 msgid "Click here to see the release notes"
 msgstr ""
 
+msgctxt "Click here to send your module"
 msgid "Click here to send your module"
 msgstr "Κάντε κλικ εδώ για να ανεβάσετε το πρόσθετό σας"
 
+msgctxt "Details"
 msgid "Details"
 msgstr "Λεπτομέρειες"
 
+msgctxt "Drop your module here"
 msgid "Drop your module here"
 msgstr "Αφήστε το πρόσθετο εδώ"
 
+msgctxt "Host"
 msgid "Host"
 msgstr "Host"
 
+msgctxt "Install"
 msgid "Install"
 msgstr ""
 
+msgctxt "Installing"
 msgid "Installing"
 msgstr "Γίνεται εγκατάσταση"
 
+msgctxt "Installing your module"
 msgid "Installing your module"
 msgstr "Γίνεται εγκατάσταση του προσθέτου σας"
 
+msgctxt "Module successfully installed"
 msgid "Module successfully installed"
 msgstr "Το πρόσθετο εγκαταστάθηκε επιτυχώς"
 
+msgctxt "Module to upload"
 msgid "Module to upload"
 msgstr "Πρόσθετο προς ανέβασμα"
 
+msgctxt "Modules Installation"
 msgid "Modules Installation"
 msgstr "Εγκατάσταση Προσθέτων"
 
+msgctxt "Modules successfully installed!"
 msgid "Modules successfully installed!"
 msgstr "Το πρόσθετα εγκαταστάθηκαν επιτυχώς!"
 
+msgctxt "Name"
 msgid "Name"
 msgstr "Όνομα"
 
+msgctxt "No directory provided"
 msgid "No directory provided"
 msgstr "Δεν έχει δηλωθεί φάκελος"
 
+msgctxt "No module to install"
 msgid "No module to install"
 msgstr "Δεν υπάρχει πρόσθετο προς εγκατάσταση"
 
+msgctxt "No modules uploaded yet"
 msgid "No modules uploaded yet"
 msgstr "Δεν έχουν ανεβεί πρόσθετα ακόμα"
 
+msgctxt ""
+"Or set the correct permissions to the following files and folders and try "
+"again:"
 msgid ""
 "Or set the correct permissions to the following files and folders and try "
 "again:"
@@ -84,54 +108,73 @@ msgstr ""
 "ή να ορίσετε τα σωστά δικαιώματα στα ακόλουθα αρχεία και φακέλους και "
 "δοκιμάσετε ξανά:"
 
+msgctxt "Package"
 msgid "Package"
 msgstr ""
 
+msgctxt "Package Details"
 msgid "Package Details"
 msgstr "Πληροφορίες Πακέτου Εγκατάστασης"
 
+msgctxt "Path to your system"
 msgid "Path to your system"
 msgstr "Διαδρομή του συστήματός σας"
 
+msgctxt "Please, enter a name"
 msgid "Please, enter a name"
 msgstr "Παρακαλούμε συμπληρώστε ένα Όνομα"
 
+msgctxt "Please, fill out all fields"
 msgid "Please, fill out all fields"
 msgstr "Παρακαλούμε συμπληρώστε όλα τα πεδία"
 
+msgctxt ""
+"Please update the module to the %s version before installing this update."
 msgid ""
 "Please update the module to the %s version before installing this update."
 msgstr ""
 "Παρακαλούμε ενημερώστε το πρόσθετο στην έκδοση %s πριν εγκαταστήσετε αυτή "
 "την ενημέρωση."
 
+msgctxt ""
+"Please update your system to the %s version before installing this update."
 msgid ""
 "Please update your system to the %s version before installing this update."
 msgstr ""
 "Παρακαλούμε ενημερώστε το σύστημά σας στην έκδοση %s πριν εγκαταστήσετε αυτή "
 "την ενημέρωση."
 
+msgctxt "Please wait, we're installing your module"
 msgid "Please wait, we're installing your module"
 msgstr "Παρακαλούμε περιμένετε, γίνεται εγκατάσταση του προσθέτου σας"
 
+msgctxt "Port"
 msgid "Port"
 msgstr "Θύρα"
 
+msgctxt "Processing the installation"
 msgid "Processing the installation"
 msgstr "Γίνεται επεξεργασία της εγκατάστασης"
 
+msgctxt "Progress"
 msgid "Progress"
 msgstr ""
 
+msgctxt "Retry"
 msgid "Retry"
 msgstr "Προσπαθήστε ξανά"
 
+msgctxt "Select a module to upload"
 msgid "Select a module to upload"
 msgstr "Επιλέξτε ένα πρόσθετο προς ανέβασμα"
 
+msgctxt "Size"
 msgid "Size"
 msgstr "Μέγεθος:"
 
+msgctxt ""
+"Some files and folder are not writable. You can either provide your FTP "
+"access to install this update:"
 msgid ""
 "Some files and folder are not writable. You can either provide your FTP "
 "access to install this update:"
@@ -139,104 +182,135 @@ msgstr ""
 "Κάποια αρχεία και φακέλοι δεν είναι εγγράψιμα. Μπορείτε εναλλακτικά να "
 "συμπληρώσετε τα FTP στοιχεία σας για να εγκαταστήσετε αυτή την ενημέρωση:"
 
+msgctxt "Some files don't have the right permissions and can't be updated"
 msgid "Some files don't have the right permissions and can't be updated"
 msgstr ""
 "Κάποια αρχεία δεν έχουν τα σωστά δικαιώματα και δεν γίνεται να ενημερωθούν"
 
+msgctxt "Status"
 msgid "Status"
 msgstr "Κατάσταση"
 
+msgctxt "The database connection failed. Please, check the entered information."
 msgid "The database connection failed. Please, check the entered information."
 msgstr ""
 "Η σύνδεση με την βάση απέτυχ. Παρακαλούμε, ελέγξτε τα στοιχεία σύνδεσης."
 
+msgctxt "The entered password confirmation does not match the entered password."
 msgid "The entered password confirmation does not match the entered password."
 msgstr "Ο Κωδικός επαλήθευσης δεν ταιριάζει με τον συμπληρωμένο Κωδικό."
 
+msgctxt "The file %s does not exist"
 msgid "The file %s does not exist"
 msgstr "Το αρχείο %s δεν υπάρχει"
 
+msgctxt "The file %s is not writable."
 msgid "The file %s is not writable."
 msgstr "Το αρχείο %s δεν είναι εγγράψιμο."
 
+msgctxt "The folder %s is not writable. Please fix this issue and try again."
 msgid "The folder %s is not writable. Please fix this issue and try again."
 msgstr ""
 "Ο φάκελος %s δεν είναι εγγράψιμος. Παρακαλούμε διορθώστε το πρόβλημα και "
 "δοκιμάστε ξανά."
 
+msgctxt "The following files and folders are not writable:"
 msgid "The following files and folders are not writable:"
 msgstr "Τα ακόλουθα αρχεία και φακέλοι δεν είναι εγγράψιμα:"
 
+msgctxt "The following files and folders are not writable: <br /> - %s"
 msgid "The following files and folders are not writable: <br /> - %s"
 msgstr "Τα ακόλουθα αρχεία και φακέλοι δεν είναι εγγράψιμα: <br /> - %s"
 
+msgctxt "The package you have uploaded is invalid."
 msgid "The package you have uploaded is invalid."
 msgstr "Το Πακέτο Εγκατάστασης που ανεβάσατε, είναι μη-έγκυρο."
 
+msgctxt "There is no CMS license key set."
 msgid "There is no CMS license key set."
 msgstr ""
 
+msgctxt "This process may take few minutes, please do not refresh the page"
 msgid "This process may take few minutes, please do not refresh the page"
 msgstr ""
 "Αυτή η διαδικασία μπορεί να διαρκέσει μερικά λεπτά, παρακαλούμε μην "
 "ανανεώσετε την σελίδα"
 
+msgctxt "This update is designed for the %s, you can't install it in your %s."
 msgid "This update is designed for the %s, you can't install it in your %s."
 msgstr ""
 "Αυτή η ενημέρωση είναι σχεδιασμένη για το %s, δεν μπορείτε να την "
 "εγκαταστήσετε στο %s."
 
+msgctxt "Unable to check for updates now. Please, try again later."
 msgid "Unable to check for updates now. Please, try again later."
 msgstr ""
 
+msgctxt "Unable to connect to your FTP. Please check the connection information."
 msgid "Unable to connect to your FTP. Please check the connection information."
 msgstr ""
 "Δεν ήταν δυνατή η σύνδεση με FTP. Παρακαλούμε ελέγξτε τα στοιχεία σύνδεσης."
 
+msgctxt ""
+"Unable to detect your site. Please make sure the entered path is correct."
 msgid ""
 "Unable to detect your site. Please make sure the entered path is correct."
 msgstr ""
 "Δεν ήταν δυνατός ο εντοπισμός της ιστοσελίδας σας. Ελέγξτε αν η διαδρομή που "
 "ορίσατε είναι η σωστή."
 
+msgctxt "Unable to extract the archive."
 msgid "Unable to extract the archive."
 msgstr "Δεν ήταν εφικτή η αποσυμπίεση του αρχείου."
 
+msgctxt "Unable to fetch the update. Please, try again later."
 msgid "Unable to fetch the update. Please, try again later."
 msgstr ""
 
+msgctxt "Unable to open the archive."
 msgid "Unable to open the archive."
 msgstr "Δεν ήταν εφικτό το άνοιγμα του συμπιεσμένου αρχείου."
 
+msgctxt ""
+"Unable to open the file. Please, make sure that you sent a valid archive."
 msgid ""
 "Unable to open the file. Please, make sure that you sent a valid archive."
 msgstr ""
 "Δεν ήταν εφικτό το άνοιγμα του αρχείου. Παρακαλούμε, ελέγξτε ότι ανεβάσατε "
 "ένα έγκυρο συμπιεσμένο αρχείο."
 
+msgctxt "Upload a module"
 msgid "Upload a module"
 msgstr "Ανεβάστε ένα πρόσθετο"
 
+msgctxt "Upload your modules"
 msgid "Upload your modules"
 msgstr "Ανεβάστε τα πρόσθετά σας"
 
+msgctxt "Username"
 msgid "Username"
 msgstr "Χρήστης"
 
+msgctxt "Version"
 msgid "Version"
 msgstr "Έκδοση"
 
+msgctxt "We are checking for updates. Please, do not refresh the page."
 msgid "We are checking for updates. Please, do not refresh the page."
 msgstr ""
 
+msgctxt "You already have installed this template."
 msgid "You already have installed this template."
 msgstr "Έχετε ήδη εγκαταστήσει αυτή την ενημέρωση."
 
+msgctxt "You already have installed this update."
 msgid "You already have installed this update."
 msgstr "Έχετε ήδη εγκαταστήσει αυτή την ενημέρωση."
 
+msgctxt "Your system is up to date."
 msgid "Your system is up to date."
 msgstr ""
 
+msgctxt "%s Update"
 msgid "%s Update"
 msgstr "%s Ενημέρωση"

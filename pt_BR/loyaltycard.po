@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portuguese (Brazil) (Siberian)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:23+0000\n"
+"POT-Creation-Date: 2019-01-22 10:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese (Brazil) <http://yvain.xtraball.com/projects/"
@@ -14,121 +14,162 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
 
+msgctxt "1 loyalty point ="
 msgid "1 loyalty point ="
 msgstr "1 ponto de fidelidade="
 
+msgctxt "1 point"
 msgid "1 point"
 msgstr "1 ponto"
 
+msgctxt "1 validated point ="
 msgid "1 validated point ="
 msgstr ""
 
+msgctxt "An error occurred while retrieving QRCode. Please try again later"
 msgid "An error occurred while retrieving QRCode. Please try again later"
 msgstr "Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde"
 
+msgctxt "An error occurred while saving the password. Please try again later"
 msgid "An error occurred while saving the password. Please try again later"
 msgstr ""
 "Ocorreu um erro ao salvar a senha. Por favor, tente novamente mais tarde"
 
+msgctxt "An error occurred while saving your loyalty card."
 msgid "An error occurred while saving your loyalty card."
 msgstr "Ocorreu um erro ao salvar o seu cartão de fidelidade."
 
+msgctxt ""
+"An error occurred while saving your loyalty card. Please fill all fields in."
 msgid ""
 "An error occurred while saving your loyalty card. Please fill all fields in."
 msgstr ""
 "Ocorreu um erro ao salvar o seu cartão de fidelidade. Por favor, preencha "
 "todos os campos."
 
+msgctxt "An error occurred while validating point. Please try again later."
 msgid "An error occurred while validating point. Please try again later."
 msgstr ""
 "Ocorreu um erro ao validar o ponto. Por favor, tente novamente mais tarde."
 
+msgctxt "An error occurred with your QRCode."
 msgid "An error occurred with your QRCode."
 msgstr ""
 
+msgctxt "Card name"
 msgid "Card name"
 msgstr "Nome do cartão"
 
+msgctxt "Congratulations"
 msgid "Congratulations"
 msgstr "Parabéns"
 
+msgctxt "Current card"
 msgid "Current card"
 msgstr "Cartão atual"
 
+msgctxt "Delete this password?"
 msgid "Delete this password?"
 msgstr "Deletar esta senha?"
 
+msgctxt "Employee's name:"
 msgid "Employee's name:"
 msgstr "Nome do empregado:"
 
+msgctxt "Employee's password:"
 msgid "Employee's password:"
 msgstr "Senha empregado:"
 
+msgctxt "Enter password"
 msgid "Enter password"
 msgstr "Digite a senha"
 
+msgctxt "Enter the password"
 msgid "Enter the password"
 msgstr "Digite a senha"
 
+msgctxt "My new loyalty card"
 msgid "My new loyalty card"
 msgstr "Meu novo cartão de fidelidade"
 
+msgctxt "My passwords"
 msgid "My passwords"
 msgstr "Minhas senhas"
 
+msgctxt "No cards available"
 msgid "No cards available"
 msgstr ""
 
+msgctxt "Number of points"
 msgid "Number of points"
 msgstr "Número de pontos"
 
+msgctxt "Please enter a name"
 msgid "Please enter a name"
 msgstr "Por favor, indique um nome"
 
+msgctxt "Please enter the password"
 msgid "Please enter the password"
 msgstr "Digite a senha"
 
+msgctxt ""
+"Please show your phone to the store person so that he enters his password"
 msgid ""
 "Please show your phone to the store person so that he enters his password"
 msgstr ""
 "Por favor, peça ao funcionário da loja valide seu ponto através da senha."
 
+msgctxt "Point active"
 msgid "Point active"
 msgstr ""
 
+msgctxt "Point inactive"
 msgid "Point inactive"
 msgstr ""
 
+msgctxt "Point%s successfully validated"
 msgid "Point%s successfully validated"
 msgstr "Ponto%s validado com sucesso"
 
+msgctxt "Previous cards"
 msgid "Previous cards"
 msgstr "Cartões anteriores"
 
+msgctxt "Reward"
 msgid "Reward"
 msgstr "Recompensa"
 
+msgctxt "Rewards"
 msgid "Rewards"
 msgstr "Recompensa"
 
+msgctxt "Scan QRCode"
 msgid "Scan QRCode"
 msgstr ""
 
+msgctxt "This card is uniq:"
 msgid "This card is uniq:"
 msgstr ""
 
+msgctxt "Unlock by QRCode"
 msgid "Unlock by QRCode"
 msgstr ""
 
+msgctxt "Unreadable QRCode, sorry."
 msgid "Unreadable QRCode, sorry."
 msgstr ""
 
+msgctxt "Use only once?"
 msgid "Use only once?"
 msgstr "usar apenas uma vez"
 
+msgctxt "We are sorry but this card is temporarily blocked"
 msgid "We are sorry but this card is temporarily blocked"
 msgstr "Lamentamos, mas este cartão está bloqueado temporariamente"
 
+msgctxt ""
+"Wrong password. Be carefull! %d remaining attempt%s before locking your "
+"card. Ask the store person for validating your point"
 msgid ""
 "Wrong password. Be carefull! %d remaining attempt%s before locking your "
 "card. Ask the store person for validating your point"
@@ -136,6 +177,9 @@ msgstr ""
 "Senha errada. Tenha cuidado! %d tentativas sucessivas%s antes de bloquear o "
 "seu cartão. Peça que ao funcionário da loja para validar seu cartão."
 
+msgctxt ""
+"Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
+"your card.<br />Ask the store person for validating your point"
 msgid ""
 "Wrong password.<br />Be careful !<br />%d remaining attempt%s before locking "
 "your card.<br />Ask the store person for validating your point"
@@ -143,6 +187,9 @@ msgstr ""
 "Senha errada. Tenha cuidado! %d tentativas sucessivas%s antes de bloquear o "
 "seu cartão. Peça que ao funcionário da loja para validar seu cartão."
 
+msgctxt ""
+"You have exceeded the number of attempts to validate points. Your card is "
+"locked for 24h"
 msgid ""
 "You have exceeded the number of attempts to validate points. Your card is "
 "locked for 24h"
@@ -150,29 +197,38 @@ msgstr ""
 "Você excedeu o número de tentativas para validar pontos. Seu cartão está "
 "bloqueado por 24h"
 
+msgctxt "You just finished your card"
 msgid "You just finished your card"
 msgstr "Você acabou de validar todo o seu cartão"
 
+msgctxt "You must be logged in to validate points"
 msgid "You must be logged in to validate points"
 msgstr "Você precisa estar logado para validar pontos"
 
+msgctxt "Your loyalty card has been saved successfully"
 msgid "Your loyalty card has been saved successfully"
 msgstr "O seu cartão de fidelidade foi salvo com sucesso"
 
+msgctxt "Your password must be 4 digits"
 msgid "Your password must be 4 digits"
 msgstr "Sua senha deve ser de 4 dígitos"
 
+msgctxt "is now yours!"
 msgid "is now yours!"
 msgstr ""
 
+msgctxt "point"
 msgid "point"
 msgstr "ponto"
 
+msgctxt "point to validate"
 msgid "point to validate"
 msgstr "ponto para validar"
 
+msgctxt "points to validate"
 msgid "points to validate"
 msgstr "pontos para validar"
 
+msgctxt "validated points ="
 msgid "validated points ="
 msgstr ""
