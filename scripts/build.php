@@ -74,22 +74,22 @@ foreach ($locales as $folder => $human) {
     foreach ($files as $file) {
         if (!$file->isDot() && $file->getExtension() === "po") {
             // Clean-up msgctxt
-            //$newContent = [];
-            //foreach(file($file->getPathname()) as $line) {
-            //    if (preg_match("/^msgctxt /i", $line)) {
-            //        // Skip
-            //        $keep = false;
-            //    }
-            //    if (preg_match("/^msgid /i", $line)) {
-            //        // Skip
-            //        $keep = true;
-            //    }
-//
-            //    if ($keep) {
-            //        $newContent[] = $line;
-            //    }
-            //}
-            //file_put_contents($file->getPathname(), implode("", $newContent));
+            $newContent = [];
+            foreach(file($file->getPathname()) as $line) {
+                if (preg_match("/^msgctxt /i", $line)) {
+                    // Skip
+                    $keep = false;
+                }
+                if (preg_match("/^msgid /i", $line)) {
+                    // Skip
+                    $keep = true;
+                }
+
+                if ($keep) {
+                    $newContent[] = $line;
+                }
+            }
+            file_put_contents($file->getPathname(), implode("", $newContent));
 
             // Copy
             $moName = str_replace(".po", ".mo", $file->getPathname());

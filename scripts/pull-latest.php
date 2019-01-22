@@ -2,7 +2,7 @@
 
 // https://translate.siberiancms.com/download/siberian/default-group2/fr/
 
-$endpoint = "https://translate.siberiancms.com/download/siberian/#COMPONENT#/#LANG#/";
+$endpoint = "https://translate.siberiancms.com/download/siberian/#COMPONENT#/#LANG#/?format=po";
 
 chdir(__DIR__ . "/..");
 
