@@ -99,7 +99,7 @@ foreach ($locales as $folder => $human) {
             file_put_contents($file->getPathname(), implode("", $newContent));
 
             // Copy
-            exec("cp {$file->getPathname()} {$name}/resources/translations/{$file->getFilename()}");
+            exec("cp {$file->getPathname()} {$name}/resources/translations/{$folder}/{$file->getFilename()}");
         }
     }
 
