@@ -41,7 +41,7 @@ $emptyPackage = [
     "dependencies" => [
         "system" => [
             "type" => "SAE",
-            "version" => "4.15.11",
+            "version" => "4.17.0",
         ]
     ],
 ];
@@ -72,31 +72,35 @@ foreach ($locales as $folder => $human) {
     file_put_contents("./builds/Locale{$human}/package.json", json_encode($package, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
     foreach ($files as $file) {
-        if (!$file->isDot() && $file->getExtension() === "po") {
-            // Clean-up msgctxt
-            $newContent = [];
-            foreach(file($file->getPathname()) as $line) {
-                if (preg_match("/^msgctxt /i", $line)) {
-                    // Skip
-                    $keep = false;
-                }
-                if (preg_match("/^msgid /i", $line)) {
-                    // Skip
-                    $keep = true;
-                }
+        if (!$file->isDot() &&
+            $file->getExtension() === "po") {
 
-                if ($keep) {
-                    $newContent[] = $line;
+            // With context
+            $withContext = preg_match("/^c_/", $file->getFilename()) === 1;
+
+            // Clean-up msgctxt
+            if (!$withContext) {
+                $newContent = [];
+                foreach (file($file->getPathname()) as $line) {
+                    if (preg_match("/^msgctxt /i", $line)) {
+                        // Skip
+                        $keep = false;
+                    }
+                    if (preg_match("/^msgid /i", $line)) {
+                        // Skip
+                        $keep = true;
+                    }
+
+                    if ($keep) {
+                        $newContent[] = $line;
+                    }
                 }
             }
             file_put_contents($file->getPathname(), implode("", $newContent));
 
             // Copy
-            $moName = str_replace(".po", ".mo", $file->getPathname());
-            echo "msgfmt -o {$name}/resources/translations/{$moName} {$file->getPathname()} \n";
-            exec("msgfmt -o {$name}/resources/translations/{$moName} {$file->getPathname()}");
+            exec("cp {$file->getPathname()} {$name}/resources/translations/{$file->getFilename()}");
         }
-
     }
 
     $version = $package["version"];
