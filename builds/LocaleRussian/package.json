@@ -1,7 +1,7 @@
 {
     "name": "LocaleRussian",
     "type": "module",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "description": "Russian translations.",
     "dependencies": {
         "system": {
