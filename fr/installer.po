@@ -39,10 +39,10 @@ msgid "Details"
 msgstr "Détails"
 
 msgid "Drop your module here"
-msgstr "Lachez votre module ici"
+msgstr "Lâchez votre module ici"
 
 msgid "Host"
-msgstr "hôte"
+msgstr "Hôte"
 
 msgid "Install"
 msgstr "Installer"
@@ -147,10 +147,10 @@ msgstr ""
 "mis à jour"
 
 msgid "Status"
-msgstr "Status"
+msgstr "Statut"
 
 msgid "The database connection failed. Please, check the entered information."
-msgstr "chec de la connexion. Merci de vérifier vos informations"
+msgstr "Échec de la connexion. Merci de vérifier vos informations"
 
 msgid "The entered password confirmation does not match the entered password."
 msgstr "La confirmation du mot de passe n'est pas correct"
@@ -192,7 +192,7 @@ msgstr ""
 
 msgid "Unable to check for updates now. Please, try again later."
 msgstr ""
-"Impossible de vérifier les mises à jour maintenant . Veuillez réessayer plus "
+"Impossible de vérifier les mises à jour maintenant. Veuillez réessayer plus "
 "tard."
 
 msgid "Unable to connect to your FTP. Please check the connection information."
@@ -213,7 +213,7 @@ msgid "Unable to fetch the update. Please, try again later."
 msgstr "Impossible de récupérer la mise à jour . Veuillez réessayer plus tard."
 
 msgid "Unable to open the archive."
-msgstr "Impossible d'ouvrir l'archive"
+msgstr "Impossible d'ouvrir l'archive."
 
 msgid ""
 "Unable to open the file. Please, make sure that you sent a valid archive."
@@ -235,7 +235,7 @@ msgstr "Version"
 
 msgid "We are checking for updates. Please, do not refresh the page."
 msgstr ""
-"Nous vérifions les mises à jour . S'il vous plaît , ne rafraîchissez pas la "
+"Nous vérifions les mises à jour. S'il vous plaît, ne rafraîchissez pas la "
 "page"
 
 msgid "You already have installed this template."
