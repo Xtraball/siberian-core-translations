@@ -1,7 +1,7 @@
 {
     "name": "LocaleDutch",
     "type": "module",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "Dutch translations.",
     "dependencies": {
         "system": {

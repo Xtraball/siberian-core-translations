@@ -1,7 +1,7 @@
 {
     "name": "LocaleChineseSimplified",
     "type": "module",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "ChineseSimplified translations.",
     "dependencies": {
         "system": {

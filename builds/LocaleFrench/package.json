@@ -1,7 +1,7 @@
 {
     "name": "LocaleFrench",
     "type": "module",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "French translations.",
     "dependencies": {
         "system": {
